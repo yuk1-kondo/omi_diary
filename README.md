@@ -1,0 +1,1 @@
+# omi_diary
