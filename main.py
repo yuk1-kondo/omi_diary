@@ -1,6 +1,6 @@
 import os
 import base64
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from typing import Optional
 from fastapi import FastAPI, Request, Query
 from fastapi.responses import JSONResponse, HTMLResponse
@@ -12,6 +12,7 @@ GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_REPO = os.getenv("GITHUB_REPO")
 GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "main")
 GITHUB_API_URL = "https://api.github.com"
+JST = timedelta(hours=9)
 
 def get_github_headers():
     return {"Authorization": f"Bearer {GITHUB_TOKEN}", "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
@@ -42,9 +43,11 @@ def generate_diary_entry(conversation: dict) -> str:
     time_str = ""
     if created_at:
         try:
-            time_str = datetime.fromisoformat(created_at.replace("Z", "+00:00")).strftime("%H:%M")
+            dt = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
+            dt_jst = dt + JST
+            time_str = dt_jst.strftime("%H:%M")
         except:
-            time_str = datetime.now(timezone.utc).strftime("%H:%M")
+            time_str = (datetime.now(timezone.utc) + JST).strftime("%H:%M")
     icons = {"personal": "👤", "education": "📚", "health": "🏥", "finance": "💰", "technology": "💻", "business": "💼", "social": "👥", "travel": "✈️", "food": "🍽️", "entertainment": "🎬", "other": "💬"}
     entry = f"\n### {icons.get(category, '💬')} {title}\n\n**時間**: {time_str}  \n**カテゴリ**: {category}\n\n{overview}\n"
     action_items = structured.get("action_items", [])
@@ -82,9 +85,11 @@ async def webhook(request: Request, uid: str = Query(None)):
     conversation = body if isinstance(body, dict) else {}
     created_at = conversation.get("created_at", "")
     try:
-        date = datetime.fromisoformat(created_at.replace("Z", "+00:00")).strftime("%Y-%m-%d") if created_at else datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        dt = datetime.fromisoformat(created_at.replace("Z", "+00:00")) if created_at else datetime.now(timezone.utc)
+        dt_jst = dt + JST
+        date = dt_jst.strftime("%Y-%m-%d")
     except:
-        date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        date = (datetime.now(timezone.utc) + JST).strftime("%Y-%m-%d")
     diary_entry = generate_diary_entry(conversation)
     file_path = get_diary_path(date)
     existing = await get_file_content(file_path)
