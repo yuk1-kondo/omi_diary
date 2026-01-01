@@ -111,5 +111,3 @@ async def test():
 @app.get("/health")
 async def health():
     return {"status": "ok", "github_configured": bool(GITHUB_TOKEN and GITHUB_REPO), "repository": GITHUB_REPO}
-
-handler = app
