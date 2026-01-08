@@ -1,0 +1,143 @@
+{
+  "id": "0ba2b7e1-4b26-4bae-a5a1-2f996000996c",
+  "created_at": "2026-01-08T23:34:09.639781+00:00",
+  "started_at": "2026-01-08T23:34:12.073081+00:00",
+  "finished_at": "2026-01-08T23:34:59.408430+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "吹奏楽部写真フォルダ共有とデータ形式の説明",
+    "overview": "先生からGmailで共有リンクが送られ、そのメールをクリックすると「吹奏楽部 写真」というフォルダが表示される説明がされている。フォルダ内には編集に使いやすいJPEGデータと、容量が大きくスマホでは重くなりがちなRAWデータがあり、同じ写真が両方に入っているため、基本的にはJPEGを使うよう案内している。最後にこれらを共有することで話がまとまっている。",
+    "emoji": "📸",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "b0abc790-3c81-4488-8059-13ca63cd8152",
+      "text": "",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.47955313170678e-07,
+      "end": 1.2000002479553586,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f9071bec-9304-44e0-9622-1d271e7ca4b2",
+      "text": "",
+      "speaker": "SPEAKER_4",
+      "speaker_id": 4,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.2000002479553586,
+      "end": 2.960030247955274,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "289e0a92-de23-4670-a822-472fd1f71055",
+      "text": "オッケーたださそれ共有するから多分先生からGmailが います、メールが。それクリックしたら、この水槽学部 写真っいうフォルダが表示されるようになるから、ここに",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.960030247955274,
+      "end": 14.680000247955377,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8a7041fc-8a8d-49f8-a474-1652aadc6d5c",
+      "text": "",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 14.680000247955377,
+      "end": 15.160040247955294,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f27c1757-2da6-41e3-b4d5-23a6668cf85f",
+      "text": "JPEGって書いたのは多分みんなが編集 するときに使いやすいデータになてます。で、このRAWっいうのが多分 開こうと思っても表示されへんかったり、開くのかな な見れるのかなれる 開けるのは開けるかもしらんな めちゃ容量でかいから 多分スマホが重たくなったりすると思うので 同じのがこっちのJPEGに入ってるん。これを使ってもらった方が いいかなと思いますということで",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 15.160040247955294,
+      "end": 51.8900002479553,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "79bcc70d-17e8-4413-8556-3bbd9f1552ee",
+      "text": "ぐ共有しますので。ありがとうございます。はい、それでいきましょう。",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 51.8900002479553,
+      "end": 51.97004024795535,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJz6P3XNDmAGARoGJG-W3LiUw",
+    "latitude": 34.69885770928708,
+    "longitude": 135.51702069905727,
+    "address": "2-39 Matsugaechō, Kita Ward, Osaka, 530-0037, Japan",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "68343eb3-87d2-4338-b04f-748a7e11512c",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "0ba2b7e1-4b26-4bae-a5a1-2f996000996c",
+      "chunk_timestamps": [
+        1767915249.453,
+        1767915255.578,
+        1767915260.88,
+        1767915265.988
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-08T23:34:09.453000+00:00",
+      "duration": 21.535
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 共有フォルダの案内  \n- 先生からGmailで共有リンクが届く  \n- 「吹奏楽部 写真」フォルダが表示される  \n\n## データ形式の説明  \n- JPEGは編集しやすい形式で用意されている  \n- RAWは容量が大きく、スマホが重くなりやすい  \n- 同じ写真がJPEGフォルダにも入っている  \n\n## 利用の推奨  \n- 編集にはJPEGデータを使うよう推奨  \n- RAWは基本不要だが、必要なら開くことも可能  \n\n## 今後の進め方  \n- 写真フォルダを共有して作業を進行  \n- Gmailのリンクから各自アクセスして利用する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
