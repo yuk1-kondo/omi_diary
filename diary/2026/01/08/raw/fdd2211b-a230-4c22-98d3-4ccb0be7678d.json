@@ -1,0 +1,86 @@
+{
+  "id": "fdd2211b-a230-4c22-98d3-4ccb0be7678d",
+  "created_at": "2026-01-08T14:49:18.253742+00:00",
+  "started_at": "2026-01-08T14:49:23.419344+00:00",
+  "finished_at": "2026-01-08T14:50:15.977168+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "AIツール乗り換えと今後の利用方針メモ",
+    "overview": "話し手は今日からClubedCord（クロードコード？）の利用を開始したが、操作が面倒で分からない点が多いと感じている。これに伴い、ChatGPTを解約し、当面はクロードコードをメインで使う方針。ただし、来週〜再来週に予定されているChatGPTのCodeXウェビナーの期間中は、CodeXも並行して利用するつもりであることを述べ、眠くなったのでここまでにして就寝すると締めくくっている。",
+    "emoji": "🤖",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "297a2eba-5645-4692-814d-ba22580e6f13",
+      "text": "今日からClubedCordを使い始めました。 めちゃめちゃ面倒くさいです。 分からんことが多すぎる。 スピナーすごいっ言ってるから ChatGPTは解約して しばらくクロードコードで行こうと思います。 チャットGPTのコードXのウェビナーが 来週再来週たるので、えー、その間は CODEXも使っていこうと思っています メインは 玄人コードに変えていこうと思います。 は眠たいので、ここま おやすみなさい。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.435943601916904e-07,
+      "end": 52.16000054359436,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJVVXFTavgAGARSWjx7-joD7U",
+    "latitude": 34.66352691904619,
+    "longitude": 135.5255531710317,
+    "address": "2-51 Fudegasakichō, Tennoji Ward, Osaka, 543-0027, Japan",
+    "location_type": "establishment"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "2345d576-ed3a-4c9b-bd93-0a5b087b0db1",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "fdd2211b-a230-4c22-98d3-4ccb0be7678d",
+      "chunk_timestamps": [
+        1767883759.07,
+        1767883764.085,
+        1767883770.579,
+        1767883776.032,
+        1767883781.163,
+        1767883786.451,
+        1767883792.418,
+        1767883797.713,
+        1767883803.006,
+        1767883808.281,
+        1767883813.912
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-08T14:49:19.070000+00:00",
+      "duration": 59.842
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 新ツール利用開始\n- 今日からClubedCordを使い始めた\n- 操作が面倒で分からないことが多い\n\n## ツール乗り換え方針\n- スピナー評価が高いのでClaude Code中心にする予定\n- ChatGPTは一旦解約予定\n- しばらくClaude Codeをメイン利用予定\n\n## CODEX併用計画\n- ChatGPTのCODEXウェビナーが来週か再来週にある\n- ウェビナー期間中はCODEXも併用して使う予定\n\n## 次のステップ\n- Claude Code運用に慣れる\n- CODEXウェビナー参加後、ツール構成を再検討"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
