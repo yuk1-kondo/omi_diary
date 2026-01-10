@@ -1,0 +1,125 @@
+{
+  "id": "2fe6d4c9-bdbf-4c05-a8dd-eadce4453ecb",
+  "created_at": "2026-01-10T04:40:16.090275+00:00",
+  "started_at": "2026-01-10T04:40:39.608288+00:00",
+  "finished_at": "2026-01-10T04:40:53.059701+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "晩ご飯にロピア惣菜を検討する会話",
+    "overview": "話し手は「晩御飯を何も考えていない」としつつ、スーパーのロピアで購入できる惣菜（いわゆる「ロピア飯」）を夕食にする案を口にしている。以前テレビ番組「魔法のレストラン」で取り上げられていたことにも触れながら、ロピア惣菜を夕食にするかどうかを話している段階で、具体的なメニューや予定はまだ決まっていない。",
+    "emoji": "🍱",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "29402893-ddd9-4255-8c74-4ebb75aaee09",
+      "text": "は晩御飯食べるの何も考えてない",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.5285949806507233e-07,
+      "end": 5.179999647140502,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e6e83060-d7da-43e3-b6cf-0b6e89e151ee",
+      "text": "",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.179999647140502,
+      "end": 6.379997647140502,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3c5df9bd-98f8-4c97-8769-309b5a20761f",
+      "text": "ロピア飯、ロピア飯。何、ロピア飯って何ロピアのお惣菜をで食 ティスのやつ。なんかこの前魔法のレストランじゃってて。マホレス。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 6.699999647140501,
+      "end": 12.709999647140506,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJ1aKerFTnAGARWc0WoLgmqUY",
+    "latitude": 34.664054604427655,
+    "longitude": 135.52510471509038,
+    "address": "6-12-330761 Fudegasakichō, Tennoji Ward, Osaka, 543-0027, Japan",
+    "location_type": "street_address"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "8e5b98ec-83a5-48fc-a974-262b1a7b7ce2",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "2fe6d4c9-bdbf-4c05-a8dd-eadce4453ecb",
+      "chunk_timestamps": [
+        1768020016.797,
+        1768020022.442,
+        1768020028.076,
+        1768020034.048,
+        1768020041.64,
+        1768020048.752,
+        1768020054.2,
+        1768020060.366,
+        1768020065.456,
+        1768020086.191,
+        1768020092.25,
+        1768020097.54,
+        1768020103.519,
+        1768020109.388,
+        1768020115.467,
+        1768020121.256,
+        1768020126.736,
+        1768020132.59,
+        1768020138.414,
+        1768020144.653,
+        1768020149.759,
+        1768020154.998,
+        1768020161.078,
+        1768020167.005
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-10T04:40:16.797000+00:00",
+      "duration": 155.208
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 晩ご飯の話題\n- 晩ご飯の内容がまだ決まっていない  \n- 「ロピア飯」という案が出る  \n\n## ロピア飯について\n- ロピアのお惣菜を使ったご飯のこと  \n- この前「魔法のレストラン」で紹介されていた  \n\n## 次のステップ\n- 晩ご飯をロピア飯にするか検討する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
