@@ -1,0 +1,100 @@
+{
+  "id": "0be2691f-ee34-46a7-87ba-908e5f048636",
+  "created_at": "2026-01-10T10:21:23.220979+00:00",
+  "started_at": "2026-01-10T10:21:36.165774+00:00",
+  "finished_at": "2026-01-10T10:21:48.734081+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "食事と昔の仕事に関する雑談",
+    "overview": "誰かが何かを食べたことについて「すごいね」と感想を述べ、その流れで別の話者が「昔の仕事としてここら辺…」と、自分の過去の仕事に関連する場所について話し始めている短い会話の一部。",
+    "emoji": "💬",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "60a22a21-e408-4699-97fb-f9ec22739d10",
+      "text": "",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.239777702721767e-07,
+      "end": 1.840199876022325,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4d1cbe4b-6092-411c-b707-a9f231f5afd9",
+      "text": "?食べた。すごいね",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.239999876022466,
+      "end": 3.1199998760221206,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4e12ff38-560b-4961-9111-5e2d3195cc54",
+      "text": "昔のお仕事として ここら辺",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.299999876022412,
+      "end": 7.089999876022375,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "79016c01-f582-485e-b7aa-dab5c070911f",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "0be2691f-ee34-46a7-87ba-908e5f048636",
+      "chunk_timestamps": [
+        1768040482.464,
+        1768040488.103,
+        1768040493.614,
+        1768040499.707,
+        1768040504.816
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-10T10:21:22.464000+00:00",
+      "duration": 27.352
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話の内容\n- 食事についての話題が出る\n- 「すごいね」と食事に対する感想\n- 昔の仕事が「ここら辺」に関係していたと発言\n\n## 不明点・不足情報\n- 具体的な食べ物の内容は不明\n- どんな仕事か詳細は不明\n- 場所「ここら辺」がどこか不明\n\n## 次のステップ\n- 食事の内容や状況を詳しく確認する\n- 昔の仕事の具体的な内容を聞く\n- 「ここら辺」が指す場所を特定する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
