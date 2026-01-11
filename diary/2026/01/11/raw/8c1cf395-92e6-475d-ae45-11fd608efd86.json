@@ -1,0 +1,142 @@
+{
+  "id": "8c1cf395-92e6-475d-ae45-11fd608efd86",
+  "created_at": "2026-01-11T07:50:47.931173+00:00",
+  "started_at": "2026-01-11T07:50:50.775800+00:00",
+  "finished_at": "2026-01-11T07:52:05.716715+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "汚れの確認とトイレ探しの一場面",
+    "overview": "複数人が衣服や体の「胸の下」や「脇」の汚れを気にしながら状況を確認している中で、一人が音声アシスタントAlexaに「トイレを見つけて」と依頼し、近くのトイレを探そうとしている短い場面が記録されている。",
+    "emoji": "🚻",
+    "category": "real",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "d2983cd5-71f4-43c4-8820-582f6d3e5bad",
+      "text": "待ってと",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.0975343179306947e-07,
+      "end": 0.8000003097536137,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c3d2354f-edca-47c9-8c74-ca0307094c39",
+      "text": "待っ待って",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.1502003097534725,
+      "end": 3.5502003097535635,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3a18fc0a-c701-438a-97cd-e1b149497d07",
+      "text": "結構汚れてると思う多分胸の下とか脇のところ強い",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 18.410200309753236,
+      "end": 23.050200309753563,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9140669b-b33c-4aca-9fff-6a252c833a47",
+      "text": "Alexa、トイレを見つけて。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 71.28020030975358,
+      "end": 73.36030030975326,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1cbc36a4-44e0-4b5d-9e76-f7b27665faf8",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "8c1cf395-92e6-475d-ae45-11fd608efd86",
+      "chunk_timestamps": [
+        1768117847.147,
+        1768117853.108,
+        1768117859.247,
+        1768117865.375,
+        1768117871.544,
+        1768117876.644,
+        1768117883.114,
+        1768117888.261,
+        1768117894.221,
+        1768117899.517,
+        1768117904.649,
+        1768117910.423,
+        1768117915.782,
+        1768117921.238,
+        1768117926.983,
+        1768117932.271,
+        1768117937.405,
+        1768117946.281,
+        1768117951.392,
+        1768117957.351,
+        1768117963.171,
+        1768117968.641,
+        1768117974.415,
+        1768117979.59,
+        1768117985.69,
+        1768117991.546,
+        1768117997.696,
+        1768118002.752,
+        1768118008.911,
+        1768118015.765,
+        1768118022.012,
+        1768118028.541,
+        1768118033.637,
+        1768118038.761
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-11T07:50:47.147000+00:00",
+      "duration": 196.614
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話の状況\n- 服や体の汚れを気にしている  \n- 汚れ箇所は胸の下や脇と発言  \n\n## アクション\n- Alexa にトイレの場所を尋ねる  \n- トイレを探して移動しようとしている  \n\n## 次のステップ\n- トイレで汚れを確認・拭き取る  \n- 必要なら着替えや洗濯を検討する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
