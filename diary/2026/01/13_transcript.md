@@ -1259,3 +1259,455 @@ Yeah. So so the that might have been
 
 ---
 
+
+
+## 📝 Group Shares Murder Case And Car Crash Story - 71952686-4864-4637-83b8-71637dba87f1
+
+**記録時間**: 2026-01-13 19:24:05
+
+### STT生テキスト
+
+👤 あなた [0s - 4s]
+Maybe your next g sets, you could put in little kind of
+
+🎤 SPEAKER_8 [4s - 8s]
+How do you think I managed almost several operations?
+
+🎤 SPEAKER_4 [10s - 13s]
+Yeah. What a singing? Yeah.
+
+🎤 SPEAKER_1 [13s - 20s]
+Yeah. With a mirror. Yeah. Well, clearly, you need a mirror.
+
+🎤 SPEAKER_7 [28s - 30s]
+Especially with heart operation.
+
+🎤 SPEAKER_4 [30s - 33s]
+Absolutely. Yeah. Yeah. The open heart operation was a real trip tester.
+
+🎤 SPEAKER_9 [41s - 50s]
+To be honest, I think that was when I realized that I'd I'd going to correct Britain. Was not near as opposed to being a It was when, you know, always end up with it. Yeah. Oh, yeah.
+
+🎤 SPEAKER_4 [50s - 51s]
+Yeah.
+
+🎤 SPEAKER_1 [51s - 56s]
+So Well, yeah, class flew, but I'm not sure if he's gonna be alive.
+
+🎤 SPEAKER_9 [56s - 56s]
+Yeah.
+
+🎤 SPEAKER_8 [57s - 61s]
+Oh, how how's your eyesight now? I can sit quick
+
+🎤 SPEAKER_2 [65s - 65s]
+Yeah.
+
+👤 あなた [66s - 69s]
+Do you know the story behind that song?
+
+🎤 SPEAKER_9 [69s - 80s]
+No? There was a a a guy who was married to a very abusive woman called Lorraine, and and she she was horrible, she just she made his life misery.
+
+🎤 SPEAKER_9 [80s - 93s]
+And he he happened to meet a a woman that he fell in love with but he was already married to Lorraine. And and so although he was in love with Deirdre, he he he he didn't he couldn't he couldn't see her for a while.
+
+🎤 SPEAKER_9 [93s - 99s]
+And then he finally snatched and he he went to Beachy Head with his wife for a picnic. And and he said, darling, come come here.
+
+🎤 SPEAKER_9 [99s - 104s]
+Look look at this dude. He's around. What what about that? And she went over the cliff. And that's when he sang, I can see dear
+
+🎤 SPEAKER_8 [104s - 105s]
+Drew now Lorraine has got.
+
+🎤 SPEAKER_1 [105s - 109s]
+You see?
+
+🎤 SPEAKER_7 [120s - 122s]
+I've actually dealt with that.
+
+🎤 SPEAKER_1 [122s - 125s]
+Incident. Well, we've put the way you start.
+
+🎤 SPEAKER_7 [125s - 126s]
+Oh, right.
+
+🎤 SPEAKER_6 [126s - 126s]
+Okay.
+
+🎤 SPEAKER_7 [130s - 130s]
+Really?
+
+🎤 SPEAKER_1 [131s - 132s]
+Oh, blindly.
+
+🎤 SPEAKER_7 [132s - 137s]
+I pushed my wife over the edge several times, but never on the call has to do. No. They won't go and
+
+🎤 SPEAKER_9 [140s - 141s]
+She always wants you on the on the
+
+🎤 SPEAKER_9 [145s - 146s]
+She slip.
+
+🎤 SPEAKER_7 [146s - 149s]
+No. Yeah. She'd have never walk in the coastal pass.
+
+🎤 SPEAKER_1 [150s - 151s]
+Well, that's the thing.
+
+🎤 SPEAKER_5 [151s - 154s]
+How'd you guys know it was a murderer in that particular case?
+
+🎤 SPEAKER_4 [163s - 167s]
+It was a particularly happy marriage. What have you ordered? Oh, is she?
+
+🎤 SPEAKER_7 [168s - 172s]
+Got off with the teacher from her school who was like twenty years younger.
+
+🎤 SPEAKER_4 [172s - 172s]
+Oh, wow.
+
+🎤 SPEAKER_1 [172s - 175s]
+And and he was a headmaster
+
+👤 あなた [176s - 178s]
+You're a head Mhmm.
+
+🎤 SPEAKER_7 [178s - 181s]
+Of whatever year it was. He my kids school.
+
+👤 あなた [181s - 189s]
+Mhmm. I mean, it really hit the community. Oh, wow. Because these two really well known teachers. Know? Yeah. They're really But she was a bit
+
+🎤 SPEAKER_7 [190s - 191s]
+I don't know.
+
+🎤 SPEAKER_6 [191s - 193s]
+She she was a bit of a feisty woman.
+
+🎤 SPEAKER_7 [193s - 201s]
+Mhmm. But also, think going through a midlife crisis. Mhmm. When I moved in with this teacher a junior.
+
+👤 あなた [201s - 212s]
+So they went to walk the coast pass, the dog to talk about, like, their divorce and separation and whatever. They were both outdoor walkers.
+
+👤 あなた [212s - 218s]
+So for them, going for a walk, if they're going through a divorce, it like, oh, we're going for a war.
+
+🎤 SPEAKER_7 [218s - 223s]
+And what happened then? She never returned.
+
+👤 あなた [225s - 230s]
+So he's main mistake and it always is is always make himself at the city.
+
+🎤 SPEAKER_4 [230s - 231s]
+Yeah. Yeah.
+
+🎤 SPEAKER_9 [231s - 239s]
+Yeah. Try to help. No. Yeah. I'm at the scene, and that is down to everybody else to prove your intent.
+
+👤 あなた [239s - 239s]
+Yes.
+
+🎤 SPEAKER_7 [239s - 248s]
+It is. And if you just save us it there. She slipped before. You prove it. You've got a Spanish fish and trawler outside. Yeah. Five miles off just looking up to And that was pushing
+
+🎤 SPEAKER_4 [249s - 251s]
+Yeah. I mean, you you're a little off in.
+
+🎤 SPEAKER_7 [251s - 255s]
+Yeah. But he didn't he panicked. She went over.
+
+🎤 SPEAKER_1 [255s - 257s]
+We suspect was an argument.
+
+👤 あなた [258s - 272s]
+Yeah. And lost it and she's gone. You know? Because she did humiliate him a lot. And I this is we suspect he he cracked. Yeah. But instead of just phoning police, Coast Guard, and then reporting it and saying she's slipped.
+
+👤 あなた [272s - 282s]
+He left the scene got in his car, drove into town, went to the cash point to to get money out to give himself, like, time and date stamp.
+
+👤 あなた [282s - 286s]
+Then went back to his house and just left him with that.
+
+🎤 SPEAKER_6 [286s - 290s]
+Unfortunately, for him, there were other people walking for me, guitar part.
+
+👤 あなた [291s - 299s]
+We had description of the back of the to okay, trace. And he fitted the description of birth. No. Yeah. And they did an item identification process.
+
+👤 あなた [299s - 301s]
+He's on an identity. But he always denied being that.
+
+🎤 SPEAKER_1 [301s - 302s]
+He'd like to to lie after that.
+
+🎤 SPEAKER_7 [302s - 304s]
+So in the end, he admits it.
+
+👤 あなた [311s - 330s]
+Why did this day? It's totally illogical. Mhmm. It's like they took it and we need to down the house. Mhmm. One. Okay. It's relocated into, like, travel routes or a family members? They put him in one of the police cells, but, you know, I'm the arrest.
+
+👤 あなた [330s - 333s]
+And they put somebody there to sit with him to bed babysitter. Alright.
+
+🎤 SPEAKER_1 [334s - 335s]
+He's not under arrest.
+
+👤 あなた [336s - 349s]
+So after being there for overnight and a while, he just cracked in the end. Yeah. And he just volunteered the fact. Unsolicited supposedly that he has been on the phone.
+
+🎤 SPEAKER_7 [349s - 354s]
+And that the dog was yapping, and she dog wrapped after saw her leg.
+
+👤 あなた [367s - 380s]
+And that's it. He got two years. He wife his mother-in-law Yeah. Wept the court. He gave him a cashback. Because she all the families, children, were grown up.
+
+👤 あなた [380s - 390s]
+They all went. It was a really well respect man. But something happened on that turf top. We suspect he he just lost it with her. Yeah. She's
+
+🎤 SPEAKER_7 [391s - 393s]
+But he he just liked.
+
+👤 あなた [393s - 403s]
+Mhmm. And then when we did the forensics, we banned mud from the cliff top in the shower. And his boots. So we were able to connect him to the cliff top.
+
+🎤 SPEAKER_7 [403s - 407s]
+Yeah. And he deserved to be banged up for so much more into the shower with the bricks on.
+
+🎤 SPEAKER_9 [407s - 408s]
+That's just I know.
+
+👤 あなた [409s - 416s]
+It's long, you're wrong. You know, the school changing And letting the dog go over the cliff.
+
+🎤 SPEAKER_9 [417s - 419s]
+With with the life. I mean, the innocent bystander.
+
+🎤 SPEAKER_8 [421s - 422s]
+Leave no evidence.
+
+🎤 SPEAKER_4 [422s - 424s]
+Leave no witnesses. You know what I No. I know. Dog at all.
+
+🎤 SPEAKER_6 [425s - 429s]
+All the remnants of the dog washed up in Ambras, but we never had to bother him.
+
+👤 あなた [430s - 432s]
+But, yeah, it was really just exactly like that.
+
+🎤 SPEAKER_7 [432s - 446s]
+I It was just but he he he got two years because they could never charge him with murder because the police inspector, the DI that was running the case, like, we'll never get this pass quickly.
+
+🎤 SPEAKER_4 [446s - 453s]
+Because the the circumstances of the confession. He's he's detaining it, keeping it in there, way the evidence came out.
+
+👤 あなた [453s - 477s]
+Yeah. And and he thought everything like it was gonna be. Keep me out a job years ago where he goes and I know on a truck Mhmm.
+
+👤 あなた [477s - 486s]
+Because going was to push Yeah. But the fact that he lied about it, like, cats. Yeah. We're gonna support it. That that was your intention Yeah.
+
+🎤 SPEAKER_4 [486s - 487s]
+In a long.
+
+🎤 SPEAKER_7 [487s - 489s]
+Yeah. But in the end, we see the deal too.
+
+👤 あなた [489s - 497s]
+We gave Realistically, that's a you, ain't it? Or, you know, a bit? And he came out, and he went to live with his moment or Did he? Wow.
+
+🎤 SPEAKER_8 [498s - 498s]
+Wow.
+
+🎤 SPEAKER_6 [500s - 509s]
+He was a really well respected teacher. Please don't miss my so he's completely out of character. Just lost it. Just lost it.
+
+👤 あなた [509s - 516s]
+Yeah. So whenever I talk in our family, we're about the perfect murder. It's like, cliff top walk, isn't it? Walk the coast path.
+
+🎤 SPEAKER_7 [516s - 521s]
+And they've slipped. So Yeah. Ronald never go walk in the coast path.
+
+🎤 SPEAKER_5 [527s - 530s]
+I got to win. You gotta go? I'm gonna go.
+
+🎤 SPEAKER_4 [530s - 532s]
+See you after. Yeah.
+
+🎤 SPEAKER_7 [532s - 533s]
+I'll yeah.
+
+👤 あなた [533s - 537s]
+I gotta go and do some decorate it tonight.
+
+🎤 SPEAKER_1 [537s - 537s]
+Yep.
+
+🎤 SPEAKER_4 [537s - 539s]
+If you he does give me the camera
+
+🎤 SPEAKER_5 [540s - 545s]
+Cheers. Well, Rachel just told me. I just I'm a name driver. Rachel's the actual it's under her name.
+
+🎤 SPEAKER_4 [545s - 552s]
+So she's on the case now. I've just I just left her voice message, but but Olivia. I got I don't wanna mess my tetris telescope.
+
+🎤 SPEAKER_4 [552s - 559s]
+Wanna get back for it. It's it's out. Out for delivery. I got a lot of reading to do. Alright. See you, And we have a good day. Alright.
+
+🎤 SPEAKER_8 [559s - 559s]
+Yeah.
+
+🎤 SPEAKER_9 [559s - 561s]
+Yes. We will I'll get in touch
+
+🎤 SPEAKER_7 [562s - 564s]
+Yep. About podcast. I
+
+🎤 SPEAKER_8 [564s - 568s]
+So because I offer a free account, but it limits Oh,
+
+🎤 SPEAKER_4 [568s - 568s]
+I see.
+
+🎤 SPEAKER_1 [573s - 576s]
+To pay. But now is is a partner with Spotify, it'll be on there.
+
+🎤 SPEAKER_4 [576s - 578s]
+Right. Okay.
+
+🎤 SPEAKER_2 [578s - 579s]
+Yeah.
+
+🎤 SPEAKER_4 [579s - 583s]
+We'll have a look at that. Alright. I'll do some more research. Great.
+
+🎤 SPEAKER_6 [583s - 586s]
+That's where I've got to, and I've remind myself this morning.
+
+🎤 SPEAKER_1 [588s - 589s]
+Thank you.
+
+🎤 SPEAKER_4 [589s - 593s]
+See you later, gents. Yeah. Good to see you. Yeah. See you.
+
+🎤 SPEAKER_1 [702s - 704s]
+Minor crash with a royal mail back.
+
+🎤 SPEAKER_4 [705s - 706s]
+Worry. You know? You're really frustrating
+
+🎤 SPEAKER_5 [707s - 717s]
+Woo. Drove 1 Barry Road Hill. You know, where you drive down the hill, then you have to stop to let cars come up the hill by the Joanna Park Stadium.
+
+🎤 SPEAKER_5 [718s - 734s]
+Well, we were I was following beyond the Royal Mailman, and we stopped to give way to cars coming up the hill. And for reason, beyond need, a royal male van went to reverse and just reverse really fast I was beeping out of it.
+
+🎤 SPEAKER_1 [734s - 736s]
+So and I've been pretty pretty
+
+🎤 SPEAKER_5 [736s - 749s]
+I was just so frustrated because it was like, you're reversing so fast. And so far, we had a good few meters between us. More than that, he just reversed really fast that the car didn't see me, obviously.
+
+🎤 SPEAKER_5 [752s - 762s]
+So we've got our I've checked the damage on the EV, and there's a crack there's a crack at another plate, but I can't see any more damage.
+
+🎤 SPEAKER_5 [764s - 771s]
+Will need to probably have it blocked at, which is really annoying, really frustrating, really angry about it to be honest.
+
+🎤 SPEAKER_4 [771s - 777s]
+He was apologetic. Really apologetic. He's given his details. I've taken some photos.
+
+🎤 SPEAKER_4 [781s - 782s]
+I've got his personal detail.
+
+🎤 SPEAKER_4 [795s - 795s]
+Stop act.
+
+🎤 SPEAKER_5 [804s - 811s]
+Oh, for goodness sake. I do. I do. I
+
+🎤 SPEAKER_1 [811s - 814s]
+Have I left can you have I left my hat there,
+
+🎤 SPEAKER_4 [814s - 825s]
+Jonathan? Are you still there? Yeah. Still there. Like What you look like? Might be like a woody hat, like a gray hat. I mean, not brought one, but I just got I normally do.
+
+🎤 SPEAKER_5 [825s - 830s]
+There's a black one? Is it like fleece on the inside?
+
+🎤 SPEAKER_1 [831s - 834s]
+With a 25 oh, Is this yours, Johnny? Yes.
+
+🎤 SPEAKER_9 [834s - 840s]
+Yeah. Right. So it's your that's Johnny's. No. I don't think I think you left the hat here.
+
+🎤 SPEAKER_5 [840s - 841s]
+Alright. Good. I know.
+
+🎤 SPEAKER_9 [841s - 843s]
+No. There's the rich one. There's the rich one. There's There's a one.
+
+🎤 SPEAKER_5 [843s - 849s]
+There's gray? With a gray fleece to the inside. Yeah. That's mine. Would you mind picking it grabbing it for me?
+
+🎤 SPEAKER_8 [849s - 849s]
+Yeah.
+
+🎤 SPEAKER_9 [849s - 852s]
+Sure. I'll Charlie says he'll cut it off to you. Do you want the
+
+🎤 SPEAKER_1 [852s - 854s]
+Oh, it's not a gin loads.
+
+🎤 SPEAKER_5 [854s - 857s]
+I got three at home, so there's no rush if you want to see again. But
+
+🎤 SPEAKER_8 [857s - 858s]
+That's alright.
+
+🎤 SPEAKER_5 [858s - 859s]
+Otherwise, he doesn't have to.
+
+🎤 SPEAKER_4 [859s - 860s]
+I'll just I'll just look after it.
+
+🎤 SPEAKER_8 [860s - 861s]
+I'll bring it around when
+
+🎤 SPEAKER_6 [861s - 861s]
+I when
+
+🎤 SPEAKER_7 [861s - 862s]
+I lay out with you.
+
+🎤 SPEAKER_5 [862s - 863s]
+Yeah.
+
+🎤 SPEAKER_4 [863s - 865s]
+For me to Wednesday. Alright.
+
+🎤 SPEAKER_9 [865s - 868s]
+So he says he's meeting you at the house on Wednesday, so he he'll he'll take it to you.
+
+🎤 SPEAKER_4 [868s - 870s]
+Great. Alright. Thanks, guys.
+
+🎤 SPEAKER_4 [902s - 911s]
+That's what I've also got, you know, the shifties on for the royal mail, and I've got the royal mail. Royal Mail veg number things like that.
+
+🎤 SPEAKER_4 [912s - 923s]
+So I guess I have to report it. I'm gonna have to get a look back because, I mean, to be fair, you're reversing so it could be more than a eight to 10 miles an hour max with farms in terms of collision.
+
+🎤 SPEAKER_4 [923s - 934s]
+And it looks like a number. K? I'll send you the photo now. But but, no, no. Actually just don't know because damage underneath.
+
+🎤 SPEAKER_4 [935s - 941s]
+Really annoyed. So I've still gone to mint breakfast anyway. Feeling a bit frustrated on my side of recording you this message.
+
+
+---
+
