@@ -1,0 +1,89 @@
+{
+  "id": "90824289-05de-4d7e-93dc-8088d9de82b3",
+  "created_at": "2026-01-13T08:02:23.198028+00:00",
+  "started_at": "2026-01-13T08:02:46.775277+00:00",
+  "finished_at": "2026-01-13T08:03:02.365585+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Brief Christmas Exclamation",
+    "overview": "The user repeatedly exclaims that it is Christmas, expressing the moment or mood but without providing further context, plans, or actions.",
+    "emoji": "🎄",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "f5c32d94-bc53-49a0-881b-17c3c663089a",
+      "text": "It's Christmas. It's Christmas.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -3.051757815342171e-07,
+      "end": 1.6799996948242182,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157032,
+    "longitude": -3.2755487,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "022f72d0-a0a5-4fe3-b18c-99efe23f6d55",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "90824289-05de-4d7e-93dc-8088d9de82b3",
+      "chunk_timestamps": [
+        1768291344.372,
+        1768291349.841,
+        1768291359.516,
+        1768291372.079,
+        1768291383.383,
+        1768291395.727,
+        1768291410.061,
+        1768291422.588,
+        1768291433.715,
+        1768291446.313,
+        1768291459.226,
+        1768291471.455,
+        1768291483.557
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T08:02:24.372000+00:00",
+      "duration": 144.185
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+      "content": "Today is Christmas."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
