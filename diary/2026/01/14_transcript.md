@@ -1190,3 +1190,770 @@ Yeah. But that's the that's the extra step, isn't it, really?
 
 ---
 
+
+
+## 📝 Rachel and User Discuss Theology Work And Stargazing - 275a2ef0-282a-47e4-a6a6-fc01acb8deba
+
+**記録時間**: 2026-01-14 03:40:40
+
+### STT生テキスト
+
+👤 あなた [0s - 3s]
+Big Mary Catches light. Long tube makes a big picture.
+
+👤 あなた [7s - 8s]
+I pieced as the zoom.
+
+👤 あなた [109s - 121s]
+Okay. I'm loving the size of blinking mud, Rachel. Good. I I I'm finding that four fifths is to put it's like my limit. Yeah. So it's always a bit left, but I feel satisfied every time.
+
+👤 あなた [122s - 122s]
+Slightly less than
+
+🎤 SPEAKER_2 [124s - 129s]
+Yes. Because the sports by the direct one's actually a bit bigger than that. Is it? That just seemed the perfect
+
+👤 あなた [129s - 130s]
+Yeah.
+
+🎤 SPEAKER_2 [131s - 134s]
+The perfect size. It just seems actually like a man sized mug.
+
+👤 あなた [135s - 135s]
+Yeah.
+
+🎤 SPEAKER_2 [135s - 138s]
+If you want, it's like we have a pint of drink rather than a little cup.
+
+🎤 SPEAKER_3 [138s - 139s]
+Yeah.
+
+🎤 SPEAKER_1 [139s - 145s]
+Exactly. It's great for and then I will reflect on the Where we are with things. Yeah.
+
+👤 あなた [169s - 169s]
+Yeah.
+
+👤 あなた [175s - 177s]
+Tracking she's adapted to having a third person.
+
+🎤 SPEAKER_2 [192s - 199s]
+A bit more functioning fully functioning. So there's less that she's having to do from that. I'm not asking her questions all the time if that helps.
+
+🎤 SPEAKER_2 [200s - 211s]
+Okay. She did golf and one today. So funny. It's the problem is it's it's a bit like, oh, here she goes. I feel well. It's about basically, we're looking at maybe maybe.
+
+🎤 SPEAKER_2 [211s - 221s]
+It's a it's a bigger situation. For the where we've got all these accreditation, the open university so at the moment, if you did in individual modules for the MTH, that's all it is.
+
+🎤 SPEAKER_2 [221s - 232s]
+You don't get anything for it. We could accredit them with ECTE, so you get credits. But if you did enough credits that would be the equivalent of a master's, you wouldn't get a master's.
+
+🎤 SPEAKER_2 [233s - 253s]
+You just get load of credits. Wouldn't actually give you a why But we could get with the OU Yeah. Credit them, and then stack So it's like, well, you know what? You've done all six modules Yeah. And a dissertation all separately in your own time over five years Yeah.
+
+🎤 SPEAKER_2 [253s - 255s]
+We can give you a master's.
+
+🎤 SPEAKER_1 [255s - 255s]
+Right.
+
+🎤 SPEAKER_2 [256s - 258s]
+Which I think is brilliant.
+
+🎤 SPEAKER_1 [258s - 265s]
+Yeah. Because as a pastor, if you didn't have this hobby or if you wanted to do masters, you might say, I don't wanna sign up to a masters, but I might want to.
+
+🎤 SPEAKER_2 [265s - 272s]
+I could do a module or two a year. If I since you're thinking I'm gonna go do one module a year, actually if I kinda get interested, I can see the capacity they're maybe
+
+🎤 SPEAKER_1 [272s - 274s]
+I'll Yeah. Jump onto it.
+
+🎤 SPEAKER_2 [274s - 277s]
+Omi now there is a limited time frame you can do it in.
+
+🎤 SPEAKER_1 [277s - 277s]
+Right.
+
+🎤 SPEAKER_2 [278s - 287s]
+It's something I think the g dip is, like, five years. It's doubled one based on extending circumstances. So if you have to stop for a year because your child's ill, long term, you're allowed to set them out of time.
+
+🎤 SPEAKER_2 [287s - 295s]
+But so it'd be the same in the sense that it'd be like that five years still. I was like, this is a great idea. I mean, okay.
+
+🎤 SPEAKER_2 [296s - 304s]
+Hands go up. Why? Well, I think he's just a bit like, well, if you don't wanna do a master's, then you either wanna do it or you And I think she's just missing es her.
+
+🎤 SPEAKER_2 [304s - 306s]
+She's getting so busy. It's just DMA or The UK master's.
+
+👤 あなた [306s - 307s]
+No. MTH.
+
+🎤 SPEAKER_2 [307s - 313s]
+And GD. Could be with anything. Could even do the BA and all separate modules Now eventually you get a bachelor's from the
+
+👤 あなた [313s - 315s]
+So you're seeing the dissolving of the of the college?
+
+🎤 SPEAKER_2 [315s - 324s]
+Think this is the problem. Her her goal is we have to maintain the integrity of a of a school of theology, whereas actually the heart of union isn't actually that.
+
+🎤 SPEAKER_2 [324s - 334s]
+The heart is we wanna spread I wanna impact the local church, and how best can we do that? Well, actually, getting as much theology out there to more people is better.
+
+🎤 SPEAKER_2 [335s - 345s]
+Than getting master's degree to a few. Yeah. Because those people are probably gonna go and get somewhere anyway. Yeah. But I was I said to fit in after it, was like, well, thought it was a really good idea.
+
+🎤 SPEAKER_2 [345s - 353s]
+He's like, apart from that, Alberta's one. I said, well, I thought it was a really good idea. So he's like, well, set it out. I said, I can just think of people, but it would be a good way.
+
+🎤 SPEAKER_1 [353s - 354s]
+Look. Do one module.
+
+🎤 SPEAKER_2 [354s - 355s]
+See how you get on.
+
+👤 あなた [355s - 361s]
+Do you feel like you're getting you and Ian are getting to know each other a bit more now and it's again a bit easier with Ian.
+
+🎤 SPEAKER_1 [361s - 364s]
+Well, it's hard to Not quite your whole year in yet, obviously.
+
+👤 あなた [364s - 366s]
+I find slightly harder because this rule's changed.
+
+🎤 SPEAKER_1 [366s - 366s]
+Yeah.
+
+🎤 SPEAKER_2 [368s - 375s]
+So he was more line manager. And he is still. But actually, every time you come to him, he's got something. He doesn't really care about what the is.
+
+🎤 SPEAKER_2 [375s - 380s]
+He just wants people to sort it out. No. But I feel like then the weight goes on me
+
+👤 あなた [380s - 382s]
+Yeah. To get Paul and Gary in gear.
+
+🎤 SPEAKER_1 [382s - 385s]
+And he said to me today, I said, oh, sometimes I'm just trying to work out.
+
+🎤 SPEAKER_2 [385s - 397s]
+It's just the final processes, and sometimes I think things are actually teaching to you decisions, but then it kind of comes and I'm thinking, is this gonna get sorted? He's said, you know, feel confident to delegate things and say, need to sort you need to sort that.
+
+🎤 SPEAKER_2 [397s - 398s]
+And I'm there thinking
+
+👤 あなた [399s - 401s]
+I'm not getting paid for that.
+
+🎤 SPEAKER_2 [401s - 407s]
+I'm not getting for paid for that. I think that's what the teaching team should teaching teams should be telling me what they want to happen.
+
+🎤 SPEAKER_4 [407s - 408s]
+Why you tell tell them that then?
+
+🎤 SPEAKER_2 [408s - 409s]
+But that's not the happen.
+
+👤 あなた [409s - 411s]
+Just say the poison, you know.
+
+🎤 SPEAKER_1 [411s - 413s]
+It's not ever gonna happen. Right.
+
+🎤 SPEAKER_2 [413s - 417s]
+Because they just Paul he's not he's like you. He is Abbyn.
+
+🎤 SPEAKER_1 [417s - 421s]
+Nah. I could do an admin job.
+
+🎤 SPEAKER_2 [422s - 430s]
+But then Paul and then they'll film message me saying him and Kate were just having because of course, sorry Kate, having a bit of a a rant about they hate the admin.
+
+🎤 SPEAKER_2 [430s - 444s]
+Label. People think we're admin. And he's right that especially for, like, we're programs coordinator managers. We manage the programs. We make them happen. We're given a syllabus
+
+🎤 SPEAKER_1 [444s - 444s]
+Mhmm.
+
+🎤 SPEAKER_2 [444s - 446s]
+The teachers just turn up.
+
+👤 あなた [446s - 461s]
+Oh, well. Just really six. So so so so so so so administration teams is a bit confusing because people think that what we'd we'd probably do is the advent of it when actually what we're doing is making up a lot of decisions.
+
+🎤 SPEAKER_2 [462s - 469s]
+Right. Well, we are making all the decisions. And I I did replenish delete it and think I well, yeah, I see you too as not do that.
+
+🎤 SPEAKER_2 [469s - 480s]
+Feel like I do sometimes do that, I actually don't mind that. Because I do things that I'd rather have more admin than I would I'm not I don't really wanna be doing all this decision making, frankly. I'm quite happy to do less.
+
+🎤 SPEAKER_2 [481s - 490s]
+I I feel this role is quite professional, and it's a lot more than what I'm being paid to do. But equally, I feel it's a gift to be able to work there.
+
+🎤 SPEAKER_3 [490s - 491s]
+And so the Lord's in that's whatever.
+
+🎤 SPEAKER_2 [491s - 492s]
+It's fine. Yeah.
+
+👤 あなた [493s - 496s]
+Is a bit of a gift to work there, isn't Yeah. Contribute into something. Yeah. So I don't mind.
+
+🎤 SPEAKER_2 [497s - 500s]
+Maths in English. I trust the pay is what a pay is.
+
+🎤 SPEAKER_1 [500s - 502s]
+Yeah. And this is what God's got me to pay.
+
+👤 あなた [503s - 505s]
+I don't know if it's ever been a sneaky conversation with anybody there.
+
+🎤 SPEAKER_1 [505s - 507s]
+How does how do pay rises work here?
+
+🎤 SPEAKER_2 [508s - 510s]
+Yeah. I don't think they go too great.
+
+🎤 SPEAKER_3 [510s - 513s]
+And I think there's that much of a there's not really an HR system.
+
+🎤 SPEAKER_2 [513s - 514s]
+That's the problem.
+
+🎤 SPEAKER_3 [514s - 518s]
+So there are conversations of it in increments, but it's not
+
+👤 あなた [519s - 522s]
+It's not in process. Well, you've got a
+
+🎤 SPEAKER_1 [522s - 523s]
+European, you know.
+
+🎤 SPEAKER_2 [523s - 531s]
+Yeah. Well, that's how helpful. But I think but either way, so I'm not worried. It's not like I'm working for a private company. I'm like, come on.
+
+🎤 SPEAKER_3 [531s - 535s]
+You going on holidays to blink and skiing three times a year.
+
+🎤 SPEAKER_2 [535s - 539s]
+And you're paying me this. Yeah. It's different. This is where working.
+
+👤 あなた [539s - 539s]
+And you know that
+
+🎤 SPEAKER_3 [539s - 542s]
+Ian works for his pay, whatever his pay is. Yeah.
+
+🎤 SPEAKER_2 [542s - 543s]
+And I'm sure no one else is.
+
+👤 あなた [543s - 545s]
+He's probably underpaid.
+
+🎤 SPEAKER_2 [545s - 550s]
+Massively. Underpaid. What he does, he should be on a 100 plus. Checking.
+
+🎤 SPEAKER_3 [551s - 552s]
+But yeah.
+
+👤 あなた [552s - 555s]
+But, Jack in do you get the impression he enjoys his job or no?
+
+🎤 SPEAKER_2 [555s - 570s]
+Yeah. Yeah. He's like, it's fun, isn't it? Whenever there's a problem or a challenge, he loves problem solving. He loves he doesn't get rattled at all by we have got no idea what we're doing or you know, we're using the wrong curriculum from Kiros.
+
+🎤 SPEAKER_2 [570s - 577s]
+We're using eight point o, so she's in point o, which means students are actually supposed to score nine altogether, not eight We pass them on an eight.
+
+🎤 SPEAKER_2 [577s - 592s]
+Says an eight is a What are we gonna do? He's like, yes. Oh, it's exciting solving problems. And he just jelly us today. He's like, oh, you know, I hope you enjoy it. And he wants to make sure I don't get stressed.
+
+🎤 SPEAKER_3 [592s - 592s]
+So I did say to him.
+
+🎤 SPEAKER_2 [592s - 596s]
+So what I've realized is most people don't actually really know what they're doing. I don't need to feel like
+
+🎤 SPEAKER_1 [597s - 597s]
+Yeah.
+
+🎤 SPEAKER_2 [597s - 607s]
+I'm anyone who doesn't which always the part of the role is always coming to a what's our presence now? That's gone wrong. What are we doing now? It is mainly
+
+🎤 SPEAKER_1 [607s - 607s]
+Yeah.
+
+🎤 SPEAKER_3 [607s - 608s]
+Problems solving.
+
+🎤 SPEAKER_2 [608s - 613s]
+I guess that's just project management, isn't it? How can we develop do this properly in how can we do it better?
+
+🎤 SPEAKER_1 [616s - 618s]
+But yeah.
+
+🎤 SPEAKER_2 [619s - 627s]
+It's nice having a shower in there. I get on with her than I got got on with Hannah. Oh, good. She's having a young woman a bit where shower in is 52. Oh, sorry.
+
+🎤 SPEAKER_2 [627s - 634s]
+It's because it's one kid. It's 52 or something. So in that sense You're closer to early, you bracket. Better with her. We should yeah.
+
+🎤 SPEAKER_3 [634s - 642s]
+Well, yeah, me me, Sharon, and Liz talking about HRT, collagen for our skin, magnesium to help your brain switch off at night when you go to sleep.
+
+🎤 SPEAKER_2 [642s - 647s]
+Good grief. But it's helpful because I don't have friends in that age group at all.
+
+🎤 SPEAKER_1 [647s - 651s]
+They're just that stage ahead, followed in odd bods at church.
+
+🎤 SPEAKER_2 [652s - 657s]
+And I connect more easily with because other people haven't got children. I just feel like I just talk about children.
+
+🎤 SPEAKER_1 [659s - 660s]
+Like, I don't Right.
+
+👤 あなた [660s - 662s]
+Anyways, let's have a look.
+
+🎤 SPEAKER_2 [662s - 663s]
+Okay.
+
+🎤 SPEAKER_3 [664s - 666s]
+Porkwoods, you can't have. There's bag bulb.
+
+🎤 SPEAKER_2 [666s - 669s]
+There's not loads it. You're gonna moan if I can do that.
+
+🎤 SPEAKER_1 [671s - 672s]
+Well, have a spank bowl.
+
+👤 あなた [672s - 679s]
+Well, if we I'd have to spank bowl. What and you have something else. Let's have a look my cheers. It's not like Yeah. Well, that's fine. We can do that.
+
+🎤 SPEAKER_1 [679s - 680s]
+Yeah.
+
+🎤 SPEAKER_2 [680s - 681s]
+I think we can do that.
+
+🎤 SPEAKER_1 [681s - 681s]
+That's fine.
+
+👤 あなた [693s - 695s]
+Do we use up all that garlic bread? You know what we did with me.
+
+🎤 SPEAKER_3 [699s - 700s]
+Not that not that desperate.
+
+🎤 SPEAKER_2 [714s - 718s]
+Need to have this custard by next weekend. Otherwise, it goes to waste.
+
+👤 あなた [718s - 722s]
+Is it oh, it's not been opened that one, is it? Well, what we just get bananas and just do banana custard or something.
+
+🎤 SPEAKER_2 [722s - 723s]
+Oh, Oh, there's
+
+🎤 SPEAKER_3 [728s - 729s]
+Yeah.
+
+🎤 SPEAKER_2 [729s - 732s]
+That's true. Best thing to do with this is add a little bit of liquid to it.
+
+🎤 SPEAKER_3 [733s - 741s]
+That's alright. I mean, to be honest, you do massive portions of the meat because that's what I that's what your family voice says.
+
+🎤 SPEAKER_2 [741s - 746s]
+Says. But I would say that when you're skimmed, you have to have more pasta than you can have.
+
+🎤 SPEAKER_1 [749s - 753s]
+You're gonna say, petrol? So up here Be excited.
+
+👤 あなた [754s - 759s]
+Here is Saturn. Oh, wow. Just up there. I can see it from the I can see it from the garden. That's how helpful.
+
+🎤 SPEAKER_2 [759s - 762s]
+You can know where to The rings, unfortunately, the rings are this time.
+
+👤 あなた [762s - 765s]
+Right. But you can just but they just Just about.
+
+🎤 SPEAKER_1 [765s - 766s]
+Just about making a mount now.
+
+👤 あなた [766s - 771s]
+Whereas before, three months back, it was dead flat almost there.
+
+🎤 SPEAKER_2 [771s - 773s]
+That you can just see. Without a
+
+🎤 SPEAKER_1 [773s - 778s]
+No. I've seen it with you in Verona. It's just a whole thing in it. Matt can have a quick look now in garden moss, so this is boiling.
+
+👤 あなた [782s - 791s]
+Yeah. I'm gonna use the table. All the fellas, I should the god first roof. All the fellas are pretty excited about having a a a gents kind of time out with it.
+
+👤 あなた [792s - 804s]
+And how bright it is if you go up Marine Hill or Okay. Check this out. If you got two seconds, if if it's alright.
+
+🎤 SPEAKER_1 [805s - 808s]
+We know so you got This is a light pollution map. Right? Oh.
+
+🎤 SPEAKER_2 [808s - 810s]
+Right. So elsewhere. Okay. Right.
+
+👤 あなた [810s - 811s]
+So this is Barry.
+
+🎤 SPEAKER_1 [811s - 817s]
+Yeah. No. It's kind of airport. So where we are, we've got fairly bit of light pollution.
+
+🎤 SPEAKER_3 [817s - 817s]
+Yeah.
+
+👤 あなた [818s - 821s]
+Obviously, the Brecken Beacons It's pitch black.
+
+🎤 SPEAKER_3 [821s - 821s]
+Yeah.
+
+👤 あなた [821s - 824s]
+But interestingly, there's a whole section down here by
+
+🎤 SPEAKER_3 [825s - 825s]
+London.
+
+🎤 SPEAKER_1 [826s - 828s]
+Down by where is Nash Points?
+
+🎤 SPEAKER_2 [829s - 831s]
+Ryan's. Yeah.
+
+🎤 SPEAKER_3 [831s - 836s]
+You could go to Atlantic College. Me and who could do it? Yeah. That's true. Well, no.
+
+🎤 SPEAKER_2 [836s - 838s]
+With everybody. And then he could Oh, yeah.
+
+🎤 SPEAKER_1 [838s - 841s]
+That's a good idea. He can host then. There's a car park here.
+
+🎤 SPEAKER_2 [841s - 843s]
+And then you've got toilets and everything as well.
+
+👤 あなた [843s - 845s]
+What's this way? Is this Nash Point?
+
+🎤 SPEAKER_3 [846s - 848s]
+Well, if there's a yeah.
+
+🎤 SPEAKER_2 [848s - 850s]
+Yeah. Because there's the one's supposed to be really good.
+
+🎤 SPEAKER_1 [850s - 854s]
+But what I've learned also learned check this out. Since you're interested.
+
+🎤 SPEAKER_3 [857s - 861s]
+I've learned about the Uh-huh.
+
+🎤 SPEAKER_1 [861s - 861s]
+One to two.
+
+👤 あなた [861s - 868s]
+You you have to be in the desert for that. So we were class five here in Barriott. Minute, which is pretty decent. You can still see the planets.
+
+🎤 SPEAKER_1 [868s - 882s]
+It goes up to nine where you can't see anything. At the moment, cloud coverage is zero. Okay. Now the moon the moon is kind of not visible at the moment, which is fine.
+
+🎤 SPEAKER_1 [882s - 894s]
+Because the moon can also brighten up the sky. Have we got bad breath? Yeah? No. No rain? Mhmm. Pretty icy, but low wind. So this app's really useful to see what's going on.
+
+🎤 SPEAKER_1 [894s - 897s]
+So this is I there'll be lots of people outside tonight with their telescopes.
+
+🎤 SPEAKER_2 [898s - 898s]
+Right.
+
+🎤 SPEAKER_1 [898s - 901s]
+Between ten and midnight is the best times.
+
+🎤 SPEAKER_2 [901s - 903s]
+So after prayer meeting, it.
+
+🎤 SPEAKER_1 [903s - 905s]
+I'm gonna have a quick look now whilst.
+
+🎤 SPEAKER_3 [905s - 906s]
+This is boiling.
+
+🎤 SPEAKER_1 [906s - 910s]
+Just for it won't take me long. Just a few moments just to it.
+
+🎤 SPEAKER_2 [910s - 918s]
+I I might have been able to come out immediately if you could. I I might have give you a manning.
+
+🎤 SPEAKER_1 [918s - 919s]
+Oh, well. I've got to figure it out.
+
+🎤 SPEAKER_4 [919s - 928s]
+The other thing I wanted your help to figure out was what's the best way for me to look after my stuff here? Like, I've got got little cardboard boxes for my lenses.
+
+🎤 SPEAKER_1 [931s - 933s]
+I've got So do I need do
+
+🎤 SPEAKER_2 [933s - 936s]
+I need, like, a little Can we just get you a basket as a starting point.
+
+🎤 SPEAKER_1 [938s - 941s]
+Because I I I oh, I can't wanna look after it. I've
+
+🎤 SPEAKER_3 [942s - 942s]
+Yeah.
+
+🎤 SPEAKER_2 [946s - 947s]
+I don't really know.
+
+👤 あなた [951s - 955s]
+I mean, eventually, if it goes well as a hobby, I might get a little flat case like we've got in church.
+
+🎤 SPEAKER_1 [956s - 961s]
+For the mics. Not not to put that in. Much money. Let's put the mic not to put that in. Oh.
+
+👤 あなた [962s - 963s]
+I'd just put the lenses and things, the accessories.
+
+🎤 SPEAKER_2 [964s - 967s]
+A bit more. Hold on. You gotta make sure this is lined up. Okay.
+
+🎤 SPEAKER_1 [968s - 971s]
+About 100 grams each, I'm thinking.
+
+🎤 SPEAKER_3 [972s - 973s]
+A bit more. I'm starving.
+
+🎤 SPEAKER_2 [973s - 975s]
+A bit more. I'm starving.
+
+🎤 SPEAKER_1 [975s - 975s]
+Nice.
+
+🎤 SPEAKER_3 [975s - 980s]
+You've a that comes in front of you.
+
+🎤 SPEAKER_2 [980s - 983s]
+There's not loads of meat, is there? Because I don't want you going, oh, there's not enough food for people.
+
+🎤 SPEAKER_3 [983s - 989s]
+Okay. I don't know. How's that? Yeah. I wanna be full. Oh.
+
+🎤 SPEAKER_1 [997s - 1000s]
+Should we watch the second half of the, Subsea apprentice?
+
+🎤 SPEAKER_2 [1005s - 1018s]
+That's true. I don't how that's gonna work with me. Because whenever I try to join deeper, I'm constantly like Oh, we'll see. Like, it's literally the worst time really in terms of
+
+🎤 SPEAKER_1 [1025s - 1030s]
+Well, what I might do, Rach, is I might just encourage people to have screens off if they want to.
+
+🎤 SPEAKER_2 [1033s - 1036s]
+I wouldn't encourage people If you want to have a screen up with Yeah.
+
+👤 あなた [1036s - 1036s]
+Can't
+
+🎤 SPEAKER_3 [1036s - 1036s]
+So
+
+🎤 SPEAKER_2 [1036s - 1052s]
+I'm mentioning. Doing prayer meetings every week with people online. Yeah. I find it quite hard when you've got people see. Yeah. They're kind of listening. They're not really there to praise, but, like, well, are you just kind come along so we can put you there.
+
+🎤 SPEAKER_3 [1052s - 1055s]
+No. That'd point that'd be a bit pointless, wouldn't it? Well, exactly.
+
+🎤 SPEAKER_1 [1055s - 1057s]
+Yeah. If you might make numbers, look good.
+
+🎤 SPEAKER_2 [1057s - 1063s]
+But I actually want people to concentrate. Might want a little torch or something just to if I'm out in the field or whatever.
+
+👤 あなた [1063s - 1065s]
+Oh, they're going upstairs.
+
+🎤 SPEAKER_2 [1065s - 1068s]
+So you go upstairs below the TV
+
+🎤 SPEAKER_3 [1069s - 1070s]
+Uh-huh. Right. What's
+
+🎤 SPEAKER_2 [1070s - 1072s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [1091s - 1093s]
+It's got no batteries at the moment.
+
+👤 あなた [1096s - 1099s]
+Oh, they need some it's alright. It's got two out of three AAAs in there, it's fine.
+
+🎤 SPEAKER_1 [1099s - 1101s]
+It's this way. No, dude?
+
+🎤 SPEAKER_3 [1113s - 1114s]
+Let's fight.
+
+🎤 SPEAKER_1 [1115s - 1116s]
+I got some here.
+
+🎤 SPEAKER_1 [1123s - 1131s]
+And I probably I might cut to the now, but I might cut a bit of this cardboard off and use it as a mat to put my my stand on.
+
+👤 あなた [1131s - 1139s]
+So if the table's wet, whatever you because it is a table top stand. I wouldn't cut that just yet when you No. No. Not that. But a bit of cardboard and use it as a mat or something.
+
+🎤 SPEAKER_3 [1143s - 1144s]
+How exciting.
+
+👤 あなた [1151s - 1162s]
+Right. So I just need to they send it with you. This you your shop. e, they give you a telescope basics manual as well. For free, is nice, it?
+
+🎤 SPEAKER_3 [1162s - 1168s]
+Yeah. Okay. Yeah. Yeah. I know.
+
+🎤 SPEAKER_3 [1178s - 1179s]
+That's fine.
+
+🎤 SPEAKER_3 [1186s - 1187s]
+No.
+
+👤 あなた [1187s - 1191s]
+I'm not. Although I didn't just I didn't because I was in
+
+🎤 SPEAKER_1 [1195s - 1196s]
+Oh, yeah. Connimation.
+
+👤 あなた [1201s - 1206s]
+Yes. We'll get to collimation soon. Calculating the field.
+
+🎤 SPEAKER_3 [1207s - 1207s]
+Okay.
+
+🎤 SPEAKER_1 [1210s - 1217s]
+Altitude azimuth mounted telescope. Focus in. Slowly turn the focus wheel.
+
+👤 あなた [1218s - 1219s]
+Which is that
+
+🎤 SPEAKER_3 [1220s - 1221s]
+Is it?
+
+🎤 SPEAKER_3 [1226s - 1227s]
+All that.
+
+🎤 SPEAKER_3 [1266s - 1268s]
+Don't see no turning wheel.
+
+🎤 SPEAKER_2 [1273s - 1279s]
+Yeah. You think I don't know why you could change. So I think that conversation would keep. Yeah.
+
+🎤 SPEAKER_1 [1281s - 1282s]
+Seems like
+
+🎤 SPEAKER_3 [1282s - 1286s]
+I don't know whether because we do ministry, you just kind of rack it
+
+🎤 SPEAKER_2 [1286s - 1287s]
+We just I don't know.
+
+👤 あなた [1287s - 1289s]
+No. We're in his planters.
+
+🎤 SPEAKER_2 [1289s - 1298s]
+No. You remember that needs to diversify and change and adapt and go, okay. God, what is you want us to doing right now? And actually and I nearly said that at the meeting.
+
+🎤 SPEAKER_2 [1298s - 1308s]
+Right? So I guess it's, you the vision of union. Like, this what what does that look like? And is it we have a school, or is it we spread theology?
+
+🎤 SPEAKER_2 [1310s - 1312s]
+And then I thought we wouldn't be helping.
+
+🎤 SPEAKER_3 [1312s - 1313s]
+Oh, there we go.
+
+🎤 SPEAKER_1 [1318s - 1319s]
+No. Yeah.
+
+👤 あなた [1319s - 1319s]
+It's no point.
+
+🎤 SPEAKER_1 [1325s - 1329s]
+So just a quick nose, since since Saturn's in the garden.
+
+👤 あなた [1329s - 1336s]
+You know I mean? I don't have one minute believe I can go straight in and get satin nailed.
+
+🎤 SPEAKER_1 [1336s - 1340s]
+You gotta kinda start with the moon, the moon's not visible tonight.
+
+🎤 SPEAKER_2 [1340s - 1341s]
+Yeah. Maybe it's just
+
+🎤 SPEAKER_3 [1342s - 1345s]
+I'll give it a quicker. Easy just to suddenly do it.
+
+🎤 SPEAKER_1 [1345s - 1348s]
+It wouldn't be a hot Well, this has got a look at this,
+
+👤 あなた [1348s - 1348s]
+Rach.
+
+🎤 SPEAKER_3 [1349s - 1351s]
+This is a laser pointer.
+
+🎤 SPEAKER_2 [1352s - 1354s]
+Oh, don't get in trouble.
+
+🎤 SPEAKER_1 [1354s - 1358s]
+No. Hang on. No. It's very mild. It actually only goes laser onto the screen here.
+
+👤 あなた [1358s - 1365s]
+There's no further. And what that does is it helps you. First of all, you look down there and you get red dot on what you're trying to target.
+
+🎤 SPEAKER_3 [1365s - 1365s]
+Right.
+
+👤 あなた [1366s - 1370s]
+So it makes it much easier basically to try and hit you what you're going for.
+
+👤 あなた [1373s - 1374s]
+So
+
+🎤 SPEAKER_2 [1377s - 1377s]
+So
+
+👤 あなた [1380s - 1380s]
+I guess so.
+
+🎤 SPEAKER_3 [1383s - 1386s]
+Well, now maybe not.
+
+👤 あなた [1387s - 1391s]
+It's just less further to come. That's fine. No.
+
+🎤 SPEAKER_1 [1391s - 1394s]
+You're that, mate. No. It's alright. It's just too too there's too much stuff then.
+
+🎤 SPEAKER_2 [1407s - 1411s]
+K. K. And how
+
+👤 あなた [1419s - 1425s]
+Good idea. We need to get what Well, will he do it, though? Because he wouldn't do it before. We'll pitch black out here.
+
+🎤 SPEAKER_1 [1499s - 1500s]
+It's disappointed.
+
+
+---
+
