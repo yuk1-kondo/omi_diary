@@ -1,0 +1,258 @@
+{
+  "id": "99d250b4-62a7-414c-af06-d4f17f5ca4e2",
+  "created_at": "2026-01-13T14:47:17.899945+00:00",
+  "started_at": "2026-01-13T14:47:16.663480+00:00",
+  "finished_at": "2026-01-13T14:52:30.420390+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Rachel Shares God First Audio Teaching Intro",
+    "overview": "The recording captures Rachel and the user refining and repeating an audio introduction for God First Church Barry teachings. They emphasize welcoming listeners to the \"God First\" audio teaching, hoping the messages help people in their journey with Jesus. The user adds a call to action, inviting listeners to visit the church website for more information. Rachel then speaks about Jesus comforting people in different ways, sometimes dramatically and sometimes quietly, and invites listeners who want to meet with Jesus to respond by holding out their hands where they are.",
+    "emoji": "✝️",
+    "category": "spiritual",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2fff0f13-5ff7-4673-9f88-32365b470d35",
+      "text": "Welcome to God First all new teaching. Hope you find that teaching helpful and To me, and everything else up. For whose sake up?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -4.95910626341356e-07,
+      "end": 8.379999504089483,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "0dcecc23-f383-4163-b53a-60d516026376",
+      "text": "Welcome to God First all you Perhaps something of your faith in Christ.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 12.440199504089378,
+      "end": 17.019999504089355,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "81d3c614-b4a6-41c1-b131-e7786b1f3fb3",
+      "text": "Welcome to God First all you teaching. Welcome to God first, all",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 92.05999950408932,
+      "end": 96.77999950408957,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "051bdfa9-9ff4-4a58-92c2-a0093117323b",
+      "text": "Welcome to God First all year teaching. Welcome to God first all you teach.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 118.36999950408926,
+      "end": 123.05999950408932,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b40edbb1-e8c6-4c95-ad74-8219d1574034",
+      "text": "Welcome to God First all your teaching. We hope you find that teaching helpful in your journey with Jesus.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 150.11999950408926,
+      "end": 155.91999950408945,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f360c7dc-16af-49b1-8c6f-a18525152a39",
+      "text": "Welcome to God First all year teaching.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 172.81999950408954,
+      "end": 175.29999950408956,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e8a13737-0e6f-4b1c-97c5-9d7391120010",
+      "text": "We hope you find that teaching helpful.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 175.37999950408948,
+      "end": 176.9799995040894,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4bab72b3-9165-474e-9400-41a44d7fad6a",
+      "text": "In your journey with Jesus.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 177.2299995040894,
+      "end": 178.50999950408914,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4f9b1664-e825-445f-9570-3f93de2d9480",
+      "text": "Welcome to God First audio teaching. Hope you find that teaching helpful in your journey with Jesus. If you would like to join us or learn more about us, please visit our website at godfirstchurchbarry dot com",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 272.7299995040894,
+      "end": 285.9000995040892,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7325c8ed-c8b7-43c9-8016-ff8f8b4d6d37",
+      "text": "Promise that every tear will be walked away.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 290.3799995040895,
+      "end": 292.53999950408934,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "69bfd3f5-b8bd-4835-b7c8-f19a49d49c90",
+      "text": "Sometimes that is a massive experience, and sometimes I've seen people meet in a fantastic way. At the times, it's completely silent and kind of there's no external kind of indication of that.",
+      "speaker": "SPEAKER_7",
+      "speaker_id": 7,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 292.8299995040893,
+      "end": 306.36803487510036,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "5ab94aca-123e-400a-8beb-f6093a35c2d4",
+      "text": "But if you want to meet with Jesus, I wanna invite you to us where you are. Just put your hands out in front of you.",
+      "speaker": "SPEAKER_7",
+      "speaker_id": 7,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 306.36803487510036,
+      "end": 313.15389364397595,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.415702,
+    "longitude": -3.2755616,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "0f729de0-44a0-4689-a81c-e00d126e6699",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "99d250b4-62a7-414c-af06-d4f17f5ca4e2",
+      "chunk_timestamps": [
+        1768315637.296,
+        1768315642.296
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T14:47:17.296000+00:00",
+      "duration": 10.0
+    },
+    {
+      "id": "11aeac08-19a9-419d-b3df-75ac57aee6bf",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "99d250b4-62a7-414c-af06-d4f17f5ca4e2",
+      "chunk_timestamps": [
+        1768315731.559,
+        1768315736.622,
+        1768315742.128,
+        1768315747.265,
+        1768315752.833,
+        1768315757.963,
+        1768315763.222,
+        1768315768.479,
+        1768315773.518,
+        1768315778.617,
+        1768315783.677,
+        1768315788.932,
+        1768315793.974,
+        1768315799.424,
+        1768315804.622
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T14:48:51.559000+00:00",
+      "duration": 78.063
+    },
+    {
+      "id": "41584c54-58c0-4c55-89e6-ae6d97d794ff",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "99d250b4-62a7-414c-af06-d4f17f5ca4e2",
+      "chunk_timestamps": [
+        1768315912.848,
+        1768315918.996,
+        1768315924.185
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T14:51:52.848000+00:00",
+      "duration": 16.337
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Introduction to God First teaching\n- Audio teaching from God First Church Barry  \n- Aim: help listeners’ journey with Jesus  \n- Website: godfirstchurchbarry.com for info and joining  \n\n## Purpose of the teaching\n- Teaching intended to strengthen faith in Christ  \n- Repeated welcome to all accessing the teaching  \n- Focus on ongoing spiritual growth with Jesus  \n\n## Encouragement and promise\n- Reference to God’s promise: every tear wiped away  \n- Acknowledges both dramatic and quiet encounters with Jesus  \n- No single “right” way to experience God’s presence  \n\n## Invitation to respond\n- Invitation to meet with Jesus personally  \n- Practical step: put hands out in front to respond  \n- Emphasis on openness to Jesus wherever you are  \n\n## Next steps\n- Visit godfirstchurchbarry.com to learn or join  \n- Continue listening to teaching for faith growth  \n- Personally respond in prayer and openness to Jesus"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
