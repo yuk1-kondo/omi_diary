@@ -1,0 +1,165 @@
+{
+  "id": "e4d55996-5412-46b8-8d7e-e8bc061e148e",
+  "created_at": "2026-01-13T16:49:07.645029+00:00",
+  "started_at": "2026-01-13T16:50:31.104249+00:00",
+  "finished_at": "2026-01-13T16:51:01.273480+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Brief Chat About Offering Carrots",
+    "overview": "A short, informal exchange where the user offers carrots to chew on to Elliot (possibly misheard as Heliod), and Rachel clarifies the question. Elliot declines the offer, and the conversation trails off.",
+    "emoji": "🥕",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "9f151a1d-aa8e-4c44-8c3a-6da0322eabfa",
+      "text": "Heliod.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.7193331081653014e-07,
+      "end": 0.7199996280669438,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "bfdfa6c3-f915-4c4f-826f-e898a0c6bf99",
+      "text": "Elliot? Yes. Would you like carrots to chew on? What?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 3.049999628066871,
+      "end": 7.219999628066944,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "1de381aa-f1c7-4f80-bf3d-204c51b1b63c",
+      "text": "Would you like to chew on carrots? No.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 7.219999628066944,
+      "end": 10.42999962806698,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "92c86550-b3e3-4c63-a522-c6ab50c2156e",
+      "text": "Actually,",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 11.310399628066989,
+      "end": 11.710299628067332,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156995,
+    "longitude": -3.2755632,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "5445d9aa-3397-4d27-a15b-546ed91b6687",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "e4d55996-5412-46b8-8d7e-e8bc061e148e",
+      "chunk_timestamps": [
+        1768322946.02,
+        1768322951.204,
+        1768322956.202,
+        1768322961.709,
+        1768322966.814,
+        1768322971.792,
+        1768322976.877,
+        1768322981.952,
+        1768322989.384,
+        1768322994.037,
+        1768322999.412,
+        1768323004.209,
+        1768323009.432
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T16:49:06.020000+00:00",
+      "duration": 68.412
+    },
+    {
+      "id": "a8438a62-b1ee-4312-b4df-84b0c831843d",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "e4d55996-5412-46b8-8d7e-e8bc061e148e",
+      "chunk_timestamps": [
+        1768323048.023,
+        1768323053.004,
+        1768323058.11,
+        1768323063.211,
+        1768323068.222,
+        1768323073.224,
+        1768323078.277,
+        1768323083.385,
+        1768323088.518,
+        1768323093.693,
+        1768323098.866,
+        1768323103.983,
+        1768323109.029,
+        1768323114.274,
+        1768323119.293,
+        1768323124.3,
+        1768323129.312,
+        1768323134.369,
+        1768323139.395,
+        1768323144.384,
+        1768323149.398,
+        1768323154.52,
+        1768323159.589,
+        1768323165.029,
+        1768323170.144,
+        1768323175.21,
+        1768323180.187
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T16:50:48.023000+00:00",
+      "duration": 137.164
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+      "content": "Here’s a quick read on that little moment, based on what you said:\n\nWhen you said, “Would you like carrots to chew on?” and then repeated it after “What?”, it sounds like you were trying to be playful or helpful, but the other person wasn’t really into it and just said, “No.”\n\nA couple of small reflections for you:\n\n- **You were checking in, which is good.** You didn’t just assume; you asked. That’s a solid habit in any conversation.\n- **The follow-up felt a bit cut off.** You started with “Actually,” and then it stopped. That “Actually…” suggests you might have wanted to adjust, explain, or offer something else. For example:  \n  - “Actually, I have something else you might like”  \n  - “Actually, I thought you liked carrots, my bad”\n\nFor next time, when someone gives a clear “No,” you could:\n- Lighten it with a quick pivot:  \n  - “No worries, just checking.”  \n  - “Got it, I’ll eat them then.”\n- Or ask a tiny follow-up if it matters:  \n  - “Cool, anything you do want right now?”\n\nIf you tell me a bit more context about who Heliod/Elliot and Rachel are to you (friends, coworkers, partner, kids, etc.), I can give you much more tailored feedback, like how to keep that kind of small moment from feeling awkward and turn it into an easy, fun back-and-forth instead."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "0aef61ec-d99f-453c-872d-911d7d1dd347"
+}
