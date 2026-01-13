@@ -1754,3 +1754,89 @@ You beauty.
 
 ---
 
+
+
+## 📝 User Assembles New Telescope and Red Dot Finder - c86378b5-ab4f-427f-94c0-fb22fd2bc371
+
+**記録時間**: 2026-01-13 19:51:44
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+Well, let's see what's in there first.
+
+👤 あなた [57s - 61s]
+Super 10. Super 25,
+
+👤 あなた [64s - 66s]
+Oh, I do have a laser sight.
+
+👤 あなた [84s - 94s]
+Positioning your telescope. Instruction manual is applicable to all models listed in the cover. Read and timer carefully before beginning. Test scope should be assembled during daylight. Our hours.
+
+👤 あなた [94s - 98s]
+Choose a large open area to work to allow room for all parts of the impact. Never used
+
+👤 あなた [103s - 112s]
+Okay. Got the eyepiece there. You know, the top, thin enough. Focusing wheel
+
+👤 あなた [120s - 131s]
+Secondary mirror. Slider lock screw, dovetail lock and screw. Carrying handle alt azimuth base,
+
+👤 あなた [137s - 143s]
+Remove the telescope and accessories from the upper. Locate the red dot find slightly loose screws on the side of the finder.
+
+👤 あなた [144s - 151s]
+Right. So does this need to some slide out? Alright. How do I get this off?
+
+👤 あなた [189s - 194s]
+Look look at the red dot. Find that. Slightly loosen the screws on the side of it.
+
+👤 あなた [311s - 313s]
+Let's see if you have a wear are you?
+
+👤 あなた [352s - 354s]
+Oh, crap. Gentle so
+
+👤 あなた [389s - 390s]
+Can't get much looser than that.
+
+👤 あなた [470s - 477s]
+K. Good. Look at the eyepiece, lock screws, and slide the eyepiece into holder.
+
+👤 あなた [543s - 543s]
+Shit.
+
+👤 あなた [547s - 550s]
+Should be how it is stored when not in use.
+
+👤 あなた [554s - 558s]
+To extend this scope, loosen the two screw lock screws. Pull it up
+
+👤 あなた [563s - 568s]
+Okay. I think it must be
+
+👤 あなた [607s - 614s]
+To position the telescope to the desired angle, move the telescope tube up and down in altitude. Awesome.
+
+👤 あなた [620s - 621s]
+Slowly turn the focusing wheel.
+
+👤 あなた [667s - 668s]
+Using the tension control knob,
+
+👤 あなた [709s - 718s]
+Red dot find is a zero magnification pointing to that uses a coated glass window to superimpose the image of a small red dot onto the night sky.
+
+👤 あなた [720s - 732s]
+The red dot finder is a equipped with a variable brightness control as a math adjustment controller. We're at that front car by three volt lithium battery located underneath at the front.
+
+👤 あなた [732s - 737s]
+Choose the front is simply look through the site tube and move your test cup until the red dot emerges.
+
+👤 あなた [744s - 747s]
+Make sure that you keep both eyes open when tightening.
+
+
+---
+
