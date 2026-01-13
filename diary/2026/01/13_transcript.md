@@ -1863,3 +1863,50 @@ What do you think, babe?
 
 ---
 
+
+
+## 📝 User and Rachel Discuss Mysterious Atropos Mission - 700d3726-6ff2-4916-a20a-6a0f8f1322c6
+
+**記録時間**: 2026-01-13 20:33:14
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+Oh, yes.
+
+🎤 SPEAKER_1 [98s - 120s]
+Let's go look. Atropos. This is my tenth return. There are four meter tall corpses littering the ground. Piled up, perhaps centuries ago on I can't tell if there was civil war or genocide or mass ritualistic suicide.
+
+🎤 SPEAKER_1 [122s - 132s]
+Some of the bodies I find of myself have been wounded in a similar manner. I don't understand how that could be possible.
+
+🎤 SPEAKER_1 [162s - 163s]
+How could this be here?
+
+👤 あなた [242s - 244s]
+Let's go and see what the house says first.
+
+👤 あなた [290s - 291s]
+Exactly.
+
+🎤 SPEAKER_1 [310s - 315s]
+I loved my first missions in this binder. But this is stored in the mothership's archives.
+
+🎤 SPEAKER_1 [339s - 342s]
+Was taken after I left. Why?
+
+🎤 SPEAKER_1 [362s - 366s]
+Hello? Who is up there?
+
+🎤 SPEAKER_1 [388s - 390s]
+Such strange marking.
+
+👤 あなた [410s - 411s]
+I can't.
+
+🎤 SPEAKER_1 [468s - 470s]
+Am I supposed to remember this?
+
+
+---
+
