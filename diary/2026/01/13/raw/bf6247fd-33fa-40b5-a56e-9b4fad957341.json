@@ -1,0 +1,105 @@
+{
+  "id": "bf6247fd-33fa-40b5-a56e-9b4fad957341",
+  "created_at": "2026-01-13T08:36:28.673462+00:00",
+  "started_at": "2026-01-13T08:17:11.305277+00:00",
+  "finished_at": "2026-01-13T08:37:41.147531+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User Instructs Omi On Using Brakes",
+    "overview": "The user tells Omi that they are leaving after \"flip six\" and that Omi will need to use the brakes, prompting Omi to proceed and practice or apply brake usage. The context suggests guidance or instruction, possibly during a driving or equipment-use scenario, but no concrete timing or scheduled events are mentioned.",
+    "emoji": "🛑",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "1d9c2ae8-e01e-47e5-93b5-06d1e20586ad",
+      "text": "For flip six, I'm leaving.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -5.149840944795869e-07,
+      "end": 1.2799994850158782,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "790dabc3-7ff0-48f4-8a29-3d03f9a61b93",
+      "text": "Omi. So you're gonna have to use these brakes. Go ahead.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 20.46999948501582,
+      "end": 27.03999948501587,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157074,
+    "longitude": -3.2755441,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "966698fb-6d47-4351-9b11-36b9a2f2bd89",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "bf6247fd-33fa-40b5-a56e-9b4fad957341",
+      "chunk_timestamps": [
+        1768293382.53,
+        1768293393.996,
+        1768293406.541,
+        1768293418.71,
+        1768293431.249,
+        1768293444.642,
+        1768293457.721,
+        1768293470.34,
+        1768293482.479,
+        1768293495.151,
+        1768293507.35,
+        1768293518.975,
+        1768293531.094,
+        1768293542.24,
+        1768293554.783,
+        1768293569.165
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T08:36:22.530000+00:00",
+      "duration": 191.635
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+      "content": "Here’s what I’m noticing from that little bit, and how I’d coach you through it:\n\nWhen you said,  \n> “For flip six, I'm leaving.”  \nand then  \n> “So you're gonna have to use these brakes. Go ahead.”\n\nit sounds like you were handing control over to someone else and giving them a quick instruction on what to do next.\n\nA couple of thoughts for you:\n\n1. **Clear handoff, but could be clearer why**  \n   You did say what needs to happen (“use these brakes”), which is good.  \n   What might help next time is adding *why* or *when*, like:  \n   - “For flip six, I’m leaving, so you’ll need to use these brakes when we start slowing down.”  \n   That gives the other person a clearer mental picture, not just an action.\n\n2. **Check understanding, not just give a command**  \n   Right now it’s: “You’re gonna have to use these brakes. Go ahead.”  \n   You could make it more of a two-way thing:  \n   - “You’re gonna have to use these brakes. Want me to walk you through it once?”  \n   - “You good with how these brakes work, or want a quick rundown?”\n\n3. **Tone: supportive vs. directive**  \n   The way you said it is pretty direct, which can be fine in fast situations.  \n   If there’s time, softening it slightly can make the other person feel more confident:  \n   - “I’m heading out for flip six, so you’re in charge of these brakes. You’ve got this.”  \n\nIf you tell me what “flip six” is about (sounds like some specific context you’re used to), I can help you come up with a short, repeatable script you can use every time you hand things off, so people feel clear and safe when you step away."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
