@@ -42,3 +42,65 @@
 
 ---
 
+
+
+## 📝 Morning Rush and Telescope Delivery Chat - de95217e-2152-498c-9352-9fee313244cd
+
+**記録時間**: 2026-01-13 16:18:57
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+Yeah. Ready, idiot?
+
+👤 あなた [9s - 13s]
+You were reaching? 20 past, so hopefully.
+
+👤 あなた [22s - 32s]
+Yep. I'm ready. I'm ready. I really say I'm ready and you're not ready because you're still putting your shoes on.
+
+🎤 SPEAKER_1 [32s - 35s]
+Ready means I'm all out the door now, isn't it?
+
+🎤 SPEAKER_2 [35s - 37s]
+No. They don't give me those eyeballs.
+
+👤 あなた [39s - 39s]
+No.
+
+🎤 SPEAKER_1 [39s - 44s]
+Look. Honey, it's now 21 fast. Must not. Seven twenty one.
+
+👤 あなた [44s - 45s]
+Yeah. That was like ten seconds.
+
+🎤 SPEAKER_1 [47s - 51s]
+Can't sorry. You need to just go. I'm really sorry. You do need to really go. I'm many
+
+👤 あなた [52s - 58s]
+I know I'm gonna show you, but I'm ready to go. Just one day. No nagging.
+
+🎤 SPEAKER_3 [61s - 63s]
+No. No.
+
+👤 あなた [147s - 152s]
+Beside that my telescope keeps getting. Were gonna deliver on Saturday, and I said, no.
+
+👤 あなた [170s - 180s]
+Oh, it's not as easy as that because they're very rare to get. All the shops in The UK don't have it. For like a month and then they sell out straight away. Then another They're very rare to get, very hard to find.
+
+🎤 SPEAKER_1 [214s - 216s]
+24 pass now. Goodbye.
+
+👤 あなた [216s - 218s]
+Have a good day. Quick. Get out of here.
+
+🎤 SPEAKER_1 [218s - 220s]
+Get out of here.
+
+👤 あなた [220s - 221s]
+See you later.
+
+
+---
+
