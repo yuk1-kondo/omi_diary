@@ -1087,3 +1087,29 @@ Nice.
 
 ---
 
+
+
+## 📝 Rachel and User Discuss Room And Telescope - 5fa5dbb8-048e-49ef-8512-2619d9991ca6
+
+**記録時間**: 2026-01-14 03:27:03
+
+### STT生テキスト
+
+👤 あなた [0s - 5s]
+And when you touch my
+
+👤 あなた [38s - 44s]
+Excellent. Nice to have that back. Oh, we've got the calendar. Oh, that lives here, doesn't it? Oh, yeah.
+
+👤 あなた [54s - 56s]
+Come stay there. Yeah.
+
+👤 あなた [65s - 68s]
+It just this room a bit cramp though, Rach.
+
+👤 あなた [88s - 90s]
+I paid off the telescope, Rachel.
+
+
+---
+
