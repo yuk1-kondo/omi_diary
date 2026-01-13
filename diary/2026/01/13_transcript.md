@@ -1948,3 +1948,29 @@ There are certain obstacles I look forward to re experiencing. But I feel as tho
 
 ---
 
+
+
+## 📝 Rachel and User Express Frustration - 092ade66-1e4b-40df-9711-ffbaf486dd38
+
+**記録時間**: 2026-01-13 21:14:38
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 2s]
+Considerable defense, but dispatch.
+
+🎤 SPEAKER_1 [70s - 70s]
+Fuck.
+
+👤 あなた [73s - 76s]
+It's not coming. Probably some stuff.
+
+👤 あなた [82s - 83s]
+Go do all that again.
+
+🎤 SPEAKER_1 [87s - 88s]
+I have to try harder.
+
+
+---
+
