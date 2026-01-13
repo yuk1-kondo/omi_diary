@@ -1711,3 +1711,32 @@ Really annoyed. So I've still gone to mint breakfast anyway. Feeling a bit frust
 
 ---
 
+
+
+## 📝 Review Messages Together Tonight - e6ca35d9-9c47-43f5-b15f-e1511754da00
+
+**記録時間**: 2026-01-13 19:43:24
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+Pretty strong, really.
+
+🎤 SPEAKER_8 [16s - 17s]
+Thank you, mate.
+
+🎤 SPEAKER_8 [64s - 66s]
+I'm so young. Yeah.
+
+🎤 SPEAKER_0 [1670s - 1674s]
+Just finished men's breakfast. And had a Reddit
+
+👤 あなた [1680s - 1682s]
+Read of your messages.
+
+👤 あなた [1688s - 1696s]
+Perhaps we can have a look at all that together tonight. And I'll try and not get stressed about it.
+
+
+---
+
