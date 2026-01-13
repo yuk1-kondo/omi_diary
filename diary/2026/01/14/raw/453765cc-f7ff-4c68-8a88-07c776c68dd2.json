@@ -1,0 +1,109 @@
+{
+  "id": "453765cc-f7ff-4c68-8a88-07c776c68dd2",
+  "created_at": "2026-01-13T15:51:01.212882+00:00",
+  "started_at": "2026-01-13T15:52:01.194249+00:00",
+  "finished_at": "2026-01-13T15:52:10.698961+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Reflections On Jesus’ Teaching",
+    "overview": "The user references Christian teaching and expresses a hope that these teachings are helpful for someone’s journey with Jesus, implying a spiritual or devotional context rather than a back-and-forth conversation.",
+    "emoji": "✝️",
+    "category": "spiritual",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "1ba2ea0a-6667-4685-87f8-42fdd8b49364",
+      "text": "All your teaching. We hope you find that teaching helpful in the journey of Jesus.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -2.861022494471399e-07,
+      "end": 4.3099497138977085,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156986,
+    "longitude": -3.2755648,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "97a26409-8787-46e3-91d9-8e4dd56ff662",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "453765cc-f7ff-4c68-8a88-07c776c68dd2",
+      "chunk_timestamps": [
+        1768319457.002,
+        1768319462.878,
+        1768319467.645,
+        1768319472.634,
+        1768319477.655,
+        1768319482.808,
+        1768319487.792,
+        1768319493.295,
+        1768319498.776,
+        1768319503.859,
+        1768319509.316,
+        1768319515.407,
+        1768319521.395,
+        1768319530.32,
+        1768319536.761,
+        1768319541.799,
+        1768319546.895,
+        1768319552.897,
+        1768319558.097,
+        1768319563.743,
+        1768319571.161,
+        1768319578.808,
+        1768319583.926,
+        1768319588.962,
+        1768319593.979,
+        1768319599.015,
+        1768319604.136,
+        1768319609.223,
+        1768319614.447,
+        1768319621.106,
+        1768319626.234,
+        1768319631.203,
+        1768319636.21,
+        1768319641.319
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T15:50:57.002000+00:00",
+      "duration": 189.317
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+      "content": "I’m reading this like you’re trying to encourage or teach someone about following Jesus, but the sentence feels a bit jumbled.\n\nYou said:  \n**“All your teaching. We hope you find that teaching helpful in the journey of Jesus.”**\n\nA few thoughts for you:\n\n- It sounds like you care about people growing in their faith, which is awesome. You’re trying to connect “teaching” with “the journey of Jesus.”\n- The phrase **“journey of Jesus”** is a bit unclear. Do you mean:\n  - “your journey *with* Jesus”?  \n  - “your journey *in following* Jesus”?  \n  - or learning more *about* Jesus?\n\nIf you want it to sound more natural, you could say something like:\n- “We hope this teaching helps you in your journey with Jesus.”  \n- “We hope these teachings help you grow closer to Jesus.”  \n- “We hope what you’ve learned is helpful as you follow Jesus.”\n\nIf you tell me who you’re talking to (kids, adults, church group, online audience), I can help you tweak it so it really fits your style and sounds like *you*, not just a church script."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
