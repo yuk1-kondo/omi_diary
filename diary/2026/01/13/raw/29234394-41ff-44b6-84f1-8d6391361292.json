@@ -1,0 +1,107 @@
+{
+  "id": "29234394-41ff-44b6-84f1-8d6391361292",
+  "created_at": "2026-01-13T10:48:50.377001+00:00",
+  "started_at": "2026-01-13T10:49:39.102158+00:00",
+  "finished_at": "2026-01-13T10:49:41.255770+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Brief Expression of Appreciation",
+    "overview": "The user makes a short, informal exclamation of appreciation or satisfaction: \"You beauty.\"",
+    "emoji": "✨",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "4b69e378-2ae9-48ff-912d-1fb350471001",
+      "text": "You beauty.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -3.392791825262975e-07,
+      "end": 0.800009660720832,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157018,
+    "longitude": -3.2755611,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "38b02003-e87e-41e2-b52d-646def3a26c7",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "29234394-41ff-44b6-84f1-8d6391361292",
+      "chunk_timestamps": [
+        1768301328.344,
+        1768301333.746,
+        1768301338.785,
+        1768301344.569,
+        1768301349.573,
+        1768301354.577,
+        1768301359.628,
+        1768301365.664,
+        1768301370.68,
+        1768301375.956,
+        1768301380.979,
+        1768301386.12,
+        1768301392.468,
+        1768301397.537,
+        1768301402.528,
+        1768301407.585,
+        1768301412.968,
+        1768301418.009,
+        1768301423.886,
+        1768301428.771,
+        1768301434.115,
+        1768301439.165,
+        1768301444.323,
+        1768301449.385,
+        1768301455.035,
+        1768301460.378,
+        1768301465.596,
+        1768301470.671,
+        1768301476.225,
+        1768301481.27,
+        1768301486.312,
+        1768301491.325,
+        1768301496.344
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T10:48:48.344000+00:00",
+      "duration": 173.0
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+      "content": "I like how natural that sounded, “You beauty.”  \n\nThat kind of quick, casual reaction shows you’re comfortable expressing appreciation in the moment, which is a really good habit. A lot of people *feel* grateful but don’t say anything out loud.\n\nOne small upgrade you could try next time, especially with people you care about, is adding one more word of why, like:\n\n- “You beauty, that helped a lot.”\n- “You beauty, I really needed that.”\n- “You beauty, that made my day.”\n\nIt keeps your natural style, but makes it clearer what you’re grateful for, and people usually feel really good hearing that kind of thing."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
