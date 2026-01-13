@@ -1,0 +1,181 @@
+{
+  "id": "2f5702d2-e336-4763-a42b-e9524eb490bf",
+  "created_at": "2026-01-13T14:24:20.359281+00:00",
+  "started_at": "2026-01-13T14:25:28.363379+00:00",
+  "finished_at": "2026-01-13T14:26:50.291695+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Rachel Demonstrates Online Trolling For Energy",
+    "overview": "Rachel explains to another person how she uses multiple online accounts to provoke and drain people’s energy via the internet. She gives examples of inflammatory, nonsensical, and offensive comments she might post, such as remarks about cities, celebrities, religion, and children. Another speaker then describes a near-empty church building during the day, questioning where the congregants and children are and implying hypocrisy or misuse of space. The overall tone is satirical and critical of both online behavior and organized religion.",
+    "emoji": "🎭",
+    "category": "entertainment",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "5180a79d-d742-423e-adbf-0244cbe5b31f",
+      "text": "One of the best ways to drain people's energy nowadays is via the Internet. This one is a astro physicist.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.458832674776204e-07,
+      "end": 8.602148045883103,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "0f21b3e5-5d8c-4404-b62e-d33337fbfca5",
+      "text": "Actually, this is not house space. Works. Read a book. Now I just wait for the comments to come in. Hey. Can you mansplain any louder?",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 8.602148045883103,
+      "end": 21.540100545883206,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "2476ca57-9513-4d93-96bb-1b629d10adda",
+      "text": "Yeah. Sure. These are all different accounts that I have set up. The energy you get this way isn't quite as pure, but if you do enough of it, it'll fill you up.",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 21.920100545883088,
+      "end": 31.85010054588315,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "fba7dcc1-df6a-42ca-8b12-a7e638c840fb",
+      "text": "Shanghai sucked. Where was the Chinatown? Jason Mraz is just too weird for me. Jesus actually hates horses. Childhood obesity Help.",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 32.48010054588326,
+      "end": 47.03020054588319,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3db7f618-bdb0-46d2-ac12-105d76448538",
+      "text": "Open up and show us your children. Why won't you let me pretend to see your children? I have a YouTube channel.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 47.03020054588319,
+      "end": 54.87706647341156,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e334106c-cb4c-449e-b5d9-7e3b4a8fb672",
+      "text": "If you saw the Somali daycare skin called churches. Do you know that these buildings, they don't even pay taxes? Yeah. Like, where did children? Look at this.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 54.87706647341156,
+      "end": 65.97989293342644,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4a9bd31f-0b93-40f0-b617-cb3f6dd1067c",
+      "text": "This is daytime. No people. It's this store. Is locked. Where are all the kids? This church has capacity for 1,200 people. But how many people are here today?",
+      "speaker": "SPEAKER_6",
+      "speaker_id": 6,
+      "is_user": false,
+      "person_id": null,
+      "start": 65.97989293342644,
+      "end": 75.50010054588324,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "66d7d084-d783-4065-9f74-d56573443281",
+      "text": "When is Sunday school going on? Friday, so Sunday school happens on.",
+      "speaker": "SPEAKER_6",
+      "speaker_id": 6,
+      "is_user": false,
+      "person_id": null,
+      "start": 77.68010054588308,
+      "end": 81.81010054588319,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157037,
+    "longitude": -3.2755617,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "713c7e5f-e150-47d1-aaff-1dac8beb6d63",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "2f5702d2-e336-4763-a42b-e9524eb490bf",
+      "chunk_timestamps": [
+        1768314331.422,
+        1768314336.924,
+        1768314341.952,
+        1768314347.013,
+        1768314352.828,
+        1768314357.688,
+        1768314362.823,
+        1768314367.955,
+        1768314373.312,
+        1768314378.889,
+        1768314383.979,
+        1768314390.292,
+        1768314395.363,
+        1768314400.508,
+        1768314405.77
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T14:25:31.422000+00:00",
+      "duration": 79.348
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+      "content": "1. Quick Overview:\n\nMain objective of the conversation:  \nThe speakers appear to be satirizing or critiquing how people seek attention, “energy,” and validation online—using multiple fake accounts, provocative comments, and suspicious or conspiratorial observations about churches and children.\n\nKey points (bulleted):  \n- Speaker 3 opens by framing the internet as a powerful way to “drain people's energy,” hinting at social/media “vampirism.”  \n- Rachel describes running multiple online accounts to generate reactions and “energy,” acknowledging it’s not “pure” but effective if done at scale.  \n- She uses deliberately provocative, absurd, or inflammatory lines (about Shanghai, Jason Mraz, Jesus, childhood obesity) designed to trigger strong reactions.  \n- Rachel references a YouTube channel and fixation on “seeing your children,” suggesting online voyeurism or paranoia about hidden kids.  \n- Speaker 6 shifts to an on-site “investigation” of churches and daycares—commenting on empty buildings, capacity vs. attendance, and asking where the children are, implying suspicion or conspiracy.  \n\nParticipants and roles:  \n- Rachel: Main speaker, performing commentary and/or satire about internet trolling, attention-harvesting, and conspiratorial thinking.  \n- Speaker 3: Sets thematic frame about energy-draining via internet.  \n- Speaker 6: On-the-ground observer, narrating suspicious observations about churches/daycares.  \n\nMood and dynamics:  \n- Tone: Sarcastic, darkly humorous, somewhat conspiratorial.  \n- Dynamic: One primary voice (Rachel) performing or explaining, others reinforcing the theme with observations.  \n- Conversation type: Recorded commentary / scripted monologue or podcast-style bit, not a natural two-way discussion.\n\nPivotal quotes:  \n- “One of the best ways to drain people's energy nowadays is via the Internet.”  \n- “These are all different accounts that I have set up. The energy you get this way isn't quite as pure, but if you do enough of it, it'll fill you up.”  \n- “This church has capacity for 1,200 people. But how many people are here today?”\n\nImmediate tasks / next steps:  \n1. Clarify your goal with this material: Are you analyzing it for media critique, content moderation, or creative/script work?  \n2. Extract and label segments: “online energy/trolling,” “provocative statements,” and “church/daycare suspicion” for easier reference.  \n3. Flag potentially sensitive/inflammatory lines if this is to be published or used in training (religion, children, weight, etc.).  \n4. If this is creative content, tighten the narrative link between “online energy draining” and the “empty churches/children” angle so the central message is clearer.  \n5. Document context (source, intended audience, format) for anyone else reviewing or editing this transcript.\n\nIntelligent observation / suggestion:  \nThe recurring pattern—multiple accounts, attention-harvesting comments, and suspicious investigations of institutions—can be unified under a single theme: how modern attention economies turn paranoia and outrage into a kind of “energy currency.” Making that theme explicit would significantly strengthen any analytical or creative use of this conversation.\n\n---\n\n2. Recommendations:\n\n1) Content clarification and framing  \n- Decide on the primary lens:  \n  - Media critique: Frame this as an exploration of how people weaponize comments, conspiracies, and outrage to “feed” off attention.  \n  - Narrative/script: Position Rachel clearly as either satirical or sincerely conspiratorial so the audience knows how to interpret her.  \n- Add a short intro or outro (in video or text) that states the purpose: satire, commentary on online behavior, or critique of conspiracy thinking.\n\n2) Structural refinement  \n- Group the transcript into clearly defined beats:  \n  - Beat 1: “Internet as energy drain / multiple accounts.”  \n  - Beat 2: “Provocative one-liners to farm reactions.”  \n  - Beat 3: “On-site church/daycare investigation and suspicion.”  \n- Within each beat, remove or rework any lines that distract from the central theme (e.g., random jokes that don’t contribute to the “energy/attention” motif).\n\n3) Sensitivity and risk management  \n- If this is public content, consider:  \n  - Rephrasing or contextualizing lines involving religion, children, and “Somali daycare” to avoid unintended targeting or stereotyping.  \n  - Adding a disclaimer that the material is satirical or fictional if that’s the intent.  \n- Use basic content review tools (or an internal checklist) to scan for: hate speech, doxxing, and potentially harmful conspiracy insinuations.\n\nLong-term strategies to consider:  \n- Develop a consistent “voice” for this type of content: a recognizable persona (like Rachel) that always clearly signals satire or critique, so future conversations build a coherent body of work.  \n- If your goal is analysis rather than creation, start building a small annotation schema (e.g., tags like “attention farming,” “conspiracy frame,” “provocation,” “satire”) to systematically analyze similar transcripts and derive patterns."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "0aef61ec-d99f-453c-872d-911d7d1dd347"
+}
