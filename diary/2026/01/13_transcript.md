@@ -1910,3 +1910,41 @@ Am I supposed to remember this?
 
 ---
 
+
+
+## 📝 User Listens To Game Teleportation Narration - 08661436-07df-4571-bd5d-68cf171b7857
+
+**記録時間**: 2026-01-13 20:53:13
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+Fuck.
+
+🎤 SPEAKER_1 [48s - 53s]
+Unlocking mechanism. This could interface with a different kind of translocation device.
+
+👤 あなた [71s - 76s]
+Third pod did Cuban. Deposit into the matching device. To put me in a of I didn't
+
+👤 あなた [186s - 187s]
+Bloody pointless then.
+
+🎤 SPEAKER_1 [287s - 295s]
+I've passed through the teleportation gate. Based on the coordinates of the broadcasting on on the other side of the planet.
+
+🎤 SPEAKER_1 [358s - 366s]
+Sprawling desert now. Detecting another strange energy from a mountain summit. Ascending towards destination.
+
+🎤 SPEAKER_1 [384s - 385s]
+Just gotta log after.
+
+🎤 SPEAKER_1 [388s - 399s]
+Be getting a scent of the mouth. I don't know which attempt this is. Despite knowing the hazards ahead, I'm having difficulty retrieving the technology.
+
+🎤 SPEAKER_1 [400s - 412s]
+There are certain obstacles I look forward to re experiencing. But I feel as though something at the top summoning me.
+
+
+---
+
