@@ -1,0 +1,242 @@
+{
+  "id": "381dda4a-417b-4470-a476-d8c4a1b44212",
+  "created_at": "2026-01-13T10:04:53.212106+00:00",
+  "started_at": "2026-01-13T09:52:16.806417+00:00",
+  "finished_at": "2026-01-13T10:07:43.809222+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Rachel Describes A Professional Comedian",
+    "overview": "The brief, fragmented conversation appears to involve Rachel and others discussing a man who is a professional comedian. The dialogue is disjointed, with references to an audience, confidence, and performance, ending with Rachel clarifying that the person being talked about is a professional comedian. No clear plans, decisions, or actionable items are established.",
+    "emoji": "🎭",
+    "category": "entertainment",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "b9f6371f-8c7b-494e-9486-813860f03cec",
+      "text": "Will join me in the upper end? And 5,000 people would I last the",
+      "speaker": "SPEAKER_8",
+      "speaker_id": 8,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.745484147861134e-07,
+      "end": 3.440099525451842,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "07824a9f-a8d7-4c6e-962a-a6eae719124f",
+      "text": "But first, let us look new.",
+      "speaker": "SPEAKER_7",
+      "speaker_id": 7,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.490099525451569,
+      "end": 5.229358784710863,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "bc86fcbd-9fcd-4c32-8682-370a74e7f984",
+      "text": "Guy was a good landing a dongle, making his way to to just to have you.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.229358784710863,
+      "end": 28.840299525451883,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7e094b54-be77-4aff-b5d1-addd8d62dc82",
+      "text": "And then the guy's going, oh, yeah. You to turn over. Okay. But may I suggest that this isn't the kind of seat ecosystem that you're basically looking for?",
+      "speaker": "SPEAKER_9",
+      "speaker_id": 9,
+      "is_user": false,
+      "person_id": null,
+      "start": 29.04009952545175,
+      "end": 37.02019952545152,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "5b61c022-20a0-4173-8e3e-e5a9076b54b7",
+      "text": "And it was like there should be many encore building up to their own sick assistant.",
+      "speaker": "SPEAKER_9",
+      "speaker_id": 9,
+      "is_user": false,
+      "person_id": null,
+      "start": 39.070099525451496,
+      "end": 43.31009952545173,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "dce531ad-1f2a-425e-8d6f-971281a1e353",
+      "text": "Right.",
+      "speaker": "SPEAKER_7",
+      "speaker_id": 7,
+      "is_user": false,
+      "person_id": null,
+      "start": 43.49009952545157,
+      "end": 44.2901995254515,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "479e76cd-6398-43a0-8731-a874ee6151d1",
+      "text": "Prince.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 45.89009952545166,
+      "end": 46.37009952545168,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4f0fbf45-0140-42df-b3ab-53215ad09cc2",
+      "text": "You got a lot of luck. To be a snoggin, you can be a certain ever confidence every year.",
+      "speaker": "SPEAKER_4",
+      "speaker_id": 4,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 46.51009952545155,
+      "end": 50.67009952545186,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4a219f51-b695-40f6-8e2e-f5157ddf558a",
+      "text": "To do anyone with the guy. It's Christian made in a band at greeting. It does a little bit of and that raises a there's a to a.",
+      "speaker": "SPEAKER_4",
+      "speaker_id": 4,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 53.97009952545159,
+      "end": 60.5991904345424,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "46b32470-b218-4cea-9655-c645b556095f",
+      "text": "So so he he's a professional comedian.",
+      "speaker": "SPEAKER_4",
+      "speaker_id": 4,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 60.5991904345424,
+      "end": 63.42009952545186,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJ74HRBL4FbkgR0tUOYQkPmGY",
+    "latitude": 51.4110181,
+    "longitude": -3.2602263,
+    "address": "126 Court Rd, Barry CF63 4EE, UK",
+    "location_type": "street_address"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "76275058-2916-41ae-b350-852cc021cf32",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "381dda4a-417b-4470-a476-d8c4a1b44212",
+      "chunk_timestamps": [
+        1768298656.441
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T10:04:16.441000+00:00",
+      "duration": 5.0
+    },
+    {
+      "id": "8d6f6eb9-9e9e-4fe1-884f-b48ce6bbcaf8",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "381dda4a-417b-4470-a476-d8c4a1b44212",
+      "chunk_timestamps": [
+        1768298714.602,
+        1768298721.999,
+        1768298732.043,
+        1768298741.06,
+        1768298756.981,
+        1768298773.583,
+        1768298780.661,
+        1768298786.664,
+        1768298792.691,
+        1768298798.871,
+        1768298808.402,
+        1768298817.751,
+        1768298824.655
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T10:05:14.602000+00:00",
+      "duration": 115.053
+    },
+    {
+      "id": "0c08c58d-9d1e-41bc-9f66-e8cc7df5a04f",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "381dda4a-417b-4470-a476-d8c4a1b44212",
+      "chunk_timestamps": [
+        1768298858.882,
+        1768298874.12
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T10:07:38.882000+00:00",
+      "duration": 20.238
+    },
+    {
+      "id": "54e46e4e-ec55-495e-9d1f-9b0c8307644d",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "381dda4a-417b-4470-a476-d8c4a1b44212",
+      "chunk_timestamps": [
+        1768298907.603,
+        1768298918.543,
+        1768298930.342,
+        1768298957.455
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T10:08:27.603000+00:00",
+      "duration": 54.852
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## context and participants  \n- Fragmented, unclear group discussion  \n- Participants include Rachel and several others  \n- Tone loosely conversational, possibly humorous  \n\n## main ideas mentioned  \n- Reference to 5,000 people and “upper end”  \n- Mention of “seat ecosystem” not fitting needs  \n- Talk about “encore” and building a “sick assistant”  \n\n## comments about a person  \n- One person described as having “a lot of luck”  \n- Mention of needing confidence every year  \n- Person identified as a professional comedian  \n\n## next steps  \n- Content too garbled for concrete action items  \n- Clarify transcript or provide fuller context if needed"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "0aef61ec-d99f-453c-872d-911d7d1dd347"
+}
