@@ -434,3 +434,26 @@ Sit down. Don't cry.
 
 ---
 
+
+
+## 📝 Brief Chat About Offering Carrots - e4d55996-5412-46b8-8d7e-e8bc061e148e
+
+**記録時間**: 2026-01-14 01:49:07
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 0s]
+Heliod.
+
+👤 あなた [3s - 7s]
+Elliot? Yes. Would you like carrots to chew on? What?
+
+🎤 SPEAKER_2 [7s - 10s]
+Would you like to chew on carrots? No.
+
+👤 あなた [11s - 11s]
+Actually,
+
+
+---
+
