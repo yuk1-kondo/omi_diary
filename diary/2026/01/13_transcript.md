@@ -2911,3 +2911,38 @@ A guy like you might be good for you.
 
 ---
 
+
+
+## 📝 Rachel Demonstrates Online Trolling For Energy - 2f5702d2-e336-4763-a42b-e9524eb490bf
+
+**記録時間**: 2026-01-13 23:24:20
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 8s]
+One of the best ways to drain people's energy nowadays is via the Internet. This one is a astro physicist.
+
+🎤 SPEAKER_5 [8s - 21s]
+Actually, this is not house space. Works. Read a book. Now I just wait for the comments to come in. Hey. Can you mansplain any louder?
+
+🎤 SPEAKER_5 [21s - 31s]
+Yeah. Sure. These are all different accounts that I have set up. The energy you get this way isn't quite as pure, but if you do enough of it, it'll fill you up.
+
+🎤 SPEAKER_5 [32s - 47s]
+Shanghai sucked. Where was the Chinatown? Jason Mraz is just too weird for me. Jesus actually hates horses. Childhood obesity Help.
+
+🎤 SPEAKER_2 [47s - 54s]
+Open up and show us your children. Why won't you let me pretend to see your children? I have a YouTube channel.
+
+🎤 SPEAKER_1 [54s - 65s]
+If you saw the Somali daycare skin called churches. Do you know that these buildings, they don't even pay taxes? Yeah. Like, where did children? Look at this.
+
+🎤 SPEAKER_6 [65s - 75s]
+This is daytime. No people. It's this store. Is locked. Where are all the kids? This church has capacity for 1,200 people. But how many people are here today?
+
+🎤 SPEAKER_6 [77s - 81s]
+When is Sunday school going on? Friday, so Sunday school happens on.
+
+
+---
+
