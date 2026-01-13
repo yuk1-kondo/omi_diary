@@ -411,3 +411,26 @@ Family team,
 
 ---
 
+
+
+## 📝 User and Rachel Pause Food for Tea - b46dc625-b7e2-4b9e-88a6-1a36b755208f
+
+**記録時間**: 2026-01-14 01:21:50
+
+### STT生テキスト
+
+👤 あなた [0s - 3s]
+No more food. No more food.
+
+🎤 SPEAKER_1 [3s - 3s]
+Why?
+
+👤 あなた [4s - 5s]
+To make your tea soon.
+
+🎤 SPEAKER_1 [5s - 9s]
+Sit down. Don't cry.
+
+
+---
+
