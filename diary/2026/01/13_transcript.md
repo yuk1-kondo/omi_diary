@@ -1974,3 +1974,107 @@ I have to try harder.
 
 ---
 
+
+
+## 📝 Casual Chat, Viral Stories, And Texting Colin - 4b1bbb75-d396-4cf4-be8e-63d62d52f4a9
+
+**記録時間**: 2026-01-13 21:18:26
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 1s]
+Get your fucking ballooning.
+
+🎤 SPEAKER_1 [28s - 33s]
+You know that nothing can happen between us.
+
+🎤 SPEAKER_3 [33s - 34s]
+Why is that?
+
+🎤 SPEAKER_2 [38s - 39s]
+Right.
+
+🎤 SPEAKER_3 [39s - 40s]
+I get it.
+
+🎤 SPEAKER_3 [115s - 116s]
+What's up, bro?
+
+🎤 SPEAKER_2 [116s - 119s]
+I said I bought my guitar. What are you boy? I'm good, bro.
+
+🎤 SPEAKER_4 [119s - 120s]
+I'm alright. Nice to
+
+🎤 SPEAKER_3 [143s - 146s]
+End of night and two pit bulls are attacked a car.
+
+🎤 SPEAKER_5 [146s - 159s]
+In fact, they're taking it apart. Surrounding the vehicle from both sides, the pit bulls ferociously go at the Honda piece by piece. Fenders and other car parts fly into the drive way in Jacksonville, Florida.
+
+🎤 SPEAKER_5 [159s - 165s]
+The owner of the SUV, Christie Barbe, couldn't believe it when she saw the damage the following morning.
+
+🎤 SPEAKER_1 [216s - 228s]
+One of my very good friends is a grader for film and TV. As you can imagine, she meets a lot of people. And we'll go to this text message from her today. Girl, one of my girls just installed a lace front beard on Jake Paul.
+
+🎤 SPEAKER_1 [228s - 239s]
+He's up from that jaw surgery but doesn't want the public to know. He's been paying out the ass for glam. Jake Paul had his jaw turned into fucking powder by some man.
+
+🎤 SPEAKER_1 [246s - 253s]
+And I'll let the director come from a couple weeks later and then had to have, like, quintuple bypass jaw surgery. And then, like, two weeks later, looks like this.
+
+🎤 SPEAKER_1 [253s - 256s]
+Wait. Hold on. But I've, like, you had your jaw broken into pieces.
+
+🎤 SPEAKER_2 [256s - 260s]
+What what is it? And you're perfectly then there's no sweat There's nothing.
+
+🎤 SPEAKER_1 [260s - 265s]
+And I was, like, kind of wondering, like, damn, like, surgeon did a really good job.
+
+🎤 SPEAKER_3 [265s - 267s]
+Yeah. I got four plates in my job.
+
+🎤 SPEAKER_1 [267s - 273s]
+Mangled under that beard. Beard. It's a lace front. He's wearing one of these.
+
+🎤 SPEAKER_1 [276s - 284s]
+He is a apparently sitting in a chair for hours every single time he needs to do anything now. Until his fucking shit heals.
+
+🎤 SPEAKER_2 [287s - 290s]
+You're perfectly you know, there's no swelling There's nothing.
+
+🎤 SPEAKER_1 [290s - 293s]
+And I was, like, kind of wondering, like, damn.
+
+🎤 SPEAKER_1 [311s - 315s]
+But today, we're excited to announce the next Frontier AI
+
+🎤 SPEAKER_2 [378s - 386s]
+They'll never find another girl like me. Again. There's no one else like me. Oh my god.
+
+🎤 SPEAKER_2 [400s - 403s]
+Which like to reply? Yes.
+
+👤 あなた [404s - 406s]
+What would you like to say to Cole in?
+
+🎤 SPEAKER_4 [407s - 410s]
+Trying to get a haircut. Oy, fuck it.
+
+👤 あなた [413s - 418s]
+It says, going to get a hacker if fuckhead. Send it. Okay.
+
+👤 あなた [421s - 423s]
+What would you like to say to Colin?
+
+🎤 SPEAKER_4 [424s - 425s]
+Trying to get a haircut.
+
+👤 あなた [515s - 519s]
+Connect hit this Connect Staub. Das ist
+
+
+---
+
