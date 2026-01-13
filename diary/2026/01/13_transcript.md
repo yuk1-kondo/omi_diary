@@ -104,3 +104,107 @@ See you later.
 
 ---
 
+
+
+## 📝 Rachel Wakes Child After Bad Dream - cd66722a-9164-4cc4-9d32-ddffc6f6c1b4
+
+**記録時間**: 2026-01-13 16:26:16
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+No.
+
+🎤 SPEAKER_1 [95s - 100s]
+Snow p Rachel, does it get today for this boxing? I'll just boxing's on when.
+
+🎤 SPEAKER_2 [100s - 103s]
+Pee Wednesday. So please change for me Tuesday, too. Oh,
+
+👤 あなた [103s - 104s]
+I see.
+
+🎤 SPEAKER_1 [106s - 107s]
+Mister Jews?
+
+🎤 SPEAKER_2 [112s - 113s]
+Jude,
+
+🎤 SPEAKER_1 [116s - 117s]
+I know you can hear me.
+
+👤 あなた [117s - 128s]
+You're in a dreamy state, listen to my voice. Time to wake up. You asked me yesterday to wake you up as soon as I got back from taking Elliot.
+
+👤 あなた [130s - 134s]
+Rather than a little bit later. So here I am. Waking you up.
+
+🎤 SPEAKER_1 [137s - 137s]
+K.
+
+👤 あなた [146s - 147s]
+I'm changing the foot.
+
+🎤 SPEAKER_1 [148s - 151s]
+Okay. Let's put that here.
+
+🎤 SPEAKER_1 [193s - 193s]
+Defecit.
+
+🎤 SPEAKER_1 [197s - 199s]
+You'll see are nice and warm.
+
+🎤 SPEAKER_1 [208s - 208s]
+No.
+
+🎤 SPEAKER_1 [242s - 245s]
+Recitis absent. Good boy.
+
+🎤 SPEAKER_2 [245s - 245s]
+I'll hop you up.
+
+👤 あなた [245s - 246s]
+Here we are. Hands near.
+
+👤 あなた [252s - 253s]
+How are you this morning?
+
+🎤 SPEAKER_2 [255s - 257s]
+How are you?
+
+👤 あなた [258s - 265s]
+Okay? Do you remember coming into my bed last night? And daddy came in where you snuggled and fell asleep in your bed.
+
+👤 あなた [268s - 271s]
+Do you remember why you came in? Do you have a bad dream?
+
+🎤 SPEAKER_1 [272s - 273s]
+Yeah.
+
+👤 あなた [273s - 274s]
+They're not nice, are they?
+
+👤 あなた [291s - 292s]
+Do you have a nice club party?
+
+🎤 SPEAKER_1 [293s - 297s]
+No. No point. Tell the now, I guess.
+
+👤 あなた [297s - 301s]
+Is it? Guess so.
+
+🎤 SPEAKER_1 [309s - 310s]
+Let me look here. Collar
+
+👤 あなた [314s - 315s]
+There's your fresh pants. There's your trousers.
+
+🎤 SPEAKER_1 [315s - 316s]
+Good boy.
+
+👤 あなた [352s - 354s]
+That must have happened in the nighttime? Yeah.
+
+
+---
+
