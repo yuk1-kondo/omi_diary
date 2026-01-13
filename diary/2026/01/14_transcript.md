@@ -500,3 +500,140 @@ Need to leave in a little while. Okay?
 
 ---
 
+
+
+## 📝 Family Prepares For Basketball And Moon Viewing - 07172617-d6e8-4272-b354-5393fc631904
+
+**記録時間**: 2026-01-14 02:05:15
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 0s]
+Click on change quick.
+
+🎤 SPEAKER_1 [5s - 5s]
+Alright.
+
+🎤 SPEAKER_2 [5s - 9s]
+It? You done? If we eat 10 at it, we're doing
+
+🎤 SPEAKER_2 [24s - 25s]
+In a did you in a rush
+
+👤 あなた [94s - 100s]
+You good? Yeah. That was your top. Alright. Get you aware.
+
+👤 あなた [106s - 108s]
+K. Vest score shoes on then, son.
+
+👤 あなた [115s - 125s]
+Just try your hardest. Alright. I will take your drinks bottle today because you should really be turning up without it.
+
+🎤 SPEAKER_2 [126s - 127s]
+Yeah.
+
+👤 あなた [175s - 175s]
+Right.
+
+🎤 SPEAKER_2 [177s - 180s]
+I'm sorry. Let me tell her that we're going.
+
+👤 あなた [180s - 182s]
+And, yeah, being due to going now,
+
+🎤 SPEAKER_2 [182s - 184s]
+Kate, What?
+
+🎤 SPEAKER_2 [203s - 210s]
+Let's go then. See you at here. Let's go. After after the wash.
+
+🎤 SPEAKER_2 [229s - 231s]
+Okay. Alright.
+
+🎤 SPEAKER_1 [245s - 246s]
+Hello, Catlett.
+
+🎤 SPEAKER_2 [251s - 252s]
+Nice.
+
+🎤 SPEAKER_2 [255s - 259s]
+Hey. So if I read that chart correctly then, chart
+
+👤 あなた [259s - 264s]
+I have good viewing of the moon until about 09:10 o'clock.
+
+🎤 SPEAKER_0 [365s - 366s]
+Imagine cover. It might.
+
+👤 あなた [389s - 398s]
+So if I'm reading the chart correctly, I can can see the moon quite clear until about 09:10 o'clock. And then the night sky itself is best viewing from 10PM.
+
+👤 あなた [398s - 410s]
+Is that correct? Correct? Yes. You've got it The charge shows that the moon is visible, clear, till around nine or
+
+🎤 SPEAKER_1 [410s - 423s]
+10PM. After that, the darker sky conditions make get ideal for star. Okay. From 10PM onwards, you should have the best views of the stars and planets.
+
+🎤 SPEAKER_1 [426s - 427s]
+Your telescope?
+
+👤 あなた [428s - 437s]
+I just got a little app that tells me the best time. Apparently, the sun the start, that that looks like sorry. Look. That looks like something, didn't it?
+
+👤 あなた [438s - 440s]
+Fair. That does not start as a planet.
+
+👤 あなた [444s - 458s]
+You see? Yeah. I've got an that tells me the best viewing times. And apparently the moon quite bright now until 10:00. Which is five for looking at the moon. Are you going to kind of look at the moon? Yeah. Gonna look at the moon.
+
+🎤 SPEAKER_1 [466s - 466s]
+And then
+
+👤 あなた [466s - 473s]
+10:00, the moon's kind of disappeared beyond the horizon. And then I have a good clear view of some of the planets.
+
+🎤 SPEAKER_2 [473s - 473s]
+I wanna left.
+
+👤 あなた [474s - 475s]
+Maybe.
+
+🎤 SPEAKER_2 [475s - 476s]
+We'll see.
+
+👤 あなた [477s - 481s]
+Maybe I'll see the moon if I can get the moon set up properly. Depends on where the moon is.
+
+👤 あなた [504s - 511s]
+So some There's no attempted to have a quick look later and see. What's that then?
+
+👤 あなた [522s - 529s]
+It's not it's sparkle and they look like they move with moons stars. I mean, planets don't do that. They just kinda stay there.
+
+👤 あなた [530s - 536s]
+So that potentially looks too bright. To be anything but a planet.
+
+👤 あなた [539s - 554s]
+Maybe I have a try later and see Jude for my telescope. Yeah. I don't wanna try and be too. I wanna try and go too hardcore before, you know, before I've even learned how to use it properly, need to.
+
+👤 あなた [657s - 661s]
+Korea letter. Hope you don't feel a whole job letter.
+
+🎤 SPEAKER_2 [661s - 665s]
+Just drop me off and I'll be at basketball. Then you go
+
+👤 あなた [669s - 670s]
+Yeah, Angra.
+
+🎤 SPEAKER_2 [670s - 673s]
+Remember to take my drink. Okay?
+
+🎤 SPEAKER_1 [673s - 674s]
+Yep.
+
+👤 あなた [679s - 681s]
+I haven't got some of this. Okay.
+
+
+---
+
