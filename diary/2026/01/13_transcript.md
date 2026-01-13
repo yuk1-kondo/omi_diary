@@ -1176,3 +1176,86 @@ So so he he's a professional comedian.
 
 ---
 
+
+
+## 📝 Rachel Discusses Missed Music Career Opportunity - a7273917-5fba-4a47-b706-9bbe0704f7b3
+
+**記録時間**: 2026-01-13 19:09:46
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+And Oh, wow.
+
+🎤 SPEAKER_9 [0s - 3s]
+You know, it's a. Pretty good. You can reach out on that.
+
+🎤 SPEAKER_9 [11s - 44s]
+They've been going for almost sixty years. Have they? Wow. They and they they they were sort of they toured or curry and sundae with she told him he have anything because she just got clean.
+
+🎤 SPEAKER_9 [44s - 74s]
+And it was tiny. You don't want me to have it. And he said, I have to what we're doing. We're wondering if you watch it. Now this is what comes from a sad story from my perspective.
+
+🎤 SPEAKER_9 [74s - 92s]
+Mhmm. I was only 19, maybe 20, I had grown up in a very right wing family. And the are excessively homosexual. So I was fearful for my cause. It was very naive.
+
+🎤 SPEAKER_9 [103s - 106s]
+I would have and and I would have worked with other bands as well.
+
+🎤 SPEAKER_4 [106s - 106s]
+Yeah.
+
+🎤 SPEAKER_9 [106s - 107s]
+Yeah. And, you know,
+
+🎤 SPEAKER_4 [107s - 109s]
+But it's taking your life off in a completely different trajectory.
+
+🎤 SPEAKER_9 [109s - 111s]
+Completely different direction.
+
+🎤 SPEAKER_4 [111s - 116s]
+And for reasons that I've just stated, which were the most naive and foolish reasons.
+
+🎤 SPEAKER_9 [117s - 120s]
+Said, thank you, mate. Bye. Yeah. Yeah.
+
+🎤 SPEAKER_4 [120s - 122s]
+It's one of those. Because I
+
+🎤 SPEAKER_4 [135s - 137s]
+Yeah. To be involved in that.
+
+🎤 SPEAKER_9 [137s - 139s]
+I used to sit in a real life experience.
+
+🎤 SPEAKER_8 [139s - 141s]
+I used to sit drinking with them in in the Bell
+
+🎤 SPEAKER_9 [141s - 161s]
+Hotel in where and and and, basically, I would sit there sup in a pint most of the evening, and and hearing the stories they had to tell when they toured with and and and Robert's career before he formed the Enid, he was the musical director for Barclays Gentile's history. So there's a lot of locking orders, you know.
+
+🎤 SPEAKER_9 [187s - 193s]
+And so the units are able to continue and and all the money went into the stand. And and so you could you could join you could join the stand.
+
+🎤 SPEAKER_9 [193s - 197s]
+And page it, which help and keep it flowing. And you'd get album and
+
+🎤 SPEAKER_4 [197s - 198s]
+No. I'll take it.
+
+🎤 SPEAKER_4 [210s - 224s]
+You know, history is very interesting. He was he was the he said I found himself as the and he's you?
+
+🎤 SPEAKER_1 [224s - 224s]
+Didn't
+
+🎤 SPEAKER_4 [224s - 231s]
+Jonathan. He wasn't a flange, but he was a he he bothered the identify of the guys on the on that eagle. Thing is I was Different era back in those days. He's just bought
+
+🎤 SPEAKER_9 [231s - 233s]
+Yeah. So so the that might have been
+
+
+---
+
