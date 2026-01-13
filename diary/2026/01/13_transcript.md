@@ -1135,3 +1135,44 @@ It's it's very Jonathan esque if I if I may see.
 
 ---
 
+
+
+## 📝 Rachel Describes A Professional Comedian - 381dda4a-417b-4470-a476-d8c4a1b44212
+
+**記録時間**: 2026-01-13 19:04:53
+
+### STT生テキスト
+
+🎤 SPEAKER_8 [0s - 3s]
+Will join me in the upper end? And 5,000 people would I last the
+
+🎤 SPEAKER_7 [3s - 5s]
+But first, let us look new.
+
+🎤 SPEAKER_1 [5s - 28s]
+Guy was a good landing a dongle, making his way to to just to have you.
+
+🎤 SPEAKER_9 [29s - 37s]
+And then the guy's going, oh, yeah. You to turn over. Okay. But may I suggest that this isn't the kind of seat ecosystem that you're basically looking for?
+
+🎤 SPEAKER_9 [39s - 43s]
+And it was like there should be many encore building up to their own sick assistant.
+
+🎤 SPEAKER_7 [43s - 44s]
+Right.
+
+🎤 SPEAKER_1 [45s - 46s]
+Prince.
+
+🎤 SPEAKER_4 [46s - 50s]
+You got a lot of luck. To be a snoggin, you can be a certain ever confidence every year.
+
+🎤 SPEAKER_4 [53s - 60s]
+To do anyone with the guy. It's Christian made in a band at greeting. It does a little bit of and that raises a there's a to a.
+
+🎤 SPEAKER_4 [60s - 63s]
+So so he he's a professional comedian.
+
+
+---
+
