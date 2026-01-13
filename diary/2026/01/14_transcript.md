@@ -457,3 +457,29 @@ Actually,
 
 ---
 
+
+
+## 📝 Parent Prepares Jude For Basketball Practice - e08d0bc0-78e4-4bcf-b858-db72a136291a
+
+**記録時間**: 2026-01-14 01:53:05
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 1s]
+Oh, for fuck's sake.
+
+🎤 SPEAKER_2 [78s - 81s]
+Jack Frost sniffing at your toes.
+
+🎤 SPEAKER_2 [84s - 86s]
+Oh. That is.
+
+👤 あなた [89s - 102s]
+Come get your sandwich, son. Got a sandwich on here for you. Ah, dude. Then you need to get ready for a bath Okay? Thank you. Get ready for basketball after that.
+
+👤 あなた [103s - 111s]
+In fact, we need to leave in ten minutes. Jude. We need to leave in ten minutes for basketball. You need eat quick.
+
+
+---
+
