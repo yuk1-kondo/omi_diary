@@ -1,0 +1,108 @@
+{
+  "id": "b0b6de2f-9efd-47d2-a6b1-0a19c5652da0",
+  "created_at": "2026-01-13T16:57:25.174896+00:00",
+  "started_at": "2026-01-13T16:58:42.314549+00:00",
+  "finished_at": "2026-01-13T16:59:07.547088+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Brief Reminder To Leave Soon",
+    "overview": "A very short exchange where one person reminds the user they need to finish something, and the user notes they need to leave in a little while. No specific tasks, deadlines, or scheduled events are mentioned.",
+    "emoji": "⏰",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "82639403-9c65-4e5e-925c-337cc3b37e2d",
+      "text": "Jewy finish it.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.4065215004375204e-07,
+      "end": 1.119699659347134,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "80236099-58eb-4ba0-9b67-51790f442f30",
+      "text": "Need to leave in a little while. Okay?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 6.659699659347098,
+      "end": 9.299299659347525,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156995,
+    "longitude": -3.2755632,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "82da2e7c-e089-40ca-97da-75d9890cff58",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "b0b6de2f-9efd-47d2-a6b1-0a19c5652da0",
+      "chunk_timestamps": [
+        1768323441.906,
+        1768323446.894,
+        1768323452.42,
+        1768323457.55,
+        1768323462.737,
+        1768323468.207,
+        1768323473.412,
+        1768323478.734,
+        1768323483.638,
+        1768323488.696,
+        1768323493.755,
+        1768323499.475,
+        1768323504.505,
+        1768323510.704,
+        1768323516.014,
+        1768323521.914,
+        1768323527.109,
+        1768323532.325,
+        1768323537.504,
+        1768323542.635
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T16:57:21.906000+00:00",
+      "duration": 105.729
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+      "content": "1. Quick Overview\n- Main objective of the conversation:  \n  To coordinate timing around finishing a task and the user needing to leave soon.\n\n- Key points (bulleted):\n  - Speaker 2: “Jewy finish it.” → A directive to complete something (likely a task or activity).\n  - User: “Need to leave in a little while. Okay?” → The user indicates a time constraint and seeks acknowledgment/permission.\n  - Very brief exchange with no explicit resolution or plan agreed upon.\n\n- Immediate tasks / next steps:\n  - Clarify what “finish it” specifically refers to (task, document, chore, etc.).\n  - Confirm the user’s actual departure time (e.g., “I need to leave in 20 minutes”).\n  - Decide whether the task should be:\n    - Finished before the user leaves, or  \n    - Paused and resumed later, or  \n    - Delegated to someone else.\n  - Communicate a clear agreement (e.g., “Yes, leave at X time; I’ll finish it” or “Let’s wrap this up together now”).\n\n- Intelligent observation / suggestion:\n  - The exchange shows a mismatch between directive (“finish it”) and constraint (“need to leave soon”) without any explicit negotiation. A simple time-boxed plan (e.g., “Let’s work 10 more minutes, then you go; I’ll handle the rest”) would immediately reduce uncertainty and stress.\n\n2. Recommendations\n\n- Practical recommendations:\n  1. **Clarify scope and urgency**: Ask, “What exactly needs to be finished, and how critical is it to complete before I leave?” This sets priorities.\n  2. **Set a mini-deadline**: Agree on a concrete timeframe: “I can stay for 15 more minutes—what part can we realistically finish in that time?”\n  3. **Consider delegation or deferral**: If the task is larger than the available time, decide what can be:\n     - Delegated to Speaker 2 or another person.\n     - Scheduled for a follow-up slot (e.g., later that day).\n\n- Helpful tools or information:\n  - Use a quick **shared task list** (Notion, Google Tasks, Todoist) to define:\n    - What “it” is.\n    - Who owns each part.\n    - By when each part needs to be done.\n  - A simple **timer or timeboxing app** (e.g., Pomodoro-style timer) to ensure you actually leave on time while still making progress.\n\n- Long-term strategy to consider:\n  - Establish a standard micro-pattern for such moments:  \n    “When I say I need to leave soon, we immediately: (1) name the task, (2) agree what’s realistic before I go, (3) schedule or delegate the rest.”  \n    This turns brief, ambiguous exchanges into quick, efficient decisions."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
