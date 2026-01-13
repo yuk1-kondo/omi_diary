@@ -716,3 +716,374 @@ Then, Jude.
 
 ---
 
+
+
+## 📝 Family Shop Trip And Upcoming Dental Consultation - 067c82d7-cb09-4685-8656-480e48c916cf
+
+**記録時間**: 2026-01-14 03:00:35
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+Hey.
+
+🎤 SPEAKER_3 [0s - 1s]
+Yes. Get up, please.
+
+👤 あなた [1s - 3s]
+No. No. They're they're the most comfortable of things, are they?
+
+🎤 SPEAKER_3 [4s - 5s]
+Either.
+
+🎤 SPEAKER_3 [92s - 93s]
+Well, it said
+
+🎤 SPEAKER_3 [105s - 106s]
+Yeah.
+
+👤 あなた [109s - 110s]
+Oh, thank you.
+
+🎤 SPEAKER_3 [121s - 121s]
+Then
+
+🎤 SPEAKER_3 [131s - 131s]
+No.
+
+👤 あなた [134s - 136s]
+Could do it to troll people, though, couldn't it, if you wanted?
+
+👤 あなた [178s - 180s]
+You have to go to you have to go down there, pal.
+
+👤 あなた [194s - 201s]
+Alright. Good. Well done. Here's a lot bit of a shame that you don't get to do the matches very often, dude.
+
+👤 あなた [205s - 213s]
+I don't know. Just on Sundays, I of it, didn't it? But maybe next season, they might go to Saturdays, and then have to choose between football and basketball then.
+
+👤 あなた [213s - 213s]
+But
+
+👤 あなた [224s - 236s]
+We need to go to the shop, William. Why? Mommy asked me to get some squash and some bread. We literally drive past the shop, dude. You can sit in the car for you.
+
+🎤 SPEAKER_2 [239s - 240s]
+No?
+
+👤 あなた [240s - 251s]
+We're driving past the shop in the way home, so why should I have to go drop you? Just the corner shop. I don't know. Don't It'll take long. It'll take a few minutes.
+
+👤 あなた [253s - 259s]
+Stop, Mommy. We're going going in, bush, bang, bang, back out. I'm mucking about.
+
+👤 あなた [262s - 262s]
+You know what I mean?
+
+🎤 SPEAKER_3 [274s - 275s]
+How do they
+
+👤 あなた [279s - 280s]
+Maybe they just like it.
+
+👤 あなた [345s - 349s]
+Shops looking pretty busy, don't you? Ain't it? Blind me.
+
+👤 あなた [356s - 357s]
+Call these cars.
+
+👤 あなた [361s - 362s]
+On the bus.
+
+👤 あなた [370s - 372s]
+Hopefully there'll be a space here though.
+
+👤 あなた [382s - 384s]
+Go on, Joe. Let's go. Not be long.
+
+🎤 SPEAKER_3 [384s - 385s]
+Come on.
+
+👤 あなた [400s - 402s]
+So, watch this now, dude. Look at this, really.
+
+👤 あなた [406s - 416s]
+Point this at the sky and then it'll tell us what we look at. So that thing over there then well that's what is that?
+
+🎤 SPEAKER_3 [417s - 418s]
+Was it
+
+👤 あなた [424s - 430s]
+Oh, that is a that is a star actually. That one.
+
+👤 あなた [439s - 440s]
+Not sure, Eddie.
+
+🎤 SPEAKER_3 [444s - 445s]
+Alright, mate.
+
+👤 あなた [446s - 446s]
+Hi,
+
+🎤 SPEAKER_3 [446s - 446s]
+Jude.
+
+👤 あなた [449s - 453s]
+But no. We're not going just gone in and out. That's it.
+
+🎤 SPEAKER_3 [479s - 480s]
+No. Put it back.
+
+👤 あなた [480s - 487s]
+Having any sweets. Come back. Because you've you've just got some at home, a. We've got some birth we've got some birthday cake to eat. Eat.
+
+👤 あなた [489s - 494s]
+But we're still looking to squash you. Can you see where the squash is? It's perfect, son.
+
+🎤 SPEAKER_3 [496s - 496s]
+Yes.
+
+👤 あなた [518s - 525s]
+Her back. Just said. Now. Now look at your teeth.
+
+🎤 SPEAKER_3 [525s - 529s]
+Come on. No. Put them back.
+
+🎤 SPEAKER_3 [539s - 539s]
+No.
+
+👤 あなた [539s - 541s]
+No, Drew, listen. What's the
+
+👤 あなた [549s - 550s]
+That's not something.
+
+🎤 SPEAKER_3 [552s - 555s]
+Thanks, mate.
+
+👤 あなた [555s - 555s]
+Yep.
+
+👤 あなた [561s - 561s]
+Cheers, man.
+
+🎤 SPEAKER_3 [562s - 563s]
+Cheers.
+
+👤 あなた [605s - 614s]
+It's not good to do a few teeth. We've got to go back to the dentist me and you What? In Heath, in the car list, like we did before.
+
+👤 あなた [614s - 617s]
+And mommy might come. Why? Next week.
+
+🎤 SPEAKER_2 [618s - 618s]
+Yeah.
+
+👤 あなた [620s - 627s]
+But, again, it's just a consultation this time. I don't think you're gonna have x rays or something. It's just a quick meeting to decide what we're gonna do.
+
+🎤 SPEAKER_3 [628s - 630s]
+I thought we've go for the quick operation.
+
+🎤 SPEAKER_2 [631s - 632s]
+What what is that?
+
+🎤 SPEAKER_3 [632s - 633s]
+How they put a meter?
+
+🎤 SPEAKER_2 [633s - 634s]
+Tight?
+
+👤 あなた [634s - 636s]
+Okay. They said they'll put like a little needle on me.
+
+🎤 SPEAKER_2 [636s - 637s]
+I don't want that.
+
+🎤 SPEAKER_3 [637s - 642s]
+Okay. Well, can you talk about all those sort of things when we're there.
+
+👤 あなた [642s - 654s]
+Okay? You're gonna let mommy and daddy know what you want us to tell them, or you can tell them yourself, but you can do that way. There's different ways to do it. Stop. They do it all the time for children. Okay. It's nothing to be worried about.
+
+🎤 SPEAKER_2 [656s - 658s]
+It's mommy's fault.
+
+🎤 SPEAKER_3 [658s - 659s]
+Sam?
+
+👤 あなた [659s - 666s]
+Jude, you won't even you'll have a nice sleep and you'll wake up in a be done. And they never have to be done again. That's the end of it.
+
+👤 あなた [667s - 676s]
+Gone forever. They're literally gonna take them all out. And so, it'll be after that day. You have a nice little relaxed stay on the safer watching YouTube. And you'd like to school the next day.
+
+🎤 SPEAKER_3 [676s - 677s]
+Okay?
+
+👤 あなた [682s - 682s]
+No.
+
+🎤 SPEAKER_3 [682s - 684s]
+No. You got school the next day.
+
+👤 あなた [686s - 687s]
+Put a chill time on YouTube.
+
+🎤 SPEAKER_3 [689s - 693s]
+Xbox. And then that's it.
+
+👤 あなた [694s - 697s]
+No more having to worry about crumbly teeth. They'll all they'll all be removed.
+
+🎤 SPEAKER_3 [699s - 699s]
+Alright.
+
+🎤 SPEAKER_2 [700s - 710s]
+And even Dad, you're seeing the me a bill of medicine to bounce really to sleep. And I what I even said remember, they say is they put a little needle in me.
+
+🎤 SPEAKER_2 [710s - 712s]
+Right. Well, we're kept Is it?
+
+👤 あなた [713s - 724s]
+Well, we can ask them that. Can't we? We can ask them. You can ask them find out. Dude, can I just say if it is a needle, you've got nothing to worry about? It doesn't hurt.
+
+👤 あなた [724s - 727s]
+Can of feeling it. The whole point of a needle is that it doesn't hurt.
+
+🎤 SPEAKER_3 [736s - 738s]
+Come on, mate.
+
+🎤 SPEAKER_2 [758s - 761s]
+Welcome to this pee the hyperplate pillar?
+
+👤 あなた [761s - 770s]
+I don't know. You know, just it's all the way through the teeth. It's better to just have them out due to Right? You'll forget about it pretty quickly afterwards.
+
+👤 あなた [774s - 781s]
+Get them done when you're 10. By the time you're 25, they'll be fifteen years ago. You don't even remember it. Got nothing to worry about. Am I?
+
+👤 あなた [790s - 791s]
+Hey,
+
+🎤 SPEAKER_3 [792s - 793s]
+Yep.
+
+🎤 SPEAKER_2 [796s - 811s]
+I'm not doing this. I'm showing five pounds on another bag that's small had two neat bags before, and now we're going from one bag
+
+👤 あなた [811s - 813s]
+Oh, please don't spend any more money on a blinking bag.
+
+🎤 SPEAKER_2 [814s - 817s]
+Five pounds, and we can use this for something else if needed.
+
+🎤 SPEAKER_1 [817s - 817s]
+But it's
+
+🎤 SPEAKER_2 [817s - 822s]
+What is that? It's it's the Christmas tree with loads of decorations.
+
+🎤 SPEAKER_4 [822s - 827s]
+It's absolutely stupid. It's that's this is not effective storage. Only get one of these. That's what I wanted.
+
+🎤 SPEAKER_1 [829s - 830s]
+That's what this looks like.
+
+👤 あなた [830s - 835s]
+Oh, I just think it's they check for aesthetics for something that lives It's not about aesthetics.
+
+🎤 SPEAKER_2 [835s - 835s]
+It's not
+
+🎤 SPEAKER_0 [861s - 866s]
+Sir, that's a bit pointless, really, because you don't see that for
+
+🎤 SPEAKER_0 [867s - 869s]
+fifty weeks of the year. Visual honey.
+
+🎤 SPEAKER_1 [869s - 870s]
+Try and lift this.
+
+🎤 SPEAKER_1 [876s - 882s]
+And then what I'm Exactly. I'm not it's just stupid. Right. Alright. Well Can you turn that back back on, please? Yeah.
+
+🎤 SPEAKER_1 [900s - 901s]
+Babes.
+
+👤 あなた [908s - 910s]
+Oh, no. I didn't actually. He didn't even mention it.
+
+👤 あなた [915s - 916s]
+All my cake gone?
+
+👤 あなた [920s - 923s]
+What have you got a little bit left? Who's you been eating all my cake?
+
+🎤 SPEAKER_1 [923s - 925s]
+Mommy had this little piece.
+
+👤 あなた [925s - 926s]
+Not you. Must be Eddie ready.
+
+🎤 SPEAKER_1 [926s - 928s]
+Can I eat some bit of this?
+
+👤 あなた [928s - 930s]
+Why that's begin with them?
+
+🎤 SPEAKER_1 [933s - 935s]
+Is
+
+🎤 SPEAKER_1 [941s - 949s]
+How many people think that's kind of question? I have absolutely no idea. I've not been home from I've been hopeful work for about an hour, but I've been chatting to Elliot and doing this.
+
+🎤 SPEAKER_2 [951s - 952s]
+Imagine he's.
+
+👤 あなた [978s - 983s]
+Touch my life. So in terms of putting this stuff away then?
+
+🎤 SPEAKER_1 [983s - 988s]
+That's fine. We'll just put this and servitude until the other bag arrives on Thursday. Right.
+
+🎤 SPEAKER_1 [1045s - 1046s]
+Anifbrite.
+
+🎤 SPEAKER_1 [1127s - 1127s]
+Right.
+
+👤 あなた [1155s - 1166s]
+Alright. So I want you to put some of this. Can you do you want me to put at least those away into the garage, Rachel? Yes, please. Well, then I put the whole lot in the garage, and then when the bag comes on Thursday, I can get it out.
+
+👤 あなた [1166s - 1167s]
+Yeah. Okay.
+
+🎤 SPEAKER_2 [1169s - 1171s]
+That's the reason there as well. Sorry.
+
+👤 あなた [1201s - 1202s]
+Have a little look to what you you fancy,
+
+🎤 SPEAKER_1 [1202s - 1202s]
+Rich.
+
+👤 あなた [1235s - 1241s]
+I have to move have you got a need have you got a calling key just in case I need to move it? It's always sods low. It's just too close.
+
+👤 あなた [1244s - 1245s]
+With that in mind.
+
+👤 あなた [1249s - 1251s]
+How was that? It's piano, Nashville?
+
+🎤 SPEAKER_2 [1251s - 1252s]
+Yeah. Good. Alright.
+
+🎤 SPEAKER_1 [1256s - 1256s]
+Nice.
+
+
+---
+
