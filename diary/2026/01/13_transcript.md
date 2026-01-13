@@ -2078,3 +2078,836 @@ Connect hit this Connect Staub. Das ist
 
 ---
 
+
+
+## 📝 Rick And Morty-Inspired Multiverse Fan Audio - 6b8b1b73-40c5-4564-a4b3-eba9828633b4
+
+**記録時間**: 2026-01-13 22:30:14
+
+### STT生テキスト
+
+👤 あなた [0s - 7s]
+Hello? 16 it is, please. Sure. Is there a little tap on the app for you. Cheers.
+
+👤 あなた [15s - 18s]
+You suck. You suck.
+
+👤 あなた [103s - 103s]
+As impossible.
+
+👤 あなた [157s - 159s]
+What is this all this sprinkled food?
+
+🎤 SPEAKER_1 [267s - 271s]
+Trees, let's go home. Yeah. I need a bath.
+
+👤 あなた [288s - 290s]
+Something else. No.
+
+🎤 SPEAKER_1 [290s - 291s]
+I I wanna talk to the manager.
+
+🎤 SPEAKER_1 [296s - 305s]
+You in charge? Yeah. I'm Jay Gunn. Hey. Bradley Cooper carved that dash. What What's up with that last maximal velocity?
+
+🎤 SPEAKER_3 [305s - 307s]
+You didn't like it? I thought was great.
+
+🎤 SPEAKER_1 [307s - 314s]
+You're ruining my childhood. We were just still ongoing up eating a screen time with stupid comic relief characters and took more cool shit in the story?
+
+🎤 SPEAKER_3 [315s - 319s]
+Guys, I'm a fan too. Why do think Warner Brothers poke me behind that desk, you know?
+
+🎤 SPEAKER_1 [319s - 322s]
+So you can pitch Batman ideas to yourself? Exactly. Exactly.
+
+🎤 SPEAKER_3 [322s - 337s]
+And you know what I've learned? Making movies isn't easy. The next Maximum Velocity movie has been rewritten 40 times, 30 by me. Now we'll spend 5 years and a half 1,000,000,000 making it. But in the end, no one will make fans like you like it? A fucking miracle.
+
+🎤 SPEAKER_3 [337s - 341s]
+No. But the next time of the velocity Bill needs is us.
+
+🎤 SPEAKER_1 [341s - 342s]
+I'd like to see you.
+
+🎤 SPEAKER_2 [342s - 344s]
+Time to fix this broken franchise.
+
+🎤 SPEAKER_1 [344s - 347s]
+Good luck. Doing anything with that stretch. It's watermarks.
+
+🎤 SPEAKER_3 [362s - 364s]
+I don't know. His script is pretty good.
+
+🎤 SPEAKER_1 [365s - 375s]
+Dad. Woah. What's that? The moody line. It makes movies at the speed of thought. I invented it during the title sequence Let's see what James Gunn had cooking.
+
+🎤 SPEAKER_1 [389s - 398s]
+Yikes. Citizen King doesn't strike again. Oh, he wails The Movie Lizer uses a prompt driven CPU. I just type whatever tweaks I want, and it auto generates the rest.
+
+🎤 SPEAKER_1 [398s - 408s]
+Tell her yeah. No. Make it lose that bad guy. Here, this one's been cool since the third movie. Let's kill two we meet again, Fruvotree.
+
+🎤 SPEAKER_1 [408s - 410s]
+Wait where the guns come from.
+
+🎤 SPEAKER_3 [432s - 433s]
+Messing with important
+
+🎤 SPEAKER_1 [433s - 443s]
+Oh, fuck the fuck off, Jerry. Formula driven save the cash bullshit is what killed the last couple of movies. That's right, Morty. We're gonna make the people care about the robo trees again.
+
+🎤 SPEAKER_1 [443s - 444s]
+Movilizer. Make us care
+
+🎤 SPEAKER_1 [515s - 522s]
+How are we gonna get out of here? The mobilizer might eject us once the story is over. Gary, Tyson, we skip to the end, and everything works out.
+
+🎤 SPEAKER_1 [522s - 531s]
+I don't think I can, guys. It's like the script is 3,000 pages and counting. Also, there's an arrow thing bleeping that says antagonist not count, and no third act.
+
+🎤 SPEAKER_1 [531s - 537s]
+Without an ending, you'll be stuck in the movie forever. Goddamn it. Well, you cut a bunch of stuff out.
+
+🎤 SPEAKER_3 [537s - 542s]
+Willie nilly, out What did you expect? Look. I understand story. Let me just put everything back.
+
+🎤 SPEAKER_1 [542s - 548s]
+That you took out. Stop. You'll only make things worse. You're a terrible writer, and you should never ever get on the keys.
+
+🎤 SPEAKER_3 [548s - 550s]
+Well, excuse me for a lid.
+
+🎤 SPEAKER_1 [550s - 554s]
+Alright. You killed the villain. Now I knew that. Didn't they use fire alarm, George Washington?
+
+🎤 SPEAKER_1 [558s - 565s]
+Machine doesn't hate that. This is going to work. We'll bring back Barry Dissel and get this stupid thing an ending. You serve
+
+🎤 SPEAKER_1 [572s - 574s]
+Okay. All we need now is a little light ning.
+
+🎤 SPEAKER_3 [610s - 617s]
+Sorta. You still need a third act. In the original graph, Baron was gonna kill Tannenbaum in front of the Robotree. Sign
+
+🎤 SPEAKER_2 [617s - 619s]
+That would have been a cool ending.
+
+🎤 SPEAKER_1 [619s - 635s]
+Come. Come. Baby son of Thistle could finish what his father started? You do kind of look like him. You want me to kill Tannabal? Never works. Okay. I'll break Tannabal out of jail, reunite him with the Robotrees, and then Morty will kill him. Does the machine break recognize that as an ending? Hold on.
+
+🎤 SPEAKER_1 [637s - 645s]
+It does. Kinda bleep, though. Shut up. I'm off to a jail break. What what the hell am I supposed to do? You're the new bad guy.
+
+🎤 SPEAKER_2 [645s - 648s]
+But up with the henchweeds and give the Robotree something to stop.
+
+🎤 SPEAKER_1 [648s - 650s]
+Something to stop? What's that? See you in the third act.
+
+👤 あなた [656s - 658s]
+Extra creatine, please.
+
+🎤 SPEAKER_1 [659s - 660s]
+Yo. James Gunn.
+
+🎤 SPEAKER_3 [660s - 667s]
+Oh, hi, Zack Snyder. Just saw your new cut of Superman, and word of advice, he's the man of steel, not the man of conversation.
+
+🎤 SPEAKER_3 [667s - 667s]
+Okay.
+
+🎤 SPEAKER_2 [667s - 671s]
+Do you more shots of him punching, and here's a secret move.
+
+🎤 SPEAKER_4 [671s - 674s]
+Start the punch at right to speed, and then you can rip it down.
+
+🎤 SPEAKER_1 [674s - 675s]
+It's not a fucking secret.
+
+🎤 SPEAKER_3 [676s - 682s]
+I'm sorry, Zack Snyder. I shouldn't be lashing out at you and your biceps are the size of my head. Yes.
+
+🎤 SPEAKER_4 [682s - 694s]
+But so is my heart. What's going on with you? Some fan of the velocity franchise got into the lot today, used a portal, then he just Zach, we're not losing touch with the audience.
+
+🎤 SPEAKER_3 [694s - 700s]
+Are we mean, I gave notes on the goddamn Count Chocula movie this morning. Was the portal green? That's Rick Sanchez.
+
+🎤 SPEAKER_4 [700s - 711s]
+Oh my god. That's the guy that sealed Nolan in the giant bookcase to, quote, unquote, punish him for Interstellar. He doesn't represent real fans. He's just the smartest man in the universe. That was sweat it.
+
+🎤 SPEAKER_4 [711s - 719s]
+You can't do what we do, probably. Gonna go crush some weights. One day, you're gonna wish you hit the gym like I do, James.
+
+🎤 SPEAKER_2 [727s - 731s]
+Hello? Is this the Sulzable base?
+
+🎤 SPEAKER_1 [731s - 736s]
+Not anymore. We're packing it in. We're try to sell all this stuff on my girlfriend's Etsy's side.
+
+🎤 SPEAKER_2 [736s - 736s]
+Oh.
+
+🎤 SPEAKER_1 [737s - 745s]
+Everyone, listen up. I'm here to get this place back up and running. I am listening. Son of Thistle.
+
+🎤 SPEAKER_4 [745s - 747s]
+He does sorta have the same jacket.
+
+🎤 SPEAKER_1 [747s - 757s]
+And his hand is all also a cactus. That's all the proof I need. Tell us what to do. Well, what were y'all doing before bed? This will die. Oh, you know, do you
+
+🎤 SPEAKER_4 [757s - 763s]
+Tuesday plan. We're gonna mount the ice caps. It's months in the blueprints, not that your dad ever said thank you.
+
+🎤 SPEAKER_2 [763s - 764s]
+Oh, what's your name?
+
+🎤 SPEAKER_1 [764s - 775s]
+Samantha. It sucks when your mom never says. Thank you, Samantha. But under me, everyone will feel appreciated. Samantha, I'm putting you in charge of
+
+🎤 SPEAKER_2 [778s - 787s]
+Oh, thank you, sir. I've been feeling so low I think it's because my mom forgot my birthday. Samantha, that will never happen again.
+
+🎤 SPEAKER_2 [788s - 792s]
+On your mom now. Now let smell so much, Kim.
+
+🎤 SPEAKER_3 [799s - 801s]
+Son of a bitch did it.
+
+🎤 SPEAKER_4 [801s - 803s]
+He made a movie machine. He doesn't right on the side.
+
+🎤 SPEAKER_3 [816s - 819s]
+Here's your prison food, new guy. What you look for?
+
+🎤 SPEAKER_1 [819s - 823s]
+Fastest crime I do commit. Any of you see an annoying little bitch in the Christmas tree?
+
+🎤 SPEAKER_3 [825s - 826s]
+Please.
+
+🎤 SPEAKER_2 [827s - 829s]
+Oh, please don't beat me.
+
+🎤 SPEAKER_1 [829s - 831s]
+I won't. I'm here to rescue you.
+
+🎤 SPEAKER_2 [831s - 842s]
+I'm not worth rescuing. I suck. I say dumb catch raises I look like a a toy designed for kids. Yeah. I have a fucking.
+
+🎤 SPEAKER_1 [843s - 849s]
+Wow. More self worry than I thought. But come on. On. Everyone sucks until they don't. That's the arc of every good story. It is.
+
+🎤 SPEAKER_1 [849s - 853s]
+Here's the plan. I'll start a riot, and we sneak out. I know you're not a fighter, but
+
+🎤 SPEAKER_2 [853s - 854s]
+When do we start?
+
+🎤 SPEAKER_1 [855s - 857s]
+Oh, right now?
+
+🎤 SPEAKER_1 [892s - 902s]
+Sure. But why are you calling from a different phone number? It's a phone for spam calls come come in into the kitchen for some lemonade.
+
+🎤 SPEAKER_1 [902s - 911s]
+Oh, wow. Can't pass up lemonade. The mobilizer is mine. No. One's more creative than James. Come
+
+🎤 SPEAKER_1 [933s - 936s]
+Holy shit. That was awesome.
+
+🎤 SPEAKER_1 [946s - 949s]
+You did a lot too. Definitely more than I expected.
+
+🎤 SPEAKER_2 [949s - 958s]
+Rick, I wanna thank you for rescuing me. Here. I want you to have this. It's a piece of me. Oh, thanks.
+
+🎤 SPEAKER_1 [958s - 962s]
+Just like one of your balls. Real Madrid,
+
+🎤 SPEAKER_2 [962s - 967s]
+Something messed up is going viral all over Twitch talk. Hello?
+
+🎤 SPEAKER_1 [967s - 971s]
+Earth. I'm the son of Thistle, and I'm just like my dad, so I'm a doom
+
+🎤 SPEAKER_1 [979s - 987s]
+Does the movie lizers still think we're on track? Jerry, Jerry's fucking happy.
+
+🎤 SPEAKER_3 [990s - 991s]
+She'll listen to Snyder.
+
+🎤 SPEAKER_1 [1023s - 1032s]
+Dude, where is he on the ship. Turns out Tandem bomb's an alright guy. He's kinda my favorite character now. What? Look at me. I have a fucking practice. Relax. Trust the process.
+
+🎤 SPEAKER_1 [1036s - 1042s]
+Home, and I didn't even think the last national velocity was all that bad. You said it wasn't citizen cave.
+
+🎤 SPEAKER_1 [1054s - 1059s]
+Okay. They'll help you kill him. You're gonna do what?
+
+🎤 SPEAKER_2 [1063s - 1084s]
+Go and explain. Okay. Go ahead. Shit. She away.
+
+🎤 SPEAKER_3 [1084s - 1093s]
+But I read that dinosaur book he wrote, Jerry. Really good stuff. You did? Well, I got the gist. Maybe we can do business together. It's your picture to yell.
+
+🎤 SPEAKER_1 [1093s - 1096s]
+Oh, god. Don't do it. We need you. That's it, Sherry. Give an
+
+🎤 SPEAKER_2 [1097s - 1097s]
+Hollywood.
+
+🎤 SPEAKER_3 [1098s - 1100s]
+You know how to really succeed in this town?
+
+🎤 SPEAKER_1 [1100s - 1135s]
+By turning your back on family. I don't like that. No. You could have had it all. Guys, I'm about Jeez, Louise. What did you do? The story's gone linear. When pissed off the can plug an idea into a machine when they don't care when it spits back out, but it's it's a special kind of idiot to get on the keys and write us an ending.
+
+🎤 SPEAKER_1 [1135s - 1147s]
+You're that idiot. But how? It's always been right in front of you. Over to my workbench. Alright. I'm there. Open the third drawer on the right, you reach way back. There should be a small orange ball.
+
+🎤 SPEAKER_1 [1147s - 1155s]
+What is it? Some sci fi device? Better. It's magic. We'll take more than two, three clots of water, remember to blink.
+
+🎤 SPEAKER_5 [1157s - 1162s]
+I now pronounce you two. Both guilty and dead. But he's dead.
+
+🎤 SPEAKER_1 [1171s - 1174s]
+Have it, this is a direct path for the outside. Slam, caught you. Thanks. Here.
+
+🎤 SPEAKER_5 [1174s - 1176s]
+New York. Damn.
+
+🎤 SPEAKER_1 [1176s - 1178s]
+New York. Why are
+
+🎤 SPEAKER_5 [1273s - 1278s]
+We have one point six three minutes before the melting polarized caps reach the of no return.
+
+🎤 SPEAKER_1 [1278s - 1294s]
+We got company. Not traitor. Shit, 40. I think I figured out the best know what that's about. Go to check me, Trace. Samantha made beautiful job on the what weapon thing.
+
+🎤 SPEAKER_1 [1294s - 1296s]
+I thought you actually liked my evil plan.
+
+🎤 SPEAKER_2 [1296s - 1301s]
+But let's face it. You're no mother. You're just a bad guy.
+
+🎤 SPEAKER_5 [1301s - 1305s]
+Step away from that super weapon. Let's blast him.
+
+🎤 SPEAKER_6 [1305s - 1306s]
+For once, I agree with you.
+
+🎤 SPEAKER_1 [1316s - 1319s]
+You so I can have you killed. I hate you,
+
+🎤 SPEAKER_7 [1319s - 1320s]
+Ted, and Bo.
+
+🎤 SPEAKER_5 [1320s - 1321s]
+You look like a toy.
+
+🎤 SPEAKER_1 [1321s - 1322s]
+You die already.
+
+🎤 SPEAKER_6 [1343s - 1348s]
+You saved the world from another unarmed man. Oh, oh, no. Thank died?
+
+🎤 SPEAKER_2 [1348s - 1352s]
+Sometimes saving the world requires complex decisions.
+
+🎤 SPEAKER_5 [1353s - 1355s]
+Decisions made by a true leader.
+
+🎤 SPEAKER_1 [1378s - 1386s]
+Really affected you. No. You just forgot to blame me. Still, I admit it. Making movies is hard. From now on, I'm just gonna be an impossible to please fan.
+
+🎤 SPEAKER_1 [1386s - 1411s]
+You said it. Let's go throw some common sections. Oh, god. Would love Sundays.
+
+🎤 SPEAKER_0 [1452s - 1456s]
+And not a wild thing. No one stopped. It's growing from the ground up. Baron Fitzgerald and his had treats looking like some
+
+🎤 SPEAKER_1 [1467s - 1477s]
+set. But for the record, I do not condone using the Movilizer in this way. Is that bad? You're good to go. Can't believe I'm actually in socks. Pace champ seven. Oh, hey, LeBron.
+
+🎤 SPEAKER_2 [1482s - 1492s]
+Hey, guys. You know how I've been writing Raptor Born on this side? I'm ready to share with the world. Oh, well, yes. I'll just leave it on this machine till they come back.
+
+🎤 SPEAKER_1 [1508s - 1509s]
+Did you get any of that?
+
+🎤 SPEAKER_2 [1521s - 1524s]
+And then after that, I have a bunch of weight.
+
+🎤 SPEAKER_1 [1524s - 1527s]
+Can you guys wrap all that up? You can just say you don't wanna hang out.
+
+🎤 SPEAKER_2 [1527s - 1528s]
+I don't wanna hang out.
+
+🎤 SPEAKER_1 [1528s - 1531s]
+What the hell? But you're that out. Smell bad.
+
+🎤 SPEAKER_2 [1531s - 1535s]
+Of course, it smells bad. It's kombucha. You're boochuk.
+
+🎤 SPEAKER_1 [1535s - 1537s]
+Lose. Rick, can you portal me to school?
+
+🎤 SPEAKER_2 [1537s - 1539s]
+Ow. Give me that. Please.
+
+🎤 SPEAKER_2 [1544s - 1545s]
+Oh, never mind. We were at the bottom.
+
+🎤 SPEAKER_1 [1556s - 1556s]
+Okay.
+
+🎤 SPEAKER_1 [1576s - 1588s]
+Are you I got a clown of me. Did Rick? Don't tell Rick. You want me not talking? Then you better start talking. Not here. Come on. You can buy me lunch. I'm not buying you lunch.
+
+🎤 SPEAKER_3 [1589s - 1592s]
+What if we call it breakfast two mow?
+
+🎤 SPEAKER_3 [1600s - 1614s]
+And you're sure Rick won't spine this here. Yeah. He hates them all. It's kinda like I'm here so much. Or maybe me being here is why he hates it. Not actually been thinking about getting a job at American Eagle.
+
+🎤 SPEAKER_3 [1614s - 1630s]
+Oh, the Eagle. Man. You gonna eat that? Not really. Thanks. The road pro provides. Oh, okay. So road who are you? Do you hear from the future? Are you here to kill me? You take that game from the future.
+
+🎤 SPEAKER_3 [1631s - 1639s]
+Replace a guy who loves them all? I'm a traveler. I'm another dimension. Oh, you still a portal guy? What? No, man. That brings the heat.
+
+🎤 SPEAKER_3 [1639s - 1646s]
+I'm more slit through cracks in the multiverse. You're having cold, by the way. My morning is summer by morning more than yours.
+
+🎤 SPEAKER_3 [1647s - 1651s]
+Well, you don't seem like a serial killer. Then I thought I'd know.
+
+🎤 SPEAKER_1 [1651s - 1652s]
+But you can't stay here.
+
+🎤 SPEAKER_3 [1652s - 1663s]
+No sweat. You go, ma'am, just give me back your upstairs closet. And we'll that is a weird location. But just to be clear, if you do try to kill me and take over my life, I can scream very loud.
+
+🎤 SPEAKER_3 [1665s - 1669s]
+You never get caught doing this? Judy's basically the reason.
+
+🎤 SPEAKER_1 [1669s - 1670s]
+It's our superpower.
+
+🎤 SPEAKER_3 [1670s - 1671s]
+Nobody sees us. You're already getting
+
+🎤 SPEAKER_1 [1683s - 1690s]
+Hey, Rich. Your frozen dumplings are still in there, Cherry. There's limited space in there, Cherry. We we all live here together.
+
+🎤 SPEAKER_3 [1690s - 1690s]
+Hey.
+
+🎤 SPEAKER_1 [1690s - 1692s]
+Hey. Look at me when I talking to you.
+
+🎤 SPEAKER_3 [1692s - 1702s]
+You kicked that episode of naked and alone last night? Hey, but you and me? I think that guy likes to drink the yak piss. Are are you making conversation with me? Sorry.
+
+🎤 SPEAKER_1 [1702s - 1714s]
+Sorry. I guess I do watch that TV show, and he does seem excited about the piss. He does. Okay. Good. Don't waste my freezer space.
+
+🎤 SPEAKER_1 [1714s - 1718s]
+And don't fucking blindside me with small talk.
+
+🎤 SPEAKER_3 [1719s - 1730s]
+I think I'm in the clear. As long as I eat those dumplings, are you smelling my shirts? What? No. In a few dimensions, Rick gives Beth a spatially dilated walk in closet.
+
+🎤 SPEAKER_3 [1731s - 1733s]
+Beth is always asking for that.
+
+🎤 SPEAKER_1 [1733s - 1733s]
+Yeah.
+
+🎤 SPEAKER_3 [1733s - 1747s]
+You guys are in the same dimensional neighborhood, and you can't been reality as often as Rick without the occasional bingo. And and and and and what does that lead to? But a guy like us can I the whole verse without even leaving the house?
+
+🎤 SPEAKER_3 [1748s - 1752s]
+Wanna see? Do I wanna stick my head through a wall? Not really.
+
+🎤 SPEAKER_1 [1752s - 1754s]
+It's just one stop over. Come on.
+
+🎤 SPEAKER_3 [1754s - 1756s]
+We're thinking like a Jerry. You you a little
+
+🎤 SPEAKER_4 [1758s - 1760s]
+I read you the property. Yeah.
+
+👤 あなた [1761s - 1764s]
+You you promise you'll get me home?
+
+🎤 SPEAKER_1 [1764s - 1765s]
+I promise.
+
+🎤 SPEAKER_4 [1773s - 1774s]
+Holy shit.
+
+👤 あなた [1774s - 1775s]
+This is insane.
+
+🎤 SPEAKER_3 [1775s - 1781s]
+Pretty mind blowing, We try to mark safe trails for each other. Upside down coaster means it's cool.
+
+🎤 SPEAKER_3 [1785s - 1788s]
+This rearout, I all words are blah. I
+
+🎤 SPEAKER_1 [1789s - 1790s]
+I come to get what they're saying.
+
+🎤 SPEAKER_3 [1793s - 1795s]
+On. Upstairs bathroom. One at a time.
+
+🎤 SPEAKER_0 [1817s - 1825s]
+I know. You did great. Oh, that was crazy. Okay. You Where where are you next? Yes. Fuck yeah. He go, man.
+
+🎤 SPEAKER_0 [1825s - 1830s]
+Man. Here. Get in. Infinite mirror, tunnel. Man, so weak.
+
+🎤 SPEAKER_1 [1832s - 1837s]
+find these things? The thing about being a jury? You got all day to look.
+
+🎤 SPEAKER_0 [1831s - 1832s]
+And specific. How do
+
+🎤 SPEAKER_1 [1838s - 1841s]
+Get close. I almost lost a finger doing this.
+
+👤 あなた [1854s - 1855s]
+Oh, Jesus.
+
+🎤 SPEAKER_1 [1856s - 1857s]
+Here. This way.
+
+👤 あなた [1860s - 1866s]
+Oh. Mhmm. I thought the trail, his family would just be gone, but the road remembers.
+
+🎤 SPEAKER_1 [1867s - 1869s]
+There's so many of us.
+
+👤 あなた [1870s - 1870s]
+Here.
+
+🎤 SPEAKER_1 [1876s - 1878s]
+You're one of us now. Here you go, man.
+
+🎤 SPEAKER_1 [1882s - 1893s]
+Well Technically, it was a piece of your shirt. Stuck up there. You still don't get it, buddy. We're the same. Okay. But how much of the road is depressing like this place? Not that much. Not that much.
+
+🎤 SPEAKER_1 [1954s - 1963s]
+Machine? There's a good one. It's the the science one. You left it in the shower. Boy, I I might be living a little two anchors up, Jerry.
+
+🎤 SPEAKER_1 [1964s - 1976s]
+You want a margarita? All good. He has to know, Vince. Not you. Well, if he does, he doesn't care. Alright. We gotta get moving.
+
+🎤 SPEAKER_1 [1976s - 1980s]
+There's a killer queue two stops over. You guys want a ceviche to go?
+
+🎤 SPEAKER_1 [1987s - 1996s]
+And Rick turned the moon and enjoyed disco ball for forty's winter formal. Beautiful. Right? Honestly, Eagleman. I didn't think he'd come out this far.
+
+🎤 SPEAKER_1 [1996s - 2007s]
+Well, you'd prove me wrong. I mean, I'm not actually from the dimension you found me in. My whole family jumped together. And when the space version of my wife showed up, I thought she gave me, and she did.
+
+🎤 SPEAKER_1 [2008s - 2018s]
+But then I turned into a bug, and we all had sex. He go, man. Goddamn. I I I guess it is all pretty cool when I say it out loud.
+
+🎤 SPEAKER_1 [2018s - 2031s]
+Thanks for opening my eyes to that. I'm just you, brother. Well, that sucks. And I did promise to get you home. Thanks for riding with me. It's the most fun I've had in Ohio.
+
+🎤 SPEAKER_1 [2032s - 2045s]
+Wait one second. Hello. Hold on. I'm a little drunk. If this division Jerry was like me, he'd keep a 12 pack in the bathroom for the occasional shower beer.
+
+🎤 SPEAKER_1 [2045s - 2046s]
+Eagle man.
+
+🎤 SPEAKER_1 [2050s - 2053s]
+These Yeah. These are warm.
+
+🎤 SPEAKER_1 [2057s - 2058s]
+Shit. Shit. We're coming in close.
+
+👤 あなた [2067s - 2069s]
+Morty. Oh, not squeamish.
+
+🎤 SPEAKER_1 [2070s - 2071s]
+No. No. No.
+
+👤 あなた [2072s - 2072s]
+Shit.
+
+🎤 SPEAKER_1 [2072s - 2081s]
+Mister Connection? What what does that mean? What does that mean? It's all good, Jerry. We're fine. And look, those guys portal into this Taco La Taco every week.
+
+🎤 SPEAKER_1 [2081s - 2088s]
+There's a gene we can stay with while we wait. He sit to the scene. He even has a few cuts in his face. A week from from now, I can't stay with some gene for a week.
+
+🎤 SPEAKER_1 [2088s - 2099s]
+Rick will just replace me. No. He won't. They won't even notice you've been gone. Is that a good thing? There is one way. Get me home.
+
+🎤 SPEAKER_1 [2100s - 2106s]
+Okay. But why is it out in the woods? You wanna get home fast. Right? Only way to do that's through Grand
+
+🎤 SPEAKER_1 [2109s - 2117s]
+Couple of parallel mornings to pull a keg out of their bag of holding, turned it inside out. Now it's kind of a toll rover.
+
+🎤 SPEAKER_1 [2121s - 2133s]
+Oh, Hey there. I'm Eagle Bear. I got two out in furlough. Copy that. So were you camping or get in.
+
+🎤 SPEAKER_1 [2138s - 2149s]
+Welcome to Grand Central. It's not my favorite place. Who are these bandana guys? Sometimes your family goes on an adventure and doesn't come back.
+
+🎤 SPEAKER_1 [2149s - 2164s]
+The dude that runs this place, he collects GREs that get left behind Come on. Boss is ready to see you. Oh, I had cool. Hey, boss. Mooch. Mooch. It's my rogue name.
+
+🎤 SPEAKER_1 [2164s - 2171s]
+Who's this? The pickle man. He's cool. I rescued him from working at the mall. We're just looking to get on the tundra line. Fears her up.
+
+🎤 SPEAKER_1 [2171s - 2183s]
+Afraid. But Rick patched that one fridge next to us. Right. No problem. Woah. I thought you didn't have a job. He doesn't Get this. We all use the same ATM pin.
+
+🎤 SPEAKER_1 [2184s - 2188s]
+3852
+
+👤 あなた [2188s - 2189s]
+That's not
+
+🎤 SPEAKER_1 [2189s - 2195s]
+ATM pin. Mhmm. The provides. Wait. You steal from other
+
+👤 あなた [2195s - 2196s]
+Jerry's?
+
+🎤 SPEAKER_1 [2196s - 2206s]
+Maybe. Or maybe poor silly Jerry was just careless with his money. Would believe him anyway. Hey. That's work. Make this guy up in a sensitive dimension.
+
+🎤 SPEAKER_1 [2206s - 2216s]
+Search him both. Hey. Fuck you, pal. Jerry. Just relax. Well, this guy sucks. Seriously, Moebich. We're you pick him up? You mapping new routes and keeping him to yourself? Take it off.
+
+🎤 SPEAKER_1 [2216s - 2227s]
+We just wanna pass through. You don't wanna mess with me, pal. My Rick could kick your ass. You little suburb. Pussy. You should need Rick. Rick should need you.
+
+🎤 SPEAKER_1 [2227s - 2234s]
+You just need to find his pressure. Help. Help. Help. Take these two back to this guy's station and blacklist them both. Hurray.
+
+👤 あなた [2234s - 2234s]
+Hurray.
+
+🎤 SPEAKER_1 [2248s - 2251s]
+I can still get home. Right?
+
+👤 あなた [2251s - 2260s]
+Suck. Goddamn it. I told you to life.
+
+🎤 SPEAKER_1 [2260s - 2269s]
+What about my life? I didn't ask for any of this. You just showed up in my house. Okay. Okay. Here's my bitch. We get jobs as dockworkers. Tell them which way or something.
+
+🎤 SPEAKER_1 [2269s - 2275s]
+Save up to three months and move to Spain. We'll open the dance studio. Starts small, but eventually I'm not doing any of that.
+
+👤 あなた [2276s - 2280s]
+Where even are we? Morty's high school.
+
+🎤 SPEAKER_1 [2280s - 2292s]
+Yeah. This used to be my dimension. Was my way out. Oh, screw this. Hey. Where are you going? Two our house. There's gotta be an exit somewhere. An idea. They they they they is no house.
+
+🎤 SPEAKER_1 [2292s - 2299s]
+You expect me to trust you? What was I thinking? That I'd become some sort of hillbilly road sage, a cool prospector.
+
+👤 あなた [2299s - 2301s]
+My family loves me.
+
+🎤 SPEAKER_1 [2301s - 2304s]
+Can I throw it away for this? Stupid. No way
+
+🎤 SPEAKER_1 [2311s - 2320s]
+Oh my god. Yeah. This whole time, you've been preaching about freedom, getting out there, but you're not brave. You have to live like this.
+
+🎤 SPEAKER_1 [2320s - 2327s]
+You're the least cool version of me I've ever met. You're right. You're right. Tell them a loser. Let's just do when you take out of the face of my family, please.
+
+👤 あなた [2329s - 2336s]
+Hello? Oh my god. Shit. There's two of you. Hi there. Paul Fleishman, CPA. Hi. I'm
+
+🎤 SPEAKER_1 [2336s - 2338s]
+Jerry. It's a pleasure.
+
+👤 あなた [2338s - 2338s]
+Beth,
+
+🎤 SPEAKER_2 [2339s - 2347s]
+Jerry's back, and another one. Come on in. Can I get you guys some coffee? I'm a tea guy myself, Earl Grey, Little milk. Dad? Oh my god. Sherry?
+
+🎤 SPEAKER_1 [2347s - 2349s]
+Hi. Family?
+
+👤 あなた [2351s - 2353s]
+What the fuck is going on?
+
+🎤 SPEAKER_2 [2353s - 2358s]
+You booked out on us to dumpster dive across the multiverse? You resented me.
+
+🎤 SPEAKER_1 [2359s - 2365s]
+The kids didn't respect me? Rick hates me. How long did it take, but you even noticed I was gone? Oh, we noticed, asshole.
+
+🎤 SPEAKER_2 [2365s - 2366s]
+Don't put that on us.
+
+👤 あなた [2367s - 2370s]
+Yeah. Maybe there's something worthy of our respect, like, not disappearing.
+
+🎤 SPEAKER_2 [2370s - 2371s]
+Good point, Morty.
+
+🎤 SPEAKER_1 [2371s - 2375s]
+Oh, now Rick has thoughts on abandonment? I just said good points.
+
+🎤 SPEAKER_2 [2375s - 2376s]
+I'm glad you left.
+
+🎤 SPEAKER_1 [2377s - 2390s]
+Coming here was a bad idea. Hey. Stop disappearing for once. Mooch loves you guys. You're all he about out there. Morty. You love to eat bugs. Sure do. In summer, you hate showery.
+
+🎤 SPEAKER_2 [2390s - 2393s]
+Not as much anymore. I've actually been working on it. Oh, honey.
+
+🎤 SPEAKER_1 [2394s - 2396s]
+Hey. It's true.
+
+🎤 SPEAKER_3 [2396s - 2398s]
+I miss you guys so much.
+
+🎤 SPEAKER_1 [2398s - 2407s]
+Let me ask wander it around a bit. I did come back. But best I met Paul and you all seem so happy. We are happy, but that doesn't mean we hate you.
+
+🎤 SPEAKER_2 [2407s - 2409s]
+I mean, we hate you a little bit.
+
+👤 あなた [2409s - 2414s]
+Yeah. But both pretty cool. I don't wanna say we won the breakup, but Guys, don't pile on.
+
+🎤 SPEAKER_2 [2414s - 2417s]
+She Jerry's trying to apologize.
+
+🎤 SPEAKER_1 [2417s - 2430s]
+No. I deserve it. I thought you took me for granted, but it was the other way around. Rick? Here we go. I promised Jerry I'd get him home. Is there any way Address?
+
+🎤 SPEAKER_2 [2431s - 2438s]
+Oh, is it a number or, like, a lot of letters? Uh-oh.
+
+🎤 SPEAKER_1 [2438s - 2452s]
+We say Parmesan Weird, Like Parmesan. Does your portal gun use keywords? We could go door to door. Cannot go door to door. And maybe we we just get back on the road. There's a by the high school.
+
+🎤 SPEAKER_1 [2452s - 2456s]
+We'll we'll show you. If these guys try to kill me in the shed, I will not hold back back.
+
+🎤 SPEAKER_2 [2456s - 2456s]
+Fair is fair.
+
+🎤 SPEAKER_1 [2456s - 2458s]
+I'll be mean about it.
+
+🎤 SPEAKER_2 [2458s - 2459s]
+Mean deaths.
+
+🎤 SPEAKER_1 [2459s - 2465s]
+You blame me for leaving? No. I get it. It was really great to see you guys. Thanks for taking care of them,
+
+🎤 SPEAKER_2 [2465s - 2469s]
+Paul. It's your family, Jerry. I'm just living in it. Bye, Jerry. See you around.
+
+🎤 SPEAKER_1 [2470s - 2480s]
+Let's go. The only way back to your reality is through Grand Central. Those bandana jerseys will be on the lookout for us. I know.
+
+🎤 SPEAKER_3 [2480s - 2480s]
+But
+
+🎤 SPEAKER_1 [2480s - 2498s]
+I've got a nice idea. Leave my reality. Oh, hey, guys. Go. Hi, Jerry. Loving the 05:00 shoot. I'm and I love your bandanna.
+
+🎤 SPEAKER_1 [2522s - 2526s]
+Now, Mooch. You should've just stayed off the road. Damn it. He knows all the eggs. This is a dream.
+
+🎤 SPEAKER_2 [2527s - 2531s]
+This is some kind of weird hallucination. I I ate too many mushrooms. Excuse me?
+
+🎤 SPEAKER_1 [2531s - 2532s]
+Back to the couch.
+
+🎤 SPEAKER_1 [2600s - 2610s]
+It eventually might. It's it's just like they don't Andre the Giant. Stop. Stop. The mouse is gonna be okay. Yeah. He's doubling back back so the fishes.
+
+👤 あなた [2610s - 2616s]
+Oh, oh, boss. You just missed it. Those guys came by in a giant mouse. Mouse. Useless.
+
+🎤 SPEAKER_1 [2616s - 2620s]
+You know that? Ow. That that cool jacket changed you, Jerry.
+
+👤 あなた [2620s - 2624s]
+You're a mean guy now, and you pulled me out of my chair too much.
+
+🎤 SPEAKER_1 [2624s - 2625s]
+Omi. Get the golf cart.
+
+🎤 SPEAKER_1 [2644s - 2655s]
+Us sick. Why can't you just stay home and try it? You guys suck. You're weak. Not like me. I'm cool. I'm nothing like you. He's got a
+
+🎤 SPEAKER_1 [2670s - 2679s]
+Happy trails, bitch. Think those other Jerry's will be okay? Will we? I think I maybe just just killed a guy. You can't think about it. Is there one thing I've learned?
+
+🎤 SPEAKER_1 [2680s - 2682s]
+You can't think about it.
+
+🎤 SPEAKER_2 [2685s - 2686s]
+Well
+
+🎤 SPEAKER_1 [2686s - 2697s]
+This is me. Nice place you got here. Thanks. So what are you gonna do now? You could hang out here for a bit. I I can always have buy more cereal.
+
+🎤 SPEAKER_1 [2697s - 2708s]
+I'll be on someone else's tab. Well, I'll get Besides, maybe boss Jerry's gone now, and the road can open back up. Hell of a trip, Eagleman. See you around, booch.
+
+🎤 SPEAKER_2 [2711s - 2715s]
+What the hell? Guys, I found him. He was in the bedroom.
+
+👤 あなた [2715s - 2719s]
+I I thought I checked in here. What? You guys were looking for me? Okay.
+
+🎤 SPEAKER_1 [2719s - 2723s]
+Good. You found him. Told you I didn't compost his ass. God, can blink for everything.
+
+🎤 SPEAKER_2 [2723s - 2730s]
+We were so worried about you, Jerry. And this morning, meeting with an octopus. It'll probably happen again. What were you even doing up here? You know?
+
+🎤 SPEAKER_1 [2731s - 2737s]
+Just taking some me time. Gross. Well, I was a jerking off? Is that what you're implying?
+
+🎤 SPEAKER_2 [2737s - 2740s]
+Yeah. What the fuck? Who said that? You just looked road Yeah.
+
+👤 あなた [2740s - 2742s]
+You need to get home for Chad.
+
+🎤 SPEAKER_1 [2748s - 2750s]
+What the fuck was that? Nothing.
+
+👤 あなた [2756s - 2758s]
+A guy like you might be good for you.
+
+
+---
+
