@@ -1,0 +1,172 @@
+{
+  "id": "5fa5dbb8-048e-49ef-8512-2619d9991ca6",
+  "created_at": "2026-01-13T18:27:03.871225+00:00",
+  "started_at": "2026-01-13T18:28:33.067512+00:00",
+  "finished_at": "2026-01-13T18:30:14.164547+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Rachel and User Discuss Room And Telescope",
+    "overview": "The user chats with Rachel while looking at a calendar and commenting on the room feeling cramped. They mention having paid off a telescope, suggesting a recent or completed purchase. No specific plans, dates, or commitments are clearly scheduled during this brief exchange.",
+    "emoji": "🔭",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "857b41f6-0dce-418a-8de9-69a58352aa0e",
+      "text": "And when you touch my",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 2.424621641239355e-07,
+      "end": 5.000010242462167,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "cbd85ed4-dfdb-4d07-a447-79cc85611b72",
+      "text": "Excellent. Nice to have that back. Oh, we've got the calendar. Oh, that lives here, doesn't it? Oh, yeah.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 38.33001024246215,
+      "end": 44.87001024246217,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7b8a9762-26b4-4168-aa6f-01c05157f9a7",
+      "text": "Come stay there. Yeah.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 54.900010242462145,
+      "end": 56.180010242462146,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d202020c-0b9a-4f27-8272-479332dedf41",
+      "text": "It just this room a bit cramp though, Rach.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 65.70000024246215,
+      "end": 68.08000024246215,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "a9a1dcdb-bb82-435c-a2e3-8bc3354b0664",
+      "text": "I paid off the telescope, Rachel.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 88.45999024246214,
+      "end": 90.30001024246218,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157036,
+    "longitude": -3.27556,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "cf083934-e777-40bd-a601-6030118db0d4",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "5fa5dbb8-048e-49ef-8512-2619d9991ca6",
+      "chunk_timestamps": [
+        1768328819.497,
+        1768328824.583,
+        1768328829.749,
+        1768328834.803,
+        1768328840.87,
+        1768328846.255,
+        1768328851.399,
+        1768328856.483,
+        1768328861.557,
+        1768328866.584,
+        1768328871.582,
+        1768328876.785,
+        1768328881.871,
+        1768328887.004,
+        1768328892.291,
+        1768328897.479,
+        1768328902.603,
+        1768328907.626,
+        1768328913.005,
+        1768328918.138,
+        1768328924.103,
+        1768328930.208,
+        1768328935.182,
+        1768328940.378
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T18:26:59.497000+00:00",
+      "duration": 125.881
+    },
+    {
+      "id": "80eb98f6-a43f-4cef-867b-8224b0ee5146",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "5fa5dbb8-048e-49ef-8512-2619d9991ca6",
+      "chunk_timestamps": [
+        1768328996.888,
+        1768329002.899,
+        1768329008.447,
+        1768329014.601,
+        1768329019.679,
+        1768329025.008,
+        1768329030.111,
+        1768329035.168,
+        1768329040.576,
+        1768329045.574,
+        1768329051.566
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-13T18:29:56.888000+00:00",
+      "duration": 59.678
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Room and space comments  \n- User says room feels a bit cramped  \n- Calendar is present and referenced  \n\n## Telescope payment  \n- User states telescope has been fully paid off  \n\n## Next steps  \n- None explicitly discussed or requested"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
