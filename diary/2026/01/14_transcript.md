@@ -666,3 +666,53 @@ Notice I pulled off a straight line. I haven't gone via Newport or via Commarban
 
 ---
 
+
+
+## 📝 Family Discusses Light Pollution Map - 23171ee8-807f-4f41-b14b-c0c24fc48d20
+
+**記録時間**: 2026-01-14 02:52:47
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+Hold on.
+
+👤 あなた [78s - 79s]
+Look at a light pollution now.
+
+👤 あなた [86s - 89s]
+Where's the rest he's in? You're the only child not playing?
+
+👤 あなた [95s - 112s]
+Oh, I see. And this is a map that shows you where all the light is. That and that blocks your view of a good telescope view. That's What's the red means? That means it the the the harder it is to see the night sky because of all the lights, so the houses, the street lights.
+
+👤 あなた [112s - 130s]
+That's Cardiff. That's Barry. Yellow's worse. Green's better. We like. No. We're This cemetery there. So our house is less.
+
+🎤 SPEAKER_2 [130s - 130s]
+Yeah.
+
+🎤 SPEAKER_2 [134s - 134s]
+Yeah.
+
+👤 あなた [137s - 145s]
+So looks like you really have to go out of Barry. Even better, you wanna head over to these bits here. There's no light at all.
+
+🎤 SPEAKER_2 [147s - 148s]
+For the Brecken Beacons,
+
+🎤 SPEAKER_1 [149s - 151s]
+The bracken beacons.
+
+🎤 SPEAKER_3 [151s - 151s]
+Great.
+
+🎤 SPEAKER_2 [176s - 177s]
+I don't know when you see any people.
+
+🎤 SPEAKER_3 [205s - 206s]
+Then, Jude.
+
+
+---
+
