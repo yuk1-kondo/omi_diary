@@ -2946,3 +2946,50 @@ When is Sunday school going on? Friday, so Sunday school happens on.
 
 ---
 
+
+
+## 📝 Rachel Shares God First Audio Teaching Intro - 99d250b4-62a7-414c-af06-d4f17f5ca4e2
+
+**記録時間**: 2026-01-13 23:47:17
+
+### STT生テキスト
+
+👤 あなた [0s - 8s]
+Welcome to God First all new teaching. Hope you find that teaching helpful and To me, and everything else up. For whose sake up?
+
+👤 あなた [12s - 17s]
+Welcome to God First all you Perhaps something of your faith in Christ.
+
+👤 あなた [92s - 96s]
+Welcome to God First all you teaching. Welcome to God first, all
+
+👤 あなた [118s - 123s]
+Welcome to God First all year teaching. Welcome to God first all you teach.
+
+👤 あなた [150s - 155s]
+Welcome to God First all your teaching. We hope you find that teaching helpful in your journey with Jesus.
+
+👤 あなた [172s - 175s]
+Welcome to God First all year teaching.
+
+🎤 SPEAKER_3 [175s - 176s]
+We hope you find that teaching helpful.
+
+👤 あなた [177s - 178s]
+In your journey with Jesus.
+
+👤 あなた [272s - 285s]
+Welcome to God First audio teaching. Hope you find that teaching helpful in your journey with Jesus. If you would like to join us or learn more about us, please visit our website at godfirstchurchbarry dot com
+
+👤 あなた [290s - 292s]
+Promise that every tear will be walked away.
+
+🎤 SPEAKER_7 [292s - 306s]
+Sometimes that is a massive experience, and sometimes I've seen people meet in a fantastic way. At the times, it's completely silent and kind of there's no external kind of indication of that.
+
+🎤 SPEAKER_7 [306s - 313s]
+But if you want to meet with Jesus, I wanna invite you to us where you are. Just put your hands out in front of you.
+
+
+---
+
