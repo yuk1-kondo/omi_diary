@@ -483,3 +483,20 @@ In fact, we need to leave in ten minutes. Jude. We need to leave in ten minutes 
 
 ---
 
+
+
+## 📝 Brief Reminder To Leave Soon - b0b6de2f-9efd-47d2-a6b1-0a19c5652da0
+
+**記録時間**: 2026-01-14 01:57:25
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 1s]
+Jewy finish it.
+
+👤 あなた [6s - 9s]
+Need to leave in a little while. Okay?
+
+
+---
+
