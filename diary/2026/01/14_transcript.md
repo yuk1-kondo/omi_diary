@@ -637,3 +637,32 @@ I haven't got some of this. Okay.
 
 ---
 
+
+
+## 📝 Coach Explains Direct Drive To Basketball Hoop - 7e76cf11-048e-440c-94d0-96fb35acdae0
+
+**記録時間**: 2026-01-14 02:20:18
+
+### STT生テキスト
+
+👤 あなた [0s - 3s]
+Close it. Still got you. Sorry, mate.
+
+👤 あなた [77s - 84s]
+Sorry. Where are you sitting here? No. No. I'm just coming. Oh, okay. We were all sat the night when you're Oh, right. Okay. Oh, makes sense. Yeah.
+
+🎤 SPEAKER_2 [137s - 165s]
+Is this, which means that we can't see our above our chin, and you're gonna drive to the basket. The basketball is a very quick game. You can't shop it and then go around the basket off.
+
+🎤 SPEAKER_2 [165s - 170s]
+So I want you to go in a straight line.
+
+👤 あなた [170s - 174s]
+So show bait, drive to the basket, and finish.
+
+🎤 SPEAKER_2 [174s - 183s]
+Notice I pulled off a straight line. I haven't gone via Newport or via Commarban. I've gone to the basket.
+
+
+---
+
