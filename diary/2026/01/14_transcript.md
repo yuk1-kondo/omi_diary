@@ -1113,3 +1113,80 @@ I paid off the telescope, Rachel.
 
 ---
 
+
+
+## 📝 Rachel and User Plan Tesco Grocery Orders - dbc21977-6118-4d45-907c-71cddac096cc
+
+**記録時間**: 2026-01-14 03:32:17
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 1s]
+Okay. Excited.
+
+👤 あなた [2s - 6s]
+Yeah. What do you think? Bigger, smaller than you thought?
+
+🎤 SPEAKER_2 [7s - 15s]
+It's the fat thing. It's different. The fat stand. Yeah. I guess it's This isn't I guess I expected something to be more like that, chunky.
+
+👤 あなた [15s - 30s]
+This is what's called a Dobsonian mount. So because it you can it can swivel basically in any direction in any angle. Yeah. So because obviously the earth spins. Yeah. It's easier than traditional tripod.
+
+👤 あなた [30s - 48s]
+That takes a that's a lot harder to get right, and people get frustrated and they quit too soon. But if you have a Dubsonian sand, much easier to track when you're a beginner or you buy really expensive auto tracker, but that's a, that's expensive and b, that's Beyond a.
+
+🎤 SPEAKER_1 [48s - 51s]
+It's not really the kinda not the fun of it, really, is it?
+
+👤 あなた [61s - 64s]
+Well, can what what is that? Because I could maybe I can do it.
+
+🎤 SPEAKER_2 [69s - 73s]
+I ended up getting more concerned about this tree.
+
+👤 あなた [73s - 74s]
+That's fine.
+
+🎤 SPEAKER_2 [74s - 76s]
+Christmas decorations than Fair enough. Yeah.
+
+👤 あなた [78s - 87s]
+Listen. I was thinking about this. What I'm gonna do, if you give me your test code login, hang on. Oh, oh, yeah. Thought that. Yeah. Sorry. I thought that face was what I was saying. Give me your test log in.
+
+👤 あなた [87s - 100s]
+What I'll do is I'll book three four five weekly or biweekly or 10 daily shops or something. And they can just be set there. Presumably, we can cancel them if we don't need them.
+
+👤 あなた [101s - 105s]
+I mean, I'm That way then we can just throughout the week just both of us can pop things on.
+
+🎤 SPEAKER_1 [105s - 105s]
+Yeah.
+
+👤 あなた [106s - 118s]
+And that way then we're not it'll stop us going to the corner shop. Yeah. Because that was the only Robinson they did. $1.60 for that. And and the bread was expensive. And I thought, well, could probably do it if we yeah.
+
+👤 あなた [118s - 125s]
+But if I if I were to set that up on the app or something I thought that's really the issue. I think it's adding the food items.
+
+🎤 SPEAKER_2 [125s - 127s]
+Alright. That's the issue. Isn't
+
+👤 あなた [127s - 133s]
+Tesco, like, smart got smart selections and all that based on your club cards. It's hard.
+
+🎤 SPEAKER_2 [133s - 138s]
+Yeah. I don't know. Know. It's just because it always different every week because our life is so vary.
+
+👤 あなた [139s - 145s]
+It'd be useful to have though, wouldn't it? To have that set up and then just if you know, you're watching TV, you think, oh, could pop that on the chop.
+
+👤 あなた [145s - 146s]
+Oh, yeah. That sort of thing.
+
+👤 あなた [154s - 157s]
+Yeah. But that's the that's the extra step, isn't it, really?
+
+
+---
+
