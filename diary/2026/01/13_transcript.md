@@ -222,3 +222,20 @@ It's Christmas. It's Christmas.
 
 ---
 
+
+
+## 📝 User Instructs Omi On Using Brakes - bf6247fd-33fa-40b5-a56e-9b4fad957341
+
+**記録時間**: 2026-01-13 17:36:28
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+For flip six, I'm leaving.
+
+👤 あなた [20s - 27s]
+Omi. So you're gonna have to use these brakes. Go ahead.
+
+
+---
+
