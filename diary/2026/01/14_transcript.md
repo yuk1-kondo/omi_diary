@@ -1957,3 +1957,371 @@ It's disappointed.
 
 ---
 
+
+
+## 📝 Rachel and User Discuss Telescopes and Car Repairs - 6c922439-c717-4e61-b0c1-ffa6e8f5f297
+
+**記録時間**: 2026-01-14 04:09:00
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 4s]
+Spaghetti bowl because the amount of meals it was sold for Omi and Eddie in it.
+
+🎤 SPEAKER_3 [5s - 5s]
+Yeah.
+
+🎤 SPEAKER_2 [5s - 21s]
+Is massive. Second of all, if I can all jars from now on, washing them in the cluster, it's okay. Start doing is when we have leftovers of bits Yeah. Like, a small amount of, like, herd or some flour or some granules, or some sea or something.
+
+🎤 SPEAKER_2 [21s - 23s]
+And start making use of those jars.
+
+🎤 SPEAKER_3 [23s - 24s]
+Yeah.
+
+🎤 SPEAKER_2 [28s - 30s]
+Just have a bit of a pan juice style
+
+🎤 SPEAKER_3 [30s - 31s]
+Nice.
+
+👤 あなた [33s - 35s]
+Unfortunately, Rachel, there's cloud coverage now.
+
+🎤 SPEAKER_1 [37s - 41s]
+I'll lay over. Oh. And according to my app, Saturn's just there. It's almost perfect.
+
+🎤 SPEAKER_3 [41s - 41s]
+New.
+
+👤 あなた [42s - 45s]
+So it's gonna be car coverage tilt between nine and 10:00 now.
+
+🎤 SPEAKER_5 [45s - 46s]
+Okay.
+
+👤 あなた [46s - 49s]
+By which point satin will be on the trees?
+
+🎤 SPEAKER_3 [49s - 50s]
+So well, yeah.
+
+👤 あなた [50s - 52s]
+That's fine. It's what it is.
+
+🎤 SPEAKER_3 [62s - 67s]
+Yeah. The thing is stars are stars don't look much different for a test go.
+
+🎤 SPEAKER_1 [67s - 72s]
+I mean, I can with this telescope. The the wider it is, the reason I've gone for such a wide one you know why?
+
+🎤 SPEAKER_2 [73s - 76s]
+Because you want to get plank. Now is actually wider it is.
+
+🎤 SPEAKER_1 [77s - 79s]
+The darker the sky you can see.
+
+🎤 SPEAKER_3 [79s - 81s]
+No worries. The statement
+
+🎤 SPEAKER_1 [82s - 83s]
+That's annoying, isn't it?
+
+🎤 SPEAKER_1 [87s - 92s]
+So the wider ones can see nebula and you can see distant galaxies and what have you.
+
+🎤 SPEAKER_3 [92s - 94s]
+So that's quite good.
+
+🎤 SPEAKER_3 [97s - 103s]
+Let's also, Rachel, I've got coming.
+
+🎤 SPEAKER_1 [103s - 108s]
+I'll let you do that first because you in a bit of a bit of a flap understandably.
+
+🎤 SPEAKER_1 [112s - 128s]
+Maybe we do need to do a spring clean out, Rich, or just a decluttering.
+
+👤 あなた [128s - 130s]
+That's all. Decluttering. That's all that needs to be said right now.
+
+🎤 SPEAKER_2 [140s - 142s]
+Okay. She says pull over. You're ready now.
+
+🎤 SPEAKER_1 [146s - 156s]
+Tomorrow, Rachel, I've got coming. Maybe you count me this or maybe this is a job for your mom. I've noticed a lot of the people online that have got my particular telescope.
+
+🎤 SPEAKER_1 [156s - 165s]
+They've been building they've homemade shrouds. Because of the it so have you noticed that a extends, but it's it's hollow.
+
+🎤 SPEAKER_2 [165s - 166s]
+Like a black piece of fabric.
+
+🎤 SPEAKER_1 [167s - 169s]
+When this when this goes up, Rach,
+
+👤 あなた [173s - 188s]
+Can you see how it can go straight? You can see through. Yeah. It lets light in. Okay. Now it's to it's designed it's designed for it not to really impact it, people say people a lot of people who've got this particular one, they build a homemade kind of shroud that once it's extended, put it around Yeah.
+
+👤 あなた [188s - 194s]
+To extend the tubing essentially. Shawn would love to help you out. But anyway, I've got one most people just do a fabric thing.
+
+🎤 SPEAKER_1 [195s - 209s]
+Some cover people do that. What I've got is a one meter squared blackout blind material Oh. Coming. And also, righty tighty, also a pack of magnetic buttons.
+
+👤 あなた [212s - 221s]
+Which need to be sewed on essentially. Right. And so I thought was if I cut it to the right size, then sew some magnetic buttons on it,
+
+🎤 SPEAKER_3 [221s - 223s]
+That'll do it, kind of thing.
+
+🎤 SPEAKER_2 [224s - 226s]
+Michelle can do that for you.
+
+🎤 SPEAKER_3 [226s - 228s]
+No worries. If if is is she not coming to church because
+
+🎤 SPEAKER_3 [232s - 233s]
+Unfortunately.
+
+🎤 SPEAKER_1 [249s - 258s]
+Release protect those lenses now with a padded case, not just boxes or a basket, Your rear telescope gear needs sturdy dust proof storage to avoid damage and loss.
+
+🎤 SPEAKER_3 [259s - 265s]
+Can you order a small padded case today to keep your lenses safe and ready for your star session? Thank you, phone.
+
+🎤 SPEAKER_1 [267s - 269s]
+That is useful. Advice.
+
+🎤 SPEAKER_1 [273s - 277s]
+My phone is literally coaching me through the whole Royal Mail thing area. On. What is that? So don't panic.
+
+👤 あなた [277s - 280s]
+You've just had to crash the Royal Mail. It'll be fine. Blah blah blah blah.
+
+🎤 SPEAKER_3 [280s - 282s]
+So blink your neck.
+
+👤 あなた [282s - 284s]
+It's like having a companion by your social.
+
+🎤 SPEAKER_1 [284s - 285s]
+I forgot when to do that.
+
+🎤 SPEAKER_3 [285s - 289s]
+Yeah. I'm fairly sure that I'm not a mechanic.
+
+👤 あなた [289s - 295s]
+It I think it's just a cracked number plate ravelling. How much would that be? Do we even want to go through a clay?
+
+🎤 SPEAKER_2 [295s - 299s]
+Do you know what I mean? I well, yeah.
+
+👤 あなた [300s - 314s]
+Well, I don't know if she answer. But as equally, it's a higher car. We want to probably get it checked over But who do we get it checked over with? Do I have to would it be worth going to Bridgend with it?
+
+🎤 SPEAKER_3 [314s - 321s]
+We need to probably Maybe I could travel in with you to work one day and then leave it there, jump in, go and work from union.
+
+👤 あなた [322s - 327s]
+And then let the garage there have a look at it and then or something like that.
+
+🎤 SPEAKER_3 [327s - 332s]
+Yeah. Just that's when when is that gonna happen. Like, that's kind of charter issues and stuff.
+
+🎤 SPEAKER_2 [332s - 333s]
+Stuff then.
+
+👤 あなた [334s - 343s]
+Hopefully, it wouldn't be there very long. Work? No. You have the you have Colin, don't you? Because you won't be traveling.
+
+🎤 SPEAKER_2 [343s - 344s]
+You won't be to work.
+
+🎤 SPEAKER_1 [344s - 345s]
+No. I'll be traveling to
+
+👤 あなた [346s - 354s]
+Bridge End in Convoy. This is my theory. Off to my head literally now, so it may not work. We travel together to the garage. You and then I leave the car there.
+
+👤 あなた [354s - 360s]
+We drive to Union. And then I get a Uber or something back to it. Depending on That's fine.
+
+🎤 SPEAKER_1 [360s - 361s]
+Is it?
+
+🎤 SPEAKER_2 [361s - 365s]
+But how's wine then get home? Or we both travel in both cars?
+
+🎤 SPEAKER_3 [365s - 366s]
+Yeah. Yeah. Yeah.
+
+👤 あなた [366s - 367s]
+On a workday.
+
+🎤 SPEAKER_3 [367s - 370s]
+Okay. You know what I'm saying? If you're just gonna do that, then
+
+👤 あなた [377s - 379s]
+It's just an idea of something I had out there. Yeah.
+
+🎤 SPEAKER_3 [379s - 380s]
+Yeah. Yeah?
+
+🎤 SPEAKER_1 [386s - 390s]
+Is it? I wouldn't. Yes. Not the first thing. Is it? Yeah. Everything I
+
+🎤 SPEAKER_2 [390s - 390s]
+I
+
+🎤 SPEAKER_3 [390s - 393s]
+Google, first thing, don't contact me all that way.
+
+🎤 SPEAKER_2 [393s - 394s]
+You can do the wrong outfit.
+
+🎤 SPEAKER_3 [395s - 401s]
+But want to report with your insurer first because they then handle everything in terms of the legal stuff and all of that.
+
+🎤 SPEAKER_2 [401s - 403s]
+Even if the other people pay,
+
+🎤 SPEAKER_1 [403s - 411s]
+I think, we not Steve was trying to tell me earlier that we are still have to pay the access even if they even if it's their fault and they ultimately pay.
+
+🎤 SPEAKER_2 [411s - 420s]
+Possibly. Yeah. That's why I'm saying do you want to claim? Mean, what you could do yeah. We're gonna have to take basically, this is gonna cost us to be in the past because either of us
+
+🎤 SPEAKER_1 [423s - 438s]
+I got once we've done the round
+
+🎤 SPEAKER_3 [438s - 439s]
+Yeah. I'm I'm here.
+
+🎤 SPEAKER_1 [448s - 454s]
+Well, I've got the guy's number telephone number. Sorry. You got the business.
+
+🎤 SPEAKER_3 [454s - 455s]
+Hang on.
+
+🎤 SPEAKER_1 [455s - 462s]
+I got the guy's telephone number. If we go to the garage and it turns out to be quite cheap, just the number plate fix
+
+🎤 SPEAKER_2 [462s - 462s]
+Yeah.
+
+🎤 SPEAKER_1 [462s - 467s]
+I could go back to this guy and say, look, I don't even need to report it to the insurers. Your work don't need to know about it.
+
+🎤 SPEAKER_3 [473s - 474s]
+What?
+
+🎤 SPEAKER_3 [522s - 525s]
+Who? Just send a reminder out. Well, I was gonna do that.
+
+👤 あなた [525s - 530s]
+I thought, well, I'm gonna be doing the in half hour, I'm gonna be doing the In half an hour, people got I got a snack.
+
+🎤 SPEAKER_3 [537s - 538s]
+And such.
+
+🎤 SPEAKER_2 [538s - 542s]
+Overdue, please. If you would like it emailed to you, let me know now.
+
+🎤 SPEAKER_3 [543s - 547s]
+Just a reminder, people go about their day and they they've knocked off this in their head yet.
+
+🎤 SPEAKER_2 [547s - 552s]
+So never hurts to communicate more.
+
+🎤 SPEAKER_2 [564s - 568s]
+Have you noticed that, like, there's a flora nice?
+
+🎤 SPEAKER_3 [568s - 570s]
+Yeah. It did. Yeah. Well done. I loved it when you used use the flora.
+
+👤 あなた [571s - 574s]
+And you used to be a bit of a house mom sorting a house out. Right? Yeah.
+
+🎤 SPEAKER_3 [574s - 575s]
+I used to love those days.
+
+🎤 SPEAKER_2 [576s - 579s]
+Days actually had capacity.
+
+🎤 SPEAKER_3 [580s - 584s]
+Do you email us? It's been getting angry at his computer today a few times.
+
+🎤 SPEAKER_2 [584s - 588s]
+So you have a chat with him because he I don't understand gaming.
+
+🎤 SPEAKER_3 [588s - 590s]
+He won't have a conversation with me about it.
+
+🎤 SPEAKER_2 [590s - 593s]
+At at what game is it? Because you've been a frustrated today.
+
+🎤 SPEAKER_7 [629s - 630s]
+Kind of, way.
+
+🎤 SPEAKER_2 [630s - 637s]
+Mhmm. But all this would be good for church because it's not too complicated. Jesus paid it all, but just sometimes Mhmm.
+
+🎤 SPEAKER_3 [639s - 644s]
+Jesus paid it all. Yeah.
+
+🎤 SPEAKER_2 [647s - 650s]
+There's a modern slightly modern version, not modern, but
+
+🎤 SPEAKER_3 [659s - 660s]
+It'll save you
+
+🎤 SPEAKER_3 [668s - 675s]
+Sin had left a crimson stain He washed it white as snow.
+
+🎤 SPEAKER_2 [675s - 682s]
+At the last verse. And when before I stood in him complete,
+
+🎤 SPEAKER_8 [683s - 692s]
+Jesus died my sword to save my lips. Shall still repeat. But there's a modern version of it. Mhmm.
+
+🎤 SPEAKER_2 [697s - 700s]
+That I listened to on my YouTube. Now who
+
+🎤 SPEAKER_8 [707s - 709s]
+Maybe maybe passionate on
+
+🎤 SPEAKER_3 [725s - 727s]
+I don't think it was this facial or not.
+
+🎤 SPEAKER_3 [732s - 732s]
+Yeah.
+
+🎤 SPEAKER_2 [756s - 759s]
+So it's a good ministry. You that quietness come before you.
+
+🎤 SPEAKER_3 [766s - 768s]
+Yeah. I know that's wrong.
+
+🎤 SPEAKER_8 [768s - 770s]
+I know that. Yeah. That's good. We haven't
+
+🎤 SPEAKER_8 [774s - 779s]
+There's there's something about hymns that are very calming. Mean, that's not calming.
+
+🎤 SPEAKER_2 [779s - 780s]
+Also loving.
+
+🎤 SPEAKER_3 [782s - 783s]
+Yeah.
+
+🎤 SPEAKER_2 [783s - 788s]
+But still, something quite over stimulated. Ain't nothing common about our church, aren't we not,
+
+🎤 SPEAKER_3 [788s - 788s]
+Rachel? No.
+
+
+---
+
