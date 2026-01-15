@@ -215,3 +215,44 @@ I'm sure.
 
 ---
 
+
+
+## 📝 Rachel and User Discuss Plane Seat Booking - 0f21ae23-1016-48ee-a87f-8b211b96322d
+
+**記録時間**: 2026-01-16 07:52:47
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 10s]
+I have to choose our seats for you, Mhmm. Try it pay. Or you just turn up and risk it.
+
+🎤 SPEAKER_3 [38s - 41s]
+I wouldn't know where I was going to sit on a plane.
+
+👤 あなた [43s - 48s]
+Brinking anywhere, Omi, bed. To be honest.
+
+🎤 SPEAKER_3 [48s - 59s]
+I would probably do the middle aisle. Not the window. Because you've got two points of x in there, you? Whereas there's three in there.
+
+🎤 SPEAKER_3 [60s - 62s]
+Yeah. Yeah. They'll blame me.
+
+🎤 SPEAKER_3 [67s - 74s]
+Don't know if that building will go through to Steven. God.
+
+👤 あなた [74s - 80s]
+Well, I completely need to worry too much, brother. That for now until oh, I don't know.
+
+🎤 SPEAKER_3 [168s - 177s]
+You can wait until a check-in opens twenty four hours before. If you go in bang on twenty four hours before, which would be 08:40 on Saturday night.
+
+🎤 SPEAKER_3 [179s - 182s]
+It it's free then, but obviously, there's less choice.
+
+👤 あなた [188s - 188s]
+Yeah.
+
+
+---
+
