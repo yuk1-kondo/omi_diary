@@ -171,3 +171,47 @@ But availability and type can vary.
 
 ---
 
+
+
+## 📝 Rachel and User Discuss Flight Details - 14f44913-2692-4a38-961b-c8c390577d09
+
+**記録時間**: 2026-01-16 07:39:04
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 9s]
+And we've got to put loads of details in on our flights. Mhmm. There's not a passport number or anything in. Passport numbers.
+
+🎤 SPEAKER_3 [10s - 20s]
+Before you fly, you need to add in. So you basically put the booking as all just ours. Yeah. Okay. But you've got you check-in the day before.
+
+🎤 SPEAKER_3 [41s - 43s]
+We can do our airport parking through this booking then.
+
+👤 あなた [45s - 46s]
+Yeah.
+
+🎤 SPEAKER_3 [46s - 48s]
+Well, I know if that means it'll come out.
+
+🎤 SPEAKER_3 [101s - 106s]
+Can manage your meals. Like, you I've, like, whatever.
+
+🎤 SPEAKER_3 [208s - 216s]
+We need to look past because on here, it says we made parking, they return a fine.
+
+👤 あなた [224s - 230s]
+Well, it's quite eleven, can we We don't we don't need to do it now, but I do feel like you do at all if I didn't mention it.
+
+🎤 SPEAKER_3 [230s - 232s]
+So I'm just No. I'm not doing it now.
+
+👤 あなた [233s - 244s]
+I don't really want too much to do with any any of that. You can do it. You're a woman. Independent woman, baby. Don't you can do you can figure it out.
+
+👤 あなた [244s - 244s]
+I'm sure.
+
+
+---
+
