@@ -865,3 +865,98 @@ What do we think about that in terms of theological coherence to sanctification.
 
 ---
 
+
+
+## 📝 Ree Confirms Domain Is Set Up Correctly - 025b07b4-7684-4806-906f-9d9f433a78fe
+
+**記録時間**: 2026-01-16 18:01:51
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 0s]
+Thank you.
+
+👤 あなた [59s - 61s]
+Hello. Ree speaking.
+
+🎤 SPEAKER_3 [61s - 63s]
+Hello, Matthew De Reece. Carner,
+
+👤 あなた [64s - 65s]
+Yeah. How can I help?
+
+🎤 SPEAKER_3 [66s - 71s]
+This is Josh calling from Ionos. We run your domains and emails at f e p hyphen. Do you care?
+
+👤 あなた [72s - 84s]
+Hi, buddy. Yeah. I I spoke to one of you you guys before, we we just using the domain name. We are. We're not doing anything else with with it. Isn't it's just an internal internal project.
+
+👤 あなた [84s - 93s]
+Yeah. Go on. When when did you speak to somebody, Reese? Oh, a while back now. Probably had a guess a week or two after we registered the, the main name.
+
+👤 あなた [93s - 101s]
+I can't remember where that was now. Earlier earlier last year, But It was registered on the eighth of not October,
+
+🎤 SPEAKER_3 [101s - 103s]
+September on the eighth Yeah.
+
+👤 あなた [103s - 111s]
+That sounds about right. Yeah. And it was mainly because it's it's not a public site. It's a it's it's just a private it's just a for a small group of people.
+
+👤 あなた [111s - 115s]
+So it's it's not really appropriate for the project. But if we do another project, I'll be open to it. Yeah.
+
+🎤 SPEAKER_3 [116s - 123s]
+Also got a checkup call of the recently registered because some of our some of our department do that just to check up checks.
+
+🎤 SPEAKER_3 [123s - 125s]
+Oh, yeah. Are you doing off deregister? Very good.
+
+👤 あなた [125s - 126s]
+Okay.
+
+🎤 SPEAKER_3 [126s - 129s]
+And how how things been going for so far for you then actually reach?
+
+👤 あなた [129s - 143s]
+Yeah. Absolutely. Yeah. Absolutely fine. Yeah. It's doing the it's doing the job. Yeah. It's all good. Well, don't on this particular one, I don't it's just that's all we need, I think. But but maybe future projects, we can lose some more.
+
+🎤 SPEAKER_3 [145s - 154s]
+Is it like a like a business or personal work? What is it? So I'm a church pastor, and it's for it's an internal tool for a people in our church to use.
+
+👤 あなた [154s - 164s]
+So it was kinda like just making it easy easy to access. So it's it's not really something that I'd have advertised or or put more widely than that.
+
+👤 あなた [164s - 173s]
+So in that sense, it's it was just I'm hosting it on Vercel and other places. So the domain name is just perfect for it. So so it's all good.
+
+🎤 SPEAKER_3 [174s - 178s]
+Okay. And then just in connection with your emails, I mean, restart I'm gonna
+
+🎤 SPEAKER_4 [178s - 182s]
+Mhmm. Do you need any emails? Would you would you get any emails with this? Or
+
+👤 あなた [182s - 195s]
+No. We got we got we got some workspace emails. Yes. Right. Yeah. We got we got workspace accounts with with with Google. Separate. So but, yeah, don't I don't need it. I don't need it for this one, I'm afraid.
+
+👤 あなた [195s - 202s]
+So I'm sorry, my friend. There's nothing there's nothing I need Nothing I need. That's that's definitely fine, Reed.
+
+🎤 SPEAKER_3 [202s - 207s]
+If I think case, I'll make a note of that on my system. I mean, if there's other questions, I'll let you go on your merry way. Okay?
+
+👤 あなた [207s - 209s]
+Thank you, buddy. All the best.
+
+🎤 SPEAKER_3 [209s - 210s]
+Fantastic. You too. Bye.
+
+👤 あなた [248s - 251s]
+Two four six eight. Ten twelve.
+
+🎤 SPEAKER_4 [253s - 265s]
+Four eight Four eight sixteen. 4816, twenty twenty four
+
+
+---
+
