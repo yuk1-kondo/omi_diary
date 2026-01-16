@@ -555,3 +555,86 @@ Yeah.
 
 ---
 
+
+
+## 📝 User And Rachel Chat About Politics And Maps - 0dd7531e-09cd-4251-a363-dfb1d5a66a1a
+
+**記録時間**: 2026-01-16 15:50:24
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 2s]
+Up now. He must not wait, and he'll
+
+👤 あなた [53s - 53s]
+Okay.
+
+🎤 SPEAKER_1 [56s - 64s]
+I'm gonna have it just takes out forty minutes for the meds to kick in. I'm like, oh, so painful.
+
+🎤 SPEAKER_1 [76s - 81s]
+It will be, and it will be like that. So it's scheduled to run.
+
+🎤 SPEAKER_1 [87s - 101s]
+And this one was a few days late. So it's whole
+
+🎤 SPEAKER_1 [128s - 129s]
+Okay.
+
+👤 あなた [213s - 216s]
+Good time management. Short feet.
+
+🎤 SPEAKER_1 [221s - 225s]
+Oh, I just know. I think that's on this tablet. I think no shorts on this tablet.
+
+👤 あなた [240s - 240s]
+So much time.
+
+🎤 SPEAKER_1 [243s - 247s]
+How can you actually turn the shorts off? It's not available.
+
+👤 あなた [248s - 253s]
+Well, that's new. I'm not saying for. Well, I set 15 then.
+
+🎤 SPEAKER_1 [267s - 267s]
+Put
+
+👤 あなた [268s - 273s]
+I think I'll put the lower so I can do it from now and then. When they run out changes.
+
+👤 あなた [279s - 290s]
+You could jump force in the Venezuela, and you present presidents. They put in place He's made her give him her no royal priest price.
+
+👤 あなた [290s - 301s]
+Know he just claimed it for himself. And that doesn't work for you. Don't get to just take some of those Nobel peace prize and Recurities done.
+
+👤 あなた [302s - 303s]
+He's so weird.
+
+🎤 SPEAKER_1 [304s - 306s]
+That's all the stuff with green then.
+
+👤 あなた [307s - 310s]
+Yeah. Something's kill kills over and died.
+
+🎤 SPEAKER_1 [310s - 320s]
+There's that joke There's a joke who won it. Obviously, he say about Greenland, but maybe like, we don't want Russia, you're near us or whatever.
+
+🎤 SPEAKER_1 [320s - 322s]
+Maybe not realizing that we're
+
+🎤 SPEAKER_1 [327s - 341s]
+And you're saying, oh, maybe he maybe or he's on American mat. US map. It's always what is it? It's always like a last Alaskan and Hawaii was in a little box.
+
+👤 あなた [341s - 344s]
+She doesn't quite realize. Maybe he doesn't realize.
+
+🎤 SPEAKER_1 [344s - 346s]
+That they're out there basically touching my shirt.
+
+👤 あなた [346s - 348s]
+He just sounds constantly stupid, unfortunately.
+
+
+---
+
