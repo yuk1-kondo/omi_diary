@@ -1,0 +1,88 @@
+{
+  "id": "830dd78b-52fe-4ac3-ae6b-2aacf95c92e0",
+  "created_at": "2026-01-16T07:34:44.555106+00:00",
+  "started_at": "2026-01-16T07:35:23.834236+00:00",
+  "finished_at": "2026-01-16T07:35:33.670274+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Brief Chat About Ultrasound Paper",
+    "overview": "The user briefly asks someone to use \"ultras\" or \"sultrast\" paper, possibly referring to ultrasound-related paper, and mentions that they moved the bed around. The context suggests a quick, practical adjustment in a room setup, likely related to equipment or furniture positioning, but no follow-up actions or scheduled events are clearly defined.",
+    "emoji": "🧾",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "aa7ad520-99cd-416e-84ff-f6253e3f75ce",
+      "text": "Can you use ultras paper? Sultrast. Sultrast paper? Yeah. We moved the bed around, I think.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 4.291534878575476e-07,
+      "end": 6.260000429153479,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156988,
+    "longitude": -3.2755626,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "19b25b30-9192-4566-a345-2d5c37f532d1",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "830dd78b-52fe-4ac3-ae6b-2aacf95c92e0",
+      "chunk_timestamps": [
+        1768548882.254,
+        1768548887.243,
+        1768548892.3,
+        1768548897.416,
+        1768548905.578,
+        1768548910.793,
+        1768548916.42,
+        1768548921.605,
+        1768548926.642,
+        1768548931.686,
+        1768548936.832,
+        1768548941.824,
+        1768548946.867,
+        1768548951.875
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-16T07:34:42.254000+00:00",
+      "duration": 74.621
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Ultras paper question  \n- User asks if ultras paper can be used  \n- Mentions “Sultrast” or “Sultrast paper”  \n\n## Context detail  \n- Mentions moving the bed around recently  \n\n## Next steps  \n- Clarify what “ultras/Sultrast paper” specifically refers to  \n- Specify purpose: craft, medical, packaging, or other use"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "66c1f6ee-d299-4332-9cbb-6adfb3f8462b"
+}
