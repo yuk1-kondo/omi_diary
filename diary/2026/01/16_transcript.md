@@ -638,3 +638,86 @@ He just sounds constantly stupid, unfortunately.
 
 ---
 
+
+
+## 📝 Casual Chat About Multiplayer Gaming - 9a13abec-18a4-447d-ae95-58eaa29da708
+
+**記録時間**: 2026-01-16 16:17:59
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 0s]
+Yep.
+
+👤 あなた [105s - 115s]
+Yep. I'm sorry. Walking towards the stairs before you shift the bridge. Come on just for the still Just for the record.
+
+👤 あなた [119s - 122s]
+Yep. So, Mike, come on in there, Ejay. This is the road.
+
+👤 あなた [127s - 133s]
+Well, no. I I would walk out the door right this second. Just waiting for you to put his gloves on.
+
+👤 あなた [138s - 141s]
+You know? It's a great thing about these shoes. They're just legendary.
+
+🎤 SPEAKER_1 [161s - 161s]
+KG?
+
+👤 あなた [191s - 192s]
+Okay. That's yeah,
+
+🎤 SPEAKER_1 [193s - 196s]
+I'm going to
+
+🎤 SPEAKER_0 [229s - 239s]
+Okay. What you just just to tell me you can't see the multi you can't save a a multiplayer game.
+
+🎤 SPEAKER_0 [243s - 244s]
+It's a you're
+
+🎤 SPEAKER_1 [247s - 247s]
+People.
+
+👤 あなた [249s - 251s]
+Well, I'll be very surprised if that's true.
+
+🎤 SPEAKER_1 [251s - 251s]
+Oh, yeah.
+
+👤 あなた [251s - 256s]
+That'd be a weird game. What? Because the Can't you can't you
+
+👤 あなた [260s - 264s]
+If you're playing oh, if you're playing other real people.
+
+🎤 SPEAKER_1 [264s - 264s]
+Yeah.
+
+👤 あなた [265s - 279s]
+You're playing together. Against bots, which is what gaming is most of the time Even if you're playing online games, then you probably wanna keep going.
+
+👤 あなた [279s - 283s]
+Get make your settlement as big as possible. You know?
+
+🎤 SPEAKER_1 [289s - 290s]
+Complete the game.
+
+🎤 SPEAKER_0 [316s - 320s]
+So what's up? Good to get ready. Yeah. So just that where I got
+
+🎤 SPEAKER_1 [326s - 330s]
+guys didn't give them see if he's gonna go after your first shower, is it? No.
+
+🎤 SPEAKER_0 [330s - 331s]
+We feel like five times.
+
+👤 あなた [337s - 338s]
+Alright. See you later anyway. Have a good day. Bye.
+
+👤 あなた [429s - 430s]
+Omi is connected.
+
+
+---
+
