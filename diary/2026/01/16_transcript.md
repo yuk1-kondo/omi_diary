@@ -1281,3 +1281,1874 @@ Yeah. Good. Well done, babe. Good job.
 
 ---
 
+
+
+## 📝 Rachel and User Plan Church Group and Fish Tank - 2e8a2d52-65cd-4a47-86c6-0ce7a71090a9
+
+**記録時間**: 2026-01-16 20:32:14
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 0s]
+Hello. Hello.
+
+🎤 SPEAKER_5 [2s - 3s]
+Hello. That rhymes.
+
+🎤 SPEAKER_4 [3s - 5s]
+Hello. Hello, Jonathan Berg.
+
+👤 あなた [6s - 8s]
+Denise will cook. How are mate? You cook?
+
+🎤 SPEAKER_5 [9s - 10s]
+Yep. Out and about to you.
+
+👤 あなた [17s - 22s]
+Oh, lovely. When when you leaving? Is it tomorrow? Monday morning. Sunday morning.
+
+🎤 SPEAKER_5 [22s - 23s]
+Brilliant.
+
+👤 あなた [27s - 32s]
+Makes sense? Well done. Well done. And was it good how was it yesterday?
+
+👤 あなた [45s - 48s]
+Oh, yeah. Yeah. Was Nico there. Do you look after you guys?
+
+🎤 SPEAKER_8 [55s - 56s]
+Turned she messaged
+
+🎤 SPEAKER_4 [60s - 65s]
+Oh, yeah. And and and they add a bit of a bit of a chat about it.
+
+🎤 SPEAKER_8 [65s - 71s]
+That sounds like a good idea. Choice. Nice meal. Have a great time. Yeah. You got the bill.
+
+🎤 SPEAKER_5 [75s - 76s]
+Oh, that's kind of him.
+
+👤 あなた [79s - 85s]
+It's nice he does that. He he's nice that he did that. And that's good. And you get two swansy as well in the end of
+
+🎤 SPEAKER_8 [87s - 87s]
+Yeah.
+
+🎤 SPEAKER_4 [87s - 89s]
+Yeah. That was Wednesday. We went over to Oh, yes.
+
+🎤 SPEAKER_5 [90s - 93s]
+And had had what we had
+
+👤 あなた [93s - 100s]
+And the anniversary was yesterday, wasn't it? Or was it not was it today or yesterday, Katherine? No. Thursday. So we're in Oh, blind me.
+
+👤 あなた [101s - 104s]
+Oh, yeah. Keep up, priest. Keep up. Anyway, mate. Oh,
+
+🎤 SPEAKER_4 [104s - 111s]
+Well, if you're you're driving, just a just a a quick one to flip by you to think about whilst you're well, not whilst you're away.
+
+👤 あなた [111s - 117s]
+Please think about whilst you're away. I think in terms of the small group I I think we're gonna kick the can down the road till September.
+
+👤 あなた [117s - 129s]
+Mainly because mainly because I'm just so overwhelmingly busy to to really kick something off like that, this side of graduation.
+
+👤 あなた [129s - 143s]
+And summer's not a great time. But in the meantime, I was wondering was a really simple low key minimum prep kind of discussed the sermon kind of once a month kind of group thing.
+
+👤 あなた [145s - 147s]
+Where it's very simple.
+
+🎤 SPEAKER_5 [147s - 155s]
+Like what you described, just a couple of questions around one of the sermons over the the over that month or something or or just kind of all of them or whatever.
+
+👤 あなた [155s - 164s]
+And just create a space. And if anybody wants to come, to chat things through like that. I'm a just between on the summer once a month or something like that, we create that opportunity.
+
+👤 あなた [165s - 169s]
+And it doesn't have to be, you know, big launch or something like that, just something really simple.
+
+🎤 SPEAKER_5 [177s - 178s]
+Well, yeah.
+
+👤 あなた [178s - 194s]
+Well, that sort of sinking. Is it and something a bit more manageable. So I wondered, a, what you thought, and b, it it's something that you might be interested in either being involved in at either hosting and leading a couple of those or all of them, or maybe even we could spread it out.
+
+👤 あなた [194s - 197s]
+But I just thought, I'll just put out there, see what he thinks.
+
+🎤 SPEAKER_8 [200s - 200s]
+Yep.
+
+🎤 SPEAKER_8 [209s - 214s]
+Yeah. Yeah. I'll I'll have a contract. Well, if we get one sorry, mate.
+
+👤 あなた [214s - 217s]
+Go on. It's slight delay. That's all. Sorry. Didn't go on, honey.
+
+🎤 SPEAKER_5 [217s - 218s]
+I was gonna say, I
+
+🎤 SPEAKER_8 [218s - 225s]
+I think I'll try and dig out those crime questions that Hargreaves taught a new one Alright.
+
+🎤 SPEAKER_4 [225s - 232s]
+Yeah. About the how did last week go and and, yeah, just
+
+🎤 SPEAKER_8 [233s - 239s]
+I'll dig out those because they might be a good kind of easy basis to start discussions on.
+
+👤 あなた [239s - 250s]
+So Great. Well, I appreciate that. Obviously, you're going on holiday, so there's no rush. But the other thought would be maybe one or two other people that we could trust to also do that, host and and then lead it.
+
+👤 あなた [250s - 263s]
+And then that's just a one in three month commitment then, for the leader. That might make it even more manageable. And then I'm sure by September, we'll have a we'll have something an idea for the appetite and something a bit more concrete perhaps.
+
+👤 あなた [264s - 272s]
+But how's that sound? Anyway, I'll leave that with you. Nothing nothing Sounds on the block. Excellent. Excellent. Thank you, mate.
+
+👤 あなた [272s - 275s]
+And have a wonderful holiday. I'm sorry we didn't get a chance to chat this week.
+
+👤 あなた [279s - 286s]
+No. But don't hey. Don't worry. It's I've been I've been all honesty, I am feeling the pressure a little bit now with workloads.
+
+👤 あなた [286s - 292s]
+So I I'm very much in hermit phase. You're still having to attend college.
+
+🎤 SPEAKER_8 [292s - 296s]
+Are you just doing your dissertation now? Well, this is it.
+
+👤 あなた [296s - 304s]
+I mean, with with my supervisor, I what I've done is I've I've created mini deadlines. So I get some with him three times basically between now and deadline, which is an April.
+
+👤 あなた [304s - 321s]
+So he just wait. But the the the mini deadlines, one that's due the end of next week is the first chunk of the dissertation that I need to send to him in advance, and then we're gonna discuss But I've only done the reading so far. I've only done some of the reading. So I'm so I I'm a bit behind, essentially.
+
+👤 あなた [322s - 328s]
+Meant to do a bit more over Christmas, and I'm meant to be interviewing number of pastors as well, which won't will happen now, obviously.
+
+👤 あなた [329s - 341s]
+Anonymously about how they practice works out. But, anyway, that's all to say. I've got an I've got a an essay due as well on a small portion of Ezekiel about Magog and Gog.
+
+👤 あなた [342s - 351s]
+I have no idea what any of it's about, frankly. So I need to that's due in a few weeks at the end of the month as well. It's kind of one of those well, it is.
+
+👤 あなた [351s - 359s]
+Honestly, don't know. Well, other than it popping up in Revelation, I I have no idea really in terms of historical context what that's all about.
+
+👤 あなた [359s - 360s]
+I'm gonna have to
+
+🎤 SPEAKER_8 [362s - 362s]
+So
+
+🎤 SPEAKER_4 [363s - 364s]
+I need to yeah.
+
+👤 あなた [367s - 375s]
+Well, study up. We'll see if it's any good. Let's but anyway, good. And then we can talk about the the audio podcast events when you get back as well because
+
+🎤 SPEAKER_5 [375s - 381s]
+I'm I'm the way I'm thinking is that we could add additional stuff to it over over over the coming years or something.
+
+👤 あなた [381s - 383s]
+But, anyway, we'll talk about that when you get back.
+
+🎤 SPEAKER_8 [385s - 387s]
+Oh, there you go. Thanks. Well, thank you very much.
+
+👤 あなた [387s - 393s]
+Have a great holiday. I will do it. Yeah. Thank you, Jonathan. Take care.
+
+🎤 SPEAKER_4 [393s - 395s]
+Bye. Bye.
+
+🎤 SPEAKER_5 [396s - 396s]
+Bye. Bye. Yeah.
+
+🎤 SPEAKER_5 [403s - 404s]
+Why do I need to come?
+
+🎤 SPEAKER_2 [405s - 414s]
+It's I need you, I realize, to have a downloaded VIP pets at home, cards. We get 10% off when we're buying
+
+👤 あなた [415s - 423s]
+Yeah. I'm open to the idea. However, you're probably wanting to get standard afterwards. No. I won't. The only thing I wanted to get was some wall from BNM.
+
+🎤 SPEAKER_2 [425s - 426s]
+But I don't have to get that working.
+
+👤 あなた [426s - 429s]
+Yeah. It'd be good to go. Out in the house.
+
+🎤 SPEAKER_2 [429s - 430s]
+What I'm definitely to do
+
+🎤 SPEAKER_4 [437s - 438s]
+Right. Stuff it.
+
+🎤 SPEAKER_5 [440s - 441s]
+I'm gonna eat now.
+
+👤 あなた [453s - 459s]
+I'm so I'm stuffed it. I'm gonna to lunch early today. Or some of it. Oh, really? Well, I am because I'm starving
+
+🎤 SPEAKER_5 [462s - 462s]
+Sorry.
+
+👤 あなた [468s - 471s]
+No. I'm cheating me loaded. Your
+
+🎤 SPEAKER_5 [490s - 491s]
+Well But equally
+
+👤 あなた [491s - 492s]
+I don't give away that we know.
+
+🎤 SPEAKER_2 [494s - 506s]
+You don't want to? I think if he tells us, we can say that we know because it shows that we've got a handle on Otherwise, it's going to look stupid like we don't know what's going on and we've gone, yeah, they can be leaders. I'm didn't really know what's going on.
+
+🎤 SPEAKER_2 [506s - 511s]
+But it's just like, yeah. No. We're working on that. We're this is all part of the journey.
+
+👤 あなた [511s - 521s]
+I'd rather not reveal anything we know because I think that's wrong because I think if I came to someone and said, did you know they've cheated on their husband? And you go, oh,
+
+🎤 SPEAKER_2 [522s - 539s]
+And it makes it look like you're like, you have it it it it because no faith, Steve will have no faith in you if he comes to you with a concern that you and and and believes that you didn't know any about it.
+
+🎤 SPEAKER_2 [539s - 547s]
+Because then he'll feel like he has to come and share all these issues. When actually you have got a good grip on Ben. I mean, maybe there's stuff we have.
+
+🎤 SPEAKER_2 [547s - 555s]
+We don't know. We can be honest about that. But if it's something you already know, you can give a feel that it's good to get this other side of things.
+
+🎤 SPEAKER_2 [555s - 557s]
+But if it is what he's talking about Not equally.
+
+🎤 SPEAKER_5 [557s - 557s]
+Kind of say
+
+🎤 SPEAKER_4 [557s - 559s]
+If I go, oh, know about that already.
+
+👤 あなた [559s - 560s]
+No. No. No. Not devalues
+
+🎤 SPEAKER_2 [561s - 567s]
+No. It's like, thank you. I am aware of it. This is something that we are in it is
+
+👤 あなた [567s - 569s]
+Trivis, I might not be aware of opening, you said. No. No.
+
+🎤 SPEAKER_5 [574s - 574s]
+No.
+
+👤 あなた [574s - 576s]
+I didn't say what you're saying. Sorry. So what I
+
+🎤 SPEAKER_2 [576s - 592s]
+I'm not saying to diminish what you're saying. Oh, yeah. We never really do that. Why are coming to that? Just a appreciative of his side view because he's obviously gonna add something, but you want him to know if you know something that he's sharing, you want him to know I have I've got a handle on it.
+
+🎤 SPEAKER_2 [592s - 600s]
+That's something that we're working on. I e, this is not like a oh. Oh. Oh. Well, now we change our mind because you told me this.
+
+🎤 SPEAKER_2 [600s - 604s]
+Well, it's something that you already know, but it's good to have more of a fuller picture on some something.
+
+🎤 SPEAKER_5 [604s - 605s]
+Well yeah.
+
+👤 あなた [606s - 609s]
+Yeah. No. That's true. And it all depends what he says really.
+
+🎤 SPEAKER_2 [609s - 615s]
+So I'm going to assume that it's something that's been, you know, been you
+
+🎤 SPEAKER_4 [670s - 671s]
+What app? No.
+
+👤 あなた [671s - 673s]
+What pets at home?
+
+🎤 SPEAKER_5 [673s - 675s]
+Yeah. The pets at home app.
+
+👤 あなた [675s - 679s]
+Yeah. I've got it on my phone. I don't know if I've signed up that I don't know that means I've signed up. Let me just
+
+👤 あなた [728s - 729s]
+I'm signing up now, Rich. Wait there.
+
+🎤 SPEAKER_4 [786s - 790s]
+After blinking I have to tell him about my pet. I haven't got a pet.
+
+🎤 SPEAKER_4 [794s - 798s]
+No. It doesn't. It doesn't let you skip it. Alright. Let me put
+
+👤 あなた [835s - 836s]
+Well, I've done it now.
+
+👤 あなた [877s - 880s]
+Well, I've got I've got my 10% voucher, Rachel.
+
+👤 あなた [912s - 916s]
+Dad's watching the football tomorrow, Rachel. He's offered us to go over. I don't know what our plans are.
+
+🎤 SPEAKER_5 [919s - 920s]
+What?
+
+🎤 SPEAKER_5 [955s - 956s]
+What is and always
+
+🎤 SPEAKER_5 [1071s - 1071s]
+Yeah.
+
+🎤 SPEAKER_5 [1171s - 1180s]
+Fence for me and my hands He was able to live.
+
+🎤 SPEAKER_5 [1208s - 1208s]
+Yep.
+
+🎤 SPEAKER_2 [1212s - 1215s]
+I'm sure all the deliveries I've got that are on their way.
+
+🎤 SPEAKER_3 [1216s - 1219s]
+To arrive by 11:40, I think, was
+
+🎤 SPEAKER_5 [1239s - 1240s]
+I got my keys in.
+
+👤 あなた [1269s - 1271s]
+Got my keys. Got my wallet.
+
+👤 あなた [1302s - 1303s]
+Yeah.
+
+👤 あなた [1312s - 1313s]
+Not so gonna come?
+
+🎤 SPEAKER_2 [1318s - 1328s]
+It's nice, babe. You're done. Thanks, babe. Awesome. If you have that done up there. Because otherwise, what happens is it just goes up that, and it's a good boulder, won't it?
+
+👤 あなた [1329s - 1330s]
+No. It's because I got
+
+🎤 SPEAKER_5 [1338s - 1340s]
+Well, haven't got Colin key. Have you got Colin?
+
+🎤 SPEAKER_5 [1363s - 1366s]
+A typical thermometer comes over while seeds here.
+
+👤 あなた [1366s - 1368s]
+They've not messed me.
+
+🎤 SPEAKER_5 [1368s - 1368s]
+Just see.
+
+🎤 SPEAKER_0 [1417s - 1429s]
+Kinda like a thing. It's like, for me, very mild egg, but with Okay. Like, with a breaded cover. Oh.
+
+🎤 SPEAKER_1 [1432s - 1437s]
+right. That is between the egg and the bread crumb. Holy pantry process.
+
+👤 あなた [1438s - 1451s]
+Crap, basically. Oh, it's cold. It's very calm. Freezing Rachel. Being downstairs and Yeah. It's just the war in the bedroom. So with Steve, let me take a lead a little bit on it, babe.
+
+👤 あなた [1451s - 1461s]
+But equally, I'm saying that, what do you think he what what do If he listen. If he comes out and says, I it just doesn't feel right to to me.
+
+👤 あなた [1461s - 1469s]
+It's just something about it that I'm not sure about, then that's that's nothing. Frankly.
+
+🎤 SPEAKER_1 [1471s - 1481s]
+I think you need to order that to and recognize that in recent fashion, we don't really share anything that you wanted to come out with the final thing.
+
+👤 あなた [1481s - 1487s]
+Yeah. But it's only because we got known truly that's carrying weight with us. Yes. Yes. But it I don't we don't want to delegate it.
+
+🎤 SPEAKER_1 [1488s - 1496s]
+That's fine. But in their eyes, they are actually doing quite a lot in some ways. It would make sense to talk to you through with them and then choose to ignore or not.
+
+🎤 SPEAKER_1 [1496s - 1508s]
+But what we've done is we we've turned their helmet or whatever it is because the announcement's been made. And so that's gonna make them feel a little bit more
+
+👤 あなた [1510s - 1511s]
+What are they gonna what are they doing then?
+
+🎤 SPEAKER_1 [1511s - 1527s]
+It's gonna make them feel a little bit more runny. It's like a bit more woah. Woah. Woah. Rather than six months ago. But maybe that's a court seek, but don't But maybe they need to undergo a correction in the in the perceived level of input they gave.
+
+👤 あなた [1527s - 1547s]
+Do, but I think what would be better in that is just, you know, a meeting with Ben Nello It's kind of talking about the ministry ministry, calling, leadership, just, you know, just, you know, that's what, you know, we're we're But what what do doing that, we're inviting input.
+
+👤 あなた [1547s - 1550s]
+Yeah. Inverte Inputating no. It's not what it is. Invite Inviting.
+
+🎤 SPEAKER_1 [1550s - 1560s]
+Sorry. Yes. You get input. But if you tell people, they all hear what you've got to say, it makes it feel very undervalued. If you hear and then you come back with them and say, look, I hear what you're saying. I reflect on that.
+
+🎤 SPEAKER_1 [1560s - 1566s]
+We chatted it through. I feel like that's something that needs working on, but it's it's not a a problem.
+
+👤 あなた [1566s - 1568s]
+But here's here's the thing, Rich.
+
+🎤 SPEAKER_1 [1568s - 1581s]
+I I think it's think what's happened is we know what we often do. No. People then go in the woah woah woah reaction. Because we didn't bring them in because we didn't wanna hear what they have said. And I think God isn't probably at some point. No. It's not that's not that's not the reason we didn't bring them in.
+
+👤 あなた [1581s - 1585s]
+It's not because we we didn't wanna hear what they had to say. Where is it? It's because they're not responsible responsible.
+
+👤 あなた [1585s - 1589s]
+It's not they've not been delegated that weight of responsibility on Yeah. To weigh up these things.
+
+🎤 SPEAKER_1 [1589s - 1599s]
+No. But as pastoral people in the church, how can you have men and women's lead with pastoral leaders, people in tribes of their ministry.
+
+🎤 SPEAKER_1 [1599s - 1601s]
+If you're not gonna hear them about the men.
+
+👤 あなた [1601s - 1610s]
+Oh, we will hear them, but they We'll hear them, they don't get they they they from my point of view, they're involved at the appropriate stage Yeah.
+
+👤 あなた [1610s - 1624s]
+Is all we've said to the church is is But. Benin is taking up trusty ship. He's becoming an he's becoming a trusty He's becoming a treasurer. We are exploring ministry it was the the ministry bit was yes, I mentioned planting, it was very vague.
+
+🎤 SPEAKER_1 [1625s - 1628s]
+It was it was very it was very vague. I didn't it was very vague.
+
+👤 あなた [1628s - 1632s]
+Vague. Honey. You it was some sort of it was some sort hang on.
+
+🎤 SPEAKER_1 [1632s - 1635s]
+What did you let me get involved as well in the conversation.
+
+👤 あなた [1635s - 1642s]
+Thank you. No. You've dominated it. Let me just say, Rich. Let me just say, because I know what your points are. I'm trying to counter them a bit.
+
+👤 あなた [1643s - 1653s]
+Yes. I mentioned the planting, what have you, but I did didn't say we're ex when all we say all I said was we're exploring ministry, what ministry looks like for Ben and Ellen.
+
+👤 あなた [1654s - 1665s]
+The future, that that for me, there wasn't no specific role. There was no no timetable. There was no But did you mention planting if that wasn't because that's one of the options available.
+
+👤 あなた [1665s - 1675s]
+I think that came out of Well, that came out of that came came out of it. We as a from day one have wanted to raise up leaders of all across all levels.
+
+🎤 SPEAKER_1 [1675s - 1680s]
+Yeah. But what you're doing there is you're making quite a public statement that we believe these guys are going on to
+
+👤 あなた [1680s - 1681s]
+We do. Do we not?
+
+🎤 SPEAKER_1 [1682s - 1693s]
+What if you're gonna be doing that and you're you've made that whole decision all on your own essentially, or you and me, Yeah. And I think that's quite No.
+
+👤 あなた [1693s - 1695s]
+No. We haven't made There's not really a team
+
+🎤 SPEAKER_1 [1695s - 1707s]
+No. No. Don't give me one. We haven't got a team available. So I'm I'm aware of that. But in lieu of that, I think You should have singled to a getting anyone's not getting anyone else's opinion.
+
+🎤 SPEAKER_1 [1707s - 1711s]
+We're doing that. Not opinion. I don't be an opinion. I don't be an opinion because no one else is
+
+👤 あなた [1711s - 1716s]
+We're doing we're doing what you're we're doing what you're suggesting now at the appropriate moment. No.
+
+🎤 SPEAKER_1 [1716s - 1721s]
+You didn't ask for their views on it. You told them it was happening. They said, well, I've got issues. You said, well, doing it anyway.
+
+🎤 SPEAKER_1 [1721s - 1722s]
+They're having an opportunity.
+
+👤 あなた [1722s - 1733s]
+Okay. It's an expert exploration phase. Okay. It's not guaranteed. Ben and Ellen know that. I don't think And so that's fine. You you keep saying the same lines, and I see what you're telling me.
+
+🎤 SPEAKER_1 [1733s - 1734s]
+Blime me, that.
+
+👤 あなた [1734s - 1735s]
+I Not a cannon.
+
+🎤 SPEAKER_1 [1735s - 1745s]
+It's saying the same line. Right. I see what you're telling me. But I don't see that in in practice and communication. With the church, with Bed and Ella, and the message that you did with Steven.
+
+🎤 SPEAKER_1 [1745s - 1752s]
+The thing you're telling me is not matching up with the stuff that's actually coming your mouth when you're talking to people about it.
+
+🎤 SPEAKER_1 [1752s - 1757s]
+So you can't say oh, no. It's we're not even we're not even at that. Well, obviously, we're we're
+
+👤 あなた [1757s - 1765s]
+I'm not backtracking on and and if if this serious concerns, for Ben and Ellen, then fine. But otherwise, there's nothing to do with Steve.
+
+👤 あなた [1765s - 1773s]
+He can share his opinion, but he's not carrying leadership response responsibility. I haven't said that he just makes sense. Suddenly, you're you're panicking a little bit.
+
+👤 あなた [1773s - 1775s]
+Oh. Oh, what if we've rushed this a little bit? Stop.
+
+🎤 SPEAKER_1 [1777s - 1798s]
+That's not the case. Right. I'm saying, I think we did the process wrong. We're still learning in leadership. I think we don't we know that we're never gonna take what Steven and Lois say with us with with the weight that we would in any other kind of, you know, in leadership team leaders that we are alone.
+
+🎤 SPEAKER_1 [1798s - 1803s]
+We we don't cut that on them. They they may think that they do. We don't. We're not going to they haven't got the same minds at us.
+
+🎤 SPEAKER_1 [1803s - 1811s]
+They haven't got This year? Yeah. Thank you. Haven't got the heart for anything like that. So Yeah. I I'm not saying that
+
+🎤 SPEAKER_2 [1811s - 1815s]
+No. About taking what they're saying and it influencing our decisions.
+
+🎤 SPEAKER_1 [1815s - 1826s]
+But what I am saying is that it seems a bit bizarre to make an announcement and then gather stuff because all that's gonna happen it's probably more likely to fine.
+
+👤 あなた [1826s - 1830s]
+I I Rick, Rachel, I I accept that put. I accept yes. You can because we're running it.
+
+🎤 SPEAKER_1 [1830s - 1831s]
+Likely, then
+
+🎤 SPEAKER_2 [1831s - 1832s]
+I don't get the picture. Alright. Okay.
+
+🎤 SPEAKER_1 [1832s - 1842s]
+It's more likely, I think, to lead to a few more awkward conversations, people feeling a bit undervalued, public things being made, and then going, oh, crap.
+
+🎤 SPEAKER_1 [1842s - 1848s]
+Okay. Maybe we're a little bit too soon on that. I think all of those things are more like to happen.
+
+🎤 SPEAKER_2 [1848s - 1851s]
+Made to turn go. Yeah? If we what? I've looked for I'm you.
+
+👤 あなた [1851s - 1855s]
+Likely to to happen if we make an announcement and then get
+
+🎤 SPEAKER_2 [1855s - 1857s]
+Right. Okay. Confirmation after that. Fine. Yes. Good.
+
+👤 あなた [1858s - 1877s]
+I agree with you. I I do. I agree with you. The process maybe we could could we could tweak it. That's fine. I I do I do feel a bit like the only thing well, guess why I'm pushing back a little bit is because I thought you were on board with everything that I've done so far, and now suddenly you're not.
+
+👤 あなた [1878s - 1887s]
+I told you back in we met with Ben and Ellen in November and we said in that meeting, the the first couple of weekends of January, we're gonna get we're gonna pray for you, we're gonna let people know but we've seen leadership in them.
+
+👤 あなた [1887s - 1890s]
+We're calling out exploring it. You were there at that meeting.
+
+🎤 SPEAKER_2 [1890s - 1894s]
+And assembly, you make it sound like, what are you doing? No. I agree to this.
+
+👤 あなた [1894s - 1903s]
+No. And let me finish. And the second you can come back on that if you're second point is that on the one hand, you're too busy to be involved in these decisions.
+
+👤 あなた [1903s - 1916s]
+You haven't got time, don't wanna talk about it, you can't make time, you're too busy. But then one I make decisions, then in hindsight, you come back and then you have all sorts of really helpful things to say but it's too late by that point.
+
+🎤 SPEAKER_2 [1916s - 1917s]
+So that's my two things.
+
+🎤 SPEAKER_1 [1917s - 1922s]
+Yeah. And I appreciate that. I do understand it's a difficult line to to kind of go along. What
+
+🎤 SPEAKER_2 [1922s - 1928s]
+I would say is that I think it was quite clear, and I was I was trying to be kind and support
+
+🎤 SPEAKER_1 [1928s - 1938s]
+I think it's quite clear after you sent the message to Steve and Lois that we agreed that maybe you did say a whole lot of stuff that didn't need to be said.
+
+🎤 SPEAKER_1 [1938s - 1939s]
+But but for some reason
+
+👤 あなた [1939s - 1943s]
+Yeah. We we talked about this every day, I told you that you didn't read the message I put in the group and you omitted that you hadn't.
+
+👤 あなた [1943s - 1944s]
+No.
+
+🎤 SPEAKER_2 [1944s - 1949s]
+They never asked that. I still asked that. They never babe. No. Because I said at the end of that conversation receiving listen to no.
+
+👤 あなた [1949s - 1950s]
+No. The text
+
+🎤 SPEAKER_2 [1950s - 1955s]
+I put in there, so look, what we'll do then on the Sundays, we'll just mention treasurer, trustee didn't just do that.
+
+🎤 SPEAKER_1 [1955s - 1963s]
+You didn't you You got away. You got you got carried away. No. Your mouth fell ahead of you, and then rather than just stop no.
+
+🎤 SPEAKER_1 [1963s - 1966s]
+You did. Rather than just stop, you then talked about
+
+👤 あなた [1967s - 1968s]
+Oh, that's Nina's.
+
+🎤 SPEAKER_2 [1969s - 1978s]
+Yes. It is. Classic. Hello. So hi, Ree speaking.
+
+👤 あなた [1978s - 1980s]
+Sorry. You're coming through the Bluetooth then. Sorry.
+
+👤 あなた [1983s - 1990s]
+Oh, I'll be a bit more This would be good. I'm out I'm afraid I'm out, done pats at home a minute. You'll have to come back a bit later.
+
+👤 あなた [1993s - 2005s]
+Probably waiting all day or Probably I don't know. Rich or what? An hour? Less than that. Yeah. Sorry, Catherine. It was it was just I was waiting in the morning and I've got one task to do today and I'm out doing it now.
+
+👤 あなた [2006s - 2006s]
+Alright.
+
+🎤 SPEAKER_2 [2006s - 2013s]
+Okay. I'll let I'll let know. Up here number. He could've he could've given me a call perhaps or a text or something that would've been good.
+
+🎤 SPEAKER_3 [2014s - 2019s]
+Oh, you just booked him for this you know, for the date. I didn't give you his time You should try to book out or be booked in. So
+
+👤 あなた [2019s - 2023s]
+Yeah. I'll let him know you'll be back now and with Yeah. If it's any issue. I'll let you know.
+
+🎤 SPEAKER_2 [2023s - 2024s]
+Thanks, Catherine. Cheers.
+
+👤 あなた [2026s - 2028s]
+I didn't do anything wrong there.
+
+🎤 SPEAKER_1 [2028s - 2031s]
+So were you supposed to stay in or Not at all.
+
+👤 あなた [2031s - 2034s]
+He was like, let me just message him.
+
+🎤 SPEAKER_1 [2036s - 2041s]
+Sorry, mate. I didn't realize you were definitely coming today. What was it yesterday he was supposed to be coming?
+
+🎤 SPEAKER_2 [2041s - 2042s]
+Yeah.
+
+🎤 SPEAKER_1 [2042s - 2043s]
+So you should've said to him phone.
+
+🎤 SPEAKER_3 [2043s - 2046s]
+But they they called they called she called me yesterday.
+
+👤 あなた [2046s - 2051s]
+What time? In the afternoon. He said, oh, you might struggle. You to get there on time.
+
+🎤 SPEAKER_1 [2052s - 2059s]
+So basically, I waited in all day yesterday, and then said he wasn't coming. And now you're telling me now I should've
+
+👤 あなた [2059s - 2064s]
+Right. Okay. Let me just give him a quick call. You might be on the phone to Nina's now, I guess.
+
+🎤 SPEAKER_1 [2070s - 2071s]
+So it's a little bit like,
+
+👤 あなた [2074s - 2081s]
+Hey, James. It's Reese. Hi. Yeah. Sorry. Was on Bluetooth there. Sorry. I it. I had no sorry, mate. I I've been waiting in in the morning.
+
+👤 あなた [2081s - 2090s]
+I've just popped out. I'd there was no indication that you're your way. Don't worry. Can come tomorrow afternoon if you want. Yeah. Is that is that sorry, buddy.
+
+🎤 SPEAKER_3 [2090s - 2091s]
+I know you were coming.
+
+👤 あなた [2091s - 2099s]
+I've I'll I'll be back in an hour or or tomorrow Yeah. You got my number. Just give me give me little tinkle. I'll let a 100% be in then.
+
+👤 あなた [2100s - 2103s]
+Oh, or text it. Cheers, James. Thanks, mate.
+
+🎤 SPEAKER_2 [2103s - 2104s]
+Bye.
+
+👤 あなた [2105s - 2105s]
+Cheers. Bye.
+
+🎤 SPEAKER_2 [2107s - 2113s]
+He's fine. I can always wait home tomorrow afternoon, and you guys go watch football if needed. Oh, dad can yeah. Come on. Let's go in the shop anyway.
+
+🎤 SPEAKER_2 [2116s - 2117s]
+Blinking sippable.
+
+👤 あなた [2123s - 2124s]
+She didn't she said didn't make it.
+
+🎤 SPEAKER_2 [2126s - 2127s]
+She was. Well,
+
+👤 あなた [2127s - 2128s]
+I've always been a bit funny myself at your house.
+
+🎤 SPEAKER_1 [2128s - 2146s]
+And we always really slightly irritated soon because that conversation we're just having. All I'm all I'm saying, I I I do I could feel that and and and if I feel that one, feel that it makes you know, it's just like I'm I think maybe Yeah.
+
+🎤 SPEAKER_2 [2146s - 2151s]
+But but equally, even your concern are not really valid as far as Can I know my name is
+
+👤 あなた [2153s - 2154s]
+Oh, they've changed it here?
+
+🎤 SPEAKER_1 [2170s - 2171s]
+Yeah.
+
+🎤 SPEAKER_2 [2171s - 2177s]
+Yeah. Yeah. That's fine. But where's the yeah. Yeah. Owens. What are they done with the guinea pigs and all that?
+
+👤 あなた [2177s - 2179s]
+Oh, they've moved them, have they? Okay.
+
+👤 あなた [2190s - 2192s]
+Now say it. Is it? Yeah.
+
+🎤 SPEAKER_1 [2193s - 2197s]
+Nice. Includes filter heater and body lighting. Filter or
+
+👤 あなた [2198s - 2201s]
+Well, you didn't quite know, did he? He's more of a fish guy.
+
+🎤 SPEAKER_2 [2202s - 2206s]
+I don't know if it's got a heater. It doesn't seem to have a thermometer thing.
+
+👤 あなた [2208s - 2209s]
+Think that question is not included.
+
+🎤 SPEAKER_1 [2211s - 2232s]
+So that is 73,000. Now then there's extra things like the water care filters stuff. I mean, it's gonna be expensive, but once you've got it started, then Elliot can then come choose the gravel.
+
+🎤 SPEAKER_1 [2232s - 2235s]
+So that would be five pounds. Right?
+
+👤 あなた [2235s - 2242s]
+I've also got 10% off now, so it might make sense to get all the get all the boring stuff. Yes. And it can choose that.
+
+🎤 SPEAKER_1 [2242s - 2245s]
+You can choose the decorations. You can ride the fish.
+
+👤 あなた [2247s - 2249s]
+You can get the fish on his birthday, obviously.
+
+🎤 SPEAKER_5 [2249s - 2252s]
+They wouldn't want to, though, would he? I know.
+
+🎤 SPEAKER_1 [2252s - 2255s]
+He set it up and do a a bit of research and come down and have a chat as
+
+🎤 SPEAKER_2 [2255s - 2255s]
+Mhmm.
+
+🎤 SPEAKER_1 [2257s - 2262s]
+Need to have fishing. If he gets a big box like that, that's the Oh, decorations are expensive, aren't they?
+
+🎤 SPEAKER_5 [2263s - 2267s]
+Yeah. Well, and you won't need labels that day. Haven't done it because
+
+🎤 SPEAKER_2 [2268s - 2270s]
+I'll be able to get stuff online now. Yeah. Which can be
+
+👤 あなた [2274s - 2275s]
+So what's the sort of fishes that you can have?
+
+🎤 SPEAKER_1 [2278s - 2278s]
+Yeah.
+
+👤 あなた [2279s - 2283s]
+What what about the nice colorful one that you saw, Mark? They're they're not very good with other ones.
+
+🎤 SPEAKER_5 [2283s - 2290s]
+You could have select But but they
+
+👤 あなた [2291s - 2297s]
+Like the tropical fish or, like, not colorful? Let's do turn the lights off in his bedtime for him as well.
+
+🎤 SPEAKER_5 [2298s - 2304s]
+Sorry. Are you literally not reading the sign that's up there for all them? They turned all the lights off and said they're settling in.
+
+🎤 SPEAKER_5 [2304s - 2306s]
+There's also no lights on our bed.
+
+🎤 SPEAKER_3 [2306s - 2309s]
+Normally, they're bright, light, and blue, and you can all the colors of the fish.
+
+🎤 SPEAKER_2 [2309s - 2311s]
+Right. Yeah. Yeah? Yeah. That's what the sign is.
+
+🎤 SPEAKER_5 [2311s - 2312s]
+Yeah.
+
+🎤 SPEAKER_2 [2312s - 2313s]
+Okay.
+
+🎤 SPEAKER_5 [2313s - 2316s]
+Anyway, so one of those a perfect one.
+
+🎤 SPEAKER_1 [2316s - 2321s]
+And then if you like, the new from your texture that you
+
+🎤 SPEAKER_2 [2322s - 2324s]
+Oh, yeah. And all the cardinals, whatever.
+
+🎤 SPEAKER_5 [2325s - 2335s]
+And then you could get some, like, platinum as well. Colors, you could have some of those. Some of those. And only with that red honeycomb, it's those kind of ones.
+
+🎤 SPEAKER_5 [2336s - 2338s]
+Nice. I'll have a little bit of a mix there. No. It's those
+
+🎤 SPEAKER_2 [2339s - 2339s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [2341s - 2346s]
+And then you could have some of the little chimpy things then.
+
+🎤 SPEAKER_2 [2346s - 2348s]
+Yeah. I don't think you can have one of those
+
+🎤 SPEAKER_1 [2349s - 2350s]
+I'm not sure.
+
+🎤 SPEAKER_2 [2351s - 2357s]
+People ask about it. They didn't look like they're sudden. So maybe you'd have to go to don't so what? Oh, they say
+
+👤 あなた [2357s - 2360s]
+The section. I can't see any second fishes. Okay. But it might be that
+
+🎤 SPEAKER_5 [2359s - 2360s]
+I think sometimes there's
+
+👤 あなた [2361s - 2363s]
+Might be that the window might be able to
+
+👤 あなた [2370s - 2372s]
+So it's a 40 liter tank, is it?
+
+🎤 SPEAKER_1 [2375s - 2379s]
+What it does is it's got 20 fish points. Yeah. So what you do is you can hear
+
+🎤 SPEAKER_5 [2380s - 2381s]
+Yeah. Let's see what the points are.
+
+🎤 SPEAKER_2 [2382s - 2387s]
+Yeah. So like, NeoTex was a one for Yeah.
+
+🎤 SPEAKER_1 [2388s - 2394s]
+The shrimp. So then you just kind of figure it out that way. So as long as they're happy with each other and you're not coming
+
+👤 あなた [2394s - 2395s]
+No. No.
+
+🎤 SPEAKER_2 [2396s - 2397s]
+Hello. Hiya.
+
+🎤 SPEAKER_4 [2402s - 2402s]
+No.
+
+🎤 SPEAKER_1 [2403s - 2410s]
+The ones here are better better because they're truthful, the real ones, but you like that they get that attached basically. So
+
+🎤 SPEAKER_2 [2411s - 2411s]
+Oh, I see.
+
+🎤 SPEAKER_5 [2411s - 2419s]
+You know, like, some you know, when you go to places to, the garden center, just have all the plants in there. Yeah. You can't put them straight into the tank because it's not treated dark.
+
+🎤 SPEAKER_1 [2419s - 2420s]
+It's got all sorts of
+
+👤 あなた [2421s - 2422s]
+I see. Are these treated? Or do you mean?
+
+🎤 SPEAKER_5 [2422s - 2423s]
+These are fake.
+
+👤 あなた [2423s - 2425s]
+So real ones are in there.
+
+🎤 SPEAKER_3 [2425s - 2426s]
+Yeah.
+
+🎤 SPEAKER_2 [2426s - 2427s]
+Where'd you buy them from?
+
+👤 あなた [2427s - 2428s]
+You just get them out of the tank? Yeah.
+
+🎤 SPEAKER_1 [2430s - 2432s]
+Oh, yeah. Can buy the.
+
+🎤 SPEAKER_2 [2433s - 2433s]
+Yeah.
+
+🎤 SPEAKER_1 [2433s - 2440s]
+But then you need to get soil, and you need to do it all that which I was like, oh, that's it. You can put it from it. Yeah. That's a bit more like
+
+👤 あなた [2441s - 2444s]
+Yeah. No. It's something to swim through. It'd be nice.
+
+🎤 SPEAKER_3 [2452s - 2454s]
+Suckerfish poop like crazy.
+
+🎤 SPEAKER_1 [2454s - 2460s]
+They're peeing the alvey. They'll clean the algae and wood, but then they'll poop all over everything.
+
+👤 あなた [2461s - 2464s]
+Right. Yeah. So what about the what about the other shrimpy ones?
+
+🎤 SPEAKER_1 [2464s - 2469s]
+Well, they clean up the, like, leftover. They eat up, like, the leftover food and stuff. Because it might want one of those.
+
+🎤 SPEAKER_2 [2469s - 2470s]
+Yeah. Yeah.
+
+🎤 SPEAKER_5 [2470s - 2471s]
+They're easier.
+
+🎤 SPEAKER_2 [2471s - 2476s]
+Yeah. We'll get one of those then. So then what then what you need to get is so you can do packet.
+
+🎤 SPEAKER_1 [2477s - 2478s]
+I think they're behind here.
+
+🎤 SPEAKER_2 [2479s - 2479s]
+Mhmm.
+
+🎤 SPEAKER_1 [2483s - 2494s]
+Oh, sorry. Ma'am? Obviously, you've got stuff like I feel like we can just get some of those things over time or any. It can buy something if you want something or you can offer something.
+
+🎤 SPEAKER_3 [2494s - 2495s]
+Yeah.
+
+🎤 SPEAKER_2 [2495s - 2497s]
+You can get a better filter than the ones in it.
+
+🎤 SPEAKER_1 [2498s - 2503s]
+But I think if we pick carefully on the fish that we have, you get ones that don't poo too much. Yeah. Then that is better.
+
+🎤 SPEAKER_5 [2503s - 2507s]
+Obviously, but all sorts of things like like Yeah.
+
+🎤 SPEAKER_2 [2507s - 2509s]
+Like these to clean.
+
+🎤 SPEAKER_5 [2510s - 2511s]
+Like the. Yeah.
+
+🎤 SPEAKER_2 [2511s - 2512s]
+Like,
+
+👤 あなた [2516s - 2520s]
+Is that to suck up some of the dirty water or something? Cleaner. With pump.
+
+🎤 SPEAKER_2 [2522s - 2524s]
+So that might be handy, Dan. Fresh water and salt water
+
+🎤 SPEAKER_1 [2525s - 2525s]
+Alright.
+
+🎤 SPEAKER_2 [2526s - 2527s]
+So
+
+🎤 SPEAKER_1 [2527s - 2536s]
+Cleaner. See. Blade, corner glass cleaner blade, flat cleaning pad, flat cleaning sponge. Planter. Yeah.
+
+🎤 SPEAKER_5 [2536s - 2539s]
+So that's quite good. So you put it on them and you can feed the edges.
+
+🎤 SPEAKER_2 [2539s - 2541s]
+That's good. That is really good, actually. What's that for?
+
+🎤 SPEAKER_5 [2543s - 2544s]
+It's all scraped.
+
+🎤 SPEAKER_2 [2551s - 2552s]
+I'm talking to my dog.
+
+👤 あなた [2554s - 2555s]
+Not wanna go to the pets.
+
+🎤 SPEAKER_2 [2560s - 2561s]
+41, my cat.
+
+🎤 SPEAKER_1 [2561s - 2566s]
+Yeah. So that's quite It's subtle. Isn't it? Yeah. Oh, I guess you probably have to replace the bits.
+
+👤 あなた [2566s - 2579s]
+Yeah. So we I mean, some of the bits like this, we might as well get today with the tank to get the ten percent Get the boring bits essentially. Not the boring bits, know, I mean, the functional parts of it. Yeah. But then you want how much if that's like the best option if there's like way too big things online and what's that.
+
+🎤 SPEAKER_5 [2579s - 2581s]
+That seems quite good that you can get corners, though.
+
+🎤 SPEAKER_1 [2581s - 2582s]
+Though.
+
+👤 あなた [2582s - 2589s]
+Oh, yeah. But, I mean, yeah, this so that'd be what that'd be £9 well. Less than that because we're gonna be buying it with other stuff.
+
+👤 あなた [2592s - 2595s]
+Do we need a do we need a and net.
+
+🎤 SPEAKER_2 [2598s - 2601s]
+Well, fish net. Oh, I don't need a dirty old one. I don't think you really need
+
+👤 あなた [2602s - 2612s]
+You need to catch the fish for some reason. Or scoop out a dead fish. Yeah. Just a little small one like that will do it. $1.70 isn't cost anything.
+
+🎤 SPEAKER_1 [2612s - 2613s]
+Think probably choose that.
+
+🎤 SPEAKER_3 [2613s - 2613s]
+It can give you money.
+
+🎤 SPEAKER_1 [2613s - 2620s]
+Just say, hey. What things are you gonna need? There's things like this, like, the at the safe
+
+🎤 SPEAKER_5 [2621s - 2627s]
+So the whichever one it is, it's just too make your tap water safe.
+
+🎤 SPEAKER_2 [2628s - 2629s]
+Yeah.
+
+🎤 SPEAKER_1 [2629s - 2631s]
+I think it's that one that's needed.
+
+🎤 SPEAKER_2 [2635s - 2637s]
+How long does it last?
+
+🎤 SPEAKER_1 [2637s - 2645s]
+And basically, whenever you top up water, you have to put, like, a bit of this in it as well. So my for you to add five mil for every 10 liters.
+
+🎤 SPEAKER_1 [2645s - 2647s]
+Of newly added tacos.
+
+🎤 SPEAKER_2 [2647s - 2656s]
+And how many liter tank is it? Thirty liters. So five mil every tense, you need 20 mil. 100 mil box. Use a fifth of that in the first
+
+👤 あなた [2657s - 2662s]
+And how often does it does it tell you after you need to do it? I think you're supposed to.
+
+🎤 SPEAKER_2 [2662s - 2663s]
+I mean,
+
+👤 あなた [2675s - 2678s]
+You also got s Rachel. Got water pods and waste worm.
+
+🎤 SPEAKER_2 [2678s - 2684s]
+Yeah. He said that then they're better for, like, well, those are fresh water ones, but yeah.
+
+🎤 SPEAKER_1 [2684s - 2684s]
+He didn't really
+
+🎤 SPEAKER_2 [2685s - 2685s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [2685s - 2686s]
+Rate some of the stuff.
+
+🎤 SPEAKER_2 [2687s - 2689s]
+No. He should be doing that. It's just half a little bit. Yeah.
+
+👤 あなた [2694s - 2695s]
+And then food obviously as well.
+
+🎤 SPEAKER_1 [2698s - 2701s]
+You should aim for weekly or biweekly changes on a quarter.
+
+🎤 SPEAKER_5 [2701s - 2709s]
+So we do use five mils. So if we use 20 to start off with, we then use five mil every week. Or every four. Right?
+
+🎤 SPEAKER_1 [2710s - 2719s]
+Which means there'd be another 80, which would be sixteen changes, sixteen weeks. That's, like, maybe most of it. Well,
+
+🎤 SPEAKER_5 [2720s - 2722s]
+That could probably last, like, nearly a year, couldn't it?
+
+🎤 SPEAKER_1 [2727s - 2735s]
+Baseline, biweekly, more fish, more frequent changes. Messy fish at god is more heavy planting.
+
+🎤 SPEAKER_5 [2735s - 2738s]
+Juices nitrate to allow less frequent changes.
+
+🎤 SPEAKER_1 [2739s - 2740s]
+So if you have real.
+
+🎤 SPEAKER_5 [2740s - 2741s]
+Which will
+
+🎤 SPEAKER_2 [2741s - 2744s]
+Okay. Okay.
+
+🎤 SPEAKER_5 [2744s - 2747s]
+So you're gonna get them.
+
+🎤 SPEAKER_2 [2749s - 2753s]
+Put to get and you can choose fish food.
+
+🎤 SPEAKER_1 [2773s - 2775s]
+Any uneaten food with a net?
+
+🎤 SPEAKER_5 [2776s - 2778s]
+To make we do want to get to that.
+
+🎤 SPEAKER_2 [2779s - 2782s]
+But if we have a little shrimp at the bottom, eating all the food,
+
+👤 あなた [2783s - 2789s]
+Maybe you know I guess if you just You know harm. It's only $1.70. It we'd have to get your hand in with that.
+
+🎤 SPEAKER_5 [2793s - 2800s]
+Do you wanna get that kind of thing yet or not? It's quite a lot of money, isn't it? Well, twist and script Twist Twist and automatically oh, $25.
+
+🎤 SPEAKER_2 [2800s - 2803s]
+Yes. Sorry. Well, all I'm thinking is that we get 10% off.
+
+👤 あなた [2803s - 2806s]
+And the more we buy, the cheaper it is everything is.
+
+🎤 SPEAKER_5 [2807s - 2813s]
+No. 10% of £10 is the same whether you're buying £10 on its own or you're buying spending £210.
+
+👤 あなた [2813s - 2815s]
+When you get one voucher though?
+
+🎤 SPEAKER_2 [2815s - 2817s]
+Yeah. Yeah. That's I meant. Yeah.
+
+👤 あなた [2817s - 2822s]
+That's what I So it wouldn't go. It's cheaper than buying it in multiple trips. But not if you can get something like that.
+
+🎤 SPEAKER_2 [2824s - 2827s]
+Yeah. Well, maybe so, but
+
+🎤 SPEAKER_2 [2832s - 2835s]
+Oh, slide from all, actually. Slide for more, I guess.
+
+🎤 SPEAKER_1 [2842s - 2845s]
+This is all, like, your boring stuff. That's why they cover it up.
+
+🎤 SPEAKER_2 [2845s - 2850s]
+Gravel cleaner with pump That's for have the tanks over 60 liters. Delta thermoheater.
+
+🎤 SPEAKER_5 [2850s - 2853s]
+Sixty liters. So bottom one, eight pound pounds.
+
+🎤 SPEAKER_2 [2854s - 2855s]
+Prime gravel cleaner.
+
+🎤 SPEAKER_1 [2856s - 2859s]
+Because that's actually fair. That's when you get loads of ringing stuff in the box and some
+
+🎤 SPEAKER_3 [2872s - 2873s]
+Yeah.
+
+🎤 SPEAKER_2 [2876s - 2877s]
+Five and one.
+
+🎤 SPEAKER_5 [2901s - 2904s]
+How much is that? The five in one as as well, probably.
+
+🎤 SPEAKER_2 [2904s - 2905s]
+How much is it? 6.
+
+🎤 SPEAKER_5 [2905s - 2911s]
+Yes. That is cheaper, isn't it? Look. It looks exactly oh, and it's got has it got net as well? A spoon?
+
+👤 あなた [2911s - 2914s]
+It doesn't have a corner piece. It's got a plant for, which is what that is, means.
+
+🎤 SPEAKER_2 [2915s - 2920s]
+It have a corner piece. That's not the only one. This is the first one.
+
+🎤 SPEAKER_2 [2926s - 2928s]
+It's gonna just easy. Nineteen nineteen nine.
+
+🎤 SPEAKER_2 [2932s - 2933s]
+Nine nineties.
+
+👤 あなた [2934s - 2936s]
+About to just get that so we can wrap it as well.
+
+🎤 SPEAKER_1 [2939s - 2940s]
+I just think I even too much that because
+
+👤 あなた [2942s - 2948s]
+Well, We should as I say, we get the functional stuff, and then you can come and pick the fun stuff. That's okay.
+
+🎤 SPEAKER_2 [2948s - 2949s]
+Alright.
+
+👤 あなた [2949s - 2953s]
+It has a birthday, so do we need the algae cleaning magnets?
+
+🎤 SPEAKER_5 [2953s - 2954s]
+An algae.
+
+🎤 SPEAKER_3 [2954s - 2955s]
+We know? Yeah.
+
+🎤 SPEAKER_2 [2963s - 2966s]
+Maybe the tank's not big enough for one of those, Rachel. We don't need
+
+🎤 SPEAKER_6 [2966s - 2974s]
+Up to 65 meters. Yeah. We're now handy because you can just move it around, can't you? It's the best way of cleaning. I think it might be handy to get that.
+
+🎤 SPEAKER_1 [2974s - 2979s]
+Let's just check that. Can you check online and see if it's a good albuterine magnet? Is that is the kind of thing
+
+🎤 SPEAKER_2 [3003s - 3009s]
+Now we sure can get one for $4.99 like a squarely one. Mhmm. Yeah.
+
+🎤 SPEAKER_5 [3009s - 3010s]
+Take the or
+
+🎤 SPEAKER_2 [3010s - 3015s]
+300 meters mini. $3.02 3. Most of them are quite expensive.
+
+🎤 SPEAKER_4 [3019s - 3020s]
+It's 12 pounds, though.
+
+🎤 SPEAKER_2 [3022s - 3026s]
+The mini one for the tank size. Might be more appropriate than something like that.
+
+🎤 SPEAKER_5 [3026s - 3034s]
+The only thing I'm thinking about, if it goes upstairs, outside of its room, it won't be really be appreciated
+
+🎤 SPEAKER_2 [3034s - 3038s]
+No. I'm using the lounge. Like, okay. It's just it's quite bright in the lounge.
+
+🎤 SPEAKER_6 [3038s - 3046s]
+Like, to make a bit dark. But I suppose if we have the tree on one side, Well, tropical fish live in very context in the middle of the sea, didn't they?
+
+👤 あなた [3047s - 3047s]
+Yeah. So
+
+🎤 SPEAKER_6 [3047s - 3052s]
+Okay. Let's just move to down. I think it's like the I think we can want you to get a middle of field
+
+🎤 SPEAKER_5 [3052s - 3057s]
+I'm hoping it comes and filter. I think it comes and filter with it. We'll just what you're saying is then you get something and just cut it up.
+
+🎤 SPEAKER_1 [3057s - 3065s]
+You have to put a bit of old filter in with the new filter. That it's used to the and you can get an air pump as well, adds bubbles in.
+
+🎤 SPEAKER_1 [3066s - 3068s]
+Which is a nice, like, texture
+
+🎤 SPEAKER_2 [3068s - 3070s]
+No. But maybe that's too much for small.
+
+👤 あなた [3076s - 3077s]
+A bit of stress now.
+
+🎤 SPEAKER_5 [3077s - 3078s]
+Why?
+
+👤 あなた [3078s - 3089s]
+That conversation, I'm a bit disappointed how stressy I was recovering. I was I wasn't being rude, that was I? I was just being a bit like, well, you you plumbers outside? Where are you? I was like, well, to the Tom.
+
+🎤 SPEAKER_2 [3089s - 3092s]
+Was she a bit like where are you? No. She didn't. No. No.
+
+🎤 SPEAKER_3 [3092s - 3092s]
+She comes outside.
+
+🎤 SPEAKER_6 [3092s - 3093s]
+Are you are you around
+
+🎤 SPEAKER_2 [3093s - 3096s]
+No. She's. Soon? Or plumbers outside, she said.
+
+🎤 SPEAKER_1 [3097s - 3099s]
+As if you were supposed to know and be there.
+
+👤 あなた [3100s - 3109s]
+Shed was that? He's running a bit behind today. If he doesn't get you too, he'll come to you tomorrow. And that's the only contact I had. There's no message, oh, be with you in an hour. He'll be this. Listen.
+
+👤 あなた [3109s - 3115s]
+Seemed much more relaxed about it to me. Catherine. I know Catherine from school. She was in six form.
+
+🎤 SPEAKER_2 [3115s - 3121s]
+It's quite funny. I don't know she remembers me or not, but we used to go six form. So Testing strips. This is what we need.
+
+🎤 SPEAKER_6 [3121s - 3123s]
+That's quite expensive. It? I
+
+🎤 SPEAKER_6 [3128s - 3130s]
+Can you just search?
+
+🎤 SPEAKER_2 [3130s - 3136s]
+What are we looking for? What was it? That's a five one test strip is it? For fish.
+
+🎤 SPEAKER_6 [3136s - 3139s]
+Don't do five in one. Have you just just tropical
+
+🎤 SPEAKER_2 [3140s - 3142s]
+Six and one, five and one. It seems test.
+
+🎤 SPEAKER_4 [3142s - 3144s]
+Just water test.
+
+🎤 SPEAKER_5 [3144s - 3145s]
+Tropical.
+
+🎤 SPEAKER_2 [3145s - 3147s]
+Tropical fish water test.
+
+🎤 SPEAKER_2 [3157s - 3162s]
+You can get a 81 test kit for seven ninety five.
+
+🎤 SPEAKER_6 [3163s - 3166s]
+Okay. That's 14 pounds 60 with 10% off.
+
+🎤 SPEAKER_2 [3166s - 3172s]
+Seventy one test strips, fish tank tester, 10 to 200 strips. Three ninety five.
+
+🎤 SPEAKER_6 [3174s - 3181s]
+10 to 200 There's only 10 pest strips. This has got in at 25, and it's 15 pounds And you get
+
+🎤 SPEAKER_2 [3181s - 3184s]
+Well, you get 50 you get 50 strips for six eighty five.
+
+🎤 SPEAKER_6 [3186s - 3187s]
+Okay.
+
+🎤 SPEAKER_5 [3187s - 3189s]
+Is that definitely a tropical fish?
+
+🎤 SPEAKER_2 [3190s - 3194s]
+I know. Which type of nitrate
+
+🎤 SPEAKER_6 [3196s - 3206s]
+Okay. We're going to reviews. Always you do reviews. They're very telling. Think they're useless or get these for my shark tank Just press reviews at the top.
+
+🎤 SPEAKER_2 [3206s - 3206s]
+Alright.
+
+🎤 SPEAKER_6 [3207s - 3208s]
+You never do that?
+
+🎤 SPEAKER_2 [3208s - 3208s]
+No.
+
+🎤 SPEAKER_6 [3208s - 3209s]
+Oh, blimey.
+
+🎤 SPEAKER_2 [3209s - 3221s]
+I don't buy stuff on Amazon on my phone. Customer's fine test shoots are good value for my name. The accuracy and easy of with some finding them, easy to use while there's report occasionally to find.
+
+🎤 SPEAKER_2 [3223s - 3226s]
+Doing testimony customers consider to be patrol back?
+
+🎤 SPEAKER_5 [3227s - 3229s]
+I thought ammonia was, like, the main thing.
+
+🎤 SPEAKER_2 [3230s - 3230s]
+No.
+
+🎤 SPEAKER_2 [3234s - 3236s]
+It doesn't look like it's got it, does it?
+
+🎤 SPEAKER_6 [3237s - 3239s]
+No. It doesn't. H.
+
+🎤 SPEAKER_5 [3241s - 3242s]
+You can also be good.
+
+🎤 SPEAKER_2 [3244s - 3252s]
+Just test the water for you, is there? Yeah. So it's not that one. That's a 22 liter. Yeah. It says that.
+
+🎤 SPEAKER_6 [3252s - 3254s]
+Pull up to the side. Pull it to the side.
+
+🎤 SPEAKER_5 [3255s - 3260s]
+Okay. Because when you looked the other day, said it doesn't have a heater on it. But when I looked online, it said it does, and the doctor, it does.
+
+🎤 SPEAKER_6 [3260s - 3261s]
+So think you might
+
+🎤 SPEAKER_2 [3264s - 3265s]
+Agree salt separately.
+
+🎤 SPEAKER_1 [3271s - 3275s]
+Integrate a single lighting tube and lighting. You can then buy an upgrade.
+
+🎤 SPEAKER_6 [3276s - 3276s]
+But that's Right.
+
+🎤 SPEAKER_2 [3276s - 3281s]
+I see. I don't think it's that he's Well, you hold this then, and I'll pick up the tank.
+
+👤 あなた [3281s - 3282s]
+Oh, hold on. If we're ready for it.
+
+🎤 SPEAKER_6 [3283s - 3285s]
+Guess so. We can give it to work to it. Yeah.
+
+🎤 SPEAKER_4 [3287s - 3288s]
+I didn't even know.
+
+🎤 SPEAKER_4 [3291s - 3292s]
+Because it's quite
+
+🎤 SPEAKER_2 [3292s - 3293s]
+So I'm happy to pick up a minute.
+
+🎤 SPEAKER_1 [3293s - 3297s]
+Doing anything with it for a few weeks anyway. So once we've got it, I'll well, I can come from it.
+
+🎤 SPEAKER_2 [3299s - 3299s]
+Yep.
+
+🎤 SPEAKER_4 [3313s - 3314s]
+K. Hi, Mace.
+
+🎤 SPEAKER_4 [3323s - 3326s]
+I've got a The code? Yeah.
+
+🎤 SPEAKER_2 [3326s - 3327s]
+Yeah. I've got a voucher.
+
+🎤 SPEAKER_4 [3330s - 3335s]
+Yeah. There yeah. There we go. And did you want your as well?
+
+🎤 SPEAKER_2 [3336s - 3342s]
+Yes, please. Yeah. But it's 8190 and ready to go ahead. Brilliant. Happy that, Mitch? Yeah. Yeah.
+
+🎤 SPEAKER_5 [3343s - 3344s]
+Such a good day.
+
+🎤 SPEAKER_4 [3345s - 3346s]
+Good day.
+
+🎤 SPEAKER_2 [3357s - 3360s]
+Thank you very much. Cheers. Thanks. Yep.
+
+🎤 SPEAKER_4 [3361s - 3362s]
+Thanks, man.
+
+🎤 SPEAKER_2 [3382s - 3382s]
+Blimey.
+
+🎤 SPEAKER_4 [3389s - 3390s]
+You over the boot.
+
+👤 あなた [3394s - 3395s]
+Let's take the car for the car washings for Daniel.
+
+🎤 SPEAKER_2 [3397s - 3398s]
+Dirty.
+
+🎤 SPEAKER_4 [3398s - 3398s]
+Yeah.
+
+🎤 SPEAKER_2 [3398s - 3399s]
+Guess so. Yeah. I guess so.
+
+🎤 SPEAKER_4 [3401s - 3403s]
+Who's Bill? I don't know where his name is.
+
+👤 あなた [3403s - 3404s]
+Steve.
+
+🎤 SPEAKER_2 [3409s - 3411s]
+You said 900?
+
+🎤 SPEAKER_1 [3411s - 3421s]
+But also, we got things up. So this tank was 30 good off. Anyway, and then we're saying denection nine pounds. Yeah. So that was 40 pounds saved.
+
+🎤 SPEAKER_2 [3421s - 3421s]
+Nice.
+
+👤 あなた [3422s - 3424s]
+So it's quite a decent tank.
+
+🎤 SPEAKER_2 [3424s - 3430s]
+It's quite a big It's quite a nice tank. It's quite a clean Why is this so scratched up?
+
+🎤 SPEAKER_4 [3432s - 3433s]
+Yep.
+
+🎤 SPEAKER_4 [3442s - 3442s]
+What?
+
+👤 あなた [3454s - 3459s]
+Just need some reason to intentionally scratch your car, but there's another pocket. You wanna drive, Rich? What did you say?
+
+🎤 SPEAKER_6 [3462s - 3463s]
+Okay.
+
+👤 あなた [3465s - 3467s]
+Bill's not coming today, Richland. Not name's not
+
+🎤 SPEAKER_4 [3467s - 3467s]
+Bill.
+
+🎤 SPEAKER_6 [3467s - 3469s]
+It's James. Oh, I'm just woah.
+
+👤 あなた [3470s - 3471s]
+Well, then you went in then.
+
+🎤 SPEAKER_2 [3471s - 3475s]
+At. How can I I'll come in?
+
+👤 あなた [3475s - 3476s]
+That's right. It's fine.
+
+🎤 SPEAKER_4 [3480s - 3480s]
+Wow.
+
+🎤 SPEAKER_2 [3486s - 3486s]
+Buy me.
+
+🎤 SPEAKER_4 [3488s - 3489s]
+Wow.
+
+🎤 SPEAKER_2 [3491s - 3492s]
+Still is there, Besson.
+
+👤 あなた [3502s - 3506s]
+And so we get a car for, you know, one owner, previous owner, elderly lady.
+
+🎤 SPEAKER_4 [3508s - 3508s]
+Why?
+
+🎤 SPEAKER_2 [3542s - 3544s]
+Check. Yeah. Sinking out.
+
+🎤 SPEAKER_4 [3544s - 3546s]
+Crib. But why that's
+
+👤 あなた [3548s - 3552s]
+Looked a little bit shark, didn't it? Where should we walk in?
+
+🎤 SPEAKER_4 [3560s - 3561s]
+But they do.
+
+🎤 SPEAKER_2 [3561s - 3561s]
+So
+
+🎤 SPEAKER_4 [3562s - 3563s]
+Well, yeah.
+
+🎤 SPEAKER_2 [3563s - 3566s]
+Still because I'm still hovering up. Crumbs over there.
+
+👤 あなた [3570s - 3575s]
+So I'm getting the cheap boob anyway. It's less effort for the team who already naked it from setup.
+
+🎤 SPEAKER_2 [3577s - 3578s]
+You sure they sell war, Rachel?
+
+🎤 SPEAKER_4 [3595s - 3598s]
+Yeah. Yep.
+
+🎤 SPEAKER_4 [3602s - 3602s]
+Yeah.
+
+🎤 SPEAKER_3 [3618s - 3618s]
+Yeah.
+
+🎤 SPEAKER_2 [3621s - 3622s]
+Probably where the telescope is now.
+
+🎤 SPEAKER_4 [3638s - 3638s]
+Yeah.
+
+🎤 SPEAKER_2 [3641s - 3642s]
+Let me just ask this filler.
+
+🎤 SPEAKER_2 [3646s - 3646s]
+Yeah. Fine.
+
+🎤 SPEAKER_4 [3647s - 3648s]
+Excuse me.
+
+🎤 SPEAKER_2 [3648s - 3651s]
+Sorry, Do you guys sell wool? Like,
+
+🎤 SPEAKER_4 [3651s - 3653s]
+Nissing wool. Nissing wool.
+
+🎤 SPEAKER_2 [3656s - 3659s]
+Do that way, and you'll see it. Wonderful. Thank you.
+
+🎤 SPEAKER_4 [3665s - 3665s]
+Alright.
+
+🎤 SPEAKER_2 [3673s - 3679s]
+What are you looking for? I need blue, white, yellow, I see.
+
+🎤 SPEAKER_4 [3680s - 3681s]
+And yellow for the sun.
+
+🎤 SPEAKER_5 [3682s - 3684s]
+It has got white and blue.
+
+🎤 SPEAKER_4 [3685s - 3686s]
+It's expensive, though.
+
+🎤 SPEAKER_6 [3686s - 3689s]
+They're really big. I don't need I don't need anything that much.
+
+🎤 SPEAKER_2 [3695s - 3696s]
+Right. No good.
+
+🎤 SPEAKER_4 [3697s - 3700s]
+No. K. Can't ask her then.
+
+🎤 SPEAKER_4 [3713s - 3714s]
+Alright.
+
+🎤 SPEAKER_2 [3717s - 3721s]
+Side. Is the this is what Steve's here is behind there.
+
+👤 あなた [3723s - 3728s]
+I think it's a convector. No. Steve what? That that's what they use at home in the winter. Cheaper
+
+🎤 SPEAKER_2 [3730s - 3739s]
+Cheaper. More energy efficient than putting your heating on. But 30 crore, that'll take a few years to earn that back probably.
+
+🎤 SPEAKER_2 [3741s - 3742s]
+But yeah.
+
+👤 あなた [3743s - 3748s]
+It is a bit I do put the heat on at the moment. When you're it's just me because it's so cold.
+
+🎤 SPEAKER_4 [3748s - 3749s]
+Yeah. I would as well.
+
+👤 あなた [3752s - 3756s]
+And maybe it adds an x £89 on. Which means it probably does make sense to get something like that.
+
+🎤 SPEAKER_4 [3759s - 3762s]
+Yes. He's just one room. Actually.
+
+🎤 SPEAKER_4 [3779s - 3785s]
+It's just one room. Yeah. And then can use then we need something like that in the service room.
+
+🎤 SPEAKER_2 [3786s - 3790s]
+Yeah. Well, we we left a shop now. Maybe we'll do a bit more research on it.
+
+🎤 SPEAKER_4 [3790s - 3794s]
+Yeah. Yeah. I'm looking right now. Come.
+
+🎤 SPEAKER_4 [3803s - 3804s]
+Yep.
+
+🎤 SPEAKER_2 [3806s - 3808s]
+Kind of loathe. You don't really wanna touch it, do you? Do you
+
+🎤 SPEAKER_1 [3816s - 3822s]
+And on Tuesday, I am gonna go to the harvester for Phoenies, but which is really good.
+
+🎤 SPEAKER_6 [3822s - 3824s]
+You will be at the club.
+
+🎤 SPEAKER_1 [3841s - 3852s]
+Big there. The dude could get a kids meal sort of a quite legitimate size. Yeah. I mean, on Tuesday, Elliot would have a big meal of school on a Tuesday.
+
+🎤 SPEAKER_6 [3852s - 3854s]
+I need Thank you.
+
+🎤 SPEAKER_2 [3854s - 3866s]
+I was just for the record, would've probably stopped anyway, but yeah.
+
+👤 あなた [3909s - 3911s]
+I'm loved to record and say watch it because people's wrong.
+
+🎤 SPEAKER_1 [3911s - 3922s]
+No. They don't. The kids' church meeting was fair and nice frustration. We actually did a meeting, and we did it online. People who had ticked the box didn't even end up coming.
+
+🎤 SPEAKER_1 [3924s - 3929s]
+Omi was never replied. It's like you're on the kids team, and they didn't even reply.
+
+👤 あなた [3930s - 3934s]
+And it's a kind of a chase up individually. Have you seen this poll? Can you reply, please?
+
+🎤 SPEAKER_1 [3934s - 3939s]
+Oh, yeah. No. I did not. No. I can't because you think, but the boy is people even ticked it, and then still we can come.
+
+🎤 SPEAKER_4 [3939s - 3940s]
+Yeah.
+
+🎤 SPEAKER_1 [3941s - 3945s]
+And then I sent out the video recording of it, and you need to
+
+🎤 SPEAKER_1 [3948s - 3950s]
+Ryan and Sarah, Joe,
+
+👤 あなた [3954s - 3958s]
+Is Joe pretty much not the church? I she's having issues with No. She's and I read the message, and she
+
+🎤 SPEAKER_1 [3959s - 3959s]
+Yeah.
+
+👤 あなた [3960s - 3963s]
+Do do you just said that she's really struggling with Lewanna at the minute? Generally?
+
+🎤 SPEAKER_4 [3963s - 3970s]
+Oh, her message is like she's trying to get to church on Sunday. Lewena is absolutely you know what Jude does? Yeah.
+
+🎤 SPEAKER_1 [3970s - 3980s]
+When he or especially when he gets worse, absolutely. Jude is completely, and I only it'll go on for, like, an hour. Hour Yeah. In nightmare. And that's happy every Sunday morning. When the weather's not Joe's
+
+🎤 SPEAKER_4 [3981s - 3983s]
+So her and Mimi were getting on and and everything. Yeah.
+
+🎤 SPEAKER_1 [3983s - 4000s]
+But she just can't she just can't get her there. So she's looking at doing it. She's not gonna exist. No. It kind of he is. But Tim's obviously told her church well, I think he has that church is the reason that Omi and daddy have broken separately.
+
+🎤 SPEAKER_1 [4000s - 4003s]
+So, obviously, the one is all the cut under shame.
+
+🎤 SPEAKER_4 [4005s - 4006s]
+No.
+
+🎤 SPEAKER_2 [4006s - 4011s]
+But equally, yeah. Was hoping
+
+👤 あなた [4011s - 4017s]
+Tom to autistic. I think he's just narcissist. I thought that's thought that's something different or not.
+
+🎤 SPEAKER_6 [4021s - 4029s]
+Either way, there has always been very challenging since that she doesn't she never wants to sleep until, like, in half eleven every night.
+
+🎤 SPEAKER_1 [4030s - 4034s]
+That's a classic sign. You know? I like juice as well. ADHD, R, and it
+
+🎤 SPEAKER_4 [4035s - 4040s]
+No. The classic.
+
+👤 あなた [4041s - 4043s]
+This has been the worst bloody hour to go out Rachel.
+
+👤 あなた [4048s - 4053s]
+Maybe one of us should've said maybe I shouldn't have come Maybe she was just coming at me and then none of this would've been a problem.
+
+🎤 SPEAKER_6 [4054s - 4057s]
+I wouldn't have caught the fish tank because I needed you with your card. I need you to
+
+👤 あなた [4070s - 4075s]
+I don't know. Don't need to come to me think, how can I make this about resort resort instead? I'm not saying that.
+
+🎤 SPEAKER_2 [4076s - 4079s]
+I'm just saying, enough. It was just an unfortunate hour. Actually, and we just missed out.
+
+🎤 SPEAKER_1 [4079s - 4085s]
+Say, but you didn't quite word it in a completely new mutual, like, brain. We did not have retired. I didn't really.
+
+👤 あなた [4087s - 4095s]
+Well, it's not your fault, obviously. How could you have known? How are they, but just the way you were did it was a little bit like, oh, page and then you come as well, and I should know just stayed home.
+
+👤 あなた [4095s - 4099s]
+Why are you kind of start to regret and that you start to think?
+
+🎤 SPEAKER_1 [4099s - 4101s]
+Yeah. Fine. Don't think that was my fault.
+
+🎤 SPEAKER_2 [4102s - 4105s]
+What's happened to that? Lovely car. Look at both sides of the bumper.
+
+🎤 SPEAKER_1 [4106s - 4108s]
+That is two separate.
+
+🎤 SPEAKER_4 [4108s - 4109s]
+Or maybe it's just one crash where they spit.
+
+🎤 SPEAKER_1 [4110s - 4121s]
+They've Either way. They're really bad at reversing. Yeah. Maybe they would try to reverse to a space that was just not wide enough.
+
+🎤 SPEAKER_1 [4121s - 4123s]
+I mean, having these things looking at.
+
+🎤 SPEAKER_2 [4123s - 4130s]
+Yeah. That's probably right. Yeah. Yeah. Because I tried reversed down a little narrow lane or something in it.
+
+👤 あなた [4130s - 4132s]
+I volleyed on both sides. At the same time.
+
+🎤 SPEAKER_4 [4133s - 4142s]
+But that looks like you have if you reverse slowly, you'd get a little gentle bub, and then you'd stop. And you bit of backs across the whole of the back, actually, on it.
+
+🎤 SPEAKER_2 [4142s - 4147s]
+And those are not cheaper things. They're like $60 or something, $50.60 grand. Something bad.
+
+🎤 SPEAKER_4 [4147s - 4150s]
+Yeah. Well, yeah.
+
+🎤 SPEAKER_2 [4151s - 4155s]
+Well, I would do that, to be honest. Fuck. I'd love those things.
+
+🎤 SPEAKER_4 [4195s - 4201s]
+If we get advanced, I've really got to reconsider global in Texas next year, whatever it's for next.
+
+👤 あなた [4201s - 4204s]
+You have to move it to Canada or something.
+
+👤 あなた [4207s - 4209s]
+For the next global there. Yeah.
+
+🎤 SPEAKER_2 [4210s - 4217s]
+Don't think we have any tradition in Canada, but can't be out. I can't none none of us wanna work with this America, do we?
+
+🎤 SPEAKER_4 [4231s - 4232s]
+What's wrong?
+
+🎤 SPEAKER_2 [4241s - 4245s]
+Just think about Romel. They don't they don't need it on the side like everyone else.
+
+🎤 SPEAKER_1 [4249s - 4260s]
+As we're out for delivery today, What what do you wanna do if you're not in? Delivery options? What I should've done was put in, like,
+
+👤 あなた [4261s - 4262s]
+Leave in the back.
+
+👤 あなた [4275s - 4277s]
+I've gone to get the garage key, baby trebs.
+
+🎤 SPEAKER_6 [4294s - 4297s]
+Can you turn the show sheet to you? That's it.
+
+🎤 SPEAKER_4 [4300s - 4300s]
+Just
+
+🎤 SPEAKER_2 [4307s - 4311s]
+Mine's dollop. Was it? Why? Why don't you get the knife, sir?
+
+🎤 SPEAKER_2 [4317s - 4319s]
+Now if I parked too close, probably I have.
+
+🎤 SPEAKER_2 [4330s - 4331s]
+Costs was filthy.
+
+🎤 SPEAKER_4 [4344s - 4344s]
+Right.
+
+🎤 SPEAKER_4 [4382s - 4383s]
+What are doing?
+
+🎤 SPEAKER_2 [4383s - 4389s]
+What are you doing at the snow? I'm writing the I'm to bring the trying to bring the aquarium through.
+
+🎤 SPEAKER_6 [4389s - 4390s]
+Sorry. Thought you bought one.
+
+🎤 SPEAKER_4 [4393s - 4393s]
+Alright.
+
+👤 あなた [4393s - 4394s]
+Making way for it.
+
+🎤 SPEAKER_2 [4395s - 4399s]
+That's right. That's fine. That explains it.
+
+👤 あなた [4429s - 4432s]
+Right. Other bits and pieces which can go in the top cover.
+
+
+---
+
