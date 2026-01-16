@@ -1,0 +1,101 @@
+{
+  "id": "9a03f88d-8250-4009-a8ab-14203110d5ba",
+  "created_at": "2026-01-16T09:16:09.906734+00:00",
+  "started_at": "2026-01-16T09:16:20.024988+00:00",
+  "finished_at": "2026-01-16T09:16:21.727533+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Daily Choices Reminder",
+    "overview": "A brief motivational statement emphasizing the importance of making choices every day.",
+    "emoji": "💭",
+    "category": "inspiration",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "b4031c7a-ffd6-4a89-9cf7-84154510a9bc",
+      "text": "Make choices. Every day.",
+      "speaker": "SPEAKER_4",
+      "speaker_id": 4,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.48172010894632e-07,
+      "end": 1.8301005481721404,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157169,
+    "longitude": -3.275553,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "b9dcbe2b-8fd0-425b-ac12-3f0b92e9d9a5",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "9a03f88d-8250-4009-a8ab-14203110d5ba",
+      "chunk_timestamps": [
+        1768554965.817,
+        1768554970.813,
+        1768554975.884,
+        1768554982.128,
+        1768554987.11,
+        1768554992.225,
+        1768554997.214,
+        1768555002.264,
+        1768555007.548,
+        1768555012.613,
+        1768555019.364,
+        1768555024.857,
+        1768555029.888,
+        1768555034.901,
+        1768555039.935,
+        1768555044.985,
+        1768555051.148,
+        1768555056.203,
+        1768555061.213,
+        1768555066.252,
+        1768555075.045,
+        1768555080.201,
+        1768555085.262,
+        1768555090.316,
+        1768555095.333
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-16T09:16:05.817000+00:00",
+      "duration": 134.516
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+      "content": "You said: “Make choices. Every day.”\n\nThat’s a powerful principle. A couple of quick reflections you might lean into:\n\n- **Intentionality:** Framing life as a series of daily choices shifts you from autopilot to agency. You’re not just reacting; you’re deciding.\n- **Small, consistent decisions:** You don’t need huge, dramatic choices every day. Tiny ones—what to focus on, what to ignore, how to respond—compound over time.\n- **Actionable upgrade:** You might make it more concrete by adding a direction, e.g.  \n  “Make choices every day that move you closer to who you want to become.”\n\nIf you’d like, share the context (speech, presentation, or personal note), and I can help you sharpen or expand this line to better fit your goal."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
