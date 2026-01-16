@@ -3152,3 +3152,71 @@ Right. Other bits and pieces which can go in the top cover.
 
 ---
 
+
+
+## 📝 User And Rachel Discuss Garage Storage And Plans - d09a89b2-fcf5-4bb0-bf85-781c5c135923
+
+**記録時間**: 2026-01-16 21:48:04
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 1s]
+Much better in the garage.
+
+👤 あなた [2s - 5s]
+Yeah. They all fit. Alright? Yeah.
+
+👤 あなた [23s - 28s]
+It's a bit more of a repurchase, I guess, to be honest with you, babe. I actually did quite a lot of research.
+
+🎤 SPEAKER_1 [28s - 34s]
+I don't know why no one said They're like a plenty bigger now. Yeah. I thought it would be more structured than it
+
+🎤 SPEAKER_1 [39s - 42s]
+Yeah. I can't remember that size. Five
+
+👤 あなた [42s - 46s]
+I don't have the issue that you have with it. I think that's ample.
+
+🎤 SPEAKER_1 [47s - 48s]
+It takes up a space.
+
+👤 あなた [48s - 49s]
+So what? It's in the garage.
+
+🎤 SPEAKER_1 [154s - 155s]
+Who's Bill?
+
+👤 あなた [162s - 170s]
+I I kinda shed at him. I said I'll be back in an hour. Come around, it'll come tomorrow. He said I'll come tomorrow. Same as James, bibchips.
+
+👤 あなた [172s - 173s]
+Might know that.
+
+🎤 SPEAKER_1 [173s - 174s]
+Yeah.
+
+👤 あなた [175s - 178s]
+But just wrapping, unfortunately. No one's faults.
+
+👤 あなた [192s - 194s]
+Tomorrow in general. Yeah.
+
+👤 あなた [199s - 205s]
+I'll just take initiative and message him and say, look, James, I'm not around such and such time. Tomorrow. So don't bother coming then.
+
+🎤 SPEAKER_1 [217s - 219s]
+Why did you put stop race?
+
+👤 あなた [220s - 228s]
+In the top shelf. Right. In the bedroom. Oh, yeah. Flat. As far as it can go, basically.
+
+👤 あなた [237s - 238s]
+Trying to kinda cut a Coke, Rachel.
+
+🎤 SPEAKER_1 [275s - 275s]
+Yep.
+
+
+---
+
