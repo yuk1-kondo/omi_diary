@@ -1021,3 +1021,263 @@ Welcome to God First Audio Teaching. We hope you find that teaching helpful in J
 
 ---
 
+
+
+## 📝 Rachel and User Plan Travel and Kids’ Activities - 76b1cbeb-9ade-49d5-a556-c109e9e27046
+
+**記録時間**: 2026-01-16 18:55:11
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 6s]
+Okay? Yep. How you getting them? I put a possible because into the Oh, yeah. Global setting. That's the thing.
+
+🎤 SPEAKER_2 [10s - 21s]
+Right. Yeah. Situation. Yeah. Because, basically, they try to scare you into doing the research into pre buying your seat. Yeah. But equally we don't wanna be sat not near each other.
+
+🎤 SPEAKER_2 [21s - 25s]
+Oh. I'm not very good at speaking to people.
+
+🎤 SPEAKER_4 [25s - 27s]
+I don't wanna be stuck in the middle seat.
+
+🎤 SPEAKER_2 [27s - 39s]
+The two people because I won't go can I get off the middle? I need to go for a little walk and stretch my legs. So ideally, we would be I think the best place would be like, if you're by a window seat, at least you've got something hard to lean again.
+
+🎤 SPEAKER_2 [40s - 43s]
+We can stop against each of our sleep. Then you Well, we've got our headphones for that.
+
+👤 あなた [43s - 43s]
+Yeah. Hold on.
+
+🎤 SPEAKER_2 [43s - 49s]
+But then you've got someone next. So the ideal place but you don't wanna be on the window side you two there because then you got someone there.
+
+🎤 SPEAKER_2 [49s - 59s]
+So I think the ideal place on the way out is it's three in the middle. Yeah. So being a two there, think on the way back it's four, so two or two.
+
+🎤 SPEAKER_2 [59s - 72s]
+Right. Because then what about the one? Yeah. It's nice and easy. But or if needed, like, either side of aisle or whatever, But I just think it's easier to have each other so we can kind of whatever.
+
+🎤 SPEAKER_2 [72s - 79s]
+But I'll keep an eye. If that looks like that's going, will I spend a £100 on booking seats? Only formal maybe on the weight might not be such a big thing.
+
+🎤 SPEAKER_2 [81s - 84s]
+Yeah. Oh, it? Yeah.
+
+🎤 SPEAKER_4 [89s - 91s]
+So where is your window? No. The
+
+👤 あなた [92s - 95s]
+It's just cold in here, unfortunately. And I've got two hoodies on.
+
+👤 あなた [100s - 109s]
+So the the plumber might be coming today, Rachel. Okay. He's meant to come yesterday, but Catherine from Nina's call to say that he's on a job.
+
+👤 あなた [109s - 111s]
+Sue might be here today instead.
+
+🎤 SPEAKER_5 [111s - 113s]
+Oh, we could do with making that bit there.
+
+👤 あなた [113s - 116s]
+I don't know if he there's anything inside. Sure. I'm up. Look. Won't he?
+
+🎤 SPEAKER_2 [116s - 131s]
+Check his f one fault before he finalizing hope.
+
+🎤 SPEAKER_5 [131s - 132s]
+Stay
+
+👤 あなた [133s - 133s]
+Very good.
+
+🎤 SPEAKER_2 [133s - 136s]
+Is coming with some full plan minute to minute.
+
+🎤 SPEAKER_5 [136s - 138s]
+All this, and it's this and it's this.
+
+🎤 SPEAKER_2 [138s - 142s]
+Yeah. So I'm like, well, I'll do that to you then. Claudine, Mike's wife, who's doing the other group.
+
+🎤 SPEAKER_1 [142s - 143s]
+Alright.
+
+🎤 SPEAKER_2 [144s - 147s]
+That's fine because I kinda need to do that anyway. So
+
+🎤 SPEAKER_5 [147s - 152s]
+I'll come with the fan of god because is in Helen who do the big story anyway.
+
+🎤 SPEAKER_2 [152s - 165s]
+So they know it already. I don't have to get them to kind of Yeah. And I'm hoping I'm hoping that some of the kids will be well behaved enough.
+
+🎤 SPEAKER_4 [165s - 165s]
+Yeah.
+
+🎤 SPEAKER_2 [166s - 170s]
+Because it's a visitor doing it. Yeah. And because lots of the kids are guest kids. Yeah.
+
+🎤 SPEAKER_5 [170s - 172s]
+They're not like We don't all know each other.
+
+👤 あなた [172s - 173s]
+Yeah.
+
+🎤 SPEAKER_2 [173s - 175s]
+So we just just brings in a length of it more
+
+🎤 SPEAKER_5 [177s - 177s]
+Yeah.
+
+🎤 SPEAKER_2 [182s - 184s]
+And so I'm just trying to I'm just trying to Well done, babe.
+
+👤 あなた [184s - 186s]
+I think I'm go and buy one of these fish tanks today.
+
+🎤 SPEAKER_5 [187s - 187s]
+No?
+
+🎤 SPEAKER_2 [188s - 196s]
+It's a big box like this big, which would be quite fun for him to open. And I think part of the present part of the fun is him then out.
+
+🎤 SPEAKER_2 [196s - 198s]
+Yeah. What have we got? What we need to do?
+
+👤 あなた [198s - 201s]
+Yeah. They haven't got a great deal of time. No. I know. I know. Go get a wall.
+
+🎤 SPEAKER_2 [201s - 205s]
+I've got all sorts to do today. Yeah. Steve, is not an ideal time, isn't it?
+
+👤 あなた [205s - 210s]
+He did say that. He did offer an evening, but I said to him, today's better.
+
+🎤 SPEAKER_4 [210s - 216s]
+I also posted the two big story videos on the things that I've got capture.
+
+👤 あなた [216s - 220s]
+Yeah, but I'm wondering, thinking is Rachel going to be doing that every week because that's a bit much.
+
+🎤 SPEAKER_2 [220s - 224s]
+No. I could. But no. I don't need to. No. But it gets some parents that might be interested.
+
+🎤 SPEAKER_5 [225s - 225s]
+Yeah.
+
+🎤 SPEAKER_2 [225s - 231s]
+It can get them to know, oh, there's this or this is the thing we need you. Also, that first one is quite strong on man woman marriage.
+
+🎤 SPEAKER_5 [231s - 232s]
+Yeah.
+
+🎤 SPEAKER_2 [232s - 234s]
+So I've like,
+
+🎤 SPEAKER_1 [234s - 236s]
+I kind of feel like
+
+👤 あなた [236s - 239s]
+For me, it's not it shouldn't be a controversy yet.
+
+🎤 SPEAKER_7 [239s - 239s]
+No.
+
+🎤 SPEAKER_2 [239s - 240s]
+That's what I mean.
+
+🎤 SPEAKER_5 [240s - 242s]
+And and I think if that's this
+
+🎤 SPEAKER_2 [246s - 258s]
+I was so you're saying that Adam and Eve, it wasn't God made Adam and Eve to be married I just think that's the easiest way of bringing in Yeah. That doctrine in a way that how are they gonna come to us and argue?
+
+🎤 SPEAKER_2 [258s - 264s]
+Oh, well, but but you're saying it's just matter of we're like, we yeah. We've yeah.
+
+🎤 SPEAKER_4 [264s - 265s]
+Well, we yeah.
+
+🎤 SPEAKER_2 [265s - 273s]
+We're not talking about post fall. It's very much than what God made it to be. No. And it just comes open the of the agreement here.
+
+🎤 SPEAKER_2 [273s - 273s]
+Creation
+
+👤 あなた [275s - 276s]
+God's design. Will only be balanced.
+
+🎤 SPEAKER_2 [276s - 281s]
+One moment. But that's where we go with. So let's have that to standpoint. And then how we follow on from
+
+🎤 SPEAKER_4 [281s - 288s]
+Well, that's what yeah. Do that is the same with how we follow on from anything, and that's the discussion that how that will vary in the churches.
+
+🎤 SPEAKER_2 [288s - 292s]
+But what we're not saying is God created
+
+🎤 SPEAKER_5 [292s - 293s]
+Yeah. Women and women to be together.
+
+🎤 SPEAKER_2 [293s - 304s]
+So I just think that do you know That is such a good video just to weedle out anyone who even disagrees with that. Yeah. And if Chloe watches it, and she's not happy with it Yeah.
+
+🎤 SPEAKER_2 [304s - 309s]
+She thinks I don't want Elijah watching doing this scheme. Well, great. Then make that decision.
+
+👤 あなた [310s - 311s]
+Well, why was she?
+
+🎤 SPEAKER_2 [312s - 322s]
+Well, because she might be, like, peep like, she's more unhappy with it. And so therefore, I'd rather it was something as simple as that app.
+
+🎤 SPEAKER_2 [322s - 329s]
+So if the Americans left over this issue, we could say, well, it was just this literally this video that says, God made Adam and Eve.
+
+🎤 SPEAKER_2 [329s - 333s]
+Man and wife, man and woman. Man and woman.
+
+🎤 SPEAKER_5 [333s - 333s]
+Yeah.
+
+👤 あなた [333s - 335s]
+God's design is woman, woman.
+
+🎤 SPEAKER_1 [335s - 339s]
+It's not like oh, well, they told Sophie that she couldn't do communion.
+
+🎤 SPEAKER_2 [339s - 348s]
+That's not the issue. The issue was, well, it was just this kid's video. That just sparked a conversation because it says about man god deciding man and woman.
+
+🎤 SPEAKER_5 [349s - 351s]
+Yeah. Yeah.
+
+👤 あなた [351s - 357s]
+I thought I took a photo of our garden. With it in its pollen state. That's fine.
+
+🎤 SPEAKER_2 [359s - 363s]
+I think that's more recent. I think July Further before then,
+
+👤 あなた [363s - 366s]
+Yeah. I think it's making some better.
+
+🎤 SPEAKER_2 [366s - 373s]
+This summer was better. It was the year before, and it was all four. We treated it in the autumn or something. My nash year.
+
+🎤 SPEAKER_5 [373s - 378s]
+Yeah. So This is August now. Okay.
+
+👤 あなた [380s - 381s]
+So it would've been after August.
+
+🎤 SPEAKER_5 [384s - 392s]
+Here. That's the fence blowing down that one. Oh, I don't know nobody's probably off in it, but anyway anyway.
+
+👤 あなた [392s - 394s]
+Yeah. Good. Well done, babe. Good job.
+
+
+---
+
