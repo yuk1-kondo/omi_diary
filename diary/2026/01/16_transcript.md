@@ -974,3 +974,50 @@ Make choices. Every day.
 
 ---
 
+
+
+## 📝 Rachel Teaches On Living Close To Christ - fb0c9ef8-dd14-4e33-9b09-181c127358fc
+
+**記録時間**: 2026-01-16 18:18:24
+
+### STT生テキスト
+
+👤 あなた [0s - 5s]
+These commands don't mean save yourself. They mean pay attention to where you're living from.
+
+🎤 SPEAKER_4 [7s - 12s]
+So let me say this clearly as I can because it attacks us from two very damaging errors first.
+
+🎤 SPEAKER_4 [76s - 78s]
+Weeding passively and helping change.
+
+🎤 SPEAKER_2 [79s - 80s]
+Your life.
+
+🎤 SPEAKER_4 [97s - 98s]
+Certification is northward.
+
+🎤 SPEAKER_4 [156s - 165s]
+You don't change yourself. You do choose do choose where you stand. You choose whether you keep placing yourself with Christ's life.
+
+🎤 SPEAKER_4 [167s - 168s]
+We do all whether you drift.
+
+🎤 SPEAKER_4 [173s - 182s]
+Of peppers. I'm saying do this to stay near the warmth. Because, God, there's they're changing always, but you are. And that is and that's not precious.
+
+🎤 SPEAKER_4 [185s - 186s]
+That's a good thing.
+
+🎤 SPEAKER_4 [291s - 291s]
+So
+
+🎤 SPEAKER_4 [299s - 308s]
+Feels cold because you've wondered, but because this is simply the season you're in. It's important you hear this clearly.
+
+🎤 SPEAKER_4 [346s - 352s]
+Welcome to God First Audio Teaching. We hope you find that teaching helpful in Jesus.
+
+
+---
+
