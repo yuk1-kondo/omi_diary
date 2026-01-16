@@ -721,3 +721,95 @@ Omi is connected.
 
 ---
 
+
+
+## 📝 Rachel Shares Rick and Morty Voice Rituals - 2ea3add8-e51e-44f3-b0d2-0b85b1106d14
+
+**記録時間**: 2026-01-16 16:29:13
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 3s]
+Is here, ending fans' anticipation about the new voices behind.
+
+🎤 SPEAKER_2 [10s - 16s]
+Whatever you do, don't do that one thing. Promise me you won't do it. It's gonna end badly. Trust me. I've done this before.
+
+🎤 SPEAKER_3 [17s - 24s]
+Or she doesn't totally gonna do it, and I'm gonna have to, like, rescue his ass. What did I tell you doing the thing that you wanted to do? Not to do it, and then
+
+🎤 SPEAKER_2 [24s - 26s]
+Rick would be like, you wanna go see anything? No. Good.
+
+🎤 SPEAKER_3 [27s - 28s]
+That that that that was it.
+
+🎤 SPEAKER_2 [29s - 29s]
+Whatever you do,
+
+🎤 SPEAKER_1 [33s - 35s]
+Oh, lines that I say to get him character.
+
+🎤 SPEAKER_2 [35s - 45s]
+There's two that I use most often, and first one is Caribbean Queen written by Hugh Jackman, age 16. Caribbean Queen. Age 16.
+
+🎤 SPEAKER_3 [45s - 48s]
+Which is a line from my first episode of season seven.
+
+🎤 SPEAKER_2 [48s - 55s]
+And that's kinda more conversational, Rick. And then when I need to get a little more angry, a little more heightened, start yelling, I go, touch my shit and die.
+
+🎤 SPEAKER_2 [55s - 61s]
+That's not threat from me. That's how advanced my shit is. Touch my shit and die. That's not a threat from me. That's how advanced my shit is.
+
+🎤 SPEAKER_2 [61s - 64s]
+And that usually gets me there. Oh, lines that I
+
+🎤 SPEAKER_4 [66s - 73s]
+Is there any, like, a certain ritual that you do before doing your voice acting for the role? For a scene?
+
+🎤 SPEAKER_2 [73s - 83s]
+There's a few lines that I'll return to before a session and during a session. That, that bring me back to to invoice. So, there's one from season seven.
+
+🎤 SPEAKER_2 [83s - 96s]
+Caribbean Queen written by Hugh Jackman, aged six sixteen. I'll just do that a dozen times and then go right into the script. And then if I need to do, if I need to if it's a a scene with a little more yelling, I'll use a different one.
+
+🎤 SPEAKER_2 [96s - 103s]
+So that's more conversational. The other one that I do is my launch point is touch my shit and die. That's not a threat for me. That's how advanced my shit is.
+
+🎤 SPEAKER_2 [109s - 114s]
+Rick and Morty co creator, Harmon has finally broken his silence on Justin Roiland.
+
+🎤 SPEAKER_3 [114s - 122s]
+The biggest take away is that Dan Harmon revealed that he and Justin haven't talked since 2019 and their last conversation was done through text that made Dan cry.
+
+🎤 SPEAKER_5 [122s - 129s]
+Justin said he was unhappy among other things, and then the conversation turned confrontational. That's when they had to falling out, and they have talked since.
+
+🎤 SPEAKER_5 [129s - 144s]
+It's been widely reported that Justin stopped coming into office around season three. And in an interview with The Hollywood Reporter, Dan Harmon revealed that partner was because Justin wasn't happy that Dan brought in his own riders from community because it made it feel like Dan was away the show from Justin.
+
+🎤 SPEAKER_5 [144s - 154s]
+Dan said, quote, if I had felt I was imposing something, I would have never done it. If anything, what I wanted was for Justin and I both to be able to be increasingly lazy and not show up for work.
+
+🎤 SPEAKER_5 [154s - 158s]
+That was the dream. The new season drops October 15 and will feature two
+
+🎤 SPEAKER_2 [171s - 179s]
+Uh-oh. Oh, hey, Morty. You're my little buddy. You know that? It's it's you and me, Morty. Rick Rick and Morty, a hundred years forever.
+
+🎤 SPEAKER_2 [182s - 183s]
+Oh, jeez,
+
+🎤 SPEAKER_5 [183s - 184s]
+Frank. I don't know if a knife is necessary
+
+🎤 SPEAKER_6 [185s - 192s]
+I mean, you know, you kinda have things handled without it. Just that hair seaweed? Boy, it's really circling the whole rim
+
+🎤 SPEAKER_2 [192s - 194s]
+Guess you gotta jump in without touching?
+
+
+---
+
