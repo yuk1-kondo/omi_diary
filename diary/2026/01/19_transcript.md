@@ -4334,3 +4334,203 @@ How old are you?
 
 ---
 
+
+
+## 📝 Critique Of Prophetic Use Of Social Media Data - 5352a309-ca74-4041-a2d6-63f17d7526d4
+
+**記録時間**: 2026-01-19 23:47:40
+
+### STT生テキスト
+
+🎤 SPEAKER_6 [13s - 14s]
+So y'all usernames.
+
+🎤 SPEAKER_7 [14s - 16s]
+Never get usernames when I ask out for new information.
+
+🎤 SPEAKER_6 [17s - 32s]
+Never get to keep in mind that he says he never gets usernames. That's super important. Never But imagine imagine if you were to profit doesn't know your name, but he knows your Facebook username. Bear Bishop nine one one. Terry Bishop, you're working on the cell, and we're getting it. That is my, you username.
+
+🎤 SPEAKER_9 [32s - 35s]
+Terry Bishop nine one one.
+
+🎤 SPEAKER_7 [35s - 37s]
+Thor says, you live in a pleasant place. What does that mean to you?
+
+🎤 SPEAKER_9 [37s - 39s]
+I live on pleasant health care.
+
+🎤 SPEAKER_7 [39s - 39s]
+Come on. Come on.
+
+🎤 SPEAKER_6 [41s - 46s]
+That's on Sid Roth's show. Again, this is that's a pretty significant thing Get invited on Sid Roth. That's a door opener for you.
+
+🎤 SPEAKER_6 [46s - 51s]
+Churches will be calling you. Conferences will be asking for you after you get on a Siddharat show. Here's another one.
+
+🎤 SPEAKER_7 [52s - 58s]
+I felt like he said even, like, someone Bubba because I saw Bubba Gum Shrimp Company. Who is that? Who is Bubba?
+
+🎤 SPEAKER_6 [68s - 81s]
+Okay. I I enhanced the audience. You can hear the guy a bit. I also put the text on because he doesn't know what the guy's real name is. He just knows all he could see is what it looks like. All he could see out was the guy's username online. He wasn't sure if it was real.
+
+🎤 SPEAKER_6 [81s - 83s]
+He goes ahead and brings it up himself.
+
+🎤 SPEAKER_7 [87s - 90s]
+That's so cute. That's so cute.
+
+🎤 SPEAKER_6 [91s - 93s]
+I think he goes on and on about it being cute. I didn't keep playing. That's so cute.
+
+🎤 SPEAKER_8 [93s - 94s]
+Cute.
+
+🎤 SPEAKER_6 [97s - 100s]
+I'm crazy about that. Anyway, here's another one.
+
+🎤 SPEAKER_7 [101s - 110s]
+This is username or something because it's a person's name. So excuse me it is a person's name. I'm sorry. L r I c k?
+
+🎤 SPEAKER_2 [111s - 112s]
+Babzilrik, As she Hold on.
+
+🎤 SPEAKER_6 [113s - 127s]
+We're about to hear from her. Babzol Rick? Again, Sean doesn't know how to pronounce the names because he's not hearing them. She's pro just reading them off of the Internet, and he goes, I wanna use this person. I think they tagged they they checked in at the event.
+
+🎤 SPEAKER_6 [127s - 136s]
+Something like that. But I I I don't know how to pronounce their name, and they didn't put their full real name online. So what does she say?
+
+🎤 SPEAKER_7 [137s - 137s]
+Go Rick.
+
+🎤 SPEAKER_1 [138s - 143s]
+She's depractic, but my husband calls me babs. So I Babs.
+
+🎤 SPEAKER_7 [143s - 146s]
+Babs at together here, and I'm trying to figure this out.
+
+🎤 SPEAKER_6 [147s - 152s]
+Never get usually when I ask on Deborah Ederick, but my husband calls me Babs.
+
+🎤 SPEAKER_6 [153s - 170s]
+Babs Elric, didn't even know there was that was two different names. He thought Babs Basil Rick was the name. So another example of him getting usernames, which I think in and of itself is suspicious Now we put all the suspicious things together. It's it's definitive. I mean, there's there's no reason doubt.
+
+🎤 SPEAKER_6 [170s - 207s]
+No reasonable doubt that this guy faked it, and there's gonna and I have a lot more to share. So what I wanna do now, though, is play a video. This is from a friend of mine named Steven Co Kozar. Now Steve Kozar has been criticized some of the craziness that's gone on in the charismatic in particular for quite a while. And he has a bad name because of it because your name will get slandered if you do this stuff. And he tried to raise more about about Sean Lance exactly what he was talking about. I think this is pretty significant.
+
+🎤 SPEAKER_6 [208s - 251s]
+This is an awesome analysis, and Steve's gonna walk us through some specific specific examples. He'll put up something Sean claims into the audience and then he'll show how the thing that was claimed was available publicly on so media. And when you have this happening over and over and over again, and you combine it with one other element, Sean has deep detailed specific facts about your past and present, that are available publicly on on social media, and they combine that with another fact. John has a vague vague generalities and prophecies for you about your future might tell you what to do with confidence, but he won't tell you what will happen with great confidence generally speaking. Sometimes he does, but it's not kind of details that he has about the past and present.
+
+🎤 SPEAKER_6 [251s - 272s]
+When you combine specific public info with vague futuristic prophecies, that's a huge red flag. When you do it over and over and over again, it's obvious that the guy's a baker. Let's learn about Dennis. Dennis, who was targeted, manipulated, abused, by Schambles after Bethel had already had opportunity to find out and correct his And I'm looking for a dentist who you're either from The Ukraine or your parents were
+
+🎤 SPEAKER_6 [278s - 284s]
+I just wanna point out there's Rodney Howard Brown on stage behind him, getting Calinda, and Heidi Baker.
+
+🎤 SPEAKER_7 [284s - 292s]
+And you moved to America, and I think to Washington State or Washington DC. And Todd White and others, you'll see. Copy out here.
+
+🎤 SPEAKER_8 [292s - 301s]
+Is there a dentist? Every single thing that Sean says comes directly from the social media accounts of dentist. Is just a big trick.
+
+🎤 SPEAKER_6 [304s - 311s]
+So here, Steve is showing, the social media page, where Dennis talks about the very things that, that Sean has prophesied.
+
+🎤 SPEAKER_7 [312s - 322s]
+And you moved to America, and I think to Washington State or Washington DC, there's a dead who your parents were from the Ukraine.
+
+🎤 SPEAKER_6 [323s - 326s]
+You moved So the Facebook here shows that this info is available. Okay. Help me out.
+
+🎤 SPEAKER_7 [328s - 331s]
+We've only done this since saying just big a few times. It's a little hard.
+
+🎤 SPEAKER_9 [333s - 340s]
+So my story goes that, my family comes from, like, Ukrainian background. So my mom, when she was about 16 years old, anybody who's listening on podcast, this is a video that Dennis had on his website, his own testimony video.
+
+🎤 SPEAKER_6 [342s - 357s]
+Now keep in mind, for the Azuzana event, people were doing check ins on Facebook. We'll talk about I'll come back to Facebook. As soon as we're done with Dennis, we will come back to Facebook, and I'll reveal the thing that it very relevant there.
+
+🎤 SPEAKER_9 [358s - 369s]
+Came into The United States, and my dad around not too long after that did as well. They didn't know each other. And they came and they they got married in the United States. And I was the second son of four of as a family.
+
+🎤 SPEAKER_7 [369s - 373s]
+We've only done this since saying this big a few times. It's a little hard.
+
+🎤 SPEAKER_9 [373s - 374s]
+We have somebody.
+
+🎤 SPEAKER_6 [397s - 404s]
+He's there surrounded. Oh, I guess he's on screen. There you go. Right there. Right with his arms up, facing, smiling, surrounded by people wearing similar shirts.
+
+🎤 SPEAKER_9 [413s - 422s]
+You're raising a, Islamic Pentecostal background. So my whole life, I heard about Jesus. We we went to church. It was some that was always natural.
+
+🎤 SPEAKER_9 [429s - 438s]
+And I moved with my my mom and my siblings to the state of Washington, and I was in grade at this time, moved partially throughout the middle of the school year.
+
+🎤 SPEAKER_9 [438s - 463s]
+And I went through a lot of hazing. There was a lot of bullying and rejection during that time my life. And so I begin to, start getting into fights and, start getting experimenting with drugs and and smoking and and all those sorts of things. And not too far down the road at the age of 15, I ended up getting arrested and sitting good amount of time in, in the juvenile system.
+
+🎤 SPEAKER_7 [463s - 466s]
+And you had a hard there in the middle because of some of the things that happened.
+
+🎤 SPEAKER_6 [468s - 473s]
+So, again, this stuff is available on his website. You can find Dennis because he it seems, checked into the Azuca now event.
+
+🎤 SPEAKER_6 [474s - 487s]
+He's using the hashtag, Azuza now or Azuza now sixteen two thousand sixteen or something like that. And it's all available there. Like, it's not hard to think that before this event, Sean is sitting in his hotel room or wherever.
+
+🎤 SPEAKER_6 [487s - 496s]
+On his smartphone, taking some notes from the from the things that he sees. Someone's saying, can't wait for the next day of the Azusa now event.
+
+🎤 SPEAKER_6 [496s - 504s]
+And then Sean is searching and looking, I'll show you in a second. We'll get to this Facebook in a second. So it's not a coincidence.
+
+🎤 SPEAKER_6 [504s - 511s]
+These things are too much to be a coincidence. Okay? Sean's a faker, and I'll have more witness to from people who used to work with him.
+
+🎤 SPEAKER_6 [511s - 518s]
+Work for him, and former employees. And others. Will be adding to this to tell the whole story. The whole story today.
+
+🎤 SPEAKER_7 [518s - 528s]
+And you had a hard time there in the middle because of some of the things that happened. And you had a hard time there in the middle because of some things that hard there because of some of the that happen in your family, but it's gonna give you the power over my my parents are going through a divorce.
+
+🎤 SPEAKER_6 [545s - 567s]
+So on the screen just there, Steve goes our put the website the this guy's website is Awakening Generation, and so Sean weaves that into his prophecy. So the guy's thinking like, wow, God really sees me. He knows me. I'm on the right track. He wants me to do this. This is the moment where most likely Dennis is thinking, I know for sure what my life's mission will be. Maybe I've struggled. Maybe I've doubted it. Maybe I've wondered if it would work.
+
+🎤 SPEAKER_6 [567s - 572s]
+Now I know for sure this is my life's mission. I will do everything that Sean just said I should do.
+
+🎤 SPEAKER_6 [581s - 589s]
+Alright. From Tacoma, Washington lives in Mechanicsburg, Pennsylvania. That that's what his Facebook says.
+
+🎤 SPEAKER_6 [604s - 627s]
+Steve writes on the screen here. This poor guy's getting scammed. 100% true. I feel bad for Dennis Dennis. In fact, may be that you what you were already doing is what the Lord would have you do. That may well be But if you have been fundraising based upon upon this word for shambles, you have to stop. And that doesn't mean that your ministries and or that your call can't be replaced with other companies regarding this.
+
+🎤 SPEAKER_7 [655s - 664s]
+And they'll But I'm telling you, you're you're My family comes from my Ukrainian background. God is gonna send you not only to America,
+
+🎤 SPEAKER_7 [671s - 672s]
+Not just send you, but commission you.
+
+🎤 SPEAKER_6 [677s - 683s]
+Yeah, on the screen, more information from social media confirms that Sean could easily have just data mined every single thing.
+
+🎤 SPEAKER_8 [684s - 694s]
+Something's gonna happen like you can't even dream up. Really? This is supposed to be God talking? A guy who apparently can't even be specific? He's quoting you right
+
+🎤 SPEAKER_8 [701s - 703s]
+Just about a year.
+
+🎤 SPEAKER_6 [703s - 707s]
+Okay. Now now he's gonna get into a couple other things I thought would be important to just throw in here.
+
+🎤 SPEAKER_7 [709s - 709s]
+Sean's
+
+
+---
+
