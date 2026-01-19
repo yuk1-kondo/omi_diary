@@ -1679,3 +1679,464 @@ True. But just think all of the God. Double
 
 ---
 
+
+
+## 📝 Car Number Plate Damage and Travel Planning - c59df153-25c4-473a-b481-ad4ead139dcf
+
+**記録時間**: 2026-01-19 18:26:37
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 11s]
+For information on our products, services, and opening times, can visit our website at frsmotors.com. Please be aware that all calls are recorded for quality and training purposes.
+
+🎤 SPEAKER_1 [11s - 23s]
+For new cars, sales crowns one. For van sales, press 2. For used car sales, at the car warehouse, press 3. For service and repair, press 4.
+
+🎤 SPEAKER_1 [29s - 31s]
+The busiest shopping tool for a service,
+
+🎤 SPEAKER_1 [44s - 44s]
+Thank you.
+
+👤 あなた [51s - 66s]
+Good morning. Just a quick call. Just a quick question, actually. I've got I've got a t o three, a leak motor. And, unfortunately, so summary reverse in hit the car and cracked the number plate.
+
+👤 あなた [67s - 75s]
+I can't see it drives alright. There's no warning lights, the the number plate's cracked. So I I think it probably just needs a we have a look at it.
+
+🎤 SPEAKER_2 [81s - 81s]
+Yeah.
+
+👤 あなた [86s - 100s]
+No. Yeah. Well, you said Royal Mail van just reversed backwards and move midway for another car car up the road, and he without looking, he just hit me. So there's there's no there's no damage as far as I can see other than the the number plate itself. But It's too ways to update right to save.
+
+🎤 SPEAKER_2 [108s - 109s]
+Yeah. Yeah.
+
+👤 あなた [112s - 114s]
+Yeah. Do you guys do number
+
+🎤 SPEAKER_2 [124s - 124s]
+Yeah.
+
+🎤 SPEAKER_2 [128s - 128s]
+Yes.
+
+👤 あなた [133s - 144s]
+Yeah. If you wouldn't mind, that'll be the problem. Thank you, buddy. So Progen, didn't it? Sorry. Mate. Didn't know the number where the number goes here. Cheers, Bob.
+
+👤 あなた [146s - 147s]
+Cheers, Bob.
+
+🎤 SPEAKER_1 [157s - 159s]
+Thank you for calling.
+
+🎤 SPEAKER_1 [176s - 194s]
+The all new Leap Motor Leak Pen is out and available to purchase. With 0% APR at just £299 per month with a £299 deposit over forty eight months. This car is higher in specification and fully electric.
+
+🎤 SPEAKER_1 [194s - 195s]
+Let's try today.
+
+🎤 SPEAKER_1 [200s - 202s]
+Have you heard the exciting news yet?
+
+🎤 SPEAKER_2 [205s - 206s]
+That's alright. Yeah. Can.
+
+🎤 SPEAKER_2 [209s - 209s]
+Yeah.
+
+🎤 SPEAKER_2 [214s - 215s]
+Oh, yes.
+
+👤 あなた [225s - 229s]
+Alrighty. And is that a bridge end, is it, is it Or what's the Great.
+
+👤 あなた [232s - 243s]
+Bro, so I'll just turn up. I don't I don't necessarily book a slot or anything like that. Oh, yeah. Great. Well, thank you, mate. I appreciate that. Cheers.
+
+🎤 SPEAKER_2 [244s - 246s]
+Bye. Bye.
+
+👤 あなた [248s - 255s]
+I was just on the phone to f r f. Garage is the one we bought the car from. Right. Just asking about the car, basically. Yeah.
+
+🎤 SPEAKER_2 [256s - 257s]
+Just saying this happened, what's your advice?
+
+👤 あなた [257s - 266s]
+He said, to be honest with you, if it it is a body work job, if it's got any dents or bumps or anything like that, it's not necessarily a problem with the car.
+
+👤 あなた [266s - 280s]
+From what I gather. We'd have a look at it, but it seems to me, he said, that I switched to the the garage part. He said, look, if it's an number plate, you can go you know, my advice is just come get a new number plate. Right.
+
+👤 あなた [280s - 290s]
+Okay. So this is He said it's twelve pounds for a new number plate. If we and we don't book him, we just go to the garage there. And then f extra then for fitting it if they fit it for us.
+
+🎤 SPEAKER_2 [290s - 296s]
+So it could cost us up to a 100. Let's just say, but it'd be easy to do that not through insurance. Wouldn't it?
+
+👤 あなた [296s - 312s]
+Well, yeah. But I don't want to pay £100 for someone else's blinking mistake, mate. No. I know. Is it do we definitely play? Do we definitely pay what access even if it's their fault?
+
+🎤 SPEAKER_2 [313s - 319s]
+Well, I think it's more the fact that our premium will go up, and that will cost that could it could go up. Let's say it goes up.
+
+👤 あなた [319s - 337s]
+Because surely I have to take the v o v v zero five form that the car ownership the insurance. And ownership. And effectively, it's owned in your name, insured in your name. So you're gonna have to do it, basically. You have to go and take it in. We can go together, but you need to be there, I think.
+
+👤 あなた [341s - 346s]
+He said that you can take it away and sort yourself just buy some sticky pads and put it on, he said. I was like, what?
+
+🎤 SPEAKER_2 [347s - 348s]
+Is the plastic cover over it though?
+
+👤 あなた [349s - 357s]
+You say Well, I looked at that and it's not actually. It's just a really premium number plate. It's that it's almost like it's got acrylic plastic on the front.
+
+🎤 SPEAKER_2 [358s - 359s]
+Halfurds. Do it.
+
+👤 あなた [360s - 362s]
+Yeah. But do they do a nice one? Like, what we got?
+
+🎤 SPEAKER_3 [362s - 363s]
+So he's not saying, oh, look.
+
+🎤 SPEAKER_2 [363s - 368s]
+Be honest, you might tell people think it's just an older plane. Actually damaged the internal as bringing it in. He didn't say that, z.
+
+🎤 SPEAKER_2 [369s - 385s]
+I just think going down the insurance route, then I I I think it could use up quite a lot of our time. As well. Yeah. I think drive somewhere, get it fixed, get it done, or tick off the list.
+
+👤 あなた [385s - 391s]
+You go down the insured We could go down the get it get the plate ourselves and then from Royal Mail then.
+
+🎤 SPEAKER_2 [391s - 392s]
+No.
+
+👤 あなた [392s - 394s]
+Because Do they need the insurance claim? It will do Yeah.
+
+🎤 SPEAKER_2 [394s - 399s]
+It it won't do that. It will speak to our own insurance They'll have a little debate amongst each other.
+
+🎤 SPEAKER_2 [405s - 408s]
+I'll message the guy and see if he wants to pay for it because frankly I think it'd be nice to let him know because he might actually be freaking out.
+
+🎤 SPEAKER_4 [408s - 409s]
+No.
+
+🎤 SPEAKER_3 [409s - 409s]
+You don't know.
+
+🎤 SPEAKER_2 [409s - 413s]
+He might be be sat full of dread thinking, I've already had a warning on this.
+
+🎤 SPEAKER_2 [413s - 417s]
+I'm gonna lose my job. And even though it's good to have some accountability,
+
+👤 あなた [418s - 420s]
+It was it was an honest mistake.
+
+🎤 SPEAKER_2 [420s - 420s]
+Mistake.
+
+👤 あなた [421s - 424s]
+All His honest mistake. He seemed like a nice guy. He's just trying to get his job done and everything.
+
+🎤 SPEAKER_2 [425s - 433s]
+You He's in a hurry. He got loads to do. You're just busy. Just think you didn't see it. No. He just didn't he just didn't check. They don't have a rearview mirror.
+
+👤 あなた [433s - 442s]
+He had rear he had rear sensors. Know it's from his bumper. Unless they weren't working, you reverse so fast. Yeah. Like, your you are now Are you doing UI then on the traffic?
+
+🎤 SPEAKER_2 [442s - 444s]
+What was going on? I didn't understand how hit you.
+
+👤 あなた [444s - 446s]
+So do you know what ultra drive is?
+
+🎤 SPEAKER_2 [448s - 448s]
+Yeah.
+
+👤 あなた [448s - 449s]
+Which goes down the hill?
+
+🎤 SPEAKER_2 [449s - 450s]
+Very road.
+
+👤 あなた [450s - 458s]
+Yeah. That's Barrie Road. So we're heading down Barrie Hill just past Ultra Drive. This car's parked that downhill just before just after Orchard Drive.
+
+👤 あなた [458s - 467s]
+He pulled in there to let cars come up the hill. Right. And there was room for two of us. Yeah. So he pulled in to let a car up the hill. I stopped where I am now.
+
+👤 あなた [468s - 470s]
+The you are at the back of his car. I'm going to get out.
+
+🎤 SPEAKER_5 [470s - 470s]
+He never No.
+
+👤 あなた [471s - 493s]
+A car came bombing up the hill. Yeah. And so he decided to do, you're gonna go into reverse and reverse back. To give that guy or vehicle out of you more space. You just thought that was gonna go. I don't know what he's thinking because I couldn't, but it seemed like he felt the need to reverse to let the car up the hill. Right. They didn't go slow, You're going, what about? I didn't the I didn't have a chance to go beep beep.
+
+👤 あなた [494s - 504s]
+It wasn't like I was here. Alright. Joey? So So it was I just It doesn't look I mean, it it's not it looks very much like.
+
+🎤 SPEAKER_2 [505s - 518s]
+I just think that the amount of time of paper and details and communication, we are frankly Yeah. We haven't got time for that. Yeah. Then we unknown you're going to be great.
+
+👤 あなた [529s - 539s]
+Now No. We'll we'll get we'll get it covered. We'll get it all what we'll do, we'll go through the proper leap motor garage. To get them in plate. Okay. And that way then we can say, well, we took the carth of the garage, Yeah.
+
+🎤 SPEAKER_2 [539s - 542s]
+Yeah. That's true. We just do it health as ourselves.
+
+👤 あなた [542s - 551s]
+Yeah. And they saw it. It seems fine to me. It seems that the bumper's not even bent. And I had a little look. The bumper's actually away from the car a little bit.
+
+👤 あなた [552s - 557s]
+Electric cars are not No. Got as many internals.
+
+🎤 SPEAKER_2 [559s - 570s]
+So, anyway Kate, they decided to buy a second car because they're Zoe. Yeah. She's not the best arrangement, and they do quite a lot of long journeys, and it's just Yeah. Zoe's party union, then they got they go to McArthur Glen And Have dinner, wait for Carter Charge. Yeah.
+
+🎤 SPEAKER_2 [570s - 601s]
+We have said said, why don't we why I you come in. I'll drop you You I'll follow you then. You park it up somewhere. We'll do that whenever you come up. But they don't wanna do that. They've got assistance, but it's just a bit of nightmare. He didn't have to go for the football and so we're all in for EV, but the world does not. Yeah. It's just not quite ready for it. And I said I said Well, for smaller EVs now.
+
+👤 あなた [601s - 606s]
+Smaller EVs. No. My brother's got an NG that's got much bigger range. Yeah.
+
+🎤 SPEAKER_2 [606s - 622s]
+So the the price the the money that they've got, but it was being delivered supposed to be delivered on sat call from the guy on Friday. Mhmm. And the guy who picked it up and noticed there's a dent on the back, like like this. Something's hit it.
+
+🎤 SPEAKER_2 [622s - 629s]
+Now I don't know where that guy's done or the wherever. Anyway, it's there. It's a 72 plate. So it's literally less than a year old.
+
+👤 あなた [629s - 629s]
+Oh, wow.
+
+🎤 SPEAKER_2 [630s - 639s]
+So now they haven't got that car. So supposed to be coming up tomorrow. They can't come back on Thursday. Which is disappointing because it's the end masters come in tomorrow.
+
+🎤 SPEAKER_2 [640s - 646s]
+But then I'm quite glad because yeah, it's nice if they're there.
+
+🎤 SPEAKER_4 [646s - 647s]
+But Yeah.
+
+🎤 SPEAKER_2 [647s - 663s]
+Anyway, yes, that's a bit of a hassle. So he was just saying, oh, because it's on finance, you won't wanna just do it properly. I was like, oh, it's just really high. It's just it could literally just be like, $30.40 quid to get sorted. Yeah. But I I feel like the insurance needs I've just started clicking through it. Was like, oh.
+
+👤 あなた [663s - 670s]
+It's not we're not lee it's different to lease. We're not leasing. If it was a lease car, then that'd be different.
+
+🎤 SPEAKER_2 [670s - 673s]
+You've got on finance still at the end of time, they're gonna
+
+🎤 SPEAKER_4 [673s - 673s]
+Yeah.
+
+🎤 SPEAKER_2 [674s - 683s]
+Check the car's all perfect. And I think if it is just number even though we could get that money from someone and whatever, the guy may not wanna give anything You might say, look, I'll give you fifty crid or whatever. Great.
+
+🎤 SPEAKER_2 [683s - 686s]
+Yeah. But he may not.
+
+👤 あなた [686s - 686s]
+No.
+
+🎤 SPEAKER_2 [687s - 690s]
+But I our time is quite pressured.
+
+🎤 SPEAKER_4 [690s - 690s]
+Yeah.
+
+👤 あなた [691s - 693s]
+Well, they are. I don't look. I brought a phone call and Yeah.
+
+👤 あなた [698s - 712s]
+I've put the hotel for the Jack's the way. Just to premiere in. Did I did look at other options but there lots not available and there's some pretty rubbish ones. And the mountain rooms was half the price, but I thought I can put the jacks in the mountain rooms.
+
+👤 あなた [714s - 722s]
+And there's a few others. There's a not there was a reasonably nice little one up on Ponte Preeze Road, which was a bit cheaper, but I thought they probably wanna be by the sea, to be honest with you.
+
+🎤 SPEAKER_4 [722s - 724s]
+Yeah. That's true.
+
+🎤 SPEAKER_2 [724s - 726s]
+Actually, they can walk down to the beach and Yeah.
+
+👤 あなた [726s - 732s]
+Exactly. They're right by the good shed. Like a little it's like a little b and b traditional b and b on the island.
+
+🎤 SPEAKER_2 [733s - 738s]
+Kinda feel like Yes. But they know what they're doing in Premier Inn.
+
+👤 あなた [738s - 740s]
+Yeah. Exactly. Exactly.
+
+🎤 SPEAKER_4 [740s - 741s]
+So that'd be good.
+
+🎤 SPEAKER_4 [744s - 744s]
+Yeah.
+
+👤 あなた [747s - 751s]
+Just trying to figure out what I need to think about now in terms of
+
+🎤 SPEAKER_2 [753s - 754s]
+Church.
+
+👤 あなた [756s - 763s]
+Well, not church as such because I got low I got I got a bit worried about this deadline now in the union, I'm thinking, you you whittled off a load of things yesterday.
+
+🎤 SPEAKER_2 [763s - 764s]
+Right. The main thing.
+
+👤 あなた [764s - 765s]
+The birthdays and such things like that.
+
+🎤 SPEAKER_2 [776s - 805s]
+When we are away, Now I I don't know what to do. We'll definitely miss the fifteenth. I don't know what to do on the Sunday when we go to South Africa because we go to the airport because really, we wanna get so we're booked in it for asking people at football. They said, oh, it's three hours before, but I would leave five hours before just in case motor is closed. That gives you two hours extra.
+
+🎤 SPEAKER_4 [805s - 805s]
+Yeah.
+
+🎤 SPEAKER_2 [805s - 814s]
+And you should like No. Hopefully, it's not gonna be worse than that. It could suddenly be horrendous. But Yeah. But then, like, you, you know, you hours extra.
+
+🎤 SPEAKER_2 [817s - 829s]
+So let's say we did that. We allowed, say, three four, about more than about 12. Yeah. That's halfway through church. We don't wanna disappear off because I can't have a rush.
+
+🎤 SPEAKER_2 [829s - 840s]
+When we're leaving our house for a week and we're leaving our children. So part of me is tempted, and I'm gonna kids don't go to church that morning Yeah. Or they do go to church and we get up in the morning.
+
+🎤 SPEAKER_2 [841s - 846s]
+We go over to moms. Mom doesn't need to leave till. Till 10:40.
+
+👤 あなた [846s - 847s]
+Yeah. Yeah.
+
+🎤 SPEAKER_2 [847s - 854s]
+We go over to mom's with boys. Yeah. So put all that back. We don't worry about us to come and go to.
+
+🎤 SPEAKER_2 [856s - 861s]
+We go over We sort everything out. Set everything all up. I mean, we can set up the Xbox, everything like before.
+
+🎤 SPEAKER_6 [861s - 861s]
+Perhaps.
+
+🎤 SPEAKER_2 [863s - 867s]
+We leave all the luggage, sort them out, say goodbye,
+
+🎤 SPEAKER_4 [867s - 868s]
+Yeah.
+
+🎤 SPEAKER_2 [873s - 876s]
+Well And then they go to and then we come back here and go right.
+
+👤 あなた [876s - 887s]
+Why'd you why'd you get teary then? Because you say because you said say goodbye. Selling a that word here in a bed. No. You feel sweet. No. Listen.
+
+👤 あなた [889s - 896s]
+It may be the case that you could do with not going to church that Sunday, and I just go myself. If we can make that like to be less organized.
+
+🎤 SPEAKER_4 [899s - 900s]
+About going?
+
+👤 あなた [901s - 907s]
+Well, the the other way of thinking out of that question is who's gonna be the most organized to get our shuttle ready to go.
+
+🎤 SPEAKER_2 [907s - 922s]
+True. But the now for the other thing, I'm thinking, let's book in a breakfast church. I've honestly think our team will be fine. Get we just need to communicate with it because the main reason only reason for doing breakfast church is no kids.
+
+🎤 SPEAKER_1 [923s - 925s]
+Which massively helps things.
+
+🎤 SPEAKER_2 [926s - 939s]
+Because let's say Sarah or Ryan are not well or something, and then we're really struggling then. And I just feel at the moment, like, team's not with his work. I think I'm gonna probably do it three out of four maybe.
+
+👤 あなた [939s - 939s]
+Right.
+
+🎤 SPEAKER_2 [940s - 944s]
+I'm okay with that. Yeah. I'll probably because I feel like it's so easy
+
+👤 あなた [945s - 946s]
+Yeah.
+
+🎤 SPEAKER_2 [946s - 949s]
+That I can sing or or leave the service before that point.
+
+🎤 SPEAKER_4 [950s - 950s]
+Yeah.
+
+🎤 SPEAKER_2 [950s - 952s]
+Just at the moment, once we get going with it.
+
+🎤 SPEAKER_2 [954s - 958s]
+And so I'm just to make sure that you can we wouldn't do worship those two weeks.
+
+🎤 SPEAKER_4 [959s - 961s]
+Yeah.
+
+🎤 SPEAKER_2 [961s - 968s]
+One of them is a breakfast church. I'm thinking the better way to be breakfast church is
+
+👤 あなた [974s - 975s]
+Maybe this Sunday we're back.
+
+🎤 SPEAKER_2 [976s - 991s]
+Well, the Sunday we get back, we'll land at five. We'll get the car about maybe if we're lucky, at that time, it should be quite quiet. Yeah. Of course, it's six. We'll be back by like, nine or ten. We could we'll be shattered, but we could stick Well, yeah.
+
+👤 あなた [993s - 998s]
+That's what I mean. We probably could it's better for us not to miss too many Sundays.
+
+🎤 SPEAKER_2 [998s - 999s]
+But I can't go and do kids' church.
+
+🎤 SPEAKER_4 [1000s - 1001s]
+Say them?
+
+🎤 SPEAKER_2 [1001s - 1003s]
+I can't go and do kids church. No. No.
+
+👤 あなた [1003s - 1004s]
+So that would be a good time to do
+
+🎤 SPEAKER_2 [1004s - 1005s]
+We could turn up.
+
+👤 あなた [1006s - 1011s]
+No. We could Sunday. No. Well, we could do a a worship Sunday, a breakfast Sunday that Sunday.
+
+🎤 SPEAKER_1 [1019s - 1020s]
+Church, the week
+
+🎤 SPEAKER_2 [1025s - 1029s]
+One of the two. One of the two is breakfast church.
+
+🎤 SPEAKER_4 [1029s - 1030s]
+Right.
+
+🎤 SPEAKER_2 [1030s - 1038s]
+Maybe you second one. Maybe the second one because the first one, you can make sure everything's ready in terms leaving. That we kissed that week through the equipment. Oh, yeah.
+
+👤 あなた [1040s - 1049s]
+Oh, I'm cold. It's got shimmer. I'm very disappointed with this weather. It's it's a lot it's gonna be cloudy for the next ten days at night.
+
+👤 あなた [1050s - 1051s]
+Can't use my blinking telescope.
+
+👤 あなた [1054s - 1057s]
+Oh, But not a temp not a 09:00 at night. Well, yeah.
+
+🎤 SPEAKER_4 [1083s - 1085s]
+It's an African
+
+
+---
+
