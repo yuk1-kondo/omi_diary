@@ -2987,3 +2987,611 @@ Something to snack? Though.
 
 ---
 
+
+
+## 📝 Family Plans Meals, Charging, And Hospital Visit - a56af14d-ed75-4328-9ebb-08115c54a5f8
+
+**記録時間**: 2026-01-19 22:13:29
+
+### STT生テキスト
+
+👤 あなた [0s - 2s]
+That looks so good. Yeah. I know.
+
+🎤 SPEAKER_1 [2s - 11s]
+That babe. Why I love these on toast. Do you see why I have it now? Because that is essentially the apart from it. It's just your own weird contents.
+
+🎤 SPEAKER_1 [12s - 16s]
+Yeah. I did use the last sausage and theory. This side of the
+
+👤 あなた [16s - 16s]
+No.
+
+🎤 SPEAKER_1 [16s - 21s]
+Papa, I've actually difference is the baked beans is full of fiber, so it's really good for and it's also very filling.
+
+👤 あなた [21s - 23s]
+It's full of farts as well, Yeah.
+
+🎤 SPEAKER_1 [23s - 27s]
+If you could transition to baked beans, that would be a really good meal.
+
+👤 あなた [27s - 28s]
+Don't I make beans? No.
+
+🎤 SPEAKER_1 [28s - 45s]
+I know you don't. But that see what you've got there. Did you put butter on the toast first as well? Yeah. Yeah. And do know what? If you're being really knotty and you're feeling really greedy and we've got loads of and we've sliced cheap Put cheese under. Oh. There's sauce and then a little bit on top. Yeah. Yeah.
+
+👤 あなた [45s - 46s]
+So good. That's big.
+
+🎤 SPEAKER_1 [56s - 62s]
+I thought it was probably Joel. Because, honestly, they're quite key. Highland needs worship.
+
+👤 あなた [64s - 68s]
+It seems like if I was Tom, I would have asked Joel to be a trustee as well.
+
+🎤 SPEAKER_1 [68s - 71s]
+Yes.
+
+👤 あなた [71s - 72s]
+But if Joel On the face of it.
+
+🎤 SPEAKER_1 [72s - 88s]
+Joel has let's be fair. Right. So Joel's bought someone along, twenty years ministry experience someone they've come along to Union and are going to apply or have applied or whatever. Mhmm. Like, that is not someone who's team Clive, is it?
+
+🎤 SPEAKER_1 [89s - 91s]
+No. No.
+
+👤 あなた [91s - 94s]
+That's Maybe that's not a bad thing. Who knows?
+
+🎤 SPEAKER_1 [94s - 114s]
+But I don't think there's anything wrong with going succession within the church. I'm the lead elder. When I move on, one of the elder because elders amongst elder lead elder amongst the elder means in theory, the other elders they're that team Well comes in, doesn't it?
+
+🎤 SPEAKER_1 [115s - 128s]
+You can certainly go off and the elder the other elders would lead the church into your back. And so therefore, there's that sense of what they're doing is they're going, this is a this is a lead pastor. With a leadership team.
+
+👤 あなた [130s - 132s]
+Right.
+
+🎤 SPEAKER_1 [132s - 135s]
+So I think. So he's saying it's lead part of the leadership team. We can't just have one of the leaders.
+
+👤 あなた [138s - 147s]
+Thinking about the pure numbers. You have Mika and you have Steven. Then you got Joel and two others on the board on the interview.
+
+🎤 SPEAKER_1 [147s - 151s]
+Claire person who she said Claire
+
+🎤 SPEAKER_1 [155s - 159s]
+Claire, who doesn't seem one foot drum or whatever.
+
+👤 あなた [184s - 188s]
+Surprised that Laura wants to stick around with all this chaos and mess.
+
+🎤 SPEAKER_1 [259s - 265s]
+So look, what Liz is kinda suggesting is because there's just so much misunderstanding around Clive.
+
+🎤 SPEAKER_2 [268s - 269s]
+What's happened at Union?
+
+🎤 SPEAKER_1 [273s - 279s]
+Really, and what's happened Grace because obviously this whole safeguarding thing
+
+👤 あなた [279s - 281s]
+People I'm tell my lower moving on.
+
+🎤 SPEAKER_1 [282s - 285s]
+Tom and Laura moving on. Something's happened and Clive's been involved there.
+
+🎤 SPEAKER_1 [286s - 290s]
+Something happened at Union because Clive lost his job. Do we want him to pastor us?
+
+🎤 SPEAKER_1 [295s - 298s]
+So she she was kind of like, there's obviously been two major things in under a year.
+
+👤 あなた [300s - 301s]
+Poor guy's lost his job.
+
+🎤 SPEAKER_1 [301s - 303s]
+They involved the church or ministry.
+
+👤 あなた [305s - 307s]
+There should be some I mean, Paul I mean, Grace is very much a union church.
+
+🎤 SPEAKER_2 [308s - 311s]
+Well, only in a sense that job
+
+🎤 SPEAKER_1 [311s - 315s]
+Caleb, Chance, Fiona, Liz.
+
+🎤 SPEAKER_2 [316s - 317s]
+Go there.
+
+🎤 SPEAKER_1 [317s - 318s]
+That's it.
+
+👤 あなた [320s - 322s]
+Yeah. That's pretty key person.
+
+🎤 SPEAKER_1 [326s - 337s]
+Well, Joel is goes because doesn't do a lot. Caleb goes, but he does basketball on Sunday mornings once a month. Mhmm. So I wouldn't say they're key people. Fiona's only there because Harry and David got married and I think she's There there there there's no way to Yeah.
+
+👤 あなた [340s - 343s]
+They're waiting for him to graduate. Exactly.
+
+🎤 SPEAKER_1 [343s - 359s]
+So they're not really there, and Liz is a close to Shashden and and Laura. Ross has left. Obviously, Clive's not there anymore. So in that sense, it's not really not like all the fact it's not actual faculty go there. It was Omi Clive.
+
+🎤 SPEAKER_2 [361s - 362s]
+And Jordan?
+
+🎤 SPEAKER_1 [362s - 368s]
+And John. John's not faculty. John's not having to do with the school. John is director. He hasn't got Scooby what goes on with the school.
+
+🎤 SPEAKER_1 [370s - 372s]
+Really. Yeah. From the conversations I have.
+
+👤 あなた [373s - 375s]
+Well, because he's got he's got a different job to them. Yeah.
+
+🎤 SPEAKER_1 [375s - 376s]
+He has.
+
+👤 あなた [377s - 391s]
+Maybe yeah. Maybe maybe Clive's approach should be just to just go through the process If he doesn't get the job, look to move on. Look for other posts. Yes. That's painful family. Not long been in Wales, what have you, but No.
+
+🎤 SPEAKER_1 [392s - 395s]
+I don't. And, of course, that is. They they know that.
+
+👤 あなた [395s - 399s]
+It's not worked out. Maybe a fresh start for them would be a good shout. Yeah.
+
+🎤 SPEAKER_1 [413s - 416s]
+But as it's sort of mess. Oh, you used my email about this?
+
+🎤 SPEAKER_2 [416s - 417s]
+No.
+
+🎤 SPEAKER_1 [417s - 418s]
+Oh, I sent it to the actual email on here.
+
+👤 あなた [419s - 419s]
+Yeah.
+
+🎤 SPEAKER_1 [421s - 437s]
+And then she said, basically, it was going over all the procedures. Have to make sure that mom is that kind of thing very seriously. So she said it must have been a poor Right. Or pinprick hole in the whatever. I was like, yeah. There's not, but five.
+
+🎤 SPEAKER_2 [439s - 440s]
+Whatever. No.
+
+🎤 SPEAKER_1 [443s - 447s]
+I mean, maybe maybe the glue wasn't perfect on one part.
+
+👤 あなた [447s - 449s]
+That's for both of them to have it.
+
+🎤 SPEAKER_2 [449s - 450s]
+Yeah.
+
+🎤 SPEAKER_1 [450s - 453s]
+With that, they're both slightly squashed or something.
+
+🎤 SPEAKER_2 [453s - 454s]
+I was like, well, track of it wasn't damaged at all.
+
+🎤 SPEAKER_1 [454s - 463s]
+Or squashed or anything, but fine. So she's she said, give me a jack up and send you new ones. I said, we'll take a bit convincing my husband to have one again.
+
+🎤 SPEAKER_2 [463s - 465s]
+Yeah. Oh, yeah.
+
+👤 あなた [466s - 469s]
+But Refund with it. You're gonna get refund from Tesco's at least?
+
+🎤 SPEAKER_1 [469s - 471s]
+Well, I won't need a refund if they resend a new
+
+👤 あなた [473s - 478s]
+Babe, I'm not having any auntie's puddings now. Psychological damage is done.
+
+🎤 SPEAKER_2 [478s - 481s]
+I I It's the the for you, but I mean, I'm sure I can probably come around to it.
+
+🎤 SPEAKER_1 [481s - 488s]
+I ended up having colds and calves again even though there was a hair in it. We had hair in our food in coleslaw. Yeah.
+
+👤 あなた [488s - 489s]
+That was pretty grim.
+
+🎤 SPEAKER_1 [489s - 492s]
+And we care going back and we studied their food.
+
+🎤 SPEAKER_2 [492s - 493s]
+So Yeah.
+
+👤 あなた [493s - 496s]
+Well, hearing food's a bit forgiven, really. It could it it could it just happens.
+
+🎤 SPEAKER_1 [497s - 504s]
+By the OmiD team today. Oh. We've bought a lot of fast food food stuff, and then it should be do ever have sandwiches after again.
+
+🎤 SPEAKER_1 [505s - 506s]
+Due to the nature of life itself.
+
+👤 あなた [507s - 517s]
+From the boys will put both of them, Elliot, kicking up a fuss. No, dad. I'm too hungry to have a sandwich. I need something big, need I'm so hungry. All that sort of stuff.
+
+🎤 SPEAKER_2 [519s - 520s]
+And sweet consuming, even if you see that, then you want something a bit more.
+
+👤 あなた [520s - 528s]
+I needed something a bit more soup. Yeah. So that that that did the biz. Got some cheese. Oopsie.
+
+🎤 SPEAKER_1 [530s - 530s]
+Oops.
+
+👤 あなた [532s - 533s]
+Oops. Oops. Oops. Oops.
+
+🎤 SPEAKER_2 [540s - 543s]
+Fish tank? The reef tank. Oh, that's blue freezing great.
+
+👤 あなた [543s - 547s]
+And this actually happened? Yep. February half term. Oh, poor Chris.
+
+🎤 SPEAKER_1 [548s - 550s]
+Well, I think she's quite fed up a bit now as well.
+
+👤 あなた [551s - 554s]
+And you said it for so long? Papa Chris's.
+
+👤 あなた [562s - 567s]
+Once he starts something, becomes a habit. It's very, very difficult for him to stop. Yeah.
+
+🎤 SPEAKER_2 [567s - 568s]
+They they have so many leaks and bloods.
+
+👤 あなた [570s - 578s]
+Is your, you know, mister steady, mister mister kinda reliable to a point?
+
+🎤 SPEAKER_2 [580s - 586s]
+One hour thirty. So it'd be, like, and a half hours. But I'm just thinking I can to cross it. That's the problem.
+
+👤 あなた [601s - 608s]
+Mhmm. A Tether pop com. It sounds like my kind of tea that I do have had back. Twenty years ago.
+
+🎤 SPEAKER_1 [619s - 629s]
+Filling. So that's where I go for that in between, like, okay. You've had a main meal today, so I'm not giving you meat and all of this because that's expensive. But exon are good.
+
+👤 あなた [629s - 637s]
+Well, yeah. I mean, well, let's be honest. You cooked them tea Monday and Fridays generally. And daddy bear does it Tuesday, Wednesday, Thursday.
+
+👤 あなた [638s - 645s]
+And so eggs can be Monday, Friday thing. I just strongly dislike egg. It gets my it makes me feel sick.
+
+🎤 SPEAKER_1 [646s - 661s]
+For you is that the boys on a tube both have a hot dinner usually or Elliot definitely does. And this week, however, Tuesday, we're going to have some I'm sorry you're not coming. The good thing is that it has 10 pound chicken Tuesdays or something.
+
+👤 あなた [661s - 663s]
+Was that tomorrow? Yeah. No.
+
+🎤 SPEAKER_1 [663s - 665s]
+So if I can get you to have a kids meal
+
+👤 あなた [665s - 666s]
+That's good.
+
+👤 あなた [667s - 669s]
+Because I'll say that you get What time is that then? You have to rush back from work, you know?
+
+🎤 SPEAKER_1 [670s - 672s]
+Six in Cardiff Bay. Yeah.
+
+👤 あなた [672s - 676s]
+How are gonna do that? Well, I'll just You never leave before quarter two.
+
+🎤 SPEAKER_1 [676s - 686s]
+Well, I'll make sure I leave on time. It's gonna be Get back for quarter past. I usually get back for quarter past five. Quarter past five, and then get ready to go.
+
+🎤 SPEAKER_2 [686s - 688s]
+Alright.
+
+🎤 SPEAKER_1 [688s - 692s]
+So if the boys can just tomorrow, be get changed after school
+
+🎤 SPEAKER_2 [692s - 693s]
+Yeah.
+
+🎤 SPEAKER_1 [693s - 716s]
+Then we'll be fine. And then Elliot was a bit like almost Phoebe's. I was like, Phoebe will be there. But there's nothing else about, like, day of evening that makes it not set year old girl like. So anyway, we're going out for a meal in a restaurant. You're going to be in your element. Yeah. But she does know And then Wednesday, I guess I'm gonna meet you at the heath.
+
+🎤 SPEAKER_2 [717s - 720s]
+Yeah.
+
+🎤 SPEAKER_1 [720s - 724s]
+Because you will need to get there with masses of time. Because you can go for a wander with you, but need to be.
+
+👤 あなた [724s - 726s]
+I'm not doing the blinking. Might have been last time. No.
+
+🎤 SPEAKER_1 [727s - 730s]
+So I will meet you there. But if I can't park, it's not the end of the world.
+
+👤 あなた [730s - 731s]
+Let me work backwards a minute.
+
+👤 あなた [731s - 733s]
+So appointment's at 03:15.
+
+🎤 SPEAKER_1 [733s - 739s]
+Yeah. You want to be you need to be there for three. Is it you're supposed to be ten to four. So three.
+
+👤 あなた [740s - 744s]
+I'm gonna I'm gonna allow forty five minutes to travel. Maybe more.
+
+🎤 SPEAKER_1 [746s - 747s]
+Well, it's school time.
+
+🎤 SPEAKER_2 [748s - 750s]
+Ish. Alright. So Hold on.
+
+👤 あなた [750s - 752s]
+Forty five minutes. An hour then. An hour.
+
+🎤 SPEAKER_1 [752s - 755s]
+I would say what you're doing is you're allowing for a just a slightly busy Two not allowing to go parking.
+
+👤 あなた [755s - 762s]
+Jews finish. Jews finish at Jude's lunch finishes at 01:30.
+
+🎤 SPEAKER_2 [762s - 763s]
+Yeah.
+
+🎤 SPEAKER_3 [763s - 763s]
+Get him.
+
+👤 あなた [763s - 768s]
+I'll pick him up at the inner lunch. Come on with brush teeth. And then we'll head.
+
+🎤 SPEAKER_1 [768s - 774s]
+You did this before and you end up not leaving till quite late. Remember looking thinking why the blinking egg is he at home? Because Jude had a poo.
+
+🎤 SPEAKER_2 [775s - 778s]
+Yeah. Because he's nervous. Yeah. I know he was nervous. He needs a lot.
+
+👤 あなた [778s - 786s]
+We need to learn. Babe, half one. We'll be leaving by two. That's ample time get for somewhere for Yeah. For three fifteen.
+
+🎤 SPEAKER_1 [786s - 800s]
+Just pick him up at the start of lunch and bring him home and give him some lunch. Lunch. Plenty of time to poo. Babe. Have a bit of a chill. He doesn't but honey, if you your it's this is this is the same time appointment that you had last time. Last time you picked him up, I one, it didn't work.
+
+👤 あなた [801s - 815s]
+Why are you gonna say that? Only because I went to I got stuck. Do you know who got stuck? But why would you do the same again? That is Because that was the reason no. That was the reason that we were nearly late. I do. Know. Because I picked you at half one. Mean, looks tough.
+
+🎤 SPEAKER_2 [816s - 816s]
+Did you went a different way?
+
+🎤 SPEAKER_4 [816s - 817s]
+Yeah.
+
+👤 あなた [817s - 825s]
+But but still We got stuck and we had to You've turn around one by one in this narrow lane, you know the one. I know. I know. I know. So that's not gonna happen again.
+
+🎤 SPEAKER_5 [826s - 826s]
+No.
+
+👤 あなた [827s - 828s]
+That's not gonna happen again.
+
+🎤 SPEAKER_1 [828s - 842s]
+But when I was on Google Maps, you were home and I was thinking, what the heck is he doing? Why is he still at home? So you also and you're like, it's because Jude's done a poo. We're running late. And then not only were you running late, you've never told Fine.
+
+👤 あなた [842s - 847s]
+I'll pick him up at the beginning of the lunch then and he have some lunch here then. Alright.
+
+🎤 SPEAKER_1 [847s - 849s]
+Can you need some sandwich? Just hand a nest.
+
+👤 あなた [850s - 851s]
+And then we can leave at 02:00.
+
+🎤 SPEAKER_1 [854s - 855s]
+Okay. It's easy.
+
+🎤 SPEAKER_3 [856s - 858s]
+We'll get there twenty to three, Rachel. Yeah.
+
+🎤 SPEAKER_1 [859s - 862s]
+But at five do realize when you get there, you can't a little wander around.
+
+👤 あなた [862s - 867s]
+You don't have to Well, not really because the dental hospital is Nowhere near the other thing. Nowhere near the other.
+
+🎤 SPEAKER_3 [867s - 867s]
+That's okay.
+
+🎤 SPEAKER_1 [867s - 871s]
+You can look over to the call course and go and look in the book shop or something with them if you want to.
+
+👤 あなた [872s - 880s]
+He just doesn't enjoy it. He's brave. Bless him. But it's not it's quite a nice they've got a nice feel of vibe going on there.
+
+🎤 SPEAKER_1 [880s - 885s]
+I just don't just think if you're trying to avoid what happened last time, but yet you're gonna pick you up at the same time and he I don't sorry.
+
+👤 あなた [885s - 887s]
+I already just said my chips.
+
+🎤 SPEAKER_1 [887s - 893s]
+I'm As I as I I understand that he struggles with it. I do understand that. I'm just saying.
+
+🎤 SPEAKER_1 [900s - 914s]
+Like, anyway, that's what and then and then reads after that. So you need to make sure the car is charged. Yeah. Because you're gonna have to drive Right. The leap motor. Okay. Because I'll drive the other car to work and then I'll drive to the heat to meet you.
+
+👤 あなた [916s - 924s]
+Well, week, as I tell you, it was an out it was a it's just the the nature of the beast, the one good charger there at Tesco's.
+
+🎤 SPEAKER_1 [924s - 924s]
+Yeah.
+
+👤 あなた [924s - 934s]
+A Tesla got there just before me and he just sat there watching TV. Literally the whole time I was there. Yeah. And I thought, well, okay. But yeah.
+
+🎤 SPEAKER_1 [934s - 944s]
+But, me. So what you're gonna do is go, I can't leave it till the last minute because it can go, and space, and I'm screwed. So what you're gonna do is probably just last minute.
+
+👤 あなた [945s - 946s]
+Yeah? Yeah.
+
+👤 あなた [951s - 957s]
+Suddenly discovering that Could go this afternoon and just sit in read some books from the car park.
+
+👤 あなた [966s - 978s]
+A lot of the books I'm reading from scholars the minute, Rachel, suggesting that one Corinthians 11 verse thirty four thirty five, which is women must remain silent in the church.
+
+👤 あなた [980s - 990s]
+Is actually an interpolation. A I e, a later addition to the letter that wasn't written by port. Lots of people saying, Matt.
+
+🎤 SPEAKER_2 [991s - 992s]
+Why did they say that?
+
+👤 あなた [992s - 1004s]
+Well, it's for lots of reasons. None of the early church fathers when writing about that letter ever mentioned that verse. Some of the manuscripts have at the end of the chapter, some have it there.
+
+👤 あなた [1004s - 1011s]
+And so they put they're they're kind of just trying to figure out because it seems to come out the blue in yeah. It's too I don't seem to fit in.
+
+👤 あなた [1014s - 1022s]
+All the material that I'm reading because that's the whole point of a dissertation, I guess. It's in that there as far as as I'm seeing. It's in elders wise and what what the heck they are.
+
+🎤 SPEAKER_5 [1029s - 1030s]
+Have you looked at
+
+🎤 SPEAKER_1 [1031s - 1033s]
+Sharon McCuffin? You know?
+
+👤 あなた [1033s - 1040s]
+Well, yeah. The problem was they'd marginally, they didn't keep her dissertation. Because it's they only keep ones that had got a distinction in the history.
+
+🎤 SPEAKER_1 [1040s - 1042s]
+She got married, though.
+
+👤 あなた [1044s - 1047s]
+That is you want really ones that have got a distinction a per reading list.
+
+🎤 SPEAKER_1 [1047s - 1061s]
+So it's about a confident belief Mhmm. Male or so. Yeah. I'm so asking that she went up but seeing that mail and female.
+
+👤 あなた [1061s - 1063s]
+I might contact her, but I have no way of contacting her.
+
+🎤 SPEAKER_1 [1063s - 1071s]
+Her number on WhatsApp. She wouldn't mind. At all. She said if anyone wants it sent to them, as long as they and know that you know?
+
+👤 あなた [1074s - 1076s]
+She knows me anyway, Sharon. Yeah. Exactly.
+
+🎤 SPEAKER_1 [1076s - 1083s]
+And you also she also I've got her. I could I I can I can message her on WhatsApp?
+
+👤 あなた [1084s - 1085s]
+Excuse me, please, babe.
+
+🎤 SPEAKER_1 [1112s - 1121s]
+But, clearly, a play But it's it's more so you have a normal than ever doing it.
+
+👤 あなた [1122s - 1132s]
+Not just a not just a From my gather, you're telling me that the church don't allow women to preach, which is fairly standard complementary position, it turns out.
+
+👤 あなた [1150s - 1151s]
+Yeah. She did a good job.
+
+🎤 SPEAKER_2 [1155s - 1157s]
+Job?
+
+🎤 SPEAKER_1 [1165s - 1168s]
+That equally this is not actually not that job.
+
+👤 あなた [1177s - 1180s]
+Can we go to the cinema again and watch your film again?
+
+👤 あなた [1180s - 1192s]
+Oh, So, yeah. Yeah. We'll keep an eye out and see see what's in. But you obviously I think oh, not only did you enjoy the film, just being out in evening in the dark part if Oh, yeah. Which is quite exciting for him.
+
+🎤 SPEAKER_5 [1192s - 1192s]
+Oh, yeah.
+
+🎤 SPEAKER_2 [1194s - 1196s]
+You saw that in 10 b. Yeah.
+
+👤 あなた [1197s - 1202s]
+Very cool. Remember, though, do we, in some way? All remember when we first I'm calling the friends say she needs to do a lot socially.
+
+👤 あなた [1204s - 1204s]
+No.
+
+🎤 SPEAKER_1 [1204s - 1208s]
+Like, all the football boys, they wanna go to Cardiff.
+
+👤 あなた [1208s - 1211s]
+Yeah. But we're kinda pleased about that. Yeah. No. I know.
+
+🎤 SPEAKER_1 [1211s - 1215s]
+I'm not really playing, is it? He doesn't miss out a little bit socially.
+
+👤 あなた [1216s - 1223s]
+Well, and you say that, but you place regular people online. You he's getting he's spending so much time with Toby now as well. I mean,
+
+👤 あなた [1226s - 1232s]
+That'll come. That'll come in time. It's if not before, but at uni, definitely by uni.
+
+👤 あなた [1242s - 1246s]
+Well, maybe. Or anything like I don't know. Not sure.
+
+👤 あなた [1250s - 1253s]
+You're able to see that firehead. Well, you might be able to.
+
+🎤 SPEAKER_2 [1264s - 1266s]
+And two else he has given.
+
+🎤 SPEAKER_3 [1271s - 1278s]
+With more charge. Nobody uses the seven kilowatt charger. It's like literally pointless. Why would you use Yeah. Why why is it even there?
+
+🎤 SPEAKER_3 [1279s - 1280s]
+It was in It's probably you'd be parked for six hours whilst you're work.
+
+🎤 SPEAKER_5 [1282s - 1282s]
+Work fine.
+
+🎤 SPEAKER_2 [1283s - 1283s]
+Yeah.
+
+👤 あなた [1283s - 1284s]
+Yeah. That makes sense.
+
+🎤 SPEAKER_3 [1288s - 1292s]
+But for everyone else, it's like a I think about seven to ten hours to charge our battery. And we've got a small battery Yeah. Compared to other cars.
+
+🎤 SPEAKER_3 [1293s - 1294s]
+Yeah. And it's the charger you have at home, basically.
+
+🎤 SPEAKER_2 [1295s - 1296s]
+Maybe it's just they do.
+
+👤 あなた [1296s - 1298s]
+Maybe it was like early days of tech or what have you.
+
+🎤 SPEAKER_3 [1300s - 1312s]
+What if you're touch if you're you're charging at Tesco's, want the quickest option you can get. Usually. I imagine.
+
+👤 あなた [1316s - 1321s]
+Or the second or the second facets because which is cheaper, but you don't get a full thing. Right.
+
+👤 あなた [1331s - 1333s]
+Voice at the prophet.
+
+
+---
+
