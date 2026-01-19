@@ -2865,3 +2865,125 @@ Voting prophecy is an activity mentioned.
 
 ---
 
+
+
+## 📝 Family Chat About Appointments And Church Trustees - df269ed4-0ea4-4877-840e-0ec842e29b6c
+
+**記録時間**: 2026-01-19 22:01:25
+
+### STT生テキスト
+
+👤 あなた [0s - 11s]
+Next week, Yep. We have to you've got What? Good size of it.
+
+🎤 SPEAKER_1 [11s - 12s]
+I think you've got a hematology
+
+👤 あなた [20s - 21s]
+Alright.
+
+🎤 SPEAKER_1 [21s - 27s]
+So I don't want telling anyone. If I take so if I take you to school, the eighth,
+
+👤 あなた [27s - 28s]
+Yeah.
+
+🎤 SPEAKER_1 [28s - 34s]
+And then just get in a eight 45 even need tell anyone. No. I I don't really need to tell you.
+
+👤 あなた [34s - 36s]
+No.
+
+🎤 SPEAKER_1 [36s - 43s]
+He often doesn't get into my a 40 these days, but Yeah. But it's just a bit easier then.
+
+👤 あなた [43s - 45s]
+That'd be good. Thank you, babe.
+
+👤 あなた [48s - 55s]
+I've been there come around, and in the end, they decide actually because I'm literally a copsic seemingly a borderline case.
+
+👤 あなた [64s - 71s]
+They come make sense of it because they I don't make a test and my levels were okay. So it's gonna like, well, what's the deal? What's the DBO here?
+
+👤 あなた [107s - 115s]
+Maybe she hasn't looked at the news today. Was it today or yesterday? Yesterday. Or maybe she hasn't looked at it. Not everyone looks at the news, you know. That's the thing.
+
+👤 あなた [119s - 120s]
+Not everyone looks at the ready news.
+
+👤 あなた [127s - 130s]
+Might have been yesterday, though.
+
+🎤 SPEAKER_1 [130s - 131s]
+Yeah.
+
+👤 あなた [133s - 136s]
+Was last night, I'd probably actually thinking about it, wouldn't it? Yeah.
+
+👤 あなた [143s - 145s]
+I mean, did something like that happen? Good grief.
+
+🎤 SPEAKER_1 [145s - 147s]
+Well, that's what they're saying, but I they're quite confused.
+
+🎤 SPEAKER_1 [153s - 161s]
+This thing's extremely strange. Their thirty two twenty two inspected four days ago.
+
+👤 あなた [162s - 173s]
+Now either human error. Of breakdown on the computer because I'm not learning about trains when is that the train driver doesn't train, so it changes the truck.
+
+🎤 SPEAKER_1 [174s - 175s]
+Joel is on the chassis.
+
+👤 あなた [176s - 182s]
+Joel's on the chassis. Is Joel He's not no. He's not just Joel. He's he's he's No.
+
+👤 あなた [188s - 189s]
+But every time there's any conversation, that way, I've always picked But you're also very supportive in advance.
+
+🎤 SPEAKER_1 [190s - 193s]
+You're not supportive of advance, of Clive.
+
+👤 あなた [194s - 195s]
+Oh, I see.
+
+🎤 SPEAKER_1 [195s - 204s]
+Joel's on the trustee. Apparently, the trustee is are overexerting their position and want things done properly. Joel then turns out with someone from America.
+
+🎤 SPEAKER_1 [205s - 214s]
+Clive's telling us the trustees are causing a problem. Clive gives me the has given me the impression multiple times that I was not quite sure if there was any relationship there.
+
+🎤 SPEAKER_1 [215s - 217s]
+No.
+
+👤 あなた [226s - 227s]
+And thus, I'm impressed them.
+
+👤 あなた [234s - 237s]
+You not seen too much by asking who's the trustees, because Liz is very close to Laura and Todd.
+
+🎤 SPEAKER_1 [237s - 254s]
+She actually knows quite a bit. She said sorry. I'm looking Claire. Who's a social worker, not one to be dramatic. So I said who are the trustees in the church of the week cat?
+
+🎤 SPEAKER_1 [255s - 264s]
+Job. One word message. She's asked to be part of her team at the moment, Joel. Her life manager. Right. So I wonder if You didn't seem that problematic.
+
+👤 あなた [265s - 271s]
+Joel seems like a really nice guy. Well, loved by everybody. Maybe I don't know if that's the case.
+
+🎤 SPEAKER_1 [273s - 286s]
+The scenario you have going on? I'm not sure there's been anything of clarity Omi, what happened between Collivan Union. I know two things that have occurred with Clyde in the mix, and there's two very different versions that struggles me.
+
+👤 あなた [288s - 289s]
+Right. Okay. Well,
+
+👤 あなた [338s - 340s]
+Swinging this dinner then, maybe you can do it.
+
+👤 あなた [361s - 363s]
+Something to snack? Though.
+
+
+---
+
