@@ -2284,3 +2284,329 @@ He picked a
 
 ---
 
+
+
+## 📝 Discussion About Union Theology Program Challenges - ab6b2654-a402-476a-ad8a-b0454d3a1e54
+
+**記録時間**: 2026-01-19 19:27:31
+
+### STT生テキスト
+
+🎤 SPEAKER_7 [0s - 4s]
+to our God be grace heal alone,
+
+🎤 SPEAKER_5 [100s - 101s]
+Blimey.
+
+👤 あなた [102s - 109s]
+I'm not sure that makes it any better. Well, is is there problem is it's not in Barry.
+
+🎤 SPEAKER_5 [112s - 113s]
+So what?
+
+👤 あなた [119s - 120s]
+So I mean, it's
+
+👤 あなた [130s - 136s]
+Bit risky. My poor dad asked him about his book. And he had his feeling and isolated it.
+
+🎤 SPEAKER_4 [138s - 140s]
+Oh, sorry. Yeah. I'm not sorry.
+
+🎤 SPEAKER_2 [151s - 153s]
+So it's right.
+
+🎤 SPEAKER_4 [153s - 154s]
+Here we go. Yeah.
+
+👤 あなた [161s - 162s]
+Alright. Alright. Because I do need a poo.
+
+🎤 SPEAKER_4 [162s - 163s]
+So Oh, okay.
+
+🎤 SPEAKER_2 [163s - 172s]
+Okay. So So so, like, just just imagine in your years of ministry, someone's they've registered for the MTH module oh, for MTH.
+
+🎤 SPEAKER_2 [172s - 185s]
+Not gonna do MTH. So we gave them the opportunity. So please ask outline your current and previous involvement in your church. This first question that Since my time at London Theological Seminary, I've worked in I've worked at the churches in a evangelist.
+
+🎤 SPEAKER_2 [186s - 198s]
+Pastoral worker, preacher, videographer, webmaster treasurer. Spent three days this week at Tindall House, Cambridge. Then I'm returning home yesterday morning. Was knocking on on doors in Covent Garden encouraging a man I once met before to come to church and share the work of bed.
+
+🎤 SPEAKER_2 [198s - 211s]
+Bearing one another's burdens. Right. How involved is your church in supporting this application? How do you have the opportunity so far this week to discuss it with the pastor, he's previously said he'd be happy for me to spend two days a week doing something else. So I'm confident he'll support this application.
+
+🎤 SPEAKER_4 [212s - 212s]
+Blah blah blah blah.
+
+🎤 SPEAKER_2 [217s - 218s]
+My client my
+
+🎤 SPEAKER_5 [218s - 219s]
+Clive.
+
+👤 あなた [222s - 223s]
+No. It's a phone call.
+
+🎤 SPEAKER_4 [224s - 224s]
+Sorry. What's it?
+
+👤 あなた [230s - 233s]
+Not sure that 1comhq. I'm not answering that.
+
+🎤 SPEAKER_2 [233s - 257s]
+Why do you have children reply? My friend Clive sold it to me when he said he teach me union with Christ. I was suggesting you in Belfast, Harvard three friends, John Edmund, Dignby James, and Philadelphia. I'd be privileged to follow a in their first steps. Blah blah blah. Okay. Submits Do in Greek, barely any marks. Submitted an essay for something else, 100% AI.
+
+🎤 SPEAKER_2 [258s - 263s]
+Turns out it's a big stress to put the question in, got AI, and submitted it. Right.
+
+🎤 SPEAKER_6 [263s - 263s]
+Lots of meetings.
+
+🎤 SPEAKER_2 [264s - 266s]
+Little bit coming back on it.
+
+🎤 SPEAKER_2 [267s - 270s]
+A bit a bit whatever, giving his resubmission dates. Good.
+
+🎤 SPEAKER_6 [275s - 276s]
+Sorry, Phil.
+
+🎤 SPEAKER_2 [276s - 287s]
+I've resigned for the course. I'm not bright enough to do a writing course or essays or Greek for that matter. Oh, oh, in this application hold on. Hold on. Hold on. In this application, he said sorry.
+
+🎤 SPEAKER_7 [287s - 288s]
+I know you're not that interested, but No.
+
+🎤 SPEAKER_6 [288s - 291s]
+No. He said hold on. It's just it just reminds you, like, about people.
+
+🎤 SPEAKER_2 [292s - 302s]
+I'm 61, so if I'm accepted on a three year MGA, I'll then hope to complete a full time PhD potentially at Cambridge in conjunction with Tinder Dale House.
+
+🎤 SPEAKER_7 [302s - 303s]
+Oh, blimey.
+
+🎤 SPEAKER_4 [304s - 305s]
+So so it's solids. Yeah.
+
+🎤 SPEAKER_2 [306s - 320s]
+Eating sex with the MTH. He because he had a BA job from forty years ago. Alright. So he's through the g the g dip. His e email so I've designed for the course. I'm not broken up to do a writing course or essays in Greek that matter. Please pray I'll find something to do.
+
+🎤 SPEAKER_2 [321s - 326s]
+I may, for example, become a pastor for church that doesn't have one. Thanks for all you do, Keith.
+
+🎤 SPEAKER_4 [326s - 327s]
+Oh, poor
+
+🎤 SPEAKER_5 [327s - 327s]
+Keith.
+
+👤 あなた [328s - 330s]
+Poor Keith.
+
+🎤 SPEAKER_6 [331s - 332s]
+The alarm bells that.
+
+👤 あなた [332s - 333s]
+River Thieve Bridge.
+
+🎤 SPEAKER_5 [333s - 335s]
+Yeah. Yeah.
+
+🎤 SPEAKER_2 [335s - 362s]
+I said to Phil. I they were reading it as in because he was like, we've been missold something. They they don't like Clive at all. He he they dropped Clive. No. They don't like Clive. So what just said, if if someone suggested I studied knowing that they aren't going to know the ins and outs of my academic scores and ability, I would know better than to listen to them. Perhaps he's one of those that has networking confidence and is overly a should, in reality, actually a little delusional. We've come across many of those in our years of ministry.
+
+🎤 SPEAKER_2 [362s - 369s]
+They come along to church portraying something and have to see one side of it, very much turns out they aren't all that no. They aren't all that.
+
+🎤 SPEAKER_2 [369s - 388s]
+They just need to be it just needs to be settled in a church where they truly follow a good pastor rather than hopping around around trying to convince others of their potential. And maybe get but from this application, just that I'm just looking through now, I'm totally getting those vibes. There's a lot of name dropping of Clive in his application, which apps rings alarm bells that he is one of those types.
+
+👤 あなた [388s - 389s]
+It does.
+
+🎤 SPEAKER_9 [390s - 391s]
+Does it does?
+
+🎤 SPEAKER_2 [391s - 398s]
+This is not a perfectly normal capable person. That Clark convinced to the force that he's not very poor. That is not what's going on here.
+
+👤 あなた [398s - 411s]
+No. That's not Or maybe maybe Clive come across a one time. He said, oh, yes. I've I've done such and such and and such. I'm I'm considering a PhD at Cambridge, oh, come and do a come and do a MTH with us. Yeah. You know? And that could have been the end of it. It's close.
+
+🎤 SPEAKER_2 [413s - 419s]
+Don't like Clive at all. Yeah. But, like, I like oh my goodness. We seen these kinds of people.
+
+🎤 SPEAKER_4 [419s - 421s]
+Maybe we maybe maybe between me and you, Clive is just a difficult guy.
+
+👤 あなた [421s - 424s]
+I don't know. Could be.
+
+🎤 SPEAKER_2 [425s - 434s]
+He's quite I don't know whether he just opens up to us, but we see a sign of him that he wouldn't share to most people because Yeah. He just feels like I'm so frustrated.
+
+🎤 SPEAKER_2 [434s - 436s]
+With some Rachel I can talk to.
+
+👤 あなた [439s - 446s]
+Or whether he is a bit He's definitely ADHD, to be honest, so with you, because he he talks a lot and then you try and reply and then he interrupts and starts talking straight away.
+
+👤 あなた [447s - 449s]
+I've noticed that a lot. Yeah. No. No. More than you.
+
+🎤 SPEAKER_2 [451s - 456s]
+I think it infuriates Ian because Ian is not like that at all. All. Ian is a details, a calm
+
+🎤 SPEAKER_9 [456s - 456s]
+Yeah.
+
+🎤 SPEAKER_2 [457s - 458s]
+A think things through before you go.
+
+👤 あなた [458s - 464s]
+He's a bit howard esky. He's got a short attention span.
+
+🎤 SPEAKER_7 [465s - 465s]
+Anyway, I need to go to the toilet, but He's probably a planter, isn't he?
+
+🎤 SPEAKER_2 [465s - 467s]
+Well, I don't know.
+
+🎤 SPEAKER_7 [467s - 472s]
+Know. I don't know.
+
+👤 あなた [472s - 477s]
+I might but he may be just getting a raw deal that you and People might not have liked him because he had to make a decision to close the the popular BA program.
+
+👤 あなた [477s - 484s]
+It was popular with the staff because it's a proper degree, but it wasn't really with what you union was head where it was heading and The problem was he took on his role as faculty and pastor.
+
+🎤 SPEAKER_2 [490s - 493s]
+But actually, that wasn't everything that promise was.
+
+👤 あなた [498s - 505s]
+That that with Destiny, he was he wasn't very nice. You would have you wouldn't have would not have enjoyed working for Destiny, Ridge.
+
+👤 あなた [514s - 533s]
+Very standoffish, very cold, very magger. It was kinda bit of a disaster really. But he wrote a lovely book on the church and that's probably that's the bad end of this end of the church, You get snobby, you get cold, You get judgmental Christians.
+
+👤 あなた [535s - 538s]
+Right. I've lost you. That's fine. No. That's fine.
+
+🎤 SPEAKER_2 [538s - 539s]
+I know.
+
+🎤 SPEAKER_9 [544s - 544s]
+I I Yeah.
+
+👤 あなた [544s - 551s]
+It's fine. We've got so there is is a there is a danger of slow snobbery judgmentalism on on that end.
+
+🎤 SPEAKER_2 [551s - 556s]
+Where union is really consequent. Life is a funny one. He's not like that thing.
+
+🎤 SPEAKER_4 [556s - 557s]
+No.
+
+🎤 SPEAKER_2 [560s - 565s]
+Albeit he doesn't really chat to you much. He's so desperate that theologians love Jesus.
+
+👤 あなた [565s - 566s]
+Yeah.
+
+🎤 SPEAKER_9 [566s - 567s]
+So desperate.
+
+👤 あなた [567s - 569s]
+He's probably a little bit awkward.
+
+🎤 SPEAKER_2 [569s - 588s]
+He's clearly completely one of these people. There's you know, have the big time people, don't you? And all of them have not got the capacity to be social. And we've got those so the social skills ability. We see that, like, what whatever big preacher preach all day and then they just have to disappear. I mean, Jesus is probably like that.
+
+🎤 SPEAKER_5 [590s - 592s]
+But but like Andrew Hazlema. Who?
+
+👤 あなた [592s - 594s]
+Andrew Hazlema. Yeah.
+
+🎤 SPEAKER_2 [596s - 615s]
+As so I think with Mike, but it's clear his his goal and everything he's saying, and it is that that's not warm hearted and Rob is that's what he brings in. Guess, Don, they see so many we're not in that world but they see so many theologians that get caught up in Yeah. And they're not and you they're not really even Yeah. They're they're not there.
+
+🎤 SPEAKER_2 [616s - 630s]
+They're not they're Christians, but and that that takes over the academic world. And so we're not really part of that, but that's where the heart of union comes in, ultimately. The problem is is you've got Joel, who's a director director. He's not an academic when it comes to theology.
+
+🎤 SPEAKER_2 [630s - 637s]
+Yeah. I think it's a little bit of a Yeah. There's a bit of a hazard because him and Caleb are all about mission.
+
+🎤 SPEAKER_9 [638s - 640s]
+They're missionaries.
+
+🎤 SPEAKER_5 [640s - 640s]
+Yeah.
+
+👤 あなた [641s - 648s]
+That's right. It's it's it's lots of parts to Union that that makes it that can offer a bit of butting if it's not managed to The problem is the ones that go out and sell the school Yeah.
+
+🎤 SPEAKER_2 [649s - 655s]
+And sell the theology. Yeah. And they don't have a clue about what they're saying.
+
+👤 あなた [656s - 663s]
+The school is just one small part now. They've got to realize union was once a school of theology.
+
+🎤 SPEAKER_2 [663s - 674s]
+Yeah, but they go out to these places and say, have a learning community and study theology. All these guys want is union grow level theology. Right. They get sold to doing a degree, which is battified through the open university, they have to tick every single Well, MA anymore.
+
+🎤 SPEAKER_6 [676s - 677s]
+No.
+
+👤 あなた [677s - 678s]
+That's a bit easier for people.
+
+🎤 SPEAKER_5 [678s - 679s]
+Wow.
+
+🎤 SPEAKER_9 [679s - 679s]
+So But still they have deadlines.
+
+🎤 SPEAKER_2 [679s - 689s]
+They have to submit here. They have to log on to our system. So of these guys is like, look. None of you have a computer. No. And you don't have the Internet.
+
+🎤 SPEAKER_2 [689s - 695s]
+Because you're in a in a wooden in a a mud hot. Yeah. It Maybe this is not the best thing for you.
+
+🎤 SPEAKER_4 [695s - 696s]
+Well, do you know what?
+
+👤 あなた [697s - 708s]
+Like, having a massive filter where you walk you encourage as many as people to apply as possible. And then your job then, your team's job is to whittle that down to actually people who can do And that's probably fine.
+
+🎤 SPEAKER_9 [708s - 709s]
+Missus day, they come and seal.
+
+🎤 SPEAKER_2 [710s - 719s]
+It's more about the learning community mentor They get sold this thing. And, also, it's a little bit like they're trying to put their flags union flags in all these different countries, especially the exotic ones.
+
+🎤 SPEAKER_4 [719s - 720s]
+No.
+
+🎤 SPEAKER_2 [720s - 722s]
+But actually sometimes it's like, is that
+
+🎤 SPEAKER_9 [725s - 725s]
+Yeah.
+
+🎤 SPEAKER_4 [726s - 727s]
+I need to go through to it.
+
+🎤 SPEAKER_9 [727s - 728s]
+Successful stuff.
+
+👤 あなた [731s - 738s]
+It's it's it's growing very quick Union, from being a school to what it is now. And so there you know, there's lots to look isn't it?
+
+
+---
+
