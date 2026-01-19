@@ -2764,3 +2764,38 @@ It's it's it's growing very quick Union, from being a school to what it is now. 
 
 ---
 
+
+
+## 📝 桜島散策と叫びの肖像を楽しむ会話 - 7892ec1a-187a-4a2e-9b64-71f35ddf7d34
+
+**記録時間**: 2026-01-19 20:50:16
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 0s]
+
+
+🎤 SPEAKER_4 [0s - 2s]
+
+
+🎤 SPEAKER_3 [2s - 3s]
+
+
+🎤 SPEAKER_4 [3s - 4s]
+
+
+🎤 SPEAKER_4 [6s - 10s]
+国立工芸。桜島も今回で三回目なんですけど、ここに 来るのは 。今までね車で通り過ぎちゃってね一回あってなっちゃってたんですよ
+
+🎤 SPEAKER_4 [126s - 128s]
+分二十分散歩しましょう。
+
+🎤 SPEAKER_4 [144s - 148s]
+光景です。こうやって離島っいうか島
+
+🎤 SPEAKER_4 [256s - 261s]
+。そして叫びの 肖像が見えてきました。 凄い思ったよりでかい。
+
+
+---
+
