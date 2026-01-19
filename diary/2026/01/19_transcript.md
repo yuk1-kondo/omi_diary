@@ -2258,3 +2258,29 @@ Title, city alight. The god we love, Nicene Creed, feet. Matt Redman, Channel, C
 
 ---
 
+
+
+## 📝 Rachel Puts Tyler in Time Out - 055b4f67-4a8f-4217-a736-4cdb7f7a4dc4
+
+**記録時間**: 2026-01-19 19:21:48
+
+### STT生テキスト
+
+🎤 SPEAKER_6 [0s - 4s]
+Tyler, you are in time out Why is the dog standing there?
+
+🎤 SPEAKER_5 [4s - 5s]
+Hey, Angel.
+
+🎤 SPEAKER_6 [5s - 7s]
+What's What did he do?
+
+🎤 SPEAKER_5 [7s - 8s]
+He kept me drawing a wall.
+
+🎤 SPEAKER_5 [11s - 12s]
+He picked a
+
+
+---
+
