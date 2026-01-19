@@ -4289,3 +4289,20 @@ It is draining and tiring dreaming
 
 ---
 
+
+
+## 📝 年齢と居住地を尋ねる短い会話 - 2f3b99cd-644b-48e4-8c94-09d047ce0d67
+
+**記録時間**: 2026-01-19 23:42:38
+
+### STT生テキスト
+
+🎤 SPEAKER_99 [0s - 1s]
+How old are you?
+
+🎤 SPEAKER_99 [4s - 5s]
+Hallowoldareyou Where do you live?
+
+
+---
+
