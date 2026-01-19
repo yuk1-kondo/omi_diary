@@ -1,0 +1,80 @@
+{
+  "id": "8f7c8851-2c8c-4111-a45f-43c8cd0e126b",
+  "created_at": "2026-01-19T14:47:43.393675+00:00",
+  "started_at": "2026-01-19T14:48:09.219366+00:00",
+  "finished_at": "2026-01-19T14:48:48.407478+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "個人プロフィールに関する質問一覧",
+    "overview": "話者が相手に対し、年齢、居住地、職業、長期的な目標、今月の目標、そして今日の予定について尋ねている、自己紹介・目標確認用の質問リスト。",
+    "emoji": "❓",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "a495b4a1-26ae-46c6-b484-b380a317d204",
+      "text": "How old are you? Where do you live? What do you do for work? What is your long-term goal? What are your goals this month? What do you have planned for today?",
+      "speaker": "SPEAKER_99",
+      "speaker_id": 99,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.384185791015625e-07,
+      "end": 15.300000953674317,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a85ba28d-fe9b-4284-883b-0f96a3a19ee8",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "8f7c8851-2c8c-4111-a45f-43c8cd0e126b",
+      "chunk_timestamps": [
+        1768834058.608,
+        1768834063.878,
+        1768834068.982,
+        1768834074.108,
+        1768834079.153,
+        1768834084.298,
+        1768834089.193,
+        1768834094.171,
+        1768834099.141,
+        1768834104.291,
+        1768834109.343,
+        1768834117.009
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-19T14:47:38.608000+00:00",
+      "duration": 63.401
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## プロフィール\n- 年齢を質問\n- 居住地を質問\n- 仕事の内容を質問\n\n## 目標と計画\n- 長期的な目標を質問\n- 今月の目標を質問\n- 今日の予定を質問\n\n## 今後のステップ\n- 各質問への具体的な回答を用意する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
