@@ -3595,3 +3595,233 @@ Voice at the prophet.
 
 ---
 
+
+
+## 📝 Critique Of Charismatic Prophets And Fake Miracles - b5a161bd-bf3b-4637-b9e8-8dbd16fe7091
+
+**記録時間**: 2026-01-19 22:42:31
+
+### STT生テキスト
+
+🎤 SPEAKER_5 [0s - 0s]
+Sid Roth.
+
+🎤 SPEAKER_6 [2s - 9s]
+The crouches. I think that they know about all kinds of guys who are fake. All kinds. If in fact, it isn't true for them as well.
+
+🎤 SPEAKER_6 [10s - 35s]
+And I think that their congregations would make the same face this young lady is making here and go, you knew You knew? You knew? And if if everything came out, it would be devastating, which is why cover of culture is so strong because anybody who becomes an example made an you know, distance yourself from them. But when you make an example of when you call them out publicly, you you make yourself vulnerable and everybody else in the movement vulnerable as far as not everybody, but all the leaders.
+
+🎤 SPEAKER_6 [36s - 43s]
+Who have been faking for years because some of their heroes are fakers. Paul King was a fake Bob Jones was a faker. Mike Pickle was a faker. William Brandon was a faker.
+
+🎤 SPEAKER_6 [44s - 53s]
+And you go through and you realize, oh my gosh. Like, were any of these real? There's a book called God's Generals that Bill Johnson has has supported and recommended to people.
+
+🎤 SPEAKER_6 [53s - 61s]
+It's it's full. I'm never I'm gonna say every name on the list, but there's a bunch of names on the list of gods and generals who were just frauds, fakers, bad guys.
+
+🎤 SPEAKER_6 [63s - 75s]
+It's systematic in the movement right now. Now every charismatic is like this. I wanna make this very clear. There are a lot of good, godly, wonderful charismatics who operate in the gifts of the spirit and who wonderful things.
+
+🎤 SPEAKER_6 [76s - 86s]
+I'm trying to expose the bad here, for the sake of the good. That's what we're trying to do. This is not as though whoever watching this, you should just leave your charismatic No. No. I'm not I'm not suggesting that.
+
+🎤 SPEAKER_6 [88s - 103s]
+But need to pull the covers off and assess and say what is going on here. Let's have purity. Let's have integrity. So that girl seems she lost her faith. Now I'm gonna give you an example of one of the one of the best examples of Sean making it up. Like, it's it's best example because it's, like, clear seems pretty clear that he made this up.
+
+🎤 SPEAKER_6 [104s - 107s]
+You'll understand. Walk you through it.
+
+🎤 SPEAKER_7 [114s - 122s]
+Is there I saw a friend of mine. Her name is Kelly. And I saw her standing on a Does that mean something like that's maybe a last name? Kelly is that you? Kelly Rhodes?
+
+🎤 SPEAKER_8 [123s - 128s]
+God, You'd be here. I didn't. My god did. That's awesome. Hi, Kelly Rhodes.
+
+🎤 SPEAKER_7 [128s - 142s]
+I feel like, Kelly, you're like one of those people, those hidden figures. There's something so special about you, but you've been hidden in it. You're about to be revealed. Like, I feel like your dude's about to be paid for. How you supported and helped so many people and how you've been a good daughter to Doris?
+
+🎤 SPEAKER_6 [143s - 150s]
+So he's he's really gonna focus on the mom. He knows more information about the mom than he does about Kelly. So he knows her name. He knows her birthday.
+
+🎤 SPEAKER_6 [152s - 176s]
+This I feel bad for the lady here. I consider her my sister in Christ, being manipulated by this guy. It's infuriating. I I admit I as I see this, as I watch it, I'm I'm I'm angry at Sean Bowles' personally. Very angry at him. I'm trying to not sit in my anger I think the anger is appropriate. But I'm angry also goes around him again.
+
+🎤 SPEAKER_6 [176s - 189s]
+This is at the more, love, more power event two thousand seventeen. Sean had already been been exposed, at least the chance to expose him was there because Jason Smedley had tried to blow the whistle, and instead he was attacked by Paul Kane, the big crop in pervert.
+
+🎤 SPEAKER_6 [191s - 198s]
+Who was predatory towards young people, young men, to whom Mike Bigel delivered to him. It's the craziest stuff in the world, these these things.
+
+🎤 SPEAKER_6 [198s - 204s]
+And he was he still had a place to even attack. Like, in the movement, he still had some kind of influence to even able to attack somebody. Is crazy.
+
+🎤 SPEAKER_6 [204s - 214s]
+I blame the leaders, the current leaders in the charismatic church. The last few generations, the ones in particular that I'm naming, not all of them.
+
+🎤 SPEAKER_6 [214s - 220s]
+Absolutely not all of them. But I'll tell you what, if there's good leaders there, show yourselves to be good by calling out the ones that you know.
+
+🎤 SPEAKER_6 [220s - 230s]
+You need to. Now listen in. To the most rude of you in the moment, probably of all of the shambles videos that I can show you has to do with Doris Rose.
+
+🎤 SPEAKER_7 [232s - 249s]
+And and how how she's, like, your best friend, and and and I feel like God just saying that everything that she prayed for is prayed for is is gonna still come the family. And I feel like the Lord's saying, you're gonna start to see the manifestation of what you prayed for.
+
+🎤 SPEAKER_7 [249s - 269s]
+Gonna start to see the reality. I run John January 27, That's her birthday. Is there is there I saw Psalm one zero five over your family and listen. Read that later on. But did she or you ever on a one zero five, like, slaughterhouse or one zero five something? Or does that make sense?
+
+🎤 SPEAKER_7 [270s - 272s]
+For some reason, I saw the word slaughterhouse, but it wasn't bad.
+
+🎤 SPEAKER_7 [275s - 278s]
+I know it's a weird it's a weird I took the rest because I He just tried to call out her address.
+
+🎤 SPEAKER_6 [279s - 284s]
+He got it wrong. Now he's trying to recover.
+
+🎤 SPEAKER_7 [285s - 295s]
+Everything else felt like it was you know, connected to God. But I just just you know, maybe maybe research that a little bit if it's if if I miss that part, not a big deal.
+
+🎤 SPEAKER_6 [296s - 322s]
+And and I just wanna remind you guys, it was Sean Bowles' idea for us to research that a little bit. And research it. We did. Actually, it was Matthew Hardke who researched this, and, I don't know if anybody before him did or not. He's the first I know of who researched this and posted it online. And he showed that there is actually a Doris Rhodes who lives on a one zero five slaughterhouse who lives in the same area as the other Doris Rose. They're in the same areas as this this event and everything.
+
+🎤 SPEAKER_6 [322s - 334s]
+Or or or where her Facebook says she lives. Excuse me. It's just a different Doris Road. There's just more than one Doris Road in the region who is similar and, you know, older and all this kind of stuff. One zero five slaughterhouse.
+
+🎤 SPEAKER_6 [336s - 347s]
+That to me is an incredible smoking gun There is no way on earth that this guy randomly got from the Lord a real address of a real door Doris Rose that was the wrong Doris Rose.
+
+🎤 SPEAKER_6 [354s - 363s]
+This is just I this is I can't I do rule. This is well This is a screenshot I took. It's not just something that was passed around. Because I wanna double check. I wanna make sure I sure things are accurate and true.
+
+🎤 SPEAKER_6 [363s - 373s]
+If there's anything I get wrong, I'm happy to publicly say, I'm so sorry I got this wrong and correct it. I'm I only wanna share the things that I believe are true, and I'm taking some risks to do this. Right?
+
+🎤 SPEAKER_6 [374s - 379s]
+Had to talk to lawyers and things like that. I'm like, guys, I'm gonna call this stuff out, and there's no way to do it without risk to myself.
+
+🎤 SPEAKER_6 [381s - 389s]
+But but there is no way for leaders to stand up and defend those who are being targeted by bad guys without taking some risks.
+
+🎤 SPEAKER_6 [390s - 403s]
+Yourself. So we all need to to step into that stuff. Anyway, Charlotte Gore is the next one we're gonna talk about. Charlotte Gore okay. There there's a guy named Chris Gore. He's really significant in Bethel or was for many years. I don't know what he's doing at the moment.
+
+🎤 SPEAKER_6 [403s - 429s]
+But he was at Bethel Reading from 2006 for many, many years until at least recently, maybe he's still there on him. He was the director of their healing ministries at Bethel, and his daughter was a very well known, very disabled young lady, very well loved and cared for. And Sean decided to take her and use her as an example in one of his grifting fake prophecy things because everybody is a tool to this man it seems.
+
+🎤 SPEAKER_6 [434s - 448s]
+Is there a a Charlotte with hold on. I I show you the video again. Bethel TV Monet. This was posted on Bethel's Bethel's Facebook YouTube and wherever their bethel.tv stuff is hosted at. This is one of their videos.
+
+🎤 SPEAKER_6 [448s - 457s]
+And it was still present. It was still live until I started asking about it private I reached out to Chris Gore and asked him, and all of a sudden now, the video has disappeared.
+
+🎤 SPEAKER_7 [458s - 463s]
+Is there a Charlotte with our October 7 birthday? Does it make sense to anybody?
+
+🎤 SPEAKER_5 [463s - 465s]
+Charlotte or just had a birthday and I was Who would Charlotte Gore be?
+
+🎤 SPEAKER_7 [465s - 471s]
+I don't know. Okay. Chris Gore's dog Okay. Is Chris and Chris isn't here? Chris Gore, where's the camera then?
+
+🎤 SPEAKER_6 [472s - 479s]
+I wanna show you a different angle. My face is not blocking because I want you to see that there's there's Bill Johnson. There's Benny Johnson. There's Danny Silk.
+
+🎤 SPEAKER_6 [480s - 483s]
+Probably other leaders here as well, all all there in the room.
+
+🎤 SPEAKER_6 [486s - 495s]
+This is this is, of course, at Bethel. And he's gonna know abuse the entire church.
+
+🎤 SPEAKER_7 [495s - 518s]
+Okay. Streaming audience. We love you. This is a word for you. And, Charlotte, Gore, I saw the Lord giving you a hope for fullness, and your life matters to God in a major way. So there's a healing power of his love for significance, and then it'll follow with a full healing. The Lord wants to bring a full healing And your parents' prayers are working. What what am I saying? You guys are so sorry.
+
+🎤 SPEAKER_6 [523s - 529s]
+Don't know what y'all are He's clearly prophesying that she's going to be fully healed. Which would be obviously the the heart's desire of any parent.
+
+🎤 SPEAKER_6 [530s - 547s]
+Or of her for that matter. I'll show you. She she's she's very, very disabled. I'll show you I don't wanna short face. I I I don't wanna increase any of the negative stuff, but we have to give the the examples. These are the public examples. I was able to find this. I was able to go through scrubbing through his videos, through the videos Bethel has put up of of him.
+
+🎤 SPEAKER_6 [547s - 558s]
+And going, where is he prophesied? Can I confirm that I found this online? And I found examples of my own as well. So this is one of those I think I'm the I think I'm the first who brought this one up.
+
+🎤 SPEAKER_6 [558s - 562s]
+He's doing this to Bethel leadership. Now he pretends he doesn't know Chris. You'll you'll he's like Chris Gordon who's
+
+🎤 SPEAKER_6 [566s - 574s]
+Chris is. He's been part of Bethel for years at this point. Calls it his mother church. He's he's close with Bill Johnson. He's come on.
+
+🎤 SPEAKER_6 [575s - 578s]
+He knows. But he has to pretend ignorance to magnify his glory.
+
+🎤 SPEAKER_7 [579s - 596s]
+I'm really excited. So tell me tell me in. Oh, she's in a wheelchair. It's very disabled. Well, God sees those prayers are working, and I know nothing about this family. This is crazy. You know, have a real prayer in my heart just to be a blessing to Bethel, the church itself. I feel like God wants resolve some of the long term issues in Bethel. Yeah.
+
+🎤 SPEAKER_6 [597s - 643s]
+Now listen. You gotta understand the the the background of this. Bethel, I'm gonna play what he's gonna say in a second. But Bethel, has for years been been, presenting a narrative that they are on a trajectory of ever upward and higher investment with your help, with ease, with financial prosperity, and with prophecy, and all of those things are increasing over the years. Now they're not really increasing over these, but that's the narrative they're all always increasing. They're always and then Sean shows up, and he he's there, he's like, the guy with these extra prophecies that nobody gets. So it's it's like he's the sort of the doorway into that. That's the idea in the movement, that's the idea. So this is why I say revival culture can be dangerous because it leaves you vulnerable to the fakers because no can have as many miracles as the guy that's faking.
+
+🎤 SPEAKER_6 [645s - 663s]
+So he's gonna now take this thing says about Charleston Gordon. He've been praying for him to yield for a long, long time. Well, now that he the full healing is coming. And now he's turning that that claim into a prophecy about death as a whole. You guys are gonna be entering into the realm that you've been you know, heading towards and praying for and talking about where you're gonna get all the and miracles and all this.
+
+🎤 SPEAKER_7 [663s - 692s]
+You know, I have a real prayer in my heart just to be a blessing in Bethel, the church itself. I feel like God wants to resolve some of the long term issues in Bethel. And I feel like this is a picture of, like, where he wants to come in and resolve things that we prayed for to give a foundation of faith. The things we're praying for consistently that are always amongst us that seem like they never get resolved, that God's gonna start doing something with those things. When I feel like bropsing over Charlotte is an example, I don't know the course of all. I know if I've ever even talked to Chris once. So I don't know anything about his family, but I see three girls.
+
+🎤 SPEAKER_7 [692s - 702s]
+And I feel like this is a picture of the Lord speaking into something because he's gonna start pulling in, into the full glory, the thing that have been the most undone, better historic
+
+🎤 SPEAKER_6 [702s - 706s]
+Calling it to full glory is a specific phrase that has meaning, in in that group.
+
+🎤 SPEAKER_7 [706s - 716s]
+Barkley undone. And I felt like this is one of the pictures. So we blessed the situation, and we ones like it to get resolved in the season of God. Oh, in Jesus' name. Wow. That's so good. Wow.
+
+🎤 SPEAKER_7 [716s - 718s]
+Some holiness on that. Wow.
+
+🎤 SPEAKER_6 [719s - 727s]
+Christy had himself on the back at the end of it. So like I said, I reached out to Chris Core was like, hey. Can I talk to you about this? I believe that he abused you and your daughter and your family.
+
+🎤 SPEAKER_6 [728s - 738s]
+And I I I guess I didn't grab the clip, but he he also in the same clip, he mentions their dog, Maverick. And the crowd was, like, their shot because they have a dog named Maverick. And he's like, oh, well, Maverick. Yeah. Okay.
+
+🎤 SPEAKER_6 [738s - 745s]
+She has, like, a Maverick little dog. And that was also available online. So let me show you this stuff was available online.
+
+🎤 SPEAKER_6 [745s - 761s]
+This is from, Chris's website. Kingdomreleasers.org, or it was. I had to use the Wayback machine to find this. But in 2014, this was present, which means that it would have been accessible easily by, by anybody who knew Chris' name. You could find a sign.
+
+🎤 SPEAKER_6 [762s - 769s]
+Says Chris graduated BSSM is now working at Bethel in a pastoral overseer role as the director of healing ministries, which he did, it seems, many years.
+
+🎤 SPEAKER_6 [769s - 776s]
+On his Facebook page, which we have good reason to think Sean really likes checking Facebook. He's not the only thing he checks.
+
+🎤 SPEAKER_6 [777s - 789s]
+Chris Gore had a photo, of his family with his three daughters. His disabled daughter, their dog. And in the photo, this is our new member to our family has arrived, our dog Maverick.
+
+🎤 SPEAKER_6 [790s - 823s]
+Then he tags three other family members, it seems, in this. This is I learned about Sean. I scrubbed through people's Facebook pages trying to figure out, like, was Sean reading? Let me go back to the date of this event, look at their page, what was being posted recently. And it looks to me as though Sean frequently wouldn't read necessarily people's posts, like weeks or months long posts, but rather would just click on photos, and he would scroll through their photos to look for connections, individuals, and events, like a birthday, funeral, the the the birth of a child, the death of a child.
+
+🎤 SPEAKER_6 [823s - 834s]
+He would use those things in his prophecy. So here, the dog, the child, everything is right there present, and it connects perfectly with what Sean said. It was all publicly available.
+
+🎤 SPEAKER_6 [834s - 849s]
+Also, Chris Gore posted this word on his page. He was very excited by this, and he says, I wanna post an amazing prophetic word word where our daughter Charlotte was called out by name and birth date the Open Heaven's Conference at Bethel.
+
+🎤 SPEAKER_6 [849s - 868s]
+I really believe this word is for more than just Charlotte. Now he's echoing exactly what Sean said. Right? Than just Charlotte. But for the greater body that if stood in faith for healing for long term issues, I try that you are encouraged as you listen and receive this word. This connects well with Beth 's saying, we're gonna do the place where nobody dies.
+
+🎤 SPEAKER_6 [868s - 875s]
+They yes. They say that. We're gonna be a place where nobody dies. They joke. No one's allowed before she was sad.
+
+🎤 SPEAKER_6 [900s - 904s]
+But for whoever held long after that, you just went to church before asking about her
+
+🎤 SPEAKER_6 [930s - 962s]
+This is Charlotte Court in 2024. One more recent pictures I can show you guys She's clearly still disabled for those who are, like, maybe she did get healed. It's been years nine years later. So so, Charlotte, that word wasn't wrong. You didn't do anything wrong. You didn't disappoint God. That
+
+
+---
+
