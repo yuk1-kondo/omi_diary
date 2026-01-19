@@ -4320,3 +4320,17 @@ How old are you? Where do you live? What do you do for work? What is your long-t
 
 ---
 
+
+
+## 📝 年齢についての短い問いかけ - 949b7134-32d2-488b-98c6-09e21ac70cde
+
+**記録時間**: 2026-01-19 23:48:51
+
+### STT生テキスト
+
+🎤 SPEAKER_99 [0s - 1s]
+How old are you?
+
+
+---
+
