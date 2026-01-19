@@ -3825,3 +3825,467 @@ This is Charlotte Court in 2024. One more recent pictures I can show you guys Sh
 
 ---
 
+
+
+## 📝 Rachel and User Debate Calvinism and Accreditation - 9198e503-0bc9-4aac-9d11-a460a44b5136
+
+**記録時間**: 2026-01-19 23:25:51
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+Let's keep the doors close. Keep it warm.
+
+🎤 SPEAKER_8 [3s - 4s]
+Okay?
+
+👤 あなた [9s - 9s]
+Time is it that?
+
+🎤 SPEAKER_8 [11s - 12s]
+03:00. Yeah.
+
+👤 あなた [23s - 25s]
+It's pretty easy part of your job doing it.
+
+🎤 SPEAKER_1 [40s - 43s]
+So we've got one of our students, was it? Houston?
+
+🎤 SPEAKER_2 [44s - 46s]
+One Life, is it? Is it One Life in Houston? Yeah.
+
+🎤 SPEAKER_3 [49s - 50s]
+Advance.
+
+🎤 SPEAKER_1 [50s - 59s]
+And they have gone to Arkansas, which is a real place with name because it's spelled Arkansas. Yeah.
+
+🎤 SPEAKER_2 [59s - 60s]
+But it's Arkansas.
+
+👤 あなた [61s - 61s]
+Alright. Yeah.
+
+🎤 SPEAKER_1 [62s - 65s]
+She's gonna have to realize that we're two different places. We're
+
+🎤 SPEAKER_1 [69s - 72s]
+God first is following his apparently. This is where Nathan connected us.
+
+🎤 SPEAKER_1 [80s - 81s]
+Some fellowship church.
+
+🎤 SPEAKER_2 [82s - 86s]
+Those grows. I was like, I don't know.
+
+🎤 SPEAKER_1 [89s - 95s]
+I don't know who they are, but they're he's quite heavy on the post for it on some of that application.
+
+🎤 SPEAKER_5 [95s - 95s]
+Oh, yeah?
+
+🎤 SPEAKER_2 [96s - 98s]
+Gift of tongues, interpretation,
+
+👤 あなた [99s - 100s]
+Very good.
+
+👤 あなた [106s - 109s]
+You know, which stands out, but but You want to be a clear comp he's clear on his position as a continuous.
+
+👤 あなた [113s - 120s]
+So he's actually probably just more And aware of the difference is That's fine. But there's no reason why you won't be rejected for that.
+
+🎤 SPEAKER_1 [121s - 130s]
+Well, there's someone else who's applied. He's like, just to be clear. I do not subscribe to Calvinism, but I know that is mainly Julia's position.
+
+🎤 SPEAKER_8 [130s - 131s]
+No.
+
+🎤 SPEAKER_5 [131s - 133s]
+Well I'm happy to work work within that.
+
+🎤 SPEAKER_8 [133s - 134s]
+Yeah.
+
+👤 あなた [135s - 142s]
+And I'm sure that there is There's lots of nuance because Yeah. Yeah. Don Don Feburn's not a a Calvinist, for example. Yeah.
+
+🎤 SPEAKER_3 [142s - 143s]
+And he's very respected and looked up to And he's got friends that study at Union and stuff like he was a bit like I know.
+
+🎤 SPEAKER_1 [144s - 150s]
+Is it is a guy in Rome and do, but in it's he, but yeah.
+
+🎤 SPEAKER_2 [152s - 153s]
+But I think that's fine.
+
+👤 あなた [155s - 172s]
+It's like, that's like Calvinism blows hot and cold over the decade over the century It comes and goes. Yeah. Because the church loses away, gets gospel light, and then the Calvinists come in, bring a bit of solid and then people start to follow Calvinism through to its logical conclusions and hate it.
+
+👤 あなた [172s - 182s]
+Yeah. Because it makes God out to be a monster, frankly. And they reject it. And it and it's that's that pattern's happened about five times in his it started in the fifteenth century sixteenth century.
+
+🎤 SPEAKER_1 [183s - 187s]
+Phrase to say, it's about to be a monster because it it could that No.
+
+🎤 SPEAKER_8 [188s - 188s]
+I don't think so.
+
+👤 あなた [188s - 189s]
+Well, you tell me.
+
+🎤 SPEAKER_3 [189s - 190s]
+Do you know we'll figure out the I'm not getting into cameras in my now.
+
+🎤 SPEAKER_1 [191s - 192s]
+Not right now.
+
+👤 あなた [193s - 194s]
+Alright. Not right now.
+
+🎤 SPEAKER_5 [195s - 195s]
+I know what you're saying.
+
+🎤 SPEAKER_3 [195s - 197s]
+If I just say it in a sentence, one sentence, God chooses people before they're born to to send them to hell.
+
+👤 あなた [206s - 213s]
+Specifically. They have no chance of repenting. There's no way they'd ever be saved. They're intentionally to burn in hell forever.
+
+🎤 SPEAKER_3 [214s - 227s]
+Now, that is a big statement to make and there's no in the bubble that teaches it. But it's implied is a natural implication of the Calvinist system, unfortunately. And so that's kinda how it gets itself into trouble. It makes big claims based on nothing.
+
+🎤 SPEAKER_3 [232s - 235s]
+There's nowhere anywhere that teaches about what they call what Calvinists call rep retro reprovates.
+
+🎤 SPEAKER_2 [235s - 237s]
+There's something about
+
+🎤 SPEAKER_1 [237s - 245s]
+God set up creation. Right, you create this planet, and he's leaving it to do what it does, which is the things that he created, reproduction, sunlight, energy, h two o, all the things that does.
+
+🎤 SPEAKER_1 [252s - 257s]
+No. And he set it up. And and if he left it solely alone
+
+🎤 SPEAKER_8 [257s - 258s]
+Mhmm.
+
+🎤 SPEAKER_1 [258s - 262s]
+Perhaps Mhmm. It would just keep doing what he's doing.
+
+🎤 SPEAKER_2 [262s - 263s]
+Yeah? Right.
+
+🎤 SPEAKER_1 [263s - 271s]
+And as a result, that and the sinfulness and death, that leads to all these people that just because of the because of creation that he created that was.
+
+🎤 SPEAKER_1 [274s - 281s]
+It leads to all these people being made and and the cycle of that. He's coming and he's saving a bunch of them.
+
+👤 あなた [282s - 312s]
+Yeah. Well, Calvinist would reject that. Because they see an absolute they've got very specific view on the sovereignty of God, which is there's not a so it sounds noble, when you word it like this, is there's not a single atom that moves in the universe that God being the one who moves it. Everything that happens in the universe Calvinus say, is because God made it happen. There's nothing be up because otherwise you'd be up wouldn't be in control. That's their logic. And so everything that happens, good and bad, is caused by God.
+
+👤 あなた [313s - 316s]
+And so, again, that is problematic.
+
+🎤 SPEAKER_3 [317s - 327s]
+If you take that to its conclusion and it seems to contradict makes Jesus to makes God out to be a bit schizophrenic because in the bible he keeps on saying, repent and believe, turn to me and live.
+
+👤 あなた [327s - 344s]
+Don't choose today Don't die today. Chew if do what I'd command you to do. But Calvin ist say, God says that, but but secretly, he's making all these things happen. So it's it's a confuse. I I think it's very If you once you really get into the weeds of it, it's a confused position.
+
+👤 あなた [346s - 354s]
+I like Donald Faberne view and it's not just his. He's it comes from a, a sixteenth century Jesuit priest who was a Catholic. Fine enough.
+
+👤 あなた [355s - 356s]
+He had the view.
+
+🎤 SPEAKER_3 [356s - 358s]
+So Calvinist so God created the world. I haven't got loads of time.
+
+🎤 SPEAKER_1 [358s - 365s]
+So you know when I said Alright. And suddenly you've locked your now I'm in a lecture. And I was fine. It's interesting. It's really what I'm saying.
+
+🎤 SPEAKER_1 [365s - 367s]
+You know, have I'm half with you in
+
+👤 あなた [367s - 368s]
+Oh, that's fine.
+
+🎤 SPEAKER_1 [368s - 369s]
+Have not loads of time. Time.
+
+🎤 SPEAKER_3 [369s - 371s]
+Alright. That's fine. Thank you. No.
+
+🎤 SPEAKER_2 [371s - 371s]
+No.
+
+🎤 SPEAKER_3 [372s - 373s]
+I don't need to keep on going because I said it's interesting.
+
+🎤 SPEAKER_2 [376s - 377s]
+I said it's interesting.
+
+🎤 SPEAKER_3 [377s - 388s]
+It's just to give you a bit of heads You're about to launch in something that's twenty minutes. Alright. I'll do it in two sentences. Calvin, so everyone mostly everyone agrees that God the world happens the way God intends it to to happen.
+
+🎤 SPEAKER_3 [388s - 394s]
+Predestination. Calvinists say God did that through his omnipotence, through his power.
+
+👤 あなた [396s - 398s]
+So omnipotence is also a fun word, isn't it?
+
+🎤 SPEAKER_1 [398s - 400s]
+No. Potent is, like, Potent.
+
+🎤 SPEAKER_2 [400s - 401s]
+No.
+
+🎤 SPEAKER_3 [402s - 404s]
+No. Potentate is something that's all powerful.
+
+🎤 SPEAKER_2 [405s - 405s]
+Yeah.
+
+🎤 SPEAKER_3 [405s - 418s]
+Potentate. Anyway, what that means is think of a chessboard. God moves all the chess pieces. Whereas others, John Donald Faber I agree with him, God created the world and ordered it in such a way through his omniscience.
+
+🎤 SPEAKER_3 [419s - 430s]
+So he he knows everything that's gonna happen and he created the world in such a way that it would happen naturally due to free will. But God knows how it's gonna work out and he achieves his purposes that way.
+
+🎤 SPEAKER_3 [430s - 431s]
+He achieves his purposes on it.
+
+👤 あなた [433s - 438s]
+So if people end up in hell, it's their own bloody fault. God knew it. Yeah. God created the world.
+
+🎤 SPEAKER_3 [438s - 443s]
+And but that's a free world choice as opposed to Calvinist Calvinistic god.
+
+👤 あなた [443s - 444s]
+Yeah.
+
+🎤 SPEAKER_3 [446s - 449s]
+That She didn't mind breaths in is I think he's more broadly reformed, know.
+
+🎤 SPEAKER_3 [449s - 454s]
+I think I think he probably would call himself reformed. Calvinism is just a subsection of reform theology.
+
+🎤 SPEAKER_5 [454s - 455s]
+Yeah.
+
+👤 あなた [455s - 456s]
+You got Lutheranism.
+
+🎤 SPEAKER_1 [456s - 459s]
+So was saying if you're saying Broadly for me, so are you saying Calvinism therefore?
+
+🎤 SPEAKER_3 [459s - 461s]
+I don't know. I think he'd be a bit more nuanced.
+
+🎤 SPEAKER_1 [461s - 466s]
+I think he's probably more nuanced as well. I think what I'm gauging is there's a little bit of You graduate from this.
+
+🎤 SPEAKER_1 [471s - 480s]
+You graduate on from He's quite so so some of our people are obviously quite strict on stuff. So one of the things that we're doing so it's our press potential in particular.
+
+👤 あなた [480s - 480s]
+Of course, they are.
+
+🎤 SPEAKER_2 [480s - 481s]
+Yeah.
+
+🎤 SPEAKER_1 [481s - 490s]
+One of the things that we're doing is we are doing we're accrediting. We're being we're accrediting. Other institutions. Yeah.
+
+🎤 SPEAKER_1 [491s - 494s]
+So one of them is like a Black Diastolic College In
+
+🎤 SPEAKER_2 [495s - 496s]
+Near London.
+
+🎤 SPEAKER_3 [496s - 496s]
+Right.
+
+🎤 SPEAKER_1 [498s - 504s]
+Therefore, the theology of some of stuff they teach will be different to some of the theology of union.
+
+🎤 SPEAKER_5 [504s - 505s]
+Yeah.
+
+🎤 SPEAKER_1 [505s - 513s]
+What we have to do is we will be, like, external examiners checking what moderating their marking. No.
+
+🎤 SPEAKER_4 [513s - 514s]
+We're moderating moderating their Maybe.
+
+🎤 SPEAKER_1 [514s - 536s]
+But looking at their schemes and making sure everything's kind of we're happy with what they're doing. Basically, what the OU does with us Yeah. We will be that for them. Right. Through ECT, So then the discussion is, are we being people that are credit stuff or are we only gonna choose people that theologically align completely with us?
+
+🎤 SPEAKER_1 [537s - 537s]
+Yeah.
+
+🎤 SPEAKER_2 [538s - 539s]
+Ian is I don't know where he just deliberately like his fires all over the place.
+
+🎤 SPEAKER_1 [541s - 550s]
+But he's like, I already know when we have these meetings and I bring his curriculum and John sees the reading list Yeah. He's gonna refuse to put his hand to it.
+
+🎤 SPEAKER_2 [551s - 553s]
+Yeah.
+
+🎤 SPEAKER_1 [553s - 556s]
+So I need to get Dan and Mike to clarify
+
+🎤 SPEAKER_5 [557s - 557s]
+Yeah.
+
+🎤 SPEAKER_2 [558s - 559s]
+What this relationship is, whether it is
+
+👤 あなた [560s - 562s]
+We're not endorsing.
+
+🎤 SPEAKER_5 [562s - 563s]
+Not endorsing.
+
+🎤 SPEAKER_1 [563s - 569s]
+But we're crediting the qualifications that they're giving and we're happy with that even though some of the reading lists are Yeah.
+
+🎤 SPEAKER_5 [569s - 570s]
+Whatever.
+
+🎤 SPEAKER_1 [570s - 571s]
+So obviously, quite Pentecostal.
+
+🎤 SPEAKER_2 [571s - 573s]
+Essentially, it's quite Pentecostal.
+
+🎤 SPEAKER_1 [574s - 581s]
+But then Ian said, you know, you could look at his reading list sometimes. And and when you're talking about contrast, I said, well, we've got some books on our shelf that we would not read at all anymore.
+
+🎤 SPEAKER_1 [582s - 606s]
+We have done in the past, but we wouldn't, but we maybe keep because other people will read these books, and it's hell we'll have stuff. But That is interesting. It's gonna be like if we're affiliating with other people and giving them credits, and they believe different things, then it's how people cope with that. You also get the hard liners who are like, it's not even Christianity.
+
+👤 あなた [606s - 607s]
+Yep.
+
+🎤 SPEAKER_1 [607s - 615s]
+And you get the others going, well, let's not get get into that. That's not what we're doing here. We're crediting stuff. Mhmm. And so I want I don't gonna happen with John.
+
+🎤 SPEAKER_1 [615s - 624s]
+He's gonna lose his marbles over it. He's gonna be like a camp already freaking out about AI for freaking out of the devil.
+
+🎤 SPEAKER_3 [628s - 636s]
+Well, yeah. I imagine there's quite a few math teachers freaking out when they calculate the suddenly was available.
+
+🎤 SPEAKER_2 [636s - 636s]
+But to be honest, it has done.
+
+🎤 SPEAKER_3 [639s - 645s]
+Now but not in any way that negative impacts the world. Well, I I completely I've never had to use a python We're not talking about that.
+
+🎤 SPEAKER_1 [647s - 656s]
+I I disagree that it causes problems. Because people cannot they got no concept of number as a result.
+
+🎤 SPEAKER_3 [657s - 657s]
+I won't go that far. No.
+
+🎤 SPEAKER_1 [657s - 661s]
+But if you see but in terms of things like time, people can't help.
+
+👤 あなた [661s - 663s]
+They literally can't Well, is that is terrible.
+
+🎤 SPEAKER_3 [663s - 665s]
+But, I mean, when you're trying to do calculations,
+
+🎤 SPEAKER_2 [666s - 667s]
+But you are.
+
+🎤 SPEAKER_1 [667s - 671s]
+But when you're roughly in the shop, the amount of people that I would speak to they just buy a load of stuff.
+
+🎤 SPEAKER_3 [672s - 681s]
+They've got no idea I was surprised when you did your job to to to discover how many people couldn't read the time or count how many objects were there on that table. Now have a clue about change.
+
+🎤 SPEAKER_1 [682s - 693s]
+So if you went to shop and you bought a few things, you'd know that's roughly about eight, nine pounds, somewhere between that mark. They wouldn't have a clue whether it was gonna be 30 pounds pounds, pounds 10 pounds, pounds four pound 50.
+
+🎤 SPEAKER_4 [693s - 693s]
+If someone gave them change, they is bad.
+
+🎤 SPEAKER_3 [697s - 704s]
+But but it's a but that is I mean, in Chutnamon, that's that's a it's a general rule Calculators are fine.
+
+🎤 SPEAKER_1 [706s - 733s]
+But I feel like say, like, Joe, at work is the financial person. Her math is not good. No. Because I could quite quickly see was it's £56 there, and we're splitting it between eight eight weeks. So that's gonna be, like, £7 a week. So that makes sense because over here, it says £6.89 so that makes complete sense and that matches up she can't do that so she's there like So fifty six. So that's gonna be so hold on. Where have we got that number from then? But it's if you know your numbers Yeah.
+
+🎤 SPEAKER_2 [733s - 734s]
+You can piece things together and things make a lot more sense.
+
+🎤 SPEAKER_1 [734s - 737s]
+It's like Yeah.
+
+🎤 SPEAKER_5 [737s - 737s]
+I like alright.
+
+🎤 SPEAKER_2 [737s - 741s]
+A guy. Business a little bit like counting doing your math in French now.
+
+🎤 SPEAKER_3 [749s - 754s]
+I said, add You'd be like, this I think no French number, sir.
+
+🎤 SPEAKER_1 [754s - 759s]
+And what you would do, you should be thinking of it in English and then changing it into French.
+
+🎤 SPEAKER_3 [760s - 762s]
+You wouldn't be thinking in French, and it's bit like with the maths, like Well, French count differently, don't they? No.
+
+👤 あなた [763s - 767s]
+Which language is it that doesn't count not like we they add do it in a different they do their numbers are different.
+
+🎤 SPEAKER_3 [771s - 774s]
+Well, when we do teens or 20 to one, 22.
+
+🎤 SPEAKER_1 [774s - 775s]
+10 of one, 10 of two. Ten and three.
+
+👤 あなた [776s - 778s]
+But that's Yeah. But then it gets weird after that. And it doesn't go with that.
+
+🎤 SPEAKER_1 [779s - 780s]
+It gets weird if you think it gets weird.
+
+🎤 SPEAKER_5 [782s - 782s]
+No.
+
+🎤 SPEAKER_2 [785s - 787s]
+On say, dossay, tressay.
+
+🎤 SPEAKER_8 [790s - 791s]
+French maybe.
+
+🎤 SPEAKER_1 [791s - 798s]
+11, 12, 13, then it's ten and four, ten and five, ten and six, ten seven today. Ten nine. 22.
+
+🎤 SPEAKER_3 [801s - 804s]
+Yeah. They're kinda, like, different.
+
+👤 あなた [813s - 814s]
+I know. Come on. Right.
+
+🎤 SPEAKER_3 [814s - 816s]
+Anyway, in your meeting.
+
+👤 あなた [831s - 833s]
+It's been on all day.
+
+🎤 SPEAKER_3 [858s - 862s]
+It is draining and tiring dreaming
+
+
+---
+
