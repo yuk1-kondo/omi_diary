@@ -2226,3 +2226,35 @@ I don't know.
 
 ---
 
+
+
+## 📝 User Plays ‘The God We Love’ on YouTube - b0edbb76-0488-4d7e-a25d-49e5c68e9997
+
+**記録時間**: 2026-01-19 19:00:41
+
+### STT生テキスト
+
+🎤 SPEAKER_7 [0s - 3s]
+Now and away is the God we love.
+
+🎤 SPEAKER_7 [29s - 33s]
+And I got a bit free age.
+
+🎤 SPEAKER_7 [37s - 48s]
+In Christ is made his sin into the heavens of them. When he sits at the fathers when he Hey, Google.
+
+👤 あなた [57s - 60s]
+Play This is the God We Love by Matt Redmond on YouTube.
+
+🎤 SPEAKER_2 [70s - 71s]
+Matt Redman in City Light.
+
+🎤 SPEAKER_1 [72s - 73s]
+Video information.
+
+🎤 SPEAKER_8 [75s - 87s]
+Title, city alight. The god we love, Nicene Creed, feet. Matt Redman, Channel, City Light. Length, 05:00. Fuse, 471.
+
+
+---
+
