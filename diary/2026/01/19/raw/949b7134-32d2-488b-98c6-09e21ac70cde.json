@@ -1,0 +1,92 @@
+{
+  "id": "949b7134-32d2-488b-98c6-09e21ac70cde",
+  "created_at": "2026-01-19T14:48:51.453155+00:00",
+  "started_at": "2026-01-19T14:48:56.706458+00:00",
+  "finished_at": "2026-01-19T14:48:57.209587+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "年齢についての短い問いかけ",
+    "overview": "会話の中で、話し手が相手に対して「何歳ですか？」と年齢を尋ねているシンプルなやり取りのみが含まれている。追加の文脈や回答は示されていない。",
+    "emoji": "❓",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2958eaa7-8053-4df5-a25f-6b55c2651f07",
+      "text": "How old are you?",
+      "speaker": "SPEAKER_99",
+      "speaker_id": 99,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 1.599999761581421,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "4ef4ef1a-602e-48b5-bf08-32f03cf45d01",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "949b7134-32d2-488b-98c6-09e21ac70cde",
+      "chunk_timestamps": [
+        1768834127.344,
+        1768834136.649,
+        1768834141.67,
+        1768834147.69,
+        1768834152.705,
+        1768834158.501,
+        1768834163.624,
+        1768834168.682,
+        1768834173.662,
+        1768834178.691,
+        1768834184.461,
+        1768834189.49,
+        1768834194.66,
+        1768834200.221,
+        1768834205.231,
+        1768834210.26,
+        1768834215.424,
+        1768834220.561,
+        1768834225.622,
+        1768834230.693,
+        1768834235.664,
+        1768834240.763,
+        1768834245.87,
+        1768834252.901
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-19T14:48:47.344000+00:00",
+      "duration": 130.55700000000002
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 年齢の質問\n- 相手が年齢を質問  \n- 内容は「何歳ですか？」のみ  \n\n## 次のステップ\n- 年齢を答える必要があるか検討する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed"
+}
