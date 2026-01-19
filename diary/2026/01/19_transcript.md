@@ -4306,3 +4306,17 @@ Hallowoldareyou Where do you live?
 
 ---
 
+
+
+## 📝 個人プロフィールに関する質問一覧 - 8f7c8851-2c8c-4111-a45f-43c8cd0e126b
+
+**記録時間**: 2026-01-19 23:47:43
+
+### STT生テキスト
+
+🎤 SPEAKER_99 [0s - 15s]
+How old are you? Where do you live? What do you do for work? What is your long-term goal? What are your goals this month? What do you have planned for today?
+
+
+---
+
