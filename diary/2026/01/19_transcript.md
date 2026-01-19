@@ -1629,3 +1629,53 @@ Goodbye. Have a good day. See you later.
 
 ---
 
+
+
+## 📝 Rachel and User Chat About Kids and Beds - e6586ea9-2699-48d1-848e-1d837d1777b9
+
+**記録時間**: 2026-01-19 16:26:09
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+Mhmm.
+
+🎤 SPEAKER_0 [26s - 31s]
+Yeah. Bless them. That's a long day the kids, isn't it? Yeah. So I've got a lot of pictures that's called out.
+
+👤 あなた [38s - 38s]
+have done now. Well, poor Katie will
+
+👤 あなた [42s - 47s]
+Well, they they have their own building. I don't know. So less setup required.
+
+👤 あなた [55s - 58s]
+No. Probably just thanking you for the kids' work and what have you.
+
+👤 あなた [61s - 67s]
+In Van Easter. I'm just Happy about it? No.
+
+👤 あなた [94s - 107s]
+It's a bit brutal energy to be fair. No. Because he wanted me to jump. You wanted me to come get you and us. So go back from area Yeah. I know. Sorry.
+
+👤 あなた [116s - 119s]
+Where's your bed this big, mommy, when you're this size? I know.
+
+🎤 SPEAKER_1 [119s - 121s]
+Like sleeping, isn't it?
+
+🎤 SPEAKER_1 [123s - 124s]
+It's four of you.
+
+🎤 SPEAKER_1 [133s - 139s]
+The best for years. All of the night, we shared beds with Elliot with June when he was the little one.
+
+👤 あなた [140s - 143s]
+It had been ridiculous to have a double bed for that little Jude, though.
+
+🎤 SPEAKER_1 [144s - 146s]
+True. But just think all of the God. Double
+
+
+---
+
