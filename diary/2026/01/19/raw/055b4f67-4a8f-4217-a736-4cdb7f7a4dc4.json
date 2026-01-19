@@ -1,0 +1,156 @@
+{
+  "id": "055b4f67-4a8f-4217-a736-4cdb7f7a4dc4",
+  "created_at": "2026-01-19T10:21:48.168414+00:00",
+  "started_at": "2026-01-19T10:21:48.096207+00:00",
+  "finished_at": "2026-01-19T10:22:25.805559+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Rachel Puts Tyler in Time Out",
+    "overview": "Rachel is disciplining Tyler by putting him in time out. Another person arrives and greets a dog named Angel while Rachel asks what Tyler did. The other person explains that Tyler had been drawing on a wall.",
+    "emoji": "👶",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "b21ffd07-fa46-45f0-9ae0-f37e8419f56f",
+      "text": "Tyler, you are in time out Why is the dog standing there?",
+      "speaker": "SPEAKER_6",
+      "speaker_id": 6,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": -2.098086042678915e-07,
+      "end": 4.089999790191541,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b1f5764d-904c-41aa-a650-99cb9f389191",
+      "text": "Hey, Angel.",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.089999790191541,
+      "end": 5.129999790191505,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "2bf26fff-7001-4ae8-ae9b-c1f671bae5af",
+      "text": "What's What did he do?",
+      "speaker": "SPEAKER_6",
+      "speaker_id": 6,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 5.27029979019153,
+      "end": 7.189999790191905,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "522a50ca-c58b-4f67-a84f-27fdb1fbc92a",
+      "text": "He kept me drawing a wall.",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": null,
+      "start": 7.189999790191905,
+      "end": 8.149999790191941,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "dde60fe4-4454-4a80-a7cd-b627ff278224",
+      "text": "He picked a",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": null,
+      "start": 11.949999790191214,
+      "end": 12.669999790191468,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157112,
+    "longitude": -3.2755602,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "53e0799a-afef-46ed-a894-df9d4a4a0d3a",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "055b4f67-4a8f-4217-a736-4cdb7f7a4dc4",
+      "chunk_timestamps": [
+        1768818106.677,
+        1768818112.265,
+        1768818117.251,
+        1768818122.344,
+        1768818127.414,
+        1768818132.429,
+        1768818137.55,
+        1768818143.058,
+        1768818148.443,
+        1768818153.593,
+        1768818158.701,
+        1768818164.047,
+        1768818169.464,
+        1768818174.691,
+        1768818180.073,
+        1768818186.173,
+        1768818192.606,
+        1768818197.972,
+        1768818204.118,
+        1768818209.333,
+        1768818214.431,
+        1768818219.503,
+        1768818224.532,
+        1768818229.551,
+        1768818234.798,
+        1768818241.762,
+        1768818247.137,
+        1768818253.09,
+        1768818258.677
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-19T10:21:46.677000+00:00",
+      "duration": 157.0
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Time-out situation\n- Rachel tells Tyler he is in time-out  \n- Rachel notices dog standing nearby  \n\n## Reason for time-out\n- Other person greets Angel  \n- Rachel asks what Tyler did  \n- Explanation: Tyler kept drawing on wall"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
