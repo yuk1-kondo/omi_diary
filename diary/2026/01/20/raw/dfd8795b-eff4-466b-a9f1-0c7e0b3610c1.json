@@ -1,0 +1,175 @@
+{
+  "id": "dfd8795b-eff4-466b-a9f1-0c7e0b3610c1",
+  "created_at": "2026-01-19T15:13:06.533243+00:00",
+  "started_at": "2026-01-19T15:12:53.563351+00:00",
+  "finished_at": "2026-01-19T15:16:46.421818+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Discussion On Political Labeling And Extremism",
+    "overview": "The brief conversation features a German-speaking participant objecting to being labeled a Nazi or right-wing extremist, insisting instead that he is a concerned citizen worried about cultural over-foreignization. He criticizes how quickly the Nazi label is used when arguments run out. Another English-speaking participant then briefly mentions having been running somewhere at the after park, but no clear connection or further context is provided.",
+    "emoji": "🗣️",
+    "category": "politics",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "7feceeb6-718d-4ba5-b132-2accdf96042a",
+      "text": "David Easterwood bin, bin ich noch lange kein Nazi. Wahrscheinlich bin ich auch noch rechtsextrem oder was. Ja, aber was sollen Sie denn sonst sein? Ich bin vielleicht ein besorgter Bürger, der Angst vor Überfremdung hat. Aber ich bin nicht rechts und ich bin erst recht ein Nazi.",
+      "speaker": "SPEAKER_10",
+      "speaker_id": 10,
+      "is_user": false,
+      "person_id": null,
+      "start": 63.64999971389807,
+      "end": 77.19999971389734,
+      "translations": [
+        {
+          "lang": "en",
+          "text": "David Easterwood bin, That doesn't make me a Nazi. I'm probably also a far-right extremist or something. Yes, But what else should you be? I may be a concerned citizen, who fears being overrun by foreigners. But I am not right-wing, and I am certainly not a Nazi."
+        }
+      ],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "fd46d3e0-16e5-43e4-a60b-deac8e7aa8f8",
+      "text": "Argumente ausgehen, dann holt man schnell mal die gute alte Nazi of who they were.",
+      "speaker": "SPEAKER_10",
+      "speaker_id": 10,
+      "is_user": false,
+      "person_id": null,
+      "start": 94.32999971389745,
+      "end": 98.72969971389739,
+      "translations": [
+        {
+          "lang": "en",
+          "text": "arguments run out, Then you quickly get out the good old Nazi of who they were."
+        }
+      ],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "24dd3ab9-ba97-4807-9341-20384df8d5cb",
+      "text": "And so I was just running them at the after park.",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": null,
+      "start": 110.02999971389727,
+      "end": 115.2999997138977,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156942,
+    "longitude": -3.2755714,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "f3f5b7a8-f025-4079-a0a3-825aece021d3",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "dfd8795b-eff4-466b-a9f1-0c7e0b3610c1",
+      "chunk_timestamps": [
+        1768835585.988,
+        1768835591.015,
+        1768835596.1,
+        1768835601.156,
+        1768835607.666,
+        1768835613.205,
+        1768835618.235,
+        1768835623.684,
+        1768835628.88,
+        1768835633.906,
+        1768835638.969,
+        1768835644.038,
+        1768835649.199,
+        1768835654.267,
+        1768835659.967,
+        1768835665.067,
+        1768835671.177,
+        1768835677.927,
+        1768835683.001,
+        1768835688.425,
+        1768835694.769,
+        1768835699.804,
+        1768835704.827,
+        1768835709.864,
+        1768835714.941,
+        1768835720.12,
+        1768835725.232,
+        1768835730.898
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-19T15:13:05.988000+00:00",
+      "duration": 149.91
+    },
+    {
+      "id": "3f4149bc-fc3e-49e5-920e-cdc5f424624d",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "dfd8795b-eff4-466b-a9f1-0c7e0b3610c1",
+      "chunk_timestamps": [
+        1768835792.119,
+        1768835798.13,
+        1768835803.784,
+        1768835808.864,
+        1768835814.039,
+        1768835819.11,
+        1768835824.997,
+        1768835830.505,
+        1768835835.923,
+        1768835841.057,
+        1768835846.409,
+        1768835851.435,
+        1768835856.682,
+        1768835861.729,
+        1768835866.845,
+        1768835871.819,
+        1768835876.928,
+        1768835882.013,
+        1768835887.208,
+        1768835892.398,
+        1768835897.817,
+        1768835902.819,
+        1768835908.501,
+        1768835913.797,
+        1768835918.995,
+        1768835924.007
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-19T15:16:32.119000+00:00",
+      "duration": 136.888
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Identity and Political Labeling\n- David rejects being called \"Nazi\" or \"right-wing\"\n- Describes himself instead as a \"concerned citizen\"\n- Says he fears \"over-foreignization\" (Überfremdung)\n\n## Complaint About Nazi Comparisons\n- Claims people invoke \"Nazi\" when out of arguments\n- Criticizes casual use of Nazi comparisons\n\n## Unrelated English Segment\n- Brief mention of \"running them at the after park\"\n- Context or meaning of this action unclear\n\n## Next steps\n- Clarify what specific fears or issues David refers to\n- Explore why he rejects right-wing label but fears immigration"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
