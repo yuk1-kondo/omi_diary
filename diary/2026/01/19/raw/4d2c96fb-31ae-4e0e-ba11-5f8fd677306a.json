@@ -1,0 +1,111 @@
+{
+  "id": "4d2c96fb-31ae-4e0e-ba11-5f8fd677306a",
+  "created_at": "2026-01-19T12:46:08.877981+00:00",
+  "started_at": "2026-01-19T12:46:36.076207+00:00",
+  "finished_at": "2026-01-19T12:47:12.289708+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Brief Mention Of Voting Prophecy",
+    "overview": "The content only contains a short, isolated statement indicating that \"voting prophecy\" is an activity that was mentioned, with no additional context, discussion, or actionable details provided.",
+    "emoji": "❓",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "576590a9-ddcd-4d5c-aa0a-e429cc98bf3e",
+      "text": "Voting prophecy is an activity mentioned.",
+      "speaker": "SPEAKER_7",
+      "speaker_id": 7,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.2888161765877157e-07,
+      "end": 1.6799997711186734,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157023,
+    "longitude": -3.2755631,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "ee0864f2-e763-4bc4-8f7c-c079b790160f",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "4d2c96fb-31ae-4e0e-ba11-5f8fd677306a",
+      "chunk_timestamps": [
+        1768826764.677,
+        1768826769.916,
+        1768826775.411,
+        1768826780.536,
+        1768826785.616,
+        1768826790.621,
+        1768826795.733,
+        1768826800.748,
+        1768826806.072,
+        1768826811.128,
+        1768826817.634,
+        1768826824.614,
+        1768826830.919,
+        1768826836.275,
+        1768826841.339,
+        1768826846.44,
+        1768826851.655,
+        1768826856.938,
+        1768826862.065,
+        1768826867.037,
+        1768826874.449,
+        1768826879.973,
+        1768826885.021,
+        1768826890.229,
+        1768826895.149,
+        1768826900.541,
+        1768826905.527,
+        1768826910.735,
+        1768826915.817,
+        1768826921.508,
+        1768826926.624,
+        1768826931.746,
+        1768826936.778,
+        1768826941.913,
+        1768826947.164
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-19T12:46:04.677000+00:00",
+      "duration": 187.487
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## key point\n- Voting prophecy mentioned as an activity\n- No further details or context provided\n\n## next steps\n- Clarify meaning of \"voting prophecy\"\n- Ask for more context or full transcript"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
