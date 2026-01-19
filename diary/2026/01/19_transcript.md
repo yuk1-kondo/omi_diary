@@ -2140,3 +2140,89 @@ It's an African
 
 ---
 
+
+
+## 📝 Rachel and Partner Plan Upcoming Sundays At Church - fdeeab5d-d400-4b1a-8df3-3ed8e9712c4f
+
+**記録時間**: 2026-01-19 18:50:39
+
+### STT生テキスト
+
+🎤 SPEAKER_4 [0s - 1s]
+Escape time.
+
+👤 あなた [82s - 83s]
+Pitching those two Sundays.
+
+🎤 SPEAKER_2 [83s - 97s]
+Okay. But one of them needs to be breakfast church, so I think maybe you could change one of them. I really do think I can't that that I cannot cover two weeks of kids' church in a row. I haven't got any leaders. I've got Alright. Well Is that is it possible for you to change on it?
+
+👤 あなた [97s - 109s]
+Well, yeah. It's just passed already a bit. So I've offered so I don't really want Johnny preaching too often. So I've given him one date of a standalone topic that he wanted to preach on with is being servant hearted or something like that.
+
+👤 あなた [112s - 116s]
+And then I'll for the other date to Steve. I've given her a few dates. Seven Hartzet.
+
+🎤 SPEAKER_2 [116s - 123s]
+Oh, golly. He's just gonna say, guys, you just gotta Yeah. With your heart. And you just gotta, you know, someone needs help.
+
+🎤 SPEAKER_1 [123s - 125s]
+You just do it.
+
+👤 あなた [125s - 135s]
+It's gonna be pretty low quality, but Olivia. I can't I can't move I can move Steve, guess. I've given him a few dates.
+
+🎤 SPEAKER_2 [144s - 149s]
+I mean, there'll be no children's work that week. So there are I can't cannot cover two weeks in a row. I No.
+
+🎤 SPEAKER_4 [149s - 150s]
+Alright.
+
+🎤 SPEAKER_2 [150s - 154s]
+You've said it now. Yeah. So I do appreciate the that's a bit of a headache.
+
+👤 あなた [154s - 156s]
+Because Steve's next preacher won't be till May then.
+
+🎤 SPEAKER_2 [157s - 158s]
+That's when we're away.
+
+👤 あなた [158s - 161s]
+What I'll do is I'll I don't wanna really give Steve anything to I've not given him another one as well.
+
+🎤 SPEAKER_7 [164s - 176s]
+Think I've given him the I thought I'd give him the what do we believe by faith? I thought I'd give him that one. Yeah. Steve's got that one as well. I don't know why that's not there.
+
+🎤 SPEAKER_2 [180s - 181s]
+We didn't yeah.
+
+🎤 SPEAKER_4 [181s - 184s]
+I'm not sure we're doing this. We're making sooner than March. No.
+
+🎤 SPEAKER_7 [185s - 193s]
+He's got March 15. He's got Being seven hundred. No. I'm good. No. No.
+
+🎤 SPEAKER_2 [193s - 195s]
+So the the any topic one is gonna be They can church.
+
+🎤 SPEAKER_4 [196s - 198s]
+Breakfast church then.
+
+🎤 SPEAKER_2 [201s - 205s]
+Because then it might be that we can pop in so people enjoy our presence, we're really not Well, it's a different that we're gonna egg ourselves, but and
+
+🎤 SPEAKER_2 [215s - 227s]
+But we need to hold on me on. Stop. Stop. Stop. We need to know I was supposed to see was down to preach, I mean, they are gonna be there. We do need to just get that date out. You need to check with Lois as well.
+
+🎤 SPEAKER_2 [228s - 243s]
+And, Rana, they're the ones that make it happen. So just say, we were we're gonna be missing two Sundays. I I I think if you cannot be there for that first one, honey, we can just have a good calm morning before we head off and it might be even if the boys don't go.
+
+🎤 SPEAKER_2 [243s - 246s]
+And that we just have a morning with mom and the kids and Yeah.
+
+🎤 SPEAKER_4 [247s - 248s]
+I don't know.
+
+
+---
+
