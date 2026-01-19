@@ -41,3 +41,23 @@ Starting now.
 
 ---
 
+
+
+## 📝 Brief Piano Lesson Segment - 9517b232-ac01-486f-b60a-9b1d05a00b78
+
+**記録時間**: 2026-01-20 00:21:14
+
+### STT生テキスト
+
+👤 あなた [23s - 24s]
+Today, Excess up.
+
+🎤 SPEAKER_9 [44s - 47s]
+Now left hand consists of only three notes. We're gonna start from f.
+
+🎤 SPEAKER_11 [64s - 66s]
+Your right side is probably
+
+
+---
+
