@@ -1,0 +1,126 @@
+{
+  "id": "9517b232-ac01-486f-b60a-9b1d05a00b78",
+  "created_at": "2026-01-19T15:21:14.370693+00:00",
+  "started_at": "2026-01-19T15:20:53.543351+00:00",
+  "finished_at": "2026-01-19T15:23:57.291226+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Brief Piano Lesson Segment",
+    "overview": "A short piano instruction clip where one speaker explains that the left hand part uses only three notes starting from F, while another comment references the right side, suggesting this is a beginner-level piano exercise or tutorial.",
+    "emoji": "🎹",
+    "category": "music",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "50e3bd91-016e-4d2b-bae6-e7ebe5407611",
+      "text": "Today, Excess up.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 23.740999694824495,
+      "end": 24.540999694823768,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9a6c8534-9163-4694-a065-2e058e195fc0",
+      "text": "Now left hand consists of only three notes. We're gonna start from f.",
+      "speaker": "SPEAKER_9",
+      "speaker_id": 9,
+      "is_user": false,
+      "person_id": null,
+      "start": 44.07999969482444,
+      "end": 47.920999694824786,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "a176746d-cde5-45da-a83d-14b7fabed813",
+      "text": "Your right side is probably",
+      "speaker": "SPEAKER_11",
+      "speaker_id": 11,
+      "is_user": false,
+      "person_id": null,
+      "start": 64.81999969482422,
+      "end": 66.09899969482467,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "d1c3d97a-2784-491c-9e7c-a79861917e6c",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "9517b232-ac01-486f-b60a-9b1d05a00b78",
+      "chunk_timestamps": [
+        1768836074.002,
+        1768836078.988,
+        1768836084.024,
+        1768836089.196,
+        1768836094.351,
+        1768836101.483,
+        1768836106.495,
+        1768836112.645,
+        1768836118.612,
+        1768836123.806,
+        1768836128.842,
+        1768836133.859,
+        1768836139.011,
+        1768836143.996,
+        1768836149.079,
+        1768836154.219,
+        1768836159.312,
+        1768836164.536,
+        1768836169.718,
+        1768836174.925,
+        1768836180.394,
+        1768836185.514,
+        1768836190.837,
+        1768836195.798,
+        1768836200.853,
+        1768836207.183,
+        1768836212.395,
+        1768836218.296,
+        1768836223.711,
+        1768836229.83,
+        1768836234.818,
+        1768836240.597
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-19T15:21:14.002000+00:00",
+      "duration": 171.595
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Left hand notes\n- Left hand uses only three notes  \n- Starting note for left hand is F  \n\n## Right hand reference\n- Comment made about user's right side  \n- Right side likely needs positioning or adjustment  \n\n## Next steps\n- Practice left hand starting from F  \n- Clarify exact three left-hand notes  \n- Get detailed guidance on right-hand position"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
