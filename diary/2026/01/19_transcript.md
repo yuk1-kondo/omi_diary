@@ -1504,3 +1504,128 @@ PDFを取得いただいて、オープンや社内 でコーデックスを使�
 
 ---
 
+
+
+## 📝 Morning Rush and Travel Plans With Rachel - 6f344df4-c627-4527-a95f-cfbe61cba4fe
+
+**記録時間**: 2026-01-19 16:17:50
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 1s]
+And yet, come to go.
+
+🎤 SPEAKER_1 [7s - 8s]
+All these colors are it's just normal.
+
+🎤 SPEAKER_2 [30s - 35s]
+Store route. That must be the wine route. We actually very careful if we go.
+
+👤 あなた [35s - 38s]
+Not gonna go away, mate. I mean, that's what Stefan said.
+
+🎤 SPEAKER_2 [39s - 49s]
+Steven Jerry. Yeah. But you don't have to drink it. So I'm drinking a wine farms. And fresh Sierra after. Whatever. You're like, oh, you're supposed to sip it. You're supposed to sip it and spit it out.
+
+🎤 SPEAKER_2 [52s - 55s]
+But just so you will need to be very careful. Blimey.
+
+👤 あなた [58s - 60s]
+That didn't sound good.
+
+🎤 SPEAKER_2 [60s - 61s]
+No, I haven't actually eat enough.
+
+👤 あなた [67s - 77s]
+It didn't taste good. God blime me. We got so much going on, Omi. Cape Town then. San Tropez. Meanwhile, dissertation and finishing off your knees all kicking off this first half for you, isn't it?
+
+🎤 SPEAKER_1 [77s - 78s]
+Yeah.
+
+🎤 SPEAKER_2 [78s - 78s]
+You need two
+
+🎤 SPEAKER_1 [78s - 86s]
+left by now. Elliot? He's going. One it's nineteen past. And it has been for a while.
+
+👤 あなた [88s - 90s]
+It takes one minute per shoe.
+
+🎤 SPEAKER_1 [90s - 91s]
+Who can't? Previous cube out of your fire glasses.
+
+👤 あなた [101s - 106s]
+You're gonna get back into using your C salt that you got for Christmas.
+
+👤 あなた [113s - 122s]
+Well done, I hit. That was correct for you. The shoes come? Oh, I just did. We're chasing Freddie. Hippipuri. Hippipuri.
+
+🎤 SPEAKER_1 [123s - 123s]
+Ow.
+
+👤 あなた [123s - 124s]
+Really?
+
+👤 あなた [131s - 132s]
+as any comes out.
+
+🎤 SPEAKER_1 [146s - 147s]
+From
+
+🎤 SPEAKER_1 [150s - 153s]
+Matches. Matches.
+
+👤 あなた [154s - 160s]
+If you said if you said nachos. And you don't get something to do with that. Oh,
+
+👤 あなた [166s - 168s]
+Must stay. Thanks. You ready?
+
+🎤 SPEAKER_1 [186s - 191s]
+Not again. We're ready. Be there.
+
+👤 あなた [191s - 192s]
+Well, you're fault.
+
+🎤 SPEAKER_1 [208s - 209s]
+Come down, say, so you're gonna be late.
+
+👤 あなた [209s - 212s]
+Yeah. You're gonna be there. I'm not gonna be late.
+
+🎤 SPEAKER_1 [212s - 219s]
+No. But if I'm late, then you'll with me. That means you're
+
+🎤 SPEAKER_0 [264s - 264s]
+Ten mils an hour.
+
+👤 あなた [283s - 284s]
+That might.
+
+👤 あなた [287s - 298s]
+I did wanna get this one in it. I want to stay in bed for another hour at least. That's very bare minimum.
+
+👤 あなた [306s - 312s]
+Alright. Oh, you got to the five years of this. It's not. Well, it's because that is did it.
+
+👤 あなた [321s - 326s]
+That was like the slowest car coming out of estate. But for no reason.
+
+👤 あなた [340s - 347s]
+We can't we need to believe in you need to come on the cyst before 18 passed. Right? Can't be coming down the eighteen passed. It's too late.
+
+🎤 SPEAKER_1 [351s - 353s]
+Looks like to make breakfast then.
+
+👤 あなた [353s - 356s]
+Yeah. Still. We still need to be knocked coming down since the eighteen months.
+
+🎤 SPEAKER_1 [356s - 361s]
+But I wouldn't love if I had have a breakfast. But, usually, I have.
+
+👤 あなた [362s - 364s]
+Goodbye. Have a good day. See you later.
+
+
+---
+
