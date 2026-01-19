@@ -1,0 +1,110 @@
+{
+  "id": "9e875412-2857-4ec0-a1f3-df6585337469",
+  "created_at": "2026-01-19T15:18:50.849776+00:00",
+  "started_at": "2026-01-19T15:17:10.853351+00:00",
+  "finished_at": "2026-01-19T15:19:13.052379+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User Starts Four-Minute Timer",
+    "overview": "The user asks Alexa to set a four-minute timer, and Rachel confirms that a four-minute timer is starting immediately.",
+    "emoji": "⏱️",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "19790809-9683-48ad-aa5b-df977db43e3b",
+      "text": "Alexa, set a four minute timer.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -4.863741196459159e-07,
+      "end": 1.680399513626071,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7dddb107-cbc6-4691-ab34-fee5a0189728",
+      "text": "Four minutes.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 2.5799995136258076,
+      "end": 3.2999995136260623,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c66bcaa9-30ee-4545-b3c6-a0a568e1c91a",
+      "text": "Starting now.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "b1e95b38-66bb-4a9b-b4f2-4d98370295bb",
+      "start": 3.7299995136263533,
+      "end": 4.4503995136265075,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156942,
+    "longitude": -3.2755714,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "d96b7616-91f3-4a41-85b9-47bd2beb6cd7",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "9e875412-2857-4ec0-a1f3-df6585337469",
+      "chunk_timestamps": [
+        1768835929.002,
+        1768835934.193,
+        1768835939.913,
+        1768835945.037,
+        1768835950.815,
+        1768835955.902,
+        1768835960.936,
+        1768835966.126,
+        1768835972.102,
+        1768835977.175
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-19T15:18:49.002000+00:00",
+      "duration": 53.173
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+      "content": "The transcript shows someone asking a voice assistant (called “Alexa”) to set a four-minute timer, and “Rachel” confirming and starting that timer:\n\n- User: “Alexa, set a four minute timer.”\n- Rachel: “Four minutes. Starting now.”\n\nIf you’d like, I can help you structure this as dialogue for a script, analyze it (who’s speaking, what’s happening), or adapt it (e.g., rewrite for a different assistant name like J.A.R.V.I.S.)."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
