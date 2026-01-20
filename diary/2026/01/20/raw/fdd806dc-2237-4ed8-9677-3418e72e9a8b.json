@@ -1,0 +1,96 @@
+{
+  "id": "fdd806dc-2237-4ed8-9677-3418e72e9a8b",
+  "created_at": "2026-01-20T13:33:53.110468+00:00",
+  "started_at": "2026-01-20T13:35:24.257616+00:00",
+  "finished_at": "2026-01-20T13:35:48.679269+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "日帰り食事プランの話",
+    "overview": "話し手は、紹介している施設が日帰り利用向けであり、特に昼食を中心とした日帰り食事プランのみを提供していることを確認している。",
+    "emoji": "🍱",
+    "category": "travel",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "e29314c0-3a6c-4f71-be91-36906d9b8022",
+      "text": "日帰りっぽいばお昼ばっかりやなぁ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.7656551537802443e-07,
+      "end": 2.3999997234345756,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f759faca-19a5-4202-97b0-104c43f8dca7",
+      "text": "そうそうそう。ここは日帰りのその食事プランだけを出している。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 18.90989972343459,
+      "end": 23.229999723434503,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "5841aec9-261b-472c-838f-e442f0339f17",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "fdd806dc-2237-4ed8-9677-3418e72e9a8b",
+      "chunk_timestamps": [
+        1768916032.671,
+        1768916037.808,
+        1768916043.445,
+        1768916049.327,
+        1768916054.499,
+        1768916060.306,
+        1768916065.308,
+        1768916072.027,
+        1768916077.518,
+        1768916083.018,
+        1768916091.725,
+        1768916095.934,
+        1768916100.463,
+        1768916106.788,
+        1768916112.449
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-20T13:33:52.671000+00:00",
+      "duration": 84.778
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 日帰りプランの特徴\n- 日帰り利用が前提の場所について話している  \n- 昼ご飯中心の利用になっている  \n\n## 食事プランの内容\n- 日帰り用の食事プランのみ提供している  \n- 他の宿泊プランなどはなさそうな印象  \n\n## 次のステップ\n- 日帰り食事プランの詳細内容を確認する  \n- 必要なら予約方法や料金を調べる"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
