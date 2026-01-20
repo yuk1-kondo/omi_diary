@@ -1,0 +1,100 @@
+{
+  "id": "fd6f7dd1-49d5-47c3-a732-fcae07a7aed0",
+  "created_at": "2026-01-20T13:09:19.643328+00:00",
+  "started_at": "2026-01-20T13:10:10.307616+00:00",
+  "finished_at": "2026-01-20T13:10:13.093824+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "年間約200時間の時間外労働について言及",
+    "overview": "話者が「年間二百時間ほど時間外労働が」と述べており、年間約200時間程度の残業・時間外労働に関する話題に触れている。文脈は短く断片的だが、労働時間や残業の状況について説明・議論しようとしている場面と推測される。",
+    "emoji": "⏰",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2943d518-40b8-44de-9a96-46e7e71fc8c5",
+      "text": "年間二百時間ほど時間外労働が",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.2888184503244702e-07,
+      "end": 2.319999771118205,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "f0197d95-f0a1-4906-b5ff-f7a2ad2c13ae",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "fd6f7dd1-49d5-47c3-a732-fcae07a7aed0",
+      "chunk_timestamps": [
+        1768914558.971,
+        1768914564.094,
+        1768914569.642,
+        1768914574.874,
+        1768914581.17,
+        1768914586.557,
+        1768914591.632,
+        1768914596.688,
+        1768914601.7,
+        1768914606.829,
+        1768914612.353,
+        1768914617.448,
+        1768914622.587,
+        1768914628.871,
+        1768914634.394,
+        1768914639.654,
+        1768914646.086,
+        1768914651.348,
+        1768914657.815,
+        1768914663.343,
+        1768914668.371,
+        1768914673.441,
+        1768914678.499,
+        1768914684.548,
+        1768914689.558,
+        1768914694.729,
+        1768914699.829,
+        1768914705.215,
+        1768914710.331,
+        1768914715.563,
+        1768914721.744,
+        1768914726.854
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-20T13:09:18.971000+00:00",
+      "duration": 172.883
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 時間外労働の状況\n- 年間約200時間の時間外労働が発生  \n\n## 次のステップ\n- 時間外労働の詳細や背景を追加で整理する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
