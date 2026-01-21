@@ -1,0 +1,90 @@
+{
+  "id": "acf0b120-a88f-4dc0-8cb3-105859828765",
+  "created_at": "2026-01-21T12:22:11.791459+00:00",
+  "started_at": "2026-01-21T12:22:13.125797+00:00",
+  "finished_at": "2026-01-21T12:22:43.261798+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "授業・医療インターン・仕事の話",
+    "overview": "話し手が「授業の講師をしたり、医療インターンに行ったり、仕事をしたり」と、自身の活動内容（授業講師、医療インターン、仕事）について簡単に述べている一場面。具体的な予定や日時などは示されていない。",
+    "emoji": "📚",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "38c1a02a-d149-4683-b6bf-28d0659f2ea2",
+      "text": "授業授業のその講師やったりとか医療インターン行ったりとかお仕事",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.76837158203125e-07,
+      "end": 7.921374523162842,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "8c5d7d34-6604-4733-8eae-48843493bb8c",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "acf0b120-a88f-4dc0-8cb3-105859828765",
+      "chunk_timestamps": [
+        1768998133.478,
+        1768998144.484,
+        1768998151.351,
+        1768998158.479,
+        1768998164.74,
+        1768998175.82,
+        1768998181.653
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-21T12:22:13.478000+00:00",
+      "duration": 53.175
+    },
+    {
+      "id": "e312619a-246a-498c-b7b8-9a2b9a4d34fe",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "acf0b120-a88f-4dc0-8cb3-105859828765",
+      "chunk_timestamps": [
+        1768998226.788,
+        1768998240.281,
+        1768998256.226,
+        1768998262.621,
+        1768998267.673
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-21T12:23:46.788000+00:00",
+      "duration": 45.885
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 授業・講師活動  \n- 授業に関する講師をしている  \n- 教育系の仕事に関わっている  \n\n## 医療インターン  \n- 医療インターンに参加している  \n- 医療現場で実務経験を積んでいる  \n\n## 仕事全般  \n- 講師業と医療インターンを並行して行っている  \n\n## 次のステップ  \n- 授業内容や医療インターンの詳細を整理する  \n- 今後のキャリア方針を具体的に検討する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
