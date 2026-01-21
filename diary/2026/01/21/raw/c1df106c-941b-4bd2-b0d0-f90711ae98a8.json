@@ -1,0 +1,83 @@
+{
+  "id": "c1df106c-941b-4bd2-b0d0-f90711ae98a8",
+  "created_at": "2026-01-21T12:26:50.303563+00:00",
+  "started_at": "2026-01-21T12:23:46.868227+00:00",
+  "finished_at": "2026-01-21T12:26:50.648277+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "パパがテレビを修理する場面",
+    "overview": "発話者が「テレビの修理をするパパ」という状況を簡潔に描写しており、父親がテレビを直している様子が話題になっている。具体的な会話のやり取りや今後の予定などは示されていない。",
+    "emoji": "📺",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "fb1d9028-0796-4480-801a-5060a6cc4de9",
+      "text": "テレビの修理するパパ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 7.261374761581421,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "2ca3b26b-02d1-4e0c-94e9-00b14b0c4b05",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "c1df106c-941b-4bd2-b0d0-f90711ae98a8",
+      "chunk_timestamps": [
+        1768998404.715,
+        1768998411.119,
+        1768998419.363,
+        1768998426.226,
+        1768998434.824,
+        1768998446.303,
+        1768998458.578,
+        1768998465.35,
+        1768998471.97,
+        1768998476.742,
+        1768998483.691,
+        1768998492.384,
+        1768998504.314,
+        1768998511.976,
+        1768998518.254
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-21T12:26:44.715000+00:00",
+      "duration": 118.539
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## テレビ修理の話題\n- テレビの修理について言及  \n- 修理を行うのは「パパ」  \n- 詳細な状況や故障内容は不明  \n\n## 次のステップ\n- テレビの故障内容や状況を補足する  \n- 修理方法や費用について確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
