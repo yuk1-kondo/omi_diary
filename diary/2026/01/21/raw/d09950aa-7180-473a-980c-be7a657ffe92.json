@@ -1,0 +1,89 @@
+{
+  "id": "d09950aa-7180-473a-980c-be7a657ffe92",
+  "created_at": "2026-01-21T12:13:16.739109+00:00",
+  "started_at": "2026-01-21T12:12:10.701179+00:00",
+  "finished_at": "2026-01-21T12:15:00.959738+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "短い会話の一幕",
+    "overview": "話し手が「終わったよ待て」と発言しており、何かの作業や行為が終わったことを相手に伝え、少し待つよう促している場面が記録されている。",
+    "emoji": "⏱️",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "6853d3a7-4c73-4acb-838a-109c58ad06e1",
+      "text": "終わったよ待て",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 9.881374761581421,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "cefdd662-3c50-4c0c-9505-fef78fb9ea61",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "d09950aa-7180-473a-980c-be7a657ffe92",
+      "chunk_timestamps": [
+        1768997593.207,
+        1768997598.428,
+        1768997603.441,
+        1768997608.682,
+        1768997613.71,
+        1768997619.481,
+        1768997624.637,
+        1768997630.561,
+        1768997635.707,
+        1768997640.9,
+        1768997645.899,
+        1768997650.99,
+        1768997656.104,
+        1768997661.124,
+        1768997667.091,
+        1768997672.307,
+        1768997677.315,
+        1768997682.294,
+        1768997687.444,
+        1768997693.382,
+        1768997698.5
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-21T12:13:13.207000+00:00",
+      "duration": 110.293
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話内容\n- 「終わったよ待て」という一言のみ  \n- 文脈や対象は不明  \n\n## 次のステップ\n- 追加の会話文や情報があれば共有する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
