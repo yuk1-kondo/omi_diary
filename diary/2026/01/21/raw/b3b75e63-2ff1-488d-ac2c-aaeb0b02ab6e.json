@@ -1,0 +1,90 @@
+{
+  "id": "b3b75e63-2ff1-488d-ac2c-aaeb0b02ab6e",
+  "created_at": "2026-01-21T05:55:56.648274+00:00",
+  "started_at": "2026-01-21T03:36:55.245615+00:00",
+  "finished_at": "2026-01-21T05:57:25.102105+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "エレベーターの2階到着アナウンス",
+    "overview": "エレベーター内で、「2階です ドア開き」という自動音声アナウンスが流れ、2階に到着してドアが開く場面が記録されている。会話や追加のコンテキストはなく、移動中の一瞬の音声のみが含まれている。",
+    "emoji": "🛗",
+    "category": "real",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "c2a45de5-09bb-44ba-8df7-d6286581711d",
+      "text": "2階ですドア開き",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.0108965398103464e-07,
+      "end": 9.941375101089648,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "d00492a6-7161-434c-bdd9-bcf7b2f2c8bd",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "b3b75e63-2ff1-488d-ac2c-aaeb0b02ab6e",
+      "chunk_timestamps": [
+        1768974955.79,
+        1768974960.754
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-21T05:55:55.790000+00:00",
+      "duration": 9.964
+    },
+    {
+      "id": "6be3584d-1407-49ba-adc8-e29893be3cc7",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "b3b75e63-2ff1-488d-ac2c-aaeb0b02ab6e",
+      "chunk_timestamps": [
+        1768975045.034,
+        1768975050.289,
+        1768975056.26,
+        1768975061.26,
+        1768975066.358,
+        1768975075.88,
+        1768975081.053,
+        1768975086.079,
+        1768975091.187,
+        1768975096.127
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-21T05:57:25.034000+00:00",
+      "duration": 56.093
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## エレベーター案内\n- 2階に到着したアナウンス\n- ドアが開くことを知らせている"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
