@@ -1,0 +1,99 @@
+{
+  "id": "5400c022-ddd5-439b-8454-35c1ea975e24",
+  "created_at": "2026-01-22T08:36:07.022645+00:00",
+  "started_at": "2026-01-22T08:33:42.709006+00:00",
+  "finished_at": "2026-01-22T08:36:52.828087+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "依頼内容に関する一言メモ",
+    "overview": "「お願いしたこと」という一言だけが記録されており、依頼内容や誰に対するものかといった具体的な文脈は不明。会話の全体像やタスクの詳細は読み取れない。",
+    "emoji": "📝",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "eb2625db-1426-4caf-82ee-d279a0252a2e",
+      "text": "お願いしたこと",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.5858154490142624e-07,
+      "end": 9.981374641418455,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a1f0d68e-2cd5-4ede-9b62-4fb53be6237f",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "5400c022-ddd5-439b-8454-35c1ea975e24",
+      "chunk_timestamps": [
+        1769070958.892,
+        1769070967.915,
+        1769070973.101,
+        1769070978.188,
+        1769070983.142,
+        1769070990.988,
+        1769070996.195,
+        1769071001.395,
+        1769071006.535,
+        1769071012.382,
+        1769071017.629,
+        1769071022.58,
+        1769071027.725,
+        1769071032.906,
+        1769071038.133,
+        1769071043.161,
+        1769071048.303,
+        1769071053.401,
+        1769071058.414,
+        1769071063.462,
+        1769071068.638,
+        1769071074.758,
+        1769071079.786,
+        1769071084.942,
+        1769071089.96,
+        1769071094.978,
+        1769071099.98,
+        1769071106.189,
+        1769071111.403,
+        1769071116.569,
+        1769071121.7
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-22T08:35:58.892000+00:00",
+      "duration": 167.808
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 要望の内容\n- 依頼されたことについての発言のみ\n- 具体的な内容や詳細は示されていない\n\n## 次のステップ\n- 依頼内容を具体的に説明してもらう必要あり"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
