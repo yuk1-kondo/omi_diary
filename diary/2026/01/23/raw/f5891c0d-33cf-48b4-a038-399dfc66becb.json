@@ -1,0 +1,102 @@
+{
+  "id": "f5891c0d-33cf-48b4-a038-399dfc66becb",
+  "created_at": "2026-01-22T23:38:04.153227+00:00",
+  "started_at": "2026-01-22T23:27:39.636494+00:00",
+  "finished_at": "2026-01-22T23:38:58.985560+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "食事内容のメモ：もずく納豆玄米",
+    "overview": "話者が「もずく・納豆・玄米」という食事内容を簡単に口頭メモしている場面。具体的な予定や行動計画には言及されていない。",
+    "emoji": "🥗",
+    "category": "health",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "c25065a6-c066-4346-aac8-6cd1d09de6fe",
+      "text": "けど食事 もずく納豆玄米 7",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.166198752069249e-07,
+      "end": 30.024124683380123,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "ab524ab4-1f55-4628-914b-1275518a85e5",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "f5891c0d-33cf-48b4-a038-399dfc66becb",
+      "chunk_timestamps": [
+        1769125081.35,
+        1769125087.114,
+        1769125092.095,
+        1769125097.158,
+        1769125102.129,
+        1769125107.165,
+        1769125112.237,
+        1769125118.184,
+        1769125123.32,
+        1769125128.315,
+        1769125133.314,
+        1769125138.344,
+        1769125143.393,
+        1769125148.451,
+        1769125153.777,
+        1769125158.819,
+        1769125163.935,
+        1769125168.926,
+        1769125174.894,
+        1769125180.084,
+        1769125185.195,
+        1769125191.186,
+        1769125196.297,
+        1769125201.575,
+        1769125206.746,
+        1769125212.666,
+        1769125217.781,
+        1769125222.883,
+        1769125227.899,
+        1769125232.885,
+        1769125238.616,
+        1769125243.698,
+        1769125248.724,
+        1769125254.288
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-22T23:38:01.350000+00:00",
+      "duration": 177.938
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 食事内容\n- もずくを食べている\n- 納豆を食べている\n- 主食は玄米\n\n## 量・数値\n- 「7」という数値が出ている\n- 量か回数かなど詳細は不明\n\n## 次のステップ\n- 「7」の意味を確認する\n- 食事の目的や状況を追加で整理する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
