@@ -1,0 +1,99 @@
+{
+  "id": "0a0eea77-03db-4fbc-a12c-ef9fb8284938",
+  "created_at": "2026-01-23T13:27:07.606013+00:00",
+  "started_at": "2026-01-23T12:04:53.096416+00:00",
+  "finished_at": "2026-01-23T13:27:54.336621+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "難波での飲食店を話題にした雑談",
+    "overview": "話し手が相手に「大好きだよ」と好意を伝えつつ、難波でおいしい店を探したときによく出てくる「そのまんま」という店について話している。まだ行ったことはないが、一度行ってみたいという文脈の雑談であり、具体的な日程や約束は出ていない。",
+    "emoji": "🍽️",
+    "category": "romantic",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "77fb1925-d563-4ee4-bd1e-b6588df6599c",
+      "text": "大好きだよ 難波でおいしいとこないか調べたときによく出てくるそのまんまって所行ったことないよでもなんか1回言って",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.204345944141096e-07,
+      "end": 20.042750320434607,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "58a6d943-dd0e-441b-a9be-ebfcb5d7c117",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "0a0eea77-03db-4fbc-a12c-ef9fb8284938",
+      "chunk_timestamps": [
+        1769174826.353,
+        1769174831.401,
+        1769174836.715,
+        1769174842.045,
+        1769174848.259,
+        1769174853.327,
+        1769174859.364,
+        1769174865.425,
+        1769174870.394,
+        1769174875.559,
+        1769174881.614,
+        1769174886.832,
+        1769174892.078,
+        1769174897.293,
+        1769174902.356,
+        1769174907.767,
+        1769174912.936,
+        1769174917.92,
+        1769174922.954,
+        1769174928.121,
+        1769174934.074,
+        1769174940.222,
+        1769174945.319,
+        1769174950.477,
+        1769174955.661,
+        1769174960.682,
+        1769174968.08,
+        1769174973.226,
+        1769174978.374,
+        1769174983.394,
+        1769174988.355
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-23T13:27:06.353000+00:00",
+      "duration": 167.002
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 難波の飲食店の話題\n- 難波でおいしい店を検索した  \n- 「そのまんま」という店がよく出てくる  \n- その店にはまだ行ったことがない  \n\n## 次の行動・予定\n- 「そのまんま」に一度行ってみたい"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
