@@ -1,0 +1,198 @@
+{
+  "id": "b2d73aa7-73ad-4cfd-a0d3-531b76754a19",
+  "created_at": "2026-01-24T17:18:13.781128+00:00",
+  "started_at": "2026-01-24T17:19:26.420215+00:00",
+  "finished_at": "2026-01-24T17:23:00.006870+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User Shares Spiritual Exhortation Reflections",
+    "overview": "The user appears to be delivering or reflecting on a Christian exhortation or sermon, emphasizing that God’s word is living and should be more than head knowledge. They describe this message as a passionate plea placed on their heart in October and reference a previous part given last week. The user also mentions a humorous sign of aging, talking about seeing Jupiter and its moons, and briefly describes a storm that damaged an already-weak fence.",
+    "emoji": "🙏",
+    "category": "spiritual",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "85b0b627-1800-4e7b-a9c8-4a99c0f1bebf",
+      "text": "Thank you for your word, your living word that is alive from yourself.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.098086042678915e-07,
+      "end": 3.84000020980875,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e4e90c80-4fed-4fc2-8d77-3e860a9d1379",
+      "text": "That it not just be had knowledge, call kind of preach from the word of God. Today is an an exhortation like a a passionate plea, something that God put on my heart in October.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 8.050000209808786,
+      "end": 16.52000020980813,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b460e545-cfbf-407b-b1bd-8b452cab0103",
+      "text": "And so part one last week, this is",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 17.28000020980835,
+      "end": 19.519700209808434,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "879daee2-a569-4c88-8407-3372db98f5ed",
+      "text": "First of all, a sign of aging What are they, Lily? I I told you all about my helicoid in my name. I I see Jupiter last Tuesday night, which three of the three of the the moons with no rest.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 60.92000020980868,
+      "end": 70.72000020980795,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "6dce856c-07d1-4c2c-8775-d1d8e7f96fa3",
+      "text": "Who asked Peterson, the storm came and blew the the fence down, and the fence was looking sad already.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 73.29000020980857,
+      "end": 78.37030020980819,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156971,
+    "longitude": -3.2755674,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "19e9ef4a-1aab-46d1-b0f7-ec31dade9f98",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "b2d73aa7-73ad-4cfd-a0d3-531b76754a19",
+      "chunk_timestamps": [
+        1769275092.925,
+        1769275099.48,
+        1769275104.433,
+        1769275110.403,
+        1769275116.484,
+        1769275122.095,
+        1769275127.362,
+        1769275132.078,
+        1769275138.504,
+        1769275144.02,
+        1769275153.198,
+        1769275159.039,
+        1769275164.265,
+        1769275169.214,
+        1769275174.282,
+        1769275180.711,
+        1769275186.624,
+        1769275192.632,
+        1769275202.602,
+        1769275209.595,
+        1769275215.415,
+        1769275221.061,
+        1769275226.801,
+        1769275231.755,
+        1769275239.67,
+        1769275246.232,
+        1769275255.101,
+        1769275270.338
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-24T17:18:12.925000+00:00",
+      "duration": 182.413
+    },
+    {
+      "id": "3e9c726b-693a-42ec-b4d4-b46b6e5ee086",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "b2d73aa7-73ad-4cfd-a0d3-531b76754a19",
+      "chunk_timestamps": [
+        1769275323.697
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-24T17:22:03.697000+00:00",
+      "duration": 5.0
+    },
+    {
+      "id": "f36aeb4c-76d2-4a5b-a126-7f22b74565d0",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "b2d73aa7-73ad-4cfd-a0d3-531b76754a19",
+      "chunk_timestamps": [
+        1769275382.575,
+        1769275387.564,
+        1769275392.57,
+        1769275397.601,
+        1769275402.653,
+        1769275407.604,
+        1769275412.652,
+        1769275418.094,
+        1769275423.113,
+        1769275429.102,
+        1769275434.18,
+        1769275439.72,
+        1769275445.165,
+        1769275450.232,
+        1769275455.242,
+        1769275461.067,
+        1769275466.133,
+        1769275471.154,
+        1769275476.185,
+        1769275481.191,
+        1769275486.308,
+        1769275493.872
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-24T17:23:02.575000+00:00",
+      "duration": 116.297
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Opening context  \n- Focus on God's living, active word  \n- Message is exhortation, not just head knowledge  \n- Theme placed on heart since October  \n\n## Message description  \n- Part one of message was last week  \n- Today continues same passionate plea  \n- Emphasis on heartfelt spiritual response  \n\n## Personal/illustrative remarks  \n- Mentions sign of aging humorously  \n- Describes seeing Jupiter and three moons  \n- Notes storm blowing down already-weak fence  \n\n## Next steps  \n- Reflect beyond head knowledge to heart response  \n- Recall part one to connect full exhortation"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
