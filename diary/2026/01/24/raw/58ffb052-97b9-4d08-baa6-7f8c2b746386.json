@@ -1,0 +1,99 @@
+{
+  "id": "58ffb052-97b9-4d08-baa6-7f8c2b746386",
+  "created_at": "2026-01-24T02:43:18.542684+00:00",
+  "started_at": "2026-01-24T02:02:44.107582+00:00",
+  "finished_at": "2026-01-24T02:44:15.511856+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "ジェネレーティブAIスキルアップ特典と音楽再生",
+    "overview": "話し手が「ジェネレーティブAIスキルアップの特典」が送られてくることに触れつつ、音楽をかけるよう指示している短い発話。特典の内容やスケジュールなどの詳細は示されていない。",
+    "emoji": "🎧",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "90da20ba-09e9-469e-81c4-af48a2992d44",
+      "text": "オッケ ジェネリティブAIスキルアップの特典が送られてくるね 音楽かけて",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -5.111694321158211e-07,
+      "end": 30.024124488830566,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "b950425c-e5a4-4803-b94e-07b3ff20afec",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "58ffb052-97b9-4d08-baa6-7f8c2b746386",
+      "chunk_timestamps": [
+        1769222595.685,
+        1769222601.625,
+        1769222606.75,
+        1769222611.902,
+        1769222618.495,
+        1769222624.906,
+        1769222630.015,
+        1769222637.745,
+        1769222642.933,
+        1769222648.066,
+        1769222654.426,
+        1769222659.754,
+        1769222666.018,
+        1769222671.204,
+        1769222676.286,
+        1769222682.457,
+        1769222687.453,
+        1769222694.626,
+        1769222699.565,
+        1769222705.886,
+        1769222711.29,
+        1769222716.419,
+        1769222722.428,
+        1769222727.432,
+        1769222732.632,
+        1769222738.088,
+        1769222743.317,
+        1769222749.412,
+        1769222756.962,
+        1769222762.018,
+        1769222768.054
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-24T02:43:15.685000+00:00",
+      "duration": 177.369
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## ジェネレーティブAIスキルアップ特典\n- 特典が送られてくる予定  \n- 内容はジェネレーティブAIスキル向上系  \n\n## 音楽再生の依頼\n- 音楽をかけてほしいと依頼あり  \n\n## Next steps\n- 特典の受信・内容確認  \n- 音楽再生環境の準備または実行"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
