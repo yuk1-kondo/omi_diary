@@ -311,3 +311,224 @@ Now, well, feel free to send it through to me, and I'll
 
 ---
 
+
+
+## 📝 Family Prepares For Trip And Sermon Work - e1b292f9-859e-4cae-b34f-315680432823
+
+**記録時間**: 2026-01-25 01:16:58
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+How many do you need printed, Rach?
+
+👤 あなた [9s - 10s]
+How many did you print it?
+
+🎤 SPEAKER_3 [10s - 13s]
+Just do one, and then I have to photocopy them when you did.
+
+🎤 SPEAKER_1 [15s - 15s]
+Yeah.
+
+🎤 SPEAKER_3 [18s - 24s]
+That one might need to be shrunk a little bit. It doesn't really matter. I don't mind if there's two on a page or something. It's just
+
+🎤 SPEAKER_1 [28s - 29s]
+No, babe.
+
+👤 あなた [32s - 33s]
+What's going on, my sweet?
+
+🎤 SPEAKER_3 [48s - 51s]
+But then I have all the things that I need to do, like, there's
+
+👤 あなた [55s - 60s]
+That's an a four page. Is that right? Not that big?
+
+🎤 SPEAKER_3 [68s - 69s]
+And six of them.
+
+👤 あなた [71s - 71s]
+Altice.
+
+👤 あなた [79s - 80s]
+Can we help you, babe?
+
+🎤 SPEAKER_3 [94s - 96s]
+That you ever need it in future, that Greg's is actually a good option.
+
+👤 あなた [97s - 98s]
+Yeah. Yeah. It's the sinking out. Yeah.
+
+🎤 SPEAKER_3 [100s - 102s]
+It was m and it was warm, and there was loads of seating in there.
+
+👤 あなた [104s - 105s]
+It seemed like a it seemed like a sign of choice.
+
+🎤 SPEAKER_3 [105s - 107s]
+So if we ever need to do that, we think it'll Yeah.
+
+👤 あなた [108s - 111s]
+Get there, but than the abdominal. That's better.
+
+🎤 SPEAKER_3 [112s - 114s]
+Because, like, you didn't you don't always need a drink.
+
+👤 あなた [115s - 115s]
+Like No.
+
+🎤 SPEAKER_3 [116s - 119s]
+You know, had had a coffee in the end because I always I was gonna have to get one in.
+
+👤 あなた [119s - 123s]
+You're probably wet and cold and miserable and that that rain that we had.
+
+🎤 SPEAKER_3 [123s - 132s]
+I'll tell you what, that grades was grades actually because it dude, that Greg's warmed us up, didn't it? Sitting in the cafe, it just warmed us up for a a little bit.
+
+👤 あなた [132s - 132s]
+Yeah. Well done.
+
+👤 あなた [136s - 137s]
+Don't throw me with a good time, babe.
+
+🎤 SPEAKER_4 [139s - 139s]
+Okay.
+
+🎤 SPEAKER_1 [173s - 173s]
+Jade.
+
+🎤 SPEAKER_3 [175s - 186s]
+You wanna get I've got some for you. I don't know how big they're gonna be. That's the top like that.
+
+🎤 SPEAKER_1 [189s - 191s]
+K?
+
+🎤 SPEAKER_3 [191s - 194s]
+And then nice big long shorts. Cozy ones.
+
+🎤 SPEAKER_1 [196s - 197s]
+Yeah?
+
+🎤 SPEAKER_3 [198s - 203s]
+You'll try a pair. Have you got anything on the moment? I'm just trying to short and quickly.
+
+🎤 SPEAKER_6 [207s - 210s]
+I don't wanna try I can try them out, but You didn't even try one.
+
+🎤 SPEAKER_1 [210s - 211s]
+Put them on now.
+
+🎤 SPEAKER_3 [211s - 214s]
+Wash downstairs, or is your pants gonna be out? Do you got the little bit shy?
+
+🎤 SPEAKER_6 [215s - 215s]
+Can do.
+
+👤 あなた [217s - 220s]
+I mean, is nothing more fun for boys about trying on clothes?
+
+🎤 SPEAKER_3 [221s - 221s]
+Unfortunately?
+
+👤 あなた [228s - 229s]
+They need it. They need it.
+
+🎤 SPEAKER_3 [230s - 232s]
+But they're not also 12 to 13, which For well, at it.
+
+👤 あなた [232s - 235s]
+At it. At it. Twelve thirteen.
+
+👤 あなた [238s - 247s]
+He told me on the way back from football that he's taller than Locky now. He's overtaking Locky. Doesn't believe he's looking tall as in gold. He look like a little legit gold keeper.
+
+👤 あなた [249s - 251s]
+Actually, because he's got actually got big hands as well.
+
+🎤 SPEAKER_3 [251s - 252s]
+At all.
+
+👤 あなた [252s - 257s]
+His hand size are nearly bigger than mine here. Though. It's just not that impressive, but obviously for 10 year old.
+
+🎤 SPEAKER_3 [257s - 259s]
+Omi, you've got really small hands.
+
+👤 あなた [259s - 260s]
+I know I have.
+
+🎤 SPEAKER_3 [260s - 262s]
+And Ely also unfortunately for Elliot.
+
+👤 あなた [262s - 265s]
+Not small. No. They are small. What I mean is?
+
+🎤 SPEAKER_1 [265s - 265s]
+Are small.
+
+🎤 SPEAKER_3 [266s - 270s]
+It's okay. It matter for having small hands, but they ask for no. Not a problem, honey.
+
+🎤 SPEAKER_3 [274s - 275s]
+Thanks.
+
+👤 あなた [319s - 322s]
+We are burly in one cup of
+
+👤 あなた [363s - 364s]
+Oh, it's okay.
+
+🎤 SPEAKER_3 [364s - 367s]
+I thought Orease is gonna be going, and then there was no movement. So thank you.
+
+👤 あなた [367s - 368s]
+I've had friends on.
+
+🎤 SPEAKER_3 [368s - 378s]
+Granddog stairs. Oh. I went, oh, fat. He said, oh. That was a nice nice greeting. I said, oh, we've been out all day. I was wondering, I thought we might miss it.
+
+🎤 SPEAKER_5 [378s - 380s]
+Yeah. Well done.
+
+👤 あなた [381s - 382s]
+What you're gonna do here then?
+
+👤 あなた [389s - 389s]
+I'll put up and have a look.
+
+👤 あなた [400s - 404s]
+I'm I'm doing my sermon, actually. I'm not doing anything fun, unfortunately.
+
+👤 あなた [412s - 416s]
+K. It was the The adapter. Let's just try it. Just quick.
+
+👤 あなた [426s - 427s]
+Money, sissors.
+
+👤 あなた [441s - 448s]
+Yeah. Well done. Well done, miss. Yeah. Mhmm. Could do it a pair of those myself.
+
+🎤 SPEAKER_3 [450s - 454s]
+These look at these things out, Cobra, with four pounds these Some of the ones that are not those ones that are like the thin plasticy ones.
+
+🎤 SPEAKER_3 [454s - 461s]
+They were really cheap, weren't they? Need to I I I Right. I Yeah. I need your help.
+
+👤 あなた [461s - 463s]
+For know. Right.
+
+🎤 SPEAKER_5 [463s - 463s]
+For the walk?
+
+🎤 SPEAKER_3 [463s - 469s]
+I want to make sure that we have the right head headphones for the plane and everything. No. Okay. That's fine.
+
+👤 あなた [470s - 485s]
+Can. I just I just got so many things in my mind at a minute, Rachel. I'm panicked I'm not gonna be able to send anything through to poor Monday because I'm not even started writing it. I just have to say to him, look, Paul. Sorry, man. I just haven't been able to isn't my suggested deadline anyway? It's not like he's imposed it.
+
+
+---
+
