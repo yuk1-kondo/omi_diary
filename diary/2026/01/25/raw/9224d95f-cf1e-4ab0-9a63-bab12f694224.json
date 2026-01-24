@@ -1,0 +1,157 @@
+{
+  "id": "9224d95f-cf1e-4ab0-9a63-bab12f694224",
+  "created_at": "2026-01-24T17:31:06.293900+00:00",
+  "started_at": "2026-01-24T17:29:11.550215+00:00",
+  "finished_at": "2026-01-24T17:31:35.304051+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Family Prepares Dinner Together",
+    "overview": "During a casual kitchen conversation, someone notes that the chicken has finished cooking faster than expected, in about an hour and a half. The user responds that they will come and prepare the potatoes shortly, coordinating the final steps of getting the meal ready.",
+    "emoji": "🍗",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "d29808a0-b650-41a2-b622-00c26c0a1683",
+      "text": "The chicken is actually cooked just so you know.",
+      "speaker": "SPEAKER_6",
+      "speaker_id": 6,
+      "is_user": false,
+      "person_id": null,
+      "start": 9.536779543850571e-08,
+      "end": 2.0000000953677954,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "0eb23c52-7387-4275-bbc8-e0eb7d612c98",
+      "text": "Oh.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.3900000953672134,
+      "end": 3.3497000953675524,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "15511207-7276-4a0a-8a68-68de9182752e",
+      "text": "Right. That was a bit quicker than we thought, wasn't it?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 4.950300095367311,
+      "end": 6.710000095367832,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "6f3d2a39-c250-49e2-83aa-151a2f053045",
+      "text": "That was hour and a half.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 7.2000000953676135,
+      "end": 7.760000095367104,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f3d91b83-393d-473a-8a97-ce5551a92a3a",
+      "text": "Right. I'm I'm gonna come and do the potatoes now. Just wait two moments.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 7.760000095367104,
+      "end": 10.400000095367432,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156971,
+    "longitude": -3.2755674,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "f0d28b73-378d-44d9-87d9-f665733e1f38",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "9224d95f-cf1e-4ab0-9a63-bab12f694224",
+      "chunk_timestamps": [
+        1769275862.079,
+        1769275867.088,
+        1769275872.099,
+        1769275877.158,
+        1769275882.193,
+        1769275887.549,
+        1769275892.675,
+        1769275897.687,
+        1769275902.768,
+        1769275907.727,
+        1769275912.776,
+        1769275917.788,
+        1769275922.776,
+        1769275927.987,
+        1769275933.028,
+        1769275938.039,
+        1769275943.077,
+        1769275948.081,
+        1769275953.284,
+        1769275958.281,
+        1769275963.362,
+        1769275968.368,
+        1769275973.38,
+        1769275978.489,
+        1769275983.486,
+        1769275988.468,
+        1769275993.536,
+        1769275998.607,
+        1769276004.926,
+        1769276009.918
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-24T17:31:02.079000+00:00",
+      "duration": 152.839
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Meal timing\n- Chicken finished cooking earlier than expected  \n- Total cooking time mentioned as 1.5 hours  \n\n## Immediate actions\n- User plans to prepare potatoes next  \n- User asks others to wait a few moments  \n\n## Next steps\n- Start cooking or serving the potatoes  \n- Coordinate serving time with cooked chicken"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
