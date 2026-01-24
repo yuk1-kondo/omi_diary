@@ -762,3 +762,29 @@ Ross and ear. What's happened now?
 
 ---
 
+
+
+## 📝 User Shares Spiritual Exhortation Reflections - b2d73aa7-73ad-4cfd-a0d3-531b76754a19
+
+**記録時間**: 2026-01-25 02:18:13
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 3s]
+Thank you for your word, your living word that is alive from yourself.
+
+👤 あなた [8s - 16s]
+That it not just be had knowledge, call kind of preach from the word of God. Today is an an exhortation like a a passionate plea, something that God put on my heart in October.
+
+👤 あなた [17s - 19s]
+And so part one last week, this is
+
+👤 あなた [60s - 70s]
+First of all, a sign of aging What are they, Lily? I I told you all about my helicoid in my name. I I see Jupiter last Tuesday night, which three of the three of the the moons with no rest.
+
+👤 あなた [73s - 78s]
+Who asked Peterson, the storm came and blew the the fence down, and the fence was looking sad already.
+
+
+---
+
