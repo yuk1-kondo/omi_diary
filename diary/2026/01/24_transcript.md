@@ -2308,3 +2308,356 @@ Chips.
 
 ---
 
+
+
+## 📝 Friends Watch Football Match And Chat - f60fc2f6-af6f-428f-a49f-d61d36923a10
+
+**記録時間**: 2026-01-24 21:29:57
+
+### STT生テキスト
+
+🎤 SPEAKER_6 [0s - 2s]
+What? Okay.
+
+🎤 SPEAKER_6 [34s - 35s]
+Hi. Yeah.
+
+👤 あなた [35s - 38s]
+Hi. The chips are not ready. To go. They are.
+
+🎤 SPEAKER_5 [38s - 38s]
+They're just a bit of a queue.
+
+👤 あなた [40s - 42s]
+It's been like two minutes that one on the top there? That is a chicken burger.
+
+🎤 SPEAKER_6 [42s - 44s]
+Yeah. Or that's a waffle.
+
+👤 あなた [45s - 51s]
+I'll have a chicken burger, please. Yep. And a povero, please. Okay. Thank you.
+
+🎤 SPEAKER_7 [58s - 59s]
+Yeah.
+
+🎤 SPEAKER_6 [59s - 61s]
+It's chipset. Yeah. That's fine.
+
+👤 あなた [61s - 63s]
+That's alright. I was just whatever's ready basically is fine.
+
+🎤 SPEAKER_7 [67s - 67s]
+Do you have any allergy?
+
+🎤 SPEAKER_6 [75s - 79s]
+Great. Thank you. Thank you very much.
+
+🎤 SPEAKER_6 [94s - 94s]
+Hi.
+
+👤 あなた [119s - 119s]
+Sorry, guys.
+
+🎤 SPEAKER_6 [123s - 129s]
+Sorry, fellas. Cheers. Guys. Sorry, mate.
+
+👤 あなた [141s - 144s]
+Just to bash my knees on. So that's fine.
+
+🎤 SPEAKER_6 [172s - 180s]
+Allow me. It's stopped before we're gonna see. And he got sick and Go after a bit of a ropey savvy.
+
+🎤 SPEAKER_6 [202s - 208s]
+Oh, fuck you. Oh, watch this City sausage. What'd you do that for?
+
+👤 あなた [212s - 217s]
+Didn't really think that food, did you? Last wasted off my drink. Thank you very much. It's an excellent accent.
+
+🎤 SPEAKER_6 [221s - 225s]
+You're joking? I'm so I got I'm not even gonna do this sip yet.
+
+🎤 SPEAKER_6 [238s - 246s]
+Yeah. Oh, the cancer. That's great. Wow. You gotta stand up? You have sunshine. I can't believe. I look. Have a look. Have a
+
+🎤 SPEAKER_6 [267s - 270s]
+So just that. It's What I
+
+🎤 SPEAKER_6 [282s - 282s]
+I spent so many
+
+🎤 SPEAKER_6 [288s - 295s]
+Well, they've got a good start. They're not air to play. They're still in Birmingham, know it's water league. It's it's fresh.
+
+🎤 SPEAKER_6 [302s - 310s]
+You oh, well done, Tana. You gonna release it? Well done. Good, Matt. That makes sense. Give oh, well done, Joe.
+
+🎤 SPEAKER_2 [312s - 312s]
+That's better.
+
+🎤 SPEAKER_6 [349s - 350s]
+Hello, ref.
+
+🎤 SPEAKER_6 [365s - 366s]
+Oh, lovely. Oh.
+
+🎤 SPEAKER_5 [368s - 369s]
+Oh, no.
+
+🎤 SPEAKER_6 [369s - 371s]
+Inside as well. That was lovely, that was.
+
+🎤 SPEAKER_6 [394s - 396s]
+Crunch. Oh, oh, oh, but I have get it.
+
+🎤 SPEAKER_4 [397s - 400s]
+You said, Jerry, no.
+
+🎤 SPEAKER_6 [411s - 412s]
+I'm sorry. That one.
+
+🎤 SPEAKER_6 [418s - 419s]
+Yep.
+
+🎤 SPEAKER_3 [419s - 421s]
+It's all Oh, I'm soaked.
+
+🎤 SPEAKER_6 [437s - 444s]
+It's celebrating in front of my house. Yeah. They could seem soft, but I knew they were gonna be good.
+
+🎤 SPEAKER_6 [467s - 470s]
+We've got two I I think two of our worst vendors
+
+🎤 SPEAKER_6 [474s - 480s]
+Send it back. Two are our two worst center backs, obviously. Certainly well, rupee.
+
+🎤 SPEAKER_6 [506s - 507s]
+Good grape man.
+
+🎤 SPEAKER_6 [527s - 535s]
+We've got fish and all on the bench, and these two guys are a bit more risky. Personally. Fish on the bench.
+
+🎤 SPEAKER_6 [614s - 618s]
+Hello? I'm sitting. We don't meet the house. Alright.
+
+🎤 SPEAKER_6 [639s - 641s]
+Such I'm not That's have we given am I giving Phil a lift home then at the end or no?
+
+🎤 SPEAKER_2 [641s - 644s]
+I think Phil appreciate going with me.
+
+🎤 SPEAKER_8 [644s - 645s]
+Okay.
+
+👤 あなた [647s - 648s]
+So does he know he has leave early Or was he gonna be stuck their hours?
+
+🎤 SPEAKER_2 [648s - 652s]
+I'm stuck really by the exit, so I'm not gonna Well, okay.
+
+🎤 SPEAKER_4 [653s - 654s]
+I got picked tanks when I was.
+
+🎤 SPEAKER_2 [669s - 673s]
+Oh, Now the another referee closes sigh of green.
+
+🎤 SPEAKER_6 [673s - 675s]
+Oh, Salah came in with that back then?
+
+🎤 SPEAKER_6 [681s - 684s]
+So Yeah. So like in a little bit of a extra you know, payback.
+
+🎤 SPEAKER_2 [687s - 689s]
+Yeah. But the first one was a ref's policy.
+
+🎤 SPEAKER_6 [690s - 694s]
+Yeah. Ref and just have a word with them. So we have a of a battle between those two.
+
+🎤 SPEAKER_2 [694s - 696s]
+We have a three kept for the first
+
+🎤 SPEAKER_8 [696s - 697s]
+That wouldn't have been a problem.
+
+🎤 SPEAKER_4 [730s - 730s]
+Any it's kinda
+
+🎤 SPEAKER_8 [756s - 757s]
+How well done?
+
+🎤 SPEAKER_3 [798s - 798s]
+Yeah.
+
+🎤 SPEAKER_6 [842s - 844s]
+It's so trichever over to Amazon.
+
+🎤 SPEAKER_8 [877s - 878s]
+Hey.
+
+🎤 SPEAKER_6 [904s - 906s]
+So far, Beacon, and then he stops and goes No.
+
+🎤 SPEAKER_2 [906s - 909s]
+I don't have any confidence that Beacon can set for.
+
+👤 あなた [911s - 912s]
+He's looking for runs or whatever. I know.
+
+🎤 SPEAKER_6 [916s - 921s]
+But Hold on, Tyler. Well, that's a red. That's a pen. Oh, well, fair play.
+
+🎤 SPEAKER_2 [923s - 925s]
+That was good to finish They should've got it across. Yeah. Only way for two more. No.
+
+🎤 SPEAKER_8 [930s - 931s]
+Go on, man.
+
+🎤 SPEAKER_6 [934s - 937s]
+Are you good? Keep going, mate. Don't chicken out.
+
+🎤 SPEAKER_6 [944s - 949s]
+Oh, I'm trying to keep going. We're woman
+
+🎤 SPEAKER_6 [958s - 959s]
+Do you have a clean
+
+🎤 SPEAKER_6 [964s - 964s]
+Do a
+
+🎤 SPEAKER_6 [972s - 979s]
+Hi, Rule. Hi. Hello? Yeah. Just say phone number. If it's too late for
+
+🎤 SPEAKER_6 [992s - 1000s]
+No. All chambers. Well, we we got a two. Set We're Chambers been better recently, but pairing with Lolo pairing with fish see engine.
+
+🎤 SPEAKER_6 [1047s - 1050s]
+On 50. Yeah.
+
+🎤 SPEAKER_4 [1050s - 1052s]
+What's he doing? He's blocking him off. Isn't he?
+
+🎤 SPEAKER_6 [1052s - 1054s]
+Yeah. Oh, well done, Winstall.
+
+🎤 SPEAKER_2 [1054s - 1056s]
+He's blocking him off.
+
+🎤 SPEAKER_6 [1056s - 1058s]
+Oh, Antonio. You got space, mate. Do him. Yeah.
+
+🎤 SPEAKER_6 [1062s - 1066s]
+Twice has happened now. And you're still a bit rusty.
+
+🎤 SPEAKER_6 [1098s - 1099s]
+Just gonna stick ten minutes
+
+🎤 SPEAKER_6 [1114s - 1117s]
+Well, actually, you chased the board now.
+
+🎤 SPEAKER_6 [1130s - 1133s]
+Again, I'm pulling on our shirt. Oh. J.
+
+🎤 SPEAKER_8 [1137s - 1137s]
+Oh.
+
+🎤 SPEAKER_2 [1141s - 1141s]
+Hey.
+
+🎤 SPEAKER_8 [1156s - 1156s]
+Yeah.
+
+🎤 SPEAKER_6 [1165s - 1167s]
+Nice. Oh. Nelly.
+
+🎤 SPEAKER_8 [1170s - 1174s]
+He's just sorry.
+
+🎤 SPEAKER_6 [1181s - 1182s]
+And if you wanna take the corner or what?
+
+🎤 SPEAKER_5 [1182s - 1183s]
+I think if they do a short one, like, So no one going for it.
+
+🎤 SPEAKER_6 [1184s - 1185s]
+Alright.
+
+🎤 SPEAKER_4 [1185s - 1186s]
+There you go.
+
+🎤 SPEAKER_6 [1190s - 1191s]
+Of course. I have twenty minutes.
+
+🎤 SPEAKER_6 [1217s - 1223s]
+That's more than eight seconds, won't it? Oh, it's a goal kick right, I see. Yeah.
+
+🎤 SPEAKER_2 [1223s - 1223s]
+But it's it's yeah.
+
+👤 あなた [1228s - 1228s]
+Yeah. I want to.
+
+🎤 SPEAKER_2 [1242s - 1243s]
+Before the end of the gate.
+
+👤 あなた [1277s - 1279s]
+Don't seem to be going in our favor very much.
+
+🎤 SPEAKER_6 [1311s - 1316s]
+Roughing us up in the minute. They're the bullyiness out there, need to get a bit short, then you get short.
+
+🎤 SPEAKER_6 [1340s - 1342s]
+Proposition never quite know how to deal with that, John.
+
+🎤 SPEAKER_2 [1349s - 1356s]
+Michelle just changes the words. Oh, yeah. Yeah. She's got she's got different words for different chats.
+
+👤 あなた [1356s - 1357s]
+Yeah.
+
+🎤 SPEAKER_6 [1357s - 1358s]
+She's going off on a stretch, you know?
+
+🎤 SPEAKER_8 [1363s - 1363s]
+Dirty.
+
+🎤 SPEAKER_6 [1363s - 1365s]
+Dirty stockpull that was.
+
+🎤 SPEAKER_6 [1382s - 1385s]
+He's probably seen on his neck or something? Sorry.
+
+🎤 SPEAKER_8 [1385s - 1386s]
+Cushion.
+
+🎤 SPEAKER_2 [1434s - 1436s]
+But then, you know, you gotta put up with that.
+
+🎤 SPEAKER_8 [1437s - 1438s]
+This is not good.
+
+🎤 SPEAKER_6 [1445s - 1446s]
+Let's finish your mission when you're suffering.
+
+🎤 SPEAKER_6 [1457s - 1457s]
+Yeah.
+
+👤 あなた [1458s - 1459s]
+Rob was good, but That depends.
+
+🎤 SPEAKER_6 [1481s - 1486s]
+It might be precautionary. We'll do a scans and things and see.
+
+🎤 SPEAKER_6 [1490s - 1491s]
+Robbo's coming on, obviously.
+
+🎤 SPEAKER_6 [1556s - 1607s]
+Yeah. Yeah. That guy there with the root orange boots. The one who was roughing him up the whole game. But he would want a serious injury him, obviously, but they just been Landed. The way he landed. Yeah.
+
+👤 あなた [1608s - 1614s]
+I saw Paul saying he's watching on watching on TV. I tried to play with the I don't think the ref was watching. He turned around and No.
+
+🎤 SPEAKER_6 [1617s - 1618s]
+Hopefully, it's just probably a right.
+
+
+---
+
