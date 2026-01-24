@@ -3332,3 +3332,2492 @@ We don't know. Yeah. Would I have to wait a few days?
 
 ---
 
+
+
+## 📝 Family Trip To Football Match And Postgame Chat - 6339d51b-2070-4447-83cf-303c4fd88e12
+
+**記録時間**: 2026-01-24 23:38:22
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+I can't hear you.
+
+🎤 SPEAKER_2 [0s - 1s]
+Spicy tacos.
+
+👤 あなた [4s - 9s]
+Let me and the frettino. Where we meet in Naomi then?
+
+🎤 SPEAKER_2 [9s - 11s]
+At five quite a shop.
+
+🎤 SPEAKER_1 [12s - 13s]
+But shop. I need My.
+
+👤 あなた [62s - 64s]
+Hard to come from a child to a teenager at it, but you should get a glass ASP.
+
+🎤 SPEAKER_2 [66s - 68s]
+That ain't too sick.
+
+🎤 SPEAKER_1 [69s - 71s]
+As a souvenir.
+
+👤 あなた [71s - 71s]
+So expensive.
+
+👤 あなた [75s - 78s]
+Make sure you're not there anywhere, love. We can't go anywhere.
+
+🎤 SPEAKER_1 [129s - 136s]
+Just don't need what do we need? No. Wiggins are losing Today? Wiggins. Is it?
+
+👤 あなた [157s - 159s]
+Or Who's I think to be free of this. Oh, wait. Yeah.
+
+👤 あなた [175s - 178s]
+Rachel, how do I how do I add more time to it?
+
+🎤 SPEAKER_1 [178s - 185s]
+I have to turn away now. Turn away in there. Away in Turn Turn Bradford's 10 away.
+
+🎤 SPEAKER_2 [186s - 186s]
+I'm 10 away.
+
+🎤 SPEAKER_1 [186s - 197s]
+These guys are 10 behind. 10 points behind. You haven't really gotta worry about Lincoln because two are going up.
+
+🎤 SPEAKER_2 [197s - 200s]
+Yeah. But we wanna the league. I probably yeah.
+
+👤 あなた [200s - 203s]
+I should be buying now. You might have to go get a space.
+
+🎤 SPEAKER_1 [205s - 206s]
+It's struggling, dad.
+
+👤 あなた [208s - 210s]
+It's not it's not necessarily let me doing it this time.
+
+🎤 SPEAKER_1 [210s - 212s]
+The connect Well connection here.
+
+👤 あなた [212s - 213s]
+Is it? My face.
+
+🎤 SPEAKER_2 [213s - 214s]
+No.
+
+👤 あなた [214s - 220s]
+On the on the app, it's there's extend time. It's not allowing us to do that. No. Wait. What if I can book again for next half hour?
+
+🎤 SPEAKER_1 [220s - 221s]
+One sec.
+
+🎤 SPEAKER_2 [221s - 223s]
+Go now. Yes.
+
+🎤 SPEAKER_1 [223s - 224s]
+Yes.
+
+👤 あなた [224s - 226s]
+What time is it? I think it's still within twenty mate.
+
+🎤 SPEAKER_1 [227s - 228s]
+Well, I'll look see if I can book how far.
+
+🎤 SPEAKER_3 [231s - 234s]
+Well, let's let's move while she's at three. Because we can get there.
+
+🎤 SPEAKER_2 [234s - 235s]
+Yeah. Yeah. Yeah.
+
+👤 あなた [240s - 242s]
+What? Oh, no. Evan's gonna switch in.
+
+🎤 SPEAKER_2 [242s - 242s]
+Come on.
+
+🎤 SPEAKER_1 [243s - 244s]
+Erin's going this way.
+
+🎤 SPEAKER_3 [274s - 276s]
+Don't So how do you think should have won that game? Probably colder.
+
+👤 あなた [277s - 281s]
+It was a it was a You've got also enchanted. Well, we bought it, but they're they're a tough.
+
+🎤 SPEAKER_3 [282s - 288s]
+It's just a cool back of race. They at least one of that beach and all. Yeah.
+
+👤 あなた [288s - 291s]
+It was It was a Poland, meaning. Yeah. The guy that Albert in the place maybe.
+
+👤 あなた [302s - 303s]
+I've booked an extra half an hour.
+
+🎤 SPEAKER_3 [304s - 306s]
+He's booked an extra half hour.
+
+🎤 SPEAKER_2 [306s - 313s]
+Oh, great. That's good. Yeah. I'll see you guys.
+
+👤 あなた [314s - 315s]
+Yeah. Tuesday.
+
+🎤 SPEAKER_3 [315s - 317s]
+Yeah. Yeah.
+
+🎤 SPEAKER_1 [317s - 319s]
+You're gonna get the Naomi.
+
+🎤 SPEAKER_2 [319s - 320s]
+I tried to get the queen.
+
+👤 あなた [320s - 325s]
+You do? Come on in. Let's go.
+
+🎤 SPEAKER_1 [334s - 335s]
+We don't have it.
+
+👤 あなた [335s - 337s]
+What? What are you doing?
+
+🎤 SPEAKER_3 [337s - 338s]
+Oh, from.
+
+👤 あなた [339s - 341s]
+So I'll put it on there, son. Put put it on there.
+
+🎤 SPEAKER_3 [341s - 342s]
+It really has the wine
+
+🎤 SPEAKER_2 [399s - 399s]
+No. Else.
+
+🎤 SPEAKER_3 [433s - 433s]
+Right.
+
+👤 あなた [448s - 453s]
+Well, what again? That was unusual, wasn't it? Thank you. Thank you you, guys. Thank you very much.
+
+👤 あなた [458s - 462s]
+Is the shop just set to the right here? Hope Alex alright.
+
+🎤 SPEAKER_2 [470s - 471s]
+Omi. Hello?
+
+👤 あなた [473s - 475s]
+Rachel's gonna take you home. Oh, really? Thank you.
+
+🎤 SPEAKER_3 [475s - 477s]
+Sorry. I was like, oh, no.
+
+👤 あなた [487s - 488s]
+I Right. Let's go through then.
+
+🎤 SPEAKER_3 [495s - 497s]
+Celebrating, like, hey, one.
+
+👤 あなた [497s - 509s]
+Well, yeah, they were they were what their game was it's a bit like what kind of for, like, on Daniel Warnock. Tough and nasty. And we did we we bullied people. But we never injured them like that.
+
+👤 あなた [510s - 514s]
+And the the ref, it wasn't the stock port's fault, but it was the ref for letting them do it.
+
+🎤 SPEAKER_3 [515s - 517s]
+We're on the pitch. We don't know.
+
+👤 あなた [517s - 520s]
+I mean, We booked our players, but he didn't I don't know if he just seemed a little bit soft.
+
+🎤 SPEAKER_3 [520s - 529s]
+Two of their players. When this the their striker, the the one that looks like Jimmy Uso Yeah. Should've got sent off. Yeah.
+
+👤 あなた [529s - 531s]
+The one that elbowed Well, that was an assault that was pretty much.
+
+🎤 SPEAKER_3 [531s - 540s]
+Went all. The one that did the Went all. Sure. Maybe got a red. Because nothing worried and he didn't get a red. Remember? Yeah. He got a red.
+
+👤 あなた [542s - 543s]
+Because
+
+🎤 SPEAKER_3 [541s - 541s]
+Yeah.
+
+👤 あなた [543s - 545s]
+Well, it is a red. If you help someone in the face like that, I mean, I guess it was a dream.
+
+🎤 SPEAKER_3 [549s - 550s]
+Still.
+
+🎤 SPEAKER_3 [561s - 562s]
+Like, a hat.
+
+👤 あなた [563s - 567s]
+Oh, yeah. So so you just got a stage. Just gotta do its best to stay.
+
+🎤 SPEAKER_3 [569s - 576s]
+Just a other withdrawal and it's a good team. We should want them to them. It's that that's the way to your side.
+
+👤 あなた [576s - 587s]
+So what? Way to do. Yeah. It was a bit wasn't it? It was a lot. It was. It was. It was a of a put you had a bad day. Yeah. But that's given the benefit of day.
+
+👤 あなた [587s - 590s]
+You had a bad day. Oh, he he he did.
+
+🎤 SPEAKER_3 [591s - 593s]
+In terms of result, though, I guess it's down to the second league of mine.
+
+🎤 SPEAKER_3 [594s - 595s]
+My own football.
+
+👤 あなた [595s - 600s]
+As you say, I wouldn't want him refine your game either. He just had a bad game, hopefully.
+
+🎤 SPEAKER_2 [600s - 600s]
+Oh,
+
+🎤 SPEAKER_1 [600s - 601s]
+no.
+
+👤 あなた [601s - 603s]
+He just just made some bad decisions.
+
+🎤 SPEAKER_3 [614s - 615s]
+Yeah.
+
+🎤 SPEAKER_1 [615s - 616s]
+Yeah. Yeah. No.
+
+🎤 SPEAKER_3 [617s - 617s]
+No.
+
+👤 あなた [619s - 628s]
+You've had a you've been to Greg's. That's some food when we get home. Right? Yeah. Well, haven't had anything I've a half a bottle. Thanks for dues.
+
+👤 あなた [629s - 635s]
+Yeah. Look at my It was like I'm covered it. These are brack these are clean out the wash. They're just so dry now.
+
+🎤 SPEAKER_2 [635s - 639s]
+Yeah. Three four.
+
+👤 あなた [639s - 643s]
+Yeah. Anyway, it was fine. And and that's it. So I'm hungry as well.
+
+👤 あなた [653s - 664s]
+Alright. Just gonna see you in there, Amy. Just just with the agro going on. We don't need anyone just goes and think that you're an adult because the size zero.
+
+🎤 SPEAKER_3 [667s - 671s]
+Is it small? The the the measure had to. Midget. Yeah.
+
+👤 あなた [671s - 673s]
+You can have my shoulders and not like Yeah. Maybe.
+
+🎤 SPEAKER_3 [673s - 674s]
+Body is not like Yeah.
+
+👤 あなた [674s - 680s]
+Yeah. Well, Rachel. Is Rachel? Yeah. Can do it. Is she oh, there she's there. Okay. Kids.
+
+🎤 SPEAKER_3 [681s - 684s]
+I'm really That I'm I'm I'm totally lucky now.
+
+👤 あなた [684s - 684s]
+Yeah. No. Yeah.
+
+🎤 SPEAKER_3 [685s - 687s]
+Not I am. Are you? Yeah. Why are you going so tall?
+
+👤 あなた [687s - 691s]
+What's going on, Elliot? Who? That's mad, don't seventy. Was my father tallest, wasn't he? So he had all really small.
+
+🎤 SPEAKER_3 [691s - 693s]
+No.
+
+🎤 SPEAKER_3 [693s - 699s]
+No worry about, like, speech speech together. Yeah. We didn't like but like Well, when? How to say I'm cool, I'm small.
+
+👤 あなた [699s - 701s]
+When was this? Oh, last year in your seventh. Oh, yeah.
+
+🎤 SPEAKER_3 [701s - 715s]
+So he says what do we what do we mean that to dial tone? And I said, how to say medium? He said, I don't think you're medium. Think you're I think it's wrong. I I actually do what you mean. What the small is?
+
+👤 あなた [715s - 722s]
+You have to to go you have to do that frim now. Rotary in small frim. No. You are. But we always be the choice in your class now, swing.
+
+👤 あなた [724s - 726s]
+Probably. Oh, yeah. Yeah. What's going on? You look how short I am.
+
+🎤 SPEAKER_2 [726s - 727s]
+I think, actually, maybe my no.
+
+🎤 SPEAKER_3 [727s - 731s]
+I mean, my car is high, but my husband's got the hairs.
+
+🎤 SPEAKER_2 [731s - 733s]
+You got, like, really, like, repair, and it could go up higher.
+
+👤 あなた [733s - 734s]
+Right. Yeah.
+
+🎤 SPEAKER_3 [734s - 735s]
+Me and Michael
+
+👤 あなた [735s - 743s]
+probably Yeah. Lucky's Parker. Yeah. How are you is must be Harry's the tallest in your class too, does he? Yeah.
+
+🎤 SPEAKER_2 [743s - 745s]
+It's Harrison or Reedham Nick.
+
+👤 あなた [745s - 753s]
+Oh, yeah. Yeah. Well, Elliot, I don't think Elliot was particularly the tallest in year five or year six. You were just having year Year six, I was like, yeah.
+
+🎤 SPEAKER_3 [754s - 754s]
+I'll put it. Yeah.
+
+👤 あなた [756s - 758s]
+Same as Dad. Yeah.
+
+🎤 SPEAKER_3 [768s - 773s]
+Parents. And he said he didn't probably hit hit you, like, and like gross bedroom rather.
+
+👤 あなた [773s - 774s]
+Who?
+
+🎤 SPEAKER_3 [774s - 774s]
+Lucky.
+
+👤 あなた [775s - 777s]
+So he Yeah. People are gonna Maybe. Maybe.
+
+👤 あなた [780s - 783s]
+I I have to I have to take take advantage of Well, Toby's tall as well, but he's not actually set up to I'm I'm I'm just calling now.
+
+👤 あなた [785s - 794s]
+Yeah. Yeah. Well done, Elliot. Well done for literally nothing to do with you whatsoever, but well done. Yeah.
+
+🎤 SPEAKER_3 [794s - 797s]
+And maybe when you're you're you're the person.
+
+👤 あなた [797s - 802s]
+Well, yeah. You're gonna be talking to me. I I was thinking you're gonna be talking to me, but blinking 12 years old.
+
+🎤 SPEAKER_1 [815s - 818s]
+Yeah. No. No.
+
+👤 あなた [818s - 819s]
+You to remember as well.
+
+🎤 SPEAKER_2 [819s - 820s]
+No, dad.
+
+🎤 SPEAKER_4 [822s - 826s]
+I I literally said I said, like, like, weeks ago on to one boiler, you completely.
+
+👤 あなた [826s - 833s]
+Right. That's what we're gonna do. We're gonna Monday. We're gonna do on Monday then. Alright? I know it's birthday. Oh, no. We can do it it's birthday. See what we want? Tuesday, one in a haircut.
+
+👤 あなた [839s - 840s]
+Get some haircuts then, you know.
+
+🎤 SPEAKER_4 [843s - 845s]
+Go to say? That is.
+
+👤 あなた [846s - 846s]
+You gonna say about Toby?
+
+🎤 SPEAKER_3 [847s - 852s]
+Being told No. It's important.
+
+👤 あなた [852s - 854s]
+Well, it's clearly not important if you've gone. Know what I mean?
+
+🎤 SPEAKER_3 [854s - 855s]
+No. It's so important.
+
+🎤 SPEAKER_4 [855s - 856s]
+Yeah.
+
+🎤 SPEAKER_3 [856s - 858s]
+You always forget what your keys are. That means the keys are not important.
+
+🎤 SPEAKER_4 [858s - 862s]
+Yeah. True. I know. True. True. Right.
+
+👤 あなた [862s - 866s]
+There we are then. So everyone's gotten away from bit cross there, John, haven't they?
+
+🎤 SPEAKER_1 [868s - 869s]
+They?
+
+🎤 SPEAKER_4 [874s - 877s]
+Was. And everyone will be wondering how use of Slack is getting on.
+
+🎤 SPEAKER_4 [879s - 886s]
+Just signed an extension to 2030. Top goal scorer. He in the league, Elliot? Top goal scoring the league or no?
+
+🎤 SPEAKER_3 [886s - 888s]
+He was at one point, but not anymore.
+
+👤 あなた [893s - 894s]
+But there we are.
+
+🎤 SPEAKER_4 [894s - 896s]
+Hopefully, you'll be alright for it.
+
+🎤 SPEAKER_3 [896s - 898s]
+So who's your gonna stop for twice now?
+
+🎤 SPEAKER_4 [898s - 906s]
+When all? Well, yeah. I try like support before the season sat. I remember now after the last game, played the Moy, I thought they're dirty. Yeah.
+
+👤 あなた [906s - 907s]
+The people They're dirty.
+
+🎤 SPEAKER_1 [907s - 914s]
+People, you know, teams back and they said, oh, we got a puncture. The leap leap is that they need the mean, we yeah.
+
+🎤 SPEAKER_4 [925s - 931s]
+How many points do we claim linker now? Four. Well, that's not that's not amazing, is it?
+
+🎤 SPEAKER_3 [931s - 934s]
+He wants the reason. Especially when they can, like, 14 faster.
+
+🎤 SPEAKER_2 [934s - 935s]
+Yeah.
+
+🎤 SPEAKER_4 [936s - 938s]
+Yeah. It would be nice to win the league, but
+
+🎤 SPEAKER_2 [939s - 939s]
+Okay.
+
+🎤 SPEAKER_1 [943s - 944s]
+Okay.
+
+🎤 SPEAKER_3 [944s - 946s]
+Well, actually, we're still unbeaten for, like, seven games.
+
+🎤 SPEAKER_3 [952s - 954s]
+We should've won, but we did. Oh, man. I know. I'm
+
+🎤 SPEAKER_2 [955s - 955s]
+it.
+
+🎤 SPEAKER_1 [961s - 962s]
+But but Yeah.
+
+🎤 SPEAKER_3 [963s - 968s]
+I I guess you need to stop four. I mean, the four. Best two brain of being obvious in handballs.
+
+🎤 SPEAKER_4 [968s - 981s]
+Yeah. That was definitely some handballs going on. Definitely a red card, the least one in there. Either two yellows or red. That album in the face, that Walsh player who got album in the face, every day, they guy got arrested for it. Do you see that, John, on the news? Yeah. Yeah.
+
+🎤 SPEAKER_1 [982s - 985s]
+Know? No. Find him today.
+
+🎤 SPEAKER_4 [985s - 986s]
+And there's a salt gun.
+
+🎤 SPEAKER_3 [989s - 995s]
+And do you No. I'm not sure if it's a number 30 three's fault. But, like, do you think you should've got the other cars in number 30 fault? Right.
+
+🎤 SPEAKER_4 [997s - 998s]
+33.
+
+🎤 SPEAKER_1 [1000s - 1003s]
+Can't hear much about him If you're keeping him with yellow, we wouldn't have followed anybody else.
+
+🎤 SPEAKER_4 [1004s - 1026s]
+General, I think everyone else would have been a bit understanding there thinking he wouldn't have got out of the injury him. He injured himself falling down. It would if wasn't for the fact that there was quite a few instances between the two already, and the ref wasn't protecting Salik at all. No. And so everyone was a bit frustrated at that. Because if as you say, if you would have booked or had a word with him Yeah. You know, he might have been a bit more gentle though. I feel sorry for them.
+
+🎤 SPEAKER_1 [1026s - 1032s]
+I'm interested, but he calls Yeah. You know, he was found him, but most of that first half.
+
+🎤 SPEAKER_4 [1033s - 1033s]
+So Yeah.
+
+🎤 SPEAKER_1 [1035s - 1039s]
+And number 33, if he if he'd booked him, he'd put problem for the
+
+👤 あなた [1039s - 1040s]
+Yeah.
+
+🎤 SPEAKER_4 [1042s - 1046s]
+Yeah. It was a bad it was a yeah. He But I was expecting I also a jaw lot out of that
+
+🎤 SPEAKER_3 [1049s - 1052s]
+I said one or or one nail to stop.
+
+🎤 SPEAKER_4 [1052s - 1066s]
+Do you? Yeah. They are good to They they are not they remind me a little bit of SSC. When car did play them in water, we have similar We were tough. We bullied the players, and in some ways, he wasn't stopped today. They did what they needed to do.
+
+🎤 SPEAKER_4 [1066s - 1069s]
+Was the ref. So they They did.
+
+🎤 SPEAKER_1 [1069s - 1070s]
+They yell over to come in.
+
+🎤 SPEAKER_4 [1070s - 1078s]
+They've been dirty. They've been tough. They're big, strong. They boss the pitch and that's how they go. And the pit positions. Fair play to them.
+
+🎤 SPEAKER_2 [1080s - 1080s]
+Yeah.
+
+🎤 SPEAKER_2 [1084s - 1086s]
+And if you don't get booked, you keep on doing it. Yeah.
+
+🎤 SPEAKER_3 [1088s - 1090s]
+Oh, she's a bit annoying.
+
+🎤 SPEAKER_1 [1090s - 1092s]
+Then at the end, then, so the history goes to start the pipe.
+
+👤 あなた [1093s - 1094s]
+Yeah.
+
+🎤 SPEAKER_3 [1094s - 1100s]
+And he's, like, mocking the crowd as well. They're like, not like mocking crowd, but, like Yeah. Taking the our crowd and everything.
+
+🎤 SPEAKER_4 [1100s - 1110s]
+Yeah. Of course, was. Yeah. Yeah. Well, you wouldn't yeah. You can't up and react when you got 5,000 people down your end calling your names and all this sort of stuff.
+
+🎤 SPEAKER_4 [1111s - 1112s]
+And you just yeah.
+
+🎤 SPEAKER_3 [1116s - 1124s]
+Omi, I guess I'm happy with the jaw. I mean, it's very dominant, and I was happy with the jaw. But the thing is that were dominant in in most of the park. Yeah.
+
+🎤 SPEAKER_4 [1124s - 1130s]
+Oh, we didn't take we had quite a few chances. We didn't take them. I'm not sure if Tanner's got any business starting at the minute.
+
+🎤 SPEAKER_3 [1130s - 1138s]
+Hey, you did get he's too fast. I know I know I know you say that, but, like, the last we get games no. The last two games, you got three sets. He's got all sets. So he's a lot lots Fair enough.
+
+🎤 SPEAKER_4 [1139s - 1151s]
+He's one of those kind of players that 90% what he does is not very good. Then he does something good. And people forget about the rest like in quite a few times today up on that wing. He kept trying to pass the ball and it was getting blocked
+
+🎤 SPEAKER_3 [1154s - 1156s]
+Maybe.
+
+🎤 SPEAKER_4 [1156s - 1159s]
+Him him engine and then he pops I don't know why he's against putting Caliman out there, but there we are.
+
+🎤 SPEAKER_3 [1160s - 1161s]
+I didn't really He's a winger.
+
+🎤 SPEAKER_4 [1162s - 1165s]
+He keeps putting him in the middle for some reason.
+
+🎤 SPEAKER_3 [1165s - 1173s]
+Maybe he's good in training. There we are. I was hoping that you would just come and bring some flare and Oh, David didn't press nothing really.
+
+🎤 SPEAKER_3 [1174s - 1177s]
+I mean, he didn't get a chance. But Yeah.
+
+👤 あなた [1177s - 1178s]
+Did you cost him? Yeah.
+
+🎤 SPEAKER_4 [1178s - 1178s]
+It's cross now then, is it?
+
+🎤 SPEAKER_2 [1180s - 1181s]
+Osho I I think Osho had a quite a deep in the country.
+
+🎤 SPEAKER_3 [1184s - 1186s]
+Like, all those blocks and when they were like He did it.
+
+🎤 SPEAKER_4 [1186s - 1190s]
+Yeah. He's just gotta do that now for the rest of the season to You know what?
+
+🎤 SPEAKER_1 [1190s - 1191s]
+To earn the fish and roller.
+
+🎤 SPEAKER_4 [1192s - 1195s]
+Well, Lolly must be injured or imminently on the sail.
+
+👤 あなた [1196s - 1199s]
+And fit. Oh, sail.
+
+🎤 SPEAKER_4 [1199s - 1200s]
+Now if you're If Yeah.
+
+🎤 SPEAKER_3 [1202s - 1204s]
+Yeah.
+
+🎤 SPEAKER_4 [1204s - 1208s]
+Can't win them all, guys. Know? I enjoy Can't win them all.
+
+🎤 SPEAKER_3 [1208s - 1209s]
+For a point, to be honest.
+
+🎤 SPEAKER_3 [1216s - 1218s]
+They needed the wind more than we did.
+
+🎤 SPEAKER_2 [1218s - 1219s]
+Oh, lord.
+
+🎤 SPEAKER_3 [1219s - 1226s]
+We didn't eat often in winter. Oh, he did see that. Did you see what time went three one? Yeah.
+
+🎤 SPEAKER_4 [1228s - 1230s]
+What is that? What's the significance of that then?
+
+🎤 SPEAKER_3 [1232s - 1239s]
+I'm telling the quality team permitting now. Oh, yeah. And we're we're having a mitigation zone, and they've put one, like, five inches. Oh, yeah.
+
+🎤 SPEAKER_4 [1247s - 1252s]
+Takes the And, you know, also notice that Plymouth would be in looted half time. Plymouth Plymouth will be in half time.
+
+🎤 SPEAKER_3 [1253s - 1254s]
+Is it what I want now?
+
+🎤 SPEAKER_4 [1254s - 1255s]
+Do they? Yeah.
+
+👤 あなた [1255s - 1259s]
+They've turned the right round since they got a new manager, haven't they? I've come They're the tents now.
+
+🎤 SPEAKER_3 [1259s - 1260s]
+Are they? They won the last four.
+
+🎤 SPEAKER_2 [1261s - 1262s]
+Yeah.
+
+🎤 SPEAKER_4 [1262s - 1264s]
+They'll come sells a decent manager.
+
+🎤 SPEAKER_3 [1267s - 1269s]
+He he he was he was managing them for it Don't know.
+
+🎤 SPEAKER_4 [1272s - 1272s]
+I can't tell you.
+
+🎤 SPEAKER_3 [1272s - 1275s]
+Who who is March on the biggest season, was that?
+
+🎤 SPEAKER_4 [1277s - 1283s]
+Oh, Rooney started if yeah. You used to how I can't remember. Last season, you got medicated maybe.
+
+🎤 SPEAKER_3 [1283s - 1288s]
+Yeah. I remember I remember it's definitely asking you so. I remember I mean you. I was excited about seeing it.
+
+🎤 SPEAKER_2 [1289s - 1291s]
+Man. People are more.
+
+🎤 SPEAKER_3 [1291s - 1298s]
+So we really like he just terrible. Yeah. They will they have a few.
+
+🎤 SPEAKER_2 [1298s - 1298s]
+Who's that? Yeah.
+
+🎤 SPEAKER_4 [1306s - 1311s]
+Joe Rolls, maybe. Yeah. He's no coincidence he came on board, they sat in to do Arthur.
+
+🎤 SPEAKER_3 [1311s - 1313s]
+Yeah. He he just wasn't right far.
+
+👤 あなた [1314s - 1316s]
+Anymore now. For sure.
+
+🎤 SPEAKER_3 [1316s - 1318s]
+He was getting up. All the see, two.
+
+🎤 SPEAKER_1 [1318s - 1319s]
+Yeah. No.
+
+🎤 SPEAKER_4 [1321s - 1324s]
+And he likes pasting the old BBM. How as do I?
+
+🎤 SPEAKER_3 [1324s - 1325s]
+Buffalo. Good pass there.
+
+👤 あなた [1325s - 1326s]
+Solid.
+
+🎤 SPEAKER_3 [1327s - 1328s]
+We turn this back.
+
+🎤 SPEAKER_4 [1330s - 1330s]
+Alright then.
+
+👤 あなた [1331s - 1333s]
+Mileen. You can go down the bottom anyway then.
+
+🎤 SPEAKER_4 [1333s - 1339s]
+Yeah. Alright then. Omi, I understand that you got yourself a penguin tattoo.
+
+🎤 SPEAKER_2 [1339s - 1340s]
+I have.
+
+🎤 SPEAKER_4 [1340s - 1344s]
+Yeah. Awesome. I love Christmas gifts to my phone. Was it?
+
+👤 あなた [1345s - 1345s]
+Oh, nice.
+
+🎤 SPEAKER_3 [1347s - 1349s]
+I'm watching Celebrity Apprentice.
+
+🎤 SPEAKER_2 [1349s - 1349s]
+Have you watched that?
+
+🎤 SPEAKER_3 [1349s - 1355s]
+Yeah. No. I haven't. Is able to have to make a they should set the Yeah. You're having to
+
+🎤 SPEAKER_4 [1368s - 1369s]
+All you're gonna up to tonight now, John.
+
+👤 あなた [1369s - 1370s]
+Yeah.
+
+🎤 SPEAKER_3 [1373s - 1373s]
+Yeah.
+
+🎤 SPEAKER_4 [1382s - 1384s]
+Remind me who's feeling that again?
+
+👤 あなた [1384s - 1386s]
+He's working That's right. Yeah.
+
+🎤 SPEAKER_1 [1386s - 1393s]
+I got a bike here. I've been, you know, out most of it. Yeah. Now I just wanna put each piece really long.
+
+👤 あなた [1393s - 1394s]
+Yeah.
+
+🎤 SPEAKER_4 [1394s - 1395s]
+Well done. Very good.
+
+👤 あなた [1396s - 1397s]
+Yeah.
+
+🎤 SPEAKER_4 [1399s - 1407s]
+Trying to do do more funerals and passes, you do. So the rest of ministry you've got to people that to family and people you know and everything.
+
+🎤 SPEAKER_1 [1409s - 1412s]
+Well, I've used the family on the many Monday once to be met to discuss with all
+
+👤 あなた [1412s - 1412s]
+Yeah.
+
+🎤 SPEAKER_4 [1419s - 1420s]
+Oh, yeah.
+
+🎤 SPEAKER_3 [1421s - 1422s]
+And he said, no.
+
+🎤 SPEAKER_2 [1422s - 1423s]
+Can I put you up now?
+
+🎤 SPEAKER_4 [1425s - 1428s]
+Getting there quick. My darry's filling up, you said.
+
+🎤 SPEAKER_3 [1428s - 1429s]
+Little dad.
+
+👤 あなた [1429s - 1429s]
+Yes. That it?
+
+🎤 SPEAKER_4 [1433s - 1437s]
+Not far off you. Well, I'm I'm five, five and a half. We well, we do send it to you. You said
+
+🎤 SPEAKER_3 [1437s - 1440s]
+you sent for your five, six, or three quarters.
+
+👤 あなた [1440s - 1441s]
+Oh, maybe I am. I don't know.
+
+🎤 SPEAKER_5 [1441s - 1441s]
+I can't remember.
+
+🎤 SPEAKER_4 [1442s - 1446s]
+But we don't do that. We don't do inches. We do centimeters. How how much
+
+🎤 SPEAKER_2 [1446s - 1447s]
+centimeters.
+
+🎤 SPEAKER_4 [1448s - 1450s]
+I think I'm one five six or so. No. No.
+
+👤 あなた [1450s - 1452s]
+Or one six six maybe.
+
+🎤 SPEAKER_3 [1452s - 1452s]
+I'm one six.
+
+👤 あなた [1453s - 1454s]
+Five one six. Yeah. I'm one six six then.
+
+🎤 SPEAKER_3 [1456s - 1461s]
+No. I I we're extruded in one seven. So that's, like, an x two.
+
+🎤 SPEAKER_4 [1462s - 1465s]
+It's confusing because we do inches and and we still do stones and things where we shouldn't really.
+
+🎤 SPEAKER_5 [1467s - 1467s]
+Hallelujah.
+
+🎤 SPEAKER_4 [1494s - 1500s]
+Come on, if you go if you go with mommy, you're going down to a to a grandpa's house. Up near me off or you can come on with me.
+
+🎤 SPEAKER_4 [1502s - 1502s]
+That's fine. Yeah.
+
+🎤 SPEAKER_2 [1506s - 1506s]
+What?
+
+🎤 SPEAKER_2 [1509s - 1510s]
+Me.
+
+🎤 SPEAKER_4 [1511s - 1513s]
+Well, I don't know. I don't know.
+
+🎤 SPEAKER_4 [1519s - 1520s]
+Rachel, do you want a chippy tea?
+
+🎤 SPEAKER_3 [1522s - 1523s]
+I want a chippy tea.
+
+🎤 SPEAKER_4 [1524s - 1527s]
+Oh, yeah. Sorry. I forgot with that. I forgot about the chip eats.
+
+🎤 SPEAKER_5 [1529s - 1529s]
+Chippy chip.
+
+👤 あなた [1550s - 1552s]
+You've been out you've been out a long time when you just I hear air from.
+
+🎤 SPEAKER_2 [1553s - 1556s]
+That's I hear That's right.
+
+🎤 SPEAKER_4 [1556s - 1556s]
+Yeah.
+
+🎤 SPEAKER_6 [1556s - 1558s]
+He has. He's not talking.
+
+🎤 SPEAKER_5 [1560s - 1560s]
+Yeah.
+
+🎤 SPEAKER_4 [1561s - 1563s]
+Right. So I've got I haven't done the seat belt on.
+
+🎤 SPEAKER_3 [1565s - 1567s]
+Omium's probably three times.
+
+👤 あなた [1567s - 1567s]
+I know.
+
+🎤 SPEAKER_4 [1568s - 1571s]
+I've got yours yeah. I'm guessing that's a yes then to sea belts.
+
+🎤 SPEAKER_5 [1577s - 1579s]
+Oh, wow. Yeah.
+
+🎤 SPEAKER_4 [1582s - 1584s]
+That's one way to spend the cold Saturday afternoon, isn't it?
+
+🎤 SPEAKER_1 [1585s - 1585s]
+Oh, god.
+
+🎤 SPEAKER_3 [1586s - 1592s]
+That that we had an eight match win streak at home before this. Sorry. And now that if you draw.
+
+🎤 SPEAKER_4 [1593s - 1597s]
+Well, we got quite a lot of easy games now now. We've nearly played all the hard teams.
+
+🎤 SPEAKER_1 [1597s - 1597s]
+Right.
+
+👤 あなた [1597s - 1599s]
+Yeah. Not all of them, but nearly all of them already.
+
+🎤 SPEAKER_2 [1599s - 1600s]
+Played them.
+
+🎤 SPEAKER_3 [1601s - 1603s]
+So we paid Lincoln.
+
+👤 あなた [1603s - 1604s]
+Oh, we've done Lincoln twice yet, though.
+
+🎤 SPEAKER_3 [1605s - 1608s]
+No. Only been one. No. How many times have we played Barnesley?
+
+🎤 SPEAKER_5 [1608s - 1609s]
+None.
+
+🎤 SPEAKER_3 [1610s - 1611s]
+None? Okay.
+
+🎤 SPEAKER_1 [1611s - 1611s]
+So Barnesley, like, bought.
+
+👤 あなた [1612s - 1615s]
+You mean, dad? We would've played them once already.
+
+🎤 SPEAKER_1 [1615s - 1615s]
+No. You haven't No.
+
+🎤 SPEAKER_5 [1615s - 1617s]
+No. It's a game in hand.
+
+🎤 SPEAKER_3 [1617s - 1620s]
+No. We had a we had a Cup game when we went to play them.
+
+🎤 SPEAKER_4 [1620s - 1624s]
+You're me that we've not played Barnesley at this season, though. We're the second half season.
+
+🎤 SPEAKER_1 [1624s - 1625s]
+That should have been when you played Chelsea.
+
+🎤 SPEAKER_6 [1625s - 1627s]
+Tuesday.
+
+🎤 SPEAKER_3 [1627s - 1629s]
+No. Yeah. No. We'll play the next and then we Alright.
+
+🎤 SPEAKER_4 [1629s - 1634s]
+Interesting. And then we're praying them later Like, I must assume we got a game in hand there everyone then.
+
+👤 あなた [1634s - 1635s]
+On Lincoln.
+
+🎤 SPEAKER_1 [1636s - 1637s]
+No. No.
+
+🎤 SPEAKER_6 [1637s - 1639s]
+Okay. You played the same as Lincoln.
+
+👤 あなた [1639s - 1639s]
+Alright.
+
+🎤 SPEAKER_6 [1640s - 1641s]
+It is just catch up, isn't it? No.
+
+👤 あなた [1641s - 1644s]
+Can you close in the bush? I was just trying to make my window.
+
+🎤 SPEAKER_5 [1644s - 1645s]
+Yes.
+
+👤 あなた [1645s - 1648s]
+Oh, I see. Yeah. This card doesn't do that, unfortunately.
+
+🎤 SPEAKER_6 [1651s - 1656s]
+So you've got so you're playing Tuesday. Who's who's on Tuesday? Barnsley. It is Barnsley. Yeah. Oh, there we are then.
+
+👤 あなた [1669s - 1669s]
+It's it's in
+
+🎤 SPEAKER_2 [1669s - 1670s]
+Ginsan.
+
+🎤 SPEAKER_4 [1671s - 1674s]
+It's now it's on the outside and the inside.
+
+🎤 SPEAKER_6 [1674s - 1682s]
+I think if you asked all the other top teams in that division who who they wanted to win today, they would have said stopped for it. Yeah. You know?
+
+🎤 SPEAKER_6 [1683s - 1685s]
+Wouldn't have won the car if the winds.
+
+👤 あなた [1685s - 1686s]
+So You went away from it.
+
+🎤 SPEAKER_6 [1686s - 1687s]
+Yeah. You know,
+
+🎤 SPEAKER_5 [1688s - 1689s]
+Johnny.
+
+🎤 SPEAKER_6 [1689s - 1691s]
+They're sitting pretty. Yeah?
+
+🎤 SPEAKER_5 [1691s - 1694s]
+How how many points think we'll have at the end of the scene?
+
+🎤 SPEAKER_6 [1695s - 1695s]
+How many have we got now?
+
+🎤 SPEAKER_5 [1697s - 1700s]
+It 60? 60 points?
+
+🎤 SPEAKER_3 [1700s - 1700s]
+We know we have 56.
+
+🎤 SPEAKER_6 [1700s - 1716s]
+Isn't Yeah. 56. 56 points and played twenty seventh Yeah. So there's 19 games to go. 19 So that's fifty seven. Ain't there? Uh-huh. No. No.
+
+🎤 SPEAKER_6 [1716s - 1717s]
+That's not that's 10 to No.
+
+🎤 SPEAKER_3 [1717s - 1718s]
+What's nineteen to thirty.
+
+🎤 SPEAKER_6 [1719s - 1721s]
+20. 57.
+
+🎤 SPEAKER_5 [1721s - 1722s]
+Every single game.
+
+🎤 SPEAKER_6 [1722s - 1723s]
+Fifty seven points we've got.
+
+🎤 SPEAKER_3 [1723s - 1729s]
+The yeah. The maximum we can get if we win every game is 57 more. 57 more.
+
+👤 あなた [1729s - 1732s]
+So 140 is the max Well, we're not gonna get that much.
+
+🎤 SPEAKER_3 [1732s - 1735s]
+Let's just say 19 times now there's not Alright.
+
+🎤 SPEAKER_4 [1735s - 1737s]
+If we land with 90 something points, I think that's probably where we're gonna land.
+
+🎤 SPEAKER_3 [1738s - 1741s]
+Let's just say we will probably let's say we win 40 of them. No.
+
+🎤 SPEAKER_6 [1742s - 1743s]
+I think it 14.
+
+🎤 SPEAKER_3 [1743s - 1753s]
+Yeah. And then get 42 points from that. 42 plus is deficit. That's about ninety eight. Oh. Okay. Wanna get just shy of a hundred.
+
+👤 あなた [1755s - 1759s]
+We'll have, like, a couple of daughters. Well, yeah. That's pretty good. Because I know it's pretty good.
+
+🎤 SPEAKER_2 [1759s - 1759s]
+Yeah.
+
+🎤 SPEAKER_6 [1759s - 1777s]
+If you take if you take 27, so you give your point you sub a point in every game, and then half that. So you take maybe 14 of them as victories. So that's another 28. So you're close. You're close on maximum points.
+
+👤 あなた [1778s - 1780s]
+Right. I'll make our contact because they yeah. Cheers, pal.
+
+🎤 SPEAKER_2 [1780s - 1781s]
+Yeah.
+
+🎤 SPEAKER_3 [1781s - 1785s]
+Yeah, dad. My husband lost three out of the last five.
+
+🎤 SPEAKER_6 [1785s - 1786s]
+There you go.
+
+🎤 SPEAKER_4 [1786s - 1790s]
+So they're they're crowded. They? Yeah. Lincoln holding their own. Lincoln. Yeah.
+
+🎤 SPEAKER_1 [1790s - 1791s]
+When's they gonna Look.
+
+🎤 SPEAKER_4 [1791s - 1795s]
+I I I reading some Lincoln fan scene. We're surprised to be where we are as much as everyone else.
+
+🎤 SPEAKER_3 [1796s - 1799s]
+Seen in they came I've been, like, 12:11.
+
+👤 あなた [1799s - 1801s]
+Yeah. And then for themselves second.
+
+🎤 SPEAKER_4 [1802s - 1805s]
+Get on them. They've played some good football.
+
+🎤 SPEAKER_3 [1805s - 1806s]
+It did. Stop for
+
+🎤 SPEAKER_2 [1806s - 1806s]
+Litchie.
+
+🎤 SPEAKER_3 [1807s - 1814s]
+Stockport had second best attack last evening. Well, yeah, they they support should have gone up last season.
+
+🎤 SPEAKER_6 [1816s - 1820s]
+Should've That's the problem, Omiley. You you you should go up.
+
+🎤 SPEAKER_6 [1820s - 1828s]
+Every You don't go up. Yeah. And then the next season, you're knocking on the door, and you're the one. This is kinda catchy, Oh, wow.
+
+🎤 SPEAKER_6 [1829s - 1830s]
+I'll see you.
+
+👤 あなた [1830s - 1834s]
+He used to say he's had enough and thinks he's the main character.
+
+👤 あなた [1835s - 1837s]
+Oh, what devil is the car gonna put out in front of him then?
+
+🎤 SPEAKER_2 [1837s - 1838s]
+Shit.
+
+🎤 SPEAKER_3 [1838s - 1838s]
+Yeah.
+
+👤 あなた [1840s - 1841s]
+Well, 88 Traveling weighting a club perhaps.
+
+🎤 SPEAKER_3 [1842s - 1846s]
+Is a 111 points. Vexam's eight ninety two, and then stop short of eight seven.
+
+🎤 SPEAKER_5 [1846s - 1848s]
+I thought chocolate. Chocolate.
+
+🎤 SPEAKER_3 [1849s - 1851s]
+Well, if you're in the fourth, and they went up on playoffs.
+
+🎤 SPEAKER_6 [1851s - 1853s]
+Rexham was second, won't they?
+
+🎤 SPEAKER_3 [1853s - 1854s]
+Rexham. Yeah.
+
+🎤 SPEAKER_6 [1854s - 1857s]
+So that's there you go. That's 90 odd points.
+
+🎤 SPEAKER_1 [1857s - 1859s]
+Oh, Oh, woah. What happened there?
+
+🎤 SPEAKER_4 [1859s - 1870s]
+That range of an area very nearly reversed into that car. Oh. Millimeters away. Where's it going? He's had enough waiting. Johnny there. I that's his name from his number plate.
+
+🎤 SPEAKER_6 [1870s - 1871s]
+Well, it looks like.
+
+🎤 SPEAKER_3 [1872s - 1874s]
+Yeah. Johnny. Johnny.
+
+👤 あなた [1875s - 1876s]
+Yeah.
+
+🎤 SPEAKER_3 [1876s - 1876s]
+Silly, Johnny.
+
+🎤 SPEAKER_4 [1878s - 1879s]
+Can we a Joli?
+
+👤 あなた [1880s - 1882s]
+That's not really a name, is it, guys?
+
+🎤 SPEAKER_6 [1882s - 1885s]
+Joli Why why is it gonna be different? He's he's having a word with it.
+
+🎤 SPEAKER_3 [1886s - 1888s]
+So that way. Let's say, guess a Oh.
+
+🎤 SPEAKER_6 [1889s - 1890s]
+You're guess a He's not allowed blasting.
+
+👤 あなた [1890s - 1891s]
+Blasting. He's He's very nearly Yeah.
+
+🎤 SPEAKER_3 [1895s - 1896s]
+Yeah. Stockport. Yep.
+
+🎤 SPEAKER_5 [1897s - 1898s]
+Chulton.
+
+🎤 SPEAKER_3 [1898s - 1899s]
+Yep.
+
+🎤 SPEAKER_5 [1899s - 1900s]
+That's all I know.
+
+🎤 SPEAKER_4 [1902s - 1905s]
+It's only gonna be one winner between a smart car and a Range Rover, are they?
+
+🎤 SPEAKER_6 [1905s - 1907s]
+Nice. What?
+
+🎤 SPEAKER_5 [1907s - 1908s]
+What?
+
+🎤 SPEAKER_6 [1908s - 1910s]
+What's going on? White No.
+
+🎤 SPEAKER_3 [1910s - 1911s]
+W it goes like where?
+
+🎤 SPEAKER_5 [1912s - 1913s]
+Wet.
+
+🎤 SPEAKER_6 [1913s - 1914s]
+Cherry people
+
+🎤 SPEAKER_5 [1914s - 1914s]
+Wet.
+
+🎤 SPEAKER_6 [1915s - 1922s]
+You know, you live in Cannabis, so you have an idea of when they live in on. They don't My yeah. And you stay away from you.
+
+👤 あなた [1923s - 1923s]
+Where That would be a sensible thing to do.
+
+🎤 SPEAKER_3 [1924s - 1924s]
+Yeah.
+
+🎤 SPEAKER_2 [1926s - 1926s]
+Yeah.
+
+🎤 SPEAKER_4 [1930s - 1933s]
+It is a bit busier than the other the nominees. L o.
+
+🎤 SPEAKER_5 [1933s - 1934s]
+L a.
+
+🎤 SPEAKER_6 [1934s - 1937s]
+Saturday. It is Saturday. This is not 05:00, don't we?
+
+🎤 SPEAKER_3 [1937s - 1938s]
+The second was o.
+
+🎤 SPEAKER_6 [1938s - 1939s]
+This is 03:00 in true.
+
+🎤 SPEAKER_2 [1940s - 1940s]
+I got it.
+
+👤 あなた [1940s - 1943s]
+That's true. Maybe maybe those who don't follow for pulling cut out a little bit.
+
+🎤 SPEAKER_4 [1943s - 1945s]
+Yeah.
+
+👤 あなた [1945s - 1946s]
+Thinking or not.
+
+🎤 SPEAKER_2 [1947s - 1948s]
+Didn't really who realize it was not as a communication lap from company.
+
+👤 あなた [1948s - 1952s]
+But a lot we didn't every week. We had no clue. No.
+
+🎤 SPEAKER_4 [1953s - 1954s]
+Until yeah. You said, oh, you know, it's thirty kickoff.
+
+👤 あなた [1954s - 1955s]
+Remember you did? Oh, yeah. That's
+
+🎤 SPEAKER_6 [1955s - 1955s]
+right.
+
+👤 あなた [1955s - 1957s]
+Yeah. And we didn't.
+
+🎤 SPEAKER_4 [1957s - 1959s]
+We've made lots of plans around the fact that was 03:00.
+
+🎤 SPEAKER_3 [1960s - 1961s]
+It's a poor Rachel.
+
+🎤 SPEAKER_6 [1972s - 1975s]
+It's like but not they do it in every league, don't they?
+
+👤 あなた [1976s - 1977s]
+An average on one for the Premiership.
+
+🎤 SPEAKER_6 [1979s - 1980s]
+We lost them in the last And an average of street games for all the other divisions.
+
+🎤 SPEAKER_3 [1981s - 1983s]
+So close. Just take me the eye.
+
+👤 あなた [1983s - 1984s]
+Say that again?
+
+🎤 SPEAKER_1 [1984s - 1985s]
+Three games in
+
+🎤 SPEAKER_6 [1985s - 1986s]
+each division.
+
+🎤 SPEAKER_1 [1986s - 1986s]
+Oh, yeah.
+
+👤 あなた [1988s - 1989s]
+Apart from the prep There's coffee more than that, I'm guessing.
+
+🎤 SPEAKER_6 [1989s - 1991s]
+No. They are born. Nine. Today, they are born game.
+
+🎤 SPEAKER_3 [1994s - 1995s]
+Oh, wow.
+
+🎤 SPEAKER_6 [1997s - 2007s]
+And then they'll have they'll have one lap as five after the 03:00 once. And then they'll have sometimes, 'll have one at 08:00 on Saturday. Oh, yeah.
+
+🎤 SPEAKER_6 [2007s - 2014s]
+So it is but the other the weeks have three, and that past twelve every day. Every Sunday. Yeah.
+
+🎤 SPEAKER_4 [2015s - 2016s]
+It's gonna face.
+
+🎤 SPEAKER_5 [2017s - 2019s]
+It's like the Liverpool.
+
+👤 あなた [2020s - 2021s]
+Okay.
+
+🎤 SPEAKER_1 [2021s - 2022s]
+Knees off my chair, please.
+
+🎤 SPEAKER_6 [2022s - 2023s]
+Thank you.
+
+🎤 SPEAKER_2 [2024s - 2027s]
+Who's tense? H.
+
+🎤 SPEAKER_3 [2027s - 2028s]
+H four.
+
+🎤 SPEAKER_4 [2028s - 2032s]
+Yeah. I'd be tempted too around if I was deal. Yeah.
+
+👤 あなた [2032s - 2033s]
+If I was up here, no no no weight over the road here. Yeah.
+
+🎤 SPEAKER_6 [2035s - 2039s]
+Never That's what say. You can't you gotta know what's going on in your city. It's so good. But
+
+🎤 SPEAKER_3 [2040s - 2041s]
+B.
+
+🎤 SPEAKER_2 [2041s - 2042s]
+B. B.
+
+🎤 SPEAKER_4 [2051s - 2052s]
+You got in the stadium, this year, John, mind that?
+
+🎤 SPEAKER_6 [2052s - 2070s]
+We got a few beds. Yeah. We got first one is actually on a Sundays on the fifteenth of Feb. No. That's the France ski. Hi. We've got two other games with the rugby. Oh, yeah. Then we've got Brisk Bristol.
+
+🎤 SPEAKER_3 [2070s - 2071s]
+Bristol are playing harloquins.
+
+🎤 SPEAKER_6 [2071s - 2079s]
+Men and women. Joan. Alright. At the end of Jonah. May Jonah. Jonah. End of April end of April.
+
+🎤 SPEAKER_6 [2084s - 2086s]
+Metallica risk.
+
+🎤 SPEAKER_4 [2086s - 2087s]
+Have you?
+
+🎤 SPEAKER_6 [2088s - 2099s]
+I did say the beginning, I thought, well, I'm not gonna do it. 70. Yeah. But then now. We can go in and do a concert and be in a place where you can hear the music. No. It's does for me.
+
+👤 あなた [2099s - 2100s]
+I I I have no interest.
+
+🎤 SPEAKER_4 [2101s - 2102s]
+You're not gonna be getting a ticket from me, Shannon.
+
+🎤 SPEAKER_2 [2103s - 2104s]
+So No. Know.
+
+🎤 SPEAKER_6 [2104s - 2106s]
+I have no interest in listening to their music.
+
+👤 あなた [2107s - 2107s]
+No.
+
+🎤 SPEAKER_1 [2107s - 2108s]
+Don Custom.
+
+👤 あなた [2108s - 2111s]
+So where am I gonna get out? I'll just make that just about.
+
+🎤 SPEAKER_6 [2111s - 2124s]
+But that's on a it's on a Sunday afternoon, but it's like 03:00 in the afternoon, we start with. So Yeah. Twentieth. So I don't miss if I was gonna miss church, I wouldn't buy with her. No.
+
+👤 あなた [2124s - 2128s]
+No. No. Yeah. But you are So it'd be a busy it'd be a big crowd, obviously.
+
+🎤 SPEAKER_6 [2129s - 2134s]
+You won't get a little long as I've imagined, so you can ask. One? I didn't get less than 30,000.
+
+🎤 SPEAKER_3 [2134s - 2137s]
+You won't get that.
+
+🎤 SPEAKER_6 [2137s - 2139s]
+By the way actually use the state because it's it's rubbish.
+
+👤 あなた [2140s - 2143s]
+It's not viable for the stadium. It's not a great atmosphere.
+
+🎤 SPEAKER_2 [2143s - 2144s]
+Yeah.
+
+🎤 SPEAKER_6 [2144s - 2146s]
+So they can have over that. Yes.
+
+🎤 SPEAKER_4 [2147s - 2149s]
+I don't know why. Imagine they'll loved them.
+
+👤 あなた [2154s - 2156s]
+Oh, yeah. Loved them.
+
+🎤 SPEAKER_6 [2156s - 2159s]
+And and his people around it, his mates.
+
+🎤 SPEAKER_2 [2160s - 2160s]
+They all looked them.
+
+🎤 SPEAKER_6 [2160s - 2162s]
+Yeah.
+
+👤 あなた [2162s - 2165s]
+I just Oh, popular, I imagine. Yeah. With that age maybe not with the youngsters, but but It's just the music.
+
+🎤 SPEAKER_3 [2168s - 2169s]
+It's never You you know, get someone.
+
+🎤 SPEAKER_6 [2169s - 2171s]
+The music is hasn't done it for me.
+
+🎤 SPEAKER_2 [2171s - 2172s]
+I I gotta Oh, no. No.
+
+🎤 SPEAKER_5 [2172s - 2173s]
+It's it's fuck.
+
+🎤 SPEAKER_4 [2175s - 2178s]
+It's lots there that I wouldn't be in, like, Beyonce and all that.
+
+🎤 SPEAKER_6 [2178s - 2178s]
+Yeah.
+
+🎤 SPEAKER_4 [2179s - 2186s]
+Not my cup of tea at all. Well, there's a weird cultish element Yeah. Beyonce as well. Same with Taylor Swift, actually, there. It's not her fault.
+
+🎤 SPEAKER_4 [2187s - 2188s]
+I said she could sing some nice songs, but but And she done very well, actually.
+
+🎤 SPEAKER_6 [2190s - 2199s]
+Fair dues on her. She would was monetization. And when you talk about cuts, yeah, we were in the crowd at the beginning. Oh, yeah. Outside with them in the queue.
+
+🎤 SPEAKER_6 [2200s - 2209s]
+'ve been after them, and and some of them had street break. This was like You find them with She done two there It's for the old one. In cab Oh, yeah.
+
+🎤 SPEAKER_3 [2209s - 2210s]
+And need two.
+
+🎤 SPEAKER_6 [2211s - 2215s]
+She's done she was doing five at Wednesday. Wow. Five nights at Wendy.
+
+👤 あなた [2215s - 2215s]
+Wow.
+
+🎤 SPEAKER_6 [2216s - 2218s]
+These guys were going to a wall. Yeah.
+
+👤 あなた [2219s - 2220s]
+That's mad at it.
+
+🎤 SPEAKER_4 [2220s - 2220s]
+Every single He knows exactly the same gig.
+
+🎤 SPEAKER_6 [2222s - 2229s]
+Yeah. Same song, same gig, everything every single time they go there. And I just don't
+
+🎤 SPEAKER_2 [2229s - 2229s]
+Yeah.
+
+🎤 SPEAKER_6 [2230s - 2233s]
+People say to me, oh, you looking forward to tonight?
+
+🎤 SPEAKER_3 [2233s - 2234s]
+I'm listening.
+
+🎤 SPEAKER_6 [2234s - 2238s]
+Yeah. And in a way, I said, because I'm not paying for it. Yeah.
+
+🎤 SPEAKER_2 [2238s - 2238s]
+Yeah.
+
+👤 あなた [2238s - 2240s]
+Yeah. That's pretty fast.
+
+🎤 SPEAKER_2 [2240s - 2240s]
+Oh, yeah.
+
+🎤 SPEAKER_6 [2241s - 2243s]
+Yeah. No. It's free to me.
+
+🎤 SPEAKER_4 [2244s - 2245s]
+So I guess Joe Sandbrook's on the other part of the stadium machine.
+
+🎤 SPEAKER_6 [2246s - 2257s]
+Joe is on a search team. Well, no. Not a search team. She's on a first responder team. They walk basically, they walk around the stadium
+
+🎤 SPEAKER_2 [2258s - 2258s]
+Where is Oh, yeah?
+
+🎤 SPEAKER_6 [2259s - 2263s]
+And if there's any trouble From me. Call them, and their first in.
+
+👤 あなた [2263s - 2264s]
+Are they? Yeah. Yeah. Oh, good on joke.
+
+🎤 SPEAKER_4 [2264s - 2268s]
+That seems a bit tough, don't it? So she's on that scene. She gets stuck in, does she?
+
+🎤 SPEAKER_6 [2269s - 2269s]
+Oh, yeah.
+
+🎤 SPEAKER_4 [2271s - 2274s]
+They've that's not oh, Metallica, they might be a little bit rougher, imagine. Well, it it could be a Okay.
+
+🎤 SPEAKER_6 [2274s - 2279s]
+Yeah. Okay. You have a choice. You don't have to do it.
+
+🎤 SPEAKER_4 [2279s - 2283s]
+Mind you, Metallica. All the fans are probably Well fifty plus or have you A bit of a bit bit of an age.
+
+🎤 SPEAKER_6 [2284s - 2291s]
+Yeah. But we've we've thought that before. A bit of bad bands. Oh, yeah. And then they tune up.
+
+🎤 SPEAKER_1 [2292s - 2292s]
+And it's it's mothers and daughters.
+
+👤 あなた [2293s - 2294s]
+Oh, yeah.
+
+🎤 SPEAKER_6 [2294s - 2296s]
+And fathers and and sons.
+
+🎤 SPEAKER_3 [2296s - 2296s]
+It's Oh, I get different cards.
+
+👤 あなた [2297s - 2298s]
+What do think? Yeah.
+
+🎤 SPEAKER_6 [2298s - 2300s]
+You know, you guys the parents who were there at the beginning.
+
+🎤 SPEAKER_5 [2304s - 2304s]
+And they're bringing their kids and they're thinking, woah, won't it?
+
+👤 あなた [2305s - 2306s]
+Yeah.
+
+🎤 SPEAKER_6 [2306s - 2317s]
+But, yeah, this it is. It's fine. That is say, I can Okay. I could go in there and work in some place where you can't even hear the music, which is fun by you came tired mitigation.
+
+🎤 SPEAKER_6 [2319s - 2325s]
+Everybody else wants to go and listen to it, and I think Just send me off here. I'll do it. I'll be happy.
+
+🎤 SPEAKER_3 [2325s - 2327s]
+Nicely. Yeah.
+
+🎤 SPEAKER_2 [2328s - 2331s]
+And dying. Yeah.
+
+🎤 SPEAKER_6 [2336s - 2344s]
+Watching the rugby. And so we go inside and we get to watch it, know, we're face to face with the crowd.
+
+👤 あなた [2345s - 2347s]
+So Yeah. You meant to you meant to be looking out at the crowd rather than at, like Oh, no.
+
+🎤 SPEAKER_6 [2348s - 2353s]
+We look we basically stand at the top with the colobometry. You Well, I think so.
+
+👤 あなた [2353s - 2356s]
+You look down on because so high. Is that?
+
+🎤 SPEAKER_6 [2356s - 2360s]
+Yeah. The crowd the seats are in front of us. Oh, yeah. So we're actually looking down on it.
+
+🎤 SPEAKER_3 [2360s - 2362s]
+Seventeen.
+
+👤 あなた [2362s - 2364s]
+Oh, yeah. So do they call it? The vomitary?
+
+🎤 SPEAKER_6 [2364s - 2374s]
+It's it's because you go it's everything to do with the fact you go up it. Oh, yeah. So you got steps to go up.
+
+👤 あなた [2374s - 2374s]
+Yeah.
+
+🎤 SPEAKER_6 [2375s - 2376s]
+And then you got steps to go down into your seats.
+
+👤 あなた [2376s - 2379s]
+Oh, I see. Yeah. So, yeah, then you it abomachy.
+
+🎤 SPEAKER_4 [2381s - 2384s]
+You gotta not be too giddy with heights to get up there, is it?
+
+🎤 SPEAKER_6 [2384s - 2391s]
+Or Well, we're on level four, which is okay. Yeah. Level in.
+
+👤 あなた [2392s - 2392s]
+Yeah.
+
+🎤 SPEAKER_6 [2393s - 2396s]
+You know, some of our guys, they take them on training around the stadium.
+
+🎤 SPEAKER_3 [2396s - 2397s]
+Really?
+
+🎤 SPEAKER_6 [2397s - 2406s]
+Oh, yeah. And they take them on the what they call a virtual test. Oh, you're doing a practice. Oh, yeah. And you go to walk all the to the top of the stadium. Oh, yeah.
+
+🎤 SPEAKER_6 [2407s - 2410s]
+So when you get to level six, that's 33 rows up.
+
+🎤 SPEAKER_6 [2420s - 2430s]
+Then turn around you open your eyes. Oh, but yeah. And then you find out because lots of people told that you got a fire engine. He's coming this way.
+
+🎤 SPEAKER_6 [2431s - 2440s]
+He should let me go, is he? Let me go. Yep. Fair enough. And then basically, lots of people are saying, no. I don't have vertical. I don't have it.
+
+🎤 SPEAKER_2 [2440s - 2440s]
+Yeah.
+
+🎤 SPEAKER_1 [2440s - 2441s]
+They go up and do the vertical test, turn around Yeah.
+
+🎤 SPEAKER_4 [2445s - 2447s]
+And and find out they got They said they're getting a bit wobbly. Yeah.
+
+🎤 SPEAKER_6 [2448s - 2457s]
+Don't force you to work there. No. No. No. No. No. If they if you say this and I got vertigo. They say, right. You're on level four and down.
+
+👤 あなた [2457s - 2457s]
+Yeah.
+
+🎤 SPEAKER_4 [2458s - 2460s]
+So Yeah. There's enough stewards, I guess, guess, to accommodate that.
+
+🎤 SPEAKER_6 [2462s - 2471s]
+They're pretty flexible in that way. Third is on You know, they don't force you to to be uncomfortable or if for it to be dangerous for you.
+
+👤 あなた [2472s - 2472s]
+Yeah.
+
+🎤 SPEAKER_6 [2472s - 2473s]
+So best.
+
+👤 あなた [2473s - 2474s]
+Baskets.
+
+🎤 SPEAKER_5 [2474s - 2475s]
+Yeah.
+
+🎤 SPEAKER_6 [2476s - 2481s]
+Was outside at the beginning. I was on the search team on Big 5. No. Yeah? Yeah.
+
+🎤 SPEAKER_4 [2482s - 2486s]
+You've been around the but you've earned your what you've earned your user John. Are you? Well, yeah.
+
+🎤 SPEAKER_6 [2486s - 2491s]
+Then then the supervisor there was called Insight to do the job that he's doing now.
+
+👤 あなた [2491s - 2493s]
+Oh, yeah? And this team.
+
+🎤 SPEAKER_2 [2493s - 2493s]
+Oh, yeah.
+
+🎤 SPEAKER_6 [2493s - 2495s]
+And he took five of us with him.
+
+🎤 SPEAKER_4 [2495s - 2496s]
+Is that right?
+
+🎤 SPEAKER_6 [2497s - 2500s]
+So we went with him to this team, and we stayed there ever since.
+
+🎤 SPEAKER_4 [2500s - 2502s]
+No. That's good. So most people who work there good.
+
+🎤 SPEAKER_6 [2506s - 2519s]
+We have a good laugh. You gotta have a sense of humor to work our team. Oh, yeah? Yeah. You you if you haven't you you're doing trouble. Oh, yeah. We're gonna have a sense to you, mate. Everybody takes the makeup.
+
+🎤 SPEAKER_6 [2519s - 2525s]
+Everybody else. My my oh, of course, I'm a second. Everybody tracking jokes. So it's great.
+
+👤 あなた [2525s - 2527s]
+It's a good atmosphere. They got it. That's good.
+
+🎤 SPEAKER_6 [2527s - 2533s]
+And then we've got some there at the moment. That we got a couple of moaners there at the moment.
+
+🎤 SPEAKER_2 [2533s - 2534s]
+Have you? Yeah.
+
+🎤 SPEAKER_6 [2534s - 2536s]
+Mean, nothing's ever right for them.
+
+👤 あなた [2536s - 2537s]
+Yeah.
+
+🎤 SPEAKER_6 [2537s - 2544s]
+And they're very idea where they are. Very shy of of actually working.
+
+👤 あなた [2544s - 2548s]
+Where is Espana? So the eng or do any No. People.
+
+🎤 SPEAKER_1 [2548s - 2549s]
+Is it? Yeah. And all the people.
+
+🎤 SPEAKER_6 [2549s - 2557s]
+Yeah. They but they have They is not Like, they'll ask us sometimes.
+
+🎤 SPEAKER_4 [2557s - 2558s]
+We're over subscribed.
+
+🎤 SPEAKER_6 [2558s - 2562s]
+On how many people they got. Oh, Especially in the concerts.
+
+👤 あなた [2562s - 2563s]
+Oh, yeah.
+
+🎤 SPEAKER_6 [2563s - 2574s]
+Yeah. Because March is where is where about it, and you're is behind the stage. So we're not doing that. Oh, yeah. So the last us maybe to go and work somewhere else on another team.
+
+👤 あなた [2575s - 2580s]
+Oh, yeah. Classic. Yeah. That is people learning about that. There's some teams we can work on. Oh.
+
+🎤 SPEAKER_6 [2580s - 2583s]
+Because they're just not nice people. Oh, yeah. But there's others.
+
+🎤 SPEAKER_1 [2583s - 2585s]
+We've we've of us have worked with them before.
+
+🎤 SPEAKER_6 [2586s - 2587s]
+Oh, yeah. And we just go.
+
+🎤 SPEAKER_6 [2588s - 2591s]
+We work with them. We do what we're asked to do.
+
+🎤 SPEAKER_3 [2591s - 2591s]
+Yeah.
+
+🎤 SPEAKER_6 [2591s - 2601s]
+And then, you know, when we finish, we go back to our team. Yeah. You've never And we just got on great with them. Those day second team. They just do a better. New runs.
+
+🎤 SPEAKER_6 [2601s - 2610s]
+Team that we normally help. She's a stickler. All she asked her team to do is do the job they're supposed to do. Alright. You know?
+
+🎤 SPEAKER_2 [2611s - 2611s]
+And her team love her.
+
+🎤 SPEAKER_6 [2613s - 2631s]
+We we get on great with her. Yeah. But some of our team went to work for the one day, and they come back. They were moaning. They were they didn't wanna do this. They didn't wanna do that. She said when she seen her, she said a few choice words to us about them. Oh, yeah. She bought keen on them.
+
+🎤 SPEAKER_4 [2631s - 2633s]
+She done them back?
+
+🎤 SPEAKER_6 [2633s - 2640s]
+She didn't want them back. So when we went to work with them the next night, she said, oh, they sent the 18 now. Well, they
+
+🎤 SPEAKER_2 [2641s - 2641s]
+Oh, yeah.
+
+🎤 SPEAKER_6 [2641s - 2645s]
+That's what she that's what she calls us. So there's four of No.
+
+🎤 SPEAKER_4 [2645s - 2646s]
+Work.
+
+👤 あなた [2646s - 2648s]
+Work, think, makes a massive difference. It does.
+
+🎤 SPEAKER_6 [2648s - 2654s]
+Super gotta enjoy it, mate. If you don't enjoy it, then it it can be become a really tough, horrible job.
+
+👤 あなた [2655s - 2656s]
+Yeah.
+
+🎤 SPEAKER_6 [2656s - 2660s]
+It's You know, when if you do you're not doing it for the money because you don't get paid loans of money. Although Yeah.
+
+👤 あなた [2661s - 2663s]
+It's a nicer. Well, that Yeah.
+
+🎤 SPEAKER_6 [2663s - 2669s]
+You know, I know loads of people in there that they got a holiday holiday. I have money from the state that goes in the holiday first.
+
+👤 あなた [2669s - 2671s]
+Pays for their holidays.
+
+🎤 SPEAKER_2 [2671s - 2673s]
+Yeah. That's good.
+
+🎤 SPEAKER_6 [2675s - 2677s]
+So it's great. I love it. I it's a brilliant job.
+
+🎤 SPEAKER_4 [2679s - 2683s]
+If you have a choice as well, John, Like, say, there's a Sunday gig or whatever, and you opt in and opt out per per job, or
+
+👤 あなた [2683s - 2684s]
+You can do.
+
+🎤 SPEAKER_6 [2684s - 2686s]
+You can do. Sometimes, I
+
+🎤 SPEAKER_5 [2686s - 2687s]
+USPS.
+
+🎤 SPEAKER_6 [2687s - 2688s]
+Never mind. I do.
+
+🎤 SPEAKER_4 [2690s - 2693s]
+But, I mean, is it enforced You like, if you got the job, there's an expectation that you turn up to be expectation that you do You don't miss more than, I'd say, when you do you do at least three to four a year.
+
+👤 あなた [2704s - 2704s]
+Yeah.
+
+🎤 SPEAKER_6 [2704s - 2705s]
+Yeah. You're clear.
+
+👤 あなた [2705s - 2706s]
+Oh, that's plenty. Yeah.
+
+🎤 SPEAKER_1 [2706s - 2707s]
+Yeah.
+
+🎤 SPEAKER_6 [2707s - 2708s]
+You do three to four a year, which you've you know?
+
+🎤 SPEAKER_6 [2712s - 2720s]
+Yeah. If you don't if you if you miss it. Because we have a number. We have a oversubscribed on most teams.
+
+👤 あなた [2721s - 2722s]
+Was it?
+
+🎤 SPEAKER_6 [2722s - 2733s]
+So what they'll do is they'll you can have I think it's 21 on its team with the supervisor and the deputy supervisor. Oh, yeah.
+
+🎤 SPEAKER_6 [2734s - 2741s]
+So what you do, they they put off a swap out, and you sign up for the event. Here and then John know.
+
+🎤 SPEAKER_4 [2741s - 2742s]
+Yeah.
+
+👤 あなた [2742s - 2743s]
+Oh, yeah. First come, first servers there.
+
+🎤 SPEAKER_6 [2744s - 2756s]
+Well, basically Oh. Twenty one, the first twenty on the list is on the list to go and work. Yeah. And then if you're if you sign up later then, you go on and reserve list.
+
+🎤 SPEAKER_6 [2757s - 2758s]
+Oh, yeah.
+
+🎤 SPEAKER_6 [2759s - 2761s]
+And then you might not be on your team. New York
+
+🎤 SPEAKER_2 [2761s - 2761s]
+Times.
+
+🎤 SPEAKER_6 [2762s - 2773s]
+And what the supervisor will do then is say, listen. There's plenty on other teams. If you wanna come in, and work on another team Yeah. Then you can do that.
+
+👤 あなた [2773s - 2773s]
+Yeah.
+
+🎤 SPEAKER_6 [2773s - 2780s]
+Otherwise, if you don't wanna do that, then fine. Yeah. Okay. But Yeah. I do most of it.
+
+👤 あなた [2780s - 2781s]
+I don't show off.
+
+🎤 SPEAKER_3 [2781s - 2783s]
+No.
+
+🎤 SPEAKER_6 [2783s - 2784s]
+Like, I'll do this one on the fifteenth.
+
+👤 あなた [2785s - 2789s]
+I guess it'll It means I gotta miss church, but that's we have Very rare. Yeah.
+
+🎤 SPEAKER_6 [2790s - 2796s]
+Yeah. So I've spoken to like, was on the door, so Steve's You covered it.
+
+🎤 SPEAKER_4 [2796s - 2797s]
+So Yeah. That's good. Yeah.
+
+🎤 SPEAKER_3 [2797s - 2799s]
+Sweet. It's yes.
+
+🎤 SPEAKER_6 [2801s - 2805s]
+But But I've also called off on a assembly as well, the tights. Yeah. Yeah. Well Are you waiting?
+
+🎤 SPEAKER_5 [2805s - 2806s]
+Yes. With?
+
+🎤 SPEAKER_4 [2806s - 2812s]
+Yeah. I was just thinking because other people have other jobs, they might be like a class or have you, and they can't Yeah. I'm gonna say it.
+
+👤 あなた [2812s - 2813s]
+Yeah. That's good.
+
+🎤 SPEAKER_6 [2816s - 2822s]
+They've won Seventeen And We Had A Lot Of Guys From Swansea. You worked in in the stadium in Swansea.
+
+👤 あなた [2822s - 2822s]
+Oh, yeah.
+
+🎤 SPEAKER_6 [2822s - 2825s]
+Or stadium. That. Go ahead.
+
+🎤 SPEAKER_4 [2825s - 2826s]
+Yes, sir.
+
+🎤 SPEAKER_2 [2826s - 2827s]
+I'll try. I'll try.
+
+🎤 SPEAKER_3 [2827s - 2832s]
+Sorry. Don't know talking. Guess guess how many goals five minutes have scored in 19 games?
+
+🎤 SPEAKER_2 [2834s - 2836s]
+Right. Okay.
+
+🎤 SPEAKER_4 [2836s - 2842s]
+Seven two goals a game, I'm going on average, so that's let let me just run up to 40.
+
+🎤 SPEAKER_3 [2843s - 2844s]
+Oh, no. They're 72.
+
+🎤 SPEAKER_2 [2844s - 2845s]
+Oh.
+
+🎤 SPEAKER_6 [2845s - 2850s]
+See, in the middle, I knew I bumped fat off. 72 girls. I know that's mad, didn't it?
+
+🎤 SPEAKER_3 [2850s - 2851s]
+70 well, 72 to follow my 19
+
+🎤 SPEAKER_6 [2852s - 2853s]
+How many have Cain scored?
+
+🎤 SPEAKER_3 [2854s - 2854s]
+Probably quite.
+
+🎤 SPEAKER_6 [2854s - 2857s]
+See? Have a look at what Cain average 3.
+
+🎤 SPEAKER_3 [2857s - 2859s]
+7 goals a game.
+
+👤 あなた [2859s - 2860s]
+Yeah. That's mad.
+
+🎤 SPEAKER_3 [2860s - 2863s]
+Point eight. No. Three point just stand up to four.
+
+🎤 SPEAKER_4 [2863s - 2864s]
+Four goals.
+
+🎤 SPEAKER_2 [2864s - 2867s]
+So they they might have a good opportunity this year in Europe then, is it?
+
+🎤 SPEAKER_3 [2867s - 2871s]
+They they've they've drawn twice and one seventeen, and that's it. They don't go and go off now.
+
+👤 あなた [2872s - 2875s]
+No. So yeah.
+
+🎤 SPEAKER_3 [2875s - 2880s]
+And you gotta look at what they're playing, haven't you? And they're they're very good to see the ball seed ball difference of 58.
+
+👤 あなた [2886s - 2889s]
+The a few of them. Yeah. I'll Good good for I'm pleased that he's actually in a team that that he you know?
+
+🎤 SPEAKER_5 [2892s - 2893s]
+Omi.
+
+🎤 SPEAKER_1 [2893s - 2894s]
+They're doing well.
+
+🎤 SPEAKER_2 [2894s - 2897s]
+Enjoy the vet later. Yeah. A bit earlier, you mean?
+
+🎤 SPEAKER_6 [2897s - 2901s]
+Yeah. It's all night to your wing. You're a bit later.
+
+🎤 SPEAKER_6 [2905s - 2917s]
+Yeah. And I understand you. Yeah. He's called 21, Omi. 21. That's the That's a third. It's not match, isn't it? 7072 goals, and he scored 21.
+
+🎤 SPEAKER_2 [2917s - 2919s]
+Oh, wait. No.
+
+🎤 SPEAKER_4 [2919s - 2925s]
+He's on Most thirteens will be happy with their striker scoring 20 goals in a season. Yeah. And that's a that'd be a good that would be an excellent result.
+
+👤 あなた [2926s - 2927s]
+Now that's mad, isn't it?
+
+🎤 SPEAKER_6 [2927s - 2933s]
+It is mad. But then you you have really got a look at what they're playing.
+
+🎤 SPEAKER_3 [2934s - 2937s]
+They're playing about They're like they got five feet of teeth over the next Yeah. Maybe.
+
+🎤 SPEAKER_6 [2937s - 2937s]
+Maybe.
+
+🎤 SPEAKER_3 [2937s - 2938s]
+And wow.
+
+🎤 SPEAKER_2 [2939s - 2940s]
+Yeah.
+
+🎤 SPEAKER_6 [2940s - 2942s]
+I should check. No liver
+
+🎤 SPEAKER_6 [2949s - 2954s]
+There's about four including them, there's I would say there's five including them.
+
+🎤 SPEAKER_3 [2954s - 2957s]
+Let's see. So Yeah. Hoffenhagen Yeah.
+
+🎤 SPEAKER_3 [2957s - 2967s]
+And nice bit, light light sig, stick which we're going back.
+
+👤 あなた [2967s - 2969s]
+Yeah. And mom.
+
+🎤 SPEAKER_3 [2971s - 2973s]
+And guess you could include but not really.
+
+🎤 SPEAKER_6 [2973s - 2978s]
+And they're probably scoring average three goals against them. Yeah.
+
+🎤 SPEAKER_3 [2978s - 2981s]
+So it's Let me let me check. I can't push on they beat, like, Doma, like, before now.
+
+🎤 SPEAKER_6 [2981s - 2983s]
+Yes. Yeah. That's nice. That's good.
+
+🎤 SPEAKER_5 [2983s - 2984s]
+They're too good.
+
+🎤 SPEAKER_4 [2984s - 2986s]
+So I think about a scotch report, to be honest.
+
+🎤 SPEAKER_3 [2988s - 2990s]
+You've worked in a way So you really did the last 10 wins.
+
+👤 あなた [2991s - 2992s]
+Go for it. Yeah.
+
+🎤 SPEAKER_3 [2992s - 3020s]
+So two nil, five one, that was again five one. You're a third. Three one, eight eight one against Wolfsburg. Five now. Four now. Two walls. Three one. Five now against the guy to the third. Three one six two gets eight eighth place. The big PSG to one. They beat I've left cruising three now. They beat much of the three now.
+
+🎤 SPEAKER_6 [3020s - 3021s]
+See?
+
+🎤 SPEAKER_3 [3021s - 3025s]
+They beat Dortmund two So, yeah, the French, a one against Wolfsburg.
+
+🎤 SPEAKER_6 [3026s - 3027s]
+That's that's that's that is crazy.
+
+👤 あなた [3028s - 3030s]
+Oh, no.
+
+🎤 SPEAKER_6 [3031s - 3033s]
+That that I don't know. It doesn't help them. What it doesn't do, it against us all.
+
+🎤 SPEAKER_6 [3038s - 3050s]
+Yeah. But what they do in the champions league, they'll always qualify They'll always qualify for the lots of stages. But then they come up against one of the big guys and and come and step. They're not used to step quality.
+
+🎤 SPEAKER_5 [3051s - 3056s]
+We still don't even have it no more points than ups. If 53. Right? 53.
+
+🎤 SPEAKER_3 [3056s - 3058s]
+That's 19 games. We played eight more games.
+
+🎤 SPEAKER_6 [3062s - 3068s]
+Bothering about how many games. We still got more points. Let me go with that. Eight minutes. Yeah.
+
+🎤 SPEAKER_6 [3072s - 3075s]
+You wrote there now? Yeah. Yeah. That's yeah. You get mixed up with that.
+
+👤 あなた [3076s - 3079s]
+Oh, yeah. I mean, it's been long some coming down. Yeah? Yeah.
+
+🎤 SPEAKER_3 [3079s - 3081s]
+It's been long. For East.
+
+🎤 SPEAKER_6 [3081s - 3082s]
+They've many good, excellent. Yes.
+
+🎤 SPEAKER_4 [3103s - 3107s]
+Many, like, you look I mean, you've changed so much in the last two years. Feels like ten years ago, Yeah.
+
+👤 あなた [3108s - 3112s]
+Here we go.
+
+🎤 SPEAKER_6 [3116s - 3119s]
+Was this weather when we was walking back to the kids? Oh, yeah.
+
+👤 あなた [3119s - 3120s]
+Yeah.
+
+🎤 SPEAKER_4 [3121s - 3124s]
+Trying to walk a little faster just to fully getting to where.
+
+🎤 SPEAKER_6 [3124s - 3129s]
+It's but we are. It's a combination of that little breeze in it that comes
+
+🎤 SPEAKER_2 [3130s - 3130s]
+Yeah.
+
+🎤 SPEAKER_4 [3131s - 3133s]
+Was good that you're able to join us, John. Yeah.
+
+🎤 SPEAKER_6 [3133s - 3134s]
+It was great day. Thanks.
+
+🎤 SPEAKER_4 [3134s - 3136s]
+Did you I got you I got the ticket, didn't I? Yeah.
+
+🎤 SPEAKER_6 [3136s - 3137s]
+Yeah. You got it.
+
+🎤 SPEAKER_2 [3137s - 3138s]
+So Yeah. I'll keep all of that one then.
+
+👤 あなた [3138s - 3138s]
+Yeah.
+
+🎤 SPEAKER_3 [3139s - 3141s]
+They'll need to ask when when else they ask to stay up there?
+
+👤 あなた [3141s - 3142s]
+They will.
+
+🎤 SPEAKER_4 [3142s - 3145s]
+We'll just And what I did?
+
+🎤 SPEAKER_2 [3145s - 3145s]
+I forgot I meant to.
+
+👤 あなた [3145s - 3148s]
+I should've given it to my dad, but still I kinda forgot about it really.
+
+🎤 SPEAKER_3 [3148s - 3150s]
+And I all I did was watch that.
+
+🎤 SPEAKER_3 [3154s - 3156s]
+Eight? It's 08:00.
+
+👤 あなた [3156s - 3157s]
+Because it's your birthday.
+
+🎤 SPEAKER_3 [3159s - 3164s]
+I know what I watch you play that restaurant's game where you where you control the restaurant.
+
+🎤 SPEAKER_2 [3164s - 3165s]
+Oh, yeah. Yeah.
+
+🎤 SPEAKER_4 [3167s - 3169s]
+John, as you know, my dad's a to do.
+
+🎤 SPEAKER_6 [3169s - 3175s]
+Drop me to the door. Oh, know. I know. My dad took the Hey, guys. Thank you very much.
+
+👤 あなた [3177s - 3178s]
+See you, John.
+
+🎤 SPEAKER_4 [3178s - 3180s]
+See you. Bye to John, guys. Hi, John.
+
+🎤 SPEAKER_6 [3180s - 3184s]
+Hey, you. Yep. It's tomorrow, Nat. See you tomorrow. Thanks.
+
+🎤 SPEAKER_4 [3184s - 3187s]
+Cheers, John. See you, mate. Take care.
+
+🎤 SPEAKER_1 [3187s - 3187s]
+Bye.
+
+🎤 SPEAKER_2 [3192s - 3193s]
+I'm sure you get first.
+
+👤 あなた [3200s - 3201s]
+Are you going to shop, is he?
+
+🎤 SPEAKER_4 [3203s - 3205s]
+I didn't go in his house. He's gone up the road.
+
+👤 あなた [3206s - 3207s]
+He's going he's going straight out.
+
+🎤 SPEAKER_4 [3215s - 3219s]
+Well, he didn't mention that. He said, if he said I was going to the shop, I would have dropped him.
+
+🎤 SPEAKER_5 [3219s - 3222s]
+Yeah. But then he would get no way to get up.
+
+🎤 SPEAKER_3 [3233s - 3242s]
+And have you heard about the thing where it's like it's like the champions league, but, like, we're, like, it's the top 20 best clubs in the world.
+
+🎤 SPEAKER_3 [3243s - 3245s]
+Like, that Alright. Like league.
+
+🎤 SPEAKER_2 [3246s - 3246s]
+Yeah.
+
+🎤 SPEAKER_4 [3246s - 3249s]
+They well, they tried it and it fails, wasn't it? No. It's it.
+
+👤 あなた [3249s - 3255s]
+We had I'll send it. Let me years ago? Like, where the The fans revolted. To be on Omijay, Boston, and my
+
+🎤 SPEAKER_3 [3255s - 3258s]
+Man City, Arsenal, Inter.
+
+👤 あなた [3258s - 3259s]
+Yeah.
+
+🎤 SPEAKER_4 [3259s - 3262s]
+They tried it. And then fan zided it. Yeah.
+
+🎤 SPEAKER_5 [3262s - 3262s]
+What happened?
+
+🎤 SPEAKER_3 [3264s - 3269s]
+When they get all the big cousins around the world if they leave. Was it interested of them leaves or is it included?
+
+🎤 SPEAKER_4 [3270s - 3278s]
+They were going to include them, but the problem was it was a bit it wasn't yeah, Twitch games, and it was like there was no ratification or promotion Yeah. No.
+
+👤 あなた [3278s - 3280s]
+I think someone's like But that was me.
+
+🎤 SPEAKER_3 [3280s - 3300s]
+It didn't I I see the idea, of, getting really big teams and putting them against each other all And then again, it's about gonna be paying, like, 90 games season.
+
+🎤 SPEAKER_4 [3302s - 3312s]
+Yeah. It was there's a bit who's caught caused a massive uproar. They they announced it, and then all the fans revolted because they But how long ago was it?
+
+🎤 SPEAKER_4 [3314s - 3318s]
+I would guess about three or four years ago, something like that.
+
+🎤 SPEAKER_3 [3325s - 3326s]
+Do you think?
+
+🎤 SPEAKER_4 [3328s - 3329s]
+I didn't like it because it was It will all happen.
+
+🎤 SPEAKER_4 [3334s - 3337s]
+It was well, I did I can't remember why I didn't like it, I didn't like it.
+
+🎤 SPEAKER_4 [3343s - 3348s]
+Maybe maybe it's like just didn't seem right. Abandon your own domestic lead to go and play.
+
+🎤 SPEAKER_3 [3348s - 3352s]
+And it's also used to travel, like, every game. Like, on the plane.
+
+👤 あなた [3353s - 3353s]
+Yeah.
+
+🎤 SPEAKER_3 [3354s - 3363s]
+Like, if you wanna play say, what was it? Man City, one play against into Milan. Yes. Like, that's, like, four hour and Yeah.
+
+🎤 SPEAKER_3 [3367s - 3376s]
+It was Everything okay. I'll be telling them to travel travel. So so that would not that was they would have no fans watching.
+
+🎤 SPEAKER_5 [3378s - 3378s]
+That one person?
+
+🎤 SPEAKER_5 [3388s - 3391s]
+Pretty sure he's on, like, six of the film.
+
+👤 あなた [3392s - 3394s]
+He's a horrible person, guys. I wouldn't Yeah.
+
+🎤 SPEAKER_5 [3396s - 3399s]
+For, like, 23 kids. Yeah.
+
+👤 あなた [3399s - 3406s]
+He's he's not he's known to aspire to be like, to be honest.
+
+🎤 SPEAKER_4 [3406s - 3409s]
+When when you get your first bill, then when you get your first 500 mil, there's no need to have any more money.
+
+👤 あなた [3411s - 3412s]
+Just makes everyone else poor.
+
+🎤 SPEAKER_3 [3413s - 3421s]
+And that was and that his net worth is 800,000,000,000. What? And that she the the the end of last season, it was 5 no. Not a big.
+
+🎤 SPEAKER_3 [3422s - 3435s]
+Lost Last year, was I remember it was a big achievement. He got 500 bell. And he's already 800 bell. It's gonna be a tricky advice to some of them. Nah. Spring. I have not. 0, yeah. Tell him He makes, like, the 600.
+
+🎤 SPEAKER_3 [3437s - 3441s]
+What do you own with? Like, x is saying. He's intestinal.
+
+🎤 SPEAKER_4 [3445s - 3450s]
+And Space Rocket Gumbee that do a lot of the stuff that NASA NASA used to do.
+
+🎤 SPEAKER_3 [3453s - 3453s]
+Big thing?
+
+🎤 SPEAKER_4 [3453s - 3456s]
+Yeah. He's got no. He's got a company called them.
+
+🎤 SPEAKER_5 [3456s - 3459s]
+He makes, like, like, makes, like, 700,000,000 in a year.
+
+🎤 SPEAKER_4 [3460s - 3464s]
+Remember, net worth is not how much money you got in your bank account though. Yeah. I know.
+
+👤 あなた [3464s - 3465s]
+How much you spent.
+
+🎤 SPEAKER_3 [3465s - 3468s]
+No. Not quite. How much you'll work? How much you'll work? Yeah.
+
+🎤 SPEAKER_4 [3468s - 3474s]
+Well, basically, how much your company is worth how much your shares are worth.
+
+🎤 SPEAKER_5 [3474s - 3477s]
+How much how much money he has in his bank account? Like No.
+
+🎤 SPEAKER_2 [3476s - 3477s]
+Three 100,000,000,000.
+
+👤 あなた [3477s - 3479s]
+I don't know. I don't know. Yeah.
+
+🎤 SPEAKER_3 [3483s - 3484s]
+Like, every second.
+
+🎤 SPEAKER_5 [3489s - 3490s]
+If I were to guess, people like, Well, Small which one
+
+🎤 SPEAKER_3 [3508s - 3511s]
+Let's let's see how how much a day.
+
+🎤 SPEAKER_5 [3511s - 3514s]
+How much a day? It owe to get a bit.
+
+🎤 SPEAKER_4 [3514s - 3517s]
+Well, I gotta figure how many seconds around the day.
+
+🎤 SPEAKER_3 [3517s - 3524s]
+Well, okay. Wait. A belly in a day. Yeah. Close. 700,000,000.
+
+👤 あなた [3526s - 3528s]
+Make 700,000,000 a day. No.
+
+🎤 SPEAKER_6 [3528s - 3529s]
+It doesn't.
+
+🎤 SPEAKER_3 [3529s - 3533s]
+17. That's the hidden network improves it, by the way.
+
+👤 あなた [3533s - 3534s]
+700,000,000?
+
+🎤 SPEAKER_5 [3534s - 3534s]
+Yeah.
+
+🎤 SPEAKER_3 [3535s - 3541s]
+It doesn't if you think about it, he's literally really recently He was 500,000,000,000. Now he's only 8 Well, he's working $19 a second.
+
+🎤 SPEAKER_4 [3542s - 3544s]
+How many seconds are in a day?
+
+🎤 SPEAKER_3 [3545s - 3546s]
+So no. Let me check.
+
+🎤 SPEAKER_4 [3547s - 3548s]
+Sixty seconds a minute.
+
+🎤 SPEAKER_3 [3553s - 3556s]
+$8.08 $6.04 $0.00. Times that by $19.
+
+🎤 SPEAKER_4 [3556s - 3558s]
+$8. 06 $4. 00 $0.
+
+🎤 SPEAKER_3 [3558s - 3560s]
+08 $6. 04 0.
+
+🎤 SPEAKER_2 [3562s - 3562s]
+Nineteen thousand.
+
+🎤 SPEAKER_3 [3565s - 3574s]
+1,000,641,600. So mid French. So yeah, it is it is. So the it's at least 700,000,000. You sure is that much,
+
+👤 あなた [3575s - 3577s]
+Yeah.
+
+🎤 SPEAKER_4 [3577s - 3578s]
+Oh, I'm hungry. I'm not eating anything today.
+
+🎤 SPEAKER_3 [3579s - 3587s]
+It's an electric it did not say $8,686,400 times nineteen thousand. Got one billion four yeah. That's a bin.
+
+🎤 SPEAKER_4 [3587s - 3589s]
+Now how many seconds how many seconds in a day are you?
+
+🎤 SPEAKER_3 [3592s - 3593s]
+There's no way.
+
+🎤 SPEAKER_4 [3594s - 3596s]
+Hey, Google. How many seconds are there in a day?
+
+👤 あなた [3606s - 3608s]
+I come forward. Yeah.
+
+🎤 SPEAKER_4 [3608s - 3609s]
+I can already be borrowed.
+
+🎤 SPEAKER_5 [3609s - 3611s]
+I guess you can do it. Right.
+
+🎤 SPEAKER_4 [3612s - 3613s]
+Come on. Let's go in.
+
+🎤 SPEAKER_6 [3614s - 3615s]
+Oh, Right.
+
+🎤 SPEAKER_4 [3615s - 3617s]
+Tired out. And can I show you my
+
+🎤 SPEAKER_3 [3622s - 3627s]
+How many touches? How many touches?
+
+🎤 SPEAKER_4 [3627s - 3629s]
+And if it's do you guys play again together?
+
+🎤 SPEAKER_3 [3629s - 3630s]
+Oh, I I'm very tired.
+
+👤 あなた [3645s - 3646s]
+Oh, Excuse me, please.
+
+🎤 SPEAKER_2 [3652s - 3653s]
+Right. No.
+
+🎤 SPEAKER_4 [3653s - 3655s]
+Me do it. Thank you. Let me do it today.
+
+🎤 SPEAKER_3 [3655s - 3658s]
+Let me do it. Let me do it.
+
+🎤 SPEAKER_5 [3677s - 3679s]
+Bennett. Bennett. Okay.
+
+👤 あなた [3681s - 3684s]
+That's what I tend to use, guys, I do a triple. Usually go with the fennec.
+
+👤 あなた [4267s - 4270s]
+Yeah? Yeah. Go on in.
+
+
+---
+
