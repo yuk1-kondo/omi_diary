@@ -788,3 +788,29 @@ Who asked Peterson, the storm came and blew the the fence down, and the fence wa
 
 ---
 
+
+
+## 📝 Family Prepares Dinner Together - 9224d95f-cf1e-4ab0-9a63-bab12f694224
+
+**記録時間**: 2026-01-25 02:31:06
+
+### STT生テキスト
+
+🎤 SPEAKER_6 [0s - 2s]
+The chicken is actually cooked just so you know.
+
+🎤 SPEAKER_1 [2s - 3s]
+Oh.
+
+👤 あなた [4s - 6s]
+Right. That was a bit quicker than we thought, wasn't it?
+
+🎤 SPEAKER_3 [7s - 7s]
+That was hour and a half.
+
+👤 あなた [7s - 10s]
+Right. I'm I'm gonna come and do the potatoes now. Just wait two moments.
+
+
+---
+
