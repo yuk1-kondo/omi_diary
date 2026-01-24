@@ -2661,3 +2661,674 @@ Hopefully, it's just probably a right.
 
 ---
 
+
+
+## 📝 Friends Watch Football Match Together - 10123eb4-d1b9-44f5-89a4-5b645705106c
+
+**記録時間**: 2026-01-24 22:36:06
+
+### STT生テキスト
+
+👤 あなた [0s - 5s]
+So about about end of the game then with Phil, he's gonna come out with you, is he? Have you arranged your place for meeting everything?
+
+🎤 SPEAKER_1 [7s - 8s]
+What about what?
+
+👤 あなた [8s - 10s]
+Arrange a place to meet and then more like that. Yeah.
+
+🎤 SPEAKER_1 [10s - 11s]
+Alright. What?
+
+👤 あなた [13s - 25s]
+What? What? You? How was how was Parkland in the Ezda? Easy enough? Yeah. Yeah. A park straightway. Yeah. Yeah. Yeah. Go ahead and do it. If you need to make it about, fitting quid. It's not We're use the thing.
+
+👤 あなた [26s - 27s]
+You know Omi?
+
+🎤 SPEAKER_1 [28s - 29s]
+Yeah. I'm a slaughter.
+
+👤 あなた [29s - 34s]
+Yeah. You're giving a lift home in the past, are you? You? Yeah. You're giving Oliphoom again today?
+
+🎤 SPEAKER_1 [34s - 38s]
+Oh, yeah. I'm wondering whether you can. Who's in your car?
+
+👤 あなた [39s - 42s]
+Yeah. Where does she live? Down by Kate, is it?
+
+👤 あなた [45s - 49s]
+Well, I could read you by bill. Yeah. Look.
+
+🎤 SPEAKER_1 [49s - 55s]
+Maybe not. She can get in with us. I can fill in the boys in the back.
+
+👤 あなた [56s - 60s]
+No. It's quite a few of you, isn't there? Yep. Yeah.
+
+👤 あなた [63s - 66s]
+And that'll be fun. We'll just think about who I think I'll be great.
+
+🎤 SPEAKER_1 [66s - 68s]
+Yeah.
+
+👤 あなた [68s - 69s]
+I'm sure I'll be fine.
+
+🎤 SPEAKER_1 [70s - 75s]
+And I can come to you. I can come to you. You sure?
+
+👤 あなた [76s - 78s]
+I can just buy and show you, sir. Yeah. Yeah.
+
+🎤 SPEAKER_1 [78s - 79s]
+What synergy? Ktails.
+
+🎤 SPEAKER_1 [84s - 85s]
+I'll speak I'll
+
+👤 あなた [85s - 86s]
+I'll take John.
+
+👤 あなた [103s - 107s]
+She lives is a friend of a auntie. She lives in a pic. She works.
+
+👤 あなた [133s - 139s]
+You're going to go. He he hurried it. I'm I in his man.
+
+👤 あなた [179s - 180s]
+Hold I still are confused by his message.
+
+👤 あなた [202s - 202s]
+One second,
+
+👤 あなた [207s - 208s]
+Want to thank you for your gift.
+
+👤 あなた [214s - 221s]
+We've already had a good bit of fun with the microscope already. Very generous and kind of you. Thank you.
+
+🎤 SPEAKER_1 [227s - 228s]
+So what time do they keep gonna finish?
+
+🎤 SPEAKER_1 [240s - 241s]
+Right.
+
+👤 あなた [241s - 242s]
+We're gonna miss the person.
+
+🎤 SPEAKER_1 [242s - 244s]
+It's so beautiful.
+
+👤 あなた [244s - 246s]
+Well, then let's go. Sorry. Jude's got a little annoyingly.
+
+👤 あなた [259s - 265s]
+The wrong time really, sir. The wrong I've had the whole half time to go to the tune. Sorry, mate. Cheers.
+
+👤 あなた [292s - 293s]
+That's it quick, son.
+
+👤 あなた [319s - 324s]
+Shoelace is now in the people's wee wee now on the floor because you didn't tuck it in like I asked you to.
+
+👤 あなた [372s - 373s]
+One, Jason. That one.
+
+🎤 SPEAKER_1 [403s - 403s]
+Oh, blinding.
+
+🎤 SPEAKER_1 [412s - 415s]
+Sorry, mate. Yeah. Cheers. So that's Right?
+
+👤 あなた [417s - 419s]
+The lights to the loop. Cheers. Cheers.
+
+👤 あなた [430s - 436s]
+I I show you. Look at it. Yeah. Same. Wow. So the second half is the first half.
+
+🎤 SPEAKER_1 [437s - 440s]
+Yeah. Why not?
+
+🎤 SPEAKER_1 [487s - 489s]
+Comfortable now that you can do it. No.
+
+🎤 SPEAKER_2 [499s - 501s]
+Omiki. Oh.
+
+🎤 SPEAKER_1 [548s - 550s]
+Oh, I'll try again.
+
+🎤 SPEAKER_1 [557s - 559s]
+He's gonna enjoy a second stroke in.
+
+🎤 SPEAKER_1 [585s - 586s]
+He's getting He's he took out I stand away with Why?
+
+👤 あなた [597s - 599s]
+Because he was out of he's punched him in the face pretty much.
+
+👤 あなた [621s - 624s]
+80% not very good and then 20% decent.
+
+👤 あなた [641s - 642s]
+Got it, Jake.
+
+👤 あなた [700s - 701s]
+It's ruffiny.
+
+🎤 SPEAKER_2 [716s - 716s]
+No.
+
+👤 あなた [757s - 758s]
+It's got space.
+
+👤 あなた [766s - 768s]
+Maybe one twenty steps. Don't
+
+🎤 SPEAKER_2 [768s - 768s]
+know.
+
+👤 あなた [770s - 772s]
+Robertson from Vassabell.
+
+🎤 SPEAKER_1 [790s - 791s]
+It must be a must be a sub soup.
+
+👤 あなた [842s - 843s]
+I can't see any of ours warm enough.
+
+🎤 SPEAKER_1 [843s - 844s]
+No.
+
+👤 あなた [857s - 859s]
+Yes. Oh, Angie.
+
+👤 あなた [918s - 918s]
+It's off. Right off.
+
+👤 あなた [923s - 927s]
+No. He's not an air on side then. Yes. We got Callium in on the bench.
+
+🎤 SPEAKER_2 [928s - 930s]
+Maybe he's not fit.
+
+👤 あなた [936s - 940s]
+No. Well, got Davis as well. On the other side.
+
+👤 あなた [945s - 949s]
+Well done. Look how much he's running. The other guy just he gassed out there, didn't he?
+
+👤 あなた [960s - 962s]
+I'm not gonna score from crosses guys.
+
+👤 あなた [987s - 987s]
+Oh, no. Thank you.
+
+👤 あなた [997s - 998s]
+No. I love RNG.
+
+👤 あなた [1004s - 1007s]
+Let Robinson do it. Yeah. He's he he's got a missile.
+
+👤 あなた [1021s - 1025s]
+Robertson can smack him out of How many surprises this goes in?
+
+🎤 SPEAKER_1 [1030s - 1033s]
+I called out and walked her set up. You called it, Eddie.
+
+👤 あなた [1033s - 1033s]
+You called it.
+
+👤 あなた [1038s - 1040s]
+Well, we've been called was accident free gig 20.
+
+🎤 SPEAKER_2 [1041s - 1042s]
+No. I mean, no.
+
+🎤 SPEAKER_2 [1047s - 1047s]
+No.
+
+🎤 SPEAKER_1 [1064s - 1065s]
+But then he's looking for it now.
+
+👤 あなた [1082s - 1083s]
+Really?
+
+🎤 SPEAKER_1 [1085s - 1088s]
+Is it is it used to place it in world? Yeah.
+
+👤 あなた [1092s - 1098s]
+Oh, then he's always there, isn't he? Yeah. Winslow's Winslow's always ready, man. Look he's brilliant.
+
+👤 あなた [1103s - 1106s]
+He just stopped the major counter. Nobody cares. He's good.
+
+🎤 SPEAKER_1 [1107s - 1108s]
+Oh, it's Swedish.
+
+👤 あなた [1108s - 1109s]
+Wintzell. Yeah. Yeah. He's never
+
+👤 あなた [1120s - 1121s]
+Oh. Oh.
+
+🎤 SPEAKER_2 [1124s - 1125s]
+Omi.
+
+👤 あなた [1132s - 1137s]
+30. Stop. 30.
+
+🎤 SPEAKER_1 [1159s - 1161s]
+Stop Yeah.
+
+👤 あなた [1161s - 1164s]
+Well, they have offensive and defensive formations, don't you? Depending on if you got the ball or not.
+
+🎤 SPEAKER_2 [1174s - 1174s]
+Nope.
+
+👤 あなた [1177s - 1178s]
+Oh, it's calm.
+
+👤 あなた [1190s - 1191s]
+They can put in the pressure there.
+
+🎤 SPEAKER_2 [1217s - 1217s]
+Omi.
+
+🎤 SPEAKER_2 [1236s - 1237s]
+Ma'am, come on, makeup.
+
+👤 あなた [1244s - 1246s]
+Yeah. You're allowed to do a little bit of sugar.
+
+👤 あなた [1255s - 1257s]
+No. No. You are allowed to grab for a few seconds.
+
+🎤 SPEAKER_2 [1259s - 1260s]
+I love this.
+
+🎤 SPEAKER_2 [1292s - 1293s]
+Oh, Nick.
+
+🎤 SPEAKER_1 [1296s - 1300s]
+Oh, let's do it. Let's do it quick. Do it quick.
+
+🎤 SPEAKER_2 [1330s - 1336s]
+Oh. Well done. Yes.
+
+👤 あなた [1336s - 1337s]
+Man on two men.
+
+🎤 SPEAKER_2 [1339s - 1339s]
+Or Meg?
+
+🎤 SPEAKER_2 [1345s - 1349s]
+It's okay. Missed it, isn't it? Yes. Go on. Go on. Go on.
+
+🎤 SPEAKER_1 [1352s - 1354s]
+Give it outside.
+
+🎤 SPEAKER_2 [1354s - 1354s]
+Oh.
+
+👤 あなた [1356s - 1357s]
+Time, man.
+
+👤 あなた [1407s - 1408s]
+They're gonna try and go to.
+
+👤 あなた [1417s - 1423s]
+Oh, wow. It's it's just not very accurate. Tanya, unfortunately. Any range.
+
+👤 あなた [1430s - 1435s]
+Looks like Cadillac's coming up. Kinda will be coming off now.
+
+👤 あなた [1438s - 1446s]
+Cayman's just Is he he's coming off? He's yeah. He's Chelsea lonely. He's been every time he comes on, he's brilliant for us. And
+
+👤 あなた [1460s - 1462s]
+Well done. When somebody's over smash, mate.
+
+🎤 SPEAKER_2 [1463s - 1463s]
+Oh.
+
+🎤 SPEAKER_2 [1471s - 1472s]
+That's enough feed sauce.
+
+👤 あなた [1472s - 1474s]
+That's more than eight.
+
+🎤 SPEAKER_2 [1477s - 1479s]
+That's more Blimey.
+
+👤 あなた [1482s - 1484s]
+What is it which he knows to?
+
+🎤 SPEAKER_1 [1484s - 1485s]
+Oh.
+
+👤 あなた [1486s - 1488s]
+I'm not sure. I'm not sure you had that. Come in.
+
+🎤 SPEAKER_2 [1552s - 1554s]
+Oh, get up.
+
+🎤 SPEAKER_2 [1560s - 1560s]
+Yeah.
+
+🎤 SPEAKER_2 [1563s - 1564s]
+This is Omiya.
+
+🎤 SPEAKER_2 [1654s - 1655s]
+First contribution.
+
+👤 あなた [1713s - 1716s]
+Well done. Oh, wow.
+
+🎤 SPEAKER_1 [1716s - 1717s]
+That's a fucking, isn't it?
+
+🎤 SPEAKER_1 [1728s - 1730s]
+Second Yours know it was a bad one money place to open that.
+
+🎤 SPEAKER_2 [1737s - 1737s]
+Yeah.
+
+🎤 SPEAKER_2 [1744s - 1745s]
+Flying.
+
+👤 あなた [1746s - 1750s]
+Getting into a fast track. Is this right? This team? Yeah. I've rocked it.
+
+🎤 SPEAKER_1 [1753s - 1755s]
+Well, he's come straight to it. So
+
+🎤 SPEAKER_2 [1761s - 1763s]
+They know for the fact it's not gonna happen within.
+
+👤 あなた [1771s - 1772s]
+So What's up, man?
+
+🎤 SPEAKER_2 [1840s - 1841s]
+Yes. Yes.
+
+🎤 SPEAKER_1 [1872s - 1874s]
+Get in there. Come on.
+
+🎤 SPEAKER_2 [1934s - 1937s]
+Who's on this side? No, man?
+
+🎤 SPEAKER_1 [1937s - 1938s]
+Who's on this side? No.
+
+👤 あなた [1938s - 1941s]
+Ashford swapped over from the from left to the right.
+
+🎤 SPEAKER_1 [1941s - 1942s]
+Okay.
+
+👤 あなた [1943s - 1946s]
+Good shot. Again This is where you're gonna go. Just gonna give that.
+
+🎤 SPEAKER_2 [1948s - 1949s]
+Alright. Good booking.
+
+👤 あなた [1955s - 1956s]
+Where is the surgeon?
+
+👤 あなた [1959s - 1961s]
+I know. Is it been on for two minutes?
+
+👤 あなた [1998s - 2000s]
+Oh, blimey.
+
+👤 あなた [2003s - 2008s]
+Oh, left. Mold. Mold. Which hinges? Costureheads.
+
+🎤 SPEAKER_2 [2016s - 2017s]
+Hello?
+
+🎤 SPEAKER_2 [2062s - 2063s]
+Oh, well done.
+
+🎤 SPEAKER_2 [2097s - 2098s]
+Go ahead.
+
+🎤 SPEAKER_1 [2111s - 2114s]
+Just keep it away from the keypad. That's what I'm doing. I have that. This is good.
+
+🎤 SPEAKER_2 [2114s - 2116s]
+Alright.
+
+🎤 SPEAKER_2 [2121s - 2122s]
+Let's see.
+
+👤 あなた [2122s - 2124s]
+Seems our numbers.
+
+🎤 SPEAKER_1 [2124s - 2127s]
+So good one. It's a Dutch member.
+
+🎤 SPEAKER_2 [2127s - 2129s]
+Short callers never
+
+🎤 SPEAKER_2 [2134s - 2139s]
+This is the actual number? House? Oh, yes. Yes.
+
+👤 あなた [2140s - 2145s]
+Oh, that's right. Yeah. Forgot my letter. For reminding me. Yeah. With sun.
+
+👤 あなた [2167s - 2168s]
+Just trying to make steps.
+
+🎤 SPEAKER_1 [2168s - 2169s]
+Again. Let's get it in.
+
+🎤 SPEAKER_1 [2176s - 2178s]
+So, like, guys, when we gotta get it in there.
+
+👤 あなた [2179s - 2182s]
+Effectively shut us down a bit, ain't he? Oh, yeah. Good, bro.
+
+🎤 SPEAKER_2 [2193s - 2193s]
+Oh, numbers.
+
+👤 あなた [2195s - 2197s]
+Go on, Angie. Do what you need to, mate.
+
+👤 あなた [2204s - 2206s]
+What's on, Winstall? Winstall again.
+
+🎤 SPEAKER_2 [2214s - 2215s]
+No checks.
+
+🎤 SPEAKER_2 [2223s - 2224s]
+Oh, that's true.
+
+🎤 SPEAKER_2 [2240s - 2240s]
+Going on.
+
+🎤 SPEAKER_1 [2241s - 2243s]
+Keep it in. This here. No good. Come on.
+
+🎤 SPEAKER_2 [2249s - 2252s]
+Oh, no. Communicate it.
+
+🎤 SPEAKER_2 [2298s - 2298s]
+No.
+
+👤 あなた [2302s - 2303s]
+Well done.
+
+👤 あなた [2308s - 2311s]
+He's been superb today.
+
+🎤 SPEAKER_1 [2312s - 2314s]
+Nice. Guys. Guys. Come on.
+
+👤 あなた [2319s - 2323s]
+Unlock wins. Hold on. Will that come in? No mind.
+
+👤 あなた [2377s - 2381s]
+They're gonna bring him off now.
+
+🎤 SPEAKER_2 [2381s - 2381s]
+Stockport.
+
+👤 あなた [2382s - 2384s]
+He's gonna get himself set off for a minute.
+
+🎤 SPEAKER_1 [2385s - 2386s]
+Yep.
+
+🎤 SPEAKER_2 [2387s - 2387s]
+I know.
+
+🎤 SPEAKER_1 [2395s - 2396s]
+Then they don't work on this thread.
+
+👤 あなた [2396s - 2400s]
+Have you got your scarf, Rachel? Did you get your scarf from Elliot? Elliot.
+
+🎤 SPEAKER_2 [2465s - 2466s]
+It's so full.
+
+👤 あなた [2478s - 2480s]
+Oh. Oh, well done.
+
+👤 あなた [2492s - 2493s]
+Are they skinless immature?
+
+👤 あなた [2517s - 2518s]
+Hold on a show.
+
+👤 あなた [2523s - 2524s]
+He's tried, hasn't he?
+
+🎤 SPEAKER_2 [2529s - 2531s]
+Too heavy. It's shit.
+
+🎤 SPEAKER_1 [2537s - 2540s]
+Skimming off the pitch now with this rain.
+
+🎤 SPEAKER_2 [2563s - 2564s]
+He's on? He's on.
+
+🎤 SPEAKER_1 [2623s - 2624s]
+Oh, Oh. Oh.
+
+🎤 SPEAKER_1 [2627s - 2629s]
+Yeah. The man behind in.
+
+👤 あなた [2631s - 2637s]
+No. Coming on then? Who's this now? Is this Davis or is it Turnball? Okay. I'll make it out for me.
+
+👤 あなた [2646s - 2648s]
+Maybe the guy who needs a position for Oh, don't put that?
+
+🎤 SPEAKER_1 [2656s - 2658s]
+And that is.
+
+👤 あなた [2698s - 2700s]
+Man alive. What's this this rep?
+
+🎤 SPEAKER_2 [2705s - 2706s]
+Hello?
+
+👤 あなた [2715s - 2718s]
+Guys got arrested for that. They they're all Russian couple bled it. Oh, yeah.
+
+🎤 SPEAKER_1 [2719s - 2719s]
+Same thing.
+
+🎤 SPEAKER_2 [2726s - 2726s]
+Yeah.
+
+👤 あなた [2735s - 2737s]
+That's the ref, man. What I'm there?
+
+🎤 SPEAKER_2 [2737s - 2738s]
+It's the ref seven. Close
+
+🎤 SPEAKER_1 [2738s - 2739s]
+this.
+
+👤 あなた [2739s - 2741s]
+Yeah. They're gonna injure our whole first thing that is right.
+
+🎤 SPEAKER_1 [2741s - 2743s]
+You've got That's incredible.
+
+🎤 SPEAKER_1 [2759s - 2761s]
+Give a yellow tag without seeing it.
+
+👤 あなた [2761s - 2762s]
+Well, that makes it worse, isn't it?
+
+🎤 SPEAKER_1 [2762s - 2763s]
+That was a clothesline.
+
+🎤 SPEAKER_2 [2796s - 2797s]
+That was Oh, lucky.
+
+👤 あなた [2799s - 2801s]
+No. Don't shoot. Don't shoot.
+
+👤 あなた [2820s - 2821s]
+Skin and drawing it.
+
+👤 あなた [2846s - 2851s]
+So We don't want it. We don't it. No. Set piece.
+
+👤 あなた [2892s - 2894s]
+Never got It's faster than you. It's faster than you, nearly.
+
+👤 あなた [2926s - 2927s]
+No.
+
+🎤 SPEAKER_2 [2929s - 2930s]
+Sand them.
+
+👤 あなた [2946s - 2947s]
+That's gonna be, like, two.
+
+👤 あなた [2962s - 2964s]
+David's got pace then to his man.
+
+👤 あなた [3003s - 3004s]
+Oh, wake up.
+
+🎤 SPEAKER_2 [3054s - 3055s]
+It's terrible.
+
+👤 あなた [3078s - 3082s]
+No. Bypass me. Oh, dear.
+
+👤 あなた [3106s - 3111s]
+They're well, the card has been seen to be protesting. So that's it.
+
+🎤 SPEAKER_2 [3115s - 3115s]
+Dirty.
+
+👤 あなた [3133s - 3134s]
+Oh, what was that, man?
+
+🎤 SPEAKER_1 [3135s - 3138s]
+I don't think he you. I think he thought he was gonna help you.
+
+👤 あなた [3202s - 3203s]
+Worst ref I've seen in ages.
+
+👤 あなた [3247s - 3248s]
+Alright. He's got an history.
+
+👤 あなた [3285s - 3287s]
+We don't know. Yeah. Would I have to wait a few days?
+
+
+---
+
