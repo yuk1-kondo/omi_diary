@@ -532,3 +532,233 @@ Can. I just I just got so many things in my mind at a minute, Rachel. I'm panick
 
 ---
 
+
+
+## 📝 Planning Spring Baptism Service After Sermon - c5b74423-2269-4efc-8e33-9b04a25455c9
+
+**記録時間**: 2026-01-25 01:37:48
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 1s]
+Hi. Yeah.
+
+👤 あなた [1s - 10s]
+So Preaching on pap baptism to tomorrow. Might be a firm tear. Yeah. You know, what is it? What's this what's baptism all about? Brilliant.
+
+🎤 SPEAKER_3 [12s - 12s]
+Her Yeah.
+
+👤 あなた [13s - 16s]
+And then that means people like I've always wanted a preach on baptism. I'm not telling you.
+
+🎤 SPEAKER_3 [16s - 21s]
+Oh, no. And that that means people like you know, Debbie won't just feel like he's talking to me.
+
+👤 あなた [22s - 23s]
+Yeah. Exactly.
+
+🎤 SPEAKER_3 [23s - 25s]
+You know, you can talk to them.
+
+🎤 SPEAKER_3 [25s - 28s]
+There's yeah, five baptisms.
+
+👤 あなた [28s - 37s]
+Well, I've I've I've I've actually provisionally penciled the dates. To do them. With the with the view in mind that
+
+👤 あなた [41s - 45s]
+May 17. Which is the Sunday after my exam.
+
+🎤 SPEAKER_3 [45s - 46s]
+Three days after exam.
+
+👤 あなた [46s - 53s]
+After exams. Yeah. Because it's not a sermon as such then. I'll do in place of a sermon, essentially. If you just just More and more worship.
+
+🎤 SPEAKER_3 [53s - 70s]
+Let me explain something to you. You. That will involve preparation, methods you throughout the week, organize like, a brilliant share, having to do in which you've got this, right, we're gonna meet together this week just to go through what's happening. You'll have to meet I get that. So that not a good week for it.
+
+👤 あなた [70s - 73s]
+And then we're away the following Sunday, so that like I don't wanna leave it till the June though, Rachel. Well, hold on.
+
+🎤 SPEAKER_3 [73s - 79s]
+But then there's the higher bachelor's and then we're not there. Why don't you do it why why not do it in June?
+
+🎤 SPEAKER_6 [80s - 83s]
+No. I know you don't leave it too long, but I'm telling you now, two days after you finished your Come worst timing, you can't.
+
+🎤 SPEAKER_5 [86s - 86s]
+Alright.
+
+👤 あなた [87s - 90s]
+I'm but in response to that, I'm saying I don't want to leave it to June because that's also told me you wanted me to clear off after you finish your exams.
+
+🎤 SPEAKER_3 [97s - 101s]
+Now instead of what you're gonna do is planning a bit if you think it would be Well, okay.
+
+👤 あなた [101s - 105s]
+How how Well, well, my thoughts were wrong. You're wrong. Okay.
+
+🎤 SPEAKER_3 [105s - 107s]
+Well It just means you have to write a cell.
+
+👤 あなた [107s - 114s]
+Well, you I'm preaching in January, and then should be Oh, but by the way, get baptized in June. It seems like a long time. If you can help me find another time, by all means.
+
+🎤 SPEAKER_3 [115s - 121s]
+Well, the thing is is I think if if we wanted to let let's say that it just happens to all the youth of it. We all just
+
+🎤 SPEAKER_3 [121s - 128s]
+go and back baptize them next week. That's a conversation that Ryan needs to be talking through them and making sure they really feel like they're ready to get baptized.
+
+👤 あなた [128s - 134s]
+Well, I wouldn't baptize someone next week. I'd want to No. No. No. I know. So it won't be next week.
+
+🎤 SPEAKER_3 [134s - 136s]
+So why would you plan it when you got your really busiest time in your stomach?
+
+👤 あなた [136s - 141s]
+Okay. I've just already said. Okay. Help me find a different time. June.
+
+🎤 SPEAKER_4 [143s - 144s]
+June is I get that, but that's blinking six months away.
+
+👤 あなた [146s - 147s]
+A half a year away.
+
+🎤 SPEAKER_3 [148s - 148s]
+I get that.
+
+👤 あなた [149s - 154s]
+Preaching on baptism, and I'll I'll give you five months to think about it. Why?
+
+🎤 SPEAKER_3 [154s - 156s]
+You're baptize in two weeks time then.
+
+🎤 SPEAKER_7 [157s - 158s]
+Like, I don't I'm Can you help me figure out a a sensible time or no?
+
+👤 あなた [158s - 161s]
+Or or you told me there isn't none?
+
+🎤 SPEAKER_7 [161s - 161s]
+Seven.
+
+👤 あなた [166s - 169s]
+Before I before then?
+
+🎤 SPEAKER_3 [169s - 169s]
+I'm just having you.
+
+🎤 SPEAKER_6 [170s - 171s]
+You're you're supposed to sporadic on something.
+
+🎤 SPEAKER_3 [171s - 181s]
+I don't know anything about baptism. And then suddenly, Reed is preaching on baptism tomorrow, and we're booking a day in to do it. Tell me when to do Tell date Rachel.
+
+🎤 SPEAKER_6 [181s - 187s]
+Like, what's happened to the like the the cat thinking about planning things throughout through the year and stuff. Like Well, yeah. I've got, like I have.
+
+👤 あなた [188s - 192s]
+I've I've planned the whole We've it's I've planned the whole I've planned the whole yeah. It's alright.
+
+🎤 SPEAKER_8 [192s - 193s]
+Region most of me.
+
+🎤 SPEAKER_6 [193s - 199s]
+Plan the preaching out. So when are you gonna so he's gonna say, oh, sorry. You can't do that preach now.
+
+👤 あなた [199s - 204s]
+Are you gonna Well, can be after it doesn't have it doesn't have to be instead of this, and it could be after the church service.
+
+👤 あなた [204s - 208s]
+What have you. But, obviously, we got a we got a busy time.
+
+🎤 SPEAKER_6 [209s - 210s]
+Needs to be a bit of an intro.
+
+🎤 SPEAKER_6 [211s - 213s]
+What you might find is people say, be baptized now, so you can plan it in two weeks time, five weeks.
+
+👤 あなた [213s - 218s]
+Maybe in April, maybe the Sunday after Easter Sunday. April 12.
+
+🎤 SPEAKER_3 [225s - 235s]
+Fine. But that would be better. But what I tell you, you might have someone who says I want to get baptized straight away and you feel like they're ready for it. Great. Baptize them. Baptize Debbie next week.
+
+👤 あなた [235s - 238s]
+Whatever. Well, Steven's preaching next week. But I wouldn't do that.
+
+🎤 SPEAKER_1 [238s - 238s]
+Okay.
+
+👤 あなた [238s - 243s]
+I would want to go through them a little bit while baptism I know I'm doing it here, but I'd the simmon.
+
+🎤 SPEAKER_3 [244s - 252s]
+Fine. But what I'm saying is if you find any of the youth do want to, then it it would be for Ryan to have a job. April 12
+
+👤 あなた [252s - 255s]
+might be a good length length of time.
+
+🎤 SPEAKER_6 [256s - 277s]
+It might be good to sit check before you pick out pick out a date, which is suitable for the for you, it is helpful to run through with a few people if they're around one update. I is Sarah and Ryan around there? If some of the youth get baptized, it'd be nice if they were there. Are there are there certain people know, who are involved at most times?
+
+🎤 SPEAKER_3 [277s - 278s]
+That's what I'm saying.
+
+🎤 SPEAKER_5 [278s - 279s]
+Yeah.
+
+🎤 SPEAKER_6 [281s - 283s]
+I because it's it's the Easter holiday.
+
+👤 あなた [285s - 291s]
+So Is it the Sunday before the the last day of the Easter holidays? So, hopefully, everyone will be back by then.
+
+🎤 SPEAKER_3 [292s - 296s]
+Not necessarily. People go away for Easter. They'll go away by Saturday, Sunday.
+
+🎤 SPEAKER_6 [297s - 303s]
+You know? Even I I could go away then if you're if we're trying to maximize me giving you as much time as possible to go away.
+
+🎤 SPEAKER_6 [305s - 310s]
+So don't give a date tomorrow. Don't don't be that weird spontaneous person that thought about it. No.
+
+👤 あなた [310s - 320s]
+It's not. Don't you think don't you objectively thinking? What I'm Objectively speaking. I'm preaching on baptism, and I people are sitting thinking, yeah. I wanna go baptized.
+
+👤 あなた [320s - 325s]
+Would it be great to say, why don't you we're doing baptisms on this day to potentially pencil it in Well, and they that would be perfect.
+
+🎤 SPEAKER_6 [325s - 340s]
+That is the ideal. Unfortunately, you forgot that you're not the only person in church. And, actually, it would be it's very good practice for a number of reasons to check that you're not gonna be only person who's gonna be there.
+
+🎤 SPEAKER_6 [343s - 350s]
+Well, I will because it'll be like, you know, Steve, Lois not there, Ryan, Sarah not there, Ben, Ellen not there. Oh, Richard's not there either. Oh, great. Oh, suddenly. Oh, yeah.
+
+🎤 SPEAKER_6 [350s - 353s]
+Also Debbie's away on holiday.
+
+🎤 SPEAKER_3 [353s - 355s]
+She's put camping up because So, like, it it doesn't hurt.
+
+🎤 SPEAKER_6 [355s - 387s]
+Just to check that you've got a core group of people for when you're gonna do baptisms. And, yeah, yes, ideally, would have happened before you preached on baptisms, it hasn't. So what you need to say is we are going to do it this spring. This this brings because you want you don't wanna set a date and then people don't go, oh, I'm not around on that day. Resetles or talking about No. Won't get baptized. Gather and figure out first. If we've got four youth that want to get baptized, and no adults, well, that gives you a bit of an idea to plan something very differently to if you've got three adults at say, you might have three adults that want to get baptized, and you think, do you know what? I can meet with them next week.
+
+🎤 SPEAKER_6 [387s - 388s]
+And we could baptize them. No.
+
+👤 あなた [388s - 391s]
+I'll say I'll say in spring. I'll say in spring.
+
+🎤 SPEAKER_1 [391s - 391s]
+Yeah.
+
+👤 あなた [395s - 398s]
+Ross and ear. What's happened now?
+
+
+---
+
