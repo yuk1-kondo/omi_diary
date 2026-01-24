@@ -1,0 +1,102 @@
+{
+  "id": "93a0df81-f997-484a-8fe2-d1f281f34ac2",
+  "created_at": "2026-01-24T02:40:15.854309+00:00",
+  "started_at": "2026-01-24T02:02:34.066207+00:00",
+  "finished_at": "2026-01-24T02:41:17.179194+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "ニトリでの買い物に出かける相談",
+    "overview": "話し手が「先にニトリへ行って買い物をしてから帰ってこよう」と提案しており、その場でニトリに出かけて買い物を済ませて帰宅する流れを確認している。",
+    "emoji": "🛒",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "21ddcacf-0fa7-4f84-88a8-3e80616fbca8",
+      "text": "さきじゃあニトリ行ってで買い物して帰ってこようか",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.50952149119621e-07,
+      "end": 10.041374649047853,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "03f276fb-c00e-4618-8f65-9311be8a202e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "93a0df81-f997-484a-8fe2-d1f281f34ac2",
+      "chunk_timestamps": [
+        1769222412.522,
+        1769222417.608,
+        1769222422.565,
+        1769222428.646,
+        1769222433.694,
+        1769222438.667,
+        1769222443.82,
+        1769222448.879,
+        1769222453.915,
+        1769222458.971,
+        1769222465.033,
+        1769222471.063,
+        1769222477.367,
+        1769222482.406,
+        1769222487.414,
+        1769222492.433,
+        1769222497.519,
+        1769222502.523,
+        1769222507.805,
+        1769222512.844,
+        1769222517.902,
+        1769222522.928,
+        1769222529.089,
+        1769222535.13,
+        1769222540.284,
+        1769222546.295,
+        1769222551.391,
+        1769222557.454,
+        1769222562.604,
+        1769222567.757,
+        1769222573.721,
+        1769222578.841,
+        1769222583.965,
+        1769222590.431
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-24T02:40:12.522000+00:00",
+      "duration": 182.909
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## お出かけ先の決定  \n- まずニトリへ向かう予定  \n- ニトリで買い物をする計画  \n\n## 行動の流れ  \n- ニトリに行く  \n- 買い物したあと自宅に帰る  \n\n## Next steps  \n- ニトリで必要な物をリスト化する  \n- 出発時間と移動手段を決める"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
