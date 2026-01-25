@@ -814,3 +814,17 @@ Right. I'm I'm gonna come and do the potatoes now. Just wait two moments.
 
 ---
 
+
+
+## 📝 集まる予定と店予約の相談 - 5ad72c45-ede0-4d73-94e9-8862c3771288
+
+**記録時間**: 2026-01-25 10:57:03
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 39s]
+集まって どうするマーキング家にどっかも予約しようかなぁとりあえず その辺 特に
+
+
+---
+
