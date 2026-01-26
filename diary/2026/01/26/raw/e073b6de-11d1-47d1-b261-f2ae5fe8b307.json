@@ -1,0 +1,109 @@
+{
+  "id": "e073b6de-11d1-47d1-b261-f2ae5fe8b307",
+  "created_at": "2026-01-26T09:26:19.722893+00:00",
+  "started_at": "2026-01-26T08:58:20.427958+00:00",
+  "finished_at": "2026-01-26T09:27:49.675819+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "ガス漏れ時の火花リスクについての一言",
+    "overview": "話者が「ガスが溜まったときに何かショートして火花が…」と述べており、ガスが滞留した状況でのショートによる火花発生リスクを指摘し、事前に一言注意喚起しておいたほうがよいという文脈の安全上の会話が行われている。",
+    "emoji": "⚠️",
+    "category": "environment",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "f93b1578-5fd0-4545-af12-ba9961f02162",
+      "text": "一言 たほうがいいね あのガスが溜まったときに何かショートして火花の",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.9100655158108566e-07,
+      "end": 30.004124608993436,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "6b4731ac-ce1d-4352-806f-f458690993fe",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "e073b6de-11d1-47d1-b261-f2ae5fe8b307",
+      "chunk_timestamps": [
+        1769419574.246,
+        1769419580.12,
+        1769419585.158,
+        1769419590.314,
+        1769419595.317,
+        1769419600.39,
+        1769419605.46,
+        1769419610.709,
+        1769419616.737,
+        1769419621.888,
+        1769419627.033,
+        1769419632.102,
+        1769419637.858,
+        1769419642.988,
+        1769419649.242,
+        1769419654.341,
+        1769419659.833,
+        1769419664.851,
+        1769419669.841,
+        1769419674.891,
+        1769419679.942,
+        1769419685.384,
+        1769419690.419,
+        1769419695.795,
+        1769419700.873,
+        1769419706.742,
+        1769419711.84,
+        1769419717.072,
+        1769419722.141,
+        1769419727.108,
+        1769419732.147,
+        1769419737.154,
+        1769419742.302,
+        1769419747.303,
+        1769419752.453,
+        1769419757.513,
+        1769419762.849,
+        1769419767.927,
+        1769419773.142,
+        1769419778.144,
+        1769419783.265
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-26T09:26:14.246000+00:00",
+      "duration": 214.019
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## ガスと火花の危険性\n- ガスが溜まる状況について言及  \n- ショートによる火花発生を懸念  \n- 火花とガスで引火の危険を示唆  \n\n## 次の行動\n- ガス溜まりと電気ショートの対策を検討する  \n- 周囲に注意喚起や一言伝える必要がある"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
