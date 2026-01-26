@@ -1,0 +1,102 @@
+{
+  "id": "29d07ce5-e7dc-4c21-862f-2420b7cd3c99",
+  "created_at": "2026-01-26T09:50:07.357230+00:00",
+  "started_at": "2026-01-26T09:00:50.548583+00:00",
+  "finished_at": "2026-01-26T09:51:07.857537+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "美優が語るとうもろこしのやばさ",
+    "overview": "短い発話の中で、美優という人物について触れつつ、「とうもろこしが恐ろしくやばい」と強いインパクトを込めて評価している場面が記録されている。具体的な状況説明や予定・行動計画などはなく、感想・リアクションのみが述べられている。",
+    "emoji": "🌽",
+    "category": "entertainment",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "63ab2c7a-2482-4942-b17f-e04fcce75d52",
+      "text": "美優あと とうもろこし恐ろしくやばい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.1008013340615435e-07,
+      "end": 19.962749589919895,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "24b4c9eb-bc2a-4971-9b92-76949c294d29",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "29d07ce5-e7dc-4c21-862f-2420b7cd3c99",
+      "chunk_timestamps": [
+        1769421003.631,
+        1769421008.633,
+        1769421013.717,
+        1769421019.127,
+        1769421024.174,
+        1769421029.14,
+        1769421034.242,
+        1769421040.319,
+        1769421045.338,
+        1769421050.524,
+        1769421055.932,
+        1769421061.846,
+        1769421067.297,
+        1769421072.7,
+        1769421078.044,
+        1769421083.114,
+        1769421088.413,
+        1769421093.482,
+        1769421098.658,
+        1769421104.156,
+        1769421109.275,
+        1769421114.396,
+        1769421119.724,
+        1769421124.815,
+        1769421129.784,
+        1769421134.88,
+        1769421139.963,
+        1769421145.186,
+        1769421151.29,
+        1769421156.554,
+        1769421161.533,
+        1769421167.106,
+        1769421172.294,
+        1769421178.234
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-26T09:50:03.631000+00:00",
+      "duration": 179.603
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## とうもろこしについての発言\n- 美優がとうもろこしに言及  \n- 「恐ろしくやばい」と強い表現で評価  \n\n## 今後の対応・Next steps\n- とうもろこしが「やばい」理由の詳細確認  \n- 体調やアレルギーなどの問題有無を確認"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
