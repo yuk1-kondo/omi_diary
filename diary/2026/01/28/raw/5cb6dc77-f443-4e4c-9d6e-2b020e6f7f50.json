@@ -1,0 +1,82 @@
+{
+  "id": "5cb6dc77-f443-4e4c-9d6e-2b020e6f7f50",
+  "created_at": "2026-01-27T22:40:48.808272+00:00",
+  "started_at": "2026-01-27T22:40:50.613601+00:00",
+  "finished_at": "2026-01-27T22:41:08.930307+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "サツマイモを買うタスク",
+    "overview": "ユーザーが「今サツマイモを買う」というタスクを明確に言語化している内容。",
+    "emoji": "🍠",
+    "category": "personal",
+    "action_items": [
+      {
+        "description": "サツマイモを買う",
+        "completed": false,
+        "created_at": "2026-01-27T22:41:17.254115+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "4344dd9f-3e1f-4982-b18a-5aef7fc7acc8",
+      "text": "タスク 今サツマイモを買う以上です",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 8.02374976158142,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "96330ded-5fba-4277-8119-d8423d3d93ca",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "5cb6dc77-f443-4e4c-9d6e-2b020e6f7f50",
+      "chunk_timestamps": [
+        1769553650.423,
+        1769553655.601,
+        1769553660.693,
+        1769553665.829
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-27T22:40:50.423000+00:00",
+      "duration": 20.406
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+      "content": "了解！  \n今のタスクは「サツマイモを買う」ですね。\n\nもし役に立ちそうなら、ついでに考えておくと良いポイントは：\n\n- 目的：焼き芋用？料理用（大学芋・スイートポテト・味噌汁など）？\n- 本数 or グラム：何人分くらい必要か\n- 品種：  \n  - ねっとり系：安納芋・紅はるか  \n  - ほくほく系：鳴門金時・紅あずま\n- 保存場所：すぐ使うか、数日置くか（冷蔵庫は避けて常温・風通しの良い場所）\n\nタスクメモ例：  \n「サツマイモ（焼き芋用・中サイズ2〜3本・できれば紅はるか）」"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
