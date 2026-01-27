@@ -1,0 +1,98 @@
+{
+  "id": "576f7a45-7eef-4ef5-a42a-4757bc28d117",
+  "created_at": "2026-01-27T04:41:39.771123+00:00",
+  "started_at": "2026-01-27T02:20:00.080788+00:00",
+  "finished_at": "2026-01-27T04:42:28.093507+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "パソコン価格高騰についての雑談",
+    "overview": "話し手は、誰かが買い占めている影響でパソコン全体の価格が上がっているのではないかと考えている様子を述べている。具体的な機種名や時期、対策などの詳細には触れられていない短い発言である。",
+    "emoji": "💻",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "7cfc0a20-0f77-446a-a144-2f9f13c62047",
+      "text": "そう 買い占めてて パソコンの値段が全体的に上がっていると思い",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.20434423883853e-07,
+      "end": 30.044124679565584,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "30348289-844f-49c2-a7c7-68ae64aea22b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "576f7a45-7eef-4ef5-a42a-4757bc28d117",
+      "chunk_timestamps": [
+        1769488896.186,
+        1769488901.418,
+        1769488906.44,
+        1769488911.574,
+        1769488916.778,
+        1769488925.426,
+        1769488930.867,
+        1769488935.879,
+        1769488941.74,
+        1769488946.771,
+        1769488951.897,
+        1769488957.957,
+        1769488963.184,
+        1769488968.276,
+        1769488974.355,
+        1769488980.138,
+        1769488985.159,
+        1769488991.997,
+        1769488997.096,
+        1769489003.157,
+        1769489009.239,
+        1769489014.966,
+        1769489020.735,
+        1769489025.845,
+        1769489030.937,
+        1769489036.135,
+        1769489041.82,
+        1769489046.996,
+        1769489055.916,
+        1769489061.097
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-27T04:41:36.186000+00:00",
+      "duration": 169.911
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## パソコン価格の状況  \n- 買い占めが起きている  \n- その影響でパソコン価格が上昇  \n- 市場全体で値段が高くなっている認識  \n\n## 次のステップ  \n- パソコン購入のタイミングを慎重に検討する  \n- セールや値下がりの様子をしばらく観察する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
