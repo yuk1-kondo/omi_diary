@@ -1,0 +1,98 @@
+{
+  "id": "a9b2561d-57ff-4e4c-b4e4-ec36612bf76c",
+  "created_at": "2026-01-28T00:54:19.811033+00:00",
+  "started_at": "2026-01-28T00:54:20.648066+00:00",
+  "finished_at": "2026-01-28T00:55:00.345262+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "これから授業の開始",
+    "overview": "話し手が「今から授業」と発言しており、これから授業が始まるタイミングでの一言だけが記録されている。",
+    "emoji": "📚",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "9c7f0228-8da7-4d2d-afd1-9a727a5cb55e",
+      "text": "今から授業",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.384185791015625e-07,
+      "end": 10.02137523841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "f0c4edcf-e60d-4719-8e91-8291855b11f4",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "a9b2561d-57ff-4e4c-b4e4-ec36612bf76c",
+      "chunk_timestamps": [
+        1769561660.611,
+        1769561665.967,
+        1769561671.074,
+        1769561676.082,
+        1769561682.342,
+        1769561687.518,
+        1769561692.565,
+        1769561698.588,
+        1769561703.644,
+        1769561708.721,
+        1769561715.514,
+        1769561720.803,
+        1769561725.822,
+        1769561730.785,
+        1769561735.864,
+        1769561740.985,
+        1769561746.095,
+        1769561751.804,
+        1769561757.884,
+        1769561762.944,
+        1769561767.945,
+        1769561773.028,
+        1769561778.06,
+        1769561783.371,
+        1769561788.532,
+        1769561793.71,
+        1769561798.804,
+        1769561804.866,
+        1769561809.895,
+        1769561815.48
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-28T00:54:20.611000+00:00",
+      "duration": 159.869
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 授業開始\n- 授業がこれから始まる発言あり\n- 具体的な内容や日時の情報なし\n\n## 次のステップ\n- 授業内容や目的を今後確認する必要あり"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "b70d5aa8-3137-4190-b84f-83a1f0e7fe43"
+}
