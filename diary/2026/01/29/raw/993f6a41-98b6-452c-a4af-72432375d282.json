@@ -1,0 +1,100 @@
+{
+  "id": "993f6a41-98b6-452c-a4af-72432375d282",
+  "created_at": "2026-01-29T09:18:34.986436+00:00",
+  "started_at": "2026-01-29T08:42:58.027674+00:00",
+  "finished_at": "2026-01-29T09:20:15.078040+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "土曜締切の期限を再確認",
+    "overview": "話し手は、何かの締切がまだ差し迫っており、その期限が「土曜日の23時59分まで」であることを確認している。今はまだ猶予があるが、土曜の深夜前がリミットという認識を共有している発言とみられる。具体的な用件やタスクの内容は明示されていない。",
+    "emoji": "⏰",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "c6fda5a3-36a6-453a-990b-49ff814d695c",
+      "text": "何 まだやばい 土曜日の23時59分まで",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.719329981777264e-07,
+      "end": 29.98412537193299,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "4ea4887e-f865-443f-9ea6-8f161f593a7d",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "993f6a41-98b6-452c-a4af-72432375d282",
+      "chunk_timestamps": [
+        1769678311.016,
+        1769678318.119,
+        1769678325.146,
+        1769678331.656,
+        1769678336.71,
+        1769678343.363,
+        1769678348.908,
+        1769678364.23,
+        1769678365.848,
+        1769678371.248,
+        1769678378.737,
+        1769678383.847,
+        1769678391.331,
+        1769678408.782,
+        1769678412.49,
+        1769678427.017,
+        1769678432.107,
+        1769678437.527,
+        1769678444.947,
+        1769678450.283,
+        1769678458.087,
+        1769678464.717,
+        1769678470.857,
+        1769678476.196,
+        1769678483.153,
+        1769678490.604,
+        1769678496.299,
+        1769678502.173,
+        1769678508.948,
+        1769678518.075,
+        1769678521.227,
+        1769678526.689
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-29T09:18:31.016000+00:00",
+      "duration": 220.673
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 日時に関する話\n- 土曜日の23時59分が締め切り\n- まだ時間的に「やばい」状況が続いている様子\n\n## 次のアクション\n- 土曜23:59までに対象の用事を終える"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
