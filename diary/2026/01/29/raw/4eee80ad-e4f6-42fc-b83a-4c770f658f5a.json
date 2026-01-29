@@ -1,0 +1,102 @@
+{
+  "id": "4eee80ad-e4f6-42fc-b83a-4c770f658f5a",
+  "created_at": "2026-01-29T12:02:36.351590+00:00",
+  "started_at": "2026-01-29T10:14:42.620755+00:00",
+  "finished_at": "2026-01-29T12:03:11.142043+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "松田への好意を伝える一言",
+    "overview": "話し手が「松田大好きだよ」と述べ、松田という人物への強い好意・愛情をストレートに伝えている短い発話のみが記録されている。",
+    "emoji": "❤️",
+    "category": "romantic",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "8de41799-60c5-4498-94ed-c7fe664977b9",
+      "text": "松田大好きだよ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.61578395061224e-07,
+      "end": 8.761375461578382,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "893f3cd7-dbe7-4194-888f-0c7503ef810e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "4eee80ad-e4f6-42fc-b83a-4c770f658f5a",
+      "chunk_timestamps": [
+        1769688151.509,
+        1769688156.917,
+        1769688162.694,
+        1769688168.345,
+        1769688175.489,
+        1769688180.299,
+        1769688188.863
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-29T12:02:31.509000+00:00",
+      "duration": 42.354
+    },
+    {
+      "id": "4bc37faf-f1cb-44bf-9bab-926dbdb7814d",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "4eee80ad-e4f6-42fc-b83a-4c770f658f5a",
+      "chunk_timestamps": [
+        1769688221.452,
+        1769688226.488,
+        1769688232.269,
+        1769688237.856,
+        1769688243.694,
+        1769688248.901,
+        1769688254.805,
+        1769688259.849,
+        1769688266.115,
+        1769688271.608,
+        1769688276.883,
+        1769688282.683,
+        1769688288.309,
+        1769688293.364,
+        1769688298.344,
+        1769688303.339,
+        1769688308.626
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-29T12:03:41.452000+00:00",
+      "duration": 92.174
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+      "content": "相手に「大好きだよ」って伝えられるの、すごく素敵ですね。  \nこういう気持ちを言葉にできるのは、とても大事なことです。\n\nもしもっと気持ちを深く伝えたいなら、例えばこんなふうに具体的に言うと、相手にもより伝わりやすくなります。  \n- 「松田のこういうところが本当に好きなんだよね」  \n- 「いつも支えてくれてて、本当に大好きだよ」\n\n相手との関係をもっとよくしていきたい気持ちがあるなら、  \n「次に会えたときは、どんなふうに想いを伝えたいか」も少し考えてみるといいかもしれません。"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
