@@ -1,0 +1,96 @@
+{
+  "id": "dfbf27ae-c6f7-4340-92af-d960af550355",
+  "created_at": "2026-01-29T04:55:53.830494+00:00",
+  "started_at": "2026-01-29T04:42:31.422965+00:00",
+  "finished_at": "2026-01-29T04:59:15.507650+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "車両本体価格と諸費用の見積もり確認",
+    "overview": "話し手が自動車の見積もりらしき金額について口頭で確認している。車両本体価格が272,800円からで、別途諸費用として約390,000円を見込んでいるが、金額か内容に誤りがある可能性を示唆している。詳細な条件や日程などはこの断片からは分からない。",
+    "emoji": "🚗",
+    "category": "real",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "190f0f46-5b1d-4108-a344-6b6a6bdf38c1",
+      "text": "今 70,000新型272,800円から 諸費用390,000円目安 本体ですけど 間違い",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.7166138377433526e-07,
+      "end": 49.98687517166138,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "d35599f9-0f73-4d1b-a312-69930e39aa6f",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "dfbf27ae-c6f7-4340-92af-d960af550355",
+      "chunk_timestamps": [
+        1769662548.581,
+        1769662553.826,
+        1769662564.462,
+        1769662582.892,
+        1769662597.376,
+        1769662611.865,
+        1769662617.31,
+        1769662622.338,
+        1769662627.913,
+        1769662633.945,
+        1769662640.438,
+        1769662645.461,
+        1769662650.921,
+        1769662655.871,
+        1769662661.453,
+        1769662677.348,
+        1769662679.584,
+        1769662685.359,
+        1769662690.838,
+        1769662713.713,
+        1769662716.143,
+        1769662721.84,
+        1769662726.935,
+        1769662733.629,
+        1769662738.882,
+        1769662755.459,
+        1769662772.416,
+        1769662775.537
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-29T04:55:48.581000+00:00",
+      "duration": 231.956
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 見積もり金額の説明\n- 本体価格は約272,800円  \n- 諸費用は目安で約390,000円  \n- 合計は約700,000円程度  \n\n## 次のステップ\n- 金額が正しいか再確認を依頼する  \n- 詳細な内訳の提示を求める"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
