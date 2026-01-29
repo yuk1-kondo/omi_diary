@@ -1,0 +1,127 @@
+{
+  "id": "21aa4d59-aa4d-4a45-9b5e-06a41671fe2b",
+  "created_at": "2026-01-29T10:20:35.030289+00:00",
+  "started_at": "2026-01-29T10:11:20.433255+00:00",
+  "finished_at": "2026-01-29T10:25:02.556215+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "寒い日に子どもと遊ぶ会話",
+    "overview": "話し手が子どもに「寒いよ」「可愛いなぁ」と声をかけながら、寒さについて共有している。子どもがとても寒がっている様子を気遣い、「後でえっちゃん遊ぼうか」と後で一緒に遊ぶことを提案しつつ、自分の足も「氷みたい」と表現して寒さを冗談まじりに語っている、家庭内のほのぼのしたやり取り。",
+    "emoji": "❄️",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "85f53a38-62ec-4654-b6ff-0fed886e2a20",
+      "text": "寒いよ 可愛いなぁ そう やろすごい寒いやろ ちゃん の ありがとう 寒いもうええもうえっちゃん遊ぼうか後で パパも足冷たかったわまじも氷みたいな感じ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.6157835242865985e-07,
+      "end": 89.87237546157834,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "05565ba7-6954-49a2-9016-a5eced8bff67",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "21aa4d59-aa4d-4a45-9b5e-06a41671fe2b",
+      "chunk_timestamps": [
+        1769682033.451,
+        1769682039.944,
+        1769682044.778,
+        1769682050.355,
+        1769682059.796,
+        1769682077.511,
+        1769682088.975,
+        1769682106.939,
+        1769682109.558,
+        1769682116.166
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-29T10:20:33.451000+00:00",
+      "duration": 87.715
+    },
+    {
+      "id": "f6693b68-8a17-4210-9a26-4e45570bb39b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "21aa4d59-aa4d-4a45-9b5e-06a41671fe2b",
+      "chunk_timestamps": [
+        1769682160.671,
+        1769682172.417,
+        1769682177.517,
+        1769682182.624,
+        1769682187.691,
+        1769682192.796,
+        1769682197.992,
+        1769682212.937,
+        1769682225.147,
+        1769682230.382,
+        1769682242.569,
+        1769682247.914,
+        1769682253.325,
+        1769682258.514,
+        1769682263.723,
+        1769682268.76,
+        1769682273.85,
+        1769682278.914,
+        1769682283.913,
+        1769682288.898,
+        1769682294.428,
+        1769682301.197,
+        1769682312.159,
+        1769682317.36,
+        1769682323.077,
+        1769682328.23,
+        1769682333.319,
+        1769682338.491,
+        1769682344.572,
+        1769682349.819,
+        1769682355.208,
+        1769682360.518,
+        1769682365.614,
+        1769682370.859,
+        1769682376.299,
+        1769682381.683,
+        1769682386.798,
+        1769682391.91,
+        1769682398.484
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-29T10:22:40.671000+00:00",
+      "duration": 242.813
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 寒さの状況\n- とても寒いと何度も発言  \n- 足が氷みたいに冷たいと表現  \n\n## 家族のやりとり\n- 「可愛いなぁ」と優しく声かけ  \n- 感謝の言葉「ありがとう」が交わされる  \n- 後で一緒に遊ぶ約束をしている  \n\n## 次の行動\n- 体を温める対策をとる  \n- 約束どおり後で一緒に遊ぶ"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
