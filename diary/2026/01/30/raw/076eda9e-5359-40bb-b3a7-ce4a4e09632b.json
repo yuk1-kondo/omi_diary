@@ -1,0 +1,94 @@
+{
+  "id": "076eda9e-5359-40bb-b3a7-ce4a4e09632b",
+  "created_at": "2026-01-30T09:26:59.930604+00:00",
+  "started_at": "2026-01-30T09:06:43.317286+00:00",
+  "finished_at": "2026-01-30T09:29:20.543879+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "暗証番号に関するひと言メモ",
+    "overview": "発話者が「暗証番号 店」とだけ口にしており、店舗に関連する暗証番号（PINコード等）について言及した、ごく短い記録。具体的な状況説明や会話のやり取り、予定・タスクは含まれていない。",
+    "emoji": "🔢",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "1b557122-c571-4627-844b-6e4894a83ac0",
+      "text": "暗証番号 店",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.4305115314527939e-07,
+      "end": 19.34275014305115,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "0a5d206c-e23f-4e6f-a909-2bd63ff6b5f6",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "076eda9e-5359-40bb-b3a7-ce4a4e09632b",
+      "chunk_timestamps": [
+        1769765213.897,
+        1769765219.742,
+        1769765225.053,
+        1769765230.02,
+        1769765236.241,
+        1769765241.521,
+        1769765246.575,
+        1769765258.863,
+        1769765264.22,
+        1769765269.44,
+        1769765275.123,
+        1769765284.53,
+        1769765290.08,
+        1769765295.32,
+        1769765300.86,
+        1769765305.91,
+        1769765312.271,
+        1769765317.732,
+        1769765323.37,
+        1769765329.169,
+        1769765334.81,
+        1769765340.95,
+        1769765347.89,
+        1769765354.72,
+        1769765360.539,
+        1769765383.031
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-30T09:26:53.897000+00:00",
+      "duration": 174.134
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 暗証番号に関する発話\n- 「暗証番号 店」という言葉のみ発話  \n- 文脈や質問内容は不明  \n\n## Next steps\n- 暗証番号について何を知りたいか具体的に伝える  \n- 店での暗証番号の扱いかどうか明確にする"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
