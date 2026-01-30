@@ -1,0 +1,105 @@
+{
+  "id": "f211196b-a3eb-402f-99e6-f7aa8b7d630e",
+  "created_at": "2026-01-30T07:38:28.623477+00:00",
+  "started_at": "2026-01-30T06:47:16.065075+00:00",
+  "finished_at": "2026-01-30T07:39:54.513639+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "腰痛のつぶやき",
+    "overview": "話し手が「腰が痛」と腰の痛みを訴えている一言のみの記録。具体的な原因や今後の対応についての会話はまだない。",
+    "emoji": "💢",
+    "category": "health",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "4db9d8de-b732-434b-aab7-08646d839bf7",
+      "text": "腰が痛",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.3269649318535812e-07,
+      "end": 10.04137523269651,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "5ae9722c-6360-4c6e-9817-f1b45e853639",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "f211196b-a3eb-402f-99e6-f7aa8b7d630e",
+      "chunk_timestamps": [
+        1769758704.208,
+        1769758709.715,
+        1769758714.676,
+        1769758719.796,
+        1769758726.095,
+        1769758731.75,
+        1769758737.825,
+        1769758743.985,
+        1769758748.977,
+        1769758754.187,
+        1769758759.661,
+        1769758765.815,
+        1769758770.889,
+        1769758776.088,
+        1769758781.128,
+        1769758786.097,
+        1769758791.337,
+        1769758806.057,
+        1769758811.196,
+        1769758816.378,
+        1769758822.109,
+        1769758827.477,
+        1769758833.412,
+        1769758838.673,
+        1769758844.539,
+        1769758849.79,
+        1769758855.016,
+        1769758860.219,
+        1769758865.418,
+        1769758870.705,
+        1769758876.196,
+        1769758881.223,
+        1769758887.195,
+        1769758892.239,
+        1769758897.285,
+        1769758902.538,
+        1769758907.606
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-30T07:38:24.208000+00:00",
+      "duration": 208.398
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 腰の状態\n- 腰に痛みがあると発言  \n- 詳細な症状や原因は未記載  \n\n## 次のステップ\n- 痛みの場所・強さ・期間を詳しく整理する  \n- 日常動作で痛むタイミングを書き出す  \n- 医師や整体等への受診を検討する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
