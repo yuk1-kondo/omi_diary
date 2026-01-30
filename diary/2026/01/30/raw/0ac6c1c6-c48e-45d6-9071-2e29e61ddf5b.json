@@ -1,0 +1,99 @@
+{
+  "id": "0ac6c1c6-c48e-45d6-9071-2e29e61ddf5b",
+  "created_at": "2026-01-30T11:43:26.641504+00:00",
+  "started_at": "2026-01-30T11:18:39.063750+00:00",
+  "finished_at": "2026-01-30T11:44:48.049016+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "「大好き」という一言の場面",
+    "overview": "ごく短い発話として「大好き」という一言だけが記録されており、具体的な文脈や相手、話題は不明だが、好意や強い好感情を表現しているシーンと考えられる。行動項目や予定などは読み取れない。",
+    "emoji": "💗",
+    "category": "romantic",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "c51a59e7-1910-46cf-9a70-be8092dfedd6",
+      "text": "大好き",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 10.101374761581422,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "93ef67f0-cbd1-431e-83f6-586d80bf8de5",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "0ac6c1c6-c48e-45d6-9071-2e29e61ddf5b",
+      "chunk_timestamps": [
+        1769773404.104,
+        1769773409.416,
+        1769773415.5,
+        1769773420.914,
+        1769773426.269,
+        1769773431.719,
+        1769773437.283,
+        1769773442.268,
+        1769773447.344,
+        1769773460.315,
+        1769773488.941,
+        1769773488.949,
+        1769773502.542,
+        1769773504.598,
+        1769773514.867,
+        1769773520.086,
+        1769773525.215,
+        1769773530.222,
+        1769773535.51,
+        1769773540.75,
+        1769773545.884,
+        1769773551.13,
+        1769773556.556,
+        1769773562.333,
+        1769773567.411,
+        1769773572.423,
+        1769773577.46,
+        1769773583.045,
+        1769773588.461,
+        1769773594.521,
+        1769773599.921
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-30T11:43:24.104000+00:00",
+      "duration": 200.817
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 感情表現\n- 「大好き」と強い好意を表現  \n- シンプルでポジティブな発言  \n\n## 今後のステップ\n- 「大好き」の対象を確認すると文脈が明確になる"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
