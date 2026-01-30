@@ -1,0 +1,107 @@
+{
+  "id": "705b6d17-86cd-4d90-a0ce-774003f0a793",
+  "created_at": "2026-01-30T09:02:09.510551+00:00",
+  "started_at": "2026-01-30T08:29:00.008939+00:00",
+  "finished_at": "2026-01-30T09:04:06.728892+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "「鳴らせの歌」というフレーズの発話",
+    "overview": "話者が短く「鳴らせの歌」とだけ発言しており、文脈や意図（曲名なのか、指示なのか等）は不明。追加の会話内容や行動につながる情報は含まれていない。",
+    "emoji": "🎵",
+    "category": "music",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "bb1a35ef-5db1-4ae7-97d3-0b9cced6507f",
+      "text": "鳴らせの歌",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.940032951594731e-07,
+      "end": 8.661374505996704,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "e003906d-f0f9-4eda-8d68-d11652622ff6",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "705b6d17-86cd-4d90-a0ce-774003f0a793",
+      "chunk_timestamps": [
+        1769763727.752,
+        1769763733.915,
+        1769763738.901,
+        1769763744.884,
+        1769763751.811,
+        1769763758.301,
+        1769763765.361,
+        1769763773.692,
+        1769763781.025,
+        1769763787.97,
+        1769763794.028,
+        1769763799.705,
+        1769763805.789,
+        1769763811.839,
+        1769763817.813,
+        1769763824.978,
+        1769763832.071
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-30T09:02:07.752000+00:00",
+      "duration": 109.319
+    },
+    {
+      "id": "fa774dc6-703f-485f-81b1-a40437ba2a23",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "705b6d17-86cd-4d90-a0ce-774003f0a793",
+      "chunk_timestamps": [
+        1769763867.479,
+        1769763878.865,
+        1769763902.413,
+        1769763909.131,
+        1769763915.074,
+        1769763920.151,
+        1769763929.192,
+        1769763936.529,
+        1769763942.648,
+        1769763948.496,
+        1769763954.311,
+        1769763960.388
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-30T09:04:27.479000+00:00",
+      "duration": 97.909
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話内容\n- 「鳴らせの歌」という発言のみ\n- 他の情報や文脈は一切なし\n\n## 今後のステップ\n- 「鳴らせの歌」の意味や文脈を確認する\n- 必要なら歌詞や作品名など詳細を質問する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
