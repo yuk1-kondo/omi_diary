@@ -1,0 +1,122 @@
+{
+  "id": "7197117f-5979-4ae5-8a22-315409f1f51a",
+  "created_at": "2026-01-30T00:52:05.378154+00:00",
+  "started_at": "2026-01-30T00:40:59.738733+00:00",
+  "finished_at": "2026-01-30T00:58:16.988655+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "4月30日の修理訪問調整",
+    "overview": "4月30日にお菓子（もしくは機器）の修理を依頼する話をしており、その際に約30分ほど不在にする可能性があることを相手に伝えて了承を得ている内容と思われる。日程と不在時間の共有による訪問調整の会話。",
+    "emoji": "🛠️",
+    "category": "real",
+    "action_items": [
+      {
+        "description": "お菓子の修理を手配する",
+        "completed": false,
+        "created_at": "2026-01-30T05:40:45.952800+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": [
+      {
+        "title": "修理訪問（4月30日）",
+        "description": "お菓子（または機器）の修理対応。30分程度不在の時間がある可能性を事前共有。",
+        "start": "2026-04-30T00:00:00+00:00",
+        "duration": 30,
+        "created": false
+      }
+    ]
+  },
+  "transcript_segments": [
+    {
+      "id": "4a1a136c-2f5b-450f-82fb-2bd70e00f5ae",
+      "text": "4月30 ございますよろしくお願いします すいません はい 了解 お菓子修理してほしい 30分ぐらいは 不在解決",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.051757779815034e-08,
+      "end": 79.23100003051756,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "4b707026-8cbc-460c-8dcc-9fcdaf1f492f",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "7197117f-5979-4ae5-8a22-315409f1f51a",
+      "chunk_timestamps": [
+        1769734324.466,
+        1769734329.45,
+        1769734335.499,
+        1769734341.129,
+        1769734346.18,
+        1769734356.156,
+        1769734356.361,
+        1769734362.021,
+        1769734366.77,
+        1769734378.296,
+        1769734384.091,
+        1769734389.692,
+        1769734395.608,
+        1769734420.362,
+        1769734435.67,
+        1769734455.524
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-30T00:52:04.466000+00:00",
+      "duration": 136.058
+    },
+    {
+      "id": "44cc321d-d10a-4e6d-9103-08f80b370f3d",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "7197117f-5979-4ae5-8a22-315409f1f51a",
+      "chunk_timestamps": [
+        1769734584.563,
+        1769734588.393,
+        1769734593.589,
+        1769734601.286,
+        1769734606.502,
+        1769734612.026,
+        1769734621.409,
+        1769734640.773,
+        1769734648.097,
+        1769734653.811
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-30T00:56:24.563000+00:00",
+      "duration": 74.248
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 日時・予定\n- 4月30日の予定についての会話  \n- 約30分間不在になる見込み  \n\n## 依頼内容\n- お菓子の修理を依頼している様子  \n- 詳細は未説明だが対応を要請  \n\n## 次のステップ\n- 4月30日に訪問・対応時間を調整  \n- 不在30分を考慮し訪問時間を再確認"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
