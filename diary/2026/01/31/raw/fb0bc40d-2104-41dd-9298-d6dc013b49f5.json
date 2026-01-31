@@ -1,0 +1,80 @@
+{
+  "id": "fb0bc40d-2104-41dd-9298-d6dc013b49f5",
+  "created_at": "2026-01-31T13:16:17.655944+00:00",
+  "started_at": "2026-01-31T13:16:34.409947+00:00",
+  "finished_at": "2026-01-31T13:16:39.387348+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "お土産アプリ",
+    "overview": "「お土産アプリ」というキーワードのみが発話されており、お土産に関連するアプリについての言及またはアイデアを示しているが、詳細な文脈や内容は示されていない。",
+    "emoji": "🎁",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "86a34e74-ded7-475c-b29e-f1cbd9bd713b",
+      "text": "お土産アプリ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 8.875374761581421,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "52b7692a-9271-45e2-9160-f0c106a932b7",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "fb0bc40d-2104-41dd-9298-d6dc013b49f5",
+      "chunk_timestamps": [
+        1769865358.114
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T13:15:58.114000+00:00",
+      "duration": 5.0
+    },
+    {
+      "id": "73ff4e71-99db-4031-b947-62ac427c86ed",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "fb0bc40d-2104-41dd-9298-d6dc013b49f5",
+      "chunk_timestamps": [
+        1769865393.008
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T13:16:33.008000+00:00",
+      "duration": 5.0
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## お土産アプリの話題\n- 「お土産アプリ」というキーワードが登場\n- お土産関連サービスや機能の示唆のみ\n- 具体的な内容や要件はまだ不明\n\n## 次のステップ\n- アプリの目的やターゲットを具体化する\n- 必要な機能や特徴を箇条書きで整理する\n- 想定ユーザーシナリオを簡単に書き出す"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
