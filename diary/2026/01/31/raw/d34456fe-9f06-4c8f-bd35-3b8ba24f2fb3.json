@@ -1,0 +1,81 @@
+{
+  "id": "d34456fe-9f06-4c8f-bd35-3b8ba24f2fb3",
+  "created_at": "2026-01-31T13:31:25.630326+00:00",
+  "started_at": "2026-01-31T13:31:26.478526+00:00",
+  "finished_at": "2026-01-31T13:32:15.845385+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "XナウアプリからXへの投稿を試す会話",
+    "overview": "話し手が「Xナウ」アプリからX（旧Twitter）へ投稿できるか試そうとしている様子が短く述べられている。具体的な操作手順や結果はまだ示されていない。",
+    "emoji": "📱",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "5e7a8f9b-0a78-40b3-8d8f-361e86d5735c",
+      "text": "X1 スに投稿 Xナウ アプリからX 2 できるかな",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.384185791015625e-07,
+      "end": 24.24112523841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "6085d515-4d41-4ac6-bdb7-360cb31a78f9",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "d34456fe-9f06-4c8f-bd35-3b8ba24f2fb3",
+      "chunk_timestamps": [
+        1769866286.211,
+        1769866293.046,
+        1769866298.336,
+        1769866303.61,
+        1769866309.776,
+        1769866315.048,
+        1769866320.184,
+        1769866325.636,
+        1769866330.764,
+        1769866336.735,
+        1769866342.011,
+        1769866347.659,
+        1769866353.638
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T13:31:26.211000+00:00",
+      "duration": 72.427
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Xへの投稿方法の検討\n- Xナウアプリから投稿できるか気になっている\n- X1への投稿を試したい様子\n\n## 次のステップ\n- Xナウアプリの投稿機能を実際に確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
