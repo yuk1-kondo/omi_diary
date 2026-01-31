@@ -1,0 +1,97 @@
+{
+  "id": "a8055864-9405-44f1-87d1-2c3934d70fdd",
+  "created_at": "2026-01-31T23:11:22.194664+00:00",
+  "started_at": "2026-01-31T23:11:23.490155+00:00",
+  "finished_at": "2026-01-31T23:14:07.539902+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "連続投稿テスト",
+    "overview": "「Xナウ」「連続投稿テスト」と発言しており、X（旧Twitter）などで連続投稿のテストをしている様子がうかがえる短い記録。具体的な予定やタスクには触れていない。",
+    "emoji": "🧪",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "134bd81b-9b68-4a9e-9f9c-9c32ab0f3fbc",
+      "text": "Xナウ 連続投 頭 通 連続投稿テスト",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.76837158203125e-07,
+      "end": 24.411812976837158,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "df9e9554-1402-40dd-b305-3930e0497b69",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "a8055864-9405-44f1-87d1-2c3934d70fdd",
+      "chunk_timestamps": [
+        1769901082.703,
+        1769901088.248,
+        1769901094.137,
+        1769901099.254,
+        1769901104.804,
+        1769901109.833,
+        1769901120.748,
+        1769901126.204,
+        1769901131.842,
+        1769901136.96,
+        1769901143.282,
+        1769901148.393,
+        1769901153.693,
+        1769901158.8,
+        1769901164.965,
+        1769901170.078,
+        1769901176.077,
+        1769901181.331,
+        1769901186.464,
+        1769901192.431,
+        1769901197.905,
+        1769901203.856,
+        1769901208.986,
+        1769901214.115,
+        1769901219.231,
+        1769901224.35,
+        1769901230.334,
+        1769901235.619,
+        1769901241.598
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T23:11:22.703000+00:00",
+      "duration": 163.895
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 投稿内容\n- 「Xナウ」と発言  \n- 「連続投稿テスト」として試験的投稿  \n- 特に詳細な文脈や情報なし  \n\n## 次のステップ\n- 連続投稿で伝えたい内容を整理  \n- 必要なら目的や対象読者を明確化"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
