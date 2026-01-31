@@ -1,0 +1,100 @@
+{
+  "id": "66f2f46c-9106-4066-be25-90ee991ac3cd",
+  "created_at": "2026-01-31T12:31:43.556936+00:00",
+  "started_at": "2026-01-31T12:25:11.110615+00:00",
+  "finished_at": "2026-01-31T12:33:59.996032+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "明日のコーヒーの準備テスト投稿",
+    "overview": "テスト投稿として音声を録音しており、「Xナウ」「ポスト」など投稿操作に触れつつ、現在は明日のコーヒーの準備をしていて、翌日にそれを持っていく予定であることを話している。具体的な予定時刻や場所などは言及されていない。",
+    "emoji": "☕",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "0e14d3f2-f332-4618-87e3-33b28b24fc12",
+      "text": "Xナウ今日はテスト投稿です さぁ実際に送 ポスト さぁ送信実際 全然あかんよ 今はコーヒーの明日のコーヒーの準備をしています明日はこれを持っていって",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.035400363340159e-07,
+      "end": 59.96825050353999,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "6711a16d-290e-43c1-b322-47a97755013e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "66f2f46c-9106-4066-be25-90ee991ac3cd",
+      "chunk_timestamps": [
+        1769862700.731,
+        1769862706.273,
+        1769862711.521,
+        1769862716.673,
+        1769862721.723,
+        1769862726.791,
+        1769862733.622,
+        1769862739.36,
+        1769862744.882,
+        1769862749.873,
+        1769862754.931,
+        1769862760.213,
+        1769862765.933,
+        1769862771.263,
+        1769862776.323,
+        1769862782.093,
+        1769862787.864,
+        1769862792.834,
+        1769862798.042,
+        1769862803.694,
+        1769862809.623,
+        1769862815.154,
+        1769862820.216,
+        1769862825.213,
+        1769862831.263,
+        1769862836.584,
+        1769862842.964,
+        1769862848.073,
+        1769862854.154,
+        1769862859.934,
+        1769862865.344,
+        1769862870.315
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T12:31:40.731000+00:00",
+      "duration": 174.584
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## テスト投稿について\n- 今日はテスト投稿を実施  \n- 実際にポスト送信を試している  \n\n## コーヒーの準備\n- 明日のコーヒーの準備をしている  \n- 用意したコーヒーを明日持っていく予定  \n\n## 次のステップ\n- テスト投稿の結果を確認する  \n- 明日のためにコーヒー準備を完了させる"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
