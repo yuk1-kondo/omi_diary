@@ -1,0 +1,112 @@
+{
+  "id": "8be0f6a7-a4d0-4ad4-9314-9c8f5e769771",
+  "created_at": "2026-01-31T06:49:05.568436+00:00",
+  "started_at": "2026-01-31T06:17:31.503824+00:00",
+  "finished_at": "2026-01-31T06:51:07.029565+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "質問リクエスト: 教えてと言われた会話",
+    "overview": "発話者が「教えて」とだけ伝えており、何について教えてほしいのか具体的な内容や文脈は示されていない。詳細なトピックや目的は不明であり、情報要求があったことだけがわかる。",
+    "emoji": "❓",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "1fbb39bb-5f67-4370-8d07-6f6c565d2ed1",
+      "text": "教えて",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.0517605864588404e-07,
+      "end": 10.041375305176075,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "b0055e01-eaa6-4826-bdb9-173414eabe58",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "8be0f6a7-a4d0-4ad4-9314-9c8f5e769771",
+      "chunk_timestamps": [
+        1769842140.525,
+        1769842149.59,
+        1769842155.264,
+        1769842161.95,
+        1769842167.161,
+        1769842172.145,
+        1769842177.472,
+        1769842182.899,
+        1769842188.12,
+        1769842193.647,
+        1769842199.311,
+        1769842204.353,
+        1769842210.662,
+        1769842215.759,
+        1769842221.099,
+        1769842226.877,
+        1769842231.927,
+        1769842238.335,
+        1769842243.382,
+        1769842249.101,
+        1769842254.74,
+        1769842259.971,
+        1769842266.182,
+        1769842271.173,
+        1769842277.702,
+        1769842282.884,
+        1769842288.062,
+        1769842293.101,
+        1769842298.355,
+        1769842303.995,
+        1769842309.082,
+        1769842314.595,
+        1769842319.894,
+        1769842326.382,
+        1769842332.159,
+        1769842337.173,
+        1769842342.621,
+        1769842348.079,
+        1769842353.133,
+        1769842358.881,
+        1769842364.555,
+        1769842369.865,
+        1769842376.372,
+        1769842381.572
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T06:49:00.525000+00:00",
+      "duration": 246.047
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 要約\n- 相手が「教えて」とだけ発言  \n- 具体的な内容や質問はまだなし  \n\n## 次のステップ\n- 相手から具体的な質問内容を待つ  \n- 内容が出たらその要点を整理して回答"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
