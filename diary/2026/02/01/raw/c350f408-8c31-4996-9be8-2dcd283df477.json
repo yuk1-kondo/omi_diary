@@ -1,0 +1,80 @@
+{
+  "id": "c350f408-8c31-4996-9be8-2dcd283df477",
+  "created_at": "2026-01-31T15:44:33.206599+00:00",
+  "started_at": "2026-01-31T15:46:02.022107+00:00",
+  "finished_at": "2026-01-31T15:46:09.677817+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "就寝の一言",
+    "overview": "発話者が「Xナウ おやすみなさい」と述べており、Xの利用を終えて就寝する場面を示している短い発話。",
+    "emoji": "🌙",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "43dac4d6-7427-4b96-90bb-3ac69bb3af14",
+      "text": "Xナウおやすみなさい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.76837158203125e-07,
+      "end": 4.097000476837159,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "711e59dc-eab4-4a51-8eaf-3e3e36106812",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "c350f408-8c31-4996-9be8-2dcd283df477",
+      "chunk_timestamps": [
+        1769874268.483
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T15:44:28.483000+00:00",
+      "duration": 5.0
+    },
+    {
+      "id": "93657156-e047-4afc-b5ce-211690da3397",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "c350f408-8c31-4996-9be8-2dcd283df477",
+      "chunk_timestamps": [
+        1769874361.852
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T15:46:01.852000+00:00",
+      "duration": 5.0
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## あいさつ\n- Xナウと発言  \n- おやすみなさいと就寝のあいさつ  \n\n## 次の行動\n- これから寝る予定と示唆"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
