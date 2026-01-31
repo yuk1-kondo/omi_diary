@@ -1,0 +1,105 @@
+{
+  "id": "af51ca50-0ae3-432e-82be-b6081113b9b1",
+  "created_at": "2026-01-31T05:36:17.947629+00:00",
+  "started_at": "2026-01-31T05:02:06.953342+00:00",
+  "finished_at": "2026-01-31T05:37:28.775199+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "誰かを褒めるひと言の場面",
+    "overview": "話し手が「早いなぁ、すごいね、偉いなぁ」と相手を褒めている短いやりとりが記録されている。具体的な状況やタスク、予定などの情報は示されていない。",
+    "emoji": "😊",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "0bac8102-09ef-4a7a-855e-a9d16c86ad18",
+      "text": "早いなぁすごいね偉いなぁ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.5640259221072483e-07,
+      "end": 10.041375156402594,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "fad50aee-882b-4242-9a67-7d0302880972",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "af51ca50-0ae3-432e-82be-b6081113b9b1",
+      "chunk_timestamps": [
+        1769837771.985,
+        1769837777.844,
+        1769837783.114,
+        1769837789.101,
+        1769837794.14,
+        1769837799.223,
+        1769837804.634,
+        1769837809.706,
+        1769837815.222,
+        1769837821.577,
+        1769837826.526,
+        1769837831.744,
+        1769837836.964,
+        1769837842.48,
+        1769837847.446,
+        1769837853.794,
+        1769837858.966,
+        1769837864.005,
+        1769837869.296,
+        1769837874.357,
+        1769837879.976,
+        1769837885.435,
+        1769837891.459,
+        1769837896.843,
+        1769837901.814,
+        1769837906.847,
+        1769837912.173,
+        1769837917.225,
+        1769837922.944,
+        1769837928.042,
+        1769837933.078,
+        1769837938.154,
+        1769837943.296,
+        1769837948.35,
+        1769837953.325,
+        1769837958.755,
+        1769837964.175
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T05:36:11.985000+00:00",
+      "duration": 197.19
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話内容\n- 「早いなぁ」と相手の行動を称賛  \n- 「すごいね」「偉いなぁ」と褒め言葉を重ねる  \n\n## 次のステップ\n- 特になし"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed"
+}
