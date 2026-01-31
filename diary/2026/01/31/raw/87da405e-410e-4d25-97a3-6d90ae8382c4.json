@@ -1,0 +1,73 @@
+{
+  "id": "87da405e-410e-4d25-97a3-6d90ae8382c4",
+  "created_at": "2026-01-31T13:14:49.125115+00:00",
+  "started_at": "2026-01-31T12:28:11.055366+00:00",
+  "finished_at": "2026-01-31T13:15:02.109940+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "短い発話ログ",
+    "overview": "「あ」という一音の短い発話のみが記録されており、文脈や追加情報は含まれていない。",
+    "emoji": "📝",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "4a932346-aa6a-4461-9b95-46fa083d5d95",
+      "text": "あ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -5.207063509260479e-07,
+      "end": 9.941374479293643,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "32d8d3db-5f03-4b5e-8394-863858bef29e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "87da405e-410e-4d25-97a3-6d90ae8382c4",
+      "chunk_timestamps": [
+        1769865286.42,
+        1769865292.461,
+        1769865299.315,
+        1769865304.568,
+        1769865309.546
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T13:14:46.420000+00:00",
+      "duration": 28.126
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話内容\n- 「あ」という一言のみ発言あり\n\n## 次のステップ\n- 追加の内容や質問があれば送信する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
