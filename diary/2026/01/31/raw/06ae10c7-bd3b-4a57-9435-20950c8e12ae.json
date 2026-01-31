@@ -1,0 +1,106 @@
+{
+  "id": "06ae10c7-bd3b-4a57-9435-20950c8e12ae",
+  "created_at": "2026-01-31T13:00:37.521075+00:00",
+  "started_at": "2026-01-31T12:27:41.051240+00:00",
+  "finished_at": "2026-01-31T13:02:15.997592+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "短い愛情表現のやりとり",
+    "overview": "話者が「してる 愛してる」と発言しており、ごく短い愛情表現・好意の確認のような場面が記録されている。具体的な状況説明や予定・タスクに関する情報は含まれていない。",
+    "emoji": "❤️",
+    "category": "romantic",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "31caae87-ab72-4516-ab8d-50550ef79c4e",
+      "text": "してる 愛してる",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.512236498361744e-07,
+      "end": 19.9227505512236,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "301eb9f5-9cf7-4f27-8c82-0c72f5249033",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "06ae10c7-bd3b-4a57-9435-20950c8e12ae",
+      "chunk_timestamps": [
+        1769864431.066,
+        1769864437.635,
+        1769864442.928,
+        1769864448.105,
+        1769864454.144,
+        1769864460.033,
+        1769864465.35,
+        1769864471.3,
+        1769864477.167,
+        1769864482.215,
+        1769864488.629,
+        1769864495.476,
+        1769864502.69,
+        1769864507.866,
+        1769864513.134,
+        1769864518.985,
+        1769864525.112,
+        1769864531.216,
+        1769864540.735,
+        1769864546.135,
+        1769864551.174,
+        1769864556.219,
+        1769864561.724,
+        1769864568.343,
+        1769864573.383,
+        1769864578.796,
+        1769864583.867,
+        1769864588.979,
+        1769864594.518,
+        1769864600.973,
+        1769864606.216,
+        1769864612.325,
+        1769864623.388,
+        1769864628.493,
+        1769864633.779,
+        1769864638.807,
+        1769864644.926,
+        1769864650.08
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T13:00:31.066000+00:00",
+      "duration": 224.014
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 全体概要\n- 発言は「してる 愛してる」のみ\n- 文脈や追加情報は一切なし\n\n## 内容解釈\n- 「愛してる」という愛情表現が中心\n- 相手への好意・愛情を示す言葉\n\n## 次のステップ\n- 相手や状況など文脈を補足する\n- 必要なら、この発言の意図を確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
