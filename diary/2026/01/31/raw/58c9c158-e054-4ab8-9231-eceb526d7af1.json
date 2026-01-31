@@ -1,0 +1,112 @@
+{
+  "id": "58c9c158-e054-4ab8-9231-eceb526d7af1",
+  "created_at": "2026-01-31T05:59:06.308853+00:00",
+  "started_at": "2026-01-31T05:02:47.038842+00:00",
+  "finished_at": "2026-01-31T06:01:02.754179+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "パーティーへ行く軽い会話",
+    "overview": "話し手が「行きますか」とパーティーに行くことを口にしつつ、音声アシスタントのアレクサに向けたような「申し訳ないけど」「任せて」などの断片的な発言をしている短い場面。具体的な予定の日時や確定した約束事までは示されていない。",
+    "emoji": "🎉",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "4ada1209-d7a6-47f8-832d-9c87fe5cdd0f",
+      "text": "行きますか アレクサ 申し訳ないけど まじ 任せてパーティーに",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.5449525392341457e-07,
+      "end": 49.58687515449526,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "de91f635-a8e4-45ed-8a5e-d0373f986b4e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "58c9c158-e054-4ab8-9231-eceb526d7af1",
+      "chunk_timestamps": [
+        1769839144.312,
+        1769839149.362,
+        1769839154.54,
+        1769839160.801,
+        1769839165.968,
+        1769839171.834,
+        1769839177.802,
+        1769839183.749,
+        1769839188.813,
+        1769839194.801,
+        1769839199.832,
+        1769839204.869,
+        1769839209.882,
+        1769839214.904,
+        1769839220.948,
+        1769839225.952,
+        1769839231.917,
+        1769839237.21,
+        1769839244.139,
+        1769839250.099,
+        1769839256.121,
+        1769839261.726,
+        1769839267.379,
+        1769839272.579,
+        1769839277.637
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T05:59:04.312000+00:00",
+      "duration": 138.325
+    },
+    {
+      "id": "0f7fd71d-f687-4146-b221-f217508a83ca",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "58c9c158-e054-4ab8-9231-eceb526d7af1",
+      "chunk_timestamps": [
+        1769839319.256,
+        1769839325.235,
+        1769839331.373,
+        1769839337.227,
+        1769839342.582,
+        1769839348.595,
+        1769839355.256,
+        1769839360.983,
+        1769839366.513
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T06:01:59.256000+00:00",
+      "duration": 52.257
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話内容\n- 「行きますか」と外出・移動を提案\n- 「アレクサ」とデバイス名を呼びかけ\n- 「任せてパーティーに」とパーティー参加を示唆\n\n## 次のステップ\n- パーティーの日時・場所を確認する\n- 必要な準備や持ち物を決める"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed"
+}
