@@ -1,0 +1,90 @@
+{
+  "id": "7e4d8175-8f4c-440a-8566-aea8ec7eefb3",
+  "created_at": "2026-01-31T12:19:22.938971+00:00",
+  "started_at": "2026-01-31T12:20:22.510741+00:00",
+  "finished_at": "2026-01-31T12:21:29.784175+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "X（旧Twitter）へのポスト確認",
+    "overview": "話者がX（旧Twitter）への投稿が正しく行われているか不安に感じつつ、「これで入力がいけていたらXにポストされるはず」「ポストされたら完璧なんだけどな」と、投稿の成功を確認・期待している場面。",
+    "emoji": "📤",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "6d117120-9474-47b1-aa5a-450ddb7b30d2",
+      "text": "完了 ポストされるはずだけれどもいけるんだろうか行けてるのかなXナウ イケて これで入力が行けていたXにポストされるはずお願いします 今は ポストされたら完璧なんやけどなぁ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.76837158203125e-07,
+      "end": 58.66824952316285,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "35669975-6926-474b-8ced-ac7a49682a02",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "7e4d8175-8f4c-440a-8566-aea8ec7eefb3",
+      "chunk_timestamps": [
+        1769861960.403,
+        1769861967.803,
+        1769861973.564,
+        1769861978.955,
+        1769861984.024,
+        1769861989.052,
+        1769861994.113,
+        1769862002.724,
+        1769862007.725,
+        1769862020.134,
+        1769862025.136,
+        1769862030.644,
+        1769862036.423,
+        1769862042.924,
+        1769862048.633,
+        1769862054.335,
+        1769862059.906,
+        1769862065.627,
+        1769862072.108,
+        1769862077.953,
+        1769862083.376,
+        1769862088.405
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T12:19:20.403000+00:00",
+      "duration": 133.002
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Xへの投稿状況\n- Xに投稿されているか不安を表明  \n- 「行けてるのかな」と投稿成功を確認したい  \n\n## 投稿への期待\n- 正しく入力されていればXにポストされる想定  \n- 「ポストされたら完璧」と投稿成功を強く希望  \n\n## 次のアクション\n- Xを開き実際に投稿済みか確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
