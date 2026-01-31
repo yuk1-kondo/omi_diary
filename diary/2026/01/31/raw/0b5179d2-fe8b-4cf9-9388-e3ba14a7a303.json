@@ -1,0 +1,97 @@
+{
+  "id": "0b5179d2-fe8b-4cf9-9388-e3ba14a7a303",
+  "created_at": "2026-01-31T12:38:10.519005+00:00",
+  "started_at": "2026-01-31T12:26:31.041615+00:00",
+  "finished_at": "2026-01-31T12:39:55.510321+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "Xナウomから",
+    "overview": "「Xナウomから」という断片的な発話のみが記録されており、文脈や具体的な行動・予定・議題は判別できない。",
+    "emoji": "❓",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "a9ac78c6-d44f-4d66-9563-4d1981a80704",
+      "text": "Xナウomから",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.092620085633826e-07,
+      "end": 9.961375509261984,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "7b35cbf7-d41d-4416-bd52-5630898decc7",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "0b5179d2-fe8b-4cf9-9388-e3ba14a7a303",
+      "chunk_timestamps": [
+        1769863085.481,
+        1769863091.528,
+        1769863096.645,
+        1769863102.647,
+        1769863107.895,
+        1769863113.847,
+        1769863118.947,
+        1769863124.978,
+        1769863134.247,
+        1769863140.789,
+        1769863145.73,
+        1769863150.875,
+        1769863155.836,
+        1769863160.871,
+        1769863165.924,
+        1769863170.966,
+        1769863176.039,
+        1769863181.301,
+        1769863186.355,
+        1769863192.354,
+        1769863198.035,
+        1769863203.524,
+        1769863209.335,
+        1769863214.965,
+        1769863220.538,
+        1769863226.245,
+        1769863231.307,
+        1769863236.365,
+        1769863241.685
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T12:38:05.481000+00:00",
+      "duration": 161.204
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話内容\n- 「Xナウomから」という発言のみ\n- 文脈や詳細情報は不明\n\n## 次のステップ\n- 追加の文脈や発言内容を提示する\n- 何についての要約か具体的に指示する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
