@@ -1,0 +1,75 @@
+{
+  "id": "21eea368-9e47-4917-9a30-acc040e9f29a",
+  "created_at": "2026-01-31T12:11:38.457800+00:00",
+  "started_at": "2026-01-31T11:36:45.487721+00:00",
+  "finished_at": "2026-01-31T12:12:07.708171+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "Xナウ",
+    "overview": "「Xナウ」という一言のみが発話されており、X（旧Twitter）を現在利用中・閲覧中である状況を示していると考えられるが、これ以上の文脈や具体的な行動内容は示されていない。",
+    "emoji": "📱",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "07794dd7-e54d-49d8-84b1-d4bb31d7063b",
+      "text": "Xナウ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.13894653661373e-07,
+      "end": 9.981375413894654,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "ffdff9dd-2a19-4f5e-beb4-f291682971f7",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "21eea368-9e47-4917-9a30-acc040e9f29a",
+      "chunk_timestamps": [
+        1769861493.889,
+        1769861499.115,
+        1769861505.429,
+        1769861510.54,
+        1769861519.629,
+        1769861527.691,
+        1769861533.422
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T12:11:33.889000+00:00",
+      "duration": 44.533
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Xナウの発言\n- 「Xナウ」という短い発言のみ  \n- 文脈や追加情報はなし  \n\n## 次のステップ\n- 文脈や目的を補足して再度メッセージする"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
