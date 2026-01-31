@@ -1,0 +1,95 @@
+{
+  "id": "6ac91a25-0648-40c6-a5b4-f9719325f181",
+  "created_at": "2026-01-31T12:12:21.558031+00:00",
+  "started_at": "2026-01-31T11:36:55.469096+00:00",
+  "finished_at": "2026-01-31T12:13:14.224230+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "Xへの投稿テスト状況確認",
+    "overview": "話し手は現在、X（旧Twitter）にリアルタイムで投稿できるかどうかをテストしており、その動作がうまくいっているか確認している状況を述べている。",
+    "emoji": "📱",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "a7103f86-6be1-4c89-b3e5-922fcc93bba0",
+      "text": "xナウ 今Xにポストできるかっていうのをテスト中だけれどもうまくいってるのか",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.348754885086237e-07,
+      "end": 20.042750434875487,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "2b3d7380-dd79-4795-8105-0b5803408d07",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "6ac91a25-0648-40c6-a5b4-f9719325f181",
+      "chunk_timestamps": [
+        1769861539.21,
+        1769861544.622,
+        1769861553.311,
+        1769861559.753,
+        1769861564.733,
+        1769861570.056,
+        1769861575.352,
+        1769861580.713,
+        1769861586.362,
+        1769861591.662,
+        1769861596.614,
+        1769861601.622,
+        1769861611.59,
+        1769861626.39,
+        1769861630.044,
+        1769861635.571,
+        1769861641.286,
+        1769861646.565,
+        1769861651.65,
+        1769861657.551,
+        1769861663.698,
+        1769861672.211,
+        1769861678.004,
+        1769861683.922,
+        1769861689.901,
+        1769861696.012,
+        1769861703.385
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T12:12:19.210000+00:00",
+      "duration": 169.175
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Xポストテストの状況\n- Xへのポスト機能をテスト中  \n- いま実行中かどうかを確認している  \n- 成功しているかまだ確信がない  \n\n## 次のステップ\n- ポスト結果を実際のX画面で確認する  \n- 失敗時はエラーメッセージやログを確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
