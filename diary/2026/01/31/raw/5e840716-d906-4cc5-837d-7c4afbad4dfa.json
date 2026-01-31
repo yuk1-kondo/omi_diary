@@ -1,0 +1,83 @@
+{
+  "id": "5e840716-d906-4cc5-837d-7c4afbad4dfa",
+  "created_at": "2026-01-31T13:16:43.383426+00:00",
+  "started_at": "2026-01-31T13:17:27.830040+00:00",
+  "finished_at": "2026-01-31T13:17:52.293329+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "Xナウ おみアプリからのテスト送信",
+    "overview": "Xナウ上で「おみアプリ」からの動作確認としてテスト送信を行ったことを示す短い発話。新しいテスト送信であること以外の詳細な文脈や予定は含まれていない。",
+    "emoji": "🧪",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "9affe242-ec77-4656-9d86-d9b1744e11dd",
+      "text": "Xナウ おみアプリからテスト 新 テスト送信",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 19.29043726158142,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "b74978ee-e4a8-4a6f-b128-d6f4f1bb8850",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "5e840716-d906-4cc5-837d-7c4afbad4dfa",
+      "chunk_timestamps": [
+        1769865396.268
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T13:16:36.268000+00:00",
+      "duration": 5.0
+    },
+    {
+      "id": "bceb82ea-262b-4188-9e03-06e6aaeae5fc",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "5e840716-d906-4cc5-837d-7c4afbad4dfa",
+      "chunk_timestamps": [
+        1769865447.644,
+        1769865454.553,
+        1769865460.285,
+        1769865468.646
+      ],
+      "provider": "gcp",
+      "started_at": "2026-01-31T13:17:27.644000+00:00",
+      "duration": 26.002
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## テスト送信の内容\n- 「Xナウ おみアプリからテスト 新 テスト送信」\n- おそらくアプリ経由でのテスト投稿\n- 新機能または接続確認のテストと思われる  \n\n## 次のステップ\n- 送信結果や表示内容をアプリ上で確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
