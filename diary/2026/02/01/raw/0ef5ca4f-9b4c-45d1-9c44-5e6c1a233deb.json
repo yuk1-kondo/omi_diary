@@ -1,0 +1,70 @@
+{
+  "id": "0ef5ca4f-9b4c-45d1-9c44-5e6c1a233deb",
+  "created_at": "2026-02-01T12:38:30.109811+00:00",
+  "started_at": "2026-02-01T12:38:31.043512+00:00",
+  "finished_at": "2026-02-01T12:38:40.463486+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "就寝前のひとこと",
+    "overview": "話者が「今日はもう就寝する」と述べ、その日の活動を終えて寝る準備に入る場面が記録されている。",
+    "emoji": "😴",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "c5e0dc3f-77ca-4f2c-bae0-2fc281881cd8",
+      "text": "Xナウ 今日はもう就寝す",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.384185791015625e-07,
+      "end": 9.04775023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "ccf88788-9081-437f-b622-d52afa2c82ce",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "0ef5ca4f-9b4c-45d1-9c44-5e6c1a233deb",
+      "chunk_timestamps": [
+        1769949510.863,
+        1769949516.16
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-01T12:38:30.863000+00:00",
+      "duration": 10.297
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話の内容\n- 「Xナウ」と現在の状況を共有  \n- 「今日はもう就寝」と宣言  \n- そのまま寝る予定を示唆  \n\n## 次のステップ\n- 就寝して休息をとる"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
