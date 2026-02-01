@@ -1,0 +1,75 @@
+{
+  "id": "4f2d2669-856c-44f9-a08a-6aca91b95be3",
+  "created_at": "2026-02-01T14:33:07.774650+00:00",
+  "started_at": "2026-02-01T14:33:10.659821+00:00",
+  "finished_at": "2026-02-01T14:33:50.707217+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "登山後の就寝",
+    "overview": "話者は本日登山をして疲れており、これから寝て翌日に備えることを述べている。",
+    "emoji": "🥾",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "d94338ef-c475-443b-9968-7aba89ea7b2d",
+      "text": "Xナウ 今日は登山をして疲れたので もう寝ます また明日",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 18.77849976158142,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "aa03c5bc-2b36-4a88-8b19-fb7277cec70f",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "4f2d2669-856c-44f9-a08a-6aca91b95be3",
+      "chunk_timestamps": [
+        1769956388.358,
+        1769956393.476,
+        1769956400.468,
+        1769956409.259,
+        1769956414.126,
+        1769956419.583
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-01T14:33:08.358000+00:00",
+      "duration": 36.225
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 今日の活動\n- 登山をして体力を消耗  \n- かなり疲れている様子  \n\n## 今後の予定\n- 今日は早めに就寝する  \n- 明日また活動を再開する予定"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
