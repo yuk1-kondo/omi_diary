@@ -1,0 +1,96 @@
+{
+  "id": "59a82748-2ca1-4935-a37f-1be4a3abb3fc",
+  "created_at": "2026-02-01T00:48:31.063770+00:00",
+  "started_at": "2026-02-01T00:41:51.956826+00:00",
+  "finished_at": "2026-02-01T00:49:27.970585+00:00",
+  "source": "phone",
+  "language": "ja",
+  "structured": {
+    "title": "胎内インター付近での降車場所の確認",
+    "overview": "話し手が「胎内インターチェンジで降りるけど近く…」と述べており、高速道路の胎内ICで降車するが、その近くの場所について確認・相談しようとしている場面と思われる。具体的な日時や予定行動は示されていない。",
+    "emoji": "🚗",
+    "category": "travel",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "3e626085-2940-4a47-b304-b1bca86369f9",
+      "text": "胎内インターチェンジで降りるけど近く",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.931854332175135e-07,
+      "end": 4.950688093185434,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "52d64448-5027-4a78-bc38-8548f98bc04b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "59a82748-2ca1-4935-a37f-1be4a3abb3fc",
+      "chunk_timestamps": [
+        1769906907.073,
+        1769906912.896,
+        1769906920.228,
+        1769906924.465,
+        1769906941.665,
+        1769906946.775,
+        1769906951.902,
+        1769906957.768,
+        1769906967.465,
+        1769906975.123,
+        1769906980.93,
+        1769906986.015,
+        1769906993.882,
+        1769906999.023,
+        1769907004.314,
+        1769907009.618,
+        1769907015.568,
+        1769907021.534,
+        1769907026.664,
+        1769907032.649,
+        1769907037.746,
+        1769907043.161,
+        1769907049.02,
+        1769907054.637,
+        1769907060.631,
+        1769907065.9,
+        1769907071.885,
+        1769907077.078
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-01T00:48:27.073000+00:00",
+      "duration": 175.005
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 要件確認  \n- 胎内インターチェンジで高速を降りる予定  \n- 「近く」の場所・目的地はまだ不明  \n\n## 今後の対応  \n- 目的地（店・施設名など）の詳細を特定する  \n- 胎内IC周辺の最寄りルート・目印を確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
