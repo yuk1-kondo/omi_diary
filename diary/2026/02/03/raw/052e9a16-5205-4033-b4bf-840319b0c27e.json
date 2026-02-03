@@ -1,0 +1,105 @@
+{
+  "id": "052e9a16-5205-4033-b4bf-840319b0c27e",
+  "created_at": "2026-02-03T02:00:59.571738+00:00",
+  "started_at": "2026-02-03T02:00:45.533866+00:00",
+  "finished_at": "2026-02-03T02:02:19.959741+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "今後の対応についての短い独り言",
+    "overview": "話し手が「それまでどうしたらいい」と今後の対応・過ごし方に迷っている様子を短く口にしている場面のみが記録されている。具体的な状況や相手、日時などは不明で、行動計画や約束などにはまだ落ちていない段階のつぶやきと思われる。",
+    "emoji": "🤔",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "38dc2637-8be1-44ca-a7db-57021c3d8454",
+      "text": "とって それまで どうしたらいい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 0.0,
+      "end": 29.284125,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "c491f45c-75f9-47d7-9916-ab16b26d9d77",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "052e9a16-5205-4033-b4bf-840319b0c27e",
+      "chunk_timestamps": [
+        1770084057.501,
+        1770084062.734,
+        1770084068.388,
+        1770084074.468,
+        1770084079.895,
+        1770084085.183,
+        1770084090.073,
+        1770084096.081,
+        1770084102.208,
+        1770084107.333,
+        1770084112.419,
+        1770084117.408,
+        1770084123.439,
+        1770084129.081,
+        1770084135.134,
+        1770084141.322,
+        1770084146.019,
+        1770084151.208,
+        1770084156.209,
+        1770084162.17,
+        1770084167.357,
+        1770084173.28,
+        1770084178.434,
+        1770084183.349,
+        1770084188.48,
+        1770084193.464,
+        1770084198.516,
+        1770084203.583,
+        1770084208.608,
+        1770084214.773,
+        1770084219.839,
+        1770084224.895,
+        1770084229.897,
+        1770084234.97,
+        1770084242.15,
+        1770084247.559,
+        1770084252.664
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-03T02:00:57.501000+00:00",
+      "duration": 200.163
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 状況\n- 何かを「とって」もらいたい場面  \n- それまでの間の対処を質問  \n\n## 次の行動\n- 相手が来るまでの過ごし方を相談予定"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
