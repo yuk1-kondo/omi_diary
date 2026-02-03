@@ -1,0 +1,70 @@
+{
+  "id": "98d0fc73-3c27-45bb-bbb2-7eae1e0dadb8",
+  "created_at": "2026-02-03T13:02:47.103987+00:00",
+  "started_at": "2026-02-03T13:02:47.948567+00:00",
+  "finished_at": "2026-02-03T13:02:57.646031+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "就寝のひと言",
+    "overview": "話者が「xナウ おやすみなさい」と述べており、就寝前の状況や眠りにつくタイミングを示している短い発話。特別な予定やタスクの言及はない。",
+    "emoji": "😴",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "d8b12e13-773f-4ec3-9634-f3822ecbe8fc",
+      "text": "xナウ おやすみなさい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.76837158203125e-07,
+      "end": 9.047750476837159,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "85fd7001-bfa6-478a-9bae-f691a4fc4cbe",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "98d0fc73-3c27-45bb-bbb2-7eae1e0dadb8",
+      "chunk_timestamps": [
+        1770123767.76,
+        1770123773.065
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-03T13:02:47.760000+00:00",
+      "duration": 10.305
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 眠る前のメッセージ\n- 「xナウ」と現在の状況を共有  \n- 「おやすみなさい」と就寝のあいさつ  \n\n## 次のアクション\n- 特になし"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
