@@ -1,0 +1,102 @@
+{
+  "id": "9ae3583c-5338-4c44-b224-8bbb52783c54",
+  "created_at": "2026-02-03T09:12:29.810049+00:00",
+  "started_at": "2026-02-03T09:08:26.704054+00:00",
+  "finished_at": "2026-02-03T09:13:34.034528+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "おでんを恋しがるひと言",
+    "overview": "話し手が「おでん 会いたいな」と口にし、おでんを食べたい・恋しいという気持ちをつぶやいている短い場面。具体的な予定や約束には至っていない。",
+    "emoji": "🍢",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "790126d4-4441-45a2-9535-4f49693bc381",
+      "text": "おでん 会いたいな",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.089904794251197e-07,
+      "end": 20.122749691009524,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "813afe95-7888-46c5-bca5-01c5b6f6d81c",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "9ae3583c-5338-4c44-b224-8bbb52783c54",
+      "chunk_timestamps": [
+        1770109948.987,
+        1770109954.042,
+        1770109960.392,
+        1770109965.963,
+        1770109971.144,
+        1770109976.119,
+        1770109981.307,
+        1770109987.292,
+        1770109992.343,
+        1770109997.453,
+        1770110002.621,
+        1770110007.862,
+        1770110012.966,
+        1770110018.396,
+        1770110023.499,
+        1770110028.786,
+        1770110034.281,
+        1770110039.974,
+        1770110045.192,
+        1770110050.421,
+        1770110055.473,
+        1770110060.887,
+        1770110066.013,
+        1770110071.29,
+        1770110079.236,
+        1770110084.487,
+        1770110089.683,
+        1770110095.445,
+        1770110101.017,
+        1770110107.135,
+        1770110112.432,
+        1770110117.887,
+        1770110123.01,
+        1770110128.197
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-03T09:12:28.987000+00:00",
+      "duration": 184.21
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 感情表現\n- 「おでん」に会いたい気持ちを表明\n- 対象は人・ペット・キャラ等の可能性\n- 懐かしさや恋しさを含む発言\n\n## 今後の行動\n- 「おでん」と会う機会をうかがう\n- 連絡や再会のきっかけ作りを検討"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
