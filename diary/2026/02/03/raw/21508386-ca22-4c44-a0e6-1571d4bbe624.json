@@ -1,0 +1,109 @@
+{
+  "id": "21508386-ca22-4c44-a0e6-1571d4bbe624",
+  "created_at": "2026-02-03T07:21:33.726289+00:00",
+  "started_at": "2026-02-03T07:09:15.357618+00:00",
+  "finished_at": "2026-02-03T07:23:18.057810+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "火曜日までの締め切りについての言及",
+    "overview": "話者が「火曜日までに」と締め切りらしき期限を口にしているが、何を火曜日までに行うのか、具体的な内容や日時の詳細は示されていない。",
+    "emoji": "⏰",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "f7d55385-ae40-4d6f-9cca-09c6fc2927ca",
+      "text": "火曜日までに",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.403259315997275e-07,
+      "end": 9.741374759674066,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "c219b689-9b15-4834-8e3a-02d85b4fb4f6",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "21508386-ca22-4c44-a0e6-1571d4bbe624",
+      "chunk_timestamps": [
+        1770103293.041,
+        1770103298.076,
+        1770103303.122,
+        1770103308.222,
+        1770103313.242,
+        1770103318.267,
+        1770103323.284,
+        1770103328.381,
+        1770103333.404,
+        1770103339.425,
+        1770103344.451,
+        1770103350.444,
+        1770103356.372,
+        1770103362.346,
+        1770103367.54,
+        1770103373.445,
+        1770103379.586,
+        1770103384.55,
+        1770103390.526,
+        1770103395.859,
+        1770103400.798,
+        1770103405.82,
+        1770103412.09,
+        1770103417.87,
+        1770103423.864,
+        1770103429.031,
+        1770103434.939,
+        1770103440.046,
+        1770103445.983,
+        1770103451.3,
+        1770103457.222,
+        1770103462.361,
+        1770103467.42,
+        1770103472.445,
+        1770103478.373,
+        1770103483.56,
+        1770103488.515,
+        1770103493.592,
+        1770103499.602,
+        1770103504.673,
+        1770103509.67
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-03T07:21:33.041000+00:00",
+      "duration": 221.629
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 火曜日までに行うこと\n- 期日：火曜日まで  \n- 具体的な内容は未定  \n- 期限遵守が重要  \n\n## 次のステップ\n- 何をするか詳細を確認する  \n- 必要な作業量と時間を見積もる  \n- 火曜日までのスケジュールを立てる"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
