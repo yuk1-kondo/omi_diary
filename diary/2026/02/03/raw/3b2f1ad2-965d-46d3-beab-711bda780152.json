@@ -1,0 +1,113 @@
+{
+  "id": "3b2f1ad2-965d-46d3-beab-711bda780152",
+  "created_at": "2026-02-03T03:36:17.176055+00:00",
+  "started_at": "2026-02-03T03:15:52.850483+00:00",
+  "finished_at": "2026-02-03T03:38:13.359628+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "採点担当者の設定とリンク送信の確認",
+    "overview": "会話では、採点担当者が決まり次第、入力設定を行い、その日（初日）に使用するための準備を進めることについて話している。担当者に対しては、事前に全員へリンクを送付し、連絡が取れるかどうかを確認した上で、ファイルのアップロードなど初期作業を行う段取りを共有している。",
+    "emoji": "✅",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "e8239f97-31fb-4c1e-b836-736ce6b9ba50",
+      "text": "その採点の人は決まったら入力を設定をして どっかその日使う使う初日に確認みんなリンク送りましたよまず連絡できるか確認してください アップロード及び 最初 はい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.4141541505050554e-07,
+      "end": 50.04687465858456,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a7e5cee7-ad38-4daa-8114-42d8c3ee3e6a",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "3b2f1ad2-965d-46d3-beab-711bda780152",
+      "chunk_timestamps": [
+        1770089776.713,
+        1770089781.884,
+        1770089786.95,
+        1770089792.032,
+        1770089797.007,
+        1770089802.021,
+        1770089807.109,
+        1770089813.083,
+        1770089818.222,
+        1770089823.308,
+        1770089828.4,
+        1770089834.477,
+        1770089839.495,
+        1770089844.791,
+        1770089850.161,
+        1770089855.322,
+        1770089860.677,
+        1770089865.717,
+        1770089871.012,
+        1770089877.081,
+        1770089882.205,
+        1770089887.407,
+        1770089892.428,
+        1770089898.618,
+        1770089903.599,
+        1770089908.749,
+        1770089914.242,
+        1770089919.418,
+        1770089924.384,
+        1770089929.479,
+        1770089934.615,
+        1770089939.698,
+        1770089944.703,
+        1770089950.108,
+        1770089955.164,
+        1770089960.298,
+        1770089965.603,
+        1770089971.507,
+        1770089976.58,
+        1770089981.87,
+        1770089987.861,
+        1770089993.02,
+        1770089998.034,
+        1770090003.016,
+        1770090008.213
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-03T03:36:16.713000+00:00",
+      "duration": 236.5
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 採点者の設定\n- 採点担当者を決定する  \n- 採点者の入力設定を行う  \n\n## 初日までの準備\n- 使用開始初日に動作確認をする  \n- 全員にリンクを送付する  \n- 連絡が取れるか事前に確認する  \n\n## アップロードと初期対応\n- 必要データをアップロードする  \n- 最初の動作をチェックする  \n\n## 次のステップ\n- 採点者設定完了を確認する  \n- 連絡不通者へのフォローを行う"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
