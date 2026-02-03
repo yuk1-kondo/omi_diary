@@ -1,0 +1,100 @@
+{
+  "id": "0ad105ea-1b35-4d81-891a-850da0e91542",
+  "created_at": "2026-02-03T04:38:44.419104+00:00",
+  "started_at": "2026-02-03T03:51:55.015913+00:00",
+  "finished_at": "2026-02-03T04:39:37.500364+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "別のページを書く作業メモ",
+    "overview": "話し手が「別のページ書きます」と述べており、現在とは別のページ（資料・ドキュメント・ノートなど）を作成する意図を簡潔に表明している。具体的な内容や期限、他者とのやり取りは示されていない。",
+    "emoji": "✍️",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "60a3eeaf-3b3d-4778-87e0-64e5abe6c440",
+      "text": "別のページ書きます",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.280639759850601e-07,
+      "end": 10.121375328063976,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "aac38d22-e642-4fe8-b2da-991659bcbdc3",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "0ad105ea-1b35-4d81-891a-850da0e91542",
+      "chunk_timestamps": [
+        1770093522.654,
+        1770093527.672,
+        1770093533.633,
+        1770093538.753,
+        1770093544.654,
+        1770093549.853,
+        1770093555.971,
+        1770093561.304,
+        1770093566.583,
+        1770093571.648,
+        1770093577.76,
+        1770093582.764,
+        1770093587.792,
+        1770093592.948,
+        1770093598.592,
+        1770093604.3,
+        1770093609.435,
+        1770093615.442,
+        1770093620.404,
+        1770093625.472,
+        1770093630.703,
+        1770093635.754,
+        1770093640.957,
+        1770093646.058,
+        1770093651.235,
+        1770093656.327,
+        1770093666.372,
+        1770093671.532,
+        1770093676.657,
+        1770093681.764,
+        1770093686.706,
+        1770093691.731
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-03T04:38:42.654000+00:00",
+      "duration": 174.077
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## ページ作成の意図\n- 別のページを書くことを宣言\n- 新しい内容用のページと推測可能\n\n## 次のステップ\n- 新しいページの内容や目的を決める\n- 構成や見出し案を考える"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
