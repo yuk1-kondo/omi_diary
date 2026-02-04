@@ -1,0 +1,90 @@
+{
+  "id": "7dbdc773-7f0d-4a14-83b4-fb85f32590f6",
+  "created_at": "2026-02-04T10:22:14.979428+00:00",
+  "started_at": "2026-02-04T09:45:41.404650+00:00",
+  "finished_at": "2026-02-04T10:22:19.584841+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "明日の予定調整に関する一言メモ",
+    "overview": "話者が「明日入れなくていいからね。でも彼に…」と、翌日の予定やシフトなどを入れなくてよい旨を伝え始めている断片的な発話。詳細な文脈や具体的な約束・予定の内容、相手との関係性は不明。",
+    "emoji": "📅",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "1e6afee5-6ee1-4f5a-9dca-354c5ab77515",
+      "text": "明日入れなくていいからねでも彼に",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -7.05719003235572e-08,
+      "end": 10.021374929428106,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "89993ae4-7acf-40d5-a9f8-2959a96415fc",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "7dbdc773-7f0d-4a14-83b4-fb85f32590f6",
+      "chunk_timestamps": [
+        1770200534.537,
+        1770200539.567,
+        1770200544.717,
+        1770200549.789,
+        1770200555.507,
+        1770200560.996,
+        1770200566.056,
+        1770200571.32,
+        1770200577.679,
+        1770200583.464,
+        1770200588.783,
+        1770200593.966,
+        1770200598.978,
+        1770200604.342,
+        1770200612.028,
+        1770200619.192,
+        1770200625.165,
+        1770200630.232,
+        1770200635.344,
+        1770200640.684,
+        1770200645.902,
+        1770200651.247
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-04T10:22:14.537000+00:00",
+      "duration": 121.71
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話内容\n- 明日来なくていいと伝えたい  \n- 相手は「彼」と表現されている  \n\n## 次のステップ\n- 「明日は来なくて大丈夫」と丁寧に伝える"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
