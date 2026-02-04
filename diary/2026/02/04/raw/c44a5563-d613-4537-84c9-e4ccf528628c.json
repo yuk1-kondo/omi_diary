@@ -1,0 +1,99 @@
+{
+  "id": "c44a5563-d613-4537-84c9-e4ccf528628c",
+  "created_at": "2026-02-04T01:43:37.178126+00:00",
+  "started_at": "2026-02-04T01:43:32.080500+00:00",
+  "finished_at": "2026-02-04T01:44:21.513063+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "評価から自動計算する仕組みの検討",
+    "overview": "話し手は「評価から自動で計算するように」と述べており、何らかの評価値を入力として自動計算する仕組みを導入・改善しようとしていることがうかがえる。詳細な条件や対象は明示されていないが、手動計算ではなく評価ベースの自動計算ロジックへの切り替え・設計が論点になっている。",
+    "emoji": "⚙️",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "7834ab70-1849-47bb-946d-da1630a48b1a",
+      "text": "評価から自動で計算するように",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 0.0,
+      "end": 10.001375,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "426a6046-8e86-4d9d-8133-9c7abfc43c39",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "c44a5563-d613-4537-84c9-e4ccf528628c",
+      "chunk_timestamps": [
+        1770169412.963,
+        1770169418.308,
+        1770169423.303,
+        1770169428.286,
+        1770169433.275,
+        1770169439.322,
+        1770169444.327,
+        1770169449.434,
+        1770169455.388,
+        1770169460.646,
+        1770169465.791,
+        1770169470.897,
+        1770169476.155,
+        1770169481.275,
+        1770169486.384,
+        1770169491.554,
+        1770169496.654,
+        1770169501.686,
+        1770169506.705,
+        1770169513.576,
+        1770169518.621,
+        1770169523.73,
+        1770169529.778,
+        1770169537.448,
+        1770169541.313,
+        1770169547.284,
+        1770169552.419,
+        1770169557.368,
+        1770169562.422,
+        1770169567.448,
+        1770169573.254
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-04T01:43:32.963000+00:00",
+      "duration": 165.291
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 自動計算の要望\n- 評価結果から自動計算したい  \n- 手入力ではなくシステム計算を希望  \n\n## 次のステップ\n- 評価項目と計算ルールを定義する  \n- 実装方法（シートかシステムか）を決める"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
