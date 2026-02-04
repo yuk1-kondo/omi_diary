@@ -1,0 +1,96 @@
+{
+  "id": "98476b83-fbd5-4bfc-985e-73b1a6ab83d1",
+  "created_at": "2026-02-04T01:53:18.079746+00:00",
+  "started_at": "2026-02-04T01:43:52.103250+00:00",
+  "finished_at": "2026-02-04T01:54:27.225968+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "評定判定シートに関するメモ",
+    "overview": "「評定判定シート」という言葉のみが発話されており、評定・評価に関する資料やシートについて言及した短いメモ的な内容とみられるが、詳細な文脈や議論内容は不明。具体的な予定や行動計画は読み取れない。",
+    "emoji": "📊",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "a16f6c81-b60c-4d31-8f12-1e82f1307940",
+      "text": "評定判定シート",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.3923644814894942e-07,
+      "end": 10.441374860763553,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1582a561-b52f-4881-8d07-a05b47981c3b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "98476b83-fbd5-4bfc-985e-73b1a6ab83d1",
+      "chunk_timestamps": [
+        1770169996.426,
+        1770170002.329,
+        1770170008.655,
+        1770170016.828,
+        1770170022.322,
+        1770170027.819,
+        1770170032.688,
+        1770170038.961,
+        1770170045.103,
+        1770170051.952,
+        1770170057.066,
+        1770170062.076,
+        1770170067.175,
+        1770170073.177,
+        1770170078.789,
+        1770170083.844,
+        1770170090.075,
+        1770170095.034,
+        1770170100.399,
+        1770170106.008,
+        1770170112.109,
+        1770170117.339,
+        1770170125.319,
+        1770170131.619,
+        1770170137.665,
+        1770170145.157,
+        1770170165.282,
+        1770170174.967
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-04T01:53:16.426000+00:00",
+      "duration": 183.541
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 評定判定シートについて\n- テーマは「評定判定シート」\n- それ以外の内容は発言なし\n\n## 次のステップ\n- 評定判定シートの目的や内容を共有する\n- 必要な要素や形式について質問・指定する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
