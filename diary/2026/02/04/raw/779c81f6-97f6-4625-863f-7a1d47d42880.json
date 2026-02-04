@@ -1,0 +1,102 @@
+{
+  "id": "779c81f6-97f6-4625-863f-7a1d47d42880",
+  "created_at": "2026-02-04T08:19:11.790679+00:00",
+  "started_at": "2026-02-04T07:14:07.505403+00:00",
+  "finished_at": "2026-02-04T08:20:22.199208+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "作成作業の実行可否を確認",
+    "overview": "話し手が「僕も作りたい」と述べたうえで、マーキング作業について今すぐ実行可能かを検討し、「今できないことはない」「行けそうだ」と、現時点で対応できる見込みがあることを確認している短いやり取り。",
+    "emoji": "✅",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "b7c1a350-ec78-4988-a967-05bc4a7a2a7e",
+      "text": "僕も作りたい マーキングしてる 今今できない事は無いはい行けそうだ はい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.825592441193294e-07,
+      "end": 40.105499517440705,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "62705ec0-1605-46a6-b2d1-f5f33c7e45c9",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "779c81f6-97f6-4625-863f-7a1d47d42880",
+      "chunk_timestamps": [
+        1770193149.096,
+        1770193157.296,
+        1770193162.845,
+        1770193168.047,
+        1770193173.131,
+        1770193179.152,
+        1770193184.218,
+        1770193189.237,
+        1770193195.2,
+        1770193200.217,
+        1770193205.314,
+        1770193210.573,
+        1770193215.755,
+        1770193220.757,
+        1770193226.753,
+        1770193231.885,
+        1770193236.933,
+        1770193242.285,
+        1770193248.333,
+        1770193253.392,
+        1770193258.507,
+        1770193263.514,
+        1770193269.524,
+        1770193275.531,
+        1770193281.785,
+        1770193292.11,
+        1770193297.501,
+        1770193303.038,
+        1770193308.156,
+        1770193313.188,
+        1770193318.291,
+        1770193323.507,
+        1770193328.523,
+        1770193333.55
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-04T08:19:09.096000+00:00",
+      "duration": 189.454
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 話題の内容\n- 何かを「作りたい」と発言  \n- 「マーキングしてる」と進捗を共有  \n- 「今できないことはない」と実現可能性を確認  \n\n## 現状と見通し\n- 現時点で作成は「行けそう」  \n- 技術的・実務的な大きな障害はなさそう  \n\n## 次のステップ\n- 具体的に何を作るか要件整理  \n- 作業計画とスケジュールを決定"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
