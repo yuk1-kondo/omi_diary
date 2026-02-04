@@ -1,0 +1,92 @@
+{
+  "id": "de4029bf-fb3e-401f-947b-5edaf221c791",
+  "created_at": "2026-02-04T05:44:06.885897+00:00",
+  "started_at": "2026-02-04T05:21:13.238641+00:00",
+  "finished_at": "2026-02-04T05:45:34.336245+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "家族についてのひと言メモ",
+    "overview": "会話内容は「家族」という単語のみで、詳細な文脈や議論は含まれていない。家族に関する何らかのトピックを示唆しているが、予定や具体的なアクションは読み取れない。",
+    "emoji": "👪",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "fd7a51fa-435b-485c-8a02-c742a23ea3c2",
+      "text": "家族",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.326965322652086e-07,
+      "end": 9.961374767303468,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "678014a5-aa88-4e3a-8a28-cb31029084df",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "de4029bf-fb3e-401f-947b-5edaf221c791",
+      "chunk_timestamps": [
+        1770183843.845,
+        1770183849.006,
+        1770183854.049,
+        1770183859.128,
+        1770183864.187,
+        1770183869.211,
+        1770183874.222,
+        1770183879.234,
+        1770183884.277,
+        1770183889.267,
+        1770183895.354,
+        1770183900.388,
+        1770183905.428,
+        1770183910.448,
+        1770183915.436,
+        1770183920.477,
+        1770183925.513,
+        1770183930.628,
+        1770183935.689,
+        1770183940.727,
+        1770183945.759,
+        1770183950.918,
+        1770183955.877,
+        1770183960.852
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-04T05:44:03.845000+00:00",
+      "duration": 122.007
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 話題の概要\n- 会話内容は「家族」の一語のみ\n- 文脈や詳細な説明は一切なし\n\n## 次のステップ\n- 家族について知りたい内容を具体的に伝える\n- 例：家族問題相談・家族構成説明・家族の作文添削"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
