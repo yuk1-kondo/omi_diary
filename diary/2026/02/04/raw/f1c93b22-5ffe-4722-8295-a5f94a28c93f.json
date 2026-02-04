@@ -1,0 +1,72 @@
+{
+  "id": "f1c93b22-5ffe-4722-8295-a5f94a28c93f",
+  "created_at": "2026-02-04T14:23:34.500191+00:00",
+  "started_at": "2026-02-04T13:56:44.761009+00:00",
+  "finished_at": "2026-02-04T14:26:19.491944+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "就寝の一言",
+    "overview": "話者が「Xナウ 寝ます おやすみなさい」と述べており、これから就寝することを伝えている短い発話。",
+    "emoji": "😴",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2426cc46-77ee-4c67-8295-41630df83001",
+      "text": "Xナウ 寝ますおやすみなさい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.76837158203125e-07,
+      "end": 19.902749523162843,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "9d714524-fe41-45fb-8669-79df3c1be909",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "f1c93b22-5ffe-4722-8295-a5f94a28c93f",
+      "chunk_timestamps": [
+        1770215120.306,
+        1770215125.931,
+        1770215130.531,
+        1770215135.593
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-04T14:25:20.306000+00:00",
+      "duration": 20.287
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 寝る前の行動\n- 「Xナウ」と投稿\n- 就寝宣言をする\n- 「おやすみなさい」と挨拶\n\n## 次のアクション\n- 特になし"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
