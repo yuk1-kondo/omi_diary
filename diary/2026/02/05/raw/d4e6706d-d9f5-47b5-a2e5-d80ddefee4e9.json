@@ -1,0 +1,119 @@
+{
+  "id": "d4e6706d-d9f5-47b5-a2e5-d80ddefee4e9",
+  "created_at": "2026-02-05T07:25:28.625813+00:00",
+  "started_at": "2026-02-05T07:26:37.381763+00:00",
+  "finished_at": "2026-02-05T07:26:41.640157+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Reminder Request About Chat With Elliott",
+    "overview": "The user asked their assistant to remind them of the conversation they just had with Elliott, without providing further details of that discussion.",
+    "emoji": "📝",
+    "category": "other",
+    "action_items": [
+      {
+        "description": "Review conversation notes from discussion with Elliott",
+        "completed": false,
+        "created_at": "2026-02-05T07:28:46.186727+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "8b64cfcc-fe79-4201-8327-7eb6c6ef5833",
+      "text": "Remind me of the conversation I just had with Elliott.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.3378601038691613e-07,
+      "end": 2.4000003337860107,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJYWLs648FbkgRQmQt88RG7oc",
+    "latitude": 51.4157833,
+    "longitude": -3.2754446,
+    "address": "63 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "81f43d2b-d952-4852-bbf1-7ae84a8c4433",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "d4e6706d-d9f5-47b5-a2e5-d80ddefee4e9",
+      "chunk_timestamps": [
+        1770276328.373,
+        1770276333.49,
+        1770276338.525,
+        1770276344.799,
+        1770276349.882,
+        1770276354.89,
+        1770276359.878,
+        1770276364.92,
+        1770276369.962,
+        1770276386.725,
+        1770276392.613,
+        1770276397.68,
+        1770276402.79,
+        1770276409.469,
+        1770276415.483,
+        1770276420.436,
+        1770276425.447,
+        1770276430.474,
+        1770276435.477,
+        1770276440.513,
+        1770276445.541,
+        1770276450.572,
+        1770276455.581,
+        1770276460.699,
+        1770276465.719,
+        1770276470.76,
+        1770276476.203,
+        1770276481.765,
+        1770276487.795,
+        1770276492.797,
+        1770276497.803,
+        1770276502.859,
+        1770276508.904,
+        1770276513.902
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-05T07:25:28.373000+00:00",
+      "duration": 190.529
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Conversation context\n- Request to recall talk with Elliott  \n- No details from that talk provided  \n\n## Limitations\n- I can’t access past conversations with Elliott  \n- I only see messages in this current chat  \n\n## Next steps\n- Paste or describe key parts of Elliott conversation  \n- I’ll summarize them in the requested format"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
