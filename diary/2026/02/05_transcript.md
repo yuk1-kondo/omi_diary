@@ -700,3 +700,533 @@ I have set a four minute alarm for you.
 
 ---
 
+
+
+## 📝 Bible Study Group Explores 2 Corinthians - 1c022532-9c76-4b8c-b359-72978cbbb148
+
+**記録時間**: 2026-02-05 18:01:05
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 2s]
+Maryse? Morning.
+
+🎤 SPEAKER_2 [9s - 14s]
+Still approved this morning. After on. Yeah. It's getting warmer.
+
+👤 あなた [16s - 16s]
+But yeah.
+
+👤 あなた [19s - 23s]
+Don't get to wear hats out in public too often. But I guess this is a public setting.
+
+🎤 SPEAKER_2 [23s - 24s]
+So Olivia.
+
+🎤 SPEAKER_2 [29s - 35s]
+No. Rachel asked last week if you had your hat on. You know, it's come on thing.
+
+👤 あなた [37s - 50s]
+Yeah. Yeah. It seems to lots of people seem to mention when I wear a hat or something. But I tell you, get you got lovely hair, Gary, but when you got less hair like me, you feel the cold a bit more.
+
+🎤 SPEAKER_3 [56s - 60s]
+It's getting that's getting a bit thin, if you look closely on.
+
+👤 あなた [87s - 104s]
+Gary, I don't know if anybody else is having this problem, but I'm unable to download the handout from the cloud. I click on it and it's and it's saying failed failed to download. So that's the first time that's happened.
+
+👤 あなた [106s - 108s]
+So So I don't know if you've had any reports of that.
+
+🎤 SPEAKER_3 [114s - 118s]
+I've handled on a couple of emails where attachment or whatever kind of download.
+
+🎤 SPEAKER_4 [119s - 119s]
+But Yeah.
+
+🎤 SPEAKER_6 [121s - 126s]
+Any problem there? We've never had. Yeah. It's a standard.
+
+🎤 SPEAKER_4 [126s - 126s]
+Doctor.
+
+👤 あなた [128s - 132s]
+Yeah. It's a Yeah. So it's just a it's exactly the same as all the other handouts you've done.
+
+🎤 SPEAKER_6 [133s - 134s]
+Yeah. Yeah.
+
+👤 あなた [134s - 142s]
+I'd be interested to see if anybody else has and if David, I can't see you, but do you have a laptop or do you just work from paper from where you are?
+
+🎤 SPEAKER_6 [143s - 153s]
+I have a tablet. With the Word document, download them on my laptop and turn them into PDFs and then send them across my tablet.
+
+👤 あなた [153s - 168s]
+Oh, I see. Do you have access to your email there at all if if not? I just wonder I just want I I haven't got access to it at the moment, so I don't quite know Have you got access to your email?
+
+👤 あなた [169s - 170s]
+I got access to my email.
+
+🎤 SPEAKER_2 [170s - 170s]
+Yeah.
+
+👤 あなた [171s - 177s]
+In fact, I'm just on the the cloud page now and all the other downloads that are on there, can download. It's just this one specifically.
+
+👤 あなた [179s - 186s]
+Unit 11. It's just fade it's saying fail.
+
+🎤 SPEAKER_6 [212s - 214s]
+So What's your email address?
+
+👤 あなた [215s - 228s]
+The Union one. Which is let's have a look. Because Rachel works in now as well, so she's she's near oh, there we are. Yeah. My union one, which is.
+
+👤 あなた [233s - 234s]
+At h y s.
+
+🎤 SPEAKER_2 [235s - 235s]
+Yeah.
+
+👤 あなた [240s - 247s]
+My normal email format is arg runo, but Rachel works at Union, she's got the arg runner, so it's a bit confusing. But Oh, yeah.
+
+🎤 SPEAKER_6 [249s - 250s]
+So what's that at Union?
+
+👤 あなた [251s - 255s]
+Yeah. So so @ust.ac.uk.
+
+🎤 SPEAKER_6 [261s - 262s]
+My account.
+
+👤 あなた [262s - 263s]
+Oh, bless you, mate.
+
+👤 あなた [273s - 281s]
+Any of you guys on the Zoom, did did anyone else have problems downloading the handout from the cloud today? No.
+
+🎤 SPEAKER_6 [281s - 283s]
+It worked just for me. Yeah.
+
+👤 あなた [284s - 287s]
+It did it did. Working fine, you say.
+
+🎤 SPEAKER_2 [287s - 287s]
+Yeah.
+
+👤 あなた [290s - 293s]
+What? How is that? Why is that the case then?
+
+🎤 SPEAKER_2 [296s - 297s]
+Thank you.
+
+🎤 SPEAKER_6 [385s - 392s]
+We can't let start and I shall let others in when they come in.
+
+🎤 SPEAKER_2 [396s - 396s]
+Shall we pray?
+
+🎤 SPEAKER_6 [398s - 430s]
+Our father, thank you for the wonderful privilege we have of coming before you, the father of mercies and God of all comfort, we pray that this morning we would know this to be the case. Help us in our our study of this letter together. I They made me know indeed your mercy and your comfort as we do so. We pray in Jesus' name.
+
+🎤 SPEAKER_2 [431s - 431s]
+Amen.
+
+🎤 SPEAKER_6 [436s - 445s]
+So that's Reed second Corinthians chapter one. Verses one to 11.
+
+🎤 SPEAKER_6 [461s - 463s]
+Anyone want to read, please?
+
+🎤 SPEAKER_2 [467s - 468s]
+I'm not good.
+
+🎤 SPEAKER_6 [469s - 470s]
+Okay. Thank you, Omiya.
+
+🎤 SPEAKER_2 [472s - 474s]
+One to 11. Yeah. Yeah.
+
+🎤 SPEAKER_5 [476s - 480s]
+Paul, an apostle of Christ Jesus, by the will of God and Timothy our brother, to the church of God that is at Corinth.
+
+🎤 SPEAKER_8 [483s - 498s]
+With all the saints who in the whole of Achair. Grace to you and from God, our father, and the Lord Jesus Christ. Blessed be the God and father of our Lord Jesus Christ, the father of mercies, and God of all comfort, who comforts us in all affliction.
+
+🎤 SPEAKER_8 [499s - 506s]
+So that we may be able to comfort those who are in any affliction. With the comfort with which we ourselves are comforted by God.
+
+🎤 SPEAKER_8 [507s - 516s]
+For as we share abundantly in Christ's sufferings, so through Christ we share abundantly in comfort too. If we are afflicted, it is for your comfort and salvation.
+
+🎤 SPEAKER_8 [517s - 525s]
+And if we are comforted, it is for your comfort. Which you experience when you patiently endure the same sufferings that we suffer.
+
+🎤 SPEAKER_8 [526s - 532s]
+Our hope for you is unshaken, for we know that as you share in our sufferings, you will also share in our comfort.
+
+🎤 SPEAKER_0 [569s - 581s]
+Else put on God who raises the dead. Delivered us from such a deadly peril, and he will deliver us. On him, we have set our hope that he will deliver us again. You also must
+
+🎤 SPEAKER_0 [581s - 584s]
+help us by prayer so that many will give thanks on our of the blessing granted us to prayers of many.
+
+👤 あなた [592s - 613s]
+Okay. Thank you. So second, Corinthians there. It has approved proved attractive to scholars on the basis of some critical and interpretive issues will briefly in touch with some of these.
+
+👤 あなた [615s - 618s]
+But I I think for us,
+
+👤 あなた [622s - 642s]
+I think for us, works much more interesting, I'm sure, and helpful about ternobyte This letter would be its usefulness and pastoral document As Porter says, this identifies insights.
+
+👤 あなた [643s - 673s]
+Into your highly apostle Paul adjusted his perspective on a church that continually seemed to be involved in some type of controversy even if we are not in tactly certain role that that controversy entailed to ensure that continually to know any churches like that.
+
+👤 あなた [674s - 687s]
+But in many ways, I suppose, we we pray there aren't the big big blow ups. Too often, I can't can't eat the church split some.
+
+👤 あなた [688s - 699s]
+Things like that. But there's always something, I'd imagine, in in a church of any any size. And, therefore, this letter is very helpful.
+
+👤 あなた [700s - 719s]
+For us. It is much to say between ministers abides gospel. Ministry, So how would you summarize this? Now the message of second Corinthians, anyone?
+
+👤 あなた [729s - 732s]
+With a with a desire to see it as a single document.
+
+🎤 SPEAKER_2 [733s - 770s]
+I appreciated for women's It's about reconciliation. Reconciliation worked out through or implied maybe by assignments to fulfill financial bench eight to nine and then I work both both getting rid of faults of bottles at 10 to 13 and implicitly recalibrating their way of assessing what the true opposites. So reconciliation is point but it works out in these practical ways.
+
+🎤 SPEAKER_2 [773s - 774s]
+Yes.
+
+👤 あなた [774s - 790s]
+Right. So this is a key point. Any any obsessed with it as more biographical in a way.
+
+🎤 SPEAKER_3 [795s - 805s]
+There seems to be a great appeal for the apostle that to reject the apostle Paul in weakness and his proclamation is to reject Christ himself.
+
+👤 あなた [816s - 837s]
+Yes. And, yep, I think he's he's got perhaps what would be compared to some of the stuff that's the current teams have been hearing a a counterintuitive way of of of doing that and of asserting his his authority.
+
+👤 あなた [849s - 888s]
+Okay. So I'm paraphrasing Gordon here, basically. Paul versus his own soul. And the soul of the gospel to the Corinthians. He does this to promote reconciliation between himself and them, and to exhort them to be reconciled to God The end result will be cross shaped ministry, by both himself and David has fleshed out the specifics of that a little bit from chapter eight to nine. Now Generosity, chapter 10 to 13.
+
+👤 あなた [889s - 914s]
+You know, how these superimposals or falseimposals are in some ways, threatening the relationship with with with Paul. And as it goes much more fundamentally, distorting the gospel, So firstly then, historical and critic issues.
+
+👤 あなた [916s - 972s]
+So we'll briefly consider authorship, holds correspondence with the Corinthians, and the unity of two Corinthians. So the authorship them So like one Corinthians, even the most critical stars attribute this matter of the call. There's some discussion of the you know, they have the letter, which we will come back to. But there's little the impulse correspondence with the Corinthians So from what you're read and the hints within the letters themselves and what you've read and then the literature. How how many times did Paul write to the Corinthians that we come that that that we know of, and do you think, Omi?
+
+👤 あなた [976s - 977s]
+We did four times.
+
+👤 あなた [980s - 993s]
+Yeah. Four times seems to be the simplest way to construct it. Some might try to make a kiss for five. The argument seems a bit more comfortable with them.
+
+👤 あなた [994s - 1023s]
+That's not to say. You can allude to them both of times. You know? But but in terms of what evidence we have and what is most significant in terms of the content of one or two current sales. We we can think about four ladders, I think, So it is somewhat complex, the dealing of current areas regardless of how we reconstruct the interchange of flatteries in the mid fifties.
+
+👤 あなた [1025s - 1041s]
+There were at least four laterties changed colon and the current theme. So there was the original lost letter. After the church was founded, around fifty two AD, which prompted various questions from the church.
+
+👤 あなた [1042s - 1061s]
+Which called out rest along with other concerns, one Corinthians, They're then following a painful visit chapter two verse one second Corinthians. For I made up am I not to make another painful visit. To you?
+
+👤 あなた [1064s - 1082s]
+And a severe latter followed that. There's a lot of questions also lost to chapter two verse two to four. For if I cause you pain, who is there to make me glad, but the one whom I have been? And I wrote as I did.
+
+👤 あなた [1082s - 1090s]
+So that when I came, I might not suffer pain, from those who should have made me rejoice I found sure all of you
+
+👤 あなた [1094s - 1129s]
+For I felt sure of all of you that my joy would be the joy of yours. For I note you as much of fiction as anguish upon and as many tears, not because of the you know the abundant that I have for you. So that's not the first one was written subsequently And then we have two different things. The low the this the letter referred to in chapter two.
+
+👤 あなた [1129s - 1156s]
+Here was the urge strongly, the discipline of the defender, who, it appears, as strong as it was this matter, a broad demand concern that the majority of the Guernsey has two with infants and the degree of reconciliation with whole So chapter two, verse five till 11. Chapter seven, verse two to 16.
+
+👤 あなた [1157s - 1161s]
+Would would probably be what the tax rate to kind of factor that up.
+
+👤 あなた [1166s - 1181s]
+No. Someone see chapter 10 to 13 as an interpolation. From a different ladder due to the more severe toe. We see he's quite concili conciliatory.
+
+👤 あなた [1182s - 1210s]
+In chapters one to nine, and he he asked him for money in chapters eight and nine. The the thinking might be, well, why then would he go off on them and 10 to 13 if he wants to to to get the money? But but but Paul probably didn't think in the kind of smooth business he took place that that that we tend to do.
+
+👤 あなた [1213s - 1223s]
+I think it necessarily follow While there has been a measure of reconciliation with all, there are still these so called suprarapoxals around.
+
+👤 あなた [1224s - 1238s]
+They offer a triumphal message that appear to denoquent Paul's apparent weakness. They also have considerable influence and would seek to steal coals sheep.
+
+👤 あなた [1238s - 1266s]
+So the final four chapters therefore, they look strongly with this issue. So I suppose that seems logical enough to say there's a lot of reconciliatory and war manage, however, is challenge to a challenge one to nine. But then he said, but Gavdas, you need to watch out for these guys. You know?
+
+🎤 SPEAKER_2 [1267s - 1268s]
+You need to not be there.
+
+👤 あなた [1272s - 1299s]
+So Paul wrote at least four hours to me. Parentheums, two of which will be lost, We assume the unity of both harmonical levers but it's not to deny that there may have been other letters between Poland currents and it would hardly be surprising if these were ever found if there was not some overlap of content
+
+👤 あなた [1303s - 1320s]
+Now there is a question that's somebody has a bump. You don't need it happen. Dealt with it in relation to chapters 10 to 13, but chapter six fourteen to seven one, which in itself, is a very rich kind of tone.
+
+👤 あなた [1321s - 1356s]
+Passage. I think I'll think it's a gold's carbonant, a gold dwelling with his people and so forth. With a kind of since we have these promises on the polls grid, therefore, if you like it, chapter seven verse one, no Some would say go perhaps, either a part of poles, first loss letter or one of the other letters because they they break up the flow of second Corinthians.
+
+👤 あなた [1359s - 1370s]
+So what did you what do you make of that claim? You think answer this?
+
+🎤 SPEAKER_2 [1376s - 1392s]
+It struck me it struck me that it's similar to textatrical arguments that if you come to a text and it looks like somebody's inserted something that doesn't block, you have to ask yourself, well, why might they have done that?
+
+🎤 SPEAKER_2 [1392s - 1446s]
+And it's it's often the most unlikely the the the most humanly unlikely option is is the one you should be inclined to a firm because if there isn't a good argument for it, then it's more likely be genuine. And, actually, if you so I I can see how it does how the flow does run nicely from six thirteen to seven two. But that just makes me think, well, so why is he why is he inserting that there? He's talking about striking that he's talking so much about tabernacle, temporal, language and God coming and making his dwelling. And and, actually, they do need to get a well, don't they? They they he he he is talking about the same thing. He's making breaking into an illustration to talk about the signature of what it means that God should make his dwelling with us, but it's not a different Yep.
+
+👤 あなた [1458s - 1460s]
+Any anything for you?
+
+🎤 SPEAKER_4 [1470s - 1486s]
+Yeah. I was pretty much gonna see what David just said on on the surface. It does look like a abrupt breaking of the flow of thought. But it's it's from what I gather, it's typical Pauline kind of style. Anyway, he often digresses.
+
+🎤 SPEAKER_4 [1487s - 1524s]
+What what appears to be digressions, but often a deepening or an expansion of the main the main points he's making But, yeah, I I can but I can can see I see I can see what I can see what people are saying there. But from my understand that I kinda were particularly where I read it this week, but it was kinda like there's no textual kind of manuscript variance of of this that that we have. So it's not like it's disputed But like what we talked about with one Corinthians, was it four eleven last week?
+
+🎤 SPEAKER_4 [1525s - 1532s]
+There's there's none of that to be to be added to this. So it it seems you can't there's no arguments to be made from that side of things.
+
+🎤 SPEAKER_4 [1533s - 1537s]
+So a typical Pauline, regret, kind of digress, but potentially,
+
+🎤 SPEAKER_2 [1539s - 1540s]
+Yeah.
+
+🎤 SPEAKER_1 [1540s - 1541s]
+Related nonetheless.
+
+👤 あなた [1542s - 1590s]
+Yeah. I I think the point about least likely, you know, it it isn't important because as this was in an epidural, we wanted to say something and search something even even say, imagining and it's with the with the best of intentions as well to you know, kind of this wasn't authentically Pauline paragraph, and they want to make sure it's in there somewhere, but it wasn't found there is no letter. Well, this this may not necessarily be the place that that that you would do. Can't think of hand where you would put it, but But, you know, this wouldn't necessarily be the place.
+
+👤 あなた [1591s - 1617s]
+So so, you know, that suggests it's a scientific when you're the whole it isn't like one of our digress probably. That's may or may not play very relevant and helpful to the overall flow of a a sermon on an essay, but it's more, you know, all those those what he's doing. It's like he's not he's not mechanical in that sense.
+
+👤 あなた [1618s - 1633s]
+And we see it in you know, Philippines one, five to eight. Seems to break up a continuous flow that first nine would pick up. We see it in Ephesians chapter three, probably the first half of that.
+
+👤 あなた [1633s - 1648s]
+Chapter, you know, where he's he says, well, one, two, pray for you. For this reason, I have bought Prisoner for Jesus Christ on behalf of you Gentiles.
+
+👤 あなた [1649s - 1661s]
+Buy my knees before the father. That's Ephesians three one and Ephesians three fourteen. So that's that that that's a bit smooth. I just put any of the dot.
+
+👤 あなた [1661s - 1693s]
+Verse two to 13 is something of a digression, but it is an extremely good digression. And fits into the overall argument of of the matter. So it is a nondral thing. It is a it isn't sloppiness, but same time, Paul isn't just simply governed by perfect style.
+
+👤 あなた [1695s - 1702s]
+You know? Okay. He's finished chapter two of Ephesians verse 22 talking about the household of God being built
+
+👤 あなた [1708s - 1719s]
+And then he said then he was allowing to write this one up. What he's praying for it, but when they start saying that, but then he goes, oh, yes. And there's all this as well. And, you know, that's your human.
+
+👤 あなた [1719s - 1725s]
+But it's it's it's only the inspiration of the the the Holy Spirit.
+
+👤 あなた [1730s - 1744s]
+So so in other words, that six fourteen to seven one standalone wherever it can be not part of second Corinthians.
+
+👤 あなた [1749s - 1758s]
+So five nine of second Corinthians then. Very briefly on this.
+
+👤 あなた [1761s - 1775s]
+So there is three main sections, chapters one and the seven. Chapters yet to nine, and chapters 10 to 13. So in the theme of chapters one to seven, time acting and falls rejoicing at their repentance.
+
+👤 あなた [1776s - 1807s]
+In chapter seven is reconciliation. Chapter three of the nine, call it searching, the Corinthians to forward a collection which they appeared eager to make to the mother church in Jerusalem But somehow had not quite followed through on their initial zero for that. So it's ready to encourage them to to do that.
+
+👤 あなた [1813s - 1824s]
+And I mean, it's a fairly easy kind of reading the compound sort of question. I suppose, but how does it call make the appeal of generosity in chapters you have in mind?
+
+👤 あなた [1825s - 1831s]
+This thing would be Christian. Do you think how does he base it in the the gospel.
+
+🎤 SPEAKER_3 [1845s - 1873s]
+I find him austinating in how he's calling believers to give as their hearts would lead them. Which is very different. And I don't know where the question question whether the question is going to be that in the Old Testament giving was a man debt to give 10% of whatever you had.
+
+🎤 SPEAKER_3 [1874s - 1887s]
+But over here, it seems not to lay a big a huge burden on them to tell them how much they also give that they they ought to give from their heart understanding the generosity.
+
+🎤 SPEAKER_3 [1887s - 1894s]
+Of God through his son, Jesus Christ. So that that makes it this thing requested.
+
+👤 あなた [1898s - 1913s]
+Yep. So and and somehow, the letters are the the chapters are a little bit complex to lead, not the subject of art, not in terms of the style, but but it's beautiful.
+
+👤 あなた [1913s - 1942s]
+Grinding and chapter eight verse nine. And you know the grace of all of Jesus Christ, that though he was redshed for your might become rich and I mean, that's great standalone tax day, a a a submission of the gospel but think about it in its context, obviously.
+
+👤 あなた [1943s - 1953s]
+And you'll see you'll see that the appeal of the generosity is so much more advanced as we what we think on that.
+
+👤 あなた [1956s - 1960s]
+And I got chapter nine verse eight, so eight nine nine eight.
+
+👤 あなた [1971s - 1984s]
+Every good work so the Lord loves a cheerful different reasons of the Israelites. What by which you ought to be cheerful
+
+👤 あなた [1988s - 2067s]
+So do her. Obvious examples of reassembly of getting and yes, boss, wispons that will question then of how much comes into that. If you understand the fuller revelation of grace, you can you you can be much more much more generous. So some would say well, 10% is a starting point, but I I'm I'm not sure it's as simple as that someone could actually technically for various reasons, hopefully, due to need and financial constraint get somewhat less than 10%, but but they're giving from their heart and they are serving not just with their their treasure, but with their time, talent, doing so joyfully. But you know, don't necessarily put me on that. But, you know, at I think that is the spirit of the gospel as trying general that that that we see here.
+
+👤 あなた [2069s - 2080s]
+Then chapters ten fifteen, deal with the ongoing issue of self proclaimed. Super apostles who sent themselves over against haul.
+
+👤 あなた [2081s - 2106s]
+On the basis that he is not sufficiently impressive or maybe it is okay to become a Christian to get people converted. But you know, in terms of them going on, having greater experience and greater power that need something else. You need the message that that that they are bringing.
+
+👤 あなた [2109s - 2149s]
+So the bit surrounds are identally. And they're distinctive aspect aspects with Goron think it most likely that their Jewish background isn't Paul's concern in this instance, but that they may see themselves as a spirit filled elite and we see certainly how seriously call ticks the threat. So superopposals is the language used in the ESV translation. I consider that I am not in the release.
+
+👤 あなた [2149s - 2188s]
+Inferior to these super apostles in the previous verse then. Says, for if someone comes to preach Jesus, than the one we proclaimed or if you receive a different spirit from the one we proclaimed receive or if you accept a different gospel from the one you accepted, you cut off with it gradually enough. So the so these teachers were gaining traction with with the people, their relationship with Paul, was under threat, and Paul was quite clear to knowing Jesus.
+
+👤 あなた [2189s - 2193s]
+It is a different gospel
+
+👤 あなた [2197s - 2218s]
+And that doesn't mean that they really clean, obviously. Not those are other. Another man about Jesus and they're following him. It doesn't mean that there weren't aspects of the the true gospel in their message, but but but the distortions were so so severe that Paul viewed it in that way.
+
+👤 あなた [2220s - 2230s]
+Until eleven thirteen. To 15. For such men are false supposed to seek forward men. Disguising themselves as opposals of Christ.
+
+👤 あなた [2231s - 2250s]
+And no wonder for even Satan disguises himself as an angel of life. So there's no surprise if his servants also disguise themselves servants of righteousness, their realm will correspond to their deeds.
+
+👤 あなた [2254s - 2271s]
+And then 12 of them Her eye was not a total inferior to these supraposals even though I am nothing. So Paul sees the threat of these appointments and it's deadly. So serious.
+
+👤 あなた [2275s - 2276s]
+Okay. Any comments or questions?
+
+🎤 SPEAKER_2 [2296s - 2304s]
+You can imagine responding to that by saying, let's talk about the gospel, which he does do, but he talked about
+
+🎤 SPEAKER_2 [2326s - 2330s]
+Interesting that that's similar.
+
+🎤 SPEAKER_5 [2331s - 2336s]
+The book of Galatians, the word that he defends his gospel by defending the way he received it. And the authenticity of that reception.
+
+🎤 SPEAKER_5 [2337s - 2351s]
+Strengthly, that's quite similar that his credentials are his weakness in receiving undeserving Odivos. And in that, it's proved to be genuine, but he's not he's not commending him. He's commending him an s.
+
+👤 あなた [2360s - 2368s]
+Yeah. Good. Okay. Well, that's me going. Why was second letter?
+
+👤 あなた [2372s - 2397s]
+So it would appear that the occupational second criticisms is similar but somewhat different. To first Corinthians. While much of the fractionalism in that bladder has been overcome, New opponents have entered that they are very persuasive.
+
+👤 あなた [2399s - 2424s]
+They're questioning Paul's authority through personal attack through claiming to be warned for a partly than full. Like to claim legitimately or probably otherwise that the authority of the Jewish or church, and you can see quarter on that.
+
+👤 あなた [2427s - 2469s]
+So lying behind there, I there was a similar kind of fraud thinking that we find in long term. So the overrealized eschatology the mature focus on the more spectacular So Paul is particularly concerned that the Corinthian Christians do not fall for their old teaching because he knows them. He knows this might be a particular temptation for them
+
+👤 あなた [2475s - 2479s]
+Now I what do you think, God, that pastoral lessons here?
+
+👤 あなた [2483s - 2494s]
+We learn from Paul's concern about the superimposals, particularly in their threats. To the Corinthian quest Christians, any any thoughts on that?
+
+🎤 SPEAKER_2 [2511s - 2513s]
+Yeah. The grand wall all one who you follow.
+
+🎤 SPEAKER_2 [2522s - 2541s]
+So it's all all well over presenting a message that's persuasive and defensible. That is important. But people follow somebody. They trust somebody or they trust people. And so there are these impressive figures who come along, and they are a danger to the chair.
+
+🎤 SPEAKER_2 [2541s - 2602s]
+I mean, this is Ezekiel, and Jesus talking about shepherds. And it was all over the place that the the people that are in positions of spiritual authority have their capacity to lead others astray because that's just how that's how this works. And so the pastor lived in an age where the Internet is full of legitimate looking sources of spiritual guidance that I would say one significant posture of implication is that pastors or churches are called to reaffirm a significant of the pastoral office as here's an individual that the lord has has has given you or an eldership that the notice has given you to to care for you, not just by delivering the words that you yourself regardless as comprehensible as that is the swest.
+
+🎤 SPEAKER_2 [2602s - 2607s]
+A there's a leadership responsibility being emphasized and underlined here.
+
+👤 あなた [2613s - 2621s]
+Yeah. So you're setting up then. Part of that is to deal with deal with the other stuff, the other influences of my think so much about because we think we're all we think we're individualistic
+
+🎤 SPEAKER_2 [2635s - 2641s]
+We think we're all in charge of what we think and stuff. But, actually, in reality, we're not. We're all following something.
+
+🎤 SPEAKER_2 [2643s - 2651s]
+Are much less discerning about who we're in trouble. We've got this Yeah. Mirage of being in charge of ourselves.
+
+👤 あなた [2655s - 2657s]
+Yeah. So, yeah, that's a good point. Yeah.
+
+🎤 SPEAKER_4 [2660s - 2678s]
+Just thinking about Gary, about how this kind of connects into the warnings from one Corinthians. The previous letter, where where Paul in one Corinthians three is talking about about leaders and those who truly try to build the church in good faith but fail.
+
+🎤 SPEAKER_4 [2678s - 2687s]
+Who their works are burnt up, but they themselves will be saved. But then he goes on to say, if anyone destroys God's temple, God will destroy him.
+
+🎤 SPEAKER_4 [2687s - 2701s]
+And I feel like a little bit like the the super apostles are actually servants of Satan preaching a different gospel. So they're not there in good faith. They're they're not miss misinformed. They're intentionally trying to mislead.
+
+🎤 SPEAKER_4 [2702s - 2714s]
+God's people. And so it's a to answer your question, it's a it's a Paul considers this a a a very serious threat, because it's a different gospel. In fact, agents of of Satan.
+
+🎤 SPEAKER_4 [2715s - 2763s]
+And and so for him, it's it seems to me like it's a it's a very serious problem. One where Paul's previously warned them about, okay, Talking about internal threats perhaps, but if not learned the lesson there, And so it's kinda like it's it's it's yeah. It's it's pretty serious, but god if it's almost like the analogy of if you're trying to if you're a bit of a if you're a a dodgy a cowboy builder versus somebody who's like a demolition crew. So if you build the house a bit wonky, gonna be alright. But if you come in to try and destroy the church, then God's gonna destroy you, Paul says. So it seems to me they fit in that second category.
+
+🎤 SPEAKER_4 [2764s - 2766s]
+And so need to be dealt with quite severely.
+
+🎤 SPEAKER_3 [2773s - 2791s]
+What's also interesting is how the apostle grounds it back into the garden, predicate in verse, each chapter 11. Verse verse three, and the seeing these superposals who are coming and are turning around the gospel.
+
+🎤 SPEAKER_3 [2792s - 2838s]
+They're they're like the serpent deceived. Mhmm. And with that, kind of cleverness. What what's interesting with and with the word super, I kind of use cultural lenses in where we are and seeing how these kind of super apostles are calling themselves prophets are changing. The real Jesus who died on the cross or suffered for our sin, and that's earning it to be an easy beliefism kind of message, one that does require you to repent and turn around. And and and this is a reminder that we need to stand bomb on what is true and rebuke such evil preaching in our midst.
+
+👤 あなた [2847s - 2857s]
+Yeah. And that's that you know, sometimes, I mean, they they seem to be clear. I don't know how to call them kite boys or demolition.
+
+👤 あなた [2858s - 2860s]
+Crew, but, yeah, probably demolition crew.
+
+🎤 SPEAKER_2 [2863s - 2866s]
+I think there's a bit of a a spectrum, you know, There can be those who are some serial motor pillars.
+
+👤 あなた [2874s - 2885s]
+They genuinely want to be teaching the gospel and edifying the the believers. There's a bit quite a bit of truth in what they say.
+
+👤 あなた [2885s - 2904s]
+Error in them as well. So how you deal with them is someone different than how you would deal with those. We are we are clearly out to undermine the well, in this case, the apostle himself, but the opposite stoic teaching that we have.
+
+👤 あなた [2904s - 2938s]
+In in subtle ways. There is subtle But I think I think a general pastoral lesson as well as Paul is addressing the problem of the current figure, He's dealing with a particular church and it can be easy for us, I suppose, to find something wacky and attack it to your mom. You're finding the most extreme thing that you can from a somewhere in the Internet. It's like, look at what these people are are doing.
+
+👤 あなた [2939s - 2967s]
+Do that. And that's never going to be something that your people are are likely to do. But But but what are the arrows facing facing your people, What are the sins and arrows in our own churches? Lives Subgovernment is helpful in highlighting the ultimate focus of the chronoformship of life and Christ.
+
+👤 あなた [2968s - 2982s]
+But that is the unified theme of second Corinthians. There are differences in style, three octal matter, As we've mentioned, chapters one to seven are considering a 38 tonight.
+
+👤 あなた [2982s - 3002s]
+Exorcator, exam the 13, polemical. But the needs for Christians to the cross centered lines unifies the whole and that is at the heart of the passage we go.
+
+👤 あなた [3002s - 3018s]
+We will might look at. Okay. So we'll we'll break there. We'll have a look at. Now at 11:30 to to twelve. Pounds were Paul is taking on the the the suburb postholes.
+
+👤 あなた [3018s - 3029s]
+Head on. Okay. Any questions, comments before we break? Okay. Good. Let's pick it up at town then. Yeah.
+
+🎤 SPEAKER_5 [3029s - 3030s]
+Thank you.
+
+🎤 SPEAKER_1 [3080s - 3082s]
+No greater name.
+
+
+---
+
