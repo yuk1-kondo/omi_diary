@@ -1959,3 +1959,77 @@ Believe in the sky is stunning.
 
 ---
 
+
+
+## 📝 Casual Chat About Getting Out Of The House - ed8c7eb8-9b4e-47cb-8548-8ab55af02bba
+
+**記録時間**: 2026-02-05 21:44:18
+
+### STT生テキスト
+
+👤 あなた [0s - 3s]
+Oh, I am, Mary. So I I'm That's alright. I didn't see you sneaking.
+
+👤 あなた [7s - 9s]
+I'm good. Thank you. Yeah. Yeah.
+
+👤 あなた [23s - 25s]
+How's it, Omi? How's it going?
+
+🎤 SPEAKER_1 [26s - 27s]
+Still?
+
+👤 あなた [27s - 39s]
+Blimey. One Oh, Oh, they see they're beethoven. Yeah. Yeah. Well done. Fine. I had a CXA for traveling. Was. Yeah. We got it.
+
+👤 あなた [40s - 43s]
+Thing. It's pretty much same thing as the Volkswagen and a Yeah.
+
+🎤 SPEAKER_1 [43s - 43s]
+But she's yeah.
+
+🎤 SPEAKER_2 [43s - 44s]
+She's not mine.
+
+👤 あなた [44s - 46s]
+No. No. You got look after it. Yeah.
+
+🎤 SPEAKER_2 [46s - 50s]
+So it's like it I went down to network. Yes. I didn't ring Monday or Tuesday. Oh, yeah.
+
+🎤 SPEAKER_1 [50s - 51s]
+Was thinking, okay.
+
+🎤 SPEAKER_2 [51s - 54s]
+She took a work Monday or Tuesday possibly. That's okay.
+
+👤 あなた [83s - 92s]
+So Have you? Well, Well, there we are. I'm good. I'm cold. Yeah. I'm most is those cold in here, after this. Are you? Oh, well then.
+
+🎤 SPEAKER_2 [92s - 93s]
+Yeah. Yeah.
+
+👤 あなた [95s - 96s]
+Oh, well, yeah. Yeah.
+
+👤 あなた [99s - 107s]
+How about you guys? Just trying to get out of the house a bit and different environment than sitting in the front room. Do you know what mean?
+
+👤 あなた [109s - 114s]
+I A bit of air. Big windows. You know.
+
+🎤 SPEAKER_1 [116s - 116s]
+Yeah.
+
+👤 あなた [118s - 120s]
+Yeah. Cool on then. Uh-huh. Good to see you.
+
+👤 あなた [129s - 130s]
+She's gotta be on there.
+
+👤 あなた [193s - 193s]
+I don't get it.
+
+
+---
+
