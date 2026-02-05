@@ -129,3 +129,23 @@ Remind me of the conversation I just had with Elliott.
 
 ---
 
+
+
+## 📝 Discussion Of FBI Civil Rights Investigation - f714e656-a17e-4fbd-8c5d-40c357c36be1
+
+**記録時間**: 2026-02-05 16:28:42
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 6s]
+Well, again, I just described to you what I said about Alex Pretty, which is that he's a guy who showed up with ill intent to an ice protest.
+
+🎤 SPEAKER_1 [8s - 20s]
+But if it it is a guy it's determined that his civil rights were violated. By this FBI investigation. Will he apologize. If if this hypothetical leads to that hypothetical leads to another Will I do a thing?
+
+🎤 SPEAKER_1 [21s - 23s]
+Again, like I said, we're gonna let the investigate I just came across mega I'm sorry if you miss
+
+
+---
+
