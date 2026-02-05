@@ -1,0 +1,94 @@
+{
+  "id": "58cd7ea7-27a7-4dbf-8df5-59d9da20d58f",
+  "created_at": "2026-02-05T10:35:07.669296+00:00",
+  "started_at": "2026-02-05T09:17:25.485599+00:00",
+  "finished_at": "2026-02-05T10:35:28.428016+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "エイドを依頼する一言の場面",
+    "overview": "話し手が「エイド出して」と発言しており、何らかの支援物資や補給（エイド）を依頼する短い場面が記録されている。追加の文脈や応答は含まれていない。",
+    "emoji": "🧃",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "cbb5967d-3a71-4827-a8d6-6f55186455b9",
+      "text": "エイド出して",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.531308033823734e-08,
+      "end": 10.001375055313076,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "5434a513-cf70-4d6a-be26-7eaca72eebfa",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "58cd7ea7-27a7-4dbf-8df5-59d9da20d58f",
+      "chunk_timestamps": [
+        1770287705.963,
+        1770287710.938,
+        1770287716.078,
+        1770287722.073,
+        1770287728.181,
+        1770287733.172,
+        1770287738.255,
+        1770287743.228,
+        1770287748.279,
+        1770287754.047,
+        1770287759.011,
+        1770287764.083,
+        1770287769.096,
+        1770287774.119,
+        1770287779.361,
+        1770287784.408,
+        1770287789.533,
+        1770287794.576,
+        1770287799.587,
+        1770287805.532,
+        1770287811.023,
+        1770287816.179,
+        1770287821.353,
+        1770287826.429,
+        1770287831.648,
+        1770287836.676
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-05T10:35:05.963000+00:00",
+      "duration": 135.713
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 要望内容\n- エイドを出してほしいと依頼あり  \n\n## 次のステップ\n- どの種類のエイドか詳細確認が必要"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
