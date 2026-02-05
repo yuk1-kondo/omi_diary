@@ -1,0 +1,118 @@
+{
+  "id": "ee10fb72-bf5c-49dc-9d1a-23c1513905db",
+  "created_at": "2026-02-05T06:32:41.277291+00:00",
+  "started_at": "2026-02-05T06:32:42.349635+00:00",
+  "finished_at": "2026-02-05T06:37:05.919391+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "短いやり取りでの同意と理解の確認",
+    "overview": "話者が相手の発言に対し「はいはいそうですね」「決定しますかね」「なるほど」などと相づちを打ち、内容に同意・理解を示している短い会話の一部が記録されている。具体的な議題や決定内容、日程などは明示されていない。",
+    "emoji": "💬",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "c3193ffa-5347-4153-8e0c-f6777b541ece",
+      "text": "はいはいはい はいはいそうですねそうですね決定ます 金",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.76837158203125e-07,
+      "end": 24.74412547683716,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    },
+    {
+      "id": "b73846d8-c935-4337-beb3-e139698a3a60",
+      "text": "なるほど",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 234.60050630569458,
+      "end": 246.0818813056946,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "f2051f16-1321-4d7d-9db0-6194eeb23c28",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ee10fb72-bf5c-49dc-9d1a-23c1513905db",
+      "chunk_timestamps": [
+        1770273162.339,
+        1770273168.602,
+        1770273174.848,
+        1770273180.997,
+        1770273187.266,
+        1770273195.456,
+        1770273200.993,
+        1770273210.366,
+        1770273217.778,
+        1770273224.197,
+        1770273230.473,
+        1770273240.07,
+        1770273255.683,
+        1770273268.707,
+        1770273275.249,
+        1770273285.05,
+        1770273291.893,
+        1770273301.148,
+        1770273328.075,
+        1770273335.767,
+        1770273341.552
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-05T06:32:42.339000+00:00",
+      "duration": 184.213
+    },
+    {
+      "id": "8eeb748f-c622-4648-8e01-d50ef177007e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ee10fb72-bf5c-49dc-9d1a-23c1513905db",
+      "chunk_timestamps": [
+        1770273396.93,
+        1770273417.792,
+        1770273424.0,
+        1770273433.386,
+        1770273444.379,
+        1770273462.788
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-05T06:36:36.930000+00:00",
+      "duration": 70.858
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話内容\n- 決定に関する話題が出た\n- 相手の意見に同意している様子  \n\n## 次のステップ\n- 具体的な決定内容を明確にする必要あり"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
