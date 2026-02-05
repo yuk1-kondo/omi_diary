@@ -2323,3 +2323,56 @@ Thought I'd be able to find it. Can't zoom anything.
 
 ---
 
+
+
+## 📝 Sci-Fi Bridge Scene Draft Review - 3f7fafc4-34a2-4768-8252-d3c68dbf419d
+
+**記録時間**: 2026-02-05 23:07:03
+
+### STT生テキスト
+
+👤 あなた [0s - 6s]
+Just an heavy weave of the kind of gold piping on the saw catch the flickering orange light. Yesterday, this coat blonde to miller.
+
+👤 あなた [10s - 17s]
+Still carries the faint scent of his tobacco or goes over man who mentored you then failed you. On your shoulders, fabric feels like lead.
+
+👤 あなた [18s - 20s]
+The door to the private washroom hisses open doctor.
+
+👤 あなた [29s - 43s]
+He stops her eyes traveling from polished boots to new ranking signal on your collar. For a moment, she isn't the head of a xenopology and I suspect she is just your wife looking at the mat she chose and it fits, I'm sure.
+
+👤 あなた [51s - 51s]
+You sure what?
+
+👤 あなた [52s - 66s]
+I was sure what you might have always seemed broader or maybe he was just inflated by the crafty of his own race. I can't tell if she's trying to comfort me or warn me. Eris has always had a of finding the cracks in my armor before I even put it on.
+
+👤 あなた [72s - 74s]
+You've been here for an hour while still, isn't it?
+
+👤 あなた [77s - 80s]
+Are you looking for a boy who wrote it, or you're hoping it'll tell you how to handle the travel advertit?
+
+👤 あなた [96s - 99s]
+I know that I'm being present this week. I'm sorry.
+
+👤 あなた [118s - 123s]
+Was meant to fail. Was forty people died their neck because he checked the charter.
+
+🎤 SPEAKER_1 [124s - 134s]
+Instead of the pressure ages. What the fuck up to? He wanted to be an membrane which the decks, but the decks needed a wall.
+
+🎤 SPEAKER_1 [139s - 143s]
+Ready. The bridge is waiting.
+
+👤 あなた [147s - 154s]
+And vein is already pacing the tactical floor. Nothing for vein.
+
+🎤 SPEAKER_1 [154s - 155s]
+Interesting.
+
+
+---
+
