@@ -1,0 +1,66 @@
+{
+  "id": "0a5f724d-33f8-481e-b2fa-9fa2dc50f5b3",
+  "created_at": "2026-02-05T10:20:17.877685+00:00",
+  "started_at": "2026-02-05T09:16:58.081474+00:00",
+  "finished_at": "2026-02-05T10:22:18.257932+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "マイクテストの音声ログ",
+    "overview": "「テスト」「マイクテスト」という言葉を繰り返しているだけのマイク動作確認用の音声。内容としての情報や予定・タスクは含まれていない。",
+    "emoji": "🎙️",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "701ef8f7-f994-4816-9e57-fe84bc753622",
+      "text": "テストテストテストテストテストテストマイクテストマイクテストマイクテストマイクテスト テストテストテストテストテストテスト",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.051758312722086e-08,
+      "end": 20.002750030517575,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a061e380-7b14-4c6d-a141-3816cc09d834",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "0a5f724d-33f8-481e-b2fa-9fa2dc50f5b3",
+      "chunk_timestamps": [
+        1770286815.828,
+        1770286831.699,
+        1770286841.581,
+        1770286847.667,
+        1770286852.755
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-05T10:20:15.828000+00:00",
+      "duration": 41.927
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [],
+  "suggested_summarization_apps": [],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
