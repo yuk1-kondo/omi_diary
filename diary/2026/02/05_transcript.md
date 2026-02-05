@@ -2033,3 +2033,293 @@ I don't get it.
 
 ---
 
+
+
+## 📝 Friends Discuss Birthday, Church Trip, And Reading - 5d537aa6-99e5-403a-bf3a-156708a3dc2b
+
+**記録時間**: 2026-02-05 22:04:35
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+Cheers, guys.
+
+👤 あなた [10s - 12s]
+See you, Mary. I'm gonna head down.
+
+🎤 SPEAKER_1 [12s - 12s]
+Yeah.
+
+👤 あなた [12s - 21s]
+Yeah. I thought I'd say goodbye. You working to eat? No. No. No. I'm good. Say again. Yeah. It's I'm happy.
+
+🎤 SPEAKER_1 [21s - 21s]
+It's nice.
+
+👤 あなた [21s - 25s]
+It's nice. Nice. And special when you have a birthday.
+
+🎤 SPEAKER_2 [25s - 27s]
+Say again? Yeah. Way up to now.
+
+👤 あなた [27s - 27s]
+Home.
+
+👤 あなた [32s - 39s]
+She keeps on insisting that she wants money to spend for either in preparation of or being at Cape Town. I said to her,
+
+🎤 SPEAKER_2 [41s - 42s]
+No.
+
+👤 あなた [42s - 51s]
+She likes clothes. So doesn't say no. But I love to take You can offer to take her to the ship. Do you what do take out shopping. You need to get a coffee out or something.
+
+👤 あなた [52s - 59s]
+And get her something nice for either San Tropez or I know she doesn't wanna talk. She she's admin she said multiple times, Reese?
+
+👤 あなた [59s - 66s]
+I do not want a party. So so we need to do something nice for a birthday, maybe a meal out or something.
+
+🎤 SPEAKER_2 [76s - 77s]
+Oh, I was going currently in London.
+
+👤 あなた [77s - 80s]
+Oh, right. Okay. So now
+
+👤 あなた [93s - 94s]
+She just goes and does what she What's with a friend?
+
+🎤 SPEAKER_2 [96s - 98s]
+I have to make sure I'll have a chat with it on.
+
+👤 あなた [98s - 102s]
+Yeah. Yeah. Well, to keep town, authors. No.
+
+🎤 SPEAKER_2 [102s - 102s]
+No.
+
+👤 あなた [103s - 104s]
+No.
+
+🎤 SPEAKER_1 [105s - 105s]
+That's true.
+
+👤 あなた [105s - 112s]
+But she's a that'd good. Why didn't we beg your Oh, No. No. It's I'm in the same boat.
+
+👤 あなた [115s - 125s]
+Experience. You know? Oh, yeah. For the millennium. You know? Yes. Just found it, I think. No. No. She yeah. I mean, in some ways, obviously, it's a big birthday, isn't it?
+
+👤 あなた [125s - 134s]
+No. That's something extra nice that she'll she likes she likes clothes.
+
+🎤 SPEAKER_2 [134s - 136s]
+She like but she And I I think she did.
+
+🎤 SPEAKER_1 [136s - 139s]
+I picked up her during the holiday. Yeah. Yeah. Been done.
+
+👤 あなた [139s - 148s]
+Anyway, days, it's difficult because everyone gets what they need. There's no nobody has anything. Yeah. I think And she's quite a she's quite frugal to waste. Yeah. Yeah. I know. Sorry.
+
+👤 あなた [148s - 151s]
+No. No. Do it. But I can definitely
+
+🎤 SPEAKER_1 [161s - 161s]
+Yes.
+
+👤 あなた [164s - 165s]
+Well yeah.
+
+🎤 SPEAKER_1 [165s - 166s]
+Anyway She's already yeah.
+
+👤 あなた [166s - 174s]
+She's like She's focused on Cape Town. She's focused on Cape Town, and for her, that's like a holiday in her lifetime. It is really.
+
+👤 あなた [176s - 181s]
+And so she's pretending it's for a birthday. Even though we're gonna be in a conference hall most of the time.
+
+🎤 SPEAKER_1 [181s - 181s]
+Clearly.
+
+👤 あなた [184s - 184s]
+Gotta get there first.
+
+👤 あなた [189s - 192s]
+Yes. Oh, Steven. Yes. Yes. They
+
+👤 あなた [193s - 201s]
+were they were great. Really encouraging. Oh, yeah. I mean, yeah. I'm I heard a little bit of that story in the past, but not in the way that he told it.
+
+👤 あなた [202s - 203s]
+That's quite traumatic.
+
+👤 あなた [208s - 220s]
+It was for him to be vulnerable like that with us. Isn't it? It was I wanna explain it. But but in many ways, they're very different to us. They're massive 400 big church in it.
+
+🎤 SPEAKER_2 [220s - 220s]
+Yeah.
+
+👤 あなた [221s - 235s]
+A good Oh, yeah. Yeah. Of course, when when Mitch and I went up. Yeah. But the town's half the size of Barry, so it's it's inspirational in that sense because a 400 person church in a city is great, not that hard.
+
+👤 あなた [235s - 244s]
+Percentages wise. No. No. Then in a town where they were, like, 70, 80 adults, now they're four hundreds. And lots of them have come through alpha and other things. That's that's pretty exciting.
+
+👤 あなた [244s - 255s]
+Far as I'm concerned. Yeah. They did Rachel did great hosting. And run and see what did well. Ryan's preaching this Sunday. So it'll be a bit different. Gonna see how he gets on.
+
+👤 あなた [256s - 257s]
+I don't know what But yeah.
+
+🎤 SPEAKER_1 [257s - 258s]
+Yeah.
+
+👤 あなた [258s - 264s]
+I don't don't know what. How are you doing? Yeah. Expect a stupid car. But when you But once it's done Oh, I know.
+
+🎤 SPEAKER_2 [264s - 269s]
+Once it's done much, it's just sort of thinking, I got anything in my car. You know?
+
+🎤 SPEAKER_1 [269s - 269s]
+No.
+
+👤 あなた [271s - 276s]
+Saturday for you to put friends to pull out, Say, hey. Look. I've still got my cooling off POG here. So because you need to sort this out.
+
+👤 あなた [276s - 280s]
+You got a thirty day cool off period, aren't you?
+
+🎤 SPEAKER_1 [282s - 283s]
+No.
+
+👤 あなた [283s - 286s]
+But nice. Keeping you informed would be good.
+
+🎤 SPEAKER_2 [286s - 287s]
+Yeah. I know.
+
+🎤 SPEAKER_1 [287s - 290s]
+I've got thought, oh, you let me down. Yeah. Yeah.
+
+👤 あなた [290s - 296s]
+I mean, they don't control the car, but they could be Yeah. Yeah. Well, as you say, within a couple of weeks, you'd be on the road The car will feel fun. Yeah.
+
+🎤 SPEAKER_1 [300s - 300s]
+Yes.
+
+👤 あなた [301s - 303s]
+No. What's wrong with that again?
+
+🎤 SPEAKER_1 [306s - 308s]
+Wasn't just Oh, I see.
+
+👤 あなた [331s - 333s]
+Alright. So in the electrics. Yeah.
+
+👤 あなた [335s - 341s]
+I'll sort it. They'll sort it. Yeah. Don't worry. It'd be fine. It'd be fine. Okay. Well done. You're off to the gym now, are you?
+
+👤 あなた [341s - 345s]
+Yeah. I can't please stay again. Good. I'll see. See you soon.
+
+🎤 SPEAKER_3 [406s - 418s]
+Very curious about this mystery. Newstool. Calcior shrugged. I don't see why. You always work with mistings. Yes. But this is nice.
+
+🎤 SPEAKER_3 [419s - 432s]
+Dachshund nodded. We can't start until this evening, though. How'd you get in anyway? I had men watching the dress. How you doing?
+
+🎤 SPEAKER_3 [442s - 444s]
+That's my getting last night. But how?
+
+🎤 SPEAKER_3 [450s - 458s]
+To take some getting used to. I'll see your swab. I don't see why. You always work with mistakes. Yes.
+
+🎤 SPEAKER_3 [469s - 490s]
+Said it would take some getting used to. Fine. Who's coming tonight? Well, Breeze and Ham will be there, of course. They're very curious about this mystery job of yours. Not to mention that they're annoyed that I won't tell them what you've been up to this last few years. Good, Kelsey said with a smile. Let them wonder.
+
+🎤 SPEAKER_3 [491s - 503s]
+How about trap? Dachshund shook his head. Trap dead. The ministry finally caught up with him a couple months ago. Didn't even bother sending him to the pits. They beheaded him on the spot.
+
+🎤 SPEAKER_3 [505s - 520s]
+Gelsier closed his eyes, exhaling softly. It seemed that the steel ministry caught up with everyone, eventually. Sometimes, Kelsey felt that a scar mistings wasn't so much about surviving as it was about picking the right time to die.
+
+🎤 SPEAKER_3 [521s - 532s]
+This leaves us without a smoker, Kelsey finally said, opening his eyes. You have any suggestions? Ruddy, Dachshund said. Gelsier shook his head.
+
+🎤 SPEAKER_3 [533s - 547s]
+No. He's a good smoker, but he's not a good enough man. Dachshund smiled. Not good enough man to be on a thieving crew. Hell, I have missed working with you. Alright.
+
+🎤 SPEAKER_1 [547s - 548s]
+Who the?
+
+🎤 SPEAKER_3 [548s - 569s]
+Go Galcia thought for a moment. Is clubs still running that shop of his? As far as I know, Dachshund said slowly. He's supposed to be one of the best smokers in the city. I suppose Dachshund said. But isn't this supposed to be kind of hard to work with?
+
+🎤 SPEAKER_3 [570s - 582s]
+He's not so bad, Kelsey said. I once you get used to him. Besides, I think he might be a man to this particular job. Alright. Dachshund said, shrugging.
+
+🎤 SPEAKER_3 [582s - 594s]
+I'll invite him. I think one of his relatives is a tiny. Do you want me to invite him too? Sounds good, Kelsey here said. Alright, Dachshund said.
+
+🎤 SPEAKER_3 [595s - 606s]
+Well, beyond that, there's just Eaton, assuming he's still interested. He'll be there, Kelsey said. It better be, Dachshund said.
+
+🎤 SPEAKER_3 [606s - 658s]
+It'll be the one paying us after all. Kelsey or nodded then frowned. You didn't mention Mark. Dachshund shrugged. I warned you. Your brother never did approve of our methods. And now, where do you know, He won't even have anything to do with Heedon and the rebellion anymore. But alone with a bunch of criminals like us. I think we'll have to find someone else to infiltrate the obligators. No, Calcio said. He'll do it. I'll just have to stop by to persuade him. If you say so, Dachshund fell silent then, and the two stood for a moment, leaning against the writhing and looking out over the ash stained city. Dachshund finally shook his head. This is insane, Kelp smiled. Feels good, doesn't it?
+
+🎤 SPEAKER_3 [659s - 671s]
+Dachshund nodded. Fantastic. It will be a job like no other, Kelsey said, looking north. Across the city, and toward the twisted building at its center.
+
+🎤 SPEAKER_3 [672s - 695s]
+Thawkshawn stepped away from the wall. We have a few hours before the meeting. There is something I want to show you. Think there's still time if we hurry. Kelsey returned with curious eyes. Well, I was going to go and chastise my prude of a brother, but will be worth your time, Daxon promised.
+
+🎤 SPEAKER_3 [698s - 741s]
+Ben sat in the corner of the safe house's main lair. She kept to the shadows as usual. The more she stay out of sight, the more the others would ignore her. She couldn't afford to expend lock keeping the men's hands off of her. She'd barely had time to regenerate what she'd used a few days before during the meeting with the obligator. The usual ravel lounged at the tables in the room, playing at dice or discussing minor jobs. Smoke from a dozen different pipes pooled at the top of the chamber, and the walls were stained dark from countless years of similar treatment. The floor was darkened with patches of ash. Like most thieving crews, Cayman's group wasn't known for its tidiness.
+
+🎤 SPEAKER_3 [742s - 749s]
+There was a door at the back of the room, and beyond it lay a twisting stone stairway that led up to a false rain grate in an alleyway.
+
+🎤 SPEAKER_3 [750s - 788s]
+This room, like so many others, hidden in the imperial capital of Lutherdale, wasn't supposed to exist. Rough laughter came from the front of a chamber where it came and sat with a half dozen cronies, enjoying a typical laughter of ale and crass jokes. Cayman's table sat beside the bar where the overpriced drinks were simply another way Cayman exploited those who worked for him. The Lutherdale criminal element had learned quite well from the lessons taught by the nobility. Binn tried her best to remain invisible. Six months before, she wouldn't have believed that her life could actually get worse without Reen.
+
+🎤 SPEAKER_3 [789s - 803s]
+Yet despite her brother's abuse of anger, he had kept the other members from having their way with Vin. Their were relatively few women on thieving crews, Generally, those women who got involved with the underworld ended up as whores.
+
+🎤 SPEAKER_3 [803s - 822s]
+Green had always told her that a girl needed to be tough. Tougher even than a man if she wanted to survive. You think some crew leader is gonna want a liability like you on his team, he had said. I don't even wanna have to work with you, and I'm your brother. Her back still throbbed.
+
+🎤 SPEAKER_3 [822s - 833s]
+Came in and whipped her the day before. The blood would ruin her shirt, and she wouldn't be able to afford another one. Cayman was already retaining her wages to pay the debts Reen had left behind.
+
+🎤 SPEAKER_3 [834s - 850s]
+But I am strong, she thought. That was the irony. The beatings almost didn't hurt her any Farine's frequent abuses had left Bin resilient, while at the same time teaching her how to look pathetic and broken.
+
+🎤 SPEAKER_3 [850s - 862s]
+A way, the beatings were self defeating. Bruises and welts mended but each new lashing left bin more hardened, stronger. Caiman stood up.
+
+🎤 SPEAKER_3 [863s - 878s]
+He reached into his vest pocket and pulled out his golden pocket watch. He nodded to one of his companions, then he scanned the room searching for for her. His eyes locked on bin. It's time.
+
+🎤 SPEAKER_3 [879s - 883s]
+Ben frowned. Time for what?
+
+🎤 SPEAKER_3 [886s - 891s]
+The ministries canton of finance was an imposing structure. But then if
+
+🎤 SPEAKER_1 [896s - 897s]
+Thank you.
+
+👤 あなた [908s - 910s]
+And I don't know what's happened to it. It's like
+
+🎤 SPEAKER_3 [910s - 910s]
+my brain.
+
+👤 あなた [912s - 916s]
+Thought I'd be able to find it. Can't zoom anything.
+
+
+---
+
