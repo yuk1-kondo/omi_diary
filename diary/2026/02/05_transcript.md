@@ -640,3 +640,32 @@ Three, four, one.
 
 ---
 
+
+
+## 📝 Outlining New Act One Scenes - f288a55c-a8d9-4af7-ad2b-6c70a8136291
+
+**記録時間**: 2026-02-05 17:43:56
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 0s]
+Try.
+
+👤 あなた [21s - 23s]
+New scenes. Finish act one.
+
+👤 あなた [30s - 31s]
+Gotta do it all again, that's the problem.
+
+👤 あなた [138s - 139s]
+Pal tie sits in.
+
+👤 あなた [146s - 147s]
+It's on the Canyon's planet.
+
+👤 あなた [189s - 191s]
+Put out the best example.
+
+
+---
+
