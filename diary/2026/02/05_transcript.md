@@ -506,3 +506,137 @@ Renty City. Let's go and look at Renty City then.
 
 ---
 
+
+
+## 📝 Comedy Performances and Language in Lyrics - efaf9534-66c7-488c-9111-db1fec05df01
+
+**記録時間**: 2026-02-05 17:27:35
+
+### STT生テキスト
+
+👤 あなた [0s - 5s]
+Pretty known as the rhinoceros. Yeah.
+
+🎤 SPEAKER_1 [6s - 14s]
+And I'm I'm I'm AKA ed as the hip hop epopotamus. Yeah. And and this is just a gangster rap battle. You between us.
+
+🎤 SPEAKER_2 [14s - 21s]
+Because the hippopotamus versus the rhinoceros fixturing the hippopotamus and the rhinoceros.
+
+🎤 SPEAKER_3 [59s - 66s]
+Delicious. Good night. And other times, they're obscene like a pornographic r 18 dream about bitches smothered in margarine.
+
+🎤 SPEAKER_1 [89s - 98s]
+What's he going to do with this? Kind of repping name is Steve? Steve.
+
+🎤 SPEAKER_2 [133s - 134s]
+But the rappers Freestyles, Kingpublic, randoms.
+
+🎤 SPEAKER_1 [147s - 150s]
+We're we're randoms.
+
+🎤 SPEAKER_2 [173s - 174s]
+Lose confidence.
+
+🎤 SPEAKER_4 [177s - 182s]
+My rhymes are so potent in the endless small segment. Made all of the ladies in the first two rows pregnant.
+
+🎤 SPEAKER_4 [187s - 191s]
+Yeah. That's right. Sometimes my lyrics are sexist, but you lovely bitch in no shit. Now I'm trying to correct this.
+
+🎤 SPEAKER_2 [196s - 196s]
+When I say oh,
+
+🎤 SPEAKER_2 [226s - 227s]
+No. Thank you.
+
+🎤 SPEAKER_4 [230s - 235s]
+Thank you, ladies. We didn't have to say that.
+
+🎤 SPEAKER_5 [241s - 244s]
+We are sisters. Yep. We have the same mother and father.
+
+🎤 SPEAKER_2 [244s - 244s]
+Yep.
+
+🎤 SPEAKER_5 [245s - 253s]
+One of the questions that we get asked the most is always, are you really real sisters? And then people will say, you don't look the same. And then they'll say again, are you sure you're real sisters?
+
+🎤 SPEAKER_5 [254s - 255s]
+So we've written those people a song.
+
+🎤 SPEAKER_2 [255s - 256s]
+Yeah.
+
+🎤 SPEAKER_2 [259s - 259s]
+Yes.
+
+🎤 SPEAKER_5 [265s - 267s]
+I think we'll squeeze in one more.
+
+🎤 SPEAKER_5 [271s - 274s]
+You were in the corner of the roof, and I was in the middle.
+
+🎤 SPEAKER_5 [279s - 287s]
+You. Then you came over, thank God. Put out your hands, and I shook your thumb, and I said, hey. Nice to meet you.
+
+🎤 SPEAKER_2 [289s - 290s]
+Then you left.
+
+🎤 SPEAKER_5 [334s - 338s]
+I don't remember that. I said no worries. My friend
+
+🎤 SPEAKER_5 [371s - 374s]
+My brain is filled with all the things that I
+
+🎤 SPEAKER_5 [411s - 412s]
+And I said, great.
+
+🎤 SPEAKER_5 [451s - 452s]
+With arthritis.
+
+🎤 SPEAKER_5 [466s - 469s]
+I said, it's me again, the girl from the party in the seven Eleven.
+
+🎤 SPEAKER_5 [476s - 480s]
+Dying wish is to shake your hands. You said okay.
+
+🎤 SPEAKER_5 [484s - 488s]
+And in that moment, eight years of worrying what
+
+🎤 SPEAKER_5 [498s - 500s]
+I lift on a yogurt.
+
+🎤 SPEAKER_3 [539s - 565s]
+It's funny. Should I I sometimes because as a bit of language in in that piece. And I I I got a letter recently from a woman when I when I was performing in Perth saying that she didn't see why I had to use such crash language. And I wrote back sort of because that language changes. You know? The whole vernacular is different in the moral standards change. And and and that these words are in common usage now.
+
+🎤 SPEAKER_3 [565s - 585s]
+And I cited this. A true story. I saw on the front page of the Australian newspaper, the word on the front page of the paper, I mean, things have changed, and all I had to do to get away with it was spell it x asterisk, asterisk, really weird that a little star could be enough to sue that fickle outrage.
+
+🎤 SPEAKER_3 [585s - 593s]
+You know? It's it's and any and any because the f asterisk asterisk k is so common used these days, it actually, these days, means fuck.
+
+🎤 SPEAKER_3 [595s - 596s]
+More than fuck means fuck.
+
+🎤 SPEAKER_3 [598s - 599s]
+It's almost a counterproductive disguise.
+
+🎤 SPEAKER_1 [603s - 610s]
+There's things that I don't wanna come across in my show Okay, buddy. Come on. And shoot chicken figures.
+
+🎤 SPEAKER_6 [610s - 611s]
+We gotta back to your mom and your sister.
+
+🎤 SPEAKER_2 [611s - 616s]
+Can we stop at the ice cream store on the Yeah. Okay. I'm glad. No. No. No.
+
+🎤 SPEAKER_7 [616s - 621s]
+We need you to clap, but you're off clapping. Alright. Sure. Let's do it. From the top. Top.
+
+🎤 SPEAKER_2 [622s - 623s]
+Three, four, one.
+
+
+---
+
