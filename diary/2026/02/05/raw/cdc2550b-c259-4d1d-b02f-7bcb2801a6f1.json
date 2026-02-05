@@ -1,0 +1,126 @@
+{
+  "id": "cdc2550b-c259-4d1d-b02f-7bcb2801a6f1",
+  "created_at": "2026-02-05T08:24:13.869890+00:00",
+  "started_at": "2026-02-05T08:25:01.048643+00:00",
+  "finished_at": "2026-02-05T08:25:35.186220+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Exploring Renty City Concept",
+    "overview": "The user briefly mentions a phrase, \"One name upon her,\" and then expresses interest in looking at or exploring something called \"Renty City,\" likely referring to a place, game, website, or concept they intend to check out next.",
+    "emoji": "🔎",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "cd93aaa9-011d-44c7-9ab4-9096cc9d9fba",
+      "text": "One name upon her",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -4.5776369006489404e-07,
+      "end": 1.8399995422363418,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d93a1773-8498-4b52-a5cb-b9a13790d4a6",
+      "text": "Renty City. Let's go and look at Renty City then.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 30.71003954223636,
+      "end": 33.109999542236324,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156854,
+    "longitude": -3.2755658,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "bd4ca1df-d9bf-4f56-b0a1-0f0beac76dbc",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "cdc2550b-c259-4d1d-b02f-7bcb2801a6f1",
+      "chunk_timestamps": [
+        1770279853.535,
+        1770279858.55,
+        1770279863.695,
+        1770279871.781,
+        1770279877.657,
+        1770279882.669,
+        1770279887.658,
+        1770279892.983,
+        1770279897.951,
+        1770279903.016,
+        1770279908.051,
+        1770279913.255,
+        1770279918.311,
+        1770279923.31,
+        1770279929.755,
+        1770279935.173,
+        1770279940.288,
+        1770279945.334,
+        1770279950.343,
+        1770279955.339,
+        1770279960.367,
+        1770279965.405,
+        1770279970.678,
+        1770279975.654,
+        1770279980.659,
+        1770279985.755,
+        1770279990.851,
+        1770279995.857,
+        1770280000.926,
+        1770280005.95,
+        1770280010.958,
+        1770280015.965,
+        1770280021.271,
+        1770280026.363,
+        1770280031.367,
+        1770280036.48,
+        1770280041.735,
+        1770280046.762
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-05T08:24:13.535000+00:00",
+      "duration": 198.227
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+      "content": "**Journal Entry Captured**\n\n- **Entry Text:**  \n  “One name upon her. Renty City. Let's go and look at Renty City then.”\n\n- **Notes / Interpretation (light):**  \n  You mentioned “Renty City” and a desire to go look at it. This could be:\n  - A place you’re curious about (real or fictional), or  \n  - The seed of an idea (story, project, or location you want to explore further).\n\nIf you’d like, I can help you expand this into a fuller journal reflection—for example:\n- Why “Renty City” interests you  \n- What you imagine it looks or feels like  \n- What “one name upon her” means to you (a character, a city, a person?)"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
