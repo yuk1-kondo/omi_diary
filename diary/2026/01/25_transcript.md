@@ -919,3 +919,83 @@ Right. I'm I'm gonna come and do the potatoes now. Just wait two moments.
 
 ---
 
+
+
+## 📝 Family Prepares Chicken Dinner - 399c36ce-c92f-4e86-9097-c61ab663af2f
+
+**記録時間**: 2026-01-25 02:37:40
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 1s]
+Afternoon.
+
+👤 あなた [2s - 6s]
+Oh, okay. You took quite a while. Well, I just said that I'd come and do it in a few minutes.
+
+🎤 SPEAKER_3 [6s - 8s]
+It's fine. But I because the chicken's curved, like an extra well,
+
+👤 あなた [11s - 11s]
+Less than that.
+
+🎤 SPEAKER_3 [12s - 14s]
+No. No. It wasn't. It was nine minutes.
+
+👤 あなた [14s - 19s]
+Okay. Well So I put a timer on I thought you said the chicken needs to sit for an hour anyway. No. No.
+
+🎤 SPEAKER_3 [19s - 20s]
+Never said it's sit for an hour.
+
+👤 あなた [20s - 21s]
+Looks good. I didn't know.
+
+🎤 SPEAKER_6 [21s - 27s]
+I said it needs to sit for an hour. Ideally, the food will be and that sits for five minutes. But what I'm saying is I don't know how long it's gonna take to cook.
+
+🎤 SPEAKER_3 [28s - 39s]
+So we won't put potatoes in too early because I don't know how was gonna get to cook. So but because it took a while, I just thought, well, whilst I'm waiting for you, better just chop it. And because it was time flu.
+
+🎤 SPEAKER_3 [39s - 41s]
+It ended up that I finished it and got them in.
+
+🎤 SPEAKER_1 [43s - 46s]
+So Right.
+
+🎤 SPEAKER_6 [46s - 48s]
+There was no point in that sitting there for ten minutes. Nothing.
+
+👤 あなた [48s - 50s]
+What the what about the carrots?
+
+👤 あなた [59s - 67s]
+Well, I mean, the potatoes could have gone in there, fry might be a bit quicker. You could have done them in the air fryer if you wanted to.
+
+👤 あなた [67s - 72s]
+But No. I wanna tell if I want I'm saying maybe we can move him over.
+
+🎤 SPEAKER_3 [73s - 74s]
+Well, they're probably cleaning.
+
+🎤 SPEAKER_1 [74s - 76s]
+The oven's already on hot, and they're all in the day.
+
+🎤 SPEAKER_3 [76s - 77s]
+So
+
+🎤 SPEAKER_3 [87s - 90s]
+I'm not sure. Lycan Kiel says two men.
+
+👤 あなた [91s - 94s]
+So, Tara, I hear back from Helen from the center about the blue things.
+
+🎤 SPEAKER_3 [95s - 96s]
+I write. Yeah. What she say?
+
+👤 あなた [100s - 101s]
+She said
+
+
+---
+
