@@ -1258,3 +1258,704 @@ No greater name.
 
 ---
 
+
+
+## 📝 Bible Study on Paul’s Weakness and God’s Strength - 46256187-b382-44a3-b511-e85655819d89
+
+**記録時間**: 2026-02-05 18:56:04
+
+### STT生テキスト
+
+🎤 SPEAKER_4 [0s - 1s]
+Well, clearly, that's not right.
+
+👤 あなた [3s - 4s]
+Thing is it?
+
+🎤 SPEAKER_2 [114s - 130s]
+And you think that in order to get to a robust confidence in inspiration, you need to be confident that it was poor who penned them. And I guess a large extent that he had them in disticks.
+
+🎤 SPEAKER_3 [131s - 131s]
+Well,
+
+👤 あなた [132s - 140s]
+Well, yeah, I mean, I think I think I will do get from the problem. Pendom and and
+
+👤 あなた [143s - 154s]
+And and and, yeah, that's sympathy for the the the the first part in in in the sense of okay. On with that kind of thing. Yeah. Certainly for
+
+👤 あなた [159s - 168s]
+certainly for pretain purposes and so forth. I think there's need to just accept and get on with. But, you know, it's good to good to understand.
+
+👤 あなた [169s - 223s]
+I think the wider question would be I think, I suppose, some fundamentals in particular over the earth, everything in the gospels and so forth. So, you know, the the the they would almost make things happen five or six times in order to try to to harmonize everything. You know? You know, you read a bit like in Penning Peningtones with reading the gospels by saying about about this sort of thing, and he he he critiques that approach in it. But I think, you know, if it's making a historical or scientific statement somewhere, they're writing as people of the that time. The historical standards of that time, way of telling the time of that time, you know, whether it's something's happening in the third order or the sixth order so on.
+
+👤 あなた [223s - 231s]
+So forth. If you're somewhere in between those two times, you know, nine in the morning and twelve in the afternoon, and the sun's well up. You know?
+
+👤 あなた [232s - 279s]
+Yeah. You know, you could you you could go either way, and that's not that that that's not a big a a big issue, I think. So I would want to avoid a kind of complete sort of fundamentalist tendency to try and tie up every single dissent and then to pine yourself and not sitting in in the process. I mean, so but at the same time, I would want to you know, say, well, look. This is even even in responsible English translation, this is the text that we have, and we've got to work with that, and we can be confident in it.
+
+👤 あなた [282s - 324s]
+And and It's interesting. Gideon. So I I have a Gideon. CXP mutational there becomes that was there. And they had put these sort of disputed texts back in back into the main main tool of the text, Trevor, then then then the signal, they will and and in some ways, I think, well, I have a certain amount of sympathy for that because ordinary bible readers reading their the kind of translation most people use, NIV, ESV, or whatever.
+
+👤 あなた [325s - 346s]
+They suddenly see if they're paying attention, there's a verse 30 now. There's a verse 38, but there's no verse 37. And then they see a little fit note in I wonder what's what's going on there. But at the same time, I I recognize that those are invalid valid issues, and there's nothing in in stolen caution, think.
+
+👤 あなた [346s - 368s]
+Said there's nothing in that. The the shorter tax that we use off the damn which we basically MOV or the ESC on the attractive tax. But, you know, that would we will get every doctor, every every historical episode there as faithfully related as we do in the land.
+
+👤 あなた [369s - 409s]
+In the majority order tax just the and so forth. Yeah. I think so. So yeah, sometimes, besides I remember I I once was greatly I've reached as a when I discovered that if thou believest, thou mayest. Was missing from the the the NIV. You know? I don't know. Yeah. Yeah. Yeah.
+
+🎤 SPEAKER_1 [420s - 421s]
+But Yeah.
+
+👤 あなた [430s - 450s]
+But And there's also a very staunch back this was a congregation of church, you know, the FCC, but, typically, no real strong confessionalism. So it was just practiced by default realism. Right.
+
+🎤 SPEAKER_6 [451s - 455s]
+But I but, you see, I didn't know all of them, so I felt like, Well, no.
+
+👤 あなた [465s - 468s]
+Even but but but but, I mean, most sense sensible about this.
+
+🎤 SPEAKER_1 [468s - 470s]
+So we can believe that too. So yeah.
+
+👤 あなた [478s - 492s]
+Sorry. I'm just a minute. But that should be hard to think if you're going Okay. So let's come down to second currency $11.30 to $12.10.
+
+👤 あなた [502s - 510s]
+So second, the credentials are weapon first. 30. Would someone like to read that final counter connection to 11, please?
+
+🎤 SPEAKER_2 [519s - 529s]
+If I must first, I will boast of the things that show my weakness. The garden father of the Lord Jesus, the blessed forever knows that I am not lying.
+
+🎤 SPEAKER_2 [530s - 540s]
+At Damascus, the governor under King Arytus was guarding the city of Damascus. In order to seize me. I was let down in a basket through a window in the wall and escaped his hands.
+
+👤 あなた [543s - 545s]
+Okay. First one beside somebody.
+
+🎤 SPEAKER_4 [550s - 565s]
+Chapter twelve one to five, Gary. Yeah. I'll go for that. I must go on boasting. Though there is nothing to be gained by it, I'll go on to to visions and revelations of the Lord.
+
+🎤 SPEAKER_4 [566s - 575s]
+I know a man in Christ who, fourteen years ago, was caught up to the third heaven, whether in the body or out of the body, I do not know. God knows.
+
+🎤 SPEAKER_4 [575s - 582s]
+And I know this I know that this man was caught up into paradise. Whether in the body or out of the body, I do not know God knows.
+
+🎤 SPEAKER_4 [583s - 595s]
+And he heard things that cannot be told, which man may not utter. On behalf of this man, I will boast. But on my own behalf, will not boast except of my weakness.
+
+👤 あなた [600s - 600s]
+Panel now.
+
+🎤 SPEAKER_3 [608s - 609s]
+Yeah. We do.
+
+🎤 SPEAKER_3 [612s - 624s]
+Though if I should wish to boast, I will not be a fool. But I'd be speaking the truth. But I'll learn from it so that no one may think more of me than he sees in me or ears for me.
+
+🎤 SPEAKER_3 [625s - 649s]
+To keep me from becoming conceited because of the superson of the revelations, that born was given to me in the flesh. The messenger of Satan to harass to keep me from becoming conceited, Three times, they pleaded with the Lord about this, that he should believe and he said to him, my grace is sufficient to you.
+
+🎤 SPEAKER_3 [649s - 673s]
+For my power is made perfect in weakness. Therefore, I will boast all the more gladly for my weaknesses. Without the power of Christ, may rest upon the saints of Christ then I am content with weakness, insults, hardships, persecution, and calamities. When I am weak.
+
+🎤 SPEAKER_3 [674s - 675s]
+Then I am wrong.
+
+🎤 SPEAKER_1 [679s - 680s]
+Okay. Thank you.
+
+👤 あなた [682s - 717s]
+In light of the opponents Paul is dealing with in second chapter eleven thirty and twelve ten, get to the heart. Of the message that Paul wishes to convey to the church there and to us Paul, who has had encounters with Chris that these super apostles know nothing of yet the predominant theme of
+
+👤 あなた [720s - 730s]
+Paul's life. Is how God's strength has come amid his weakness.
+
+👤 あなた [734s - 752s]
+So we'll think then about the contacts That's basically about boosting paradoxical boosting if you like. So we'll think about the context reason, priority, and object.
+
+👤 あなた [754s - 771s]
+Of Paul's boosting here And obviously, about several questions along the way So Paul says the first one, I must do all those novel is the the word day in Greek.
+
+👤 あなた [776s - 790s]
+Emphasizing necessity It is necessary for me to go on boosting So hope I remembered correctly, David's just checking. No. It'll be funny. Yeah.
+
+🎤 SPEAKER_1 [790s - 791s]
+Okay.
+
+🎤 SPEAKER_2 [791s - 791s]
+Yeah.
+
+👤 あなた [794s - 804s]
+So from the context, do you think? What is the nature of the boosting that Paul refers to in one?
+
+👤 あなた [810s - 812s]
+Or the contact stuff is boosting. Lotsy boosting in
+
+👤 あなた [824s - 830s]
+So you could go right back in the chapter eleven six following if you wish. Nothing boosting a bite.
+
+🎤 SPEAKER_3 [834s - 844s]
+It seems to be the the the privilege or that he res reseniors. Seeing visions and revelations of the Lord.
+
+👤 あなた [847s - 852s]
+Yeah. He goes on that in chapter 12. What do people off previously?
+
+🎤 SPEAKER_1 [862s - 863s]
+The sufferings Yeah.
+
+👤 あなた [864s - 866s]
+The sufferings.
+
+👤 あなた [870s - 889s]
+Yeah. So in the previous versus, particularly from eleven sixteen onwards, Paul was boosting in his sufferings Generally, we we see a lot of things here. We don't have any other account of in the New Testament, so it's quite fascinating, really.
+
+👤 あなた [892s - 896s]
+How that how that all works out. I I think things were told rather.
+
+🎤 SPEAKER_1 [900s - 906s]
+So he says how about the superimposals?
+
+👤 あなた [906s - 916s]
+Verse 23? Owner thy servants of Christ, I am a better one. I'm talking that I can a madman. With far greater neuters, far more imprisoned with countless speeds.
+
+👤 あなた [918s - 931s]
+And often they are dead. Five times I received at the hands of the Jews the 40 lashes less, one Again, I don't think we're told in lakhs or other letters that the details offer.
+
+👤 あなた [932s - 947s]
+Three times I was speaking with roads. One I was stoned, Was that in the stripper? Times I was shipwrecked, mean, one shipwrecked. For a night, and a day, I was at least at sea.
+
+👤 あなた [948s - 989s]
+On frequent journey names and injured from rivers, injured from robbers, danger from my own people, danger from jerkins, danger in the danger in the wilderness, dangerous sea, danger from false brothers, so he is immigrating these things on, of course, it goes against much of what it probably teach to me giving a list of virtuous sufferings or something like that and and boasting in that sense. But he is underlining the kind of boosting that that the the cerebral puzzles are are doing
+
+👤 あなた [993s - 1015s]
+And then we come to the first study. And it's argued by the likes of Murray Harris and Douglas Moore that eleven thirty to twelve ten for one section giving two examples of cause weakness. So his boast is in his weakness.
+
+👤 あなた [1020s - 1030s]
+So Harness comments This is the big Greek text commentary. He on the lesson therapy that acknowledged human weakness. Is the sin of Christ's power
+
+👤 あなた [1034s - 1044s]
+So Paul then puts himself in both, verse 31, the God and power of the Lord Jesus Christ. He is blessed forever knows I am not lying.
+
+🎤 SPEAKER_1 [1045s - 1048s]
+Again, that's something for us to do like me.
+
+👤 あなた [1048s - 1060s]
+He has solemnly pledging that what he has said about his sufferings are true. And that he isn't lying about the experiences that going to relate.
+
+👤 あなた [1062s - 1075s]
+And then verses 32 to 33, is the first example of cold weakness in this passage. So this is this escape of Damascus, the governor under Aratus.
+
+👤 あなた [1076s - 1131s]
+Guarding the city of Damascus and ordered the citizen. But I was lapped down in the past through a window in the wall and the scared kids hands. Now we should note that this escape was arranged by the Damascus church. Will there ever send you got a good idea at Paul, and they wouldn't go through the window. It wasn't Paul panicking and fleeing the business of the with with wisdom you realize, well, here's a guy who's just he's been converted that not that long ago. He's going to be a great force for good, God willing. Let's not test God. Let's let's get a lot of fear of it. So I suppose that's that that's what was going on.
+
+👤 あなた [1134s - 1144s]
+Acts chapter nine shows a bit of light on the sense of going. So 're on the works nine, very famous chapter when we read of his conversion.
+
+👤 あなた [1153s - 1161s]
+Adverse 23 to 25 of Acts nine, When many days had passed, the Jews clothed to kill him. But their cock became known as Saul. They were watching the gates day and night.
+
+👤 あなた [1162s - 1171s]
+In order to kill him. But his disciples took him by night, and not him by a opening in the wall, lowering him in a basket,
+
+👤 あなた [1175s - 1176s]
+So the Jews were angry.
+
+🎤 SPEAKER_2 [1178s - 1179s]
+They were seeking to kill him.
+
+👤 あなた [1180s - 1201s]
+Likely, this was a little while after his conversion. And having immediately begun to preach persuasively in Damascus, He had also bantered in the king Arabic since Navati and kingdom part of the Arabian Peninsula.
+
+👤 あなた [1202s - 1220s]
+Call tells us in relation one seventeen. That's he went to Aurelia after his conversion. Now I think the way that is often popularly understood is that this was, like, Paul's time at seminary.
+
+👤 あなた [1220s - 1241s]
+With Jesus himself as the instructor, and he was just there alone with God and learned everything during that time that he healed on his ladders on of great experiences of God and and so forth.
+
+👤 あなた [1242s - 1252s]
+And then sometimes there's the exhortation, but The pastors of and old writers get into your Arabia and so on and so forth. You know?
+
+👤 あなた [1252s - 1264s]
+In other words, can end your study, three or four hours in the morning and spend time on with God. We need to do that, but but I don't think that's what what the text about God going to earlier there.
+
+👤 あなた [1264s - 1267s]
+Is is teaching.
+
+👤 あなた [1271s - 1287s]
+He he was not an active while he was there. He was preaching. And then both Damascus and the kingdom of of Arrates, he was seeing success in preaching and opposition from opponents.
+
+👤 あなた [1289s - 1302s]
+Soaratus and the Jews who probably wouldn't have had much time for each other Otherwise, they come together and they both won't read of coal.
+
+👤 あなた [1305s - 1325s]
+So this early pursuance, of preaching could have fostered pride in a pulp. He was a man clearly. He was proud as a fallacy. And he's converted now. He couldn't that temptation still. But the incident here destroys that.
+
+👤 あなた [1327s - 1339s]
+Paul relates this in a glorious escape with a sense of shame, not because he was deserting the They had planned to preserve his life.
+
+👤 あなた [1339s - 1368s]
+But he must have reflected how he was struggling toward Damascus as the hunter and had to sneak away probably in a smelly fish basket or something like that as the hunted looking back core hosts in this, it shows how gold preserved as weak vessel. Apostle what he was. He wasn't a super apostle.
+
+👤 あなた [1369s - 1372s]
+But his ministry was authentic,
+
+👤 あなた [1375s - 1433s]
+There's a a fascinating potential illusion in the verses. And and, I mean, this is just brilliant for preaching, I think, but we really can't be a 100% sure of it. So we hope that we careful. But a brilliant brilliant potential illusion In the first century, a soldier could be awarded what was called the corona the crown of the wall, something like that, the trap in translation for being the first to scale a wall in a siege And, of course, when when a baffler's gland on, it's chaos. So anybody could say it, and no one could necessarily verify it. So you have to swear a solemn oath to the gods.
+
+👤 あなた [1434s - 1444s]
+That it was really you In verse 32, to 33, Paul put some cell phones and he says,
+
+👤 あなた [1448s - 1485s]
+I was the first one retreating down the wall So his corona morals or crowness of all highlighted not strength but weakness Now Murray Harris isn't so convinced that the Corinthians would have recognized the corona muralis in this reference. But it's interesting nonetheless. And as Moo says, it's hardly apheroic means of escaping. So then so what does Paul's post?
+
+👤 あなた [1486s - 1514s]
+It is in his weakness. That's the context of is weakness Then the reason for calls boosting, so we're chapter 12 from the five, how does Paul go toe to toe here with the supraproof prophets and why do you think you might be using the the third person in in doing so?
+
+🎤 SPEAKER_1 [1550s - 1556s]
+Is it, like, so that he's hesitant to boast? Of himself.
+
+🎤 SPEAKER_7 [1557s - 1561s]
+So he's using the third person just to be a bit more humble with it.
+
+👤 あなた [1568s - 1580s]
+Yeah. I mean, I I certainly think that's that that that's part of it. Yeah. Although he does make it I think it's clear enough that it's himself.
+
+👤 あなた [1580s - 1582s]
+But that that he is referring to.
+
+👤 あなた [1591s - 1595s]
+Okay. How does he take them all then? How does he? Do two to two here?
+
+🎤 SPEAKER_3 [1614s - 1636s]
+Could it be there was a boasting in experiences in the spirit experiences or experiences in the Christian life and and and so Paul also opens up in some of the experience that he has had that actually qualifies him to be even a super extra person in a way.
+
+👤 あなた [1643s - 1650s]
+A super extra, full full full. Extra super full full. In other words, an authentic one. Yes.
+
+🎤 SPEAKER_4 [1652s - 1662s]
+He seems to kind of match these superposals on their own kinda terms, definitions of authority. Seems very reluctant to do so.
+
+🎤 SPEAKER_4 [1665s - 1687s]
+And and but but the like, hey. If we're really gonna go this way, I've got the trunk card. But nonetheless, that's not true where true strength comes from. It's from then then he goes on from there. But, it seems to have a look looked at I, you know, I trump you, but that's not really the true the true sign of authentic apostleship, perhaps.
+
+🎤 SPEAKER_2 [1691s - 1695s]
+Which maybe is partly why he is a third person because it expresses a reluctant
+
+🎤 SPEAKER_3 [1697s - 1697s]
+Yeah.
+
+🎤 SPEAKER_2 [1701s - 1720s]
+And, yeah, it also fits what he's describing. You know, the the whether this this happened. I've I've had experiences but I'm not here to talk about that, really.
+
+🎤 SPEAKER_1 [1721s - 1721s]
+Well, yeah.
+
+👤 あなた [1723s - 1733s]
+There are sometimes, I suppose, when you're almost of doing some cement and solves like here. You know, you're outside of yourself and Right.
+
+👤 あなた [1733s - 1757s]
+In in in doing so. I mean, just don't really basic things like I'm trying think both from the the airport after long trip at night at your airlines. Well, I probably shouldn't be doing this, and you're just holding you're really trying to holding the wheel of the car, but it's not kind of necessarily a very sensible thing to be to be doing.
+
+👤 あなた [1759s - 1790s]
+On a more positive level, there are times perhaps, but then So I've read that Mhmm. That you your sort of thought was become unconscious of yourself, and they're just you know, you're just delivering a a message with an element of an unusual sense of spiritual power, and that that can be quite a quite a pretty experience, actually.
+
+👤 あなた [1792s - 1799s]
+But yeah. So Paul is referring to himself and the third person.
+
+👤 あなた [1804s - 1807s]
+He relates this experience from about fourteen years previously.
+
+👤 あなた [1811s - 1823s]
+Which would have been therefore, shortly after the basket experience of the just read about and shortly after not that long after, its conversion really.
+
+👤 あなた [1824s - 1827s]
+Now maybe the Jouselis third person was simply a convention.
+
+👤 あなた [1830s - 1851s]
+Or perhaps a desire to reflect his boosting in what seems like an experience more befitting a super apostle So Paul could also greater spiritual experiences that were genuine and authentic.
+
+👤 あなた [1857s - 1874s]
+Than if the superopposals know Verse seven speaks of revelations. In the plural of of the back of verse seven, but he speaks there of some And plural of course, which is a one this kind of really superb supernatural, if you like, spiritual.
+
+👤 あなた [1880s - 1907s]
+Experience. So we cannot or is on to articulate what he saw. He's forbidding the tale when he cared. He's reluctant even the mentionness and yet the super apostles were talking about such things, and they were totally unfeel imitations.
+
+👤 あなた [1908s - 1924s]
+So they got forced him to it. That's why I need tells of these great revolutions, and it his weaknesses that Paul wishes to boost him.
+
+👤 あなた [1928s - 1944s]
+So that's a priority. Interim calls post paid, what do you think is even more important for than genuine extraordinaries for the two experience us, what's more important than that, what's all do you think?
+
+🎤 SPEAKER_2 [1959s - 1962s]
+Encountering the Lord by receiving his grace.
+
+🎤 SPEAKER_2 [1967s - 1968s]
+Grace is sufficient.
+
+👤 あなた [1974s - 1989s]
+Yeah. I mean, not certainly there. The versions that follow. We have a that Adaptily is in an encounter with with Christ himself, not just some some experience.
+
+🎤 SPEAKER_5 [1994s - 1995s]
+Experience is something that's that happens in a sense of cannot be be questioned, but what did that experience lead lead the person to?
+
+👤 あなた [2006s - 2023s]
+That is a fundamental question. And then on verse five to six, there's something else he says. That means a priority more so than the experience itself.
+
+🎤 SPEAKER_2 [2024s - 2026s]
+Yeah. They not not becoming seated.
+
+👤 あなた [2028s - 2086s]
+Not becoming conceited. I refrain from it. So that no one might think more of me than than he sees in me or hears from me. So this character as well, isn't it? Paul says he will only boost of his weaknesses. And while he could boost with this, and all the real experiences he's concerned that no one might think more of me than he sees in me, or hears from me So Paul is the last one to dismiss genuine Christian experience even of a fairly extraordinary nature and a you read that and they wouldn't consider this extraordinary at all if you read Ephesians three fourteen to 21, what he prays for them.
+
+👤 あなた [2086s - 2116s]
+And we really begin thinking about that. You know? We're realigned. You know? We just look so little really of genuine spiritual experience But the priorities for cross shaped character must be produced by such experience and is the safer ground for assurance of the enjoined faith.
+
+👤 あなた [2117s - 2135s]
+So Dawn Carson writes no matter how spectacular, the private field, no matter how telehealthy you can ignition, it cannot displace conduct and speech as more reliable and the case of how closely anyone follows.
+
+👤 あなた [2136s - 2154s]
+Christ So a good parallel here is Galatians six fourteen. But far be it from me to most acceptance across of our Lord Jesus Christ by which the world has been crucifying to me and I to the world.
+
+👤 あなた [2157s - 2159s]
+So that's the priority.
+
+👤 あなた [2164s - 2168s]
+Then the the object that goes to sting.
+
+👤 あなた [2172s - 2188s]
+Overseas Christ on his his grace, but the thorn and the flesh centers in at first. Seven. I'm following. To keep me from being too ill, I'd find a subpassing the weakness of their revelations.
+
+👤 あなた [2189s - 2190s]
+A thorn has given me in the flesh, a liver.
+
+👤 あなた [2199s - 2205s]
+The what is the benefit the the thorn and the flesh then.
+
+🎤 SPEAKER_4 [2242s - 2252s]
+It it keeps poor humble in a sense that prevents him from having pride, or building too much pride in himself. Keeps him grounded essentially.
+
+🎤 SPEAKER_1 [2255s - 2259s]
+Yep. Yep. That's it.
+
+👤 あなた [2260s - 2270s]
+That's I'm checking that's that that's what it says. To keep me from being too late at night speculation on what the thought is.
+
+👤 あなた [2273s - 2286s]
+Goes on without any of what being settled, Moe says. But Paul's focus is on on the purpose which we've just been, like, talking about. It keeps them from into a labels.
+
+👤 あなた [2287s - 2293s]
+Keeps them being too puffed up. Let's get you a Swalker is a god first audio teacher.
+
+🎤 SPEAKER_4 [2293s - 2296s]
+Accomplishment. I hope you find our teaching in your journey with
+
+🎤 SPEAKER_1 [2296s - 2297s]
+Jesus.
+
+👤 あなた [2297s - 2305s]
+And then in verses nine and ten. We see a further illustration of what Paul had said in chapter one verse nine.
+
+👤 あなた [2310s - 2321s]
+We read that at the beginning, but three so three times I feel that the Lord about this that it should be evenly. But he said to me, my grace is for you for my palmer.
+
+👤 あなた [2322s - 2347s]
+Is made perfect in weekends Therefore, I will go stone more gladly if my weaknesses so that the porn of crush now rest upon me, the sake of Christ, then I am content with weaknesses, insults, hardships, persecutions and commodities, when I am weak then I'm I'm strong
+
+👤 あなた [2352s - 2385s]
+One nine. Thorns and the flesh are designed to make us rely. Not all of ourselves, but on God who lives us. The dad, So in this passage with Thor, for which he had pleaded, three time to remove helped Paul to see that God's grace is sufficient But when I am weak, then I am strong.
+
+👤 あなた [2392s - 2400s]
+So Christ administering God's grace to Paul by his spirit is the object of Paul's.
+
+🎤 SPEAKER_7 [2400s - 2403s]
+Not important. Just to catch up. It is Catchling.
+
+🎤 SPEAKER_1 [2403s - 2407s]
+Trinitarian number. Cruciform is boosting.
+
+👤 あなた [2412s - 2432s]
+So I'll just finish up, and then we can have questions and discussion over the number if you wish. So this is a key passage in understanding the ups and downs of life for all who are in Christ and the gods.
+
+👤 あなた [2435s - 2450s]
+Three three perspectives, three cortical hyperfinish. So Lou, our is perhaps the text is deliberately vague as to what the thought is so that anybody for whatever difficulty they're facing can find comfort in old experience
+
+👤 あなた [2453s - 2455s]
+So if he said, well, the third one was
+
+👤 あなた [2461s - 2486s]
+No evidence. No one of those things has ever suggested that. But so say that's what he had said. Well, then not not the limits that doesn't there? People who wouldn't have they should, but they wouldn't necessarily seem the application of them. But it's kept It keeps us wondering, and therefore, whatever it is, we can identify with both.
+
+👤 あなた [2489s - 2508s]
+Gorman, considering the exalted experience and the thorn rights, would be the norm for Paul's life. The divine answer is the gift of weakness and tribulation. That is the norm for and the essence of apostolic existence.
+
+👤 あなた [2509s - 2532s]
+The criterion of authenticity that both transcends and authenticates all other experiences of God's presence and harm. Home fragments contain numerous pithy sayings that could serve us as my model, but few express himself his mission better than this. Whenever I am weak, then I am strong.
+
+👤 あなた [2538s - 2548s]
+And our very harvest challenges are simple, did not simply muster up his courage and struggle on
+
+👤 あなた [2553s - 2558s]
+Make a make a stoic paracise behind dinner toss, honey, violent stone,
+
+👤 あなた [2561s - 2578s]
+We should see an illusion, not the portrainability to cope with adversity by harnessing all his personal resources but to his experience of Christ's power sometimes in delivering him from adversity.
+
+👤 あなた [2578s - 2588s]
+Sometimes in grounding him strength, to endure hardship, but always in equipping him for effective service.
+
+👤 あなた [2594s - 2598s]
+Okay. Thank you. Any questions? Or comments on the final moments, please?
+
+🎤 SPEAKER_1 [2644s - 2645s]
+Okay. Good.
+
+👤 あなた [2647s - 2653s]
+Well, we we have a few minutes if you want to have an ask me anything then, or can wrap it up. I don't don't mind, really.
+
+🎤 SPEAKER_5 [2656s - 2659s]
+Gary, can I ask you a Yeah?
+
+🎤 SPEAKER_1 [2659s - 2659s]
+Yeah.
+
+🎤 SPEAKER_5 [2660s - 2671s]
+Controversial question I'd like to ask you. If we discovered hypothetically, one of Paul's type of other mattress to the group kids.
+
+🎤 SPEAKER_5 [2672s - 2680s]
+That have been lost to time. What what kind of the thought authority do you think it was holy by the Christian? Would it would it be on the level of scripture?
+
+🎤 SPEAKER_5 [2681s - 2682s]
+What kind of authority we owe?
+
+👤 あなた [2690s - 2700s]
+Well, I think maybe it's a bit simplistic and naive to say that and do you think that, you know, go to Providence comes into this.
+
+👤 あなた [2703s - 2718s]
+And I will answer the question, but but but, you know, he has preserved scripture for us in terms of what he intends us to have.
+
+👤 あなた [2721s - 2723s]
+It may be I don't know.
+
+🎤 SPEAKER_1 [2723s - 2725s]
+Be expert on this.
+
+🎤 SPEAKER_1 [2729s - 2737s]
+So everything at all, I'm not very much about it. Not every cent. Some other of these letters were known to some and available.
+
+🎤 SPEAKER_1 [2738s - 2755s]
+They were not, however, recognized by the church would be historically fascinating. I'm sure they might be edifying and helpful to read much more than than I'd imagine any contemporary Christopher would be.
+
+🎤 SPEAKER_1 [2756s - 2783s]
+But they are not, nevertheless, good peer. And they're not scripture for a reason. So Paul in and of himself, not what what was not infallible, you know, and may have written things in some of his addresses that that we could question argue with, but those aren't the ones that that they have until the
+
+🎤 SPEAKER_1 [2792s - 2795s]
+A couple of quotes are a little bit too, some apocryphal stuff, and it's a and and that's a good question now.
+
+🎤 SPEAKER_1 [2800s - 2809s]
+There's that quote from is it first or whatever it is? Not written by ENOC, of course. That's that's intertestamental.
+
+👤 あなた [2809s - 2814s]
+But, you know, he's bringing that in as an expression of of the truth and the in a sense, it becomes and scripture headed them, and he he advanced has been done under under divine inspiration like wise if I don't necessarily do for this, if Philippines 02/2011 was a 06/02/2011 was a preexisting him.
+
+🎤 SPEAKER_1 [2842s - 2853s]
+That, you know, that has become my part of part of scripture and expresses the truth in a way that a few other passages do. About Christ.
+
+👤 あなた [2856s - 2859s]
+So so, yeah, I think that's coming out of Trump.
+
+🎤 SPEAKER_1 [2859s - 2874s]
+Trinity angles that if there was x canonical stuff that fragments were taken from to be in scripture go over them when we're seeing it out, and likewise, present anything else he intended us to have.
+
+🎤 SPEAKER_1 [2879s - 2886s]
+I mean, I probably would have satisfied that. Scholars, but, you know, I think it's a good really thumb to work with.
+
+🎤 SPEAKER_7 [2886s - 2887s]
+Yeah.
+
+🎤 SPEAKER_5 [2887s - 2896s]
+It's just I put a a fascinating just like you've historically because I absolutely agree with you. Preservation, sufficiency, what's been having done stuff.
+
+🎤 SPEAKER_5 [2896s - 2904s]
+Of course. But you wonder when Paul was writing what we now call first term things as opposed to when he was sitting at his desk or dictating.
+
+🎤 SPEAKER_5 [2904s - 2916s]
+What we've lost. Whether he self consciously thought there was difference. You know, it's just it's just fascinating to start thinking about whole self understanding of what he was doing when he wrote because he held authority.
+
+🎤 SPEAKER_5 [2917s - 2930s]
+In both instances. But to hand down his authority in one instance to ask Just it's just so fascinating with that God's sovereignty is interacting with Paul's historical and a high perception.
+
+🎤 SPEAKER_1 [2930s - 2949s]
+Yeah. Yeah. That's a good question, which I know if there's a definitive answer to you. Did they know Well well, this you know, this is scripture. I'm writing for like, a personal letter, you know, to fully money. You know?
+
+🎤 SPEAKER_1 [2949s - 2956s]
+Dealing with a pastoral issue. You know? You know what I mean? So so that's fascinating to Saint Gongland.
+
+🎤 SPEAKER_2 [2961s - 2996s]
+Do you do you think the same is true then if we know that Jesus spoke loads of words that were written down in the gospels. That if you know, if we think it was verifiable that we found a document, things that she just said, obviously, there are various claims to ex things that Jesus said that we could say, yeah, maybe Jesus said it. But even if we could send down guarantee that you said that it it still is not part of our inspired scripture because this is to the closed cap, and this is what we've got. Would you would it be the same
+
+👤 あなた [3005s - 3024s]
+My my doctor has script. Here would say yes. But, of course, it's an entirely hypothetical. Question. Mean, if it could be proven that Jesus said that, obviously, we should what we should take it very seriously, whatever the contents of it are.
+
+🎤 SPEAKER_1 [3028s - 3031s]
+You know, that that says on Acts 20, those are at least as our Lord has said, it was more less typically than the season.
+
+👤 あなた [3031s - 3035s]
+I don't think we see precisely those who are in the gospel.
+
+🎤 SPEAKER_1 [3036s - 3040s]
+So there may be other examples.
+
+🎤 SPEAKER_7 [3044s - 3045s]
+Excuse me.
+
+🎤 SPEAKER_1 [3057s - 3072s]
+And, like, I was even in long term thinking it was the the the words of the Lord of God those supper and the turmoil. The first actual and script you read it saying. That that's like the first in script you read it saying.
+
+🎤 SPEAKER_1 [3072s - 3082s]
+Of Jesus. We have, I think, assuming that that that was written before that. The gospels were written, which I think is quite like most probably is the case.
+
+👤 あなた [3093s - 3095s]
+Okay.
+
+🎤 SPEAKER_1 [3097s - 3098s]
+Well, shall we leave it there then?
+
+🎤 SPEAKER_1 [3103s - 3105s]
+Olivia, would you like to pray, please, for us?
+
+🎤 SPEAKER_7 [3107s - 3142s]
+Yeah. Of course. Father God, I thank you that you are a great God. I that you are supreme over all. And, father, that you have given us these letters from Paul that we can read them and be blessed by them and hear your will through them. And I just pray as we them and continue to study them, we will keep our eyes fixed on you, Lord, that we would stay near to the cross that we would remain humble and that we would proclaim your word faithfully. Thanks again.
+
+🎤 SPEAKER_7 [3142s - 3145s]
+And his faithful teaching to us in your son's name. Amen.
+
+🎤 SPEAKER_1 [3146s - 3147s]
+Amen. Amen. Thank you.
+
+👤 あなた [3153s - 3156s]
+What is the purpose I've got snow?
+
+🎤 SPEAKER_4 [3260s - 3273s]
+Welcome to God First audio teaching. Hope you find that teaching helpful in your journey of Jesus. If you would like to join us or learn more about us, please visit our website at godfrey.com.
+
+👤 あなた [3282s - 3283s]
+Hobbit.
+
+🎤 SPEAKER_4 [3283s - 3285s]
+Hobbit? Hobbit?
+
+🎤 SPEAKER_5 [3285s - 3287s]
+Hobbit? Hobbit? Hobbit? Hobbit?
+
+🎤 SPEAKER_4 [3288s - 3302s]
+Man. This is going well. I'm getting a Sky Watcher. I'm getting a Sky Watcher one thirty Dobsonian Telescope. Yes. I've done a lot of research on this over the last few months.
+
+🎤 SPEAKER_4 [3303s - 3318s]
+To balance 30 with value. Trying to make sure what I'm getting is not a toy, basically, and it's worth it. And what telescope will let me do is it'll allow me to see things I've never seen before with my own eyes. I'll be able to see Jupiter and its moose.
+
+🎤 SPEAKER_4 [3319s - 3328s]
+I'll be able to see a Saturn, be able to see Neptune, all the planets. Be able to see the moon, the creator of the moon, creators of the moon. What are you laughing at the back there, Jonathan?
+
+👤 あなた [3328s - 3330s]
+Yeah.
+
+🎤 SPEAKER_4 [3332s - 3343s]
+Well well, you say that, but you know what? Wales, we're incredibly blessed in Wales. Don't know if you know this. Are the top 10 places in the world to to view the night sky, the top 10 list, two of them are in
+
+🎤 SPEAKER_6 [3343s - 3344s]
+Wales.
+
+🎤 SPEAKER_4 [3344s - 3345s]
+Of them are in Wales.
+
+🎤 SPEAKER_6 [3345s - 3346s]
+What?
+
+🎤 SPEAKER_4 [3346s - 3357s]
+First one is the Cow Peninsula. And the second one is the Breckenbeacons. Of all the places in the world, supposedly, we have two of the best. So we're designated the dark sky country, Wales.
+
+🎤 SPEAKER_4 [3358s - 3367s]
+So I'm gonna be once I figure out to use the task code, if anyone wants to come to the Breakthrough Beacons and I've called out my with me, Hello. Ladies, make sure we you we're coming to group or something.
+
+🎤 SPEAKER_4 [3370s - 3374s]
+If the conditions are right, I'm pretty sure what I'll be able to see will take my breath away.
+
+🎤 SPEAKER_4 [3376s - 3388s]
+And so that's why I'm excited. It's not because I like gadgets, but because I know it will deepen my sense of all. Of God's creation, It will help me see clearly what is always been there.
+
+🎤 SPEAKER_4 [3390s - 3397s]
+And I have no doubt it will lead me to a deep worship of God. I'm blown away by people like Brian Cox. I love Brian Cox as TV shows.
+
+🎤 SPEAKER_4 [3398s - 3407s]
+I'm blown away and he gets he gets completely in awe of creation. He completely misses the creator. And it's meant to lead us that the creation takes us so far.
+
+🎤 SPEAKER_4 [3408s - 3422s]
+It takes us far enough to believe that there must be a God. That you need gospel who this god is. But here's what's been striking to me as I thought about that as for today. All these things, the pints, the scars, bath, the space.
+
+🎤 SPEAKER_4 [3427s - 3434s]
+Real because I bought a pedestrian, but they're almost there. It don't suddenly appear because I'm excited to go to new toy.
+
+🎤 SPEAKER_4 [3437s - 3449s]
+The difference isn't their presence. They've always been there, but what's changed in my affinity to see them? In some small way, I guess, hold be nearer.
+
+🎤 SPEAKER_4 [3451s - 3460s]
+Here in a sense that when I look for a telescope, I can without a telescope, I can look up, and I can still see the planets fact, can.
+
+🎤 SPEAKER_4 [3460s - 3467s]
+Quite often, if the moon is bright, you can see a planet often nearby that looks like a bright start. I can do that without the tethoscope.
+
+🎤 SPEAKER_4 [3468s - 3477s]
+I can, without the telescope, affirm that the sky is incredible, that space is awesome, that I can affirm it's vast. I can see it's beautiful.
+
+🎤 SPEAKER_4 [3479s - 3489s]
+But believing those things is not the same as seeing them. Through a telescope. I guess that's a bit of an analogy of what I want to speak about.
+
+🎤 SPEAKER_4 [3490s - 3500s]
+Today. I know so I've known that I've wanted to speak on what I would like speak of today since October. Been kinda sitting there for a while.
+
+🎤 SPEAKER_4 [3501s - 3525s]
+I've talked to a few people about it. And today is less of a sermon and it's more of an exaltation. Now that's a bit of a funny word, isn't it? You know, sermons being where look at a bible passage, we try to explain it externally, and we allow the holy spirit to speak to us about how what we've trained. Our lives. The Bible's alive, and you trained
+
+🎤 SPEAKER_4 [3528s - 3530s]
+Well, an exhortation This is what I do.
+
+🎤 SPEAKER_6 [3531s - 3533s]
+You've regularly owned this part of the road, is it?
+
+🎤 SPEAKER_4 [3533s - 3548s]
+It's it's more of an impassioned pleat. It's a passionate call to action. It's an encouragement to the children.
+
+🎤 SPEAKER_6 [3549s - 3550s]
+To respond to God in some sort of way.
+
+🎤 SPEAKER_4 [3552s - 3569s]
+And that's what I'm gonna try and do today. I'm gonna try and issue an impassioned plea to each of you here. And me as well. I'm praying and hoping and trusted that the Holy Spirit will help me because not much of a showman.
+
+🎤 SPEAKER_4 [3569s - 3577s]
+There's some people that are really good at and and and in some ways that feels like that helps. But, no, this is we we don't want anything fake. I don't want anything fake.
+
+🎤 SPEAKER_4 [3578s - 3588s]
+I don't want to try and emotionally manipulate you into to active action. I trust that the Holy Spirit will move us spiritually and move our hearts to the affections.
+
+🎤 SPEAKER_4 [3589s - 3596s]
+I truly believe that there are people in this room that need to hear what we're about to say today.
+
+🎤 SPEAKER_4 [3600s - 3615s]
+Hear this message is for you. It's for all of us, really, in a sense. But just as I've been praying about it, I think specifically, anyone in mind, have no one in mind. I think there's people in here that this is for you today.
+
+🎤 SPEAKER_4 [3617s - 3627s]
+In fact, you're meant to hear this. Message. I get sent from God that you need to hear this. So back to the telescope for a moment.
+
+🎤 SPEAKER_4 [3629s - 3631s]
+Believe in the sky is stunning.
+
+
+---
+
