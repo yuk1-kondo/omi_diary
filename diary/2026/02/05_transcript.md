@@ -2376,3 +2376,38 @@ Interesting.
 
 ---
 
+
+
+## 📝 Courtroom Dialogue On Counsel Application - 976bb225-55bd-48cb-aa4f-d1a3be5f414c
+
+**記録時間**: 2026-02-05 23:17:35
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 2s]
+Three other people that could leave Australia with a new aircraft.
+
+🎤 SPEAKER_3 [41s - 46s]
+May it please the court I come here today a humble proceeding for a panel of five distinguished justices.
+
+🎤 SPEAKER_1 [47s - 51s]
+Is is this hold on. Is that council for the case?
+
+🎤 SPEAKER_1 [56s - 56s]
+Sorry?
+
+🎤 SPEAKER_1 [63s - 72s]
+Okay. It would have been nice to know that when you made your application. You did not tell me that, sir. I received the application.
+
+🎤 SPEAKER_1 [72s - 77s]
+And you have appeared before this court and been able to testify verbally in the past.
+
+🎤 SPEAKER_4 [78s - 82s]
+You have gone to my clerk's office and held verbal Oh my gosh.
+
+🎤 SPEAKER_3 [141s - 142s]
+Do I pull it out?
+
+
+---
+
