@@ -355,3 +355,137 @@ Don't let her touch you. You're a ghost.
 
 ---
 
+
+
+## 📝 Casual Chat and Online Conspiracy Discussion - cc9a7211-c05d-47c1-8fd8-8ed12c9e5d18
+
+**記録時間**: 2026-02-05 16:56:00
+
+### STT生テキスト
+
+🎤 SPEAKER_6 [0s - 1s]
+Maybe get onto something else.
+
+🎤 SPEAKER_4 [1s - 4s]
+But what would you say to people who feel like they haven't gotten justice, mister president?
+
+🎤 SPEAKER_6 [4s - 7s]
+Something that people care about. Yeah. What did what did you say? Go ahead.
+
+🎤 SPEAKER_4 [7s - 10s]
+What was your what would you say to the survivors who feel they haven't gotten justice?
+
+🎤 SPEAKER_6 [10s - 11s]
+Worst reporter.
+
+🎤 SPEAKER_4 [38s - 64s]
+No Four years, Wayfair was selling furniture with the same name as missing girls. For example, in 2019, a 17 year old girl from Ohio named Samaya went missing. Then a few days later, Wayfair listed a Samaya five shelf store cabinet for almost $13,000. In 2020, a 16 year old girl from Connecticut named Yuritza went missing.
+
+🎤 SPEAKER_4 [65s - 120s]
+A few days later, the Yuritza storage cabinet went up for sale on Wayfair for just under $14,000. May 2020 from Kansas City, a year old girl named Annabelle goes missing. Same storage unit sold on Wayfair. Annabelle with the same selling for just under $11,000. January 2020, Kyla Coleman, 16 year olds from Cleveland goes missing. You can already guess, Wayfair, same name, This one discounted for 12,000. Everyone always calls this a conspiracy theory until now when a receipt from Wayfair was found in the Epstein files. Look. We know that Jeffrey Epstein's network has a history with missing girls. Don't forget this picture of John Benny Ramsey and Ghislaine Max lurking in the background. At the receipt, it was purchased by Karina, Jeffrey Epstein's long time girlfriend, on 06/28/2018.
+
+🎤 SPEAKER_4 [121s - 129s]
+It was for one item totaling $8,400. And I've tried, but I can't find out what the item was.
+
+🎤 SPEAKER_4 [129s - 152s]
+What I do know is that on June 23, five days prior, a girl named Joanna went missing from Columbus, Ohio. And still, to this day, she has never been found. But back in the day when this conspiracy was spreading online, there was a high priced Joanna cabinet search circulating in the chats from the same WFX utility company.
+
+🎤 SPEAKER_4 [152s - 189s]
+Just for context, the WFX company is still selling the same storage units on Wayfair, but they're only a $139. Jeffrey Epstein's girlfriend, Karina, wasn't just making purchases on Wayfair. She's also active in the files for making purchases off of of Etsy. We know that back during this time, Etsy also had some very weird postings. The reality is is that none of this proves anything, but it does make you think that if this type of activity was half who was behind selling these items to Jeffrey and his network allegedly?
+
+🎤 SPEAKER_4 [190s - 213s]
+Where's Epstein's longtime girlfriend, Karina? She was a dentist dentist, which might explain why he had these rooms just two days before his passing, his estate signed everything over to her. We're talking about the properties, Zorro Ranch, the island, and hundreds of millions of dollars. So does she know where all the bodies are Four year
+
+🎤 SPEAKER_3 [214s - 216s]
+You ready yet?
+
+🎤 SPEAKER_6 [216s - 217s]
+Yeah.
+
+🎤 SPEAKER_3 [287s - 302s]
+You bet, go. Open the door then, mister Jude.
+
+🎤 SPEAKER_3 [322s - 323s]
+It's open juice.
+
+🎤 SPEAKER_7 [328s - 328s]
+Alright. Sorry.
+
+🎤 SPEAKER_3 [330s - 331s]
+I thought I opened it.
+
+🎤 SPEAKER_0 [943s - 952s]
+Two eight eight in the weekend or two? I like a question. I don't know. Let's have a look and I you
+
+🎤 SPEAKER_0 [953s - 955s]
+You're underneath your jumper juice? Yeah.
+
+👤 あなた [959s - 964s]
+Oh, I see. Because I Nice.
+
+👤 あなた [971s - 973s]
+I've got any more football matches coming up in.
+
+👤 あなた [977s - 981s]
+Why'd have this one random one then out of nowhere? Did we just didn't They just started it.
+
+🎤 SPEAKER_1 [981s - 984s]
+Well, the can't no.
+
+👤 あなた [993s - 1000s]
+Yeah. They always do it kind of spring, summer term. Where it's kinda like dry and warm.
+
+👤 あなた [1054s - 1055s]
+Suddenly, quite busy だね。
+
+👤 あなた [1073s - 1076s]
+There's a car trying to park down there really badly.
+
+👤 あなた [1079s - 1088s]
+Next on the end there, the one with their lights unparked. The the other one is running. They made a right mess of that. There's no one behind them. But as
+
+👤 あなた [1101s - 1101s]
+Bye.
+
+👤 あなた [1105s - 1106s]
+Copy bad, dude.
+
+👤 あなた [1111s - 1112s]
+Go down quick.
+
+👤 あなた [1117s - 1118s]
+Quick. Bye. See you later.
+
+👤 あなた [1123s - 1125s]
+I think you could fit for that.
+
+👤 あなた [1135s - 1135s]
+Come on. You can go.
+
+👤 あなた [1141s - 1141s]
+Komm.
+
+🎤 SPEAKER_1 [1145s - 1145s]
+Going.
+
+👤 あなた [1247s - 1248s]
+What are you doing?
+
+🎤 SPEAKER_1 [1301s - 1301s]
+Yeah.
+
+👤 あなた [1303s - 1305s]
+Thank is another day. Not much.
+
+👤 あなた [1313s - 1319s]
+I provide the need and satisfy it to a point. But always once more.
+
+🎤 SPEAKER_1 [1320s - 1321s]
+Omiya.
+
+🎤 SPEAKER_1 [1402s - 1402s]
+And
+
+
+---
+
