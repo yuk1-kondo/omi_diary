@@ -74,3 +74,44 @@
 
 ---
 
+
+
+## 📝 Casual Chat About Today’s Plans - 0c48dcca-d6f8-485f-b8c6-ed81a2861056
+
+**記録時間**: 2026-02-05 16:21:41
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 5s]
+Like she's not as good as everyone. So I I've not been on something. Right.
+
+🎤 SPEAKER_1 [7s - 9s]
+Kinda giving up on it a little bit of use then.
+
+👤 あなた [19s - 31s]
+What? That's why I know what's happening today. Oh, I'm gonna Is it double tack? No. I'll sit back. So I just first and then text it.
+
+👤 あなた [33s - 36s]
+Once it's done, it's out the way, isn't it?
+
+🎤 SPEAKER_1 [36s - 40s]
+There are other sides in our racks. So but it's Nice.
+
+👤 あなた [48s - 50s]
+Oh, it's twenty three past, did it?
+
+🎤 SPEAKER_1 [51s - 55s]
+No. That's that.
+
+👤 あなた [56s - 59s]
+Can you all see you get my car every day at this? So just relax.
+
+🎤 SPEAKER_1 [62s - 63s]
+That's in a second.
+
+👤 あなた [69s - 70s]
+See you.
+
+
+---
+
