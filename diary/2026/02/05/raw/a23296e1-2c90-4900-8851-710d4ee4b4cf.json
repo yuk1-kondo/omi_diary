@@ -1,0 +1,115 @@
+{
+  "id": "a23296e1-2c90-4900-8851-710d4ee4b4cf",
+  "created_at": "2026-02-05T08:55:36.318315+00:00",
+  "started_at": "2026-02-05T08:56:36.048643+00:00",
+  "finished_at": "2026-02-05T08:57:01.887622+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User Sets Short Alarm With Google",
+    "overview": "The user asks Google Assistant to set a four-minute alarm, and the assistant confirms that the alarm has been set.",
+    "emoji": "⏰",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "05fb666c-59f9-45a9-82eb-f2e041b3744b",
+      "text": "Hey, Google. Set a four minute alarm.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -4.5776369006489404e-07,
+      "end": 1.8398995422362532,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "900bf40f-4e03-47fd-bb72-180d9b1a1ef5",
+      "text": "I have set a four minute alarm for you.",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 6.169999542236383,
+      "end": 8.169999542236383,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156959,
+    "longitude": -3.2755644,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "bf9de283-9df2-4f83-9820-bd0ed4f749d0",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "a23296e1-2c90-4900-8851-710d4ee4b4cf",
+      "chunk_timestamps": [
+        1770281733.062,
+        1770281738.048,
+        1770281743.369,
+        1770281754.517,
+        1770281763.788,
+        1770281770.29,
+        1770281776.251,
+        1770281784.029,
+        1770281789.497,
+        1770281796.668,
+        1770281801.653,
+        1770281806.715,
+        1770281815.107,
+        1770281820.596,
+        1770281825.668,
+        1770281830.757,
+        1770281836.828,
+        1770281841.959,
+        1770281847.219,
+        1770281852.256,
+        1770281857.25,
+        1770281862.314,
+        1770281867.475,
+        1770281872.466,
+        1770281877.566,
+        1770281882.738,
+        1770281888.795
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-05T08:55:33.062000+00:00",
+      "duration": 160.733
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Alarm setup\n- Four-minute alarm requested by user  \n- Assistant confirms alarm successfully set  \n\n## Next steps\n- Wait four minutes for alarm to ring"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
