@@ -1,0 +1,138 @@
+{
+  "id": "8594ff05-f1d9-4b61-bb35-f97cb4ebbac8",
+  "created_at": "2026-02-06T01:49:55.751109+00:00",
+  "started_at": "2026-02-06T00:58:46.800730+00:00",
+  "finished_at": "2026-02-06T01:54:28.343704+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "業者ネットワーク整備工事の相談",
+    "overview": "話し手は、決戦図（配線図などの設計図）をもとにした業者ネットワークの整備工事について相手から説明を受け、「いつ工事になるのか」など日程面を含めて確認している様子がうかがえるが、具体的な日時や確定した予定までは示されていない。",
+    "emoji": "🏗️",
+    "category": "business",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "dc8b888d-1c98-4776-a8ec-00df08fb940b",
+      "text": "はい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -7.247924571629483e-08,
+      "end": 8.761374927520755,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    },
+    {
+      "id": "5b13175d-f2a7-47b4-891e-91b62cabca38",
+      "text": "決戦図がある 業者ネットワークの整備 はいわかりました いつ そう 工事に なるほどなるほど が はい はい ありました",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3121.561630010605,
+      "end": 3231.6367550106047,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1fa13885-b62f-47de-a5df-8648b92ba77c",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "8594ff05-f1d9-4b61-bb35-f97cb4ebbac8",
+      "chunk_timestamps": [
+        1770342595.475,
+        1770342605.082,
+        1770342612.137,
+        1770342625.42,
+        1770342648.4,
+        1770342653.486,
+        1770342658.498,
+        1770342663.728,
+        1770342668.868,
+        1770342674.744,
+        1770342679.983,
+        1770342685.25,
+        1770342690.988,
+        1770342696.35,
+        1770342701.876,
+        1770342707.105,
+        1770342712.205,
+        1770342717.244,
+        1770342724.12,
+        1770342730.323,
+        1770342735.464,
+        1770342740.704,
+        1770342745.903,
+        1770342751.975,
+        1770342757.154,
+        1770342762.173,
+        1770342767.178
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-06T01:49:55.475000+00:00",
+      "duration": 176.703
+    },
+    {
+      "id": "c03adea4-5005-46a5-a699-06c68c0b323c",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "8594ff05-f1d9-4b61-bb35-f97cb4ebbac8",
+      "chunk_timestamps": [
+        1770342838.575,
+        1770342843.756,
+        1770342848.934,
+        1770342854.914,
+        1770342860.653,
+        1770342866.858,
+        1770342872.217
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-06T01:53:58.575000+00:00",
+      "duration": 38.642
+    },
+    {
+      "id": "2d505abc-6f53-4703-b1c9-0c09096de1a7",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "8594ff05-f1d9-4b61-bb35-f97cb4ebbac8",
+      "chunk_timestamps": [
+        1770342928.401,
+        1770342947.316,
+        1770342953.464
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-06T01:55:28.401000+00:00",
+      "duration": 30.063
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 工事内容の確認\n- 決戦図（設計図）の存在を確認  \n- 業者ネットワークの整備がテーマ  \n\n## 工事時期の確認\n- 工事の「いつ」を質問・確認  \n- 工事時期について説明を受けて納得  \n\n## 次のステップ\n- 工事スケジュールの詳細決定  \n- 関係業者とネットワーク整備の段取り調整"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
