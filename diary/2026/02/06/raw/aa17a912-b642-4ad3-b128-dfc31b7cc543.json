@@ -1,0 +1,57 @@
+{
+  "id": "aa17a912-b642-4ad3-b128-dfc31b7cc543",
+  "created_at": "2026-02-06T10:32:37.782778+00:00",
+  "started_at": "2026-02-06T10:08:48.110823+00:00",
+  "finished_at": "2026-02-06T10:34:06.177791+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "犬を買いに行く約束",
+    "overview": "話し手が「犬買ってくれ 明日行く」と発言しており、犬を購入するために明日出かける意図が示されている。具体的な時間や場所は言及されていないが、近い将来の行動予定として「明日行く」ことが確認できる。",
+    "emoji": "🐶",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "aa2f5afd-3c92-4212-a07d-10ac576cd912",
+      "text": "犬買ってくれ 明日行く",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.1444086567280465e-08,
+      "end": 20.02275001144406,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 犬を買う予定\n- 犬を買ってほしいという依頼あり  \n- 明日行くと具体的な日程を提示  \n\n## 次のステップ\n- 明日一緒に犬を見に行く予定"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
