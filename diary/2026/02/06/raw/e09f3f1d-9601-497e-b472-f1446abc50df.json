@@ -1,0 +1,57 @@
+{
+  "id": "e09f3f1d-9601-497e-b472-f1446abc50df",
+  "created_at": "2026-02-06T06:48:55.304013+00:00",
+  "started_at": "2026-02-06T06:39:29.387163+00:00",
+  "finished_at": "2026-02-06T06:49:49.985358+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "令和7年度卒業判定会議の開始",
+    "overview": "話者が教職員向けに、令和7年度の卒業判定会議をこれから開始することと、本日の進行の流れを説明しようとしている冒頭部分の発言が記録されている。具体的な議題や出席者名、詳細な審議内容はこの抜粋からはまだ明らかになっていない。",
+    "emoji": "🎓",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "583c1b76-08a9-47e8-8db7-b6499d371d06",
+      "text": "はいお待たせいたしましたそれでは令和7年度の卒業判定会議を行いたいと思いますそれでは本日の流れ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.506805489270846e-07,
+      "end": 10.601374849319456,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 卒業判定会議の開始\n- 令和7年度の卒業判定会議を開始  \n- 会議の進行役が開始を宣言  \n\n## 会議の進行案内\n- 本日の流れをこれから説明予定  \n\n## 次のステップ\n- 会議の具体的な議題・手順の説明  \n- 卒業判定基準や対象者の確認予定"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
