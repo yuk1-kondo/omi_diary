@@ -1,0 +1,89 @@
+{
+  "id": "5479c704-2f9d-4ea8-bbab-39ff06f72717",
+  "created_at": "2026-02-06T09:28:10.101245+00:00",
+  "started_at": "2026-02-06T06:51:35.187538+00:00",
+  "finished_at": "2026-02-06T09:30:30.262766+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "味噌汁とノンアルコールドリンクの記録",
+    "overview": "「53味噌汁 ノアルコール」という発話のみが記録されており、その時点で味噌汁とアルコールを含まない飲み物（またはノンアルコール状態）について言及している様子がうかがえるが、詳細な文脈や会話のやり取りは不明。",
+    "emoji": "🍲",
+    "category": "real",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2ae98099-280c-4496-b18f-2781cfd11aea",
+      "text": "53味噌汁 ノアルコール",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.3542148735723458e-07,
+      "end": 17.682749864578568,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "674f9a38-25e6-4e97-8a01-cfe53d50be3f",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "5479c704-2f9d-4ea8-bbab-39ff06f72717",
+      "chunk_timestamps": [
+        1770370089.428,
+        1770370104.373,
+        1770370114.843,
+        1770370130.544,
+        1770370135.322,
+        1770370140.573,
+        1770370151.253,
+        1770370158.253,
+        1770370167.913,
+        1770370183.058,
+        1770370190.593,
+        1770370200.098,
+        1770370220.123,
+        1770370225.557,
+        1770370230.673,
+        1770370249.082,
+        1770370263.333,
+        1770370281.902,
+        1770370296.446,
+        1770370315.913,
+        1770370333.803
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-06T09:28:09.428000+00:00",
+      "duration": 249.375
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 味噌汁の注文内容\n- 「53味噌汁」を注文  \n- ノンアルコール指定  \n\n## 次のステップ\n- 提供サイズや詳細を確認する  \n- 他の料理の有無を確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
