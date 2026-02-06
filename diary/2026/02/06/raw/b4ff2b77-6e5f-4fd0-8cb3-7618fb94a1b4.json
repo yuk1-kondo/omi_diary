@@ -1,0 +1,101 @@
+{
+  "id": "b4ff2b77-6e5f-4fd0-8cb3-7618fb94a1b4",
+  "created_at": "2026-02-06T07:52:41.056984+00:00",
+  "started_at": "2026-02-06T06:48:50.164163+00:00",
+  "finished_at": "2026-02-06T07:53:35.370402+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "勉強への意欲を伝える一言",
+    "overview": "話し手が「勉強させてください」と述べ、自分が学ばせてほしい・勉強したいという意欲や謙虚な姿勢を表明している短い発話のみが記録されている。具体的なテーマや日時・約束事などの詳細は示されていない。",
+    "emoji": "📚",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "e83526b3-c10e-40b4-a61d-7913b11ef091",
+      "text": "勉強 させてください",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.39507892022084e-07,
+      "end": 20.0027496604921,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a31f8bfb-09ff-4530-b617-e0061a8a0fcc",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "b4ff2b77-6e5f-4fd0-8cb3-7618fb94a1b4",
+      "chunk_timestamps": [
+        1770364358.268,
+        1770364363.94,
+        1770364369.08,
+        1770364374.086,
+        1770364380.911,
+        1770364386.022,
+        1770364391.055,
+        1770364396.089,
+        1770364402.053,
+        1770364407.161,
+        1770364412.209,
+        1770364417.2,
+        1770364422.281,
+        1770364427.259,
+        1770364432.51,
+        1770364437.487,
+        1770364442.485,
+        1770364447.571,
+        1770364452.664,
+        1770364459.777,
+        1770364464.887,
+        1770364469.987,
+        1770364475.106,
+        1770364480.195,
+        1770364485.18,
+        1770364491.17,
+        1770364496.331,
+        1770364501.457,
+        1770364506.592,
+        1770364511.605,
+        1770364516.581,
+        1770364521.712,
+        1770364527.629
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-06T07:52:38.268000+00:00",
+      "duration": 174.361
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 学習の依頼\n- 相手が「勉強させてください」と発言\n- 学習・指導を受けたい意思を表明\n- 詳細内容やテーマはまだ未定\n\n## 次のステップ\n- 何を勉強したいか具体的に伝える\n- 目的やレベルを簡潔に共有する\n- 希望の進め方やペースを相談する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "b70d5aa8-3137-4190-b84f-83a1f0e7fe43"
+}
