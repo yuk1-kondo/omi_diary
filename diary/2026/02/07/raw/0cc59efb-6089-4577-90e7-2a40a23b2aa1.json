@@ -1,0 +1,180 @@
+{
+  "id": "0cc59efb-6089-4577-90e7-2a40a23b2aa1",
+  "created_at": "2026-02-07T14:20:05.103576+00:00",
+  "started_at": "2026-02-07T14:20:51.997057+00:00",
+  "finished_at": "2026-02-07T14:21:42.049408+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Speaker Reflects On Earning Respect",
+    "overview": "The speaker describes how, after spending significant time in a demanding environment, they have earned the right to voice strong opinions. They emphasize that their perspective now carries weight because they worked hard to gain respect and status, not having anything handed to them. They recall how difficult it was when they first arrived, needing to wrest opportunities and recognition from established veterans, and conclude that this struggle enables them to say what they want now.",
+    "emoji": "💪",
+    "category": "inspiration",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "1e256b03-1e34-406e-9118-b5fe299bafaa",
+      "text": "you're going here a lot of stuff. You're going a lot of jazz here in the And when it comes to it on the slides, we have it. I'll there, and I'll pep you, catch you even though. You're like, oh, you know, what did he say?",
+      "speaker": "SPEAKER_10",
+      "speaker_id": 10,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.3869022192666307e-07,
+      "end": 9.590300438690065,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4ff8c9ca-892b-4aa5-ae67-edaabedabf48",
+      "text": "He just little way in my ass, but it is what it is.",
+      "speaker": "SPEAKER_10",
+      "speaker_id": 10,
+      "is_user": false,
+      "person_id": null,
+      "start": 10.95000043869004,
+      "end": 15.24950043869012,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "da801f32-771b-497c-87b4-9b765d40c0cd",
+      "text": "And when when you've been here and you've done what I've done, You've built that equity to to, you know, share your opinion.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 15.410000438690076,
+      "end": 16.850000438690586,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7baf5827-2356-4bd0-bf50-0ea9f667de98",
+      "text": "The shit I think and the shit I I I say matters. You know? Mean? And I earned that. But he gave it to me. I had to take it. It wasn't easy. That's why everything says, oh, he's gone.",
+      "speaker": "SPEAKER_10",
+      "speaker_id": 10,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 23.900400438689758,
+      "end": 33.70000043869004,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8b6fa892-3e73-416a-af8e-ea8ddfd08a3e",
+      "text": "It was not easy when I got here. John C, a brand new big shoe came sweetheart by the still, like, I had to pry this shit from the grips of the veterans.",
+      "speaker": "SPEAKER_10",
+      "speaker_id": 10,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 34.410000438690076,
+      "end": 41.89000043869055,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e63b7066-dbc1-46f9-94ad-5833bd59bf03",
+      "text": "Nobody else did it for me.",
+      "speaker": "SPEAKER_11",
+      "speaker_id": 11,
+      "is_user": false,
+      "person_id": null,
+      "start": 42.490000438690004,
+      "end": 46.89000043869055,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f2416cc0-3c22-439e-98d5-39b66ad3c468",
+      "text": "Say what I want.",
+      "speaker": "SPEAKER_10",
+      "speaker_id": 10,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 48.84000043869037,
+      "end": 49.56000043869062,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157105,
+    "longitude": -3.2755562,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "446ab16b-933b-4234-8be2-ebed65708cab",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "0cc59efb-6089-4577-90e7-2a40a23b2aa1",
+      "chunk_timestamps": [
+        1770474001.752,
+        1770474007.815,
+        1770474012.938,
+        1770474017.955,
+        1770474022.977,
+        1770474028.041,
+        1770474033.035,
+        1770474038.056,
+        1770474043.134,
+        1770474048.09,
+        1770474053.152,
+        1770474058.134,
+        1770474063.247,
+        1770474068.246,
+        1770474073.307,
+        1770474079.324,
+        1770474084.349,
+        1770474089.445,
+        1770474094.522,
+        1770474099.632,
+        1770474104.623,
+        1770474109.745,
+        1770474114.991,
+        1770474120.011,
+        1770474125.022,
+        1770474130.056,
+        1770474135.333
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-07T14:20:01.752000+00:00",
+      "duration": 138.581
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Establishing authority  \n- Speaker emphasizes sharing strong, unapologetic opinions  \n- Claims their thoughts and words “matter” and are earned  \n- Authority comes from experience and past achievements  \n\n## Hard-earned position  \n- Describes journey as difficult and not easy at all  \n- Mentions John Cena as a new, big star arrival  \n- Had to take opportunity; nothing was handed over  \n\n## Veteran resistance  \n- Says they “pried” spot from veterans’ grip  \n- Highlights struggle against established locker room hierarchy  \n- Stresses personal effort: “Nobody else did it for me”  \n\n## Next steps  \n- Continue speaking freely based on earned status  \n- Maintain confidence rooted in past hard work"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "66c1f6ee-d299-4332-9cbb-6adfb3f8462b"
+}
