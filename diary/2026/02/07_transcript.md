@@ -3613,3 +3613,35 @@ Before we go out,
 
 ---
 
+
+
+## 📝 Speaker Reflects On Earning Respect - 0cc59efb-6089-4577-90e7-2a40a23b2aa1
+
+**記録時間**: 2026-02-07 23:20:05
+
+### STT生テキスト
+
+🎤 SPEAKER_10 [0s - 9s]
+you're going here a lot of stuff. You're going a lot of jazz here in the And when it comes to it on the slides, we have it. I'll there, and I'll pep you, catch you even though. You're like, oh, you know, what did he say?
+
+🎤 SPEAKER_10 [10s - 15s]
+He just little way in my ass, but it is what it is.
+
+🎤 SPEAKER_3 [15s - 16s]
+And when when you've been here and you've done what I've done, You've built that equity to to, you know, share your opinion.
+
+🎤 SPEAKER_10 [23s - 33s]
+The shit I think and the shit I I I say matters. You know? Mean? And I earned that. But he gave it to me. I had to take it. It wasn't easy. That's why everything says, oh, he's gone.
+
+🎤 SPEAKER_10 [34s - 41s]
+It was not easy when I got here. John C, a brand new big shoe came sweetheart by the still, like, I had to pry this shit from the grips of the veterans.
+
+🎤 SPEAKER_11 [42s - 46s]
+Nobody else did it for me.
+
+🎤 SPEAKER_10 [48s - 49s]
+Say what I want.
+
+
+---
+
