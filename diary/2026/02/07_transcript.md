@@ -3326,3 +3326,290 @@ You spend way too much time in that toilet, Eddie. I've gotta be honest with you
 
 ---
 
+
+
+## 📝 Family Introduces Neon Green Tetras - bf97eb83-babe-4247-8fa0-ea3773bb0025
+
+**記録時間**: 2026-02-07 22:50:32
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 4s]
+I'm here. Hey. It's coming out. Yeah. Know. My I hate the conversation.
+
+👤 あなた [13s - 14s]
+But there we're gonna watch the fish a minute.
+
+🎤 SPEAKER_2 [23s - 25s]
+I can't pin it on because now it's week any minute.
+
+🎤 SPEAKER_7 [25s - 26s]
+I just
+
+🎤 SPEAKER_3 [27s - 28s]
+Why?
+
+🎤 SPEAKER_2 [28s - 30s]
+I'm going bowling. Three, two, one, one.
+
+🎤 SPEAKER_5 [30s - 32s]
+Yeah. Remote, have you been updating now?
+
+🎤 SPEAKER_1 [36s - 38s]
+Watch for Alright, choose you wanna come watch a fish come in?
+
+🎤 SPEAKER_5 [39s - 40s]
+You want me to, like, lower it?
+
+🎤 SPEAKER_2 [40s - 43s]
+Yeah. Just let them out. You just tip it out. Gently to the side.
+
+🎤 SPEAKER_3 [46s - 46s]
+Freedom.
+
+👤 あなた [47s - 50s]
+Let's free them out. Four.
+
+🎤 SPEAKER_3 [51s - 52s]
+For all of them?
+
+🎤 SPEAKER_1 [52s - 61s]
+Yeah? Yeah. Lift the bag up. Let it drip in at it until Tip it tip it to the side because some of this will caught up in the Get the bag out. So we're to draw off now, so come on.
+
+🎤 SPEAKER_3 [65s - 66s]
+Alright.
+
+🎤 SPEAKER_5 [67s - 67s]
+Let's see what's going on.
+
+🎤 SPEAKER_2 [70s - 72s]
+I wanna get the light on there. One flex, won't they?
+
+🎤 SPEAKER_8 [73s - 76s]
+Why do we buy green ones if the whole thing is Well, when the light's on, it will reflect We'll be able to see see it won't be open.
+
+🎤 SPEAKER_5 [80s - 82s]
+You're done earlier.
+
+🎤 SPEAKER_7 [87s - 88s]
+Is that a bit stressful?
+
+🎤 SPEAKER_3 [88s - 88s]
+No.
+
+🎤 SPEAKER_5 [89s - 92s]
+Get all up the point, all up there. Two. No.
+
+👤 あなた [98s - 100s]
+Just one more they're discovering their tankless much better than what they had in the center.
+
+🎤 SPEAKER_2 [116s - 120s]
+Elliot's gonna name them, but he needs to do a lot of watch orders so he can get used to water.
+
+👤 あなた [122s - 123s]
+What?
+
+🎤 SPEAKER_5 [123s - 125s]
+This line's fine, isn't it? It's a bit over.
+
+🎤 SPEAKER_3 [125s - 125s]
+That's okay.
+
+🎤 SPEAKER_2 [125s - 129s]
+It's topped it up now with the contents of that. That worked out really well.
+
+🎤 SPEAKER_7 [130s - 132s]
+I can't take all of them.
+
+🎤 SPEAKER_2 [133s - 136s]
+Okay. There's one down there. Two? I think two.
+
+🎤 SPEAKER_7 [136s - 141s]
+No. I'm not. I'm a little explore. Yeah.
+
+🎤 SPEAKER_2 [142s - 147s]
+You like to be like The more you watch them, you'll be able to get to know them. Like, compare them.
+
+🎤 SPEAKER_3 [150s - 151s]
+Exciting heavier.
+
+🎤 SPEAKER_8 [152s - 156s]
+Your first fish. What are they called?
+
+🎤 SPEAKER_3 [157s - 160s]
+Neon green raspberry raspberries. Yeah. Raspberous.
+
+🎤 SPEAKER_2 [165s - 168s]
+I mean, might be that four of them is fine.
+
+🎤 SPEAKER_5 [168s - 169s]
+Might be that So do we have to give them food or not?
+
+🎤 SPEAKER_3 [169s - 170s]
+No. No.
+
+🎤 SPEAKER_1 [170s - 171s]
+Not for the first day.
+
+🎤 SPEAKER_2 [171s - 174s]
+For the first day. Why? That's what it says on on the on the bag.
+
+🎤 SPEAKER_1 [176s - 180s]
+We and you got we got we but let's not overfeed them, shouldn't we?
+
+🎤 SPEAKER_2 [180s - 187s]
+I'm have to come up with a routine. When you feed them. The morning? It could be in the morning. It could be when you come up from school every day.
+
+🎤 SPEAKER_2 [188s - 196s]
+I mean, morning probably works, but you want to I mean, there's not very many, and they're tiny, so you're probably gonna need such a tiny amount.
+
+🎤 SPEAKER_2 [197s - 206s]
+Don't wanna like, wait till you put a teeny bit in. As much as they feed. You probably don't want it to all get caught up on the plants. You probably wanna try and put it in.
+
+🎤 SPEAKER_1 [207s - 208s]
+There's an idea for having a back because it No.
+
+🎤 SPEAKER_2 [210s - 212s]
+It's nice because you can see it against the water, can't you?
+
+🎤 SPEAKER_3 [212s - 213s]
+Because There it the wall.
+
+🎤 SPEAKER_2 [214s - 237s]
+In the back, you just wanna see them. Oh, I love it. Look at them exploring. And there's loads of areas, isn't it? You've done really well with the fact that the two tall things have got gaps through them, and then they've got the plants for them to kind of explore around is a lovely looking tank. You've decorated that really well earlier. May some good choices on the gravel, all sorts.
+
+🎤 SPEAKER_3 [241s - 242s]
+Omi, Steve Whitefield.
+
+🎤 SPEAKER_2 [242s - 244s]
+Church till right. He's got man flu.
+
+🎤 SPEAKER_2 [248s - 250s]
+Be there so I'll have the card to get in.
+
+🎤 SPEAKER_1 [251s - 252s]
+Oh, great.
+
+🎤 SPEAKER_2 [267s - 274s]
+But you should not wanna just take some trainers or some coats with you when you go to your dad's.
+
+🎤 SPEAKER_3 [274s - 275s]
+Yeah.
+
+🎤 SPEAKER_1 [275s - 277s]
+Just in case we all go out.
+
+🎤 SPEAKER_2 [281s - 286s]
+No rush back is there, I mean. The way his foot holds, right, the way I think of rugby's on it, like, just before the game You know, it upstairs, I guess.
+
+🎤 SPEAKER_3 [291s - 298s]
+It is. Just Oh, absolutely.
+
+🎤 SPEAKER_2 [298s - 301s]
+It's absorbed these fish around. I can see this one here. They're, like, reflected.
+
+🎤 SPEAKER_9 [302s - 303s]
+Really? Yeah.
+
+👤 あなた [304s - 305s]
+It was nice to have.
+
+🎤 SPEAKER_9 [305s - 311s]
+It's lovely to have it. They're so calming. I mean, I do I've very much in potato doing his thing. Oh, it's very good.
+
+🎤 SPEAKER_2 [311s - 321s]
+Potato doing his thing. But potatoes often sleepy, whereas these guys, can do it all the time. This this dog boy, this is where we sit when we're stressed and we're angry.
+
+🎤 SPEAKER_2 [321s - 326s]
+We have to sit like this. Right. Stressed and angry.
+
+🎤 SPEAKER_3 [327s - 327s]
+Sit here.
+
+🎤 SPEAKER_2 [329s - 331s]
+Is how you calm yourself down. Mommy, you calm yourself down this way.
+
+🎤 SPEAKER_8 [333s - 334s]
+Daddy, you're it's so cold.
+
+🎤 SPEAKER_1 [338s - 340s]
+I know he's here.
+
+👤 あなた [341s - 344s]
+See? And so mummy now needs to sit by the fish tank now because and so
+
+🎤 SPEAKER_2 [346s - 346s]
+I love them.
+
+🎤 SPEAKER_2 [348s - 350s]
+I think I'll like see through bodies when the light's not on.
+
+🎤 SPEAKER_1 [354s - 355s]
+Yeah. They are nice, admittedly.
+
+🎤 SPEAKER_1 [359s - 360s]
+Why are you so red faced, Elliot?
+
+🎤 SPEAKER_1 [371s - 375s]
+No. We're not doing anything. You hurt? No.
+
+🎤 SPEAKER_8 [375s - 376s]
+You call him a guy name.
+
+🎤 SPEAKER_2 [378s - 380s]
+So you can't identify them between the four.
+
+🎤 SPEAKER_3 [380s - 381s]
+You have to call them a Weekends,
+
+🎤 SPEAKER_3 [418s - 419s]
+I guess.
+
+🎤 SPEAKER_3 [423s - 425s]
+I can doll it a little bit.
+
+🎤 SPEAKER_5 [537s - 540s]
+They're great. Neon.
+
+🎤 SPEAKER_2 [540s - 543s]
+Neon green Tetras. Rust. Rust. Rust. Alright.
+
+🎤 SPEAKER_3 [546s - 547s]
+So when the lights on, they're quite bright for us.
+
+🎤 SPEAKER_2 [548s - 550s]
+Oh, no.
+
+👤 あなた [550s - 552s]
+It's gotta stay off, nanny, whilst they settle.
+
+🎤 SPEAKER_2 [558s - 561s]
+He's done a good job there, hasn't he? Yeah. Fish They're you can just sign my house for me.
+
+🎤 SPEAKER_8 [561s - 562s]
+Yeah. They
+
+🎤 SPEAKER_2 [563s - 570s]
+look So they're just they're just acclimatizing. They've been they've been free for about five minutes now. They five minutes. Okay. Right.
+
+👤 あなた [570s - 572s]
+He's having a two call for school sort of situation now.
+
+🎤 SPEAKER_2 [572s - 577s]
+Too much too much tension, I wish. You look a bit warm too. Just like we're going now.
+
+🎤 SPEAKER_1 [582s - 586s]
+Have a good what? Who's the today? Oh, Rotherham. Rotherham. Try, make them Watt, like some sort of common person.
+
+🎤 SPEAKER_7 [587s - 588s]
+It's alright.
+
+🎤 SPEAKER_1 [588s - 590s]
+See you later. See you later. Have fun.
+
+🎤 SPEAKER_3 [628s - 628s]
+Before we go out,
+
+
+---
+
