@@ -3674,3 +3674,1097 @@ Like, it's it's just such a divide.
 
 ---
 
+
+
+## 📝 Family Trip to Football Match With Snacks - f5929240-eda9-4b47-9030-e7f1b5ecd01e
+
+**記録時間**: 2026-02-07 23:28:15
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+In China?
+
+🎤 SPEAKER_12 [1s - 4s]
+This girl is too bad. This girl darker.
+
+🎤 SPEAKER_13 [4s - 13s]
+And this girl is too short. According to China Social how unhinged are the beauty standards here in China? Chinese people love their tests.
+
+🎤 SPEAKER_13 [14s - 16s]
+And for better or worse, beauty is also a test.
+
+🎤 SPEAKER_3 [17s - 17s]
+Yes.
+
+🎤 SPEAKER_13 [17s - 25s]
+There are literally beauty tests that are going viral all over social media. Pass the test, and you're an SDR bag. Fail it, and you're definitely mid.
+
+🎤 SPEAKER_13 [25s - 27s]
+So what are the new four
+
+🎤 SPEAKER_13 [34s - 41s]
+If you can no longer see your waist, you have it. And no. Ain't the way you're holding that paper in landscape. Portrait mode only.
+
+🎤 SPEAKER_13 [42s - 49s]
+When you pass, similar to the A poly test is the belly button test. Can you wrap your arm all the way behind your back and touch your belly button?
+
+🎤 SPEAKER_13 [49s - 58s]
+Nails don't count. If so, you've gotta waste that Chinese social media worship. Then there is the fish and colorful test. Or How does it work?
+
+🎤 SPEAKER_13 [58s - 68s]
+Basically, is your collarbone deep enough that a fish can swim inside? If so, then you're a big freaking deal in China. The hashtag literally means your collarbone is so sexy.
+
+🎤 SPEAKER_13 [69s - 79s]
+It cues. Are you a fan? Finally, we've got the Love by P for coolest contestants. Is your skin a warp pantone? Or is it a cool, pale, almost blue tone?
+
+🎤 SPEAKER_13 [79s - 87s]
+If your glue tone congratulations. You'll be glazed. No end in China. Bonus points if you have visible veins through your pale skin.
+
+🎤 SPEAKER_13 [87s - 95s]
+It's low key a niche that some guys and girls get way too into. So, yeah, Chinese beauty standards are next level. And honestly doing way too much.
+
+🎤 SPEAKER_13 [96s - 102s]
+In my opinion. Because everyone's beautiful in their own way. Right? And no shot. I'm letting some random social media challenge, tell me I'm child.
+
+🎤 SPEAKER_13 [103s - 106s]
+That's what the mirror is for. But what do you need? Dig it or not?
+
+🎤 SPEAKER_3 [137s - 140s]
+He passes out on the fine rep, and his spotter is forced to curl the weight to keep it from keeps fighting until his friend finally wakes up.
+
+🎤 SPEAKER_14 [151s - 159s]
+And in that same moment, he gets the bar secured. He wasn't just a spotter here. He's the reason his friend walks away alive.
+
+🎤 SPEAKER_14 [161s - 169s]
+He passes out on the final rep and is spot is forced to curl the weight to keep it from crushing him. This is moment we're letting go, isn't it?
+
+🎤 SPEAKER_3 [212s - 215s]
+Yep. I'll take the. Yeah.
+
+🎤 SPEAKER_3 [221s - 227s]
+Don't let go of her. This thing's to hurt us, man. Down, and the way you have her.
+
+🎤 SPEAKER_15 [338s - 344s]
+Today, let's talk about a few things One, we're gonna talk about updating everybody's address to go, how to do it, what to do, and what not to do.
+
+🎤 SPEAKER_3 [345s - 346s]
+But first,
+
+🎤 SPEAKER_3 [402s - 402s]
+Bye.
+
+🎤 SPEAKER_1 [403s - 407s]
+We're gonna go now. We're gonna go. Do wanna bring that with you?
+
+🎤 SPEAKER_9 [438s - 439s]
+Hello.
+
+🎤 SPEAKER_1 [439s - 442s]
+Hey dads. You okay?
+
+🎤 SPEAKER_3 [442s - 443s]
+Yeah.
+
+🎤 SPEAKER_1 [443s - 453s]
+Me and the boys are both head down. We're both head down, and I can swing by the shop all the way down if you if I need if you need anything if I need anything to get to bring.
+
+👤 あなた [459s - 460s]
+Oh, yeah?
+
+🎤 SPEAKER_3 [464s - 464s]
+Great.
+
+🎤 SPEAKER_1 [468s - 469s]
+Great. How about drinks?
+
+🎤 SPEAKER_1 [474s - 479s]
+If I get a six pack of can of of fizzy, would you like a like a Yeah.
+
+🎤 SPEAKER_3 [480s - 481s]
+I have to do Yeah.
+
+🎤 SPEAKER_1 [481s - 482s]
+What do you like?
+
+🎤 SPEAKER_1 [485s - 487s]
+Would you like like Pepsi Max or something is it?
+
+🎤 SPEAKER_3 [487s - 490s]
+Alright then.
+
+🎤 SPEAKER_1 [490s - 497s]
+I'll have a look pop into the stains please on the way through Park Crescent. Alright. We'll be down soon. Alright.
+
+🎤 SPEAKER_7 [497s - 499s]
+Bye.
+
+👤 あなた [499s - 500s]
+Yeah. Okay.
+
+🎤 SPEAKER_1 [500s - 502s]
+Alright. I'll walk straight on in.
+
+🎤 SPEAKER_3 [503s - 504s]
+Bye.
+
+🎤 SPEAKER_1 [505s - 506s]
+See you soon.
+
+👤 あなた [508s - 509s]
+What situation are you?
+
+🎤 SPEAKER_1 [511s - 517s]
+We gotta go now anyway. Finish this match when you get back later if you like.
+
+🎤 SPEAKER_5 [522s - 524s]
+Them on for where they are right now.
+
+🎤 SPEAKER_2 [524s - 525s]
+They've won four games in a row.
+
+🎤 SPEAKER_3 [526s - 527s]
+I am.
+
+🎤 SPEAKER_5 [527s - 529s]
+So, you know.
+
+🎤 SPEAKER_2 [533s - 536s]
+So for some reason, they got this new caretaker manager guy.
+
+🎤 SPEAKER_1 [537s - 538s]
+Jimmy Carrack in it?
+
+🎤 SPEAKER_5 [538s - 539s]
+No. No.
+
+🎤 SPEAKER_2 [539s - 546s]
+In in the in the game, no no four leads. If if they win today, they're gonna keep it they keep the role.
+
+🎤 SPEAKER_5 [546s - 551s]
+It's interesting. And they've actually done non managers being able to manage the teams.
+
+🎤 SPEAKER_2 [551s - 552s]
+Call me, Omi.
+
+🎤 SPEAKER_1 [552s - 554s]
+Okay.
+
+🎤 SPEAKER_2 [559s - 562s]
+My tactics is to go all all out of tactics.
+
+🎤 SPEAKER_1 [563s - 565s]
+That if you look You're like a BBM. You?
+
+🎤 SPEAKER_5 [565s - 566s]
+If you look out on the bottom right, it's all out of the fucking lot.
+
+🎤 SPEAKER_2 [568s - 571s]
+The whole game I start out attacking.
+
+🎤 SPEAKER_5 [571s - 575s]
+My wing backs is like my wing backs for, like, five goals. Or just even?
+
+🎤 SPEAKER_9 [577s - 577s]
+Oh.
+
+🎤 SPEAKER_3 [577s - 578s]
+No.
+
+🎤 SPEAKER_5 [580s - 582s]
+That we listen to now. Now now I wanna listen
+
+🎤 SPEAKER_3 [582s - 583s]
+Nice.
+
+🎤 SPEAKER_5 [583s - 592s]
+It's not nice because the leaves, but yeah. How the Bruno is saying? My name is in the field. It's not really. To to.
+
+🎤 SPEAKER_9 [594s - 602s]
+Oh, I played little window. Oh, oh, get you. Oh, oh, Overlaps it a lot. Into I Tacos?
+
+🎤 SPEAKER_5 [602s - 603s]
+I I try to go in the middle.
+
+🎤 SPEAKER_9 [604s - 607s]
+Oh, to me now. To Patrick dog.
+
+🎤 SPEAKER_7 [609s - 609s]
+Oh, that's a red in it?
+
+🎤 SPEAKER_1 [613s - 616s]
+I'm surprised we have blow up about it. Got the honest view ten minutes later.
+
+🎤 SPEAKER_5 [619s - 621s]
+Yeah. That's a free seat. For lemons.
+
+🎤 SPEAKER_5 [625s - 633s]
+Y mediado. Can get a light on? Green Fernandez should be a goal. No duck.
+
+🎤 SPEAKER_1 [637s - 639s]
+Go. Don't know if not give a booking for that. I didn't.
+
+🎤 SPEAKER_9 [645s - 646s]
+It is like a Oh, no no no look.
+
+🎤 SPEAKER_1 [649s - 652s]
+No. We're gonna be we need to we haven't really got time to finish the match at it.
+
+🎤 SPEAKER_5 [652s - 653s]
+No look for tackle.
+
+🎤 SPEAKER_1 [654s - 659s]
+Do you have one ticket? A book sent off or what?
+
+🎤 SPEAKER_9 [659s - 666s]
+Oh, it goes for the it goes for the qué feo. You know?
+
+🎤 SPEAKER_1 [666s - 669s]
+This is like, might as well be different trot.
+
+🎤 SPEAKER_9 [671s - 673s]
+Oh, you you got it? Oh.
+
+🎤 SPEAKER_3 [677s - 678s]
+Oh.
+
+🎤 SPEAKER_1 [678s - 683s]
+My kindness credit. Finish it. No. You've got finish it later. You gotta finish it later now. Come on.
+
+🎤 SPEAKER_7 [684s - 686s]
+Gotta skip.
+
+🎤 SPEAKER_1 [686s - 692s]
+Why are you why are you showing why are not why you watching it? Come on, sir. Let's go.
+
+🎤 SPEAKER_5 [692s - 694s]
+I'm turning to young. I'm looking at my best guess. No. Come on, sir.
+
+👤 あなた [695s - 697s]
+Yeah. Hold on.
+
+🎤 SPEAKER_3 [697s - 697s]
+Nice.
+
+🎤 SPEAKER_1 [698s - 699s]
+That that you did risk it for a biscuit there, didn't you?
+
+🎤 SPEAKER_1 [704s - 706s]
+Roman Roman veins. Come on, Omi. Let's go.
+
+🎤 SPEAKER_3 [711s - 712s]
+Alright. Come on in.
+
+👤 あなた [712s - 716s]
+Jude. Jude, we're going. We're gonna be we're going now.
+
+🎤 SPEAKER_1 [716s - 721s]
+We're going now. Pass that. Do you wanna bring tablet with you? Pass it.
+
+👤 あなた [721s - 722s]
+We shouldn't be on shorts. You know this.
+
+🎤 SPEAKER_3 [730s - 730s]
+Let's go.
+
+🎤 SPEAKER_3 [748s - 749s]
+Tjes. Hello.
+
+🎤 SPEAKER_1 [769s - 772s]
+Underneath that? Was that blue ones there? Yours?
+
+🎤 SPEAKER_1 [790s - 792s]
+Yeah. Brother room. The car should be open, dude.
+
+🎤 SPEAKER_1 [808s - 809s]
+Hello. Come on, mate. What are doing?
+
+🎤 SPEAKER_7 [815s - 816s]
+Come on, what are you doing?
+
+🎤 SPEAKER_1 [821s - 828s]
+Something know. But equally, we're gonna be late for the kickoff. We've gotta go to the shop first. Get some sweets and some Pepsi Macs.
+
+🎤 SPEAKER_5 [828s - 829s]
+Your business called me that before.
+
+🎤 SPEAKER_1 [829s - 830s]
+Well, you should have just done my
+
+👤 あなた [835s - 836s]
+You can do that in the car out.
+
+🎤 SPEAKER_3 [838s - 838s]
+Out.
+
+🎤 SPEAKER_3 [844s - 845s]
+Cute.
+
+🎤 SPEAKER_7 [845s - 846s]
+I did that one Out to the driver's seat.
+
+🎤 SPEAKER_5 [853s - 863s]
+In when I was imagining left started, there's node that crosses to node bicycle kick. But Like, just trying to get ahead on this, and I scored bicycle. And I was just wondering if you guys
+
+🎤 SPEAKER_9 [863s - 864s]
+Nice.
+
+🎤 SPEAKER_1 [886s - 889s]
+So we're gonna shop, get some sweets and get some Pepsi Max.
+
+🎤 SPEAKER_0 [930s - 931s]
+Alright.
+
+🎤 SPEAKER_1 [931s - 935s]
+Me some details on the rod room match then. What's the situation?
+
+👤 あなた [953s - 959s]
+Then seems to matter if we tend to do not so well against The pressure's on now We need to win every game basically with Lincoln.
+
+🎤 SPEAKER_1 [970s - 973s]
+Lincoln top? No.
+
+👤 あなた [973s - 984s]
+We're top, but the two points beyond us. So if we Oh, that's gonna be a tough game from? No. From Yeah. Look at their form.
+
+🎤 SPEAKER_2 [985s - 987s]
+If we do scale all the they lost the most people, they drew the people.
+
+🎤 SPEAKER_1 [987s - 993s]
+Alright. If if they if we lose this game in Lincolnwick, they're They go top. Yeah?
+
+🎤 SPEAKER_2 [993s - 997s]
+No. The most recent game, they'd be five to, like, three one. Two now.
+
+👤 あなた [997s - 1008s]
+Hood is. Oh, thank you. Yeah. They keep the pressure on. At least we're not worrying about are we gonna drop out the autos at the moment? No. That'd fine. We're just wanting to keep our top spot, aren't we?
+
+🎤 SPEAKER_2 [1008s - 1019s]
+Yeah. It's it's pretty true. Now it's just us. My husband, like, she, like, we're We could it's so nice.
+
+👤 あなた [1032s - 1033s]
+Well, Lincoln is it?
+
+🎤 SPEAKER_2 [1033s - 1034s]
+Lincoln is Lincoln
+
+🎤 SPEAKER_1 [1036s - 1037s]
+Stevenage.
+
+🎤 SPEAKER_2 [1037s - 1038s]
+Stevenage of the pie.
+
+👤 あなた [1038s - 1039s]
+Nossa, dia que eu quero.
+
+🎤 SPEAKER_2 [1044s - 1049s]
+Too often come? So we continue to learn and then continue to
+
+👤 あなた [1050s - 1050s]
+Yeah.
+
+🎤 SPEAKER_1 [1053s - 1053s]
+We're the best
+
+🎤 SPEAKER_1 [1059s - 1064s]
+Who's the top do I know Salix's top goalscorer.
+
+🎤 SPEAKER_2 [1064s - 1065s]
+No, he's not.
+
+👤 あなた [1069s - 1071s]
+Drop in form towards Ali's been out for cooking.
+
+🎤 SPEAKER_2 [1071s - 1073s]
+But he's he's forth.
+
+🎤 SPEAKER_1 [1075s - 1076s]
+12. Oh, who's first?
+
+🎤 SPEAKER_2 [1076s - 1077s]
+Don't bother us for listening Omi.
+
+🎤 SPEAKER_1 [1080s - 1082s]
+Don and Omi.
+
+🎤 SPEAKER_2 [1083s - 1085s]
+And then Davis k the people Barnesi, who look terrible.
+
+👤 あなた [1087s - 1089s]
+Say, I assume.
+
+🎤 SPEAKER_1 [1096s - 1099s]
+Blackpool and then I do collage for I thought I was supposed to put this so product in it.
+
+🎤 SPEAKER_2 [1099s - 1100s]
+Product. Oh, yeah.
+
+👤 あなた [1101s - 1106s]
+Can be bothered. What? You be bothered. You haven't been at a visa.
+
+🎤 SPEAKER_2 [1106s - 1111s]
+I forgot. What do you mean I can be bothered? You like That that, no.
+
+👤 あなた [1111s - 1112s]
+Don't give me a big fat note for nothing.
+
+🎤 SPEAKER_2 [1113s - 1116s]
+No. I forgot. It doesn't mean someone can't be bothered.
+
+👤 あなた [1116s - 1119s]
+They usually say you can be bothered to do stuff. I do.
+
+🎤 SPEAKER_1 [1120s - 1121s]
+I forgot. Alright.
+
+🎤 SPEAKER_2 [1121s - 1123s]
+Well, you could get everything.
+
+👤 あなた [1123s - 1124s]
+Alright. Don't.
+
+🎤 SPEAKER_2 [1125s - 1126s]
+Mean I mean, does that mean you can't be bothered? No.
+
+👤 あなた [1131s - 1146s]
+Right. Put it in the I thought I'm quite surprised he got offended with that because he normally say it's gonna be bothered normally. Can I that's gonna be Yeah? Well, you can't you in some ways, can't really blame me. You know?
+
+👤 あなた [1146s - 1156s]
+For saying that because you normally say because you normally say I can't be bored for a little for everything. Do you want sweets or not? Yeah. Yeah. You can go to the car then if you're doing sweets. Yeah.
+
+👤 あなた [1157s - 1158s]
+I thought so.
+
+🎤 SPEAKER_2 [1158s - 1159s]
+No. No. I thought, yeah, I do want the car.
+
+👤 あなた [1159s - 1163s]
+I thought I'd take it back. Right? No. Take it back.
+
+🎤 SPEAKER_1 [1163s - 1163s]
+No.
+
+👤 あなた [1164s - 1164s]
+You said no.
+
+🎤 SPEAKER_1 [1166s - 1171s]
+Ow. The worst possible chuck ever.
+
+👤 あなた [1171s - 1172s]
+Oh, no. Who's that me?
+
+🎤 SPEAKER_1 [1172s - 1173s]
+No.
+
+👤 あなた [1173s - 1184s]
+When did you do that then? When did you do that? Does it permanently stink like that? Right. Okay. So we've gotta be quick.
+
+👤 あなた [1197s - 1207s]
+They're near for some drinks, I guess. Do they sell? Where? Is that all they got? Let's look for cans, guys. Let's look for cans.
+
+👤 あなた [1208s - 1208s]
+First of all.
+
+👤 あなた [1217s - 1221s]
+You got Pepsi? Can get Pepsi Max because It's a pack of four. Yeah. Put those down. That's not enough.
+
+🎤 SPEAKER_3 [1222s - 1222s]
+Well, look at that.
+
+👤 あなた [1222s - 1225s]
+It's it's some reason. Why is that reduced then?
+
+👤 あなた [1228s - 1235s]
+They're gonna be in fizz up. That's okay. Anyway, handed off. Right. Let's get some sweets in.
+
+👤 あなた [1243s - 1251s]
+We're probably gonna be doing, like Chase. Put a we're what we're gonna do is we're gonna gonna buy a pack of different things and they're gonna go into cups. So you can't have a whole bag of that to yourself, for example.
+
+🎤 SPEAKER_2 [1252s - 1254s]
+Big room. If I get this, everyone can have a lot.
+
+👤 あなた [1257s - 1257s]
+Yeah.
+
+🎤 SPEAKER_2 [1257s - 1259s]
+And they're gonna do it really, really hard.
+
+🎤 SPEAKER_1 [1259s - 1262s]
+Because these are fire you should only nick me
+
+🎤 SPEAKER_1 [1266s - 1267s]
+Fine.
+
+👤 あなた [1271s - 1273s]
+Did you pick those up for me, someone?
+
+🎤 SPEAKER_2 [1273s - 1273s]
+Jude?
+
+🎤 SPEAKER_1 [1274s - 1276s]
+$4.40.
+
+🎤 SPEAKER_2 [1276s - 1280s]
+Yeah. Know. Do like I used to I used to like freaking two hundred
+
+👤 あなた [1286s - 1287s]
+Can do.
+
+🎤 SPEAKER_1 [1289s - 1290s]
+Right.
+
+👤 あなた [1290s - 1291s]
+Remember they're not just for you and therefore?
+
+🎤 SPEAKER_1 [1298s - 1299s]
+Elliot might watch me.
+
+👤 あなた [1299s - 1304s]
+Alright. Pick up some just pick up some yeah. Loose. Yeah. That'll do.
+
+👤 あなた [1345s - 1346s]
+Yeah.
+
+🎤 SPEAKER_2 [1352s - 1352s]
+Yeah.
+
+👤 あなた [1355s - 1356s]
+It's Thank you, man.
+
+👤 あなた [1363s - 1366s]
+Mein für, da, wait for the continuation.
+
+🎤 SPEAKER_2 [1369s - 1371s]
+Right. There we are then.
+
+👤 あなた [1383s - 1385s]
+Nuts Okay. Can you grab a few things and grab a few things?
+
+👤 あなた [1389s - 1399s]
+Take take some I'll take the corn flake ones. Why? I don't anyone drop them. Why? Oh, just don't don't drop them then. Yeah. Might too.
+
+👤 あなた [1408s - 1413s]
+Anyone can drop it. I haven't can drop it. Oh, see? Just as I was literally saying it.
+
+🎤 SPEAKER_2 [1413s - 1414s]
+Wait.
+
+👤 あなた [1414s - 1416s]
+Well, stop. Stop. Tute. Let's walk around.
+
+👤 あなた [1420s - 1422s]
+No. I was gonna try to say is that anyone can drop anything?
+
+🎤 SPEAKER_2 [1424s - 1424s]
+No.
+
+👤 あなた [1427s - 1428s]
+Not there. Just have them in the back of you.
+
+👤 あなた [1438s - 1442s]
+No. We're not opening any sweets in the back of the now, We'd have to put them in the back in the back.
+
+🎤 SPEAKER_2 [1444s - 1446s]
+Oh, you're done with it wrapped up in the box, it?
+
+👤 あなた [1446s - 1452s]
+Yeah. Exactly. But if the drink's the same, the drink's the same. Who cares about the packet as far as I'm concerned?
+
+👤 あなた [1466s - 1469s]
+No. No. You can you can go that way if it's clear.
+
+🎤 SPEAKER_1 [1469s - 1472s]
+Oh, dad, you oh, you know you know what No.
+
+👤 あなた [1472s - 1479s]
+Normally, no. What the sign is, go left because usually this, like, a turn of traffic.
+
+🎤 SPEAKER_2 [1499s - 1500s]
+This street.
+
+🎤 SPEAKER_1 [1509s - 1512s]
+Money one. It's like 331.
+
+👤 あなた [1512s - 1517s]
+So is this this guy that said he won't cut his hair until money night wouldn't five times in a row? No. Yeah. It's been used in.
+
+🎤 SPEAKER_2 [1517s - 1517s]
+It's like someone's day.
+
+🎤 SPEAKER_1 [1517s - 1522s]
+Not cutting my hair until I just win five games in a row.
+
+🎤 SPEAKER_2 [1522s - 1523s]
+It's been, like, seven hundred days.
+
+🎤 SPEAKER_1 [1524s - 1526s]
+Yeah. His hand is, like, What's it?
+
+🎤 SPEAKER_2 [1529s - 1534s]
+If they told the 90 and up to twenty twenty four.
+
+👤 あなた [1534s - 1539s]
+24? Yeah. Oh, wow. So Some might say.
+
+🎤 SPEAKER_2 [1563s - 1566s]
+So, yeah, he got he's got a very big bull hair on him.
+
+👤 あなた [1567s - 1570s]
+So you saw people following him online for him? Yeah.
+
+🎤 SPEAKER_1 [1582s - 1588s]
+It's really just say how how big is fair is, I would say, like, this big head, but he's not like He's a big he's the average.
+
+🎤 SPEAKER_1 [1602s - 1607s]
+All show you I'll show you him where he gets him.
+
+🎤 SPEAKER_2 [1608s - 1610s]
+I'll give you a shot right now.
+
+👤 あなた [1610s - 1612s]
+Well, not right now. I'm driving, man.
+
+👤 あなた [1623s - 1628s]
+One person too late. Hopefully, they're not gonna park. We're we're gonna park.
+
+🎤 SPEAKER_1 [1628s - 1630s]
+Yeah. If they if they're gonna park, we'll
+
+🎤 SPEAKER_2 [1631s - 1631s]
+Ronnie.
+
+👤 あなた [1632s - 1635s]
+That it only came out in the other way at home, we might have been able to get the park.
+
+🎤 SPEAKER_1 [1638s - 1638s]
+No.
+
+👤 あなた [1650s - 1653s]
+Like a whole Why are you going ten miles an hour, man? Come on.
+
+👤 あなた [1657s - 1658s]
+I'm gonna go in mum's spot because
+
+🎤 SPEAKER_3 [1662s - 1663s]
+Think so.
+
+🎤 SPEAKER_1 [1671s - 1672s]
+Alright. Alright.
+
+🎤 SPEAKER_3 [1674s - 1676s]
+Alright. Eddie, why have you climbed out without grabbing stuff?
+
+👤 あなた [1676s - 1677s]
+No. No.
+
+🎤 SPEAKER_2 [1677s - 1678s]
+I'm I'm trailing that.
+
+👤 あなた [1678s - 1680s]
+I know. But I know that.
+
+🎤 SPEAKER_2 [1680s - 1681s]
+But wait. Let them look.
+
+👤 あなた [1681s - 1687s]
+Oh, yeah. That's pretty cool. Right. Drop him, please.
+
+🎤 SPEAKER_2 [1687s - 1690s]
+Please don't drop him. Because It's how big it's thinking it was.
+
+👤 あなた [1691s - 1695s]
+It's great. He got It is. What? I have to take the Mini out of your pocket Mini.
+
+👤 あなた [1698s - 1729s]
+If you drop them, a little bit later. You alright? We're gonna yeah. Did you say you're right? Yeah. We've got loaded we've got loaded sweets. Great. They can go into pots. They can go into pots.
+
+🎤 SPEAKER_3 [1730s - 1730s]
+Brilliant.
+
+👤 あなた [1732s - 1744s]
+Oh, is it on Sky, is it? No. Alright, mate. Well, I say no. I don't know. I got to see how to see. Oh, look. The quality look quality, dude. Look like it's on Sky. Yeah.
+
+🎤 SPEAKER_3 [1745s - 1746s]
+As I work from Do you like mustard in yours?
+
+👤 あなた [1746s - 1748s]
+Are you? Are you?
+
+👤 あなた [1752s - 1757s]
+Good. Makes sense. En helaas is Sveningen.
+
+🎤 SPEAKER_1 [1765s - 1766s]
+I got my face, please.
+
+👤 あなた [1766s - 1768s]
+Yeah. Hello, Bruce.
+
+👤 あなた [1772s - 1775s]
+Alright. You happy drinking tea from Cannon, or do you want oh, you have a cup you?
+
+👤 あなた [1782s - 1786s]
+Yeah. You good? That's not looking good, is it?
+
+👤 あなた [1791s - 1794s]
+Have we got no strikers again? Yeah. We got them out there.
+
+🎤 SPEAKER_3 [1798s - 1799s]
+Where's Robinson then?
+
+🎤 SPEAKER_1 [1799s - 1802s]
+Robinson is paying no.
+
+🎤 SPEAKER_2 [1802s - 1805s]
+Yeah. I'm gonna guessing they got him on because he's not paying Joel Collar and Stryker.
+
+👤 あなた [1806s - 1810s]
+Well, we haven't got a Stryker. That's the Look. How's your day been, dad? Alright? Thanks.
+
+👤 あなた [1814s - 1820s]
+Jude, why should why have you taken your chain off? Share. I've all yeah. I've packed in my spot.
+
+🎤 SPEAKER_3 [1820s - 1820s]
+Is that alright? Yeah.
+
+👤 あなた [1821s - 1822s]
+The one on the lap.
+
+🎤 SPEAKER_3 [1822s - 1824s]
+Come come and take your food.
+
+👤 あなた [1826s - 1831s]
+Medals or the Sauce on there, but your juice, I'm gonna pour it out. No. Yeah. Because the pins are dirty.
+
+🎤 SPEAKER_2 [1832s - 1832s]
+What?
+
+🎤 SPEAKER_3 [1833s - 1834s]
+It's red too.
+
+🎤 SPEAKER_2 [1834s - 1835s]
+I'll take Okay.
+
+🎤 SPEAKER_3 [1835s - 1835s]
+No.
+
+🎤 SPEAKER_4 [1835s - 1836s]
+The cans are dirty, son.
+
+👤 あなた [1836s - 1837s]
+You don't wanna put your lips on that?
+
+🎤 SPEAKER_3 [1837s - 1847s]
+Yeah. Don't put your lips on. Drink, it's called making sausage. Right? Sausage.
+
+🎤 SPEAKER_2 [1849s - 1850s]
+Catch it.
+
+🎤 SPEAKER_3 [1850s - 1852s]
+One, two, three. Okay.
+
+👤 あなた [1852s - 1855s]
+I I got it all right, boys. I got it all. Yeah. So it's all good.
+
+🎤 SPEAKER_3 [1855s - 1856s]
+Yeah. We're all good.
+
+👤 あなた [1858s - 1859s]
+This one feels good.
+
+👤 あなた [1873s - 1878s]
+Any of those, they're both cans pulled out. So it's just campaign.
+
+👤 あなた [1883s - 1889s]
+Great, dad. Thank you for doing this. Just the beast, innit? Yeah.
+
+🎤 SPEAKER_2 [1889s - 1889s]
+There's the bloody business.
+
+🎤 SPEAKER_3 [1889s - 1890s]
+Sourced is over there.
+
+👤 あなた [1890s - 1892s]
+It's keeping out of it. Is it yeah.
+
+🎤 SPEAKER_3 [1893s - 1897s]
+It's not here. Sausage is in the in the morning.
+
+👤 あなた [1897s - 1902s]
+Oh, yeah. Sound good. Yeah. She's she's catered for She's catered for? She's catered for.
+
+🎤 SPEAKER_3 [1903s - 1904s]
+She is catered catered for.
+
+👤 あなた [1906s - 1911s]
+Only those two drinks say on the pop top of the pop, well, I'll grab one hand. Sort of cans. Sorry, dad.
+
+👤 あなた [1916s - 1920s]
+You're it, Bruce? Let's see you, buddy. By where are seeing that?
+
+👤 あなた [1925s - 1928s]
+It's about seven different. What's kicked up, is it?
+
+🎤 SPEAKER_3 [1929s - 1932s]
+This conference. Hello, Bruce.
+
+👤 あなた [1934s - 1939s]
+Bruce away. It's alright, Elliot. Just move your plate then if you worry around.
+
+🎤 SPEAKER_3 [1939s - 1941s]
+It could go it'd be spinning
+
+👤 あなた [1942s - 1948s]
+Bruce, down. Come. Come on. Good boy. Good boy. Well done, Bruce.
+
+🎤 SPEAKER_3 [1948s - 1949s]
+Goodbye.
+
+👤 あなた [1973s - 1977s]
+That on that at all. You put that drink on there, Pops. In there.
+
+👤 あなた [1998s - 1999s]
+Chris, we're up too slow.
+
+🎤 SPEAKER_2 [1999s - 2001s]
+No. A watch.
+
+🎤 SPEAKER_3 [2002s - 2002s]
+Oh, well.
+
+👤 あなた [2058s - 2061s]
+It's not many teams that beat us. It's the physical teams we show us.
+
+👤 あなた [2068s - 2068s]
+Not well, ref.
+
+🎤 SPEAKER_3 [2075s - 2077s]
+They have switched to a four release that we used to four.
+
+👤 あなた [2077s - 2078s]
+But I'm trying to work out the
+
+🎤 SPEAKER_3 [2094s - 2095s]
+Why?
+
+🎤 SPEAKER_6 [2095s - 2096s]
+Up tall.
+
+🎤 SPEAKER_1 [2096s - 2099s]
+Wait. This one he won the caramel poppers.
+
+🎤 SPEAKER_2 [2099s - 2100s]
+Well, he's winning.
+
+🎤 SPEAKER_6 [2116s - 2121s]
+It's Clearly an aggressive right back. The captain, two goals, one assist so far this season. Actually,
+
+🎤 SPEAKER_6 [2133s - 2145s]
+Really interesting to sit behind the dugout under biography was the way of play. Encouraging inside to get the ball down Nice.
+
+👤 あなた [2145s - 2146s]
+Possible.
+
+👤 あなた [2186s - 2189s]
+Special Again, too slow. Come on, mate. It's only an extra foot.
+
+🎤 SPEAKER_6 [2197s - 2209s]
+We didn't pick a pass, but plenty of depth in there as well. Think Chambers over the last few months has been absolutely outstanding. Nice feeling to get bit of a rest this afternoon, but so many able players to play in that position.
+
+🎤 SPEAKER_3 [2211s - 2214s]
+That went higher than him, didn't he? Yeah.
+
+👤 あなた [2214s - 2218s]
+No. Uh-huh. Just to point a housekeeping, but that's why I went to West
+
+🎤 SPEAKER_6 [2218s - 2219s]
+Captain's Office.
+
+🎤 SPEAKER_3 [2244s - 2245s]
+Fish.
+
+🎤 SPEAKER_2 [2245s - 2246s]
+As much as you at the activity.
+
+👤 あなた [2249s - 2250s]
+Fish.
+
+👤 あなた [2259s - 2261s]
+As much Cauliflower We had quite a few come here as well.
+
+👤 あなた [2286s - 2286s]
+I'll Okay.
+
+👤 あなた [2299s - 2304s]
+We've also got Kate loads of sweets that are gonna go in cups after. Know, the Gronaway.
+
+👤 あなた [2330s - 2331s]
+They're open to win three. That's not happening.
+
+👤 あなた [2337s - 2338s]
+Sorry, Bruce. Should be back in a minute.
+
+🎤 SPEAKER_6 [2338s - 2339s]
+No?
+
+🎤 SPEAKER_3 [2342s - 2342s]
+Bruce?
+
+🎤 SPEAKER_2 [2344s - 2344s]
+I've won seven
+
+🎤 SPEAKER_1 [2376s - 2377s]
+For or May?
+
+🎤 SPEAKER_3 [2406s - 2409s]
+Just And you sat on the sofa, but you stare in the
+
+🎤 SPEAKER_3 [2430s - 2432s]
+No. Let me out human.
+
+👤 あなた [2480s - 2481s]
+Oh, Ali Tanner.
+
+👤 あなた [2491s - 2495s]
+Offside in a booking. What was planned for the training program?
+
+🎤 SPEAKER_3 [2502s - 2503s]
+First drink cake.
+
+🎤 SPEAKER_1 [2504s - 2505s]
+Pure's Jack.
+
+🎤 SPEAKER_3 [2506s - 2507s]
+Yeah.
+
+👤 あなた [2507s - 2514s]
+He's a Chicken oil. He's looking gassed in here at minute. Looking tired already. Ten minutes in.
+
+🎤 SPEAKER_3 [2520s - 2520s]
+Mhmm.
+
+👤 あなた [2545s - 2550s]
+No. They did it. Rob them there.
+
+🎤 SPEAKER_3 [2569s - 2571s]
+No. It's not about gym.
+
+👤 あなた [2574s - 2576s]
+As I finish, Bruce, I'll give you a cuddle, mate.
+
+🎤 SPEAKER_3 [2577s - 2578s]
+Oh, hey. Yep.
+
+👤 あなた [2599s - 2601s]
+As usual. That's a cooling I've asked, mom.
+
+🎤 SPEAKER_1 [2603s - 2605s]
+Where's your voice? Yay. That would be quiet.
+
+👤 あなた [2608s - 2609s]
+I bet then Chris will look.
+
+👤 あなた [2629s - 2635s]
+Bit reduced though. She might wanna pull me in the car. Right. Are they amount in 11 with me there?
+
+🎤 SPEAKER_2 [2661s - 2662s]
+Number.
+
+🎤 SPEAKER_3 [2669s - 2669s]
+I'm finished it in there first, it?
+
+🎤 SPEAKER_2 [2671s - 2674s]
+Same way, you have to finish. Yeah.
+
+👤 あなた [2674s - 2675s]
+Who is that?
+
+👤 あなた [2712s - 2714s]
+Yeah. They're doing the best for you.
+
+🎤 SPEAKER_3 [2714s - 2718s]
+Well, the upload and downloads you want to send to them. Yeah. It gets over a thousand sometimes. Yeah.
+
+👤 あなた [2718s - 2725s]
+That's good for thing about about you five. They do a very good upload. But half the price as well. Half the price.
+
+🎤 SPEAKER_2 [2728s - 2729s]
+Perfect. Yeah.
+
+👤 あなた [2734s - 2739s]
+I've and the another thing about U Fiber is that they don't they they don't track their prices at mid contract.
+
+🎤 SPEAKER_3 [2739s - 2740s]
+Yeah.
+
+👤 あなた [2748s - 2752s]
+So Well, the question is, Elliot, who's top of the league? Us. Yeah. So statistically, we're better than them.
+
+🎤 SPEAKER_2 [2770s - 2773s]
+The box. Oh. Oh, no. I'm gonna try to be one of them.
+
+👤 あなた [2773s - 2776s]
+Two clever Somebody just shoot, man.
+
+👤 あなた [2781s - 2783s]
+Who? Robertson. If he focus on it, he
+
+🎤 SPEAKER_2 [2783s - 2786s]
+never likes to shoot. Shoe. Really?
+
+👤 あなた [2787s - 2791s]
+He tried the they they both tried a back heel. What? Two back heels there.
+
+🎤 SPEAKER_3 [2791s - 2791s]
+One, No.
+
+🎤 SPEAKER_2 [2793s - 2796s]
+It is Three? Two. That's one.
+
+🎤 SPEAKER_3 [2797s - 2800s]
+K. H j Give me a skewer. Cheers.
+
+👤 あなた [2801s - 2802s]
+Oh, you should be on the oh, see.
+
+🎤 SPEAKER_1 [2810s - 2811s]
+N d the Yenji.
+
+🎤 SPEAKER_6 [2811s - 2811s]
+The Yenji.
+
+👤 あなた [2813s - 2818s]
+Know know, you can change your password to whatever you want on You Fiber Ads. G. Dive it devil that, I guess.
+
+🎤 SPEAKER_1 [2826s - 2827s]
+Nice. Nice.
+
+🎤 SPEAKER_2 [2879s - 2880s]
+Are they playing with
+
+👤 あなた [2881s - 2882s]
+Riz James.
+
+🎤 SPEAKER_3 [2883s - 2888s]
+Of course, like Oh, that's a foul. How long are these teams just He can't do the way as well.
+
+🎤 SPEAKER_3 [2893s - 2894s]
+Doesn't look like.
+
+👤 あなた [2894s - 2897s]
+Thankfully. So late.
+
+🎤 SPEAKER_4 [2897s - 2898s]
+What was you thinking there?
+
+👤 あなた [2912s - 2913s]
+Oh, that was Anything something good on for you today, Kate?
+
+🎤 SPEAKER_3 [2928s - 2929s]
+In the pub?
+
+👤 あなた [2935s - 2936s]
+No. No.
+
+
+---
+
