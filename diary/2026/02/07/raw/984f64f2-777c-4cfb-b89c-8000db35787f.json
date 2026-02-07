@@ -1,0 +1,103 @@
+{
+  "id": "984f64f2-777c-4cfb-b89c-8000db35787f",
+  "created_at": "2026-02-07T13:13:25.728278+00:00",
+  "started_at": "2026-02-07T13:08:44.674268+00:00",
+  "finished_at": "2026-02-07T13:14:24.364536+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "痛みへの心配と声かけの一言",
+    "overview": "誰かが痛みを感じている状況で、「痛い」「大丈夫」といった短い言葉が交わされ、相手を気遣う場面が切り取られている。具体的な状況や今後の予定などは言及されていない。",
+    "emoji": "🤕",
+    "category": "real",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "6323e890-4e2c-4a1c-aecc-770acf459b23",
+      "text": "痛い大丈夫",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.76837158203125e-07,
+      "end": 10.021374523162843,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "2949fe55-1a49-4ec8-9f8b-165fa909551b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "984f64f2-777c-4cfb-b89c-8000db35787f",
+      "chunk_timestamps": [
+        1770470000.299,
+        1770470005.905,
+        1770470010.986,
+        1770470016.105,
+        1770470021.115,
+        1770470026.354,
+        1770470032.454,
+        1770470038.519,
+        1770470044.214,
+        1770470049.255,
+        1770470055.359,
+        1770470060.436,
+        1770470065.452,
+        1770470070.753,
+        1770470075.865,
+        1770470080.838,
+        1770470086.027,
+        1770470092.227,
+        1770470097.304,
+        1770470102.472,
+        1770470108.457,
+        1770470114.601,
+        1770470120.615,
+        1770470125.598,
+        1770470130.731,
+        1770470135.798,
+        1770470140.813,
+        1770470145.807,
+        1770470151.075,
+        1770470156.465,
+        1770470162.622,
+        1770470167.704,
+        1770470172.642,
+        1770470177.674,
+        1770470182.95
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-07T13:13:20.299000+00:00",
+      "duration": 187.651
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 体調・状況\n- 相手が「痛い」と訴えている  \n- すぐに「大丈夫？」と心配の声かけあり  \n\n## 次のステップ\n- 痛みの場所と程度を詳しく確認する  \n- 必要なら休憩や医療機関の受診を促す"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
