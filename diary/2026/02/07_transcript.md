@@ -3645,3 +3645,32 @@ Say what I want.
 
 ---
 
+
+
+## 📝 Discussion On Rights, Protests, And Policing - c6af4c0a-396f-49b4-bb8b-aa999ee1a723
+
+**記録時間**: 2026-02-07 23:23:43
+
+### STT生テキスト
+
+🎤 SPEAKER_7 [0s - 1s]
+Sorry about the curly?
+
+🎤 SPEAKER_3 [5s - 6s]
+I feel heartbroken about what's happened in
+
+🎤 SPEAKER_12 [6s - 11s]
+The United States when it you know, I'm I'm preach here you're referencing ice and some of the protests and things like that.
+
+🎤 SPEAKER_12 [13s - 18s]
+I think that as a country, we need to focus on respecting everybody's rights.
+
+🎤 SPEAKER_2 [51s - 57s]
+And making sure is mainly Asian men, not because it's something about their culture, but because they're not getting caught. Like, I've had friends who've been raped and the police have told them
+
+🎤 SPEAKER_8 [72s - 74s]
+Like, it's it's just such a divide.
+
+
+---
+
