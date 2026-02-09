@@ -7846,3 +7846,1619 @@ Miyuちゃんは まだやる気が出ないみたい
 
 ---
 
+
+
+## 📝 Church Team Refines Sunday Hospitality Operations - c645f5a6-850f-4101-a25d-06130dc03229
+
+**記録時間**: 2026-02-09 23:11:17
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+Hello.
+
+🎤 SPEAKER_2 [0s - 12s]
+Welcome. Sarah. Hello. Sorry. Come in. Sarah, wait. It's okay. Just come push it. Take these off. There we are. Okay. Good. How are you, Sam?
+
+🎤 SPEAKER_1 [12s - 14s]
+Very good. Enjoy the cakes.
+
+🎤 SPEAKER_2 [14s - 15s]
+Hello, everybody. Sorry, I'm so
+
+👤 あなた [16s - 18s]
+Oh, good.
+
+🎤 SPEAKER_1 [20s - 26s]
+I'm okay. We're back. Oh,com.
+
+🎤 SPEAKER_2 [26s - 35s]
+com now, Denise, You okay? Yeah. Now look at this. I know. So it's baked for this occasion? Of course.
+
+🎤 SPEAKER_1 [35s - 37s]
+Wow. Hi, Louis.
+
+🎤 SPEAKER_2 [38s - 43s]
+Oh, Louis, chocolate cake is legendary. And then do you want to I will. Wow. That's amazing. Little fruit.
+
+🎤 SPEAKER_1 [43s - 51s]
+In. Alright. Amazing. And that would really Thank you, Anna. Hello, little fella.
+
+🎤 SPEAKER_2 [54s - 54s]
+How's Steve today?
+
+🎤 SPEAKER_1 [64s - 66s]
+Water and and No.
+
+🎤 SPEAKER_2 [68s - 72s]
+I'm okay for now. I've had lots to drink today. It's a real idea. Right. What what are you where are you two sitting?
+
+🎤 SPEAKER_2 [82s - 86s]
+At that, anybody? For even. You know? Will it be Me now? Me me now.
+
+🎤 SPEAKER_2 [90s - 91s]
+Have to bring your chair in in a minute.
+
+🎤 SPEAKER_1 [101s - 101s]
+I think I have.
+
+🎤 SPEAKER_2 [124s - 125s]
+So Okay. Yeah. Go on.
+
+👤 あなた [125s - 126s]
+I'll go. Yeah.
+
+🎤 SPEAKER_1 [126s - 126s]
+Yep.
+
+🎤 SPEAKER_1 [130s - 129s]
+The on. Okay.
+
+🎤 SPEAKER_1 [137s - 138s]
+I thought you played the game then.
+
+🎤 SPEAKER_1 [167s - 168s]
+Anyway
+
+🎤 SPEAKER_1 [177s - 188s]
+And it's really, really is appreciated. It's not all the easiest time serving in hospitality because it can get very busy and very noisy all at once.
+
+🎤 SPEAKER_4 [188s - 192s]
+So thank you all. And Sarah and Sophie, welcome.
+
+🎤 SPEAKER_3 [192s - 194s]
+Really? Welcome. Thank you for stepping up.
+
+🎤 SPEAKER_4 [194s - 218s]
+Yeah. So we wanted to hold this. We're two. Thank you all and encourage you to keep going. Because we do really appreciate you, we do need you. Obviously, is missing, so I'll do some notes and pass it on to everyone afterwards. We is here to help oversee because we're doing some changes.
+
+🎤 SPEAKER_4 [220s - 236s]
+Hopefully, to make things run smoother. And also because hospitality does impact on the rest of the service too. So we we're looking at ways of how we can adapt things we've got a smooth running all the way through.
+
+🎤 SPEAKER_4 [236s - 255s]
+And also part of God First, people there in leadership or serving, we like them to have a break once a month from serving so that they can sit, enjoy, fellowship with one another. As you all know, Ryan and Steve are there every Sunday morning.
+
+🎤 SPEAKER_4 [257s - 264s]
+They have the chairs setting up, doing all that they do in such a good But we're looking, and it won't be marked. It'd probably eight for me.
+
+🎤 SPEAKER_4 [265s - 296s]
+To give them one seventy when they can just rocket And I I know she's not looking forward to it there to rock her, but just part of the fellowship. Yep. And just have I just have a Sunday off really because sometimes when you're surfing all the time, you don't get that time just sit and Yeah. Welcome you people get to know people, and you can be yourself out. So Godfurst sets a real good example of that, and you're doing it through all the ministries, isn't it?
+
+🎤 SPEAKER_1 [296s - 297s]
+Yeah.
+
+🎤 SPEAKER_2 [297s - 309s]
+And on top of that, won't say much though, but other than that, it also creates space for others too. So it's both it's a dual thing. It's modeling goodly leadership rest because leaders that burn themselves out are not good models or leaders at all.
+
+🎤 SPEAKER_2 [310s - 318s]
+And also, create space for the next people to come through as well. So it's it's kind of a strategically thing and it's kind of a jewel fork kind of thing.
+
+🎤 SPEAKER_1 [320s - 320s]
+Yeah.
+
+🎤 SPEAKER_4 [321s - 344s]
+With that, we're I will be sending out an email to get all your availabilities, getting you to it this time. Thank you very much. But, obviously, we come into the end of this room. So in the next room, we'll have these two lovely ladies on as well. But we're gonna have a a team of one two. The number ones, I want with the legs.
+
+🎤 SPEAKER_4 [344s - 374s]
+You to be there at Papa Franklin to 10 towards Side Rana for setting up and just knowing where everything goes I know most of you have done bits and pieces, but it's just we're gonna do it with everyone so that we're all sitting off the same hidden sheet. I've with Rana's help, did a a four prompt thing. We'll take another photo and put back with it as well so everybody can just set it up and know where it goes.
+
+🎤 SPEAKER_4 [374s - 388s]
+I've done labels for all the boxes as well with what's in each of them. It'll save time knowing where things are and for putting away at the end because sometimes we're rummaging through boxes.
+
+🎤 SPEAKER_4 [389s - 401s]
+And that obviously takes up more of your time. Because what we don't want is you just been running around like headless chickens and not enjoying the service. So that's a couple of change couple of changes.
+
+🎤 SPEAKER_4 [404s - 412s]
+We're also so we work through everyone. Everyone will be a number one at some point just so that everybody knows the same score.
+
+🎤 SPEAKER_4 [412s - 421s]
+Alright? And then there'll be a week where Rana doesn't come and set up and number one and number two will have to be there at half past nine, quarter ten.
+
+🎤 SPEAKER_4 [422s - 425s]
+Because you'll be doing the lot. Is that okay? Mhmm.
+
+🎤 SPEAKER_1 [425s - 428s]
+Yep.
+
+🎤 SPEAKER_4 [428s - 441s]
+So I know it's gonna be a bit more difficult maybe with Lipidone. Are you able to do you want to just stay as a number two at not come from early at all? If possible. Yeah? No. That's fine. One of That's fine.
+
+🎤 SPEAKER_1 [441s - 443s]
+Yes. Fine. Okay.
+
+🎤 SPEAKER_4 [443s - 452s]
+Lovely. The other things we could lift in at, because people are coming nature and nature, hospitality is going over serving.
+
+🎤 SPEAKER_4 [456s - 464s]
+Which is very upward for whoever's hosting Albert from. Because I'm going to shout over people because they're all talking at the back.
+
+🎤 SPEAKER_4 [464s - 473s]
+So what we're looking to do is when it get the time that gets to three minutes, left to go, all the hot drinks are gonna get taken off the table.
+
+🎤 SPEAKER_4 [473s - 492s]
+We're gonna stop serving and put them in the kitchen We did wonder about the food, but we're gonna leave all that, aren't we? So it will take away the hot drinks Just say sorry, but we've stopped And there will obviously still be more break time.
+
+🎤 SPEAKER_4 [492s - 501s]
+So they all will come back out. And at the end of break, we're gonna take it all away as well to stop. And you're gonna start the area then about the case or not?
+
+🎤 SPEAKER_1 [501s - 504s]
+Like, you normally start a quarter to come in.
+
+🎤 SPEAKER_4 [504s - 510s]
+Yeah. We can start at twenty at twenty two if if you're all set up and ready to go.
+
+🎤 SPEAKER_4 [511s - 522s]
+There's no reason why you can't And what we're hoping is the people on I'll remind them on welcome. They need to be encouraging people upstairs rather than a big group downstairs chin wagging.
+
+🎤 SPEAKER_4 [522s - 538s]
+And then you get 10 people all at once at hospitality. Which obviously takes a little bit time to go through. We've also started doing instead of individual hot chocolates because they're very popular and they take forever, don't they?
+
+🎤 SPEAKER_4 [538s - 546s]
+We are making them up into one of the big So teaspoons in a jerk, I did 33 this week.
+
+🎤 SPEAKER_1 [552s - 558s]
+I know. I know. I'm not sure. I've done 33. And I think that was okay this week, wasn't it?
+
+🎤 SPEAKER_4 [559s - 560s]
+Well, nobody's doing blame from No.
+
+🎤 SPEAKER_1 [561s - 570s]
+I was say ask Nico. Is Nico is the one people. Oh, okay.
+
+🎤 SPEAKER_4 [570s - 573s]
+Anyway, that's what's on my list now. Yeah. Because I Sometimes it was hot.
+
+🎤 SPEAKER_1 [573s - 577s]
+Yeah. Okay. If you could written it down We went over some We went from thirty seven, and we don't I know.
+
+👤 あなた [578s - 581s]
+I know. Sorry.
+
+🎤 SPEAKER_4 [581s - 591s]
+It just mixing it and the rest of it. He thinks I think so too, mate.
+
+🎤 SPEAKER_1 [591s - 604s]
+It's really yeah. So we make it in a plastic jug with the 30 teaspoons. Okay. And then put it into the thing, and then just top the water book up to the top. I'll give it a stirrer.
+
+🎤 SPEAKER_4 [604s - 607s]
+Yeah. And it's worked really well since we've done that at
+
+🎤 SPEAKER_1 [607s - 607s]
+Christmas.
+
+🎤 SPEAKER_4 [609s - 621s]
+And that again reduces the cue. We will put out an email as well for people that if or WhatsApp. If people want drinks, they need to be there.
+
+🎤 SPEAKER_4 [622s - 644s]
+Early enough to have them. Otherwise, obviously, there is a second break they can have to rinse them. But it's just getting very noisy at the van and it's just service not flow as well, isn't it? So we just thought if we can do it that way. But so that that means we've got to keep an eye on the timer as well.
+
+🎤 SPEAKER_1 [645s - 646s]
+So it's why you need to all work to do your fitness.
+
+🎤 SPEAKER_4 [646s - 654s]
+And just just apologize and just say sorry. We need to but once we've got the WhatsApp, then
+
+🎤 SPEAKER_1 [655s - 655s]
+Yeah.
+
+🎤 SPEAKER_2 [655s - 659s]
+Blame me. Blame me if you want. So I do. I do. Do.
+
+🎤 SPEAKER_4 [659s - 660s]
+I find it the same.
+
+🎤 SPEAKER_1 [660s - 661s]
+I think it's you
+
+🎤 SPEAKER_4 [661s - 717s]
+you get a Right? On 11:00, don't you? Yeah. And you're trying to go and sit down and have a appointment. Because lots of people want a little bit of quiet when they come into church as well. So they've had their cup of tea They go and sit down with their drinks, and they just want to you know, And then it's very hard when there's a lot of clatter and cups and all the rest of it. So we're trying to look after everyone. We're going to encourage the parents again to have their children or whoever, not just parents, whoever brings children to sit down as well before eleven. So haven't got all that running around. It's it's nice to have a little bit of peace just to clear your thoughts sometimes because we come from a mad world. Well, I do you may not You your old world may be nice, but always rushing around, and sometimes you just need a couple of minutes Mhmm.
+
+🎤 SPEAKER_1 [717s - 721s]
+Just to Well, that's it. Sundays are meant to be relaxing, aren't they?
+
+🎤 SPEAKER_4 [721s - 735s]
+Yeah. They are. They are. And some we sometimes make it busier than a weekday. Yeah. So we we can do that, I think we we all meet more people's needs then, which is what family's about, isn't it?
+
+🎤 SPEAKER_4 [739s - 747s]
+So, yeah, so I will email everybody one of the sheets. The prompt ones. There will be a laminated one in the box as well, so worry.
+
+🎤 SPEAKER_4 [747s - 774s]
+Be lists on the top, and, obviously, they can be altered if we change things, people start thinking we need to be doing different drinks or doing things slightly different, we can alter things. It's not set in stone. It's just to get us rolling for now so that we're all doing the same. And it's good that we all know so that when we get people like Roxy and Helen who occasionally step in you can then guide them to the new things.
+
+🎤 SPEAKER_4 [775s - 785s]
+And, hopefully, there'll be more people stepping up as we grow as a church, then we've got a foundation for everybody. Mhmm. So does that sound alright?
+
+🎤 SPEAKER_4 [786s - 799s]
+Yeah? Anybody got any ideas or any thoughts of how we can, again, either improve or change or for in the future to look at things differently?
+
+👤 あなた [800s - 801s]
+Do you have a suggestion box maybe?
+
+🎤 SPEAKER_4 [802s - 804s]
+You can always message me.
+
+🎤 SPEAKER_1 [804s - 805s]
+Always message me for the people who actually reserved it.
+
+🎤 SPEAKER_4 [808s - 808s]
+Oh, for the yeah.
+
+🎤 SPEAKER_2 [808s - 809s]
+Suggestion must. Yeah.
+
+🎤 SPEAKER_6 [809s - 817s]
+Or so for yeah. I don't know. Just you're saying that people need to say what they like this or they like the coffee or whatever. Mhmm.
+
+🎤 SPEAKER_6 [818s - 820s]
+People don't always say what they really wanna say.
+
+🎤 SPEAKER_4 [821s - 825s]
+So They rather write it and be a nominal. Just a Yeah. Yeah. No. That's a good work.
+
+🎤 SPEAKER_6 [825s - 843s]
+We can do that. Sometimes sometimes. That we give is a bit it's not really healthy. I mean, on occasion, sometimes you've got a lot of chocolate. No. I just I know.
+
+🎤 SPEAKER_4 [843s - 846s]
+You could just say, please. Say, please. And we should be
+
+🎤 SPEAKER_4 [850s - 853s]
+Do I think every week rather get so fruit and stuff?
+
+🎤 SPEAKER_6 [853s - 856s]
+Yeah. It is so we can do it. Yeah.
+
+🎤 SPEAKER_4 [856s - 866s]
+And the kids have an option. Of bread or, you know, breadsticks and stuff. But, yeah, we look at different things. I mean, most of my cakes, they're very healthy.
+
+🎤 SPEAKER_1 [866s - 867s]
+Right.
+
+🎤 SPEAKER_1 [872s - 873s]
+So some weeks, we don't know we always know what people are bringing for a start even though we've asked.
+
+🎤 SPEAKER_4 [873s - 890s]
+If you were to let us know. And if we know in advance, then, obviously, Rana and whichever one of us is there, we can get out something completely different to what is being bought because there's all this pre stuff ready for us.
+
+🎤 SPEAKER_4 [893s - 898s]
+But, yeah, any suggestions of more healthy stuff? Please? I like a bit of stodge on some stick.
+
+👤 あなた [899s - 900s]
+Yeah.
+
+🎤 SPEAKER_1 [900s - 902s]
+Was joking.
+
+🎤 SPEAKER_4 [902s - 904s]
+I like my stuff, though.
+
+🎤 SPEAKER_6 [913s - 915s]
+Now and then, you get one hour on the table.
+
+🎤 SPEAKER_1 [915s - 920s]
+Well, you were left off when I buy it. Every week. I will buy you bananas.
+
+🎤 SPEAKER_6 [920s - 921s]
+I do like I do like bananas. I don't know.
+
+🎤 SPEAKER_2 [922s - 924s]
+Bananas, I'll tasty. Fruit fruit would be good.
+
+🎤 SPEAKER_4 [925s - 927s]
+More know? Yep. They fill you a bit more.
+
+🎤 SPEAKER_2 [927s - 927s]
+Yeah.
+
+🎤 SPEAKER_4 [927s - 929s]
+Yeah. Could we get the little ones? Yeah.
+
+🎤 SPEAKER_1 [934s - 934s]
+Yeah.
+
+🎤 SPEAKER_2 [957s - 958s]
+Yeah.
+
+🎤 SPEAKER_1 [958s - 958s]
+Yeah.
+
+🎤 SPEAKER_4 [958s - 960s]
+I only used to buy it when it was on the shop.
+
+🎤 SPEAKER_1 [961s - 965s]
+But yeah. And sometimes Yeah. She's got some leftover.
+
+🎤 SPEAKER_4 [965s - 967s]
+Yeah. Yeah.
+
+🎤 SPEAKER_1 [967s - 970s]
+And I bought it. If I bought my hydro and it's too big, I bought it in there.
+
+🎤 SPEAKER_1 [973s - 976s]
+But that more watermelon. Yeah. Yeah.
+
+🎤 SPEAKER_2 [976s - 977s]
+It's pricey.
+
+🎤 SPEAKER_4 [978s - 990s]
+And Yeah. And we've gotta be good stewards of God's money at the end of the day, so that gets taken into account. We'd all wanna be we can be lavish, but not overlavish. Yeah. But in that way That's right.
+
+🎤 SPEAKER_1 [990s - 992s]
+Yeah. Well, let's give a bite.
+
+🎤 SPEAKER_4 [992s - 996s]
+I buy on offers. Yeah. I used to, you know Yeah.
+
+🎤 SPEAKER_1 [997s - 1007s]
+I think the most expensive thing buy is when I go to Costco, I buy those short breakfast chocolate in. They, more often than not, will last me two weeks.
+
+🎤 SPEAKER_2 [1008s - 1009s]
+Very good.
+
+🎤 SPEAKER_1 [1009s - 1011s]
+Yeah. Everything I have. Yeah.
+
+🎤 SPEAKER_4 [1012s - 1013s]
+No. You do with the bath Yeah.
+
+🎤 SPEAKER_2 [1013s - 1032s]
+Do you do great. Too. Yeah. On a related note, we are looking at managing our money more carefully going forward. That's not to say that the hospitality we have a decrease in budget but as far as more we've never given you a specific budget to work to anyway. So that'll that'll be coming that'll be coming soon.
+
+🎤 SPEAKER_2 [1033s - 1043s]
+Because at the moment, it's been okay. It's absolutely fine. We're we're in a little surplus but but yeah. So, yeah, you're doing a good job. You're doing a great job.
+
+🎤 SPEAKER_2 [1068s - 1074s]
+Sometimes Johnny and Michelle And we might have to go that way more if if in the future we have to trim the budget a bit. But that's fine.
+
+🎤 SPEAKER_4 [1075s - 1082s]
+We did for Christmas. We put it out. Everybody just jumped board and it's a way that we can bless one another, isn't it? If you can cook, cook.
+
+🎤 SPEAKER_4 [1083s - 1096s]
+If not, bring us something with a good soda by daytime. Another thing. Check. The boxes that we use, obviously, in dates Yeah. Order the stuff that we're putting out. So we don't wanna be throwing anything away.
+
+🎤 SPEAKER_4 [1098s - 1104s]
+And you normally keep a bit of a surplus here, don't you, as well as in the boxes? The usual boxes. You normally chop it. Yeah.
+
+🎤 SPEAKER_6 [1106s - 1111s]
+I was gonna say something else there. Chop the cakes makes the hell of the mess and a whole lot. Yeah.
+
+🎤 SPEAKER_4 [1111s - 1117s]
+I'm I don't do that. I know. I'm just I'm just check. Say it like Yeah. I do it more. Especially That's clean. Yeah.
+
+🎤 SPEAKER_2 [1120s - 1136s]
+It is. We'll we used to do plates, but I think the cost of it, everything. Yeah. We're gonna be by I think we're gonna be by the Huber. We've got one already, but it's we need a bigger one. I think the whole thing about the plates was it's easy with a napkin, it, to serve?
+
+🎤 SPEAKER_1 [1138s - 1140s]
+It's just expensive to buy bags all the time.
+
+🎤 SPEAKER_3 [1140s - 1140s]
+Yeah.
+
+🎤 SPEAKER_1 [1140s - 1143s]
+I if you buy plates, then people fill them up.
+
+🎤 SPEAKER_2 [1143s - 1144s]
+Yeah.
+
+🎤 SPEAKER_1 [1144s - 1146s]
+And their eyes They feel like they're napkins.
+
+🎤 SPEAKER_6 [1146s - 1148s]
+Come on. That big, isn't it? Well, mind you, people can't
+
+🎤 SPEAKER_6 [1161s - 1164s]
+Oh, no. The kids are the kids, though.
+
+🎤 SPEAKER_1 [1168s - 1177s]
+If I'm I know Frank's back and forward to the forth to the table because it you know, you do wanna encourage sharing, and it's not fair if, like, part of the stuff's gone in the first ten minutes. Yeah.
+
+🎤 SPEAKER_4 [1177s - 1179s]
+We're not in the WhatsApp if you want anything.
+
+🎤 SPEAKER_6 [1179s - 1181s]
+Get it really. Yeah. Yeah.
+
+🎤 SPEAKER_2 [1182s - 1189s]
+So we need to have a a nice gently encouraging word with the parents about about about that side of things?
+
+🎤 SPEAKER_1 [1189s - 1196s]
+Is there any really tea fair, it's only really frankly. Any doesn't think they don't come with the parents. Yep. Yeah. Yeah.
+
+🎤 SPEAKER_2 [1197s - 1209s]
+I know. But, I mean, I'm thinking more generally rather than individuals. Like Jude for example, I know he can be a bit cheeky. He he can get a few things before. Rachel and I often doing things, so he's he's helping himself and a few of the other kids too.
+
+🎤 SPEAKER_1 [1211s - 1213s]
+Do usually ask to prepare those.
+
+🎤 SPEAKER_4 [1213s - 1215s]
+Do I? Yeah. The first time.
+
+🎤 SPEAKER_2 [1219s - 1229s]
+The Matter step up when I was a kid in church. It used to be rich tea, custard cream. And then kids used to try and get two or three custard creams and then same issue. You get them.
+
+🎤 SPEAKER_6 [1232s - 1236s]
+You should be able to so it's about a little bit in the head. Yeah. And that's something old too eat before they go down.
+
+🎤 SPEAKER_1 [1236s - 1239s]
+The children don't usually eat things in the in the second break.
+
+🎤 SPEAKER_1 [1249s - 1268s]
+Yeah. Maybe I wonder if a thought would be Yeah. Especially if you wanna reduce budget, that you simplify it, say, Sundays in a month, and then you have a load of cake on one Sunday of the month. You have a special day. And then the other Sundays, you just have something a bit more basic.
+
+🎤 SPEAKER_1 [1270s - 1275s]
+I'm Jess I mean, I love cake, but I mean, I'm just through ideas if you wanna reduce the budget. That's Yeah. That's helpful.
+
+🎤 SPEAKER_4 [1275s - 1279s]
+So maybe we put out as much to start with. Yeah?
+
+🎤 SPEAKER_1 [1279s - 1279s]
+Yeah.
+
+🎤 SPEAKER_4 [1279s - 1293s]
+And then if we have an overflow with which Yep. We are going to have at some point, we can then top up the table. I mean, it's literally That's how you should do. Yeah. Normally, it's jam packed that one table, is it? And foods, we could reduce it slightly.
+
+🎤 SPEAKER_2 [1294s - 1297s]
+What? And stagger it. Bringing out on a Sunday. Yeah.
+
+🎤 SPEAKER_4 [1297s - 1298s]
+Should be cut as well. Yeah. Yeah.
+
+🎤 SPEAKER_6 [1299s - 1304s]
+Because Yeah. No. We usually do the whole thing, and it's just Yeah. Because I took them inside.
+
+🎤 SPEAKER_1 [1304s - 1307s]
+That's She chopping them for. Yeah. Well, I've been cutting half of them in half.
+
+🎤 SPEAKER_5 [1311s - 1313s]
+Because she's just taking on every one. Yeah.
+
+🎤 SPEAKER_2 [1313s - 1314s]
+Sorry. So if you're still getting used to that?
+
+🎤 SPEAKER_1 [1314s - 1315s]
+Yeah.
+
+🎤 SPEAKER_2 [1319s - 1321s]
+I know. There's a special we've got a visit guest a gasphystizer me.
+
+🎤 SPEAKER_2 [1326s - 1336s]
+Yeah. Yeah. Yeah. But in terms of budget, we're not we're not restricted yet. We used to have breakfast every Sunday as a church, it was a deliberate thing to be very generous in hospitality.
+
+🎤 SPEAKER_2 [1337s - 1349s]
+Because God's generous. And so it was it's kind of like everything we do is there's something else behind it. So it's it's nice to have an iced cake and coffee on Sunday, but we also want to say We have to have some grilled We that's coming.
+
+🎤 SPEAKER_4 [1349s - 1359s]
+That is coming. Yeah. We've got a breakfast coming up in March on the fifteenth, but we're gonna cut it back slightly, and then we will have a green and Yeah.
+
+🎤 SPEAKER_2 [1360s - 1362s]
+Excuse me. Yeah.
+
+🎤 SPEAKER_4 [1363s - 1366s]
+Wish man What's the We used to do a lunch if we well, once a
+
+🎤 SPEAKER_6 [1366s - 1367s]
+Was it a week?
+
+🎤 SPEAKER_2 [1367s - 1376s]
+Every Sunday we used to do lunch, but we can't do lunch now. We can't do lunch now because there's another church in after us in the building. So it has to be breakfast.
+
+🎤 SPEAKER_2 [1376s - 1380s]
+Bring and share breakfast, which is fine. Yeah.
+
+🎤 SPEAKER_6 [1380s - 1384s]
+You've got to think of know? I mean, breakfast is is expensive. Anyway. You know?
+
+🎤 SPEAKER_4 [1384s - 1398s]
+And that's why we share it out again. I'll put a list with it together. We'll put a list out of what we need. Yeah. And then people just tick off what they can afford to bring. And you can't, it's not a big deal because nobody else knows.
+
+🎤 SPEAKER_4 [1399s - 1412s]
+You know? So it's never it's never done to look at people that can't afford to do stuff. It's it's just there that we can be a family and support one another really. Ain't it? Yeah.
+
+🎤 SPEAKER_4 [1414s - 1436s]
+On the day so we do do, like, on the fifteenth, the breakfast, obviously, we would look for extra help per week for serving, setting up, all the rest. So that one will be up completely different, but the others, obviously, they're the ones that are get you all to come early once, and then we'll set another rotor and those that run number one.
+
+🎤 SPEAKER_4 [1437s - 1460s]
+Will come early, and the number then can come a bit later. Ten, quarter past ten. Alright. It's so we we all know basically what's going on because some days you come in a bit dizzy, and my brain's not always working. So it's nice to work with someone who knows as well so that you can flow, which is the best way to put things out. Is that alright?
+
+🎤 SPEAKER_4 [1460s - 1476s]
+Yeah? Christmas, obviously, we did really well with all the different things. They worked well. And I we have the bill for church was a lot less than the year before because everybody stepped up and did step in on it. We'll tweak.
+
+🎤 SPEAKER_4 [1477s - 1481s]
+We'll the list of food for next time. We certainly don't need as many mince pies. No.
+
+🎤 SPEAKER_1 [1481s - 1487s]
+Oh. Are not interested. The first Sunday after Christmas, Christmas, the mince price went. Yeah. And then I put them out the next two Sundays because I have Everyone's done with them.
+
+🎤 SPEAKER_2 [1488s - 1491s]
+Yeah.
+
+🎤 SPEAKER_4 [1491s - 1494s]
+So so we will we'll sit down once we call we next year when we but yeah, your full foot went down really well.
+
+🎤 SPEAKER_2 [1500s - 1502s]
+You did? I did Ronald's cupcakes.
+
+🎤 SPEAKER_4 [1502s - 1503s]
+Yeah.
+
+🎤 SPEAKER_1 [1503s - 1505s]
+Yeah. I did.
+
+🎤 SPEAKER_2 [1505s - 1506s]
+But the tragedy, the
+
+🎤 SPEAKER_2 [1512s - 1515s]
+Don't worry it's fine. I'm on sugar wrap from this.
+
+🎤 SPEAKER_4 [1520s - 1522s]
+I'm on a on hospitality? At the moment, it's us and
+
+🎤 SPEAKER_5 [1523s - 1523s]
+Nick.
+
+🎤 SPEAKER_4 [1523s - 1537s]
+Nick's the only one missing. Alright. So it will come around probably once a month, maybe twice a month. To start with because, obviously, you you will be doing an early swelling.
+
+🎤 SPEAKER_4 [1540s - 1551s]
+So, yeah, having when always looking for people that are capable and able to do it God first is a church that wants everybody to be up and soothing. Yeah. Know?
+
+🎤 SPEAKER_4 [1552s - 1557s]
+She is, but she commit. Same as Helen. They won't commit. So I missed that.
+
+🎤 SPEAKER_1 [1557s - 1557s]
+What did you say?
+
+🎤 SPEAKER_4 [1558s - 1561s]
+Roxy's Oh, sorry. Roxanne was called Roxy.
+
+🎤 SPEAKER_2 [1566s - 1568s]
+Is she It's Rox or Roxanne. Yeah. Right.
+
+🎤 SPEAKER_4 [1568s - 1572s]
+Okay. Yeah. But, no, she was good, Hansen. She will. And she helps with used to do it.
+
+🎤 SPEAKER_6 [1573s - 1574s]
+She doesn't know anymore.
+
+🎤 SPEAKER_4 [1575s - 1581s]
+No. The noise and everything else was just too much of the pressure. Yes. Too stressful for her.
+
+🎤 SPEAKER_1 [1581s - 1584s]
+And she's greatly unwelcoming. Yeah. Because she's up early.
+
+🎤 SPEAKER_6 [1585s - 1587s]
+Are there? She should be done. No? No. No.
+
+🎤 SPEAKER_4 [1589s - 1604s]
+So, yeah, if you can think of anyone come to me or to Reese and Hello. Or to me. Okay? Mhmm. And because we gotta make sure that they are suitable for it. So Yeah. Just don't go asking anybody. Alright?
+
+🎤 SPEAKER_2 [1605s - 1616s]
+And you can always ask me then, if you're unsure. Yeah. Let's go that way. If you need need to say if you need to say I don't think so for this reason or not even to share a reason as such.
+
+🎤 SPEAKER_4 [1618s - 1625s]
+But we want it to grow, and we want it to be we want it to be furniture in hospitality, do we? We want it to be hardwood.
+
+🎤 SPEAKER_5 [1627s - 1628s]
+I'm not sure.
+
+🎤 SPEAKER_4 [1628s - 1637s]
+Yeah. That was the wood I was looking for. Yeah. And I think if we can keep the flu going, that will help an awful lot, won't Rather than looking up and seeing you've got 20 people queuing.
+
+🎤 SPEAKER_4 [1639s - 1652s]
+You've got three minutes left on the clock. So we will remind people I'm welcome. Yeah. To encourage people upstairs and not to gather in the foyer or outside. That's if they wanna drink. If they don't wanna drink, that's different.
+
+🎤 SPEAKER_6 [1652s - 1654s]
+But It'll tend to gather at the back.
+
+🎤 SPEAKER_4 [1655s - 1656s]
+As well and talk.
+
+🎤 SPEAKER_6 [1656s - 1659s]
+Yeah. Well, people are trying to get out of the table.
+
+🎤 SPEAKER_1 [1659s - 1662s]
+You know? Well, they're queuing behind the talking one's gonna fit the talking we're gonna I don't know.
+
+🎤 SPEAKER_1 [1668s - 1673s]
+I'll tell you that. Just call people's names, and I just say, Loxanne, you want a drink? Dave, do you want a drink?
+
+🎤 SPEAKER_4 [1681s - 1684s]
+Want want a not a lot of areas for people just to congregate and
+
+🎤 SPEAKER_6 [1685s - 1686s]
+We're gonna have a sign work.
+
+🎤 SPEAKER_1 [1686s - 1687s]
+Corner over here.
+
+🎤 SPEAKER_2 [1689s - 1692s]
+Yeah. Sign of a corner. There's no there's no harm encouraging people just to to move on.
+
+🎤 SPEAKER_6 [1697s - 1700s]
+In the comments? Little suggestion box. No.
+
+🎤 SPEAKER_5 [1700s - 1701s]
+Just said that.
+
+👤 あなた [1701s - 1701s]
+Oh, yeah. Can.
+
+🎤 SPEAKER_2 [1701s - 1708s]
+Yeah. We we we used to have we used to have one of those. And we had it well, I think it was a bit before you guys came, and things in general or just for hospitality?
+
+🎤 SPEAKER_1 [1712s - 1714s]
+In In general. Right.
+
+🎤 SPEAKER_2 [1714s - 1723s]
+And in the end, it it was never used. But that's not to say we shouldn't have one. I've also said that people can email me a non fairly anonymously through the website if they want to.
+
+🎤 SPEAKER_2 [1724s - 1736s]
+Maybe we can remind people of that. But yeah, I 'm not opposed to that at all. Think any any good even if ultimately we disagree with it, but often often it's really insightful.
+
+🎤 SPEAKER_1 [1736s - 1736s]
+Yeah.
+
+🎤 SPEAKER_2 [1737s - 1749s]
+Definitely. Might update the timer. Do you think about this? You can say no to this. The timer on the church screen before the where I put a little notice underneath or something saying, grab a drink. Now now is your chance to grab a drink.
+
+🎤 SPEAKER_2 [1749s - 1754s]
+Or cafe is closing in. But worry. He's opening again in five in later on.
+
+🎤 SPEAKER_4 [1754s - 1764s]
+I think we need to do the WhatsApp message just so everybody knows or email. I don't know who's got the most. Yeah. Everybody on WhatsApp now that comes? Pretty much.
+
+🎤 SPEAKER_2 [1764s - 1765s]
+Everyone's on. Yeah. Think it's So
+
+🎤 SPEAKER_4 [1765s - 1772s]
+we give you a WhatsApp then just to see why it's changing to we're stopping three minutes beforehand if you wanna drink.
+
+🎤 SPEAKER_3 [1773s - 1773s]
+Yes.
+
+🎤 SPEAKER_7 [1774s - 1774s]
+Camellia enough to have it.
+
+🎤 SPEAKER_4 [1777s - 1780s]
+And then, yeah, I think putting it on do do people look at the board?
+
+🎤 SPEAKER_2 [1781s - 1782s]
+The board?
+
+🎤 SPEAKER_4 [1782s - 1783s]
+Are you trying the thing?
+
+🎤 SPEAKER_1 [1783s - 1786s]
+I don't know whether they do. You have a good it.
+
+🎤 SPEAKER_2 [1793s - 1796s]
+I Well, the countdown timer. Yeah. I don't. Yeah. I I do look at it.
+
+🎤 SPEAKER_6 [1796s - 1798s]
+Yeah. And then and then I want look at it.
+
+🎤 SPEAKER_7 [1798s - 1799s]
+Yeah.
+
+🎤 SPEAKER_6 [1799s - 1808s]
+It's like, if you're busy chatting with somebody or something, you can miss it. I mean, that's that's okay. Yeah. But the music is gone now, and I've had my morning. It was almost it used to go quite up loud, didn't it?
+
+🎤 SPEAKER_2 [1808s - 1817s]
+Yeah. No. It's it's still there. It just didn't get turned up this week and the last few weeks has been turned down. But we'll turn that back up again. It was, you're right, on the video, the volume increases.
+
+🎤 SPEAKER_6 [1823s - 1830s]
+So I buy because if you did that, that's that's a good problem for every Yeah. Copies away as well. Yeah. So it's like Yeah.
+
+🎤 SPEAKER_2 [1830s - 1833s]
+We need to Yeah. I'll I'll think you're right that for them. In Yeah. Before Yeah.
+
+🎤 SPEAKER_6 [1834s - 1834s]
+I'm just saying, no.
+
+🎤 SPEAKER_5 [1834s - 1835s]
+No. Two more for a minute.
+
+🎤 SPEAKER_6 [1835s - 1840s]
+Whatever you wanna do it, but but have it go you make it go louder. We all know that.
+
+🎤 SPEAKER_2 [1840s - 1843s]
+And we're know that. Yep. Right. Yep. Definitely.
+
+🎤 SPEAKER_4 [1843s - 1850s]
+To keep eye anyway because sometimes even when it's not you know, you've got the loud, you you hear it over the tube. No.
+
+🎤 SPEAKER_6 [1850s - 1853s]
+The tremor is Someone is just there at the table, and you're just about to pull them away.
+
+🎤 SPEAKER_8 [1853s - 1854s]
+You like, how do you say no?
+
+🎤 SPEAKER_1 [1854s - 1861s]
+Well, you know, you say people are down right there. Serve people. They're like that. And then you take it away. Yeah.
+
+🎤 SPEAKER_7 [1861s - 1863s]
+I mean, if somebody's there, like, oh.
+
+🎤 SPEAKER_2 [1863s - 1866s]
+I would I would rather I would.
+
+🎤 SPEAKER_7 [1870s - 1872s]
+At the end of service Yeah. Later on.
+
+🎤 SPEAKER_6 [1872s - 1873s]
+You know?
+
+🎤 SPEAKER_2 [1873s - 1874s]
+Yeah.
+
+🎤 SPEAKER_6 [1874s - 1876s]
+When when we're trying to tidy up and they come look at the cock.
+
+🎤 SPEAKER_4 [1877s - 1889s]
+Well, I think we it away at the end of the break, then it's in the kitchen. We took not that I don't want people to have a coffee at the end, but it just slowed down the tidying up and they Yeah. Yeah.
+
+🎤 SPEAKER_7 [1889s - 1891s]
+Yeah. So I think it's does straw this. It does.
+
+🎤 SPEAKER_4 [1891s - 1896s]
+It does. We had about five, six, other week, weren't we? Queue in a for Yeah. But they do.
+
+🎤 SPEAKER_1 [1896s - 1897s]
+That's not usual. That's not normal.
+
+🎤 SPEAKER_6 [1898s - 1899s]
+If we're not normal But if we don't take it away to we are having people up in this service.
+
+🎤 SPEAKER_4 [1902s - 1904s]
+Manner.
+
+🎤 SPEAKER_6 [1904s - 1905s]
+Notice just about your normal chat and stuff.
+
+🎤 SPEAKER_6 [1910s - 1913s]
+Having people up I'm not just for the help there. Yeah. No. Honestly, they just come to the table.
+
+🎤 SPEAKER_8 [1914s - 1919s]
+I'm table and and, you know, when they just if they still all there, they just go and help themselves to work. I don't know what talking about.
+
+🎤 SPEAKER_7 [1919s - 1920s]
+Yeah.
+
+🎤 SPEAKER_1 [1920s - 1921s]
+But I want them to take food if still.
+
+🎤 SPEAKER_4 [1921s - 1923s]
+Yeah. Don't know. Want food.
+
+🎤 SPEAKER_6 [1923s - 1925s]
+Drinks someone about. Don't know. Oh. Right. Okay.
+
+🎤 SPEAKER_4 [1929s - 1932s]
+Down when somebody's preaching Yeah. Souping themselves. And I think that's really personally.
+
+🎤 SPEAKER_7 [1932s - 1934s]
+Yeah.
+
+🎤 SPEAKER_1 [1945s - 1954s]
+Glass of water if you need is fine, but two but like two other opportunities to have hot drinks from in the before the service on the middle of the service. You can't be that much, like, desperate to go back to another one before you leave. Can you I think that's reasonable.
+
+🎤 SPEAKER_1 [1954s - 1955s]
+Yeah.
+
+🎤 SPEAKER_5 [1955s - 1955s]
+Are they taking away the So the drinks go away in the break or not historically?
+
+🎤 SPEAKER_2 [1957s - 1963s]
+After the second after the Have a second break. Yeah. Yeah. That's fine. I think that's okay. You will be doing it.
+
+🎤 SPEAKER_4 [1963s - 1965s]
+And Yeah. Leave all the know?
+
+🎤 SPEAKER_7 [1965s - 1968s]
+Because because we don't wanna be going on the road. Yeah. Yeah.
+
+🎤 SPEAKER_1 [1968s - 1972s]
+So the first break or the before the service tack it away. Yeah. And then bring it back up.
+
+🎤 SPEAKER_2 [1972s - 1976s]
+It back, and then it goes away again. Yeah. Right. Keep the kettles top top.
+
+🎤 SPEAKER_4 [1976s - 1977s]
+That's a big one.
+
+🎤 SPEAKER_1 [1978s - 1979s]
+I always do.
+
+🎤 SPEAKER_5 [1979s - 1979s]
+Yeah.
+
+🎤 SPEAKER_2 [1979s - 1982s]
+Has has the boiler been fixed yet? As far as you know, the hot water situation.
+
+👤 あなた [1983s - 1983s]
+Okay.
+
+🎤 SPEAKER_1 [1984s - 1985s]
+Yep. So we're back up to learning.
+
+🎤 SPEAKER_7 [1985s - 1995s]
+Yep. Okay. The other thing is as well about could people please wash their hands Oh, yeah. And then come in first thing. Yeah. And true one. Most people don't.
+
+🎤 SPEAKER_7 [1996s - 2003s]
+Or most times, it it doesn't happen. So if we remember to wash her hands, because that's like the supposed to be back for food and hygiene.
+
+🎤 SPEAKER_1 [2003s - 2005s]
+Yeah.
+
+🎤 SPEAKER_7 [2007s - 2029s]
+And then also the tea towels, Dave puts out two clean tea towels every week. Ready for us on the left of the radiator. You probably all know that. So those are for hands and then the ones I put out and the are for the dishes. So dry your hands on Dave's on the left and the dishes on the right because we're not supposed to cross the U.
+
+👤 あなた [2029s - 2030s]
+Snap.
+
+🎤 SPEAKER_2 [2030s - 2034s]
+You say that low back in the day, didn't you? The different different colors or something?
+
+🎤 SPEAKER_6 [2035s - 2037s]
+I didn't I didn't know that because I told you, didn't I? Yeah.
+
+🎤 SPEAKER_4 [2037s - 2044s]
+I got my answer when I No. That's fine. We haven't made we haven't made a thing of it, but we need should we tell a Kobe then?
+
+🎤 SPEAKER_6 [2044s - 2045s]
+To work through?
+
+🎤 SPEAKER_7 [2045s - 2049s]
+Color coded. No. Because Dave's all different It's just like the different colors.
+
+🎤 SPEAKER_6 [2049s - 2054s]
+Not ones we use for Yeah. To try that. I mean, they can be be one color.
+
+🎤 SPEAKER_7 [2054s - 2058s]
+Well, We use that with the dry new ones, we've got about 10 already. I think we've a few in the hands of color.
+
+🎤 SPEAKER_1 [2058s - 2060s]
+Yeah.
+
+🎤 SPEAKER_4 [2060s - 2071s]
+But, yeah, washing hands should be done throughout the whole time. Every time that you touch something out of the box, you need to wash your hands before you touch food instead of drinks. It's we've gotta get hotter on that.
+
+🎤 SPEAKER_7 [2072s - 2074s]
+Because if anybody can't soapy water there when I come in.
+
+🎤 SPEAKER_1 [2074s - 2076s]
+Yeah. Mhmm.
+
+🎤 SPEAKER_4 [2079s - 2096s]
+But that's why I usually because they should have legally, they should have two sinks upstairs like they have downstairs, one for hand washing and one for we haven't, so we've gotta make the most of what we've got. Mhmm. But hand washing, really, they should be done at least three or four times during your time Yeah. Up there. I don't think the two sinks is what is.
+
+🎤 SPEAKER_6 [2096s - 2105s]
+Right? Because I know in HConnect, they've only got the one sink. So they haven't got two sinks, and they serve and they serve food and everything there.
+
+🎤 SPEAKER_6 [2107s - 2108s]
+And they have and they've and they've got a staff out.
+
+🎤 SPEAKER_6 [2113s - 2116s]
+So I know it used to be because when we were in Coastland, we actually I mean, it may have it may have checked. Yeah. No.
+
+🎤 SPEAKER_8 [2116s - 2116s]
+That's fine.
+
+🎤 SPEAKER_4 [2117s - 2129s]
+But we still need to be washing out how much we've got because sinks. So don't I personally, I would have fresh water for everybody washing in in individual hands, not a bowl that you tip your hands in.
+
+🎤 SPEAKER_1 [2129s - 2129s]
+Mhmm.
+
+🎤 SPEAKER_4 [2130s - 2132s]
+Should be a hot tap and soap and water.
+
+🎤 SPEAKER_6 [2132s - 2134s]
+Yeah. The bowl can go from one side and just in the sink.
+
+🎤 SPEAKER_8 [2134s - 2136s]
+Yeah. Yeah.
+
+🎤 SPEAKER_4 [2138s - 2146s]
+You just never know who's gonna come in, do you? I mean, we had some random person came in my lunch church, and they did have health and safety background.
+
+🎤 SPEAKER_4 [2146s - 2156s]
+And they picked up on a few things and just because we're a church and a we still have to abide by things. Don't we? So Yeah. Well, I I can shut you down.
+
+🎤 SPEAKER_4 [2156s - 2170s]
+Of course, they're done. Yeah. Yeah. They could stop us serving Yeah. Team copy and all the rest of it. There is also, I suppose you've noticed, the allergy sheet that's now there. That needs to go out week as well.
+
+🎤 SPEAKER_6 [2170s - 2171s]
+Yep.
+
+🎤 SPEAKER_4 [2172s - 2185s]
+I mean, most people are aware If people bring cooked meals, but meals, you know, start in that love, cakes, just check with them. Is there any nuts or whatever?
+
+🎤 SPEAKER_6 [2185s - 2187s]
+So Well whipscakes. Do we have any dairy.
+
+🎤 SPEAKER_4 [2193s - 2197s]
+He's causing the dose as well, mean.
+
+🎤 SPEAKER_2 [2200s - 2202s]
+They're So a few of the nuts, isn't it? But the mold fuse.
+
+🎤 SPEAKER_7 [2203s - 2214s]
+Gluten free most times, but she's not strictly gluten free. So sometimes she will eat gluten. And with dairy. Most times, she'll go with dairy free.
+
+🎤 SPEAKER_1 [2215s - 2217s]
+But it's it's likely she's not But you've got no one with the vape that will go in town.
+
+🎤 SPEAKER_2 [2222s - 2227s]
+Feel But then we've had a few new ones come Well, I don't know. Imagine if somebody has a serious, like, peanut allergy or something. Would they would tell us.
+
+🎤 SPEAKER_2 [2227s - 2238s]
+But that's not to say that we should be putting signs out and things like that. Because we know. We could be anybody who could turn up Yeah. I'm pleased that's I seen that because I barely get to the back, but last two weeks.
+
+🎤 SPEAKER_6 [2241s - 2242s]
+Right. Great.
+
+🎤 SPEAKER_4 [2242s - 2243s]
+It's been something my donor name change
+
+🎤 SPEAKER_1 [2244s - 2244s]
+Yeah.
+
+🎤 SPEAKER_2 [2247s - 2263s]
+As long as we're compliant, because as you said, Laura, we're our charity, so we do have we do have some legal obligations. To and and good practice too. So sounds like sounds like you sounds like all things suggesting will mean that we are.
+
+🎤 SPEAKER_7 [2267s - 2268s]
+Sorry. Wanted to sit down.
+
+🎤 SPEAKER_1 [2268s - 2268s]
+Over time.
+
+🎤 SPEAKER_2 [2270s - 2274s]
+Ten to three. Oh, yeah. The modern washer.
+
+🎤 SPEAKER_4 [2277s - 2280s]
+Yeah. So I think that's everything from our side, it?
+
+🎤 SPEAKER_7 [2281s - 2284s]
+I think so. Yeah. So I can't remember who's on.
+
+🎤 SPEAKER_4 [2286s - 2289s]
+We can we we probably will start this coming Sunday.
+
+🎤 SPEAKER_7 [2306s - 2309s]
+Whoever's It's not very I've gotta come from on Canada this Sunday.
+
+🎤 SPEAKER_2 [2310s - 2312s]
+I'll try and get the back So a football match is it for Roger?
+
+🎤 SPEAKER_7 [2312s - 2313s]
+No.
+
+🎤 SPEAKER_4 [2321s - 2325s]
+I'm talking Have you gotta come home and pick up stuff and then Come on and dip. Civil yeah.
+
+🎤 SPEAKER_5 [2325s - 2325s]
+Civil business.
+
+🎤 SPEAKER_2 [2329s - 2334s]
+So is Ronald and Debbie on my on my way? Ronald and Debbie calling to my Yeah.
+
+👤 あなた [2334s - 2336s]
+According to my phone. Could be text fifty.
+
+🎤 SPEAKER_7 [2336s - 2340s]
+Minutes max. It's fine. That is fabulous. You sure? Yes.
+
+🎤 SPEAKER_1 [2341s - 2341s]
+Okay.
+
+🎤 SPEAKER_4 [2342s - 2354s]
+So, yeah, to love you, I can't have the young hosting on it. Okay. Yeah. So we'll ask Debbie to come. If you can, come early on Sunday to help my know who showed you.
+
+🎤 SPEAKER_8 [2355s - 2355s]
+Where are you?
+
+🎤 SPEAKER_2 [2356s - 2357s]
+You're on this That's what happened when you in the room.
+
+🎤 SPEAKER_7 [2365s - 2367s]
+Yeah. It's just you're all we've read this on.
+
+🎤 SPEAKER_4 [2367s - 2379s]
+Yeah. So if we're we're gonna start it now so we can get it rolling. So that by April, we can have a a a week where Anna and Steve aren't serving in any of them. Know?
+
+🎤 SPEAKER_7 [2380s - 2384s]
+Although this this was a it was a bit difficult with Sunday, wasn't it?
+
+🎤 SPEAKER_2 [2384s - 2386s]
+Steve It was.
+
+🎤 SPEAKER_1 [2386s - 2387s]
+It was. It just going getting people.
+
+🎤 SPEAKER_2 [2389s - 2396s]
+It just goes to show how we need how important it is because if you got if Steve were to get taken out again, it's it's good it's good month. We tried to do it across the church.
+
+🎤 SPEAKER_2 [2396s - 2415s]
+Anyway. We want everyone to do themselves out of a job essentially. Because we do eventually want to multiply. And so and it's and it's and it's good. It's it's good to create space for others. So what my hope would be on the the serving side of it, we get a little team that come meet with Steve and then Steve can show them the ropes.
+
+🎤 SPEAKER_4 [2429s - 2433s]
+Mean that we have to use just the same people all the time.
+
+🎤 SPEAKER_2 [2433s - 2433s]
+That's
+
+🎤 SPEAKER_3 [2433s - 2434s]
+right.
+
+🎤 SPEAKER_2 [2434s - 2436s]
+There are there are people that could come.
+
+🎤 SPEAKER_6 [2440s - 2443s]
+Would you be worth asking you you asking the congregation?
+
+🎤 SPEAKER_6 [2444s - 2449s]
+Is there anybody here interested in helping out with with hospitals? Yeah.
+
+🎤 SPEAKER_7 [2449s - 2450s]
+Lots of times.
+
+🎤 SPEAKER_2 [2450s - 2450s]
+Yeah.
+
+🎤 SPEAKER_1 [2451s - 2452s]
+I'm you know, you never know. Yeah.
+
+🎤 SPEAKER_2 [2452s - 2476s]
+I I think sure. I think I as a general as a general approach, we want everyone to feel like they can serve in some way, but equally sometimes hand picking people for for certain teams is also quite good because for example, one of the one of the things I can impress on Lewis and Ryan early on was we wanted the aesthetics. We wanted it to look nice. We didn't wanna just go, that'll do. I'll leave that in a wrapper. We'll do that.
+
+🎤 SPEAKER_2 [2476s - 2484s]
+Because the way things look really makes when someone's first impression of a church, that all adds up a little bit.
+
+🎤 SPEAKER_1 [2491s - 2494s]
+Comments. They do. Yeah. They always come in. Do a nice job.
+
+🎤 SPEAKER_2 [2505s - 2533s]
+Important, isn't it? Yeah. Well, this is the thing I was gonna say towards the end. Don't know if you come towards the end. You're not just serving tea and coffee. This is a vital vital team to the church because imagine we took this team away and we didn't have it on a Sunday Can you imagine how much that would change the church culture that we have? Massive It'd be completely different feel. And it's all it's really important part of God for us is the is to do a really nice, well done, well thought out hospitality. So it's it's vital.
+
+🎤 SPEAKER_2 [2534s - 2535s]
+And so thank you.
+
+🎤 SPEAKER_2 [2538s - 2541s]
+People our children hope to That's why the worship kind of off the roof most recent.
+
+🎤 SPEAKER_2 [2545s - 2545s]
+It is?
+
+🎤 SPEAKER_1 [2545s - 2546s]
+It is.
+
+🎤 SPEAKER_4 [2546s - 2547s]
+It is. It does make a difference.
+
+🎤 SPEAKER_1 [2547s - 2549s]
+It does make a difference.
+
+🎤 SPEAKER_3 [2549s - 2549s]
+Yeah.
+
+🎤 SPEAKER_2 [2549s - 2551s]
+So thank you, basically.
+
+🎤 SPEAKER_4 [2551s - 2572s]
+The only other thing I would encourage is whoever is serving behind the table Make sure that we're not just a chin wagon because I know some Sundays there's a queue and there's com and I know you don't get to each other that often, but when you're you're then soo. Okay. Not to catch up on now. Definitely.
+
+🎤 SPEAKER_3 [2574s - 2575s]
+Yeah.
+
+🎤 SPEAKER_4 [2579s - 2581s]
+We all alright with that? Yeah.
+
+🎤 SPEAKER_2 [2581s - 2593s]
+Thank you. Thank you, thank all of you. Thank you thank you Lois for organising this and Rainer for make it making it look so beautiful every Sunday and Sophin and Sara, thanks for stepping up as well.
+
+🎤 SPEAKER_2 [2594s - 2595s]
+You know, it's Yeah.
+
+👤 あなた [2595s - 2596s]
+I'm grateful to you.
+
+🎤 SPEAKER_2 [2596s - 2598s]
+Rich and I are very grateful to you all.
+
+🎤 SPEAKER_8 [2598s - 2599s]
+Yeah.
+
+🎤 SPEAKER_1 [2602s - 2602s]
+Extra help.
+
+🎤 SPEAKER_4 [2602s - 2603s]
+Yeah.
+
+🎤 SPEAKER_5 [2603s - 2604s]
+That's and that's what it's about, isn't it?
+
+🎤 SPEAKER_2 [2605s - 2619s]
+Not be the case. This done this with kids in the past and with and with, hospitality before. The marks arrived. If we haven't done a team, we just want to do it on a Sunday. And that that's the and people say, where's the tea and coffee? I'm like, well, we haven't got enough people to make it happen. That's that would be the reality.
+
+🎤 SPEAKER_4 [2619s - 2624s]
+Might a good thing because it makes people realize that actually people put themselves out to know these kids running up to go and collect those glasses.
+
+🎤 SPEAKER_6 [2630s - 2635s]
+Do you not think we should have a row for that?
+
+🎤 SPEAKER_2 [2637s - 2639s]
+A row to have what for the children to collect the glasses? I'm not
+
+🎤 SPEAKER_6 [2645s - 2646s]
+Yeah.
+
+🎤 SPEAKER_2 [2646s - 2647s]
+Well, that is part of yeah.
+
+👤 あなた [2647s - 2647s]
+No.
+
+🎤 SPEAKER_2 [2648s - 2655s]
+No. I hear what you're saying. I think we try and see you say to the kids it's not the right time to go and pick up a glasses at that time. They find it fun. They enjoy it.
+
+🎤 SPEAKER_2 [2655s - 2659s]
+But it's quite distracting at a quite a key moment in the service.
+
+🎤 SPEAKER_8 [2660s - 2664s]
+If if you you obviously got a lot of kids who wanna do it yet, but you can't have more doing it. No.
+
+🎤 SPEAKER_6 [2664s - 2667s]
+So why don't you a couple of beginners Why don't you do it? Beginner of two?
+
+🎤 SPEAKER_2 [2668s - 2675s]
+Yes. I know I know Lexi May used to enjoy used to, in the past, enjoy helping with the communion at night.
+
+🎤 SPEAKER_2 [2686s - 2699s]
+Yeah. The the worship team, that's a that's a whole so the the upfront ministries, there's a few more things required of people in involved in those because they're so visible and upfront. But I'm not a poster kids, well, probably teenagers. It's just an idea. Yeah.
+
+🎤 SPEAKER_6 [2701s - 2703s]
+You know, when the way they go through those glasses Mhmm.
+
+🎤 SPEAKER_4 [2705s - 2710s]
+We do need to discourage them from as soon as communion, breaking bread. Whatever you wanna call it.
+
+🎤 SPEAKER_6 [2710s - 2712s]
+It's pretty fast. Yeah.
+
+🎤 SPEAKER_5 [2713s - 2715s]
+But they need to they mustn't go up there, and they need to wait till the break.
+
+🎤 SPEAKER_6 [2715s - 2716s]
+Right? And then you have that like that.
+
+🎤 SPEAKER_5 [2716s - 2718s]
+Do an AHAD. You can give them a night. Yeah.
+
+🎤 SPEAKER_6 [2719s - 2722s]
+And say, well, they know who's right. Mhmm.
+
+🎤 SPEAKER_1 [2722s - 2722s]
+Do it.
+
+🎤 SPEAKER_2 [2722s - 2738s]
+Yeah. I'll tell you what. Right. Deb and Gate, listen. I'm all for suggestions. Right? Honestly, there's no bad suggestion. I may not I may say no, but I wanna hear all of it. So you've got my my number. Anytime you think, just send it to me and I'll ask I'll consider it.
+
+🎤 SPEAKER_6 [2739s - 2751s]
+I think it's a good I think they're all to do it and they're all quite few of them. You got Frankie. You got Omi. You got here.
+
+🎤 SPEAKER_5 [2752s - 2754s]
+But Frankie's there mostly, and he's not.
+
+🎤 SPEAKER_4 [2754s - 2756s]
+Because we could choose them on some of what we're seeing.
+
+🎤 SPEAKER_2 [2761s - 2766s]
+So, Deb, is the issue that some kids wanna do and they get a chance because others have got there? Is that what you're saying? Running I haven't.
+
+🎤 SPEAKER_5 [2766s - 2767s]
+I haven't.
+
+🎤 SPEAKER_2 [2767s - 2768s]
+Haven't. I'm too busy now.
+
+🎤 SPEAKER_8 [2781s - 2783s]
+Right. We're doing that.
+
+🎤 SPEAKER_6 [2783s - 2784s]
+Debbie's going like this to Lexie May.
+
+🎤 SPEAKER_6 [2788s - 2791s]
+Sure. So that they know when. If Yeah.
+
+🎤 SPEAKER_8 [2791s - 2792s]
+But if they knew who was doing the job back day.
+
+🎤 SPEAKER_6 [2793s - 2794s]
+Yeah. Yeah.
+
+🎤 SPEAKER_8 [2794s - 2795s]
+If you choose to do or not.
+
+🎤 SPEAKER_2 [2795s - 2797s]
+Yep. You decide Yep.
+
+🎤 SPEAKER_8 [2798s - 2799s]
+We I'm not involved with this anymore. Yeah.
+
+🎤 SPEAKER_2 [2799s - 2804s]
+Yeah. Well, all you gotta do is become a Christian and then you'll be be able to be involved. Right? No.
+
+🎤 SPEAKER_8 [2805s - 2809s]
+I mean, with the kids, I think maybe they should choose someone right at the beginning.
+
+🎤 SPEAKER_2 [2809s - 2810s]
+Yeah. And Alright.
+
+🎤 SPEAKER_8 [2810s - 2811s]
+You know, that's something about before I think about it.
+
+🎤 SPEAKER_6 [2812s - 2814s]
+I would think about it.
+
+🎤 SPEAKER_7 [2814s - 2815s]
+I mean, way, the tooth run for it.
+
+🎤 SPEAKER_1 [2816s - 2819s]
+But they'll know also if you talk to them, you say, okay.
+
+🎤 SPEAKER_7 [2820s - 2827s]
+You did it last week now. You need to check to us. Yeah. I they should they're all doing a now to be humble enough and kind enough to my son.
+
+🎤 SPEAKER_6 [2827s - 2830s]
+Case. I'm sorry.
+
+🎤 SPEAKER_5 [2831s - 2832s]
+So my So you're the one I ever you're gonna go back to me.
+
+🎤 SPEAKER_1 [2832s - 2833s]
+You're gonna Yeah.
+
+🎤 SPEAKER_2 [2847s - 2848s]
+Well yeah.
+
+🎤 SPEAKER_4 [2850s - 2856s]
+Well I think it's just one of the things that one can we can work on, isn't it? Yes.
+
+🎤 SPEAKER_6 [2856s - 2857s]
+It's a work in progress, we do.
+
+🎤 SPEAKER_2 [2858s - 2863s]
+Yeah. Blonde blonde boy is William, and the brown hair is Dominic. Yeah.
+
+🎤 SPEAKER_1 [2867s - 2870s]
+Doing it, but at the right time, then all's okay. Yeah. Yeah.
+
+🎤 SPEAKER_2 [2871s - 2880s]
+Yeah. Well, fit. Yeah. Thanks for raising that. I I'm so busy thinking about other things. I don't notice, but I'm sure seems like everyone else does. We'll whatever.
+
+🎤 SPEAKER_4 [2893s - 2894s]
+I mean, we wanna coming up and No.
+
+🎤 SPEAKER_2 [2895s - 2897s]
+That's right. I'm gonna race to the Yeah.
+
+🎤 SPEAKER_4 [2897s - 2900s]
+So it's because I think the time That's timing, as you say, is very important.
+
+🎤 SPEAKER_6 [2900s - 2906s]
+Like, once a minute, it's gonna be different because of the night routine, but then the children will already know. Yeah.
+
+🎤 SPEAKER_4 [2906s - 2909s]
+Yeah. Yeah. We'll look at that. But, yeah, I do believe we do.
+
+🎤 SPEAKER_2 [2909s - 2911s]
+Yeah. Thanks, both. Yeah. That's that's good to know.
+
+🎤 SPEAKER_2 [2918s - 2920s]
+We'll think we'll think carefully about that.
+
+🎤 SPEAKER_2 [2923s - 2924s]
+Say again?
+
+🎤 SPEAKER_2 [2927s - 2931s]
+We haven't sent emails for years as a church, so I know. It's very out of date.
+
+🎤 SPEAKER_8 [2931s - 2932s]
+But I sent the emails for the weekend away.
+
+🎤 SPEAKER_2 [2932s - 2933s]
+Oh, it's Sarah on the church email.
+
+🎤 SPEAKER_5 [2936s - 2936s]
+Are date?
+
+🎤 SPEAKER_2 [2937s - 2939s]
+It will. Oh, and you had me an email. Yeah. Yeah.
+
+🎤 SPEAKER_8 [2939s - 2940s]
+Email.
+
+🎤 SPEAKER_2 [2940s - 2941s]
+You should come up. Yeah. Very good. Yeah. That's fine.
+
+🎤 SPEAKER_4 [2941s - 2947s]
+Because I need it for Ian. Mhmm. Yeah. Okay. Any else?
+
+🎤 SPEAKER_5 [2947s - 2948s]
+And then because I know people have got schools and things to do.
+
+🎤 SPEAKER_6 [2951s - 2952s]
+Anything else you can think of?
+
+🎤 SPEAKER_6 [2956s - 2960s]
+Can Think of anything to do. How about the glasses at the end of union? Is there any way you can yeah.
+
+🎤 SPEAKER_3 [2963s - 2963s]
+Go on.
+
+🎤 SPEAKER_8 [2963s - 2969s]
+Well, obviously, sometimes when we're when the dream is finished to get the glasses in that Yeah.
+
+🎤 SPEAKER_6 [2970s - 2976s]
+You know. We get a chance we do it, but we get a chance. It it it sets us back towards the end.
+
+🎤 SPEAKER_8 [2977s - 2977s]
+Got you in?
+
+🎤 SPEAKER_1 [2977s - 2979s]
+Yeah. Got it.
+
+🎤 SPEAKER_7 [2979s - 2988s]
+Oh, no. Sorry. It definitely is washing them in the second coffee break while people are having coffee. Somebody in the kitchen washing them.
+
+🎤 SPEAKER_8 [2989s - 2992s]
+If I if there's a spare person It's just a full It would it would save a lot of time towards they and then you can try them.
+
+🎤 SPEAKER_8 [2996s - 3002s]
+This week. I went in there for you too. You look great. I just went in there and they put them on But I guess Yeah.
+
+🎤 SPEAKER_2 [3002s - 3003s]
+That's a good Fregus.
+
+🎤 SPEAKER_6 [3005s - 3005s]
+Great point. Well done. Thank you.
+
+🎤 SPEAKER_4 [3005s - 3007s]
+So but yeah. Because they are a fiddly thing to do, they?
+
+🎤 SPEAKER_1 [3007s - 3009s]
+Oh, communion.
+
+🎤 SPEAKER_8 [3009s - 3018s]
+Yeah. I mean, obviously, with this two minute this three minute pack away thing might actually solve that problem. There. To be fair. If you're taking the coffees out,
+
+🎤 SPEAKER_6 [3019s - 3020s]
+No.
+
+🎤 SPEAKER_4 [3020s - 3021s]
+Because it's a break in the Yeah.
+
+🎤 SPEAKER_8 [3021s - 3022s]
+Yeah. Of course. Yeah.
+
+🎤 SPEAKER_6 [3023s - 3024s]
+Break is.
+
+🎤 SPEAKER_2 [3026s - 3047s]
+The thing with those who are able to serve in God first, off serving him more than one team. And I'm very grateful I'm very grateful for those of you who are those of you who who will probably end that way. But we are it's amazing. We we gather 60 to 70 sometimes on a Sunday, 30 of which are children.
+
+🎤 SPEAKER_2 [3048s - 3058s]
+And so the ratios are mad. And so that's where God's grace is as a church at the minute is with kids. And so what a privilege that is. So but also, you know, thank you for all you do.
+
+🎤 SPEAKER_2 [3058s - 3071s]
+That's all. Thank you, That was good. And I don't need to come to the next one unless you want me to be here, but so I do keep these meetings regularly. Well, this is the first god first meet where there's been cake as far as I remember.
+
+🎤 SPEAKER_2 [3076s - 3082s]
+Yeah. Clearly. Clearly. I'm gonna go and do the school run now. Is that alright? Yeah. Cool finish. Top end of town.
+
+🎤 SPEAKER_1 [3083s - 3083s]
+Good to see you all.
+
+🎤 SPEAKER_2 [3086s - 3091s]
+No. I would but I No. She doesn't want any cake. She's fun.
+
+🎤 SPEAKER_5 [3094s - 3094s]
+Her.
+
+🎤 SPEAKER_2 [3094s - 3096s]
+By the time I get home, there'll be a message being sent, wouldn't they?
+
+🎤 SPEAKER_8 [3097s - 3099s]
+I think we had a big enough cake for the two of I did.
+
+🎤 SPEAKER_2 [3099s - 3103s]
+Yeah. I'll tell her how it was though. I'm sure she'll appreciate that. See you later.
+
+🎤 SPEAKER_1 [3149s - 3150s]
+Connected.
+
+👤 あなた [3196s - 3200s]
+Of scrawny attendant passed through the waiting room entering the entryway beyond.
+
+👤 あなた [3204s - 3211s]
+The obligator who had interviewed the two thieves remained in his office, apparently awaiting his next appointment. Well, Dachshund asked, what do you think?
+
+🎤 SPEAKER_3 [3213s - 3227s]
+The crew leader delivered the soldiers appeared to arrest them. The scribe pulled out a small chest filled with coins and then handed it to Cayman with an indifferent hand.
+
+👤 あなた [3231s - 3237s]
+Then they simply left the Canton Building, came in gathering his other attendants with obvious relief. No cries of alarm, no dropping of soldiers.
+
+🎤 SPEAKER_3 [3238s - 3247s]
+They were free. Cayman had successfully scammed both the ministry and another crew leader. Apparently,
+
+🎤 SPEAKER_3 [3250s - 3262s]
+Calcio stuffed another one of the little red frosted cakes into his mouth, chewing with satisfaction. The fat thief and his squamy attendant passed through the waiting room entering the entryway beyond.
+
+🎤 SPEAKER_3 [3263s - 3269s]
+The obligator who had interviewed the two thieves remained in his office so apparently awaiting his next appointment.
+
+👤 あなた [3271s - 3274s]
+Well, Dachshund asked, what do you think?
+
+🎤 SPEAKER_3 [3275s - 3287s]
+Kelsi Air glassed at the cakes. They're quite good, he said, taking another one. The ministry has always had excellent taste. It makes sense that they will provide superior snacks.
+
+👤 あなた [3288s - 3289s]
+Ducks enrolled his eyes.
+
+🎤 SPEAKER_3 [3290s - 3303s]
+A book that girl killed. Kelceer smiled as he piled four of the cakes in his hand, then nodded toward the doorway. The canto waiting room was growing too busy for the discussion of delicate matters.
+
+🎤 SPEAKER_3 [3304s - 3307s]
+On the way out, he paused and told the applicator secretary corner that they needed to reschedule.
+
+👤 あなた [3311s - 3337s]
+Then the two crossed through the empty chamber, passing the overwhelmed crew leader who stood speaking with a scribe. Stepped out onto the street, pulled his hood up against the still falling ash, then led the way across the street. He paused beside his alleyway, standing where he and Doctor could watch the Canton Building's doors. Calcior marched contentedly on his case. Now did you find out about her?
+
+🎤 SPEAKER_3 [3337s - 3340s]
+He asked between bites.
+
+👤 あなた [3340s - 3351s]
+Your brother, knocks in a pod, came and tried to swim the marsh a few months ago, and he brought the bird with him then too. Actually, came in his little good luck charm is becoming moderately famous in the right circles?
+
+👤 あなた [3355s - 3362s]
+I'm still not sure he knows what she is or not. You know how superstitious thieves can get. Kelsey nodded dusting off his hands.
+
+👤 あなた [3364s - 3374s]
+I do know she'd be here today. Docs and shrug. Are few tribes in the right place? I've been keeping an eye on the girl ever since Marsh pointed around to me.
+
+👤 あなた [3375s - 3383s]
+I wanted to give you an opportunity to see her work for yourself. Across the street, the Canton building store finally opened.
+
+👤 あなた [3383s - 3394s]
+And came and made his way down the steps surrounded by a group of The small short girl was with him. The sight of her made Kelsey a frown.
+
+👤 あなた [3394s - 3405s]
+She had a nervous anxiety to her step, and she jumped slightly whenever someone made a quick move. The right side of her face was still slightly discolored from a partially healed bru Kelsey or I, the self important came in.
+
+🎤 SPEAKER_3 [3409s - 3416s]
+I'll have to come up with something particularly suitable to do to that man.
+
+👤 あなた [3416s - 3427s]
+For thing, Oxon Hutterton. El Kelsey nodded. She'll be free of him soon enough. It's a wonder no one discovered her before this. Your brother was right then?
+
+🎤 SPEAKER_3 [3427s - 3434s]
+Kelsey nodded. She's least a missing, and if Marsh says she's more, I'm and a member of the ministry, especially in inside a canton building.
+
+👤 あなた [3442s - 3455s]
+I'd guess that she doesn't know that she's using her abilities. Is that possible? Daxson Kelcio nodded.
+
+🎤 SPEAKER_3 [3455s - 3461s]
+Trey Sminnar in the water can be burned if just for a tiny bit of power. That's when the reasons the Lord Ruler built his city here.
+
+👤 あなた [3461s - 3493s]
+Lots of metals in the ground. I'd say that Kelsey had trailed off. Drowning slightly. Something was wrong. He glanced toward Cayman and his crew. They were still visible in the near distance, crossing the street and heading south. A figure appeared in the Canton building's doorway, leaning with a confident air, he bore the tattoos of a high prela of a canton of finance around his eyes. Probably the very man came in at with shortly before.
+
+🎤 SPEAKER_3 [3493s - 3501s]
+The obligator stepped out of the building and a second man exited behind him.
+
+👤 あなた [3502s - 3506s]
+Beside dachshund suddenly grew stiff.
+
+🎤 SPEAKER_3 [3510s - 3526s]
+The turned, Kelsey was able to see that a thick metal spike had been pounded tip first through each of the man's eyes. With shafts as wide as an eye socket, the nail like spikes were long enough that their sharp points jutted out about an inch from the back of the man's clean shaven skull.
+
+🎤 SPEAKER_3 [3532s - 3548s]
+The flat spike ends shone like two silvery discs sticking out of the sockets in the front where the eyes should have been. A steel inquisitor. What's that doing here, Dachshund Haston? Stay calm, Calcier trying to force himself to do the same.
+
+🎤 SPEAKER_3 [3549s - 3556s]
+The inquisitor looked toward them. Spiked eyes were regarding Kelsier before turning in the direction that came in and the girl had gone.
+
+🎤 SPEAKER_3 [3557s - 3571s]
+Like all inquisitors, he wore intricate eye tattoos. Mostly black with one stark red line. That marked him as a high ranking member of the canton of inquisition, He's not here for us, Celsier said.
+
+🎤 SPEAKER_3 [3572s - 3589s]
+I'm not burning anything. You think that we're just ordinary noblemen. The girl, Dachshund said. Kelsey or nodded. You said Cameron's been running his scam on the ministry for a while? Well, the girl must have detected by one of the obligators.
+
+🎤 SPEAKER_3 [3589s - 3600s]
+They're trained to recognize when an alamance or tampers with their emotions. Dachshund frowned thoughtfully. Across the street, the inquisitor conferred with the other obligator.
+
+🎤 SPEAKER_3 [3600s - 3611s]
+Then the two of them turned to walk in the direction that came in gone. There was no urgency to their pace. They must have set a tale to follow them, Dachshund said.
+
+👤 あなた [3612s - 3616s]
+This is the ministry, Kelsier said. There'll be two at least.
+
+🎤 SPEAKER_3 [3616s - 3622s]
+Daxah nodded. Came in or led them directly back to a safe house.
+
+👤 あなた [3623s - 3637s]
+Dozens of men will die. They're not all the most admirable people, but they fight the final in their own way, Calcior said. Beside, so I'm not about to let a possible mistborn slip away from us.
+
+👤 あなた [3637s - 3641s]
+I wanna talk to that girl. Can you deal with those tales?
+
+🎤 SPEAKER_3 [3642s - 3645s]
+I said I'd become boring, Kel, Daxson said.
+
+👤 あなた [3646s - 3664s]
+Not sloppy. I can handle a couple of ministry flockies. Good, Kelsior said, reaching into his cloak cockroach. And pulling out a small vial. A collection of metal flakes floated in an alcohol solution within. I steel, tin, pewter, copper, bronze, zinc, and brass the eight basic elementary metals.
+
+🎤 SPEAKER_3 [3669s - 3677s]
+Pulled off the stopper and downed the contents in a single swift gulp. He pocketed the now empty vial, wiping his mouth.
+
+👤 あなた [3678s - 3684s]
+I'll handle that inquisitor. Dachshund looked apprehensive. You're going to try and take him?
+
+🎤 SPEAKER_3 [3684s - 3687s]
+Kelsior shook his head.
+
+👤 あなた [3688s - 3703s]
+Too dangerous. I'll just avert him. I'll get going. We don't have those tails finding a safe house. Dachshund nodded. Meet me back at the 15th Crossroad, he said before taking off down the alley and disappearing around a corner.
+
+👤 あなた [3704s - 3721s]
+Calcior gave his friend a count of 10 before reaching within himself. Burning his metals. His body came awash with clarity, and power. Gelsier smiled Then, burning zinc, he reached out and yanked firmly on the inquisitor's emotions.
+
+👤 あなた [3722s - 3733s]
+The creature froze in place and spun looking back toward the building. Let's have a chase now. You and I, Kelsey or thought.
+
+👤 あなた [3736s - 3744s]
+We arrived in Terres earlier this week, and I have to say, I find the countryside beautiful.
+
+🎤 SPEAKER_3 [3744s - 3748s]
+The great mountains to the north with their borrows.
+
+🎤 SPEAKER_6 [3762s - 3763s]
+Bluetooth connected.
+
+🎤 SPEAKER_3 [3764s - 3774s]
+No caps and forested mantles. Stand like watchful gods over this land of green fertility. My own lands to the south are mostly flat.
+
+🎤 SPEAKER_3 [3776s - 3787s]
+I think that they might look less dreary if there were a few mountains to vary the terrain. The people here are mostly herdsmen, though timber harvesters and farmers are not uncommon.
+
+🎤 SPEAKER_3 [3788s - 3802s]
+It is a pastoral land, certainly. It seems that a place so remarkably agrarian ups and forested mantles stand like watchful gods over this land of green fertility.
+
+🎤 SPEAKER_3 [3803s - 3805s]
+My own lands to came back toward
+
+
+---
+
