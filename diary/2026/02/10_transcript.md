@@ -107,3 +107,671 @@ Three. Came and counted as caught.
 
 ---
 
+
+
+## 📝 Family Coordinates Surgery Lift And Busy Schedule - 69a87449-4f81-432b-9e8b-6ab3d9d18b27
+
+**記録時間**: 2026-02-10 00:30:49
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 1s]
+You got him.
+
+🎤 SPEAKER_2 [1s - 6s]
+I am him. I'm the original he. Evanel's just copycass.
+
+🎤 SPEAKER_5 [7s - 8s]
+You know me?
+
+🎤 SPEAKER_2 [11s - 15s]
+Next on eiba. Next on Eiba. Yeah. He lives
+
+🎤 SPEAKER_2 [30s - 34s]
+Cold now. Yeah. I'd like to bring you a coat today.
+
+🎤 SPEAKER_2 [51s - 53s]
+So, Omi able to go to play on that? Yeah.
+
+🎤 SPEAKER_1 [59s - 59s]
+Yes.
+
+🎤 SPEAKER_2 [66s - 74s]
+Said it's like one We're meant to be up in the day for Wales on that day. What? You know, up in the Mid Wales one. No. No. I know. We're gonna try and make it happen for you. Okay?
+
+🎤 SPEAKER_2 [83s - 86s]
+I think you probably still first go to date to Wales over the birthday party, though. No.
+
+🎤 SPEAKER_6 [86s - 93s]
+We're going to our case where you have you don't have to pay for things. Yeah. You pay to get in. Yeah.
+
+🎤 SPEAKER_6 [96s - 98s]
+Sounds fun. Right.
+
+🎤 SPEAKER_2 [99s - 100s]
+Ask Mimi about it. Here we go.
+
+🎤 SPEAKER_2 [112s - 120s]
+Doesn't have his work on September's birthday, does it? Because he might have family coming over with cake and tea and all that after. He won't wanna do a sleepover.
+
+🎤 SPEAKER_2 [123s - 128s]
+So We'll figure out, don't we? We'll figure it out. Maybe. And maybe that mummy dad don't go to. We may not go today for a while.
+
+🎤 SPEAKER_10 [130s - 130s]
+See.
+
+🎤 SPEAKER_2 [140s - 143s]
+Yeah. We'll figure out. Don't worry. We'll figure out.
+
+🎤 SPEAKER_8 [143s - 144s]
+Why you want you not go to people?
+
+🎤 SPEAKER_6 [145s - 146s]
+No.
+
+🎤 SPEAKER_2 [147s - 154s]
+It's a long way to go and a lot of effort to get there. Oh, for you maybe, we're not for grown ups.
+
+🎤 SPEAKER_2 [158s - 164s]
+Oh, yeah. I know it sounds mad, but you'll be a grown up window, and you'll find it fun to sit around and listen to some talk.
+
+🎤 SPEAKER_2 [181s - 183s]
+Well, one force pushes against the other.
+
+🎤 SPEAKER_10 [184s - 185s]
+Nice.
+
+🎤 SPEAKER_2 [194s - 195s]
+Nice.
+
+🎤 SPEAKER_10 [195s - 196s]
+It's like No.
+
+🎤 SPEAKER_2 [196s - 201s]
+The more important things though. More important things to learn because when you get secondary school, you're gonna get into really good tricky math.
+
+🎤 SPEAKER_2 [201s - 202s]
+English.
+
+🎤 SPEAKER_5 [203s - 211s]
+What does gravity do And I was like Bruh. It ice cream. Trees around.
+
+🎤 SPEAKER_10 [211s - 213s]
+Makes the trees blowing.
+
+🎤 SPEAKER_2 [223s - 231s]
+Obviously, it's of gravity work to think about it. The more stuff together, it gets it pulls things to it.
+
+🎤 SPEAKER_2 [243s - 245s]
+One Je I told you before. Look. That last one's on the corner there.
+
+🎤 SPEAKER_5 [245s - 250s]
+Let's just be real. Two alpha comes past and we
+
+🎤 SPEAKER_10 [251s - 253s]
+Yeah.
+
+🎤 SPEAKER_2 [253s - 255s]
+Well, well, plenty of cars.
+
+🎤 SPEAKER_10 [269s - 270s]
+Where is he then?
+
+🎤 SPEAKER_5 [272s - 274s]
+He is at the lights.
+
+🎤 SPEAKER_2 [274s - 277s]
+Alright. He's, like, three or four minutes ready to play.
+
+🎤 SPEAKER_5 [277s - 278s]
+Gas off the play for a block.
+
+🎤 SPEAKER_10 [283s - 283s]
+Hey, Google.
+
+🎤 SPEAKER_2 [284s - 286s]
+Sent down for three minutes.
+
+🎤 SPEAKER_2 [290s - 292s]
+Hey, Google. Set alarm for three minutes.
+
+🎤 SPEAKER_11 [298s - 302s]
+Did a little bit of work on your game today, Jude. I did a few ten ten brain mots here.
+
+🎤 SPEAKER_5 [319s - 321s]
+Hundreds of millions of dollars Mas vou-lhe,
+
+🎤 SPEAKER_11 [355s - 359s]
+Dude, you know, brain rots?
+
+🎤 SPEAKER_2 [360s - 368s]
+Before you pick them up, Do they kind of just, like, do they hover and move up and down like that a little bit? No. Or they just like do they have anything around them?
+
+🎤 SPEAKER_11 [369s - 371s]
+Do they have, like, colors or they just They don't they don't have effect.
+
+🎤 SPEAKER_2 [374s - 376s]
+They're just literally there, are they?
+
+🎤 SPEAKER_11 [376s - 377s]
+Yeah.
+
+🎤 SPEAKER_2 [377s - 380s]
+Because I'm gonna add some effects in, think. I'm gonna have this slight hover in there.
+
+🎤 SPEAKER_5 [382s - 384s]
+I'll show you what they what they Yeah.
+
+🎤 SPEAKER_11 [387s - 388s]
+I tell where you do.
+
+🎤 SPEAKER_11 [394s - 400s]
+Cherry? Where are they? They're just there, are they?
+
+🎤 SPEAKER_5 [405s - 406s]
+Owa keeps dying.
+
+🎤 SPEAKER_11 [410s - 411s]
+Why did you move so fast?
+
+🎤 SPEAKER_5 [412s - 415s]
+Because I upgraded my speed a lot. Can you see?
+
+🎤 SPEAKER_5 [420s - 422s]
+This should be an upgrade shot.
+
+🎤 SPEAKER_11 [422s - 428s]
+Look. And what's the click on it for me. Go to upgrade shot. And then you got that over here. Yeah. But if you wanna buy stuff with Robot,
+
+🎤 SPEAKER_10 [434s - 435s]
+Okay.
+
+🎤 SPEAKER_11 [470s - 472s]
+Alright. I'll be in a second. I'll be second.
+
+🎤 SPEAKER_5 [474s - 475s]
+In a See, they parked.
+
+🎤 SPEAKER_10 [496s - 496s]
+So Who is that?
+
+🎤 SPEAKER_11 [496s - 499s]
+Because he's packed there now, it's made it difficult for this car, man.
+
+🎤 SPEAKER_11 [525s - 526s]
+Bro, are you alright or what?
+
+🎤 SPEAKER_10 [527s - 528s]
+You okay?
+
+🎤 SPEAKER_11 [528s - 533s]
+Yeah. Are you sleepy or what? Did you see us come in? Did you see us parked?
+
+🎤 SPEAKER_10 [534s - 534s]
+No?
+
+🎤 SPEAKER_5 [534s - 538s]
+Nope. That's it just came up with a notification. Elia. Elia.
+
+🎤 SPEAKER_11 [542s - 549s]
+Do do you see us in the car park or no? You do? Yeah. Oh, we I missed you.
+
+🎤 SPEAKER_10 [549s - 551s]
+Alright.
+
+🎤 SPEAKER_10 [563s - 564s]
+Other people have to surf?
+
+🎤 SPEAKER_11 [568s - 569s]
+No, they wasn't.
+
+🎤 SPEAKER_10 [571s - 572s]
+Kids out of the bathroom.
+
+🎤 SPEAKER_11 [572s - 577s]
+No. They wasn't. Because if mom called they're standing up and they say, no, he wasn't. Can you not judge be honest now.
+
+🎤 SPEAKER_2 [577s - 580s]
+Don't exaggerate. Was it just really ramped?
+
+🎤 SPEAKER_2 [586s - 589s]
+Right. Mommy's already complained anyway today.
+
+🎤 SPEAKER_5 [589s - 590s]
+Why?
+
+🎤 SPEAKER_11 [590s - 592s]
+About the smoking situation.
+
+🎤 SPEAKER_2 [593s - 595s]
+Were you on school on time now?
+
+🎤 SPEAKER_10 [595s - 596s]
+Yeah.
+
+🎤 SPEAKER_8 [601s - 602s]
+It was a different bush shopper.
+
+🎤 SPEAKER_6 [604s - 604s]
+Alright.
+
+🎤 SPEAKER_1 [604s - 608s]
+The only reason I guess, the only reason that it makes sense is not going in the car and the bus You're lucky there, not more than Great, aren't they?
+
+🎤 SPEAKER_11 [634s - 638s]
+Keep going complete sores, then.
+
+🎤 SPEAKER_5 [638s - 640s]
+They're mostly getting complete Oh, yeah.
+
+🎤 SPEAKER_11 [641s - 643s]
+I'm rightly so as well.
+
+🎤 SPEAKER_5 [644s - 645s]
+What do you got now in there?
+
+🎤 SPEAKER_11 [647s - 657s]
+I know. It's open. No. I do that. Right. Come in out and do that because remember Not again.
+
+🎤 SPEAKER_10 [657s - 658s]
+Elliot.
+
+🎤 SPEAKER_11 [658s - 660s]
+This happened last time.
+
+🎤 SPEAKER_11 [668s - 671s]
+Why'd you don't play with that window. It's a bit dodgy. Alright. Let's turn the car off.
+
+🎤 SPEAKER_10 [684s - 685s]
+Grace Een nokje.
+
+🎤 SPEAKER_11 [686s - 687s]
+Een nokje.
+
+🎤 SPEAKER_11 [692s - 696s]
+Well, can you not do that window anymore, are they? Why don't you do it? I don't know.
+
+🎤 SPEAKER_10 [699s - 700s]
+Great.
+
+🎤 SPEAKER_11 [702s - 708s]
+Right. You guys go in after sitting here and hopefully it sorts out that a little bit. Omi may have been a call.
+
+🎤 SPEAKER_10 [710s - 711s]
+Oh, yeah.
+
+🎤 SPEAKER_11 [711s - 712s]
+Use your house keys to get empties.
+
+👤 あなた [805s - 807s]
+UK? Sorry. Didn't get back to you over there.
+
+🎤 SPEAKER_1 [809s - 810s]
+That's alright. Are you okay?
+
+👤 あなた [810s - 823s]
+Yeah. Good. Just got back from, the school rent. The boys have gone in to the house and I've I've sat in the car still because I've got a few things I needed a message. But but yeah. How are you?
+
+🎤 SPEAKER_1 [823s - 828s]
+I'm just I'm okay. Thank you. My operation's been put back a week, which is Yes.
+
+👤 あなた [828s - 836s]
+That is a bit frustrating because when we're thinking about the the holiday, that's one week less recovery time, I'm guessing, as well.
+
+🎤 SPEAKER_1 [838s - 843s]
+I'll be fine. I'll be alright by the middle of April, I'll be good as new.
+
+👤 あなた [843s - 846s]
+Yes. And that's what you gotta think about.
+
+🎤 SPEAKER_1 [847s - 849s]
+Six weeks, then that'd be fine.
+
+👤 あなた [849s - 851s]
+Oh, well done.
+
+🎤 SPEAKER_1 [851s - 859s]
+I'm I'm just wondering if you've got any space Mhmm. On Wednesday. I lunch well, before lunchtime, half eleven.
+
+👤 あなた [859s - 864s]
+Alright. Let me get my diary up, I'll have a look. What's going on?
+
+🎤 SPEAKER_2 [865s - 869s]
+Tap needs a lift up to land dock. Alright.
+
+🎤 SPEAKER_1 [869s - 870s]
+Surgery in his area.
+
+👤 あなた [870s - 874s]
+Is he? Alright. Yeah. Yeah. What time?
+
+🎤 SPEAKER_1 [876s - 878s]
+I'm working. Half past eleven.
+
+👤 あなた [880s - 882s]
+So, what is that the time he has to arrive or the time I would pick him up?
+
+🎤 SPEAKER_2 [883s - 888s]
+No. No. He has to be there for twelve. So Alright. No. You picked him up. As well. No. No.
+
+👤 あなた [888s - 893s]
+I'm loving then. What is it the undock, is it? Where is it? Yeah. Landok, is it?
+
+🎤 SPEAKER_2 [893s - 894s]
+Landok.
+
+👤 あなた [894s - 895s]
+Oh, I see. Yeah.
+
+🎤 SPEAKER_2 [897s - 901s]
+It's only a half hour then. No. No. Yeah. Gets a sixty break in his and then it's fine.
+
+👤 あなた [901s - 906s]
+Yeah. Sorry. I think I think tomorrow. I'm only dropping him off, Omi. Yeah.
+
+🎤 SPEAKER_2 [906s - 906s]
+Yeah.
+
+👤 あなた [907s - 914s]
+Alright. That's fine. Yeah. I was thinking of Heath. Thought my need a bit more time. Yeah. I'd be delighted to do that. Of course, I will. Yeah.
+
+🎤 SPEAKER_2 [914s - 923s]
+So I pick And then I'm Yeah. When he's ready to come home, it's only day search. But he's having a general anesthetic. So when he's ready to come home, Yeah.
+
+🎤 SPEAKER_1 [923s - 924s]
+They'll phone me, and I'll go and get him.
+
+🎤 SPEAKER_2 [924s - 926s]
+Alright.
+
+👤 あなた [926s - 929s]
+I'll be on standby as a backup as well if in case you need.
+
+🎤 SPEAKER_2 [930s - 930s]
+Okay.
+
+🎤 SPEAKER_1 [930s - 931s]
+Well, I'll leave.
+
+🎤 SPEAKER_2 [931s - 934s]
+I will finish work at half three, 04:00, so I can go and get him.
+
+👤 あなた [936s - 936s]
+Alright.
+
+🎤 SPEAKER_2 [937s - 938s]
+He's not all over the shop.
+
+👤 あなた [938s - 942s]
+Bless bless him. Yeah. Good. Be good for it to get to get him done, ne?
+
+🎤 SPEAKER_2 [943s - 945s]
+Yeah. Yeah.
+
+👤 あなた [947s - 950s]
+Is it I'm gonna pick him up at twenty five pass, ma'am, just to be on the safe side.
+
+🎤 SPEAKER_2 [951s - 955s]
+Well, he won't be ready, so I would go for twenty past.
+
+👤 あなた [955s - 956s]
+Yeah. Yeah.
+
+🎤 SPEAKER_1 [956s - 956s]
+Tell him know what he's like.
+
+👤 あなた [956s - 964s]
+Yeah. Tell tell him I'm coming Tell him I'll be there for quarter pass, man. Just between quarter passing trends. Alright. Now we Okay.
+
+🎤 SPEAKER_2 [964s - 965s]
+That's great. Thank you.
+
+👤 あなた [966s - 972s]
+That helps a lot. No. You're welcome. You're welcome. And are you still working? Are you finished now?
+
+🎤 SPEAKER_2 [974s - 975s]
+I'm doing work on Oh, you don't.
+
+👤 あなた [976s - 979s]
+That's right. Oh, well done.
+
+🎤 SPEAKER_2 [980s - 981s]
+On Tuesday.
+
+👤 あなた [982s - 984s]
+Oh, yeah. That's good.
+
+🎤 SPEAKER_2 [985s - 986s]
+Well done.
+
+👤 あなた [986s - 988s]
+Well, I look forward to catching up soon.
+
+🎤 SPEAKER_2 [989s - 1005s]
+And Yeah. You never know. Yeah. It's just I mean So what happened to the half turn Rachel going away and all of that jazz? Because when I spoke to Paul, he was like, yeah, June stay with Jude. I'm like, oh, okay.
+
+👤 あなた [1005s - 1009s]
+He did Well, he may he puts it in such a way it's hard to say no, to be honest. It's a bit all it's a bit say that, mate.
+
+🎤 SPEAKER_1 [1010s - 1013s]
+Say you said yes when you meant no.
+
+👤 あなた [1013s - 1023s]
+No. Well, no. I just put some very clear boundaries in. It's so, basically, Rachel's gone away Sunday. To Monday with Hannah and the kids. Alright.
+
+👤 あなた [1024s - 1035s]
+And then Hannah's come back to Wales then for the rest of the week with Toby and Alice. Right. So what the plan is we're gonna have Jonah Tuesday night. Paul's gonna bring Jonah to the football.
+
+👤 あなた [1036s - 1039s]
+Which is an evening kickoff, and then we're gonna take him home.
+
+🎤 SPEAKER_1 [1040s - 1040s]
+And then
+
+🎤 SPEAKER_2 [1040s - 1041s]
+Yep.
+
+👤 あなた [1041s - 1050s]
+And then Paul's gonna pick him up in the morning for break around breakfast time. So he's staying, but they're not really he's not really playing, if that makes sense. He's just literally having a sleepover.
+
+🎤 SPEAKER_2 [1051s - 1052s]
+Yeah.
+
+🎤 SPEAKER_1 [1052s - 1052s]
+Okay.
+
+👤 あなた [1053s - 1070s]
+But I met I'm possibly in the busiest time of my entire life the this three months. I'm just utterly overwhelmed, to be honest with you, with with union bible college stuff. But once it's done, it's done, and then I'm free.
+
+🎤 SPEAKER_2 [1072s - 1078s]
+But unfortunately, I'm just you know, get get kind of time take schedule down on paper.
+
+👤 あなた [1078s - 1085s]
+Well, yeah, pretty much the timetable is every every hour available. I'm pretty much taking time off god first almost. To just get this done now.
+
+🎤 SPEAKER_2 [1087s - 1091s]
+I will say that. Do you mean your dissertation on exams?
+
+👤 あなた [1091s - 1110s]
+I've got an essay as well. Got an essay on the ZKYL 38, the Maygog and Git. Oracle. So that's that. As well as the dissertation and the yes. And the exams as well. So it is, it's unfortunately how it's unfortunate how busy it is.
+
+👤 あなた [1110s - 1113s]
+For the last semester, to be honest.
+
+🎤 SPEAKER_1 [1113s - 1114s]
+But So will it finish?
+
+🎤 SPEAKER_2 [1116s - 1119s]
+Well, the exams are in early May.
+
+👤 あなた [1119s - 1125s]
+They're gonna us the exact days yet. They just give us exam week. So that's the May, I think, or something like that. Come in when we're going away.
+
+🎤 SPEAKER_1 [1128s - 1130s]
+I think We'll go away on the May 23.
+
+👤 あなた [1130s - 1132s]
+Yeah. Be all done by then. Praise god.
+
+🎤 SPEAKER_1 [1134s - 1134s]
+Can you imagine that?
+
+👤 あなた [1135s - 1145s]
+I know. It'd be a nice way. To be honest, I'm really looking forward to it. I'm looking forward to you know, that's a signal really that that's the end of that chapter that last six years Yep.
+
+🎤 SPEAKER_1 [1146s - 1146s]
+Yep.
+
+🎤 SPEAKER_2 [1147s - 1147s]
+And what a way to celebrate.
+
+👤 あなた [1147s - 1149s]
+What a way to really celebrate.
+
+🎤 SPEAKER_1 [1149s - 1151s]
+Yeah. Exactly. Yeah.
+
+👤 あなた [1152s - 1159s]
+Got blinking Cape Town on the mine. Now we're going in a week a month today, we're going, four weeks today. So that's a bit a carton.
+
+🎤 SPEAKER_2 [1161s - 1164s]
+So what you're gonna oh, that's gonna be a week, though, isn't it? You're away.
+
+👤 あなた [1164s - 1167s]
+Yeah. That's right. Yeah. We'll wait Sunday to Sunday, essentially.
+
+🎤 SPEAKER_2 [1169s - 1179s]
+Can you have a word with the church and just explain what the issue is And, you know, everybody pulled together. We're all a team. We're family. Yeah. I've done that. I need I need as much help as you can give.
+
+👤 あなた [1180s - 1187s]
+Yeah. And they've stepped up to be fair. They I've I've dished out lots of preaching to the guys in the church and Lois as well.
+
+👤 あなた [1187s - 1200s]
+And so they're covering pretty much every week I've got a, you know, a deadline or something like that. I'm not preaching. So so that's been good. One of the Sundays we're away in Cape Town, gonna do a breakfast Sunday.
+
+👤 あなた [1201s - 1211s]
+That'd be good. Yep. So, yeah, they are doing well, but it's just kind of like it's just kind of a bit full on unfortunately. But there we are.
+
+🎤 SPEAKER_2 [1212s - 1216s]
+You know, you work hard and you get the rod at the end of Well, is there any you can certainly do one thing at a time.
+
+👤 あなた [1217s - 1221s]
+Well, yeah. In theory, yeah. But it's fine.
+
+🎤 SPEAKER_2 [1221s - 1232s]
+It's It can only ring one. You can only read one thing at a time. Oh. You can only type one thing at a time. You don't have three things on the go typing because you'll getting the right mess.
+
+👤 あなた [1232s - 1240s]
+Well, what I've done is I've done most of the reading for my dissertation now. I'm at, like, I think 58,000 words of quotes I've saved.
+
+👤 あなた [1241s - 1249s]
+For that Alright. Which is a bit ridiculous. I think I told you all this time. And then Did you get your proposal back? Yeah. It's all being approved, so that's good.
+
+👤 あなた [1250s - 1251s]
+But they type It's good.
+
+🎤 SPEAKER_2 [1251s - 1254s]
+So only once you put it in.
+
+👤 あなた [1254s - 1262s]
+Yeah. Yeah. It's because I I had to chat the supervisor beforehand, you see. So they're able to steer me too. Mac. Yeah.
+
+🎤 SPEAKER_2 [1263s - 1279s]
+That's great. In nursing, you put it in on the drill down and say it's not precise enough Yeah. Go away. And then you have to go back with another one that's more precise, and you have to go back honestly. Yeah. By the time they've given you your proposal back, you don't wanna it anymore anyway.
+
+👤 あなた [1281s - 1287s]
+I think probably slightly different in the in the sense that it's a bit easier to get really narrow, I guess.
+
+🎤 SPEAKER_2 [1287s - 1288s]
+Yeah.
+
+👤 あなた [1289s - 1294s]
+In theological weeds as such, whereas I can imagine it's a bit harder to do that.
+
+🎤 SPEAKER_2 [1294s - 1317s]
+Harder. Bloody hell. Ridiculous. It's not harder. It just they they just drill it down and down and down. You can't just talk about burns. You know? You have to drill it right down to how the third layer of thin reacts to a burn that's given by water, not anything else in an of blah blah to a young child.
+
+🎤 SPEAKER_2 [1318s - 1319s]
+It's not you know? Yeah.
+
+🎤 SPEAKER_1 [1319s - 1320s]
+Go ahead, Bob.
+
+🎤 SPEAKER_2 [1320s - 1320s]
+No.
+
+👤 あなた [1321s - 1333s]
+Well It's because you you contribute something to the academy, the to the, the general brain knowledge of Paul's Paul knowledge in total. So having something really will help, I guess.
+
+👤 あなた [1335s - 1339s]
+But but there we are. So once asked then, you know, we'll see what happens.
+
+🎤 SPEAKER_2 [1342s - 1353s]
+Okay. So I'll tell Doug, I'll pick him up. Quarter past eleven. And he'll drop you off. You'll drop him off. He knows where he's going as far as the landmark. He knows the door he's gotta in.
+
+👤 あなた [1353s - 1355s]
+Am I dropping him through the main entrance?
+
+🎤 SPEAKER_2 [1356s - 1361s]
+Or No. No. He's got go right up the top and around the corner, but he knows where it is. He'll drop me off there.
+
+👤 あなた [1361s - 1365s]
+Okay. Good. That's fine. Yep. Happy to do that.
+
+🎤 SPEAKER_2 [1366s - 1367s]
+Okay.
+
+👤 あなた [1368s - 1368s]
+Yep.
+
+🎤 SPEAKER_2 [1368s - 1371s]
+Good. Well, Thank you.
+
+👤 あなた [1371s - 1374s]
+Pleasure. Pleasure. We'll chat soon.
+
+🎤 SPEAKER_2 [1374s - 1377s]
+Do you want me to ring user reminder?
+
+👤 あなた [1378s - 1379s]
+No. Gosh.
+
+🎤 SPEAKER_2 [1379s - 1386s]
+I was in my because your father's your father's got an appointment at quarter past four, and he's been back and forth three times all the rest.
+
+🎤 SPEAKER_2 [1387s - 1391s]
+Has he? Why? Harris just forgot different things.
+
+👤 あなた [1391s - 1391s]
+Oh, I see.
+
+🎤 SPEAKER_2 [1391s - 1393s]
+Got this Forgot that.
+
+👤 あなた [1393s - 1400s]
+Oh, yeah. No. I got Rachel in my life Don't worry. She's a she she suits me out.
+
+🎤 SPEAKER_2 [1400s - 1402s]
+She suits to you on the way out.
+
+👤 あなた [1402s - 1408s]
+She suits she sort me out. Don't you worry? Yeah. It's fine. It's in the diary. I've put it in the diary. Don't worry?
+
+🎤 SPEAKER_2 [1408s - 1409s]
+Fine. You.
+
+👤 あなた [1409s - 1409s]
+Alright.
+
+🎤 SPEAKER_2 [1409s - 1412s]
+Okay. Thanks. Alright. Bye. Take care.
+
+👤 あなた [1412s - 1414s]
+Love you. Bye.
+
+🎤 SPEAKER_2 [1414s - 1415s]
+Love you. Bye.
+
+
+---
+
