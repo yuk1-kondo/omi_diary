@@ -1,0 +1,71 @@
+{
+  "id": "ab61f02c-67e0-4ba3-9185-e88215421304",
+  "created_at": "2026-02-09T13:50:39.755704+00:00",
+  "started_at": "2026-02-09T13:50:44.812559+00:00",
+  "finished_at": "2026-02-09T13:50:57.651604+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "XNOWテスト送信",
+    "overview": "「XNOWテスト送信」というフレーズを繰り返して発話しているテスト用の音声記録。",
+    "emoji": "🧪",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "f59277c2-919e-4723-a2ae-6d781c05e8b8",
+      "text": "XNOWテスト送信 XNOW テスト送信。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.5258788721439487e-07,
+      "end": 3.279999847412107,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "73c175cb-0860-4e93-a341-807a5aeac5b7",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ab61f02c-67e0-4ba3-9185-e88215421304",
+      "chunk_timestamps": [
+        1770645035.005,
+        1770645040.25,
+        1770645046.671
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-09T13:50:35.005000+00:00",
+      "duration": 16.666
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## XNOWテスト送信について\n- 「XNOWテスト送信」というメッセージのみ発言\n- 動作確認目的のテスト送信と考えられる\n\n## 次のステップ\n- 必要なら本番用の内容で再送信する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
