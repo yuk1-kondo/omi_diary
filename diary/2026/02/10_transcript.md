@@ -1235,3 +1235,20 @@ Is he working on another one then? Do we know?
 
 ---
 
+
+
+## 📝 Brief Discussion of Rear Hatches View - 867989fe-5350-40f7-b80f-3823971e0845
+
+**記録時間**: 2026-02-10 04:45:26
+
+### STT生テキスト
+
+🎤 SPEAKER_5 [0s - 3s]
+Now here's a nice view with the rear hatches.
+
+🎤 SPEAKER_5 [52s - 55s]
+Shorter, In our ACN, you've got the 40 to 60 on the cross.
+
+
+---
+
