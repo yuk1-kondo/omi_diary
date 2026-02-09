@@ -7826,3 +7826,23 @@ Calcio stuffed another one of the little red frosted cakes into his mouth chewin
 
 ---
 
+
+
+## 📝 夜市の準備とみゅうちゃんのやる気対策 - 57b730f6-2c3b-4dab-93de-928abe3947b5
+
+**記録時間**: 2026-02-09 23:05:27
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 2s]
+今日も熱心に夜市の準備
+
+🎤 SPEAKER_1 [10s - 14s]
+Miyuちゃんは まだやる気が出ないみたい
+
+🎤 SPEAKER_1 [20s - 24s]
+そこで千鶴さんは みゅうちゃんが興味が湧きそうなものを 。 やる
+
+
+---
+
