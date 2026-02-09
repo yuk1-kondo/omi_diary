@@ -1004,3 +1004,62 @@ Jude. Jude. Like,
 
 ---
 
+
+
+## 📝 User and Exactly Discuss Catechism Structure - 2536ee46-57a1-4113-9b83-df28ef8f9d79
+
+**記録時間**: 2026-02-10 02:39:50
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 7s]
+Okay. All we have for today. Yeah. And there's a chicken care of chips. It's on its way. It's just chicken Kievan chips. It's just cooking. Thank you.
+
+🎤 SPEAKER_2 [8s - 9s]
+K.
+
+👤 あなた [9s - 10s]
+Yeah. You're right.
+
+🎤 SPEAKER_2 [11s - 12s]
+Hold on.
+
+👤 あなた [13s - 28s]
+But I was thinking, I thought if you got an opinion on this or not. But for part two of the simple Christian catechism, instead of going the last characterism I had 18, part one I had 18 questions.
+
+👤 あなた [28s - 37s]
+So instead of starting at question 19, each of the parts have question one. And that makes it less intimidating maybe.
+
+🎤 SPEAKER_2 [42s - 49s]
+I see what you're saying. Right. Okay. Makes it less intimidating, easier to keep track of because we're only on number We're like week three.
+
+👤 あなた [49s - 55s]
+One part two question two rather than question nineteen. Which part is that again? You know?
+
+🎤 SPEAKER_2 [56s - 69s]
+But then will people will it give a bit of context or number 18? Oh, no. Maybe it'll give people a refresh of, I can't learn the last ones. I didn't do very good, but I'm gonna learn these ones really well. Yeah.
+
+👤 あなた [69s - 71s]
+Because you think I'm blinded. I'm not learning the first 18.
+
+🎤 SPEAKER_2 [71s - 73s]
+Yeah. Yeah. Maybe.
+
+👤 あなた [73s - 81s]
+No. I'm getting the cards ready to be amongst everything else I'm doing.
+
+👤 あなた [89s - 92s]
+I feel like the church is failing but they'll cut us No one's thinks that.
+
+🎤 SPEAKER_2 [94s - 94s]
+No one thinks that.
+
+🎤 SPEAKER_1 [95s - 100s]
+The only people that might think that are people who think things are a good idea and they never come to them when they're actually happening.
+
+🎤 SPEAKER_2 [101s - 105s]
+So you're fine. Anybody wanted normal prayer, think he hasn't actually been coming. So
+
+
+---
+
