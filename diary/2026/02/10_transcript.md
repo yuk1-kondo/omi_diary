@@ -1063,3 +1063,161 @@ So you're fine. Anybody wanted normal prayer, think he hasn't actually been comi
 
 ---
 
+
+
+## 📝 Family Chat Over Tea And Politics - 9442852a-4b4f-426e-aef8-1e6bea40f784
+
+**記録時間**: 2026-02-10 03:02:25
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 1s]
+This is my tea.
+
+👤 あなた [1s - 6s]
+Wow. Wow. That looks impressive, Rachel. Wow. Even now, bit stinky.
+
+🎤 SPEAKER_1 [41s - 46s]
+John says we need to take a break. Dear. Grief.
+
+🎤 SPEAKER_2 [129s - 132s]
+Those European countries France, Germany, others.
+
+🎤 SPEAKER_2 [136s - 140s]
+Stop using American products of, like like Microsoft, Apple, There's a boycott going on.
+
+👤 あなた [141s - 145s]
+Yeah. I heard about that.
+
+🎤 SPEAKER_2 [145s - 150s]
+They've got things that that you know, because of America, also they can't trust that it's not a security threat.
+
+👤 あなた [151s - 152s]
+Exactly.
+
+🎤 SPEAKER_2 [152s - 161s]
+I mean, he's so rogue Trump. He's the greatest national threat. Security threat to the world probably because he's so delusional. He could literally do anything which would have no Yeah.
+
+👤 あなた [162s - 167s]
+They we can't well, exactly. We can't exactly trust that to go back to normal afterwards. No.
+
+👤 あなた [179s - 180s]
+It's gonna take a while, though.
+
+👤 あなた [227s - 229s]
+He's he's doing this, that, the other.
+
+🎤 SPEAKER_2 [233s - 239s]
+I'm at about a thousand calories today. If that Nice. Much probably less than that.
+
+🎤 SPEAKER_1 [268s - 268s]
+I am.
+
+👤 あなた [270s - 273s]
+Pause that a second, Jude. How'd you find your
+
+🎤 SPEAKER_2 [273s - 273s]
+Kiev?
+
+🎤 SPEAKER_1 [274s - 274s]
+Yeah.
+
+🎤 SPEAKER_2 [274s - 277s]
+Well, he was eating it with his fingers. He's now realized that perhaps he needs some color. Right?
+
+👤 あなた [278s - 279s]
+On. Hang on. Pause a minute. Gosh.
+
+👤 あなた [284s - 295s]
+Take that. See the flooring? Is that the the style that you want, is it? Exactly the same? Well, can be exactly the same. Can we have it slight different? No.
+
+🎤 SPEAKER_2 [297s - 297s]
+Alright.
+
+👤 あなた [300s - 302s]
+They can't be exactly the same as cheating and copying.
+
+🎤 SPEAKER_1 [302s - 305s]
+No, dad. Every single game has, like, that floor.
+
+👤 あなた [306s - 307s]
+Well, exactly the same or slightly Exactly the same.
+
+👤 あなた [319s - 320s]
+He coming back in then, is he?
+
+🎤 SPEAKER_4 [320s - 321s]
+I don't know.
+
+🎤 SPEAKER_2 [321s - 322s]
+I can't really watch that.
+
+👤 あなた [325s - 328s]
+No. You can go you can do that. He's got his tablet now, to be honest with you.
+
+🎤 SPEAKER_2 [330s - 331s]
+He's on the roof of box game, isn't he? He's game No.
+
+👤 あなた [331s - 341s]
+He's watching about a game. Yes. He is. I just went in there. Oh, and there. Oh, and there. I don't know. Yeah. That is a bit tricky.
+
+👤 あなた [350s - 352s]
+Mommy's gonna watch TV in the lounge now. Okay?
+
+🎤 SPEAKER_3 [353s - 354s]
+That okay?
+
+👤 あなた [356s - 357s]
+Bye. Bye.
+
+🎤 SPEAKER_1 [363s - 366s]
+Can I? Yeah. Thank you.
+
+🎤 SPEAKER_2 [366s - 368s]
+Do want to drink into this game, Reese?
+
+🎤 SPEAKER_3 [368s - 369s]
+No.
+
+👤 あなた [388s - 389s]
+Not done, babe.
+
+🎤 SPEAKER_1 [390s - 390s]
+We'll chat.
+
+🎤 SPEAKER_2 [393s - 397s]
+That Greek natural yogurt with pesto, please, basically makes a sauce
+
+🎤 SPEAKER_3 [397s - 398s]
+Right.
+
+🎤 SPEAKER_2 [400s - 407s]
+So if you need to do anything, like pestones or whatever Pesto don't go with lots of
+
+👤 あなた [419s - 420s]
+Press hold the button.
+
+👤 あなた [440s - 442s]
+Bit like wait, why don't you put their phones on this?
+
+👤 あなた [445s - 450s]
+It'd be better. Get better quality. It's better quality, champs.
+
+🎤 SPEAKER_2 [450s - 452s]
+You do realize no one that can access me if I've got a head headphones on.
+
+🎤 SPEAKER_4 [452s - 454s]
+Isn't that What I'm basically doing is is turning off off for the night.
+
+👤 あなた [456s - 458s]
+Isn't that lovely?
+
+🎤 SPEAKER_2 [458s - 460s]
+It is, but it's not really my job.
+
+👤 あなた [461s - 463s]
+Just relax. Enjoy your tea and in a bit of peace.
+
+
+---
+
