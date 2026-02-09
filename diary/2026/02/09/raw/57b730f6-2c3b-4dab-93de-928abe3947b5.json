@@ -1,0 +1,128 @@
+{
+  "id": "57b730f6-2c3b-4dab-93de-928abe3947b5",
+  "created_at": "2026-02-09T14:05:27.572765+00:00",
+  "started_at": "2026-02-09T14:05:23.782559+00:00",
+  "finished_at": "2026-02-09T14:07:13.028828+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "夜市の準備とみゅうちゃんのやる気対策",
+    "overview": "話し手は今日も夜市の準備に熱心に取り組んでいる一方で、Miyu（みゅう）ちゃんはまだやる気が出ていない様子だと述べている。そのため千鶴さんが、みゅうちゃんが興味を持ちやすい作業や内容を用意して、やる気を引き出そうとしている様子が語られている。",
+    "emoji": "🎐",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "9c0c5625-f276-423a-b4fd-c3ab8549f401",
+      "text": "今日も熱心に夜市の準備",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.811981746868696e-07,
+      "end": 2.5599998188018844,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "16d1d959-8bc9-4d99-a634-cb4a628ca568",
+      "text": "Miyuちゃんは まだやる気が出ないみたい",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 10.850029818801886,
+      "end": 14.149999818801916,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f6e8098a-c18b-404e-a734-81dbb277c0a0",
+      "text": "そこで千鶴さんは みゅうちゃんが興味が湧きそうなものを 。 やる",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 20.85999981880184,
+      "end": 24.999999818801825,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "9965373c-e9d9-4bc3-84e2-1b186c4117ae",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "57b730f6-2c3b-4dab-93de-928abe3947b5",
+      "chunk_timestamps": [
+        1770645924.595,
+        1770645930.15,
+        1770645935.929,
+        1770645941.522,
+        1770645946.609,
+        1770645951.918,
+        1770645957.111,
+        1770645962.22,
+        1770645968.159,
+        1770645973.308,
+        1770645979.152,
+        1770645984.65,
+        1770645990.314,
+        1770645995.864,
+        1770646001.021,
+        1770646007.638,
+        1770646011.471,
+        1770646016.714,
+        1770646021.923,
+        1770646027.112,
+        1770646033.208,
+        1770646038.398,
+        1770646043.521,
+        1770646049.013,
+        1770646053.81,
+        1770646058.914,
+        1770646064.286,
+        1770646069.556,
+        1770646075.234,
+        1770646080.241,
+        1770646085.778,
+        1770646091.023,
+        1770646096.686,
+        1770646102.3
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-09T14:05:24.595000+00:00",
+      "duration": 182.705
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 夜市準備の状況\n- 今日も夜市の準備を進行中  \n- Miyuちゃんはまだやる気が出ていない  \n\n## 千鶴さんの対応\n- Miyuちゃんの興味を引けそうなことを用意  \n- やる気アップを目的に工夫している  \n\n## 今後の動き\n- 興味を持ったらMiyuちゃんも準備に参加予定  \n- 千鶴さんの工夫の効果を様子見する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
