@@ -775,3 +775,62 @@ Love you. Bye.
 
 ---
 
+
+
+## 📝 Friends React To AI Video Editing Demo - ce100159-5c71-4d7d-8a00-2c875da9e7c5
+
+**記録時間**: 2026-02-10 01:10:07
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 8s]
+So have you heard of Clin three point o? I heard it can create multiple scene cuts like this with a single prompt.
+
+🎤 SPEAKER_3 [14s - 27s]
+And it knows when to cut to whoever is talking. But did you know that all this audio was also generated with the same prompt? I I guess I didn't, sir.
+
+🎤 SPEAKER_3 [27s - 30s]
+Study hard a kid. Eat your spaghetti.
+
+🎤 SPEAKER_3 [130s - 134s]
+Now watch this. Look at this little kid saying, what the fuck? Fuck you up.
+
+🎤 SPEAKER_4 [135s - 137s]
+I don't don't listen to him yelling at him.
+
+🎤 SPEAKER_4 [157s - 167s]
+Look at this. That's the wind test. The wind direction. He yeah. Just right. No. No? Yeah. Now in a moment, he stops
+
+🎤 SPEAKER_4 [184s - 184s]
+See you later.
+
+🎤 SPEAKER_4 [231s - 233s]
+What the hell? I'm You good?
+
+🎤 SPEAKER_3 [233s - 236s]
+Why the hell was the camera in a completely different room?
+
+🎤 SPEAKER_4 [236s - 239s]
+No. I I don't That's that's insane. No.
+
+🎤 SPEAKER_3 [239s - 242s]
+Switched the cameras again. No. Not that one.
+
+🎤 SPEAKER_6 [243s - 244s]
+One more One more.
+
+🎤 SPEAKER_3 [244s - 245s]
+No. Come on. No. No.
+
+🎤 SPEAKER_5 [245s - 245s]
+No.
+
+🎤 SPEAKER_4 [246s - 249s]
+Because I know there's another camera in completely different rooms. Switching. Are you talking about this one?
+
+🎤 SPEAKER_3 [250s - 252s]
+There's one outside room to this.
+
+
+---
+
