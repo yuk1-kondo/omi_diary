@@ -7584,3 +7584,245 @@ XNOWテスト送信 XNOW テスト送信。
 
 ---
 
+
+
+## 📝 Family Errands and Reading Mistborn Excerpt - d8071d59-9c8c-4ec8-adc6-cec8b1745091
+
+**記録時間**: 2026-02-09 22:45:28
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 1s]
+I'm not sure to be honest.
+
+👤 あなた [22s - 26s]
+O 4,000 tongues to sing.
+
+👤 あなた [30s - 32s]
+Or did you get rid of the Johnny, Rachel?
+
+👤 あなた [42s - 46s]
+Did you get rid of the Johnny as well then, Rich? Yeah. Thanks.
+
+🎤 SPEAKER_1 [56s - 58s]
+Yeah. We need to do in the right way.
+
+👤 あなた [60s - 61s]
+Do what in the right way.
+
+👤 あなた [78s - 80s]
+Yeah. Well, exactly.
+
+👤 あなた [84s - 88s]
+Yeah. Right. I'm gonna go then.
+
+👤 あなた [96s - 98s]
+Just need my blinking keys now.
+
+🎤 SPEAKER_2 [105s - 107s]
+Où est ma glass of keys?
+
+👤 あなた [125s - 131s]
+You bet later, Rachel. Probably, I don't know, if I'm gonna go and get the kids first or whatever. It depends how long this thing goes for now.
+
+🎤 SPEAKER_2 [137s - 138s]
+See you.
+
+👤 あなた [290s - 296s]
+We can search to have a grandson as loony as she is. Mystical
+
+👤 あなた [300s - 326s]
+Sometimes I worry that I'm not the hero. Everybody thinks so. You know? It's all cool. Prologue. Well, Ash a survivor of after a fashion. Perhaps an person reading of my life would name me a religious tyrant. He could call me there again.
+
+👤 あなた [327s - 380s]
+What is to make in the end I'm the one with the all these. One. Ash fell the sky. They watched the bowling drift through the air. Two, In Kelsier's opinion, the city of Lutheran, seat to the lord ruler, was upon East Site. Most of the buildings had been built from stone blocks with threatening of ministry officers. The count on a inquisition, or even the canton of orthodoxy at a far more honored reputation. However, voluntarily entering any ministry office, putting yourself in the of the applicators. Well, that was a thing to do on after serious considerations.
+
+👤 あなた [382s - 422s]
+Came and took a deep breath, then stroke forward, his dueling cane tapping against the stones as he walked. He wore his rich nobleman's suit, he was accompanied by a half dozen crew members, including Ben, to act as his servants. Ben followed came in up the steps and waited as one of the crew members jumped the six attendants, only Vin seems to have been told nothing of Cayman's plan. Suspiciously, Gaiman's supposed partner in the ministry scam, was no to be seen. Vin entered the Canton Building.
+
+👤 あなた [423s - 440s]
+Vibrant red light sparkled with lines of blue, fell from a rose window. A single with mid level tattoos around his eyes sat behind a desk at the end of the extended entryway. Came in a approached, his cane thumping against the carpet as he walked.
+
+👤 あなた [442s - 460s]
+I am Lord Jedou, he said. What are you doing, David? Thought, you insisted to Theron that you wouldn't meet with here. The operator nodded, making a notation in his ledger. He waved to the side.
+
+👤 あなた [461s - 481s]
+You may take one attendant with you into the way chamber, the rest must remain here. Caiman's half of distinct. Indicated what he thought of that prohibition. The obligator, however, didn't look up from his ledger, came and stood for a moment, and then couldn't have evenly angry or just playing the part of an arrogant nobleman.
+
+👤 あなた [482s - 497s]
+Finally, he'd you have to figure it then. Come, he said. Turning and guaddling toward the indicated door. The room beyond was lavish and plush, and settled above and lounged in various postures of waiting.
+
+👤 あなた [497s - 509s]
+I checked chair and settled into it, then pointed toward a table set with wine and red frosted cakes. Ben obediently fetched him a glass of wine and a plate of food, ignoring her own hunger.
+
+👤 あなた [510s - 528s]
+Came in began to pick hungrily at the cakes, smacking quietly as he ate. He's nervous. The water say nothing. Hame and crumbled between bites You are betraying them.
+
+👤 あなた [529s - 567s]
+And whispered it, came and nodded. But how? Why? Darren's plan was complex and execution but simple in concept. Every year, the ministry transferred its new obligators from a northern training facility south to Lutherdale for final Theron had discovered, however, that those acolytes and their overseers brought down with them large amounts of ministry funds disguised as baggage to be strongholded in Lucedale. Banditry was very difficult to the final amount with the constant patrols along canal routes.
+
+👤 あなた [568s - 582s]
+However, if one were running the very canal boats that the acolytes were sailing, on, a robbery could become possible. Arranged at just the right time, the gods turning on their passengers and then could make quite a Hi.
+
+🎤 SPEAKER_1 [597s - 598s]
+What can I get for you?
+
+👤 あなた [599s - 601s]
+Hi. Yeah. Yeah. Can I have a mighty bucket for one, please?
+
+🎤 SPEAKER_1 [601s - 602s]
+Absolutely. What drink?
+
+👤 あなた [603s - 608s]
+Diet Pepsi or Pepsi Max? Can I have two of the garlic mayo dips, please?
+
+🎤 SPEAKER_2 [611s - 611s]
+That's it. Thank you.
+
+👤 あなた [629s - 650s]
+Profit, then blame it all on banditry. Theron's crew's weak, Himan said quietly. He expended too many resources on this job. But the return he'll make, Vince said, will never happen if I take what I can now, then run.
+
+👤 あなた [651s - 662s]
+Gaiman said, smiling. I'll talk the obligators into a down payment to get my caravan then disappear, and leave fairing to deal with the disaster when the
+
+👤 あなた [666s - 677s]
+Vin stood back slightly shocked. Setting up a scam like this would have cost Theron thousands upon thousands of boxings. If the deal fell through now, he would be
+
+🎤 SPEAKER_2 [697s - 697s]
+Thank you.
+
+👤 あなた [700s - 701s]
+Thanks.
+
+🎤 SPEAKER_2 [705s - 705s]
+Thank you.
+
+🎤 SPEAKER_2 [710s - 715s]
+Great. Thank you. Some napkins, please. Thank you.
+
+🎤 SPEAKER_2 [720s - 722s]
+Great. Thanks so much. Thank you. Thanks.
+
+👤 あなた [722s - 722s]
+Goodbye.
+
+👤 あなた [753s - 762s]
+And with the ministry hunting him, he wouldn't even have time to seek revenge. King who would make a quick profit as well as himself of one of his more powerful rivals.
+
+👤 あなた [764s - 778s]
+There was a fool to bring Kamen into this ship dog. But then the amount Theron had promised to pay Cameron was great. He probably assumed that Cayman's greed was keep him honest until Farron himself could pull a double cross.
+
+👤 あなた [779s - 787s]
+Came in and simply worked faster than anyone, even Vin had expected. How could have known that Cameron would undermine the job itself?
+
+👤 あなた [787s - 802s]
+Rather than wait and try and steal the entire hall from the caravan boats? Vince's stomach twisted. It's just another portrayal, she thought sickly. Why does it still bother me so? Everyone betrays everyone else.
+
+👤 あなた [803s - 817s]
+That's the way life is. She wanted to find a corner, someplace cramped and secluded. And hide alone. Anyone will betray you. Anyone.
+
+👤 あなた [819s - 829s]
+But there was no place to go. Eventually, a minor obligator entered and called for Lord Jadu. Then followed came in as they were ushered into an audience chamber.
+
+👤 あなた [830s - 849s]
+The man who waited inside, sitting behind the audience desk, was not Came and paused in the doorway. The room was austere, bearing only the desk and simple gray carpeting. The stone wall were unadorned, the only window barely a hand span wide.
+
+👤 あなた [850s - 864s]
+The albigator who waited for them had some of the most intricate tattoos around his eyes that Vin had ever seen. She wasn't even certain what rank they implied, but they extended all the way back to the obligator's ears and up over his forehead.
+
+👤 あなた [865s - 884s]
+Lord Judou, the strange obligator said. Like Laird, he wore grave robes, but he was very different from the stern bureaucratic men came into dealt with before. This man was lean in a muscular way, and his clean shaven triangular head gave him an almost predatory look.
+
+👤 あなた [885s - 896s]
+I was under the impression that I would be meeting with Perlin came and said, still not moving into the room. Trell and Laird has been called away another business.
+
+🎤 SPEAKER_3 [897s - 920s]
+I am Hyprellin Aryev, head of the board that was reviewing your proposal. You have a rare opportunity to address me directly. I normally don't hear cases in person, but Lead's absence has made it necessary for me to to share in some of his work. Vince's made her tense. We should go now.
+
+🎤 SPEAKER_3 [922s - 934s]
+Came and stood for a long moment, and Vin could see him considering. Run now or take a risk for the greater prize? Vinny didn't care about prizes. She just wanted to live.
+
+🎤 SPEAKER_3 [935s - 945s]
+Cayman, however, had not become crew leader without the occasional gamble. He slowly moved into the room, eyes cautious as he took the seat opposite the obligator.
+
+🎤 SPEAKER_3 [946s - 958s]
+Well, Perlin Arev, came and said with a careful voice. I assume that since I have been called back for another appointment, the board is considered my offer.
+
+🎤 SPEAKER_3 [960s - 961s]
+In due
+
+🎤 SPEAKER_3 [976s - 983s]
+Dude, we are the obligator set Though I must admit, there are some council members who are apprehensive about
+
+🎤 SPEAKER_3 [988s - 1004s]
+The minister generally prefers to be conservative in its financial operations. I see. But, Mario said, there are others on the board who are quite eager to take advantage of the savings you offered us.
+
+🎤 SPEAKER_3 [1006s - 1021s]
+And with which group do you identify your grace? I, as of yet, have not made my decision. The obligator leaned forward, which is why I noted the you have a rare opportunity.
+
+🎤 SPEAKER_3 [1022s - 1038s]
+Convince me, lord Jadou, and you will have your contract. Fully, Colin layered out by the details of our came and said. Yes. But I would like to hear the arguments from you personally.
+
+🎤 SPEAKER_3 [1039s - 1048s]
+Humor me. Lynn frowned. Remained near the back of the room, standing near the door, still half convinced she should run.
+
+🎤 SPEAKER_1 [1051s - 1052s]
+Well, Ariev asked.
+
+🎤 SPEAKER_3 [1053s - 1079s]
+We need this contract, your grace, came and said. Without it, we won't be able to continue our canal shipping operations. Your contract would give us a much needed period of stability, and chance to maintain our caravan boats for time, while we search for other contracts. Omi have studied Kevin for a moment. Surely, you can do better than that, Lord Jadu.
+
+🎤 SPEAKER_3 [1079s - 1098s]
+They had said that you were very persuasive. Let me hear you prove that you deserve our patronage. Vin prepared her luck. She could make Arif more inclined to believe, but something was strained there. The situation felt wrong.
+
+🎤 SPEAKER_3 [1100s - 1110s]
+We are your best choice, your brace, came and said. You fear that my house will suffer economic failure? Well, if it does, would it be lost?
+
+🎤 SPEAKER_3 [1110s - 1124s]
+At worst, my narrow boats would stop running, and you would have to find other merchants to deal with. Yet if your patronage is enough to maintain my house, then you will find yourself an enviable long term contract.
+
+🎤 SPEAKER_3 [1125s - 1136s]
+I see, Arif said lightly. And why the ministry? Why not make you deal with someone else? Surely, there are other options for your boat.
+
+🎤 SPEAKER_3 [1137s - 1152s]
+Other groups who would jump at such rates. Came in front. This isn't about money, your grace. It is about the victory of showing a confidence that we would gain by having a ministry contract.
+
+🎤 SPEAKER_3 [1153s - 1165s]
+If you trust us, others will too. Need your support. Came in the sweating now. He was probably beginning to regret this gamble.
+
+🎤 SPEAKER_3 [1165s - 1181s]
+Had he been betrayed? Was Theron behind the odd meeting? The obligator waited quietly. He could destroy them, Vin knew, if he even suspected that they were scamming him, he could give them over to the canton of inquisition.
+
+🎤 SPEAKER_3 [1182s - 1196s]
+More than one nobleman had entered a canton building and never returned. Gritting her teeth, Vin reached out and used her luck on the obligator making him less suspicious. Auriev smiled.
+
+🎤 SPEAKER_3 [1198s - 1213s]
+Well, you have convinced me. He suddenly declared, came inside in relief. Arya continued, your most recent letter suggested that you need thousand boxings as an advance to refurbish your equipment.
+
+🎤 SPEAKER_3 [1213s - 1221s]
+Equipment and resume shipping operations. See the scribe in the main hallway to finish the paperwork so that you may requisition the necessary funds.
+
+🎤 SPEAKER_3 [1222s - 1229s]
+The obligator pulled a sheet of thick bureaucratic paper from a stack, then stamped the seal at the bottom. He profited to Cayman.
+
+🎤 SPEAKER_3 [1231s - 1247s]
+Your contract. Cayman smiled deeply. I knew coming to the ministry was the wise choice, he said. Accepting the contract. He nodding respectfully to the obligator, then motioned for Vin to open the door for him.
+
+🎤 SPEAKER_3 [1249s - 1261s]
+She did so. Something is wrong. Something is very wrong. She paused as Came and left, looking back at the obligator. He was still smiling.
+
+🎤 SPEAKER_3 [1262s - 1271s]
+A happy obligator was always a bad sign. Yet no one stopped them as they passed through the waiting room with its noble occupants.
+
+🎤 SPEAKER_3 [1272s - 1284s]
+Came and sealed and delivered the contract to the appropriate scribe, no soldiers appeared to arrest them. The scribe pulled out a small chest filled with coins and then handed it to Kamen with an indifferent hand.
+
+🎤 SPEAKER_3 [1285s - 1303s]
+Then they simply left the building came in gathering his other attendants with obvious relief. No cries of alarm, no tromping of soldiers. They were free. Cayman had successfully scanned both the and another crew here. Apparently,
+
+🎤 SPEAKER_3 [1307s - 1314s]
+Calcio stuffed another one of the little red frosted cakes into his mouth chewing with satisfaction. The fat thief
+
+
+---
+
