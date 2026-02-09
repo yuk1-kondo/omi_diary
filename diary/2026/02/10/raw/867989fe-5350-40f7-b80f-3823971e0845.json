@@ -1,0 +1,104 @@
+{
+  "id": "867989fe-5350-40f7-b80f-3823971e0845",
+  "created_at": "2026-02-09T19:45:26.656565+00:00",
+  "started_at": "2026-02-09T19:46:10.845462+00:00",
+  "finished_at": "2026-02-09T19:47:06.239172+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Brief Discussion of Rear Hatches View",
+    "overview": "A speaker briefly comments on a nice view of rear hatches and mentions a technical detail about a 40 to 60 ratio on a cross, possibly referring to a vehicle or equipment configuration. The content is too short and fragmented to derive further context or clear action points.",
+    "emoji": "🚗",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "935ba68a-936f-406d-aaed-eb601d3aed3e",
+      "text": "Now here's a nice view with the rear hatches.",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": null,
+      "start": -5.531364877242595e-08,
+      "end": 3.1614999446865113,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "deebead1-7120-4395-9bbf-c46ed9583cfe",
+      "text": "Shorter, In our ACN, you've got the 40 to 60 on the cross.",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": null,
+      "start": 52.44049994468696,
+      "end": 55.48049994468602,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156861,
+    "longitude": -3.2755667,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "37c49b7d-a863-4592-ad6a-90cb255da1a4",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "867989fe-5350-40f7-b80f-3823971e0845",
+      "chunk_timestamps": [
+        1770666321.561,
+        1770666332.255,
+        1770666337.504,
+        1770666342.825,
+        1770666348.416,
+        1770666354.502,
+        1770666359.901,
+        1770666365.107,
+        1770666370.814,
+        1770666377.163,
+        1770666382.651,
+        1770666387.997,
+        1770666393.526,
+        1770666398.62,
+        1770666404.033,
+        1770666410.317,
+        1770666415.515
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-09T19:45:21.561000+00:00",
+      "duration": 98.954
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Rear hatch view\n- Visual focus on rear hatch area  \n- Emphasis on “nice view” presentation  \n\n## ACN cross specification\n- Mentions “40 to 60” range on cross  \n- Likely refers to adjustable setting or ratio  \n\n## Next steps\n- Clarify meaning of “40 to 60 on the cross”  \n- Request more context about ACN system usage"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
