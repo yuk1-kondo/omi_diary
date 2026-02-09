@@ -834,3 +834,173 @@ There's one outside room to this.
 
 ---
 
+
+
+## 📝 Family Discusses Church Hospitality And Time Off - b64dd955-b836-4fc1-9a58-a381317a0c2e
+
+**記録時間**: 2026-02-10 01:47:02
+
+### STT生テキスト
+
+👤 あなた [8s - 10s]
+Ja, Yeah. As soon as Eddie was at the toilet, has he got off yet?
+
+👤 あなた [15s - 21s]
+And sent all the accounts from last year already. These are just the ones he wanted me to provide a bit more information for.
+
+👤 あなた [22s - 22s]
+Okay.
+
+🎤 SPEAKER_1 [22s - 23s]
+What's next?
+
+👤 あなた [24s - 27s]
+Is my pension pot. Pension room.
+
+👤 あなた [37s - 49s]
+I'm not sure what these are. I'm guessing these are deposits. I'm guessing this is cash. I don't ever remember putting a thousand pounds plus in might have done.
+
+🎤 SPEAKER_2 [52s - 54s]
+What dates? November.
+
+👤 あなた [55s - 57s]
+Seventh of September.
+
+🎤 SPEAKER_1 [57s - 61s]
+Someone else giving us? September and first March.
+
+🎤 SPEAKER_8 [64s - 67s]
+I Night then.
+
+👤 あなた [69s - 71s]
+Oh, because of It might be weekend around.
+
+👤 あなた [81s - 86s]
+Yeah. Fine. Sarah, Sophie, they're joining the hospitality.
+
+🎤 SPEAKER_1 [87s - 88s]
+Sarah.
+
+👤 あなた [88s - 89s]
+Sophie. Sarah.
+
+🎤 SPEAKER_5 [89s - 92s]
+Sarah. Yeah. Sarah. Okay.
+
+👤 あなた [92s - 94s]
+Sophie. Devin Gay was there.
+
+👤 あなた [98s - 116s]
+Denise and then Lois, Ronnie and myself. Lois led it, did a good job. Debbie and Gay were fine. They would just come up with people some people like who not used to meeting some ideas. If have a by box and things like that, which is not really But bit of grace. It was a bit of cat.
+
+🎤 SPEAKER_5 [116s - 117s]
+Suggestion box.
+
+👤 あなた [117s - 119s]
+A bit cattiness going on. Having a suggestion.
+
+🎤 SPEAKER_1 [120s - 124s]
+Box means you don't let us say anything. And whenever we give you a suggestion, No problem.
+
+🎤 SPEAKER_10 [124s - 125s]
+And you don't like it.
+
+👤 あなた [125s - 141s]
+So we can There was a little bit of catchiness going on, but maybe in there might have helped temper it a little bit. Sense. So Lois said, at the end, we don't wanna be serving drinks at the end of the service because it delays pack up and and we should probably not do that. I was like, we never do that.
+
+👤 あなた [142s - 150s]
+Lowe says, well, what we do? Man says, well, I've never seen it. And Debbie says, to be fair, Ryan, I usually somewhere else chatting chatting away so you don't know what's going on.
+
+👤 あなた [153s - 157s]
+How's that work? Okay. So other than that, it was all fine. It was okay.
+
+🎤 SPEAKER_10 [158s - 164s]
+What about in the break? And stuff? Did you upsize people not in break. When the service started, did you emphasize that?
+
+👤 あなた [165s - 175s]
+Or Yeah. We did for all that. Yeah. I was just kinda making sure three minutes before Drinks will be put away. People will be encouraged to move away from the area.
+
+👤 あなた [177s - 182s]
+Steve and mine are aiming to have a week off in April. They need to build the team up to that point.
+
+🎤 SPEAKER_10 [183s - 187s]
+A week off in April, they had to build a team up for that point.
+
+👤 あなた [187s - 192s]
+Well, that's Lois' point. Looking at who's there, I don't I'm not in some ways I understand it. There's no one really to leave.
+
+🎤 SPEAKER_10 [193s - 197s]
+But just not being there for a week is not an issue. Could do it.
+
+👤 あなた [197s - 200s]
+Once a month from April they're gonna be not serving.
+
+🎤 SPEAKER_10 [201s - 203s]
+They're gonna just perfectly doing it, but they're not allowed to do it.
+
+👤 あなた [203s - 204s]
+That's what I said. Yeah.
+
+🎤 SPEAKER_10 [206s - 209s]
+My mom used to run it, basically.
+
+👤 あなた [209s - 217s]
+You know, she's said doesn't wanna be involved. She doesn't wanna be involved because she's suddenly Maybe they'd have a chat have a chat with her again. Maybe I'll ask her. She might just not say no to me. Don't know.
+
+👤 あなた [233s - 235s]
+Allez, Jude, after this match, can you pause it?
+
+🎤 SPEAKER_8 [236s - 237s]
+Wait.
+
+👤 あなた [238s - 239s]
+Just for two minutes. You have to pause it very long?
+
+🎤 SPEAKER_4 [240s - 241s]
+Okay.
+
+👤 あなた [269s - 271s]
+Right. Is the edit finished now? Egg.
+
+🎤 SPEAKER_1 [272s - 273s]
+What?
+
+🎤 SPEAKER_5 [274s - 275s]
+Do you have one or two?
+
+🎤 SPEAKER_2 [276s - 277s]
+Jude.
+
+👤 あなた [277s - 278s]
+You can't hear you.
+
+🎤 SPEAKER_8 [278s - 279s]
+Go ahead and I let you have one or two.
+
+🎤 SPEAKER_5 [281s - 281s]
+One.
+
+👤 あなた [281s - 285s]
+Right. Jude, when finishes this, he's gonna join us in the kitchen. Don't do that too much here, please.
+
+🎤 SPEAKER_8 [287s - 287s]
+What? What'd you say?
+
+🎤 SPEAKER_1 [287s - 288s]
+I'm just starting now.
+
+🎤 SPEAKER_8 [289s - 291s]
+What'd you say? You've got you're the answer is.
+
+👤 あなた [291s - 301s]
+Yeah. Go ahead and go ahead look who it is. Come with me, Eddie. Let's go. Just general You're not expected to tidy Jude's stuff. Okay?
+
+👤 あなた [301s - 310s]
+But just What, Jude? Comes to the kitchen. Take your can you bring your bowl in your crisps, please?
+
+🎤 SPEAKER_5 [311s - 315s]
+Jude. Jude. Like,
+
+
+---
+
