@@ -1,0 +1,109 @@
+{
+  "id": "1026ef24-597d-45c5-8e48-a3648abd8b8e",
+  "created_at": "2026-02-10T04:10:16.140308+00:00",
+  "started_at": "2026-02-10T04:10:40.545328+00:00",
+  "finished_at": "2026-02-10T04:12:37.567877+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "電車内アナウンスで鶴橋駅到着案内",
+    "overview": "車内アナウンスで、乗客にドアから手を離して待つよう注意喚起しつつ、まもなく到着する鶴橋駅での降車案内が行われている。鶴橋駅では左側のドアが開くこと、近鉄線・地下鉄線への乗り換えは2階であることが案内されている。",
+    "emoji": "🚆",
+    "category": "travel",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "73264919-f1ff-4ea8-a85f-1693138bb0cb",
+      "text": "ドアから手を離してお待ちください。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.4305123841040768e-07,
+      "end": 2.88000014305112,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "aba82b35-dcf1-4649-bcc0-b7722729c273",
+      "text": "鶴橋、鶴橋でお出口は左側 です。 近鉄線、地下鉄線はこの2階です。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 104.72000014305104,
+      "end": 114.20000014305106,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "96433d7d-ef47-45f1-bb9a-83264cbe3591",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "1026ef24-597d-45c5-8e48-a3648abd8b8e",
+      "chunk_timestamps": [
+        1770696610.955,
+        1770696616.037,
+        1770696621.15,
+        1770696626.421,
+        1770696631.575,
+        1770696637.419,
+        1770696642.653,
+        1770696647.737,
+        1770696653.729,
+        1770696659.136,
+        1770696664.179,
+        1770696671.861,
+        1770696676.936,
+        1770696682.062,
+        1770696688.048,
+        1770696693.071,
+        1770696698.167,
+        1770696703.728,
+        1770696709.662,
+        1770696714.737,
+        1770696719.836,
+        1770696724.969,
+        1770696730.85,
+        1770696736.259,
+        1770696741.368,
+        1770696746.264,
+        1770696751.324,
+        1770696757.293
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-10T04:10:10.955000+00:00",
+      "duration": 151.338
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 鶴橋駅到着案内\n- まもなく鶴橋駅に到着\n- ドアから手を離して待つよう案内\n\n## 乗り換え・出口情報\n- 鶴橋駅の出口は左側\n- 近鉄線・地下鉄線は2階に所在"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
