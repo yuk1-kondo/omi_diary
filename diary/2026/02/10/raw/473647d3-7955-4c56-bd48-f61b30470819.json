@@ -1,0 +1,84 @@
+{
+  "id": "473647d3-7955-4c56-bd48-f61b30470819",
+  "created_at": "2026-02-10T07:06:36.996905+00:00",
+  "started_at": "2026-02-10T07:06:34.799303+00:00",
+  "finished_at": "2026-02-10T07:07:42.229951+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "面会の予定についての一言",
+    "overview": "短い発話で「会いに行く」という今後の面会・訪問の意思のみが示されているが、日時や相手、場所などの具体的な情報はなく、詳細な予定やタスクは特定できない。",
+    "emoji": "🤝",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "bb04a730-9fa7-406b-8704-952294d9c515",
+      "text": "会いに行く",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 0.0,
+      "end": 11.341375,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "153a743d-b480-4a8e-96e1-40a353c55a6b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "473647d3-7955-4c56-bd48-f61b30470819",
+      "chunk_timestamps": [
+        1770707194.84,
+        1770707206.41
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-10T07:06:34.840000+00:00",
+      "duration": 16.57
+    },
+    {
+      "id": "b47da505-23d4-4c73-bf6b-730738e44038",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "473647d3-7955-4c56-bd48-f61b30470819",
+      "chunk_timestamps": [
+        1770707252.567,
+        1770707259.272,
+        1770707264.131,
+        1770707269.915
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-10T07:07:32.567000+00:00",
+      "duration": 22.348
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 会話内容\n- 「会いに行く」という発言のみ  \n- 文脈や相手、日時の情報なし  \n\n## 次のステップ\n- 誰に会いに行くか明確にする  \n- いつ・どこで会うか決める"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed"
+}
