@@ -1,0 +1,100 @@
+{
+  "id": "723d61e1-ea59-47d8-8628-d0aa7accf036",
+  "created_at": "2026-02-10T04:01:32.527241+00:00",
+  "started_at": "2026-02-10T04:02:46.015328+00:00",
+  "finished_at": "2026-02-10T04:02:57.114590+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "駅構内アナウンスでの乗換案内",
+    "overview": "駅構内でのアナウンスとして、出口が左側であることと、JR東西線・学研都市線・京阪線・地下鉄線への乗り換え案内が行われている場面が記録されている。会話というよりは交通案内放送のみが含まれている。",
+    "emoji": "🚉",
+    "category": "travel",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "363268ba-f3ae-42fc-9842-2e9f0eb24b5d",
+      "text": "出口は左側です。JR東西線 仏圏都市線、京阪線、地下鉄線はあり",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.490000114440932,
+      "end": 8.649960114440887,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "69ef248f-c915-4e9e-8cdc-f596840964bb",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "723d61e1-ea59-47d8-8628-d0aa7accf036",
+      "chunk_timestamps": [
+        1770696086.663,
+        1770696092.389,
+        1770696097.655,
+        1770696102.816,
+        1770696111.141,
+        1770696116.237,
+        1770696121.24,
+        1770696126.345,
+        1770696132.277,
+        1770696137.249,
+        1770696142.422,
+        1770696148.039,
+        1770696154.114,
+        1770696160.246,
+        1770696165.143,
+        1770696171.521,
+        1770696177.466,
+        1770696183.305,
+        1770696188.578,
+        1770696193.679,
+        1770696199.637,
+        1770696206.702,
+        1770696211.68,
+        1770696217.912,
+        1770696222.959,
+        1770696228.296,
+        1770696233.269,
+        1770696239.485,
+        1770696244.501,
+        1770696250.687,
+        1770696255.727,
+        1770696261.716
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-10T04:01:26.663000+00:00",
+      "duration": 180.053
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 案内内容\n- 出口は左側にある  \n- 乗り換え先はJR東西線  \n- 京阪線と地下鉄線にも乗り換え可能  \n\n## 次の行動\n- 左側出口へ向かう  \n- 案内表示で各線ホームを確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
