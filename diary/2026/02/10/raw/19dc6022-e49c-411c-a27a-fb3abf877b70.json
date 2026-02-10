@@ -1,0 +1,99 @@
+{
+  "id": "19dc6022-e49c-411c-a27a-fb3abf877b70",
+  "created_at": "2026-02-10T14:21:01.076944+00:00",
+  "started_at": "2026-02-10T14:22:21.736737+00:00",
+  "finished_at": "2026-02-10T14:22:28.226026+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "マイクテストの音声チェック",
+    "overview": "話者が「テスト、テスト、マイクロ（マイクの）テスト」と発声し、録音・マイクの音声が入っているかを確認している。最終的に「入ってるね」と言い、音声が問題なく録音できていることを確認した場面。",
+    "emoji": "🎙️",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "0a50d769-e465-4c7e-8b9d-338cf5c009d2",
+      "text": "テスト、テスト、マイクロンテスト 、テスト、マイクロテスト 入ってるかな",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.907348634588857e-08,
+      "end": 7.4799989809265135,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "09c218ec-17f6-47fa-97a6-91fb88919276",
+      "text": "入ってるね。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 13.749999980926514,
+      "end": 15.189999980926515,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJ__8vOavgAGARtjms0uXFKPY",
+    "latitude": 34.6633302,
+    "longitude": 135.5256893,
+    "address": "2-50 Fudegasakichō, Tennoji Ward, Osaka, 543-0027, Japan",
+    "location_type": "establishment"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a439e1b3-c7c3-4bac-99cf-575f61661ef0",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "19dc6022-e49c-411c-a27a-fb3abf877b70",
+      "chunk_timestamps": [
+        1770733259.328,
+        1770733264.367,
+        1770733270.448,
+        1770733275.588,
+        1770733281.972,
+        1770733287.033,
+        1770733292.222,
+        1770733297.226,
+        1770733302.444,
+        1770733307.564,
+        1770733312.555,
+        1770733327.048
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-10T14:20:59.328000+00:00",
+      "duration": 72.72
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 音声テスト実施\n- マイクのテストを複数回実施\n- 「入ってるかな」と録音状態を確認\n\n## テスト結果\n- 音声が正常に「入ってる」と確認完了\n\n## 次のステップ\n- このマイク設定で本番収録を開始する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
