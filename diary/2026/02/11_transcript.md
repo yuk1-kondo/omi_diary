@@ -309,3 +309,44 @@ Rain dry.
 
 ---
 
+
+
+## 📝 Driving Blind Spots Explained During Lesson - 9bdde3b2-b446-46a0-8000-2edb699e15a3
+
+**記録時間**: 2026-02-11 17:07:56
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+Alright. Have a great day, Scent.
+
+👤 あなた [4s - 19s]
+We'll check every shoulder for you out in case somebody's walking. No. Over shoulder there. That's we call your blind spot here. You can't see in your mirror, guess what? You can't see what you can see at this window. It's called a blind spot. Probably we're standing by there, dude. Listen.
+
+👤 あなた [20s - 28s]
+If I stand by there, wouldn't be able to see in the mirror. I know it sounds mad. Look at that lamp coming. Sit back in your seat in a second. Let me show you something. Sit back in your seat.
+
+👤 あなた [29s - 37s]
+Look at that lamppost. Over your shoulder. Look over the look over your shoulder that can you see that now? There. Look at my hand. Can you see that now post?
+
+🎤 SPEAKER_1 [37s - 38s]
+Yeah.
+
+👤 あなた [38s - 43s]
+Can you see that lamppost in your mirror? No.
+
+🎤 SPEAKER_1 [43s - 45s]
+Because it's so far away.
+
+👤 あなた [45s - 64s]
+Yeah. But that could be be a mum with a push chair. So that far away. Look. Can you see see that person anywhere now? No. No. That's what it's called. Yeah. Can. Thank you. Now you If you lean like that, you would it's called you call it blind spot. It's one of the first things you learn in driving medicines. So it's like a Don't stress that mirror. See you later.
+
+👤 あなた [69s - 71s]
+Nope. Can see you now.
+
+👤 あなた [104s - 113s]
+Right. I'm gonna start listening to my book, Mistborn now, chapter four. Please study the newcomer.
+
+
+---
+
