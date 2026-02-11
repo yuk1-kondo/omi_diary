@@ -1,0 +1,106 @@
+{
+  "id": "50edfe13-8a75-40fb-a1be-97b1288fff08",
+  "created_at": "2026-02-11T13:00:09.356171+00:00",
+  "started_at": "2026-02-11T13:00:47.155169+00:00",
+  "finished_at": "2026-02-11T13:01:10.693410+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User Tweaks Rock Spawner Settings",
+    "overview": "The user briefly mentions turning off a rock spawner to simplify something, then references \"The Letty Brownie.\" The context suggests they are adjusting or describing elements within a game or interactive environment, but no further details, plans, or decisions are provided.",
+    "emoji": "🎮",
+    "category": "entertainment",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "e8be256f-50d6-4dea-8b70-72a811da99c0",
+      "text": "Now let's turn off the rock spawner for a minute. Let's make this easy.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -6.675713848380838e-08,
+      "end": 5.739899933242896,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "ce014808-0ef1-4255-9b80-6eb7a47a4d75",
+      "text": "The Letty Brownie.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 25.059999933242807,
+      "end": 26.02009993324282,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.415731,
+    "longitude": -3.2755133,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "ec5ea4a8-06b9-4a41-9b41-e69bb7d14f1d",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "50edfe13-8a75-40fb-a1be-97b1288fff08",
+      "chunk_timestamps": [
+        1770814805.303,
+        1770814811.36,
+        1770814816.324,
+        1770814821.355,
+        1770814826.581,
+        1770814831.45,
+        1770814836.448,
+        1770814842.591,
+        1770814848.576,
+        1770814853.798,
+        1770814858.844,
+        1770814864.014,
+        1770814869.05,
+        1770814874.087,
+        1770814879.13,
+        1770814884.092,
+        1770814889.479,
+        1770814895.452
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-11T13:00:05.303000+00:00",
+      "duration": 95.149
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Topic shift\n- User stops previous \"rock spawner\" context  \n- Requests to \"make this easy\"  \n\n## New focus: The Letty Brownie\n- User introduces topic: \"The Letty Brownie\"  \n\n## Next steps\n- Clarify what \"Letty Brownie\" refers to  \n- Ask if user wants recipe, lore, or explanation"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
