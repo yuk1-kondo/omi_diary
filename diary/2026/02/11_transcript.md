@@ -2143,3 +2143,335 @@ Angled slightly toward the ground as it flew. The drag of his weight
 
 ---
 
+
+
+## 📝 Fantasy Heist Scene And Pokémon Collectible Rant - b01f51aa-a76c-4f2e-8526-e28723e95b4f
+
+**記録時間**: 2026-02-11 21:06:09
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 27s]
+The rooftop, still traveling at a terrible speed. Taking a deep breath, Kelsey pewter, using it to enhance its physical strength much in the same way that tin enhanced his senses. He turned himself in the air in muscles protected from treatment, but he stopped without breaking any He immediately released his hold on the roof, dropped me a car in motion.
+
+🎤 SPEAKER_1 [33s - 44s]
+Against selecting a source of metal above him. One of the wire housings of a stained glass window and pulled on it. The coin hit the ground below and was suddenly able to support his weight. Elsear lobs himself upward, pushing on the coin.
+
+🎤 SPEAKER_1 [44s - 65s]
+Pulling on a window at the same time. Then, extinguishing both metals, he let momentum carrying the last few feet of darkness. Cloak the flat flapping quietly. He crusted the lip of the keep's upper surface walkway lifted himself over the stone railing, and quietly on the ledge. A startled guard stood not three paces away.
+
+🎤 SPEAKER_1 [66s - 77s]
+Calcier was upon the man in a second, jumping into the air. Pulling slightly on the guards to steal breastplate, throwing them in off balance. Josia whipped out one of his glass daggers.
+
+🎤 SPEAKER_1 [77s - 90s]
+Allowing the strength of his iron holding to bring him toward the guard. He with both feet against the man's chest, then crouched and sliced with a pure enhanced swing. The guard collapsed with a slit throat.
+
+🎤 SPEAKER_1 [91s - 106s]
+Pelsier landed lively beside him, ears straining in a night There were none. Kelsior left regard to his gurgling demise. The man was likely a lesser noblehood, the enemy.
+
+🎤 SPEAKER_1 [107s - 110s]
+If you were instead that Sa soldier and
+
+🎤 SPEAKER_1 [114s - 135s]
+Josia was even happier to send such men into their eternity. He pushed off the dying man's breastplate, pumping off the stone, so they're forth way, and onto the rooftop itself. The bronze roof with a chill is slightly the He a moment, heading toward the southern side of the building, looking to the top of any docks and attention.
+
+🎤 SPEAKER_1 [137s - 150s]
+He wasn't too worried about being spotted. One purpose of this evening was to steal some ATL for the tenth and most purpose, however, was to cause a commotion.
+
+🎤 SPEAKER_1 [151s - 175s]
+He found the balcony with ease, wide and broad it was probably a sitting balcony used to entertain small groups. It was quiet at the moment, however, empty and safe for two guards. Kelsey are crouching solidly in the nightmare about the balcony, fertile gray cloak obscuring you, toes proving out over the side of the ropes, metallic lymph.
+
+🎤 SPEAKER_1 [176s - 180s]
+Two guards chatting confidently below. Time to make a whip.
+
+🎤 SPEAKER_1 [193s - 215s]
+He's pushed through the guards away in opposite directions. The cried out in surprise as the sudden force them back ward, hurling them over the balcony railing into the dark threw open the balcony doors, letting a wall of mist fall inward around him, its creeping forward to claim the darkened from beyond.
+
+🎤 SPEAKER_1 [217s - 230s]
+Third poem, the calcium thought will lean forward in crouching run. The second groom was a quiet, greenhouse light conservative conservatory. Low beds containing cultivated bushes and small trees ramped through the room.
+
+🎤 SPEAKER_1 [230s - 246s]
+One wall was made up of enormous broad ceiling windows. Provide sunlight for the plants. Though it was dark, Calcier knew that the plants were all be of slightly different colors than the typical brown. Some would be white, others, white, and perhaps even a few light yellow.
+
+🎤 SPEAKER_1 [247s - 264s]
+Clants that weren't brown were rarely cultivated and kept by the inability. Calcior moved quickly through the conservatory. He paused to the next doorway, noting its lighted outline. He his tin, lest his enhanced eyes be blinded when he entered the lip.
+
+🎤 SPEAKER_1 [264s - 275s]
+Room and threw open the door. He ducked inside looking against the light, a glass dagger in each hand. The room, however, was empty. It was obviously a study.
+
+🎤 SPEAKER_1 [276s - 305s]
+A ledger burned on each wall beside bookcases. You had a desk in the corner. Kelsey replaced his burning steel and pitching for sources of metal. There was a large safe in the corner of the room that was swapping Sure enough, another strong source of metal inside the eastern wall. Calcira approached, running his fingers along the plaster. Like many wolves and noble keeps, this one was painted with a soft mural.
+
+🎤 SPEAKER_1 [306s - 316s]
+Foreign creatures lounged beneath a red sun, The false section of wall was under two feet square, and it had been placed that its cracks were obscured by the mural.
+
+🎤 SPEAKER_1 [317s - 337s]
+There's always another secret, Kelsey or thought. He didn't bother trying to figure out how to open the contraption. He simply burned steel, reaching in and tugging against the weak source of metal that he assumed post the trapdoor's locking mechanism. It resisted it first, pulling him against the wall, but he burned a pewter and he act harder.
+
+🎤 SPEAKER_1 [338s - 355s]
+The lock snapped and the panel swung open, revealing a small safe embedded in the wall. Kelsey had smiled. It looked small enough for a pewter at to carry, assuming he could get it in of the wall. He jumped up under pulling against the safe.
+
+🎤 SPEAKER_1 [364s - 379s]
+Strength of fluttered flags and declared steel well, pulling against the same. Strained grunting slightly at the impression. It was chest to see which would give out first the safe for his legs.
+
+🎤 SPEAKER_1 [380s - 392s]
+The safe shifted in its mountings. Telsier pulled harder muscles per chesting. For an extended moment, nothing happened. Then the safe shook and ripped free at the wall.
+
+🎤 SPEAKER_1 [392s - 404s]
+Kelsier fell backward, burning steel and pushing against the safe to get out of the way. He landed malatoid to it, sweat dripping from his brow as the safe crashed the wooden floor, destroying his splinters.
+
+🎤 SPEAKER_1 [405s - 433s]
+A pair of startled guards burst into the room About time. See what I did. Raising a hand and pulling on one of the soldier's sword. It whipped out of its sheep, spinning in the air and streaking toward Kelsier Point first. The his iron, stepping to the side and catching the sword by its hilt, momentum heredity passed. Mistborn, the guard screamed. Kelsior smiled and jumped forward.
+
+🎤 SPEAKER_1 [434s - 442s]
+The guard pulled out a dagger. Kelsior pushed it, tearing weapon off the man's hand, and the swamp shearing the guard's head from his body.
+
+🎤 SPEAKER_1 [442s - 446s]
+The second guard, first, chugging three to release his tigh on his breastplate.
+
+🎤 SPEAKER_1 [451s - 467s]
+Ripped from his fingers and hissed directly toward the second guard. The man's armor dropped free, venting Kelsier from pushing his feet just as the sword blended itself in the second guard's now unarmored chest.
+
+🎤 SPEAKER_1 [468s - 501s]
+Man stumbled quietly, then collapsed. Kelsi returned from the bodies, cloaked rustling His anger was quiet, not as fierce as it had been that he'd killed Lord Trusthake. But he felt it still, Noted in the itching of his scars, continued numbered screams of As far as Kelsey was concerned, any man who upheld the final fire also forfeited his right to widen her. He flared his pewter, strengthening his body, then squatted down and lifted the safe.
+
+🎤 SPEAKER_1 [501s - 519s]
+He teetered for a second beneath his wake. The same guy's bowels and began to shuffle back toward the balcony. Perhaps the he didn't have time to search out other options. He was halfway through the conservatory when he heard footsteps from behind.
+
+🎤 SPEAKER_1 [520s - 537s]
+He turned to see the study flooding with figures. There were eight of them, each one wearing a loose gray robe and carrying a jeweling cane and a shield instead of sword. Haze killers. Kelsier let the safe drop to the ground. Hayes killers weren't alimancers.
+
+🎤 SPEAKER_1 [538s - 545s]
+But they were trained to try to connect them and have missed porn. There wouldn't be a single bit of on their bodies, and they would be ready for his drinks.
+
+🎤 SPEAKER_1 [546s - 556s]
+Calcio stepped back, stretching and smiling. The eight men fanned into the study, moving with quiet precision. This should be interesting.
+
+🎤 SPEAKER_1 [557s - 567s]
+The haze colors attacked, dashing by twos into the conservatory. Pulled out his dagger ducking beneath the first attack and slicing at a man's chest.
+
+🎤 SPEAKER_1 [567s - 577s]
+The hazekiller jumped back, however, and forced Kelsier away with a swing of his cane. Flared his pewter, letting strengthened legs carry him back in a powerful jump.
+
+🎤 SPEAKER_1 [578s - 599s]
+With one hand, he whipped out a handful of coins and pushed them against his opponents. The middle discs shot forward, zipping the air, but his enemies were ready for this. They raised their shields, and the coins bounced off the wood, throwing up splinters but leaving the men on harmed. Kelsier eyed the other haze killers as they filled the room advancing on him.
+
+🎤 SPEAKER_1 [599s - 610s]
+They couldn't hope to fight him in an extended battle. Their tactic would be to rush him at once, hoping for a quick end to the fight, or to at least him until Alamanswers could be awakened and brought to the fight.
+
+🎤 SPEAKER_1 [611s - 625s]
+He glanced at the safe as he landed. He couldn't leave without it. He needed to end the fight quickly as well. Flaring pewter, he jumped forward, trying an experimental dagger swipe, but he couldn't get inside his opponent's defenses.
+
+🎤 SPEAKER_1 [626s - 635s]
+Kelsier barely ducked away in time to avoid getting cracked in the head by the end of a cane. Three of the hazekillers dashed behind him, cutting off his retreat into the balcony room.
+
+🎤 SPEAKER_1 [636s - 645s]
+Great, thought. Trying to keep an eye on all eight men at once. They advanced on him with careful precision, working as a team.
+
+🎤 SPEAKER_1 [646s - 657s]
+Gritting his teeth, Calcier flared his pewter again. It was running low, he noticed. Pewter was the fastest burning of the base eight metals. No time to worry about that now.
+
+🎤 SPEAKER_1 [658s - 669s]
+The men behind him attacked, and Kelsier jumped out of the way, pulling on the safe to himself toward the center of the room. He pushed a soon as he hit the ground near the safe, launching himself into the air at an angle.
+
+🎤 SPEAKER_1 [670s - 681s]
+He tucked, flipping over the heads of two attackers and landed on the ground beside a well tree bed, he spun flaring his and raising his arm in defense against the swing he knew would come.
+
+🎤 SPEAKER_1 [682s - 694s]
+The dueling came connected with his arm. A burst of pain ran down his but his pewter enhanced bone held. Kelsier kept moving, driving his other hand forward and slamming a dagger into his opponent's chest.
+
+🎤 SPEAKER_1 [695s - 706s]
+The man stumbled back in surprise. The motion ripping away Kelsier's dagger. A second haze killer attacked, but Kelsier ducked, then reached down with his free hand, ripping his coin pouch off of his belt.
+
+🎤 SPEAKER_1 [706s - 713s]
+The haze color prepared to block Calcier's remaining dagger, but Calcier raised his other hand instead, slamming the coin pouch into the man's shield.
+
+🎤 SPEAKER_1 [714s - 733s]
+Then he pushed on the coins inside. The hazekiller cried out, the force of the intense steel push throwing him backward. Kelsier flared his steel, pushing hard that he tossed himself backward as well, away from the pair of men who had tried to attack him. Celsier and his enemy flew away from each other hurled in opposite directions.
+
+🎤 SPEAKER_1 [734s - 742s]
+Collided with the far wall but kept pushing, smashing his opponent, pouching shield and all, against one of the massive conservatory windows.
+
+🎤 SPEAKER_1 [743s - 756s]
+Glass shattered, sparkles of lantern light from the study playing across its shards. The haze color's desperate face disappeared into the darkness beyond, and mist, quiet yet ominous, began to creep in through the shattered window.
+
+🎤 SPEAKER_1 [758s - 772s]
+The other six men advanced relentlessly, and was forced to ignore the pain in his arm as he ducked two swings. He spun out of the way, brushing past a small tree, but a third hazekiller attacked, smashed his cane into Kelcear's side.
+
+🎤 SPEAKER_1 [772s - 779s]
+The attack threw Kelsior into the tree bed. He tripped, then collapsed near the entrance to the lit study, dropping his dagger.
+
+🎤 SPEAKER_1 [780s - 788s]
+He gasped in pain, rolling to his knees and holding his side. The blow would have broken another man's ribs. Even Kelsier would have a massive bruise.
+
+🎤 SPEAKER_1 [789s - 804s]
+The six men moved forward, spreading to surround him again. Kelsier stumbled to his feet, vision growing dizzy from pain and exertion. He gritted his teeth, reaching down and pulling out one of his remaining vials of metal. He downed his contents in a single gulp.
+
+🎤 SPEAKER_1 [804s - 812s]
+Replenishing his pewter, then burned tin. The light nearly blinded him, and the pain in his arm and side suddenly seemed more acute.
+
+🎤 SPEAKER_1 [813s - 829s]
+But the burst of enhanced senses cleared his head. The six hazekillers advanced in a sudden coordinated attack. Kelsier whipped his hand to the side, burning iron and searching for metal. The closest source was a thick, silvery paperweight on a desk just inside the study.
+
+🎤 SPEAKER_1 [830s - 838s]
+Kelsier flipped it into his hand, then turned, arm held toward the advancing men, falling into an offensive stance. All right.
+
+🎤 SPEAKER_1 [838s - 846s]
+He growled. Kelsior burned still with a flash of strength. The rectangular ingot ripped from his hand, streaking through the air.
+
+🎤 SPEAKER_1 [847s - 854s]
+The foremost haze killer raised his shield, but he moved too slowly. Ingot hit the man's shoulder with a crunch, and he dropped, crying out.
+
+🎤 SPEAKER_1 [855s - 867s]
+Kelsier spun to the side, ducking a staff swing and putting a haze killer himself and the fallen man. He burned iron, pulling the ingot back toward him. It whipped through the air, cracking the second haze killer in the side of the head.
+
+🎤 SPEAKER_1 [867s - 908s]
+The men collapsed as the engat flipped into the air. One of the remaining men cursed, rushing forward to attack. He'll pushed the still airborne ingot, flipping it away from him, and away from the attacking haze killer who had his shield raised. Calcier heard the ingot hit the ground behind him, and he reached up, burning pewter, and caught the hazekiller's cane mid swing. The hazekiller grunted, struggling against Kelsier's enhanced strength. Kelsier did bother trying to pull the weapon free. Instead, he pulled sharply on the ingot behind him, bringing it toward his own back at a deadly speed. He twisted at the last moment, using his momentum to spin the haze cooler around right until the ingot's path. The man dropped.
+
+🎤 SPEAKER_1 [909s - 920s]
+Kelsier flared pewter, steadying himself against attacks. Sure enough, a cane smashed against his shoulders. Stumbled to his knees as the wood cracked, but flared tin kept him conscious.
+
+🎤 SPEAKER_1 [921s - 930s]
+Pain and lucidity flashed through his mind. He pulled on the ingot, ripping it out of the dying man's back, and stepped to the side, letting the impromptu weapon shoot past him.
+
+🎤 SPEAKER_1 [931s - 940s]
+The two haze killers nearest him crouched warily. The ingot snapped into one of the men's shields, but Kelsier didn't continue pushing unless he himself off balance.
+
+🎤 SPEAKER_1 [940s - 958s]
+Instead, burnt iron, wrenching the ingot back toward him. Self. He ducked, extinguishing iron, and feeling the ingot through the air above him. There was a crack as it collided with the man who had been sneaking up on him. Kelsey or spun burning iron and steel to send ingots soaring toward the final two men.
+
+🎤 SPEAKER_1 [958s - 970s]
+They stepped out of the way, but Calciard tugged on the ingot, dropping it to the ground directly in front of them. The men regarded it warily, distracted as Calsius ran and jumped, still pushing himself against the ingot and flipping over the men's heads.
+
+🎤 SPEAKER_1 [971s - 997s]
+The hasecurers cursed, spinning. As Kelsier landed, he pulled the ingot again, bringing it up to smash into a man's skull from behind. The haze killer fell silently. The ingot flipped a few times in the darkness, and Kelsier snatched it from the air. Its cool surface slick with blood. Mist from the shattered window flowed by a speaker curling up around his legs. He brought his hand down, pointing at directly at the last remaining days to her.
+
+🎤 SPEAKER_1 [998s - 1005s]
+Somewhere in the room, a foreign man groaned. The remaining hazekillers stepped back, then dropped his weapon and dashed away.
+
+🎤 SPEAKER_1 [1006s - 1033s]
+Kelsier smiled, lowering his hand. Suddenly, the ingot was pushed from his fingers. It shy across the room, smashing through another window. Kelsey are cursed. Spinning to see another larger group of men pouring into the study. They wore the clothing of noblemen, alamancers, Several of them raised hands and a flurry of coins shot toward He flared steel, pushing the coins out of the way.
+
+🎤 SPEAKER_1 [1033s - 1052s]
+Windows shattered and wood splintered as the room was sprayed with coins. Kelsier felt a tug on his belt as his final vial of metal was ripped away, pulled toward the other room. Several burly men ran forward in a crouch, staying beneath recruiting coins. Hugs, misting the two like ham could burn pewter.
+
+🎤 SPEAKER_1 [1057s - 1066s]
+Another wave of coins, gritting his teeth against the pain in his side and arm. He behind him. Had a few moans, but he was never going to make it back to the balcony.
+
+🎤 SPEAKER_1 [1067s - 1079s]
+As more mistings advanced, Kelcia took a deep breath and dashed toward one of the broken floor to ceiling windows. He leapt out into the mists, turning in the air as he fell, and reached out to pull firmly on the fallen safe.
+
+🎤 SPEAKER_1 [1079s - 1091s]
+He jerked in mid air, swinging down toward the side of the building as if tied to the safe by tether. He felt the safe slide forward, grinding the floor of the conservatory as Kelsier's weight pulled against it.
+
+🎤 SPEAKER_1 [1092s - 1102s]
+He slammed against the side of the building but continued to pull, catching him self on the upper side of a window sill. He strained, standing upside down the window well, pulling on the safe.
+
+🎤 SPEAKER_1 [1103s - 1110s]
+The safe appeared over the lip of the floor above. It teetered, then fell out the window and began to plummet directly toward Calcira.
+
+🎤 SPEAKER_1 [1110s - 1124s]
+He smiled, extinguishing his iron and pushing away from the building with his leg, throwing himself out into the like some insaning doggy bear. He tailed backwards with the darkness. Family catching sight of an angry face poking out of the broken window above.
+
+🎤 SPEAKER_1 [1125s - 1143s]
+Kelsier pulled carefully against the safe, moving himself in the air. Mists curled around him, obscuring his vision, making him feel as if he weren't falling at all, but hanging in the middle of nothingness. He reached the safe, then twisted in the air and pushed against it, throwing himself upward.
+
+🎤 SPEAKER_1 [1144s - 1155s]
+The safe crashed into the cobblestones just below. Kelceer pushed against the safe slightly, slowing himself until he eventually jerked to a halt in the air just a few feet above the ground.
+
+🎤 SPEAKER_1 [1155s - 1163s]
+He hung in the mists for a moment, ribbons from his cloak curling and flapping in the wind, then let himself drop to the ground beside this hayfe.
+
+🎤 SPEAKER_1 [1164s - 1173s]
+The strong rocks had been shattered by the fall. Helsier pried open its mangled front, enhanced ears listening to calls of alarm from the building above.
+
+🎤 SPEAKER_1 [1174s - 1182s]
+Inside the safe he found a small pouch of gemstones and a couple of 10,000 boxing letters of credit. And all of which he pocketed.
+
+🎤 SPEAKER_1 [1183s - 1197s]
+He felt around inside, suddenly worried that the knights work had been for naught. Then his fingers found it. A small pouch at the very back. He pulled it open revealing a grouping of dark bead like bits of metal.
+
+🎤 SPEAKER_1 [1198s - 1212s]
+Atium. His scars flared, memories of his time in the pits returning to him. He pulled the pouch tight and stood. With amusement, he noticed a twisted form lying on the couple stones a short distance away.
+
+🎤 SPEAKER_1 [1213s - 1221s]
+The mangled remains of the hazekiller he'd thrown out the window. Celsier walked over and retrieved his coin pouch, with a tug of iron pulling.
+
+🎤 SPEAKER_1 [1223s - 1233s]
+No, this night was not a waste. Even if he hadn't found the atrium, any night that ended with a group of dead noblemen a successful one in Kelsier's opinion.
+
+🎤 SPEAKER_1 [1235s - 1246s]
+He gripped his pouch in one hand and a bag of Atium in the other. He kept his pewter burning without the strength that led his body. He probably collapsed from the pain of his wound inside and dashed off into the night.
+
+🎤 SPEAKER_1 [1247s - 1248s]
+Heading toward Club's shop.
+
+🎤 SPEAKER_1 [1252s - 1261s]
+Impressive. Never wanted this. True, but somebody has to stop the deepness. And apparently Terrace is the only place this can be done.
+
+🎤 SPEAKER_1 [1262s - 1272s]
+On this fact, however, I don't have to take the word of the philosopher. I can feel our goal now. Can sense it, though the others cannot.
+
+🎤 SPEAKER_1 [1273s - 1286s]
+It pulses in my mind far off in the mountains. Six. Vin awoke to a quiet room, read
+
+🎤 SPEAKER_2 [1349s - 1350s]
+Every truth.
+
+🎤 SPEAKER_2 [1448s - 1449s]
+Did you make here?
+
+🎤 SPEAKER_2 [1527s - 1530s]
+Who's most likely to dock every event without breaking a sweat?
+
+🎤 SPEAKER_3 [1531s - 1534s]
+Are are you confused? You point the person that eats the thing. Yeah.
+
+🎤 SPEAKER_2 [1538s - 1541s]
+To rehearse their entrance pose in the mirror?
+
+🎤 SPEAKER_2 [1547s - 1550s]
+That's Who's most likely to dominate every event without breaking a sweat?
+
+🎤 SPEAKER_3 [1551s - 1556s]
+Are you confused? You point the birds in the East thing that exactly went down. Don't understand.
+
+🎤 SPEAKER_2 [1556s - 1559s]
+Who's most likely rehearsed their entrance pose in the mirror?
+
+🎤 SPEAKER_2 [1567s - 1569s]
+Who's most likely to have a secret play This guy, 100%.
+
+🎤 SPEAKER_3 [1570s - 1573s]
+He just put me randomly
+
+🎤 SPEAKER_3 [1590s - 1592s]
+He told us the short program is Every true
+
+🎤 SPEAKER_3 [1638s - 1641s]
+I'm holding one of the rarest Pokeball collectibles of all time.
+
+🎤 SPEAKER_4 [1641s - 1651s]
+And inside is an 18 gold p pendant. No joke, I've been wanting to get my hands on this for such a long time. And I'm so So it's gonna be like that, is it?
+
+🎤 SPEAKER_4 [1651s - 1659s]
+That's how you wanna play this? We're just gonna let Hale of have it, That's what we're doing now. We're just gonna give this to Caleb.
+
+🎤 SPEAKER_4 [1659s - 1680s]
+'ll give a fuck what's inside it. I have dedicated my life towards my Pokeball collection, and I was told that the one ball that has eluded me, the Tiffany ball, would never again see the light of day. What else can I do to prove my allegiance to you, the Pokemon Company? I own your rarest ball.
+
+🎤 SPEAKER_4 [1681s - 1702s]
+I own your stupidest, ugliest balls. I'm starting to realize why I've averaged out them. I don't know who I gotta find, fight, or fuck, but one of these days, I'm gonna do one of those things to the right person, and I will get the Tiffany and Co Pokeball. I have the $500 crystal Pokeball. I have the master ball.
+
+🎤 SPEAKER_4 [1703s - 1719s]
+I have a Pokeball that looks like my plush. I have a Pokeball that symbolizes the Troy saga of Epic the Musical. I have a Pokeball that looks like a I'm holding one of the rarest Pokeball collectibles of
+
+👤 あなた [1788s - 1789s]
+I want meal for the day.
+
+👤 あなた [1911s - 1912s]
+Slop pub results.
+
+
+---
+
