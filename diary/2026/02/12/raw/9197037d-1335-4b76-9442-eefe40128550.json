@@ -1,0 +1,91 @@
+{
+  "id": "9197037d-1335-4b76-9442-eefe40128550",
+  "created_at": "2026-02-11T18:55:31.705160+00:00",
+  "started_at": "2026-02-11T18:56:04.228178+00:00",
+  "finished_at": "2026-02-11T18:57:19.630796+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Discussing Diets And Cheese Calories",
+    "overview": "Two people casually compare their different dieting approaches while commenting on a large portion of cheese. One speaker estimates that the cheese alone amounts to about 500 calories, emphasizing its impact within their diet. The exchange is light and conversational, focused on calorie awareness rather than detailed meal planning.",
+    "emoji": "🧀",
+    "category": "health",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "59546ec0-ea3e-4c1e-9115-c0468299239e",
+      "text": "I don't I We're dieting differently, aren't we? Let's let's be fair. That is a lot of cheese, mind you. No. No. No. 500 calories this",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": -4.673004150301807e-07,
+      "end": 8.819999532699585,
+      "translations": [],
+      "speech_profile_processed": false,
+      "stt_provider": null
+    },
+    {
+      "id": "6ca4cda9-44e8-4dcb-9e72-a75cf73a13ac",
+      "text": "That's 500 calories in the cheese, Chebs.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 9.529999532699584,
+      "end": 11.769999532699584,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.415731,
+    "longitude": -3.2755133,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "6ca33bab-cb2d-4e65-a523-4b9f9b5e8901",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "9197037d-1335-4b76-9442-eefe40128550",
+      "chunk_timestamps": [
+        1770836162.839,
+        1770836168.231,
+        1770836173.906
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-11T18:56:02.839000+00:00",
+      "duration": 16.067
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Diet discussion\n- People are following different dieting approaches  \n- One person highlights cheese amount as significant  \n\n## Calorie detail\n- Cheese portion estimated at 500 calories  \n- Concern implied about 500 calories just from cheese  \n\n## Next steps\n- Reassess cheese quantity in daily diet  \n- Adjust portions to fit calorie goals"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
