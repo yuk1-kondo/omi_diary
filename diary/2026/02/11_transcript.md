@@ -2475,3 +2475,20 @@ Slop pub results.
 
 ---
 
+
+
+## 📝 User Tweaks Rock Spawner Settings - 50edfe13-8a75-40fb-a1be-97b1288fff08
+
+**記録時間**: 2026-02-11 22:00:09
+
+### STT生テキスト
+
+👤 あなた [0s - 5s]
+Now let's turn off the rock spawner for a minute. Let's make this easy.
+
+👤 あなた [25s - 26s]
+The Letty Brownie.
+
+
+---
+
