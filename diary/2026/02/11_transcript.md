@@ -164,3 +164,113 @@ Say again? I'm ready. I've I've I've already been out to the best stop already o
 
 ---
 
+
+
+## 📝 Family Juggles Study Plans And Half-Term Schedule - c651b6e3-71a9-42c1-88df-531982de453d
+
+**記録時間**: 2026-02-11 16:50:51
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 2s]
+And he looks me right in the eye. He's already angry.
+
+🎤 SPEAKER_1 [14s - 25s]
+My neighborhood. For real? I swear to god this happened this afternoon. And I'm thinking of myself, like, how does he doesn't know I'm a fascist. Yes. He does. You're on TV. Do I come across Yeah. As fascist?
+
+🎤 SPEAKER_1 [64s - 64s]
+Yeah?
+
+🎤 SPEAKER_2 [82s - 83s]
+Have me in my head thinking, You're not thinking what we're doing yet?
+
+👤 あなた [83s - 98s]
+No. I mean, I didn't really in my head to factor that in. Kind of no, I've got the books here. I'll I'll work home from here today, and then I'll when I take the books back, the ones Marnie's given I'll When what?
+
+🎤 SPEAKER_2 [98s - 99s]
+When you what?
+
+👤 あなた [99s - 103s]
+When I finish with the books, have has the I'll bring those back and spend the day there then.
+
+🎤 SPEAKER_2 [103s - 106s]
+Next week's half term. Yeah.
+
+👤 あなた [106s - 108s]
+So So this was the week. This was the week.
+
+🎤 SPEAKER_2 [108s - 113s]
+Really. Because next week either I won't be there or you'll have the kids. Seems a week you've been there and meet No.
+
+👤 あなた [115s - 116s]
+No. No. That's fine.
+
+🎤 SPEAKER_2 [118s - 120s]
+Could go there on Wednesday.
+
+👤 あなた [120s - 130s]
+No. Right. I don't need to. It's just to get different it's just to get a different environment. It's fine at home. It's just it's a long way to go really.
+
+👤 あなた [137s - 140s]
+Library The best place really if I'm gonna do something like that is spoons with the coffee.
+
+🎤 SPEAKER_3 [145s - 149s]
+It's just there's something nice about if you came regularly to union, isn't there? Because of the social.
+
+👤 あなた [150s - 160s]
+Yeah. Well, I'm in my last semester. I've done five years of it now. Six years. I'm kinda finished with it now already. But how you going on, dude?
+
+👤 あなた [161s - 162s]
+Yeah. Mate, good boy.
+
+👤 あなた [184s - 187s]
+Bye Jude. See you mummy. See you. Jude. See you tomorrow to mum.
+
+🎤 SPEAKER_1 [188s - 189s]
+Love you.
+
+👤 あなた [192s - 192s]
+Taps on.
+
+👤 あなた [205s - 206s]
+You got work big time.
+
+👤 あなた [209s - 212s]
+So sorry. Go on. Grab a good day, babe.
+
+🎤 SPEAKER_1 [215s - 216s]
+Okay.
+
+🎤 SPEAKER_2 [216s - 216s]
+I'm not sure my good.
+
+🎤 SPEAKER_1 [230s - 234s]
+K. Repeat. Monkly
+
+👤 あなた [234s - 234s]
+Monkly
+
+🎤 SPEAKER_1 [235s - 236s]
+Doll?
+
+🎤 SPEAKER_3 [351s - 355s]
+Our sleeping is just blown along just in front of next door, Shaun.
+
+🎤 SPEAKER_4 [357s - 362s]
+I worry it all disappeared by the end of the day. I only noticed it when I reversed the drive, and I'm gonna get
+
+🎤 SPEAKER_1 [370s - 372s]
+The suplex, I don't know.
+
+👤 あなた [431s - 436s]
+Are you good on, son? Well done.
+
+🎤 SPEAKER_3 [439s - 442s]
+I'm wondering where my hair where my powder is.
+
+👤 あなた [444s - 448s]
+Now if I look in the bathroom, but it's it's yeah. Just you only have one, and it's taking two back now.
+
+
+---
+
