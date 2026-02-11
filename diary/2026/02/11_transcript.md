@@ -884,3 +884,119 @@ Bruva da
 
 ---
 
+
+
+## 📝 Debating A Deposit-Based Dating App Concept - 36a34177-44b2-4a9e-a43b-a7a5992a0a2b
+
+**記録時間**: 2026-02-11 18:04:31
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 1s]
+Bitch, you go.
+
+👤 あなた [21s - 23s]
+Lift this hatch.
+
+🎤 SPEAKER_2 [25s - 42s]
+That hole is so small. It could barely fit an adult. My god. They would do anything to be free. I've seen a lot of things in my life.
+
+🎤 SPEAKER_2 [43s - 47s]
+But this is time. And you're gonna wait?
+
+🎤 SPEAKER_1 [47s - 51s]
+And I'm a fucking head hammer spinning you. Fucking I'm all god. Yeah.
+
+🎤 SPEAKER_3 [99s - 114s]
+After I said I would require a deposit to take me on a day to cover my day preparation cost, I'm now working with an app developer to make this a reality. This is actually happening. We are building the app. I'm not even exaggerating when I tell you this is neat.
+
+🎤 SPEAKER_3 [114s - 135s]
+Best aiding app you have ever seen because there is a clear difference here where the woman can set the deposit rate and the man can pay for her date preparation costs. So as a woman you're gonna walk into the date already so happy, and that's gonna lead a better date and a better connection, and that gives the man a better chance of succeeding and courting you.
+
+🎤 SPEAKER_2 [135s - 141s]
+Oh, no. Who's gonna tell her? Fine. I will. This is not a new kind of app. Okay?
+
+🎤 SPEAKER_4 [141s - 158s]
+This is out there, and lots of websites are out there that do the same thing. It is actually one of the oldest professions. And the bottom line is that I don't care how you cover it up as some sort of new age date app. Every man and every woman that signs up for this, they know what they're signing up for.
+
+🎤 SPEAKER_4 [159s - 176s]
+A man is paying a woman for certain goods and services. That's what it is. Bottom line. And all this is is giving other reasoning, like the cost of being able to get ready and to pay for your childcare It is all just the cover for you wanting to be compensated. I said what I said.
+
+🎤 SPEAKER_1 [177s - 177s]
+After?
+
+🎤 SPEAKER_1 [194s - 196s]
+Saying something right now to you.
+
+🎤 SPEAKER_5 [196s - 204s]
+The big secret is is what is it that you wanna do? Because we've done fifteen weeks of this, and I've done it with high energy, and I did a low and then a middle one. Know that? That was a good take.
+
+🎤 SPEAKER_6 [204s - 207s]
+Well, this is you know, if you wanna talk about it this afternoon from the crew, let's do it outside.
+
+🎤 SPEAKER_5 [207s - 214s]
+Oh, okay. Then quit shouting shit out. To me when I'm in the middle of a a sentence, not even a take, a good sentence that good on film.
+
+🎤 SPEAKER_6 [215s - 215s]
+You know what?
+
+🎤 SPEAKER_5 [224s - 227s]
+I Who's hey. Can anyone thought who's directing this movie? Does anyone know?
+
+🎤 SPEAKER_6 [227s - 229s]
+I don't wanna mind. Why didn't you direct yourself then?
+
+🎤 SPEAKER_5 [235s - 243s]
+Oh, it's fucking everything. Okay. I thought editing this. This would be good. So you say and then you say
+
+🎤 SPEAKER_6 [243s - 244s]
+I'm not even here.
+
+🎤 SPEAKER_5 [245s - 246s]
+That's no.
+
+🎤 SPEAKER_2 [247s - 247s]
+I care.
+
+🎤 SPEAKER_6 [248s - 251s]
+You know what? I'm fucking tired of your Good. Fucking asshole. Good.
+
+🎤 SPEAKER_5 [255s - 270s]
+Don't you then tell me what you wanna do, and then I'll do it so that you can tell me you don't want it anymore. Do it to perfection, and you'll tell me that it's Someone bring me a change or something so that we can move on from this scene that we've gotten golden takes of time after time.
+
+🎤 SPEAKER_2 [369s - 371s]
+Some loose, you feel like the taps are probably dirtier your hands.
+
+🎤 SPEAKER_7 [371s - 373s]
+You just don't wanna touch anything.
+
+🎤 SPEAKER_1 [373s - 375s]
+Yes. Although it is possible to complete an ablution and to exit without using your hands.
+
+🎤 SPEAKER_7 [378s - 379s]
+I'm not sure how you do that.
+
+🎤 SPEAKER_8 [379s - 387s]
+It's simple. You're a corridor, on a train, find the loo. It's green. We're on. Drop a thigh. Elbow down to open. Thigh buds.
+
+🎤 SPEAKER_8 [388s - 390s]
+Round and in. Thigh to close. Wrist to lock.
+
+🎤 SPEAKER_6 [391s - 391s]
+Turn.
+
+🎤 SPEAKER_8 [391s - 395s]
+Lid up. Seat down. And paper, paper, paper.
+
+🎤 SPEAKER_8 [401s - 409s]
+Paper back into bowl. And flush. Check water. Water good. Water soap.
+
+🎤 SPEAKER_8 [419s - 427s]
+Unlock. Handle down. Leg around. All the leg around. I mean, I don't wanna say show you the whole thing. So this is general gist. You know?
+
+🎤 SPEAKER_8 [427s - 430s]
+Other people will, want to devise their own drill. Figures just expire.
+
+
+---
+
