@@ -1,0 +1,182 @@
+{
+  "id": "64216d39-9742-4ad8-ab35-673b4c4c16c2",
+  "created_at": "2026-02-11T07:40:40.219865+00:00",
+  "started_at": "2026-02-11T07:40:41.891243+00:00",
+  "finished_at": "2026-02-11T07:41:56.049611+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Brief Conversation About Quick Tasks",
+    "overview": "The participants have a short, somewhat fragmented exchange. One speaker mentions that something \"pleases\" them in French, another references someone being staged somewhere, and the user then directs attention to some \"T bands\" to review quickly, suggesting looking at them will save time. The user also notes needing to take a quick, \"super luxurious\" toilet break and mentions already having been out to the bus stop once that day. No concrete plans, deadlines, or scheduled events are clearly established.",
+    "emoji": "💬",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "a1befce5-9c3f-43d5-bab6-17439093c1ec",
+      "text": "Ça me plaît.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -5.817413329944898e-07,
+      "end": 0.7199994182586671,
+      "translations": [
+        {
+          "lang": "en",
+          "text": "I like it."
+        }
+      ],
+      "speech_profile_processed": false,
+      "stt_provider": null
+    },
+    {
+      "id": "868a3ec7-20d3-441a-bcb7-45fb5243f272",
+      "text": "She was staged there.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.029999218258667,
+      "end": 3.3899991182586673,
+      "translations": [],
+      "speech_profile_processed": false,
+      "stt_provider": null
+    },
+    {
+      "id": "e82cd1d6-5bf8-4363-86a1-64e9f2fecd74",
+      "text": "Right.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 6.909999418258667,
+      "end": 7.309999418258667,
+      "translations": [],
+      "speech_profile_processed": false,
+      "stt_provider": null
+    },
+    {
+      "id": "6053c098-5208-4a59-a5d8-f0405b470418",
+      "text": "T bands, please. Let's see if we can do them quick. Look at them because it'll be quicker.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 17.02999941825867,
+      "end": 23.20999941825867,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "325df941-cac0-4790-bd6d-9f25239b133d",
+      "text": "Right. Yeah. I've got some for a super luxurious kind of toilet visit now. Have to be quick. Okay? So take that with you. Are there as well. Okay?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 50.52999941825867,
+      "end": 58.14999641825867,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "99b821fc-ee00-46da-a471-a6c0deb46d4c",
+      "text": "Say again? I'm ready. I've I've I've already been out to the best stop already once a day.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 65.15999441825866,
+      "end": 70.81000441825867,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.415731,
+    "longitude": -3.2755133,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "e9639b62-3ba2-4139-a944-031375d50d95",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "64216d39-9742-4ad8-ab35-673b4c4c16c2",
+      "chunk_timestamps": [
+        1770795641.185,
+        1770795646.309,
+        1770795651.254,
+        1770795656.307,
+        1770795662.75,
+        1770795667.85,
+        1770795672.83,
+        1770795677.983,
+        1770795685.267,
+        1770795690.255,
+        1770795695.295,
+        1770795700.336,
+        1770795705.382,
+        1770795710.448,
+        1770795715.43,
+        1770795720.474,
+        1770795726.645,
+        1770795731.644,
+        1770795736.73,
+        1770795741.741,
+        1770795747.945,
+        1770795752.956,
+        1770795757.993,
+        1770795762.98,
+        1770795769.397,
+        1770795774.438,
+        1770795779.49,
+        1770795784.518,
+        1770795789.531,
+        1770795794.542,
+        1770795799.545,
+        1770795804.555,
+        1770795809.651,
+        1770795814.678,
+        1770795819.649,
+        1770795824.666,
+        1770795829.717
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-11T07:40:41.185000+00:00",
+      "duration": 193.532
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## brief context  \n- Discussion about doing “T bands” quickly  \n- Emphasis on speed to finish task  \n\n## toilet break mention  \n- User mentions “super luxurious” toilet visit  \n- Needs to be quick despite the break  \n\n## readiness update  \n- User confirms they are ready to proceed  \n- Mentions already going to bus stop once today  \n\n## next steps  \n- Proceed with T bands task quickly  \n- Continue conversation after quick toilet break"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
