@@ -1017,3 +1017,104 @@ Could that potentially be a problem if that makes sense?
 
 ---
 
+
+
+## 📝 Violent Robbery Over Fake Cash Social Media Post - f8e7ba9e-4752-47ba-a49d-6e5b2cfca5e0
+
+**記録時間**: 2026-02-11 19:38:29
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 6s]
+Every choice you make here echoes across Artemis. Your citizens talk, argue, and remember.
+
+🎤 SPEAKER_1 [65s - 66s]
+Is he gonna, like, try to catch up to it?
+
+🎤 SPEAKER_6 [88s - 91s]
+That the DOJ hid for no apparent reason.
+
+🎤 SPEAKER_1 [92s - 93s]
+When congressman Massey and I How's busy
+
+🎤 SPEAKER_6 [109s - 110s]
+Ash?
+
+🎤 SPEAKER_9 [110s - 113s]
+Great. Especially with the help of Zero Accounting software, I can keep you With the help of zero account We are all to be like Christ except without the power spirit, revelation, oneness with the father, right or anything else.
+
+🎤 SPEAKER_10 [202s - 209s]
+We are all to be like Christ except without the power, spirit, revelation, oneness with the father, righteousness, or anything else.
+
+🎤 SPEAKER_2 [241s - 244s]
+Every choice you make here, it goes across Artemis.
+
+🎤 SPEAKER_5 [332s - 333s]
+Don't kill me.
+
+🎤 SPEAKER_6 [333s - 334s]
+My hands up.
+
+🎤 SPEAKER_1 [372s - 376s]
+I don't have nothing, man. I don't I don't have a gun in there.
+
+🎤 SPEAKER_5 [443s - 445s]
+Well, Every choice you make here, I washed my hands in concrete.
+
+🎤 SPEAKER_11 [451s - 455s]
+I went through with diesel. You wash those with dovetail. We're not the same.
+
+🎤 SPEAKER_6 [455s - 460s]
+I'll brush my teeth with brake fluid and wipe my ass with We are not gonna sign.
+
+🎤 SPEAKER_12 [460s - 464s]
+I did nails for breakfast this morning.
+
+🎤 SPEAKER_5 [568s - 576s]
+Without human beings, possible contact with extra possible human immortality, appalling acts of brutality, genocide, because these systems which are in place to keep the going on is the breakdown of all traditional at?
+
+🎤 SPEAKER_12 [664s - 667s]
+Where the money at? I see what you posted on Facebook. Where the money at?
+
+🎤 SPEAKER_1 [669s - 671s]
+Anthony says two days before the attempted robbery, someone called him broke on social media, so he posted this picture of a stack of cash from an old Facebook memory only to find himself explaining to his attacker that it wasn't his money.
+
+🎤 SPEAKER_12 [683s - 688s]
+At I said, man, it was a prank. It was fake.
+
+🎤 SPEAKER_14 [689s - 703s]
+When the intruders realized there wasn't a pile of cash hidden inside the home here on Patricia Street, didn't just leave. Instead, after repeatedly pistol whipping and choking in, one of the suspects shot an execution style in the back of the neck.
+
+🎤 SPEAKER_14 [703s - 706s]
+He just dug the thumb straight to the back of my head and pulled the tree.
+
+🎤 SPEAKER_12 [708s - 715s]
+I believe. You know, over a fake post. Came out right there. I I I could've been in there.
+
+🎤 SPEAKER_14 [715s - 725s]
+The bullet exited through Anthony's chest shortly after the suspect had led. At least up and rushed Anthony to the hospital in critical condition unsure if he'd survived.
+
+🎤 SPEAKER_12 [725s - 730s]
+I said to myself, I'm about to die over a faithful That's what I was saying to myself.
+
+🎤 SPEAKER_14 [731s - 739s]
+Although the police report includes very few details, Anthony recalls the suspects that announced themselves as police during a break in and even more captive vests.
+
+🎤 SPEAKER_14 [747s - 754s]
+Anthony just hopes the suspects are caught because if they're willing to kill over this pile of old smash, who knows what else they'll do.
+
+🎤 SPEAKER_12 [755s - 760s]
+Wasn't even called for him. He had to do all that. Once he found out it wasn't real, he should've just left.
+
+🎤 SPEAKER_11 [859s - 861s]
+We're willing to offer $1.85.
+
+🎤 SPEAKER_9 [897s - 898s]
+Alright. Come on, ass of you pooped.
+
+🎤 SPEAKER_5 [910s - 913s]
+And again, so beyond that, I'm stressed.
+
+
+---
+
