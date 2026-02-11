@@ -849,3 +849,38 @@ Eight year old.
 
 ---
 
+
+
+## 📝 Friends Discuss Flag Football Game in Saudi Arabia - 2f5eef7c-0e40-4a0b-ab95-e825d9811506
+
+**記録時間**: 2026-02-11 17:58:28
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 3s]
+And that remains true. In this call, if it did happen, corrobore What fucking fuck, dude?
+
+👤 あなた [49s - 56s]
+Are you fucking serious? Yes. Yes.
+
+👤 あなた [80s - 80s]
+Stop.
+
+🎤 SPEAKER_1 [86s - 87s]
+I already know what you're gonna say.
+
+👤 あなた [133s - 146s]
+This robot can walk with about 92 human like motion, smile, make eye contact, and even wink. Shanghai robotics company Droidup has unveiled Moya, a humanoid robot designed to mimic human movement and expression.
+
+🎤 SPEAKER_1 [173s - 214s]
+Uses dozens of precision actuators in its head and face to I'm told that I'm being flown out to Saudi Arabia to compete in a a fanatics flag football game. You what? You. Yeah. You know what? I'm kinda I'm actually a little worried for you because I know me. Well, you're a good athlete, but you're like No. No. I don't you're these guys don't know the level. So I have the highest level. I have the level. No. You're not the level. I have the You're a good athlete. But, honestly, I'm looking at when I'm thinking of say Kwan Barkley and I'm thinking of, like Bro, can you Justin Jefferson off the top rope. Have you not seen him shun the top of someone else? Cute. It's a great know, I love WWE. It's a it's very cute. But, honestly, this is, real football. This is real topper I was an All State linebacker. I rushed for 1,200 yards, 19 touchdowns.
+
+🎤 SPEAKER_1 [214s - 224s]
+Downs my senior year. 1,200. See what you see what you can still bring it. I mean, look. We all had a great pass. I had to do that. I won seven Who don't give this shit? You know what matters? This game, March
+
+🎤 SPEAKER_1 [236s - 236s]
+Bruva da
+
+
+---
+
