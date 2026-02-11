@@ -1,0 +1,213 @@
+{
+  "id": "9bdde3b2-b446-46a0-8000-2edb699e15a3",
+  "created_at": "2026-02-11T08:07:56.006796+00:00",
+  "started_at": "2026-02-11T08:07:50.787858+00:00",
+  "finished_at": "2026-02-11T08:09:45.011837+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Driving Blind Spots Explained During Lesson",
+    "overview": "The user appears to be instructing a learner about driving blind spots. They explain that areas not visible in mirrors or through the window are called blind spots, using a lamppost and an imagined person with a pushchair as examples. The instructor demonstrates how leaning changes visibility and emphasizes checking over the shoulder rather than relying solely on mirrors. After the explanation, the user says they will start listening to the audiobook 'Mistborn', chapter four, and asks to study a newcomer (likely a character in the book).",
+    "emoji": "🚗",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "d39a4c36-9941-4728-93e9-13e841ae0d4f",
+      "text": "Alright. Have a great day, Scent.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 6.126404628048476e-08,
+      "end": 1.3600000612640315,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "55ff6186-8454-407b-94b6-d7b8743403ce",
+      "text": "We'll check every shoulder for you out in case somebody's walking. No. Over shoulder there. That's we call your blind spot here. You can't see in your mirror, guess what? You can't see what you can see at this window. It's called a blind spot. Probably we're standing by there, dude. Listen.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 4.660000061264043,
+      "end": 19.03001006126405,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c4a58eed-d4d1-4349-bfc0-950172114186",
+      "text": "If I stand by there, wouldn't be able to see in the mirror. I know it sounds mad. Look at that lamp coming. Sit back in your seat in a second. Let me show you something. Sit back in your seat.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 20.06001006126405,
+      "end": 28.55000006126403,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "15e59b23-7989-4d15-bca1-4ca995fd837c",
+      "text": "Look at that lamppost. Over your shoulder. Look over the look over your shoulder that can you see that now? There. Look at my hand. Can you see that now post?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 29.610010061264035,
+      "end": 37.97001006126405,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c1037325-c425-4ae8-a365-6c4a6169d6a8",
+      "text": "Yeah.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 37.97001006126405,
+      "end": 38.370010061264026,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "6bedbcb2-f6c7-40db-80f9-ccf95ff428c8",
+      "text": "Can you see that lamppost in your mirror? No.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 38.96001006126403,
+      "end": 43.820020061264046,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7ba320ee-b84a-48a6-a7bb-f2a4f8f129f5",
+      "text": "Because it's so far away.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 43.820020061264046,
+      "end": 45.660010061264046,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "43e2242a-f128-45a7-9d32-1ebfdcc6afb1",
+      "text": "Yeah. But that could be be a mum with a push chair. So that far away. Look. Can you see see that person anywhere now? No. No. That's what it's called. Yeah. Can. Thank you. Now you If you lean like that, you would it's called you call it blind spot. It's one of the first things you learn in driving medicines. So it's like a Don't stress that mirror. See you later.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 45.660010061264046,
+      "end": 64.15001006126403,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "2911f814-5f00-455f-8938-a124e7ebb7bc",
+      "text": "Nope. Can see you now.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 69.62001006126405,
+      "end": 71.62001006126405,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "bcc13a97-4ca1-4a96-bdd9-ca9750099872",
+      "text": "Right. I'm gonna start listening to my book, Mistborn now, chapter four. Please study the newcomer.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 104.69003006126405,
+      "end": 113.61999006126405,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJg2XEyYQFbkgRbVYRKFwqdW8",
+    "latitude": 51.4206504,
+    "longitude": -3.2753459,
+    "address": "2 Winifred Ave, Barry CF62 9XA, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "961c2c79-05d6-4782-b5be-17097e33546c",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "9bdde3b2-b446-46a0-8000-2edb699e15a3",
+      "chunk_timestamps": [
+        1770797268.898,
+        1770797275.836,
+        1770797281.587,
+        1770797286.599,
+        1770797291.631,
+        1770797296.661,
+        1770797302.143,
+        1770797308.203,
+        1770797313.28,
+        1770797318.311,
+        1770797323.458,
+        1770797328.46,
+        1770797333.52,
+        1770797338.813,
+        1770797343.864,
+        1770797349.864,
+        1770797354.871,
+        1770797360.115,
+        1770797366.002,
+        1770797371.162,
+        1770797376.228
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-11T08:07:48.898000+00:00",
+      "duration": 112.33
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Driving blind spot concept  \n- Blind spot is area not visible in mirrors  \n- Example: lamppost/person not seen in mirror but over shoulder  \n- Must check over shoulder, not just rely on mirrors  \n\n## Importance for safety  \n- Blind spot could hide a mum with pushchair  \n- Leaning doesn’t reliably remove blind spot  \n- Blind spot is an early key driving lesson  \n\n## Next steps  \n- User will listen to Mistborn, chapter 4  \n- User asks assistant to study “the newcomer” character"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
