@@ -1000,3 +1000,20 @@ Other people will, want to devise their own drill. Figures just expire.
 
 ---
 
+
+
+## 📝 Debugging Player Respawn Base-Zone Collision - 25ac54ce-adfa-42af-84bd-ec1dd26ce13d
+
+**記録時間**: 2026-02-11 18:56:26
+
+### STT生テキスト
+
+🎤 SPEAKER_9 [0s - 25s]
+When the player is destroyed, the parts of the player character get kind of hit quite a distance And I'm wondering if a stray part of the player's body contact with the base zone so that when the player respawns and picks up a brain rot, it's already registering that it's at the base, the player's at the base.
+
+🎤 SPEAKER_9 [26s - 29s]
+Could that potentially be a problem if that makes sense?
+
+
+---
+
