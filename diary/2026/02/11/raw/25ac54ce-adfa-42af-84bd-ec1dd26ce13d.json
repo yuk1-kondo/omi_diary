@@ -1,0 +1,120 @@
+{
+  "id": "25ac54ce-adfa-42af-84bd-ec1dd26ce13d",
+  "created_at": "2026-02-11T09:56:26.162184+00:00",
+  "started_at": "2026-02-11T09:55:16.571540+00:00",
+  "finished_at": "2026-02-11T09:57:25.847194+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Debugging Player Respawn Base-Zone Collision",
+    "overview": "A developer raises a concern about a possible edge-case bug: when the player is destroyed, body parts are propelled far away, and a stray body part might contact the base zone collider. They wonder if this could cause the game to incorrectly register the respawned player as already being at the base when picking up a brain rot power-up, leading to unintended behavior.",
+    "emoji": "🎮",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "35c94b49-5933-400d-b5e9-28fdd6b7e8df",
+      "text": "When the player is destroyed, the parts of the player character get kind of hit quite a distance And I'm wondering if a stray part of the player's body contact with the base zone so that when the player respawns and picks up a brain rot, it's already registering that it's at the base, the player's at the base.",
+      "speaker": "SPEAKER_9",
+      "speaker_id": 9,
+      "is_user": false,
+      "person_id": null,
+      "start": -5.57708517590072e-07,
+      "end": 25.76979944229106,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3934b1d1-63a1-4628-a54b-d4be5a413ccf",
+      "text": "Could that potentially be a problem if that makes sense?",
+      "speaker": "SPEAKER_9",
+      "speaker_id": 9,
+      "is_user": false,
+      "person_id": null,
+      "start": 26.459799442291114,
+      "end": 29.01979944229106,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.415731,
+    "longitude": -3.2755133,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "7b32e8d2-dde4-499a-874c-ccc219072266",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "25ac54ce-adfa-42af-84bd-ec1dd26ce13d",
+      "chunk_timestamps": [
+        1770803783.974,
+        1770803788.985,
+        1770803795.515,
+        1770803800.788,
+        1770803806.291,
+        1770803811.532,
+        1770803816.689,
+        1770803822.14,
+        1770803827.69,
+        1770803832.801,
+        1770803838.481,
+        1770803843.56,
+        1770803849.002,
+        1770803854.443,
+        1770803859.614,
+        1770803865.67,
+        1770803870.875,
+        1770803876.494,
+        1770803881.73,
+        1770803887.291,
+        1770803893.175,
+        1770803898.508,
+        1770803903.864,
+        1770803909.967,
+        1770803914.883,
+        1770803920.386,
+        1770803925.701,
+        1770803931.281,
+        1770803936.791,
+        1770803942.012,
+        1770803947.811,
+        1770803952.968,
+        1770803958.97
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-11T09:56:23.974000+00:00",
+      "duration": 179.996
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Player destruction behavior\n- Destroyed player parts fly a significant distance\n- Concern about detached parts contacting base zone\n\n## Base zone interaction issue\n- Stray body parts might trigger base detection\n- Could cause game to think player is already at base\n\n## Potential impact after respawn\n- On respawn with brain rot, base may auto-register\n- This could incorrectly grant base-related effects or states\n\n## Next steps\n- Check collision logic for detached player parts\n- Ensure only active player triggers base zone detection"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "66c1f6ee-d299-4332-9cbb-6adfb3f8462b"
+}
