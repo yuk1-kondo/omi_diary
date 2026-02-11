@@ -1118,3 +1118,1028 @@ And again, so beyond that, I'm stressed.
 
 ---
 
+
+
+## 📝 Car Ride To Dad’s Ear Surgery And Health Chat - 5f96ccff-4085-408a-8144-64d824632156
+
+**記録時間**: 2026-02-11 20:06:28
+
+### STT生テキスト
+
+🎤 SPEAKER_10 [0s - 1s]
+Darn keys then?
+
+🎤 SPEAKER_11 [2s - 3s]
+Probably don't, I hope.
+
+🎤 SPEAKER_6 [13s - 14s]
+Toilet.
+
+🎤 SPEAKER_0 [216s - 222s]
+Calciur's triumphant figure popped up from a hunt came in his bar, a look of satisfaction on his face.
+
+👤 あなた [227s - 232s]
+the other top, docs Brought his arm up and flunked the dusty wine bottle down on have doubled with amusement. Where'd you find it?
+
+👤 あなた [233s - 244s]
+One of the sacred drawers, Kelsier said, dusting off the bottle. I thought I'd found all of those, toxin said. You did. One of them had a false back.
+
+👤 あなた [244s - 277s]
+Dachshund chuckled. Clever. Cal nodded, unstoppering the bottle and pouring out three cups. The trick is to never stop looking at as always, another secret too. If you have enough three cups, you'll welcome join with the dachshund at the table. The next accepted her cup with a tentative hand. The meeting ended a short time earlier, raised him indeed leaving to ponder the things Kelsior had told him. It felt that she should have left as well, but she had nowhere to go.
+
+👤 あなた [278s - 287s]
+Dachshund and Kelsey are seemed to take it for granted that she would remain with the them. Gelsier took a long sip of the Rubicon wine, then smiled.
+
+👤 あなた [288s - 301s]
+That's much better. Dachshund nodded in agreement, but then didn't taste her own drink. We're to need another smoker, Daxson noted. Kelsey nodded.
+
+👤 あなた [302s - 314s]
+The others seem to check it well, though. Breeze is still Daxson said. He won't back out. Likes a challenge, and he'll never find a challenge greater than this one.
+
+👤 あなた [315s - 329s]
+Kelsey smiled. The sun it'd drive him insane to know that we're pulling a job that wasn't in on. Still, he's right to be apprehensive, Dachshund said. I'm a little worried myself.
+
+👤 あなた [330s - 344s]
+Kelsey had nodded his agreement than Ben Brown. So are they serious about the plan? Is this still a show for my sake? The two men seemed so competent, yet overthrowing the final empire.
+
+👤 あなた [345s - 358s]
+It sooner stop the mists from flowing or the sun from rising. When do your other friends get here? Dachshund asked her. A couple day Kelsey said. Wanting to have another smoker by then.
+
+👤 あなた [358s - 372s]
+I'm also gonna need some more ATM. Ducks and framed already. Gulsey or nodded. I spent most of it buying horsera's contract, then used my last minute trusting experimentation.
+
+👤 あなた [373s - 375s]
+Trusting, the nobleman
+
+👤 あなた [384s - 392s]
+He claimed that the Lord Ruler kept control of the high nobility by many maintaining a monopoly on the medal. Dachshund rubbed his bearded chin.
+
+👤 あなた [394s - 405s]
+It aims not easy to come like hell. It took nearly eight months of planning to steal you that last bit. That's because you had to be delicate, Calcio said with a devious smile.
+
+👤 あなた [406s - 418s]
+Eyed Calcior with a look of slight apprehension. Calciere just smiled more broadly and Daxin rolled his eyes sighing. Then glanced a bit. You haven't touched your drink.
+
+👤 あなた [419s - 429s]
+Ben shook her head. Dachshund waited for an explanation, and eventually, Ben was forced to respond. I like to drink anything. I didn't prepare myself.
+
+👤 あなた [430s - 445s]
+Calci or chocolate. She reminds me of Vent. Vent, Daxson said with a snort. Lass is a bit paranoid, but she's not that bad. I swear that man was so jumpy that his own heartbeat could startle him.
+
+👤 あなた [446s - 456s]
+The two men shared a laugh. Vin, however, was only made more uncomfortable by the friendly in her. What do they expect of me? Am I to be an apprentice of some sort?
+
+👤 あなた [458s - 472s]
+Well then, Dachshund said, are you going to tell me how you plan getting yourself some ATM? Kelsier opened his mouth to respond, but the stares quited with the sound of someone coming down. Kelsier and Dachshund turned.
+
+👤 あなた [472s - 481s]
+Vin, of course, had seated herself so she could see both entrances to the room without having to move. Ben expected the newcomer to be one of Cayman's crew members.
+
+👤 あなた [481s - 500s]
+Sent to see if Kelsier was done with the lair yet. Therefore, she was completely surprised when the door swung open to reveal the surly gnarled face of the man called Clubs. Gelsier eyes twinkling. He's not surprised. Pleased but not surprised.
+
+👤 あなた [502s - 512s]
+Clubs, Calcio said. Clubs stood in the doorway, giving the three of them an impressively disapproving Finally, he hobbled into the room.
+
+👤 あなた [513s - 523s]
+A thin, awkward looking teenage boy followed him. The boy fetched club's chair and put it by Kelsey's table. Clubs settled down, grumbling slightly to himself.
+
+👤 あなた [524s - 535s]
+Finally, he eyed Calciator with a squinting, wrinkled and edged expression. The soother gone, Breeze? Calcira asked. Yes. He left.
+
+👤 あなた [536s - 547s]
+Clubs grunted. Then he hid the bottle of wine. Help your Kelsey said. Clubs waved for the boy to go fetch him a cup from the bar, then turned back to Kelsey.
+
+👤 あなた [549s - 554s]
+I had to be sure, he said. Never can trust yourself when a soother is around.
+
+👤 あなた [559s - 571s]
+Of gloves, Kelsier said. He couldn't do much to you. Not if you didn't want him to. Clubs shocked it. Unlike suitors, it's not just alomancy.
+
+👤 あなた [572s - 585s]
+Men like that, man, you can't trust that you wanna being manipulated when they are around copper or no copper. I wouldn't rely on something like that to get you loyalty, Kelsey said.
+
+👤 あなた [586s - 596s]
+So I've heard who upset does the boy poured him a cup of wine. Had to be sure though, had to think about things without that breeze around.
+
+👤 あなた [597s - 606s]
+He scoffled, though Ben had trouble determining why, then took the cobman down half a bit and one go. Good wine. He
+
+👤 あなた [611s - 624s]
+So the pits really did drive you insane. I completely calcite with a straight face. Bob though, on his face, the expression had it decidedly twisted up.
+
+👤 あなた [626s - 641s]
+Through at this time. This so called job of your Kelsey are nodded solemnly. Corrupt down the rest of his wine. But few got yourself a smoker then. Not for the money though.
+
+👤 あなた [642s - 653s]
+If you're really serious about top winning a government, then I'm in. Elsa smiled. Don't smile at me. Clubs snapped. I hate that.
+
+👤 あなた [654s - 655s]
+I would say.
+
+👤 あなた [661s - 668s]
+That sucks the smoker problem. One more Clubs that you're going to fail. That's
+
+👤 あなた [673s - 693s]
+He gets the hole eventually anyway. Well, I both are helping us then. Dachshund asked. Because the fox said stepping I was going to get my SARA lighter. At least this way, I'll be able to spit in his face as I go. Over joining the final empire. He's smart.
+
+👤 あなた [694s - 700s]
+It's got style. Let's go, kid. We've got a
+
+👤 あなた [718s - 719s]
+Good morning.
+
+🎤 SPEAKER_1 [719s - 724s]
+Just gonna put this on a minute. There we
+
+🎤 SPEAKER_1 [727s - 729s]
+Oh, you're welcome.
+
+🎤 SPEAKER_2 [730s - 733s]
+You are welcome. Kept it on the down low, right?
+
+👤 あなた [735s - 736s]
+Yeah.
+
+🎤 SPEAKER_1 [738s - 738s]
+You know me.
+
+🎤 SPEAKER_2 [739s - 740s]
+Yeah.
+
+🎤 SPEAKER_1 [741s - 742s]
+When did you know about it?
+
+🎤 SPEAKER_2 [743s - 745s]
+My mum called to ask me if I could give you a lift.
+
+🎤 SPEAKER_1 [746s - 749s]
+So holy, I'm racing. Yeah. I didn't know.
+
+🎤 SPEAKER_2 [749s - 763s]
+I knew it was coming out. I knew you mentioned that you were having it some way. I knew it was there, I know exactly when. Well, was only like last week I had the phone call from Josh there, guys.
+
+🎤 SPEAKER_2 [763s - 771s]
+It's a cancellation. Oh, yeah. And I did tell him when I was just doing my pre op, assessment.
+
+🎤 SPEAKER_1 [771s - 782s]
+Yeah. Look, I saw I'm flexible. I could be there if I could get cancellation. Yeah. You know, anything I can take it to the car?
+
+🎤 SPEAKER_1 [783s - 786s]
+So that's already done? Right. Probably
+
+🎤 SPEAKER_1 [790s - 829s]
+Alright. But I got three. You got three? I got three in this. Oh, yeah. Cold water swim tend to get two or something. Alright. So these growth I got three. So he did ask me if could do that. And they couldn't really explain why was there. But with the surgeon, who they called in to uplift, he said, don't don't usually hear then. So that's not good. You know? Whatever. Or just With it. Yeah. With it. Don't use your urinate. So said, I recommend you don't have it done. So what he's saying is can't use the union.
+
+🎤 SPEAKER_2 [830s - 833s]
+But He recommend having the surgery done. He thought just leave them?
+
+🎤 SPEAKER_1 [833s - 841s]
+It says you've got two options, surgery or no surgery. I reckon you do it. Why? What's his leave it. What's his reasons for it?
+
+🎤 SPEAKER_2 [842s - 845s]
+Just because he didn't seem as needed urgent kind of thing.
+
+🎤 SPEAKER_1 [845s - 860s]
+Urgent. But soon as soon as he gave me the option of the two, should you amount. And then he said, you can't use the eating. I said, I love it, please. Yeah.
+
+🎤 SPEAKER_1 [860s - 875s]
+Yeah. You just wanna say I went to West for my hearing aids. Yeah. They noticed it. Right. Yes. Yeah. Not long before. I went to Specsavers.
+
+🎤 SPEAKER_2 [876s - 878s]
+To get your ears cleaned out, was it?
+
+🎤 SPEAKER_1 [878s - 886s]
+Or No. So you got here and they dropped it for two thousand pound. They never noticed that. Blimey. They never heard of say.
+
+🎤 SPEAKER_2 [886s - 887s]
+That's doesn't feel you confidence, does it? No.
+
+🎤 SPEAKER_1 [888s - 893s]
+And when I went get the Specsaver hearing agent car. Yeah.
+
+🎤 SPEAKER_1 [897s - 911s]
+They had one below set, and they didn't fine tune anything. They making any The service wasn't really good. No. And I I just felt, you know, not doing any good. Now? I would come back.
+
+🎤 SPEAKER_1 [912s - 923s]
+You know, in a week or so. We'll we'll so and so on. Nice. So, no, you're not I'm not paying £2,000 for that. Oh, yeah. So I got the money back, and they said, okay. Not the money back, but Japan.
+
+🎤 SPEAKER_1 [925s - 929s]
+Right. You're banned from using our services anymore?
+
+🎤 SPEAKER_2 [929s - 930s]
+Well, Specsavers.
+
+🎤 SPEAKER_1 [930s - 932s]
+Yeah. The ear part.
+
+🎤 SPEAKER_3 [932s - 932s]
+They're lying me.
+
+🎤 SPEAKER_2 [933s - 936s]
+Isn't it within your rights to cancel or what?
+
+🎤 SPEAKER_1 [936s - 945s]
+Or was it beyond that period in your order? Well, they said, look, Yeah. Just doing it too early. But can you two knees? Yeah.
+
+🎤 SPEAKER_1 [946s - 957s]
+Well, no. I I canceled within a couple of days of having them. Yeah. I didn't like what they were doing. Weren't doing any good. They made no effort to try and make my units better.
+
+🎤 SPEAKER_1 [958s - 961s]
+And I said, hey, mate? Yeah. Yeah.
+
+🎤 SPEAKER_2 [961s - 968s]
+You if you're such for that money, Blame me. That's chicky of them, ain't it? Yeah. She read apology rather than a Yeah. Ban. Yeah.
+
+🎤 SPEAKER_1 [969s - 977s]
+So that's it. Yeah. You you you come no longer use us sooner. So thank you very much. Doctor Rick. Yeah.
+
+👤 あなた [977s - 978s]
+So then Oh, yeah. All set to go.
+
+🎤 SPEAKER_1 [979s - 985s]
+Yeah. Where was that then? Oh, yeah. And they off for Omi.
+
+🎤 SPEAKER_2 [985s - 986s]
+Got the hearing aids?
+
+🎤 SPEAKER_1 [986s - 988s]
+Yeah. A national dog.
+
+🎤 SPEAKER_2 [990s - 996s]
+So you thought going a bit private might be get better service better than and the other, is it? Much for the service, but the quality of the product.
+
+🎤 SPEAKER_1 [996s - 1010s]
+Yeah. The was, you know, it was it was a higher spec. Right. You could link your music into it. You could I yeah. The Bluetooth. Do all sorts of them. Right. Yeah. But they didn't bother telling me, do you?
+
+🎤 SPEAKER_1 [1012s - 1013s]
+For the the The Spectrum
+
+🎤 SPEAKER_1 [1019s - 1023s]
+So, that's it That's the story I went to.
+
+🎤 SPEAKER_2 [1024s - 1029s]
+Went there and they had a look. And they saw, oh, hang on. You got some growth in your ear or something like that.
+
+🎤 SPEAKER_1 [1029s - 1037s]
+So I went to West Yeah. They said, we'll refer you. I said, thank you. You. A while later Yeah. They had a call to go in
+
+🎤 SPEAKER_1 [1042s - 1044s]
+Yeah. Couldn't understand this. We call the surgeon there.
+
+🎤 SPEAKER_3 [1045s - 1045s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [1048s - 1050s]
+You know, she's the surgeon's lying on.
+
+🎤 SPEAKER_3 [1050s - 1051s]
+Don't bother.
+
+🎤 SPEAKER_2 [1051s - 1054s]
+Because even though he knows that you wouldn't be able to choose your hearing aids.
+
+🎤 SPEAKER_1 [1055s - 1062s]
+Yeah. Well, you know what? He didn't really was just called in. Right?
+
+🎤 SPEAKER_2 [1062s - 1063s]
+Right.
+
+🎤 SPEAKER_1 [1063s - 1071s]
+Yeah. His was in a different space. Yeah. He was called in to have a look at this now. Yeah. You had a billion of three things to do. Yeah.
+
+🎤 SPEAKER_1 [1071s - 1082s]
+But came in. He didn't know I was at he was at was was I said, can I use Right? I told him I said, Right.
+
+🎤 SPEAKER_2 [1082s - 1083s]
+You know? So get them out.
+
+🎤 SPEAKER_1 [1083s - 1085s]
+So get them out.
+
+🎤 SPEAKER_2 [1085s - 1089s]
+And how hearing aid and then I presumably keep an eye on see if they grow back or not.
+
+🎤 SPEAKER_1 [1091s - 1096s]
+Yeah. I don't know. I will have to find out what this Yeah. At any stage. Yeah.
+
+🎤 SPEAKER_2 [1098s - 1100s]
+And so it's general today then, is it?
+
+🎤 SPEAKER_1 [1101s - 1112s]
+Yeah. Options. That's a mumpset thing on the phone. Yeah. Well, I You know? Sort of put down on the load task to talk to Josh. Yeah. He said this is general, Josh?
+
+🎤 SPEAKER_1 [1112s - 1122s]
+I it's doesn't say, but I would imagine it is. Who's Josh then? Oh, Joshua's the the secretary Oh, I see. From London.
+
+🎤 SPEAKER_2 [1122s - 1123s]
+You know? Alright. Yeah.
+
+🎤 SPEAKER_1 [1125s - 1134s]
+When when you think about it, I think in the playing with your ear? You don't wanna know much about it. No. No.
+
+🎤 SPEAKER_2 [1134s - 1136s]
+Because quite deep into the ear canal then, is it? Yeah.
+
+🎤 SPEAKER_4 [1137s - 1137s]
+Yeah.
+
+🎤 SPEAKER_1 [1137s - 1140s]
+Yeah. I went I went for the Soggiogram Monday.
+
+🎤 SPEAKER_2 [1141s - 1141s]
+Yeah.
+
+🎤 SPEAKER_1 [1144s - 1158s]
+And which which part of it had to have that to to the suture. Yeah. So don't rescue it. The said, you've got a lot of wax in there. Oh, yeah. Should check it out? He said, well, let's see if it's affecting your hearing. Yeah. She said it's not really affected.
+
+🎤 SPEAKER_1 [1158s - 1167s]
+Hearing. So leave it there. They'll put short notice if they want it. Yeah. So they have to look at it. They'll see this rack still getting up. Clean on it. Oh, yeah. Like they do.
+
+🎤 SPEAKER_1 [1168s - 1171s]
+And get over the job, I guess.
+
+🎤 SPEAKER_4 [1171s - 1172s]
+Oh, man.
+
+🎤 SPEAKER_2 [1172s - 1182s]
+I couldn't believe the difference it made to get my ears kind of I've got lot of waxing or anything. Oh, you should have seen it. Was it was not that big, like like a slug kind of thing. It was horrible. And you think They try you know, don't they?
+
+🎤 SPEAKER_2 [1185s - 1190s]
+The charge, yeah. It's not on any it's not on NHS anymore. It's like £70 or something like that.
+
+🎤 SPEAKER_1 [1193s - 1196s]
+But which is vanity. Yeah. I see them. Pull up flash ones.
+
+🎤 SPEAKER_2 [1200s - 1207s]
+I see well? Or did you know Yeah. Yes. Yeah. Maybe he's got a wide load as All you want to do, want to go over?
+
+🎤 SPEAKER_1 [1207s - 1208s]
+Yeah.
+
+🎤 SPEAKER_2 [1208s - 1215s]
+We'll just swing it. Yeah. So, yeah. So, hope you any so who knows what time you'll be out later on then, is it?
+
+🎤 SPEAKER_1 [1215s - 1226s]
+Yeah. But that's not a problem. Second phone, but Yeah. If it's it won't be before three They they like to do diabetics only.
+
+🎤 SPEAKER_1 [1227s - 1237s]
+Do they? Like, when I went to get my goal platter stuff Yeah. They said, oh, you'd one of the first things because you got the diabetic.
+
+🎤 SPEAKER_2 [1237s - 1240s]
+You're not diabetic. You pre diabetic still? I am diabetic.
+
+🎤 SPEAKER_1 [1240s - 1246s]
+You are diabetic. Type two diabetic. Yeah. Only surviving because I got medication.
+
+🎤 SPEAKER_2 [1246s - 1250s]
+Oh, I have to manage that. I thought you were I thought that's a temporary thing because of had it after COVID.
+
+🎤 SPEAKER_1 [1251s - 1253s]
+I came home.
+
+🎤 SPEAKER_2 [1254s - 1255s]
+I remember. Yeah. Very,
+
+🎤 SPEAKER_1 [1255s - 1274s]
+very, very high. Yeah. So they they had me in Lambdaq managing me, then they put me to a diabetic nurse in my search called Yeah. And then the doctor just managed it. Now I have six monthly blood tests. Oh, yeah. And I'm not much about dieting.
+
+🎤 SPEAKER_2 [1274s - 1276s]
+So No. Are you getting told off for that, man?
+
+🎤 SPEAKER_1 [1276s - 1284s]
+That retain anything. I'm trying myself off. Yeah. You watch it? You getting more with you? I was walking. Okay. There we go.
+
+🎤 SPEAKER_2 [1284s - 1296s]
+Then. Yeah. No. It's it is hard cut sugar. It's it's it's it is, like, not quite like crack cocaine, but it's addictive.
+
+🎤 SPEAKER_1 [1296s - 1299s]
+Body needs Well, jewel would probably say it's worst.
+
+🎤 SPEAKER_4 [1299s - 1299s]
+Yeah.
+
+🎤 SPEAKER_1 [1300s - 1302s]
+And it's not just sugar really. It's
+
+🎤 SPEAKER_1 [1303s - 1306s]
+just watching what I eat in general. Yeah.
+
+🎤 SPEAKER_2 [1306s - 1312s]
+I've been in a lot actually over the last month or two about how insulin affects the body.
+
+🎤 SPEAKER_4 [1312s - 1312s]
+Oh, I know.
+
+🎤 SPEAKER_2 [1312s - 1341s]
+Because it's new field, but it's why it's not just one or two people, whole field saying the same thing. I had a great there's a doctor come from his name online explaining about what insulin does. High insulin, so basically, he said this is the simple analogy used that any child could understand which was if you eat more calories than you burn, obviously, that puts on some visceral fats. Yeah. And imagine that fat goes into a refrigerator, like a storage place, like like a cupboard.
+
+🎤 SPEAKER_2 [1341s - 1353s]
+Say. And he said, thing is, if you feel like if you have a calorie deficit, you should automatically then the body will use it think the body will automatically go into that storage and start burning up the fat. Yeah. But that's not the case, they realize.
+
+🎤 SPEAKER_2 [1354s - 1373s]
+What insulin does with a high insulin level or glucose it acts like a padlock on the cupboard. So it actually your body, even if you're in a calorie deficit, it doesn't access the visceral fats and with high insulin because insulin blocks that cupboard from being accessed.
+
+🎤 SPEAKER_4 [1373s - 1374s]
+Mhmm.
+
+🎤 SPEAKER_2 [1374s - 1391s]
+And so what they realized is if you have, like, insulin if you have a high insulin, kind reaction to, like, carbohydrates, bread, sugar, that sort of thing, it effectively blocks off your body being able to access its visceral fat.
+
+🎤 SPEAKER_4 [1391s - 1391s]
+Yeah.
+
+🎤 SPEAKER_1 [1392s - 1395s]
+Get rid of it. And get rid of it.
+
+🎤 SPEAKER_2 [1395s - 1447s]
+So and so what they realized now is that not you can't it's not you could easily be under you know, you could eat a thousand calories in a day but not burn any fat if that thousand calories is is high high in insulin level, and that's why type, type one diabetics those who have a natural problem with insulin, is they can eat They were born with it. Yeah. They can with it, but because what happens is because they hurt Basically, they can eat and eat and eat, but they can still starve to death. It used to be the case. A 100 a couple of new years ago, you starve to death because even if you ate 10,000 calories, because it wasn't storing in the fat and that's all to do with insulin. So I've learned a lot and and so I've lost two kilograms in the last in the last couple of weeks purely from kind of sugar and not and skipping breakfast. Those two things.
+
+🎤 SPEAKER_1 [1447s - 1451s]
+Kind of sugar, like Like, can do the things you can now.
+
+🎤 SPEAKER_2 [1451s - 1455s]
+But I'm so apart from the weekends, I'm allowing myself the weekends.
+
+🎤 SPEAKER_4 [1455s - 1456s]
+That's it. Any action?
+
+🎤 SPEAKER_2 [1456s - 1479s]
+Extras, basically? Cakes, anything that's got added sugar in it? Yeah. Other than fruit maybe. Because what that does is it your insulin level relatively flat. You don't have any insulin spikes and so it's allowing you your body to access the cupboard to burn the fat. So I did a lot of I've been watching a loads of videos on it and it's it's fascinating. And it's kinda like really unlocked. It's really unlocked.
+
+🎤 SPEAKER_1 [1479s - 1480s]
+I'll cut you to look at the Internet.
+
+🎤 SPEAKER_2 [1482s - 1489s]
+Well, I've been following a few guys online. That were pro platforming some of these experts.
+
+🎤 SPEAKER_1 [1492s - 1494s]
+And it and then as you know with your algorithm your algorithm know. Let you know. Right?
+
+🎤 SPEAKER_2 [1494s - 1508s]
+You're not careful, lean on this button Yeah. And the adaptive cruise control kicks in. And so suddenly you're finding yourself Yeah. Whilst it adapts the it matches the speed of the car in front. Good. Good.
+
+🎤 SPEAKER_2 [1509s - 1513s]
+But the thing is, it's a bit over the brake in's a bit strong and reactive.
+
+🎤 SPEAKER_1 [1513s - 1513s]
+Yeah.
+
+🎤 SPEAKER_2 [1514s - 1517s]
+So I don't I don't I don't particularly care for it over overreacts this one here.
+
+🎤 SPEAKER_1 [1518s - 1519s]
+What's the cruise control, is it?
+
+🎤 SPEAKER_2 [1520s - 1533s]
+Yeah. It's cruise control, but but then I could set it for 30 or 20, what have you. Yeah. If the car shows down to zero, the car maintains the gap and stops and matches the speed in front, which is pretty impressive.
+
+🎤 SPEAKER_2 [1533s - 1534s]
+Yeah.
+
+🎤 SPEAKER_4 [1535s - 1535s]
+Anyway, that's all yeah.
+
+🎤 SPEAKER_1 [1535s - 1536s]
+This this is from this car.
+
+🎤 SPEAKER_2 [1536s - 1543s]
+I'll tell you what. It you've probably seen in Kate's car ventilation.
+
+🎤 SPEAKER_1 [1543s - 1551s]
+It's really stuff I have. I don't pay much attention. Kate shows me stuff only if I need it.
+
+🎤 SPEAKER_2 [1551s - 1579s]
+Now this car, it it steams up really easily. Oh. And the other thing they've cut corners on, you know, most window cars you've got, like a little little fabric at the window. You wind down the window it kinda cleans the window for you. Mhmm. These these guys don't have that. So if it's in condensation, you put the window down, you put it back up it comes up exactly the same, which is a bit of a blinking realized they haven't got the built the pad in there? No.
+
+🎤 SPEAKER_2 [1579s - 1586s]
+Well, yeah. It doesn't do that. It doesn't do it. It doesn't work. I wonder think Kate's got the same thing. So Yeah.
+
+🎤 SPEAKER_3 [1587s - 1587s]
+Anyway, yeah.
+
+🎤 SPEAKER_1 [1587s - 1590s]
+You happy with her car? Yeah.
+
+🎤 SPEAKER_2 [1591s - 1595s]
+She's it's it's great. It's the fastest car I've ever had. It's nippy, easy to drive.
+
+🎤 SPEAKER_2 [1599s - 1608s]
+As a few it's obviously the cheapest car in The UK as well. Like, we were facing the prospect of getting a ten year old Thatcher old rubbish car.
+
+🎤 SPEAKER_2 [1609s - 1611s]
+That had sixty, 70,000 miles on the clock.
+
+🎤 SPEAKER_1 [1611s - 1612s]
+Yeah.
+
+🎤 SPEAKER_2 [1613s - 1622s]
+Same price as this. Brand new. And we thought, well, we can really know, these cars would be spent $2 on the other car we got rid of. Yeah.
+
+🎤 SPEAKER_2 [1623s - 1624s]
+In Monyer.
+
+🎤 SPEAKER_1 [1624s - 1626s]
+Cars, they started to cost.
+
+🎤 SPEAKER_4 [1626s - 1627s]
+Right? There's that.
+
+🎤 SPEAKER_2 [1628s - 1631s]
+That was £1,800 in one year and so you split that over twelve months and you're like, you want How much is this a month?
+
+🎤 SPEAKER_4 [1633s - 1633s]
+This is a 120.
+
+🎤 SPEAKER_1 [1633s - 1642s]
+It's 300. Yeah. 50 in month. Yeah. And you can replace it after so many years.
+
+🎤 SPEAKER_2 [1642s - 1644s]
+Yeah. Four years, you give it back.
+
+🎤 SPEAKER_1 [1644s - 1644s]
+Yeah.
+
+🎤 SPEAKER_2 [1645s - 1659s]
+Or get give her back on the end of it or swap it for new or one. So you you sort of like renting it? Yeah. It's kinda like a Yeah. We don't own it and we're we're limited to 6,000 miles a year. Send it type of thing. Right?
+
+🎤 SPEAKER_3 [1659s - 1659s]
+Yeah.
+
+🎤 SPEAKER_2 [1661s - 1674s]
+For every 10 for every mile over 6,000 in a year, we pay 10 p. Which unbalanced. We realize that's not that much actually. A thousand miles, you go a thousand miles over, it's an extra quid or something.
+
+🎤 SPEAKER_1 [1676s - 1676s]
+No.
+
+🎤 SPEAKER_2 [1676s - 1677s]
+That's not nice.
+
+🎤 SPEAKER_1 [1678s - 1679s]
+Yeah.
+
+🎤 SPEAKER_2 [1679s - 1682s]
+That's why this works well for what we use it for, which is
+
+🎤 SPEAKER_1 [1682s - 1682s]
+Phone tow.
+
+🎤 SPEAKER_2 [1683s - 1685s]
+Yeah. And we always prefer to use the other car if we can.
+
+🎤 SPEAKER_4 [1685s - 1686s]
+Yeah.
+
+🎤 SPEAKER_2 [1686s - 1690s]
+So that makes sense? So we've had this now since September and we've got 100 miles on it.
+
+🎤 SPEAKER_1 [1690s - 1697s]
+So do you not navigate to one car, should you navigate the other or do you just mix and match? Yeah.
+
+🎤 SPEAKER_2 [1697s - 1703s]
+It tends to be Rachel takes the other car because she she travels the bridge end every day. Oh. Well, Tuesday to Thursday.
+
+🎤 SPEAKER_2 [1707s - 1709s]
+And where'd you where'd you go now to let to Philip.
+
+🎤 SPEAKER_1 [1709s - 1710s]
+Yeah.
+
+🎤 SPEAKER_2 [1711s - 1719s]
+So quite it's quite useful. Anytime I go to shop and take plug it in there. But also when Jira has football training on Thursday nights, we park at Tesco's.
+
+🎤 SPEAKER_2 [1720s - 1729s]
+Plug it in, and then walk over to the Oh, yeah. Sporty. And and then by the time back, it's charged.
+
+🎤 SPEAKER_1 [1730s - 1731s]
+Is there?
+
+🎤 SPEAKER_4 [1731s - 1732s]
+Yeah.
+
+🎤 SPEAKER_2 [1732s - 1734s]
+That depends on if I'm using the faster one or not.
+
+🎤 SPEAKER_1 [1735s - 1741s]
+I used to put put your card on there, do you? It just Yeah. Charges automatically back.
+
+🎤 SPEAKER_2 [1741s - 1757s]
+Well, yeah. And you well, you we got the thing that's a bit annoying. I've got about five apps on my phone for different networks and things. There's one app called Pod Points where oh, Zap Map, sorry, where you can almost use it to charge on lots of networks and you just it connects to your bank account and it just and it just you.
+
+🎤 SPEAKER_4 [1760s - 1761s]
+Zap map.
+
+🎤 SPEAKER_1 [1762s - 1762s]
+And what's it do?
+
+🎤 SPEAKER_2 [1762s - 1767s]
+It's like Google Maps but with the part charging points.
+
+🎤 SPEAKER_4 [1767s - 1768s]
+Ah.
+
+🎤 SPEAKER_2 [1768s - 1773s]
+And then you click on the charging point, and then you can pay for it on that through through the app rather than have to go through
+
+🎤 SPEAKER_1 [1773s - 1774s]
+How much that goes?
+
+🎤 SPEAKER_2 [1776s - 1780s]
+Well, the app itself is free, but the charge in it Oh, they check the check the they took a little bit of money.
+
+🎤 SPEAKER_1 [1781s - 1782s]
+They they don't actually.
+
+🎤 SPEAKER_2 [1782s - 1784s]
+First as far as I can tell.
+
+🎤 SPEAKER_1 [1785s - 1786s]
+Well, unless we've done it somehow.
+
+🎤 SPEAKER_4 [1786s - 1787s]
+Yeah.
+
+🎤 SPEAKER_2 [1787s - 1788s]
+Maybe I don't know if it's fund I don't if it's ad funded or something.
+
+🎤 SPEAKER_2 [1792s - 1800s]
+But ja, I mean next generation of driving instructors after you, maybe the next, I imagine, will be doing electric by ten to twenty years.
+
+🎤 SPEAKER_2 [1801s - 1802s]
+Ten years time from now.
+
+🎤 SPEAKER_1 [1803s - 1803s]
+Yeah.
+
+🎤 SPEAKER_2 [1804s - 1808s]
+Because we're we're getting Automatic? And electric.
+
+🎤 SPEAKER_1 [1808s - 1809s]
+Yeah.
+
+🎤 SPEAKER_2 [1809s - 1815s]
+You see a lot more electrics around now. Don't know if you've noticed by it. Maybe I've just noticed because I've got one of these.
+
+🎤 SPEAKER_1 [1816s - 1825s]
+Well, yeah. You But for me, the biggest problem they've got is charging points.
+
+🎤 SPEAKER_2 [1825s - 1826s]
+Yeah. Oh, yeah. We are in a bit of a yeah.
+
+🎤 SPEAKER_4 [1827s - 1828s]
+And a bit of a pickle.
+
+🎤 SPEAKER_1 [1828s - 1839s]
+They're gonna match that up. Can't try to get to talk about it in her in her group. She's a director of in her where she lives in.
+
+🎤 SPEAKER_2 [1839s - 1840s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [1840s - 1841s]
+She point to go a group.
+
+🎤 SPEAKER_1 [1846s - 1850s]
+I have Oh, yeah. Manages things there. And they wouldn't have it. Okay.
+
+🎤 SPEAKER_4 [1850s - 1853s]
+We just didn't want it. No. I know.
+
+🎤 SPEAKER_2 [1853s - 1854s]
+It's the same.
+
+🎤 SPEAKER_1 [1854s - 1857s]
+They're still they're still a risk of fire and stuff. So they they're not Barely.
+
+🎤 SPEAKER_2 [1857s - 1879s]
+Yeah. And it's just bit of a reaction. I don't know when do it because he said it was too too early. Too early for what? In terms of he thinks he could have the the standards could evolve and mature a bit over time. He not planning it. But even but he's wrong about it because it has matured, it has settled, the people are getting charged him.
+
+🎤 SPEAKER_2 [1879s - 1881s]
+It's being standardized now, the charging points.
+
+🎤 SPEAKER_1 [1881s - 1886s]
+So maybe you can approach it again with him. No. Would it ever roll back with this?
+
+👤 あなた [1886s - 1886s]
+No.
+
+🎤 SPEAKER_1 [1887s - 1887s]
+I'll take my fourth accelerator now.
+
+🎤 SPEAKER_2 [1887s - 1899s]
+Now. Hold over the brake. In fact, if you put your foot in the brake, it holds, but you don't need to. In fact, it's it's I'm not on anything at the minute. I'm just hovering.
+
+🎤 SPEAKER_1 [1899s - 1907s]
+Mum's MG is what they call automatic. So it could roll back a little bit if you're not careful.
+
+🎤 SPEAKER_2 [1907s - 1907s]
+Yeah.
+
+🎤 SPEAKER_1 [1908s - 1917s]
+You put your foot on the brake, you put the hand brake up, and then when you go on to gas Yeah. And it drives off. There's a way of doing it, but it's not great at reversing up hill. Yeah.
+
+🎤 SPEAKER_2 [1917s - 1923s]
+Mum's telling me that. I take what. Listen. I'm not joking, dad. I think this car can I don't if you've been in have you driven Kate's car this year?
+
+🎤 SPEAKER_1 [1923s - 1924s]
+No.
+
+🎤 SPEAKER_4 [1924s - 1924s]
+I've done not too.
+
+🎤 SPEAKER_2 [1925s - 1933s]
+First. It it can go I'm not joking. If you this is a problem for learners to tackle if they get a car like this, the learner driver. It can reverse about 15 miles an hour.
+
+🎤 SPEAKER_2 [1934s - 1942s]
+You'd go into reverse, you put your foot down like that. It is because there's no gear, there's no gears, it's just one engine that does everything.
+
+🎤 SPEAKER_2 [1943s - 1951s]
+One motor rather. It's it's the same motor for reversing. Yeah. It must be clamped somehow. Tracy. Right. Am I going all the up to top around the vents?
+
+🎤 SPEAKER_1 [1951s - 1953s]
+All way up and all the way around and back down a bit.
+
+🎤 SPEAKER_2 [1953s - 1954s]
+Right. Yeah.
+
+🎤 SPEAKER_1 [1954s - 1957s]
+That's fine. So I'll give you plenty of warning. Just keep going right Alrighty.
+
+🎤 SPEAKER_2 [1958s - 1960s]
+Is it a drop off point?
+
+🎤 SPEAKER_1 [1960s - 1961s]
+Know? Yep.
+
+🎤 SPEAKER_4 [1961s - 1962s]
+Well,
+
+🎤 SPEAKER_1 [1962s - 1964s]
+yeah. There's a place I can just swing out here.
+
+🎤 SPEAKER_2 [1967s - 1969s]
+Okay. Well, yeah.
+
+🎤 SPEAKER_1 [1973s - 1975s]
+Hopefully, you have my you you do in your you say you you find all the stations that you're doing? Yeah.
+
+🎤 SPEAKER_2 [1975s - 1989s]
+I got I got it. It's like a lot going on. I got a common dissertation, but I've also got an s due on Ezekiel chapter 38, which is challenging. So now I'll call about Gog of Magog.
+
+🎤 SPEAKER_2 [1989s - 2004s]
+Oh, good good. And it's an I recall about this god raising this army from all over the world to attack Israel. Oh. God self raises them up and he he forces them to do it. And then once they attack Israel, he defeats them and shows them.
+
+🎤 SPEAKER_2 [2005s - 2009s]
+And it's kind of understanding that because some people misunderstand it as an end time prophecy.
+
+🎤 SPEAKER_1 [2010s - 2019s]
+Well, I would have thought this big army, if you talk more like the last day, Yeah. I thought I didn't think the that God was raising that up.
+
+🎤 SPEAKER_2 [2020s - 2037s]
+Yes. Well, god seems to do that a lot. Know, for example, when Israel got split into two, you got the Northern Kingdom Of Israel and the second kingdom of Judah. Got both times where they got conquered and took into Israel into exile. God was the one who raised the army against his own people as a judgment.
+
+🎤 SPEAKER_2 [2037s - 2071s]
+He he made the Assyrians attack Israel and the Babylonians attacked Judah. It was god. It was a judgment upon them for their lack of of keeping the covenant with him. And so god does that. But and Revelation also talks about Gog and Me, Gog at the end high battle. But what people don't realize about Revelation is that it tracks very similarly to It's almost like John had a copy of Ezekiel next to him. And so there's lots of overlap. And so when he talks about Gog Magog, he's talking about the one that we're doing in. Anyway, it's complicated and a bit boring to boring.
+
+🎤 SPEAKER_1 [2071s - 2078s]
+See it there? You want to go in? Just drop you. Okay. Drop off soon. Day surgery. This is the boy.
+
+🎤 SPEAKER_2 [2078s - 2088s]
+Oh, there we are. So, dad, fellow, just pray for dad. I pray, Lord, that this the surgery is successful and that that it's easy and
+
+👤 あなた [2169s - 2174s]
+Dad is going for his surgery on his ear today. Day surgery.
+
+👤 あなた [2183s - 2188s]
+I've just literally dropped him off now. Sorry. I thought I told you I was doing this.
+
+👤 あなた [2219s - 2221s]
+I just dropped dad. At
+
+👤 あなた [2228s - 2229s]
+For day surgery on his ear.
+
+👤 あなた [2232s - 2234s]
+Probably general anesthetic.
+
+👤 あなた [2238s - 2240s]
+Should be home by tea time.
+
+👤 あなた [2256s - 2267s]
+I think Pops wanted to keep it on the down low. And not cause a fuss. I only know that it's today because I was asked to give him a lifting.
+
+👤 あなた [2321s - 2321s]
+Okay.
+
+🎤 SPEAKER_1 [2322s - 2347s]
+We're in his oblinators. He gets the whole eventually lead in the way. Well, I thought I helped him this day. Dachshund asked. Because pups stepping. The Lord's going to get me sooner or later. At least this way, I'll be able to in his face as go. Overthrowing the final empire he smiled. It's got style.
+
+🎤 SPEAKER_1 [2349s - 2360s]
+Let's go, kid. We've gotta get the shop ready for visitors. Then watch them go, club slimping out the door at the pulling it closed behind him. Then she glanced.
+
+🎤 SPEAKER_1 [2362s - 2382s]
+You knew he'd come back. He shrugged, standing and stretching. I hoped people are attracted to vision. The job I'm proposing, well, the not if you're a bored old man who's generally annoyed at life.
+
+🎤 SPEAKER_1 [2384s - 2403s]
+Now then I assume that your crew owns this entire building. It nodded. The shop upstairs is a front. Good, Calcior said, checking his pocket watch that handing it to Dachshund. Tell your friends that they can have their lair back. The mists are probably already coming out.
+
+🎤 SPEAKER_1 [2404s - 2422s]
+And thus, Thucson asked. Kelsior smiled. We're going to the roof. I can told you, I have to catch some ATL. My day, Ruth Adele was a blackened city, scorched by soot and red sunlight.
+
+🎤 SPEAKER_1 [2423s - 2438s]
+It was hard, distinct, and oppressive. At night, however, the mists came to blur and obscure. High noble keeps became ghostly looming silhouettes Streets seemed to grow more narrow in the fog.
+
+🎤 SPEAKER_1 [2439s - 2454s]
+Every peril fair becoming a lonely dangerous alleyway. Even noblemen and thieves were apprehensive. By day, Ruthadel was a blackened city scorched by certain red sunlight.
+
+🎤 SPEAKER_1 [2455s - 2473s]
+Was hard, distinct, and oppressive. At night, however, the mists came to blur and obscure. High noble keeps became ghost looming silhouettes. Streets seemed to grow more narrow in the fog. Every thorough fare becoming a lonely dangerous alleyway.
+
+🎤 SPEAKER_1 [2474s - 2482s]
+Even noblemen and thieves were apprehensive about going out at night. It took a strong heart to brave the foreboding misty silence.
+
+🎤 SPEAKER_1 [2483s - 2490s]
+The dark city at night was a place for the desperate and the foolhardy It was a land of swirling mystery and strange creatures.
+
+🎤 SPEAKER_1 [2492s - 2531s]
+Strange creatures like me, Calcio thought. He stood upon a ledge that ran around the lid by the flat roofed blare. Shadowed buildings loomed in the night around him, and the mists made everything seem to shift and move on the darkness. Weak lights peeked from the occasional window with a tiny beats of illumination or huddled frightened things. A cool breeze slipped across the rooftop, shifting the haze, brushing against calcium mist wedded cheek like an exhaled breath. In days past, sought out a rooftop on the evening before a job, wishing to overlook the city.
+
+🎤 SPEAKER_1 [2532s - 2541s]
+He didn't realize he was observing his old custom this night until he glanced to the side, expecting Mayar to be there next to him as she always had been.
+
+🎤 SPEAKER_1 [2542s - 2558s]
+Instead, he found only the empty air. Lonely, silent, The mists had replaced her. Poorly. He sighed and turned. Ben and Dachshund stood behind him on the rooftop.
+
+🎤 SPEAKER_1 [2559s - 2567s]
+Both looked apprehensive to be out in the mists, but they dealt with their fear. One did not get far in the underworld without learning to stomach the mists.
+
+🎤 SPEAKER_1 [2569s - 2581s]
+Kelsier had learned to do far more than stomach them. He had gone among them so often during the last few years that he was beginning feel more comfortable at night within the mist's obscuring embrace than he did at day.
+
+🎤 SPEAKER_1 [2583s - 2595s]
+Kel, Dachshund said. Do you have to stand on a ledge like that? Our plans may be a bit crazy. But I'd rather not have them end with you splattered across the cobblestones down there.
+
+🎤 SPEAKER_1 [2596s - 2603s]
+Calcior smiled. He still doesn't think that these are misborn, he thought. It will take some getting used to for all of them.
+
+🎤 SPEAKER_1 [2605s - 2633s]
+Years before, he had become the most infamous crew leader in Lithadal. And he had done it without even being an alamancer. May had been a tini, but he and dachshund they had just been regular men. One and a half with no powers, the other a runaway plantation ska. Together, they had brought great houses to their knees, feeling rash from the most powerful men in the final empire. Now Kelce here was more.
+
+🎤 SPEAKER_1 [2633s - 2638s]
+Sake. So much more. Once he had dreamed of Alamansi,
+
+🎤 SPEAKER_1 [2645s - 2657s]
+Unlike Mary's, she had been dead he'd smashed, coming to his powers. She would never see what he would do with them. Before, the high nobility had feared him.
+
+🎤 SPEAKER_1 [2657s - 2667s]
+It had taken a trap set by the Lord himself to capture Caelcia. Now a final empire itself would shake before he was finished with it.
+
+🎤 SPEAKER_1 [2669s - 2679s]
+He scanned the city once more, breathing in the mists, and hopped down off the ledge and strode up a ducks in a bin. They carried no lights.
+
+🎤 SPEAKER_1 [2679s - 2700s]
+Alien starlight accused by the mists was enough to see by in most cases. Calcium Took Off His Jacket And Passed, Heading Him To Dachshund, and he untucked his shirt by the long garment hang loose. The fabric was dark enough that it give the way in the night. Alright. Kelsey said.
+
+🎤 SPEAKER_1 [2700s - 2715s]
+Who should I try? The doxen frowned. You're sure you want to do this, Calcior smiled. Docs inside. Houses are paying antennae to be hit recently, but not for their ATM.
+
+🎤 SPEAKER_1 [2716s - 2727s]
+House is the strongest right now? Kelsior asked, squatting down and undoing the ties on his pack, which rested by ducks and feet. Who would no one consider hitting?
+
+🎤 SPEAKER_1 [2728s - 2738s]
+Dachshund paused. Venture, he finally said. They've been on top for the last few years. They keep a standing force of several 100 men.
+
+🎤 SPEAKER_1 [2739s - 2771s]
+The local house nobility includes a good two dozen listings. Calcior nodded. Well, that's where I'll go then. They are certain to have some ATL. He pulled open a path then whipped out a dark gray cloak, large and enveloping the wasn't constructed from a single piece of cloth. Rather, it was made up of hundreds of long ribbon like strips. They were sewn together at the shoulders across the chest, but mostly they hung separate from what an like overlapping streamers.
+
+🎤 SPEAKER_1 [2773s - 2786s]
+Threw on the garment, its strips of cloth twisting curling, almost like the mists themselves. Hailed softly. I had never been so close to someone wearing one of those.
+
+🎤 SPEAKER_1 [2787s - 2798s]
+What is it? Lynn asked. Her quiet boys almost haunting in the night mists. A missed cluck, Dachshund said. They all wear the things.
+
+🎤 SPEAKER_1 [2798s - 2812s]
+It's kind of like a sign of membership in their club. It's colored and constructed to hide you in the mist. Kelsey said. And it warns city guards and other mist born not to bother you.
+
+🎤 SPEAKER_1 [2813s - 2825s]
+He spun, letting the cloak flare dramatically. I think it suits me. Dachshund rolled his eyes. Alright, Kelsier said, bending down and pulling a cloth belt from his bag.
+
+🎤 SPEAKER_1 [2826s - 2837s]
+House venture. Is there anything I need to know? Lord Venture supposedly has a safe in his study, Daxson said. That's where he'd probably keep his ATM-stache.
+
+🎤 SPEAKER_1 [2838s - 2849s]
+You'll find the study on the 3rd Floor, three rooms in from the upper southern balcony. Be careful. House Venture keeps about a dozen haze killers in addition to its regular troops and mistings.
+
+🎤 SPEAKER_1 [2850s - 2860s]
+Calcio nodded, tying on the belt. It had no buckle, but it did contain two small sheaths. He pulled a pair of glass daggers from the bag.
+
+🎤 SPEAKER_1 [2861s - 2869s]
+Checked them for nicks, and slid them into the sheaths. He kicked off his shoes and stripped off his stockings. Leaving himself barefoot on the chillstones.
+
+🎤 SPEAKER_1 [2870s - 2877s]
+With the shoes also and the last bit of metal on his purse, save for his coin pouch and the three vials of metals in his belt.
+
+🎤 SPEAKER_1 [2878s - 2887s]
+He selected the largest one, downed its contents, then handed the empty vial to Dachshund. Let it? Kelsira asked. Dachshund nodded.
+
+🎤 SPEAKER_1 [2889s - 2905s]
+Good luck. Poseidon, the girl then, was watching Kelsey's preparation. With intense curiosity. She was a quiet small thing but she hid an intensity that he found impressive She was paranoid, true, but not timid.
+
+🎤 SPEAKER_1 [2907s - 2918s]
+You'll get your chance, kid, he thought. Just not to know. Well, he said, pulling a coin from his pouch and tossing it off the side of the building. Yes. I'll be going.
+
+🎤 SPEAKER_1 [2919s - 2921s]
+I'll make you back at Club's shop in a bit.
+
+👤 あなた [2921s - 2922s]
+Talks and it.
+
+🎤 SPEAKER_1 [2923s - 2948s]
+Kelsey had turned and walked back up onto the rope's sledge. Then he jumped off the building. Mist pearled in the air around him. He burned steel second the basic aluminic metals, translucent blue lines is running to existing surrounding visible only to his eyes. Each one led from the center of his chest out to a nearby source of metal.
+
+🎤 SPEAKER_1 [2949s - 2964s]
+A lines were all relatively faint. A sign that they pointed to metal sources that were small, door hinges, nails, and other bits. But type of source metal didn't matter. Burning iron or steel would point blue lines at all kinds of rhenolan.
+
+🎤 SPEAKER_1 [2964s - 2983s]
+Assuming they were close enough and large enough to be noticeable. Kelsey had shows the line that pointed directly beneath him toward his coin. Burning steel, he pushed against the coin. His descent immediately stopped, and he was thrown back up into the air in the opposite direction along the blue line.
+
+🎤 SPEAKER_1 [2984s - 3000s]
+He reached out to the side, selected a passing window clasp, and pushed again. It, angling himself to the side. A careful nudge him publicly over the lip of the building directly across the street through Vince's lair. Gelsier landed with a wide step.
+
+🎤 SPEAKER_1 [3000s - 3008s]
+Falling into a crouch and running across the building's peaked roof. He paused in the darkness at the other side, peering through the swirling air.
+
+🎤 SPEAKER_1 [3009s - 3013s]
+He burned tin and felt it flirt alive in his chest and had
+
+🎤 SPEAKER_1 [3018s - 3028s]
+It wasn't that the night around him grew any lighter. His ability to perceive simply increased, and the distance to the north in adjusts to the they make out a large structure.
+
+🎤 SPEAKER_1 [3029s - 3040s]
+Keep adventure. Calcium left is too low. He burned slowly, and he probably need worry about running out as he stood in the mists.
+
+🎤 SPEAKER_1 [3040s - 3053s]
+Curled slightly around his body. They twisted spun, running in a slight barely noticeable current to the side. The knew him. They claimed him. They could sense palimancy.
+
+🎤 SPEAKER_1 [3055s - 3069s]
+He jumped, pushing against a metal chimney behind him, sending himself in a wide horizontal leap. Tossed a coin even as he jumped. A tiny bit of metal flickering through the darkness and fog. He pushed against the coin before it hit the ground.
+
+🎤 SPEAKER_1 [3070s - 3077s]
+The force of his weight grabbing it downward in a sharp As soon as it hit the cobblestones, Kelsior's pushing forced him upward.
+
+🎤 SPEAKER_1 [3077s - 3089s]
+Turning the second half of his leap into a graceful park. Landed on another peaked wooden rooftop. Steel push and iron pulling were the first things that Gimmo had taught him.
+
+🎤 SPEAKER_1 [3090s - 3106s]
+When you push on something, it's like you're throwing your weight against it. The old blood ticket said. And you can't change how much you weigh You're an elements are not some northern mystic. Don't pull on something that weighs less than you unless you want it to come flying at you.
+
+🎤 SPEAKER_1 [3107s - 3117s]
+And don't push on something heavier than you unless you want to get in the other direction. Kelsey scratched his scars, then pulled his missed cloak tight.
+
+🎤 SPEAKER_1 [3117s - 3126s]
+As he crouched on the roof. The wooden grain biting his unshot toes. He often wished that burning tin didn't enhance all of the senses.
+
+🎤 SPEAKER_1 [3127s - 3139s]
+Or at least not all of them at once. He needed the improved eyesight to see in the darkness, and he made good use of the improved hearing as well. However, burning tin made at night seem even more chilly.
+
+🎤 SPEAKER_1 [3139s - 3153s]
+To his overly sensitive skin, and his feet registered every pebble wooden ripple that touched. Keep Venture rose before him. Compared with the murky city, the keep seemed to blaze with light.
+
+🎤 SPEAKER_1 [3154s - 3166s]
+I noble skipped different schedules from regular people. The ability to afford, even squander, lamp or and candles, meant that the wealthy didn't have to bow before the whims of season or sun.
+
+🎤 SPEAKER_1 [3167s - 3192s]
+The cape was majestic. That one was visible simply from the architecture. While it maintained a defensive wall around the grounds, the cube itself was more an artistic construction than a fortification. Sturdy buttressings are ardened out from the sides. The allowing for intricate windows and delicate spires. Brilliant stained glass windows stretched high along the sides of a rectangular building.
+
+🎤 SPEAKER_1 [3193s - 3204s]
+They show with light from within, given the surrounding mists of irrigated glow. Kelsey of burnt iron flaring its strong and searching the night of the large sources of metal.
+
+🎤 SPEAKER_1 [3205s - 3219s]
+He was too far away from the keep to use small items like coins or hinges. You'd need a larger anchor to cover this distance. Most of the blue lines were faint. Calcium marked a couple of them moving in a slow pattern up ahead.
+
+🎤 SPEAKER_1 [3220s - 3232s]
+Probably a pair of guards standing on the rooftop. Calcium would be sensing their breastplates and weapons. Despite palomantic considerations, most noblemen still armed their soldiers with metal.
+
+🎤 SPEAKER_1 [3233s - 3247s]
+Mistings who could push or pull metals were uncommon. And full mistborn were even more so. Many lords thought it impractical to leave one's soldiers and guards relatively defenseless in order to counter such a small segment of the population.
+
+🎤 SPEAKER_1 [3249s - 3271s]
+Now most high, the woman relied on other means to deal with alamanswers. Kelsey Dachshund had said that blood venturer kept a squad of haze killers. If that was true, Kelcio would probably meet them before the night was through. He ignored the soldiers for the instead focusing on a summit line of blue pointing toward the keep's mofty top.
+
+🎤 SPEAKER_1 [3272s - 3283s]
+It likely had bronze or copper sheeting on the roof. Calcior flared his iron, took a deep breath, and pulled a the line. With a sudden jerk, he was yanked into the air.
+
+🎤 SPEAKER_1 [3284s - 3305s]
+Continued to burn iron, pulling himself toward the keep at a tremendous speed. Some rumors claimed that Mistborn could fly, but that was a wistful exaggeration. Bulling and pushing a direction. An palomancer had to pull hard in order to get the proper momentum.
+
+🎤 SPEAKER_1 [3306s - 3321s]
+And this sent him hurdling toward his anchor at daunting speeds. Kelsey are shot toward the keep, mists, around him. He easily cleared the protective walls surrounding the keep's grounds, but his body dropped slightly toward the ground as he moved.
+
+🎤 SPEAKER_1 [3322s - 3325s]
+It was his pesky weight again. It tugged him down.
+
+🎤 SPEAKER_1 [3336s - 3341s]
+Angled slightly toward the ground as it flew. The drag of his weight
+
+
+---
+
