@@ -805,3 +805,47 @@ Five Uh-huh.
 
 ---
 
+
+
+## 📝 Friends Joke About Aging Filter Results - 41a5e1ff-c222-48ba-a888-62f073ef59db
+
+**記録時間**: 2026-02-11 17:54:28
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 4s]
+Shit. Why? That's, like, it's like a prank filter.
+
+🎤 SPEAKER_2 [19s - 29s]
+When I'm 80 years old. Shit. I'm a still be black. Damn. Yeah. That's not bad for an 80 year old. Oh, she caught. Damn. It gets
+
+🎤 SPEAKER_2 [35s - 40s]
+Babe, this is what I'm a look like when I'm 80 years old. Shit. I'm a still be flat.
+
+🎤 SPEAKER_1 [40s - 40s]
+Damn.
+
+🎤 SPEAKER_2 [40s - 43s]
+Yeah. That's not bad for an 80 year old. Oh, shit.
+
+🎤 SPEAKER_1 [43s - 43s]
+God.
+
+🎤 SPEAKER_2 [44s - 46s]
+Shit. I'm a still be glad. Damn.
+
+🎤 SPEAKER_3 [46s - 48s]
+Yeah. That's bad for an eight year old.
+
+🎤 SPEAKER_2 [48s - 50s]
+Oh, she caught. She caught.
+
+🎤 SPEAKER_3 [50s - 51s]
+I'm bad for
+
+🎤 SPEAKER_3 [55s - 56s]
+Eight year old.
+
+
+---
+
