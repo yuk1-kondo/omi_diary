@@ -136,3 +136,74 @@ That's 500 calories in the cheese, Chebs.
 
 ---
 
+
+
+## 📝 Colleagues Discuss Work Dynamics And Culture - 80c3df15-46ec-4ae8-88c7-ad6ec5239a4b
+
+**記録時間**: 2026-02-12 16:05:25
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 2s]
+This is for the other chart to fill the time at work now.
+
+🎤 SPEAKER_1 [6s - 21s]
+And not Kate. It's like just just as a social friend And is that have I? Colleague. It is weird working all men, I'll be honest with you. It's a very strange thing. I would never normally chat with men.
+
+🎤 SPEAKER_1 [22s - 33s]
+No. But you have to because they're your colleagues. You can't just not talk to anyone. But no. But about work stuff, as well. Like, I'll message it You know, it's like we message each other. Was like, oh, can I just call you quickly about this tracker?
+
+🎤 SPEAKER_1 [34s - 43s]
+Or can we we need to sort out a process for this new ECT stuff? Can we but, Kate, I don't have as much to do with now as Phil's stuff overlaps with everything.
+
+🎤 SPEAKER_1 [43s - 51s]
+So Kate is when I need help with how to do something. Usually. Yeah. And Phil is that we're actually working together. A bit more
+
+🎤 SPEAKER_1 [55s - 63s]
+So Kate feels obviously the more social one out of the two of them. He's obviously the less neuro diverse one, although he's alright.
+
+🎤 SPEAKER_1 [63s - 71s]
+Quirk those two honestly. So quirky. Their little interests and funny jokes Okay.
+
+🎤 SPEAKER_2 [72s - 74s]
+Feel okay.
+
+🎤 SPEAKER_1 [76s - 79s]
+Feel the fill in particular.
+
+👤 あなた [86s - 87s]
+It's funny because My charges my
+
+👤 あなた [91s - 94s]
+My impression is that as soon as she played, it in like me.
+
+🎤 SPEAKER_1 [94s - 107s]
+She's very good at what she does. Does. So she is she is lively and bubbly. She's love she's lovely. She is lively and bubbly and happy and jolly.
+
+👤 あなた [108s - 109s]
+And she's she's a bit more socially aware when film is kind of She's also a bit blunt and a bit, like, because he feels back so Yeah.
+
+🎤 SPEAKER_1 [111s - 112s]
+It's culture, though. Blunt different ways as well.
+
+🎤 SPEAKER_1 [117s - 124s]
+Because we noticed that in the emails from students that American are quite demanding. They want a little bit a little bit more Right.
+
+🎤 SPEAKER_2 [129s - 130s]
+Yeah.
+
+🎤 SPEAKER_1 [130s - 133s]
+Not in a not in a horrible way, but just different culture way. No.
+
+🎤 SPEAKER_1 [140s - 141s]
+The UK, all the way.
+
+👤 あなた [142s - 143s]
+Can be annoying.
+
+🎤 SPEAKER_2 [205s - 207s]
+Affirming the rules, stalls, the beginning of time.
+
+
+---
+
