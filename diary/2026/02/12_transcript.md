@@ -371,3 +371,65 @@ So new person at the bus stop, is it? No. There is, Jason. Yeah. Interesting.
 
 ---
 
+
+
+## 📝 Morning Chat At Home With Child - 1cf73f10-a2ff-4fd8-aa65-c53e36fc752c
+
+**記録時間**: 2026-02-12 16:25:09
+
+### STT生テキスト
+
+👤 あなた [0s - 14s]
+Somebody put their black bins out on Monday, confused. Do you notice them? What? You notice black bin bags they put out? I know. And then gonna sit there for three weeks now, are they? Yeah. Was it last Monday, wasn't it? That the
+
+👤 あなた [19s - 23s]
+Yeah. There you go. They're gonna sit there and rot for a few weeks, it seems.
+
+👤 あなた [27s - 28s]
+Rubbish?
+
+👤 あなた [32s - 33s]
+Independent MP for
+
+🎤 SPEAKER_0 [59s - 60s]
+Wel pleed.
+
+👤 あなた [85s - 86s]
+Alexa, stop.
+
+👤 あなた [92s - 94s]
+Much noise going on, do we, mister Jute?
+
+👤 あなた [142s - 152s]
+How'd you sleep, dude? You have a good sleep? It take you long to fall asleep, or did you get These are memory socks. Are these memory socks or your socks?
+
+👤 あなた [154s - 161s]
+Mummy. So, a study that is. That he did that. Are these your sockets?
+
+👤 あなた [190s - 194s]
+Come. Good boy.
+
+👤 あなた [205s - 214s]
+AEG bands actually quicker. Look at them as well. Looking at the buttons speeds things up by 20%. Researchers found
+
+👤 あなた [241s - 246s]
+Doing a good job this morning, Jeez. No wearing these pants. Well, what's wrong with them? Yes.
+
+🎤 SPEAKER_1 [246s - 247s]
+Yes.
+
+👤 あなた [250s - 251s]
+So Are you too loose or too tight?
+
+🎤 SPEAKER_1 [251s - 252s]
+Too up to here.
+
+👤 あなた [253s - 257s]
+Too Right. They're too loose, are they? You never wear those again, let's spin them.
+
+🎤 SPEAKER_1 [270s - 271s]
+Que poi.
+
+
+---
+
