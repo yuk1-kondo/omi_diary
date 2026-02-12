@@ -207,3 +207,167 @@ Affirming the rules, stalls, the beginning of time.
 
 ---
 
+
+
+## 📝 Family Chat About Work, Boundaries, And Social Life - 4c0718f1-e91b-4201-8d6a-90f36e2233e9
+
+**記録時間**: 2026-02-12 16:14:10
+
+### STT生テキスト
+
+👤 あなた [0s - 4s]
+Unfortunately, these jeans are very retro. They came up with your fresh wash that you
+
+🎤 SPEAKER_2 [4s - 4s]
+Right.
+
+👤 あなた [5s - 8s]
+It's like a yellow curry sauce thing on it.
+
+🎤 SPEAKER_1 [8s - 9s]
+Oh, no. Any heavy.
+
+🎤 SPEAKER_2 [10s - 10s]
+Yeah.
+
+👤 あなた [18s - 21s]
+Can't see a very clearly in this slide, in the in the daylight, it's quite bright.
+
+🎤 SPEAKER_2 [21s - 22s]
+Fortunately.
+
+🎤 SPEAKER_1 [25s - 27s]
+Well, you can wear them just these
+
+👤 あなた [27s - 28s]
+MNS ones, or not?
+
+🎤 SPEAKER_2 [29s - 30s]
+Hello.
+
+🎤 SPEAKER_1 [34s - 86s]
+It'll fade over time. I can try and scrub it, and it'll just I do wish I had more tea than that. Like sometimes.
+
+🎤 SPEAKER_3 [87s - 88s]
+Yeah.
+
+👤 あなた [88s - 90s]
+Well, you've made friends across teams.
+
+🎤 SPEAKER_1 [90s - 91s]
+Friends across teams.
+
+👤 あなた [91s - 95s]
+There's some people who And if your team was there, maybe that would have happened. Maybe you would have felt obliged to hang out with Kate and Phil.
+
+🎤 SPEAKER_1 [98s - 102s]
+Teams as well. Like, Melanie's doing teaching obviously.
+
+👤 あなた [102s - 104s]
+But she's not.
+
+🎤 SPEAKER_2 [104s - 104s]
+Yeah? She's not off.
+
+👤 あなた [105s - 107s]
+Face holitary job she has, but she No.
+
+🎤 SPEAKER_1 [109s - 116s]
+It's Joan have a lot to do with a mix of people. She's kind of got heaven and they do quite a lot together.
+
+🎤 SPEAKER_1 [125s - 130s]
+Like, she's kind of got a So it's it's not like because I'm not just, like, MTG, I actually overlap with a lot of other people. Mhmm.
+
+🎤 SPEAKER_1 [136s - 143s]
+Sometimes I feel a bit like almost hard. I've got, like, I've got teammate tips that I'll go
+
+🎤 SPEAKER_2 [147s - 149s]
+Yeah.
+
+🎤 SPEAKER_1 [149s - 157s]
+I I suppose the thing. I I have my Katie Way thing. This is something I would be nice to have like, a cake and feel people with insight.
+
+👤 あなた [165s - 168s]
+Yeah. You can set the tone of what programs is like in person and as well.
+
+🎤 SPEAKER_1 [191s - 198s]
+A while back at some something, and I was like, oh Doesn't mean No. It doesn't mean he doesn't want to be social, but maybe for him.
+
+🎤 SPEAKER_1 [199s - 214s]
+The the the kind of the initial small talk that you can do today well. It is weird when you're working with men and women together, you're just having to sit in there office and do stuff with people who don't really know that well.
+
+👤 あなた [214s - 216s]
+And like Yeah.
+
+🎤 SPEAKER_1 [216s - 217s]
+Feel weird, but, like, it's you know?
+
+👤 あなた [217s - 219s]
+You've not worked in an environment like that before? No.
+
+🎤 SPEAKER_1 [219s - 228s]
+Like, having Teams calls chatting with a guy. But you have to do that because it's your work. I didn't do it with anyone, I wouldn't have hardly anyone to talk with. And your work crosses over.
+
+🎤 SPEAKER_1 [229s - 235s]
+It's just like being really, like, not careful on it. Thinking like that, but also gotta be careful.
+
+👤 あなた [236s - 240s]
+Appropriate of the appropriate of appropriate boundary boundaries or what have you.
+
+🎤 SPEAKER_2 [240s - 243s]
+Just noticing a tip over, I suppose.
+
+🎤 SPEAKER_3 [243s - 244s]
+But I suppose if some people end up, like, there's patterns and You know?
+
+🎤 SPEAKER_2 [248s - 249s]
+Yeah.
+
+👤 あなた [249s - 255s]
+Exactly. So because you're a Christian institution doesn't mean everyone there's gonna have the same to wouldn't be to say, like, 19 passed.
+
+👤 あなた [267s - 268s]
+Yes. You ready, Yusen?
+
+🎤 SPEAKER_1 [269s - 270s]
+Yeah. We love to see all the they're Yeah.
+
+👤 あなた [276s - 277s]
+The back half of your life now.
+
+🎤 SPEAKER_2 [277s - 278s]
+I don't
+
+🎤 SPEAKER_2 [289s - 289s]
+Yeah.
+
+👤 あなた [291s - 301s]
+Exactly. Alright. I'll see you in a bit. Come on, let's go. And say, come on, daddy. Let's go.
+
+👤 あなた [307s - 313s]
+No. No. It's your best income till thirty one past yesterday.
+
+🎤 SPEAKER_1 [319s - 322s]
+And then before, like, Now what how's that my fault? No. I'm not saying it's your fault.
+
+🎤 SPEAKER_2 [322s - 323s]
+So how's
+
+👤 あなた [324s - 324s]
+Elliot.
+
+🎤 SPEAKER_2 [324s - 327s]
+Elliot. Elliot. Elliot.
+
+👤 あなた [416s - 418s]
+Are you looking forward to driving one day, Elliot, yourself?
+
+👤 あなた [435s - 438s]
+Gives you a of freedom just to go out when you want, where you want.
+
+👤 あなた [445s - 452s]
+So new person at the bus stop, is it? No. There is, Jason. Yeah. Interesting.
+
+
+---
+
