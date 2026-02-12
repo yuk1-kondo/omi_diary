@@ -1,0 +1,87 @@
+{
+  "id": "ec417e02-65f6-4ffb-b9ee-8fb991798661",
+  "created_at": "2026-02-12T00:47:00.261436+00:00",
+  "started_at": "2026-02-12T00:46:55.172171+00:00",
+  "finished_at": "2026-02-12T00:47:15.555090+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "短い質問の導入発話",
+    "overview": "発話は「教えてください」という一文のみで構成されており、具体的な文脈やテーマ、参加者名、目的は示されていない。内容からは、何らかの情報提供や説明を求める意図だけが読み取れるが、対象や詳細は不明である。",
+    "emoji": "❓",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "115bb73d-7ae2-4cb4-8db5-027706c2f869",
+      "text": "教えてください",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 0.0,
+      "end": 10.001375,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "fe6862ef-671a-459a-a5be-adf4c11db2d0",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ec417e02-65f6-4ffb-b9ee-8fb991798661",
+      "chunk_timestamps": [
+        1770857214.177,
+        1770857219.956,
+        1770857225.34,
+        1770857230.736,
+        1770857235.96,
+        1770857241.611,
+        1770857246.727,
+        1770857252.712,
+        1770857258.11,
+        1770857263.286,
+        1770857268.324,
+        1770857273.452,
+        1770857278.712,
+        1770857283.807,
+        1770857289.203,
+        1770857294.461,
+        1770857299.439,
+        1770857304.477
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-12T00:46:54.177000+00:00",
+      "duration": 95.3
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「教えてください」とだけ話されていて、まだ内容は未確認です\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- これから知りたいことや相談したいことを、できる範囲で具体的に1つ書いてみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
