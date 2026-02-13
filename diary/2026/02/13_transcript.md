@@ -566,3 +566,257 @@ So random babe is a five minute change. You can't freaking deal with any change.
 
 ---
 
+
+
+## 📝 Couple Aligns On Service Planning And Sermon Style - beb7b398-a0b0-477d-8473-1b7c39bd43a6
+
+**記録時間**: 2026-02-13 18:05:40
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 5s]
+I don't wanna always come in and be like, no. Know. It's just I panic.
+
+🎤 SPEAKER_2 [5s - 36s]
+Like, you So I'd just like to give a full argument before you come back. I know it's a flaw of my mine. I like to give every single point because what I want is to clarify everything because what I think will otherwise happen, and I know it's not conducive to conversation, it's not a necessarily helpful thing but my head behind it is what will happen is you'll then come back and say, and if I've I I've already got like a big long list. So I always think if I just do my speech first, you hit everything and then come back with something I've not thought about, and then I'll have a think on that.
+
+🎤 SPEAKER_2 [36s - 46s]
+But rather than go through a conversation the whole time I'm thinking, yeah, but there's still other points that I haven't raised yet. I just think, let me tell you everything Yeah. So that you've got a really clear picture.
+
+👤 あなた [46s - 49s]
+Yeah. No. That's fine. That's fair.
+
+🎤 SPEAKER_2 [50s - 51s]
+I mean And I'm not saying that's I got partly for because I think I I'm wrongly on reflection assumed that your no.
+
+👤 あなた [58s - 69s]
+Your unwillingness to just go with a simple idea Why is Rachel being difficult about this? Why one day I'd longed for you to go, oh, good idea. Yeah. Let's do it.
+
+👤 あなた [70s - 78s]
+That's what and so it's kinda like but that's just not, you know, I'm of other elements to it as well.
+
+🎤 SPEAKER_2 [78s - 84s]
+But still, just appreciate that for you. It does seem like a simple thing it'd be very frustrating for someone to come in and be like, yeah. It's not as simple as you think.
+
+🎤 SPEAKER_2 [86s - 87s]
+And that is annoying.
+
+👤 あなた [87s - 92s]
+I don't think just every single time, that is even more annoying. Yeah.
+
+🎤 SPEAKER_2 [92s - 113s]
+I think everything. I appreciate it. I do appreciate it is. What I would like that there's sometimes in the early stage of of thinking is a just, you know, I'm just thinking about this. But you when you come in and say, I've changed the order, I'm telling the ministry leaders, everyone's gonna do it. It's a bit like it's already set up to fail in terms of a dialogue.
+
+🎤 SPEAKER_2 [114s - 120s]
+And it's like it's because you're thinking and you're processing everything internally.
+
+🎤 SPEAKER_1 [124s - 124s]
+Yeah.
+
+👤 あなた [126s - 127s]
+That's fine. Yeah. Anyway, I'm cracking it.
+
+🎤 SPEAKER_2 [127s - 136s]
+And I and I I I I appreciate I am difficult sometimes, but sometimes I'm not difficult. I'm literally sharing a valid point from a different point of view.
+
+🎤 SPEAKER_2 [136s - 151s]
+And that might be difficult for you because it's not conducive to what you want. But I would say that you're being difficult I I could say that coming up with ideas that are just not considerate to the children's work that I've put so much effort into.
+
+🎤 SPEAKER_2 [152s - 153s]
+So I could say that.
+
+👤 あなた [154s - 160s]
+I could occur in the conversation and say, look, I think the way we're doing this order service is ruining the whole summon series.
+
+👤 あなた [161s - 170s]
+I'd like to move it to the end. That might be that might be a better way of doing it. Is it possible for us to move that segment to the end you guys come up earlier?
+
+👤 あなた [171s - 172s]
+That's what I that's what I could have I think just acknowledging brilliant.
+
+🎤 SPEAKER_2 [172s - 181s]
+It just makes it seem a little bit like you're picking something that works for you and forgetting that that many people make the Sunday service work.
+
+👤 あなた [181s - 186s]
+But for me, it's a simple in my head, initially, it was a simple Yeah.
+
+👤 あなた [187s - 189s]
+Because you're thinking literally moving a five minute segment from there to the But but then what I would say is there's a you need what you need to do is start to realize you're not as good as you think you are.
+
+🎤 SPEAKER_2 [198s - 220s]
+Therefore, you need to stop making decisions on your own and assuming that you're what no. It's just this is valid. I'm the same with kids church and acknowledging that at actually maybe other people when I come up with an idea I think yeah courses make sense maybe I'm missing something I can't see and that's the value of having other people involved in this. And it's the strength. And so it's just fine.
+
+👤 あなた [220s - 239s]
+I don't mind that. I don't mind people come back. Mean, it's just I guess, the way that we communicate is something about it that gets my go. I'm you can see very clearly that I'm always eventually responsive and go, okay. I'm reflection. That is right. Yeah. Maybe that was not a good idea. That's easy for me to I don't mind that.
+
+👤 あなた [239s - 243s]
+No. It's just the way that we communicate for some reason. Because my blinking go.
+
+🎤 SPEAKER_2 [243s - 269s]
+Because you automatically go oh, here she goes. She's being difficult. She's deliberately showing slowing things down. She can't cope with change. Whereas I'm just coming in as a leader kids church to go, hold on. And then also just thinking things beyond, like, alright, let's just think about this. You you you've seen an idea. It fits your problem. You're not interested in considering any other ideas because that's you. You go to a restaurant, you see a meal you want, great.
+
+🎤 SPEAKER_2 [269s - 276s]
+We'll do that. I'm a bit more like, right. Woah. We need to look at all these other days because actually, don't think yours is the best.
+
+🎤 SPEAKER_2 [277s - 297s]
+'ve actually missed out on the mixed that's only $2.99 for today only. Like, hold on. Let's just listen to some other people and get some contributions here. Or someone's saying, that actually the healthiest choice for you? And you might be like, I don't want it. I just I don't can't be bothered to think of other ideas. This is the choice I want on the menu. And, like, the the thing is you are working with other people.
+
+🎤 SPEAKER_2 [297s - 314s]
+And you have really done it. If you wanna manage kids church and need it as well, if you want to be, you know, aware of all the things that are going on, and then make an informed decision from there for fine. But I think your decision was based on want this at the end, that works fine.
+
+🎤 SPEAKER_2 [315s - 322s]
+But you've forgotten that the Sunday service is just made up of lots of other elements. And I was just bringing some of those things in so that you can think again about it.
+
+🎤 SPEAKER_2 [323s - 337s]
+Doesn't mean the answer's gonna be different, but I wanna give you all of the ideas so that you can then re go back through and then go right. Now let's just see. Because you would just like, it just needs to change. I'm move it. Now I want to give you all the information and now you go right.
+
+🎤 SPEAKER_2 [337s - 341s]
+Shall I move it? And then you weigh up all those things and then you can make a decision.
+
+👤 あなた [341s - 350s]
+Yeah. Yeah. No. That's fine. Yeah. That makes as I said, it makes sense. What you're saying makes sense. And hence my apology text.
+
+🎤 SPEAKER_1 [351s - 352s]
+I you know what I I fine.
+
+🎤 SPEAKER_2 [352s - 361s]
+I I I do worry about no one comes up to the front for ministry. Let's just not do it anymore. I just worry that Gotcha.
+
+🎤 SPEAKER_2 [361s - 377s]
+No I worry that we will miss out on that opportunity. And if it's no space for it, it will never happen. There will never be that opportunity where someone just sits down and bursts into tears because they've just it finally got to the end of the service. Nothing to do with the sermon.
+
+🎤 SPEAKER_2 [378s - 388s]
+And the person next to them can just check-in with them. Or there's just a pause time, a slowdown. Because you have to admit, the first forty five minutes are service is usually pretty high energy.
+
+🎤 SPEAKER_2 [388s - 396s]
+There's not really a lot of and I think you can go through the motions of high energy work worship, high energy church, and not even be a Christian.
+
+🎤 SPEAKER_2 [397s - 408s]
+It's hard to go through those low calm and not engage with God or not choose whether you're going to or not. Yeah. So it would be a shame to cut that out.
+
+🎤 SPEAKER_2 [409s - 422s]
+I do appreciate you're definitely someone who doesn't like to give away the end before the beginning. And I'm someone who is the opposite to that. I don't know what right and what's wrong.
+
+👤 あなた [423s - 432s]
+Obviously, Peter Mead's saying keep the thing, If you have a sermon where it goes, today I'm gonna be talking about this. And this is what I'm gonna this is what it is. No. It can be for some people.
+
+👤 あなた [433s - 437s]
+Can be like I don't yeah. Could be like, oh, well I've no longer invested that.
+
+🎤 SPEAKER_2 [437s - 462s]
+I appreciate it. It's like John giving you the speech before he even does it for a sermon. But what I would say though is most people really understand it. It is a question and answer, but the majority people in our church doesn't really make whole lot of sense to, especially as we go to some slightly more doctrinally heavy So a Adam because of Adam's sin, it was all blah blah blah blah blah Well, that needs teaching into. Yeah.
+
+👤 あなた [462s - 464s]
+I done it. I've taught into every single one of them.
+
+🎤 SPEAKER_2 [464s - 492s]
+No. No. No. I know. But what I'm saying is I I don't think just the question and answer will make people switch off. I think it's a bit like oh, I don't really get that or okay. That's pretty wordy. And then it's like right. Okay. What does it actually mean? Come on. Tell me. I think there's a whereas I I wonder whether the the the nature of these sermons being very doctrine heavy people will completely miss it if they don't even know where it's going.
+
+🎤 SPEAKER_2 [493s - 505s]
+Because it's just kind of confused Whereas if you've got the question and answer, you can start to hear things. When you switch off, because let's be fairies, at least 50% of people in the room will not be listening to your sermon properly. At least.
+
+🎤 SPEAKER_2 [506s - 536s]
+Because that's just the nature of things. So no offense on you. So no offense on anything. I can go to the best in the world if my head is all other things because because it is, and that's normal and that's okay. Or it might be on the worship and you're reflecting on something. You've got to think I really need to do with this and you're talking about something and you kind of pick up on bits, hearing things and seeing how it feeds into the question and answer that we've already said. You might only get the old bit. I was listening to that podcast from Dan and Jay on Cain's wife. I definitely switched off with some of it.
+
+🎤 SPEAKER_2 [537s - 545s]
+But because I knew what he said at the very beginning, right at the very beginning, said, I do not see any evidence for any other people other than Adam and Eve.
+
+🎤 SPEAKER_2 [545s - 575s]
+And they they created or they populated from children. And so then when I flipped in and out, I had that comp But I I I had that context for when I came in and out everything because I already knew the main point. So then everything else made sense. If you'd have kept that, then I'd have to listen with deep detail to every little bit Yeah. Which I just couldn't do. And I'd switch I just can't do because something comes up or someone's baby cries or a toddler or I spill my train of all.
+
+🎤 SPEAKER_2 [577s - 577s]
+Talk about this.
+
+👤 あなた [577s - 587s]
+I think it goes inductive and deductives. Serving style. So some of them, if people get it straight away, leave it at build towards the end at the very end.
+
+👤 あなた [588s - 594s]
+If it's something hard to get your head around, make it obvious throughout.
+
+🎤 SPEAKER_2 [594s - 625s]
+Don't don't And I just wonder whether that's what this is. I think if you're giving a I think so so when you have those things where there's a really profound like, so being in Christ, and like the profoundness of some of those things, you want it to hit later on in the sermon when you've built things up. You've either plunged people to the depth and then you've brought them back or you've you're revealing slowly slowly and then a big thing comes and it hits people and it's profound. It's like wow. That's not this kind of sermon.
+
+🎤 SPEAKER_2 [626s - 639s]
+This is explaining what we believe and why and why that's important. Deconstructing. And don't forget, you need to explain why So towards it, where we created unable to keep God's law.
+
+🎤 SPEAKER_2 [640s - 641s]
+Is that the the question, is it?
+
+👤 あなた [642s - 644s]
+No. No. No. I'm I'm going through all of them.
+
+🎤 SPEAKER_1 [644s - 645s]
+Okay.
+
+👤 あなた [645s - 649s]
+And then Oh, yeah. I'm doing in sections and then explaining why this what this all means and why it matters.
+
+🎤 SPEAKER_2 [649s - 660s]
+So but what I would say is on the why it matters, it's still quite doctrine heavy. What you also need to do is give people real life I know that.
+
+👤 あなた [660s - 665s]
+What happened in this. I get that, but I really I I babe, it's too late that Simon's written now.
+
+🎤 SPEAKER_2 [665s - 667s]
+No. No. I've told something I've told about this seven series.
+
+👤 あなた [668s - 674s]
+But secondly, it is a teaching series. Is the the main purpose Yeah. Okay. I do want application.
+
+🎤 SPEAKER_2 [675s - 680s]
+You know, I would never teach a child how to read, but never give them a book and just give them words on a piece of paper.
+
+🎤 SPEAKER_1 [680s - 680s]
+Yeah.
+
+👤 あなた [680s - 686s]
+I'm not doing that either. Vandem all I'm not doing that either. But the main problem we have in our church is people know our blinking at all.
+
+🎤 SPEAKER_1 [686s - 687s]
+No. No.
+
+👤 あなた [687s - 689s]
+No. Are loony.
+
+🎤 SPEAKER_2 [689s - 750s]
+Yes. But the reason we're doing this because people are believing points, comments, little subtleties that are wrong. You used to tell people what those are. If you don't believe that Adams was this is this, when you hear people saying this, that that sounds great. Or when you when we talk about sin and we when or were we were we made unable to keep God's law? Or or whatever it is, just a it's a twinge so people can then go have I actually been living in the belief of that truth and are the choices of the doctrine that I'm following or have I actually slipped into false doctrine? That's actually impacted the way that I've gone about my life because I've assumed that actually, yes, God made man or woman to be married, but because of the full it means we're all we're all made differently and that's how we live our life now.
+
+🎤 SPEAKER_2 [750s - 761s]
+Okay to be gay. Well, no. The whole point is that we're there's still that is god's perfect, that we're still in desire. That there's that teaches us on these things.
+
+👤 あなた [762s - 762s]
+Yeah.
+
+🎤 SPEAKER_2 [762s - 768s]
+And and what I just need is for this it's you just gotta you gotta do it.
+
+👤 あなた [768s - 783s]
+What we could is what we really help you cannot docs. Really for me? Is I'll give you part two in this format here. And you just sit through it, read it, because you're really good at this.
+
+👤 あなた [784s - 790s]
+Have it dictator ready and go and go through each of the question.
+
+🎤 SPEAKER_2 [793s - 796s]
+The example you just gave there is just give me a couple of those each What I miss is I don't necessarily know the answer to all because I don't know all of the I don't know You don't need to know the answers.
+
+👤 あなた [797s - 803s]
+Just give me your your good thoughts as you read. And that might be enough.
+
+🎤 SPEAKER_1 [803s - 805s]
+But I don't know if you're talking properly. You don't need to.
+
+👤 あなた [805s - 817s]
+No. I don't need you to know that, but I just need you to know how you're good at thinking about how this connects into real life problems, etcetera. So just give that a go.
+
+👤 あなた [819s - 826s]
+I'm doing this at a minute now. I wanna get this done ready before we go to bed and look things, and you I can't really I haven't got time for this conversation now. Of my chips.
+
+🎤 SPEAKER_1 [826s - 827s]
+That's right. Mhmm.
+
+👤 あなた [864s - 868s]
+Alright. Okay. Maybe I could just copy it over.
+
+
+---
+
