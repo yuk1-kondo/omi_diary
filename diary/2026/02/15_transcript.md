@@ -2779,3 +2779,41 @@ Ideally, as you simply traverse the city, you might witness unique events happen
 
 ---
 
+
+
+## 📝 Parents Argue Over Conflict And Protection - 23a908d4-a5f3-433e-b045-dc399d9efce9
+
+**記録時間**: 2026-02-15 03:38:08
+
+### STT生テキスト
+
+🎤 SPEAKER_4 [0s - 5s]
+From growing up inside constant conflict that neither of us seem able to control anymore.
+
+🎤 SPEAKER_1 [5s - 9s]
+Protect them? Disappear for weeks and then come back talking about protection like you were the one holding everything together.
+
+🎤 SPEAKER_4 [11s - 17s]
+I left because every conversation turned into a fight, not because I stopped loving my child, and you know that.
+
+🎤 SPEAKER_5 [17s - 24s]
+Love is not occasional visits and grand speeches. Love is showing up every single day, even when it's uncomfortable.
+
+🎤 SPEAKER_4 [24s - 30s]
+Do not question whether I am a father my child. Do not rewrite my role just because our marriage collapsed.
+
+🎤 SPEAKER_5 [30s - 40s]
+I am not rewriting any per You think you are the only one scared?
+
+🎤 SPEAKER_6 [42s - 51s]
+I wake up every day afraid this is breaking them We are considering, and in a few weeks time, I will detail that. But we are engaged a strategic dialogue, obviously, with Chancellor Maers, but we few European leaders.
+
+🎤 SPEAKER_6 [53s - 67s]
+In order to see how we can articulate our national doctrine, which is guaranteed and controlled by the constitution with special cooperation, common exercises and common security interests.
+
+🎤 SPEAKER_2 [68s - 69s]
+Some Somehow's
+
+
+---
+
