@@ -1326,3 +1326,182 @@ Alright.
 
 ---
 
+
+
+## 📝 Friends Watch and Comment on Football Match - 33a020df-b997-4406-afd0-db3290b97dcd
+
+**記録時間**: 2026-02-14 23:57:53
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+You say?
+
+👤 あなた [9s - 10s]
+You want Sip by You today? Yeah.
+
+👤 あなた [30s - 32s]
+I know, but he didn't get very far, did he? He didn't get to the corner. Really?
+
+👤 あなた [57s - 58s]
+See you, man. Wait up.
+
+👤 あなた [79s - 83s]
+Medium? No. You jump? It's two
+
+👤 あなた [89s - 89s]
+That's it.
+
+🎤 SPEAKER_1 [99s - 100s]
+Three vibes. That's all. Yeah.
+
+👤 あなた [135s - 139s]
+So it's actually natural. And they're going over there, then? Oh, yeah.
+
+🎤 SPEAKER_2 [167s - 169s]
+Alright. That's it. K. Alright.
+
+👤 あなた [170s - 173s]
+Have not we're trying to figure it out because Eddie thought he came from Luton. Yeah.
+
+🎤 SPEAKER_3 [174s - 175s]
+And we thought stood, but it's actually a few days.
+
+🎤 SPEAKER_2 [175s - 178s]
+Yeah.
+
+👤 あなた [178s - 184s]
+So I thought it wouldn't seem today because he would've been parent club situation, but clearly clearly not. It must be a three agent that you say.
+
+👤 あなた [186s - 188s]
+I thought I'd have my own. Say? That's it.
+
+🎤 SPEAKER_2 [198s - 198s]
+Lovely.
+
+👤 あなた [202s - 205s]
+Ramacha. Oh, thanks.
+
+🎤 SPEAKER_2 [205s - 205s]
+What happened? I'll do.
+
+🎤 SPEAKER_2 [234s - 247s]
+You want a missed it. Woah. Woah. Woah. Okey Faker.
+
+👤 あなた [255s - 258s]
+They're end of the car, shouldn't they? On the back no. The back foot.
+
+🎤 SPEAKER_3 [258s - 259s]
+Is that bad, man?
+
+🎤 SPEAKER_1 [259s - 262s]
+It's Yeah. No.
+
+🎤 SPEAKER_3 [262s - 265s]
+It was decent for sentiment. Well,
+
+🎤 SPEAKER_2 [304s - 304s]
+Done.
+
+🎤 SPEAKER_2 [311s - 311s]
+Yeah.
+
+👤 あなた [312s - 314s]
+It was. It's fine.
+
+🎤 SPEAKER_2 [350s - 351s]
+Oh, easy.
+
+🎤 SPEAKER_2 [362s - 364s]
+A Early.
+
+👤 あなた [388s - 391s]
+Yeah? Decent. That's good. If you are getting a bit cold, just say.
+
+🎤 SPEAKER_2 [394s - 400s]
+Oh. Overlap. Overlap. Yeah. Oh, well done,
+
+👤 あなた [400s - 400s]
+Robinson.
+
+🎤 SPEAKER_2 [400s - 401s]
+Oh.
+
+👤 あなた [409s - 411s]
+I love it, I've got players in the box.
+
+🎤 SPEAKER_2 [411s - 411s]
+Wonderful.
+
+🎤 SPEAKER_3 [413s - 413s]
+I'll do.
+
+🎤 SPEAKER_2 [415s - 417s]
+Yeah. The rest of club is like Yeah.
+
+👤 あなた [417s - 419s]
+In that? It's it's it's you gotta cross it out.
+
+🎤 SPEAKER_2 [428s - 431s]
+Go and suck both of them in, didn't he? Oh, no.
+
+🎤 SPEAKER_1 [437s - 438s]
+That's the one piece that's.
+
+🎤 SPEAKER_2 [438s - 439s]
+Yeah.
+
+🎤 SPEAKER_2 [476s - 477s]
+One dress house.
+
+👤 あなた [519s - 524s]
+Uh-oh. A lovely taco. All I drink. And I just comes as a.
+
+👤 あなた [537s - 540s]
+Rachel. Okay. That's not around. Yeah.
+
+🎤 SPEAKER_3 [540s - 542s]
+Are. It's like Chelsea's. Okay.
+
+👤 あなた [542s - 544s]
+Does look a little bit like the cake. Right, Rachel?
+
+🎤 SPEAKER_2 [545s - 547s]
+It's how gonna get that kids. I can't remember.
+
+🎤 SPEAKER_3 [547s - 548s]
+Yeah.
+
+👤 あなた [614s - 616s]
+Alright. Football and bacon?
+
+🎤 SPEAKER_2 [667s - 668s]
+Are you sure when he's up?
+
+🎤 SPEAKER_2 [675s - 675s]
+Rice.
+
+🎤 SPEAKER_2 [683s - 685s]
+One or needs to keep up?
+
+👤 あなた [698s - 700s]
+With our big... With our trots.
+
+👤 あなた [710s - 714s]
+Waiting for a turn on a three zero one.
+
+👤 あなた [725s - 726s]
+Oh, boy. See you're there over there.
+
+🎤 SPEAKER_2 [749s - 750s]
+No. Cedar brain, no label.
+
+👤 あなた [818s - 819s]
+Well done.
+
+👤 あなた [823s - 825s]
+Again, got a lot of pits me. He's exposing himself now, Lo. Come on.
+
+
+---
+
