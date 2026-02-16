@@ -1,0 +1,98 @@
+{
+  "id": "e2275feb-d24d-4702-baa8-1f75ab249a70",
+  "created_at": "2026-02-16T06:08:52.457432+00:00",
+  "started_at": "2026-02-16T06:01:17.274765+00:00",
+  "finished_at": "2026-02-16T06:09:28.312074+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "買い物に関する短い発話",
+    "overview": "短い会話で、話者が「購入する」とだけ発言しており、何をいつどこで購入するかといった具体的な内容や文脈は示されていない。予定や約束、タスクに結びつく情報は読み取れない。",
+    "emoji": "🛒",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "bf58f97e-9441-4659-ad19-e2fc919e5d90",
+      "text": "購入する",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.4904479662145604e-07,
+      "end": 9.94137534904479,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "4a3f8ede-b76e-42c1-b0ae-c07a016bd704",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "e2275feb-d24d-4702-baa8-1f75ab249a70",
+      "chunk_timestamps": [
+        1771222129.319,
+        1771222134.762,
+        1771222140.281,
+        1771222145.248,
+        1771222151.265,
+        1771222156.448,
+        1771222161.614,
+        1771222166.929,
+        1771222171.94,
+        1771222177.045,
+        1771222184.32,
+        1771222189.704,
+        1771222194.796,
+        1771222199.89,
+        1771222204.958,
+        1771222210.251,
+        1771222216.319,
+        1771222221.393,
+        1771222226.568,
+        1771222231.621,
+        1771222237.597,
+        1771222243.045,
+        1771222248.766,
+        1771222254.141,
+        1771222259.286,
+        1771222265.277,
+        1771222271.139,
+        1771222276.519,
+        1771222282.761
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-16T06:08:49.319000+00:00",
+      "duration": 158.442
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「購入する」という意思を口にした\n\n【決めたこと】\n- 具体的に「何を」「いつ」「どこで」購入するかは未確認\n\n【次の一歩】\n- 購入したいものの名前・予算・買う場所（店やサイト名）をメモに書き出して整理してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
