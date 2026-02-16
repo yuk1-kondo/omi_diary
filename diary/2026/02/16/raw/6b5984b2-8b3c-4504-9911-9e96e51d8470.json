@@ -1,0 +1,87 @@
+{
+  "id": "6b5984b2-8b3c-4504-9911-9e96e51d8470",
+  "created_at": "2026-02-16T03:46:20.117156+00:00",
+  "started_at": "2026-02-16T03:36:37.466116+00:00",
+  "finished_at": "2026-02-16T03:47:31.741139+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "近藤と野口の作業完了タイミング共有",
+    "overview": "電話で近藤が野口に対し、作業が「1時10分ごろ」に完了する見込みであることを伝え、完了タイミングを共有している。詳細な内容や次の具体的な対応は言及されていない。",
+    "emoji": "⏰",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "4a2e7c10-d317-4a7a-b594-23e802dc5a6f",
+      "text": "もしもし今日の近藤ですけれども野口 1時10分ごろにその作業が完了するらしいんで紹介にそうなるぞ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.931854243357293e-07,
+      "end": 20.00275059318542,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "046ffcb8-d7c0-4ad5-bf64-bb45673d8650",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "6b5984b2-8b3c-4504-9911-9e96e51d8470",
+      "chunk_timestamps": [
+        1771213579.244,
+        1771213585.478,
+        1771213590.805,
+        1771213596.938,
+        1771213602.141,
+        1771213607.161,
+        1771213613.318,
+        1771213618.551,
+        1771213623.61,
+        1771213628.887,
+        1771213633.982,
+        1771213639.339,
+        1771213644.721,
+        1771213649.948,
+        1771213655.406,
+        1771213660.656,
+        1771213666.514,
+        1771213671.641
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-16T03:46:19.244000+00:00",
+      "duration": 97.397
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 近藤さんからの電話の内容と思われる会話があった（詳細は未確認）\n- 「野口」「1時10分ごろ」「作業完了」という言葉が出てきた\n- 作業完了後に何か対応が必要かどうかは未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 1時10分ごろに完了するという作業について、「どんな作業か」「自分が何をすればよいか」を近藤さんまたは関係する人に確認してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
