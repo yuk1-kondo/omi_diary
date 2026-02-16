@@ -1,0 +1,141 @@
+{
+  "id": "ee1e2bc0-0e8c-4942-afc5-a6fed9a1f9e5",
+  "created_at": "2026-02-16T00:41:40.668407+00:00",
+  "started_at": "2026-02-16T00:39:44.937405+00:00",
+  "finished_at": "2026-02-16T00:44:18.940410+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "パソコンのブラックアウト不具合への一時対応",
+    "overview": "話者はパソコンがすぐブラックアウトしてしまう不具合に困っており、その状況を説明したうえで「ちょっとだけ見に行ってきます」と述べており、パソコンの状態を確認しに行く短時間の対応を行う流れになっている。",
+    "emoji": "💻",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "a96141ce-e97a-455a-a208-9770bde776ff",
+      "text": "パソコン すぐブラックアウトしてて困ってるんですけどねちょっとだけ見に行ってきます",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 20.08274976158142,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    },
+    {
+      "id": "0b5342a6-ae46-43e4-9ecc-49953a54f664",
+      "text": "ちょっと はい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 213.44331789016724,
+      "end": 233.48606789016725,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJx5mbSNDmAGARcJH9PTjmcv8",
+    "latitude": 34.69892062154124,
+    "longitude": 135.5174989090474,
+    "address": "1-38 Matsugaechō, Kita Ward, Osaka, 530-0037, Japan",
+    "location_type": "establishment"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "18d17106-01fa-4d37-87e9-d79ec58b98e9",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ee1e2bc0-0e8c-4942-afc5-a6fed9a1f9e5",
+      "chunk_timestamps": [
+        1771202498.333,
+        1771202503.456,
+        1771202508.394,
+        1771202513.538,
+        1771202518.638,
+        1771202524.772,
+        1771202530.102,
+        1771202535.095,
+        1771202540.26,
+        1771202546.189,
+        1771202551.353
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-16T00:41:38.333000+00:00",
+      "duration": 58.02
+    },
+    {
+      "id": "85a3c816-01ca-471d-ba8f-946e0e25dad4",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ee1e2bc0-0e8c-4942-afc5-a6fed9a1f9e5",
+      "chunk_timestamps": [
+        1771202598.336,
+        1771202604.297,
+        1771202609.584,
+        1771202617.244,
+        1771202622.295,
+        1771202627.324,
+        1771202632.332,
+        1771202637.329,
+        1771202642.422,
+        1771202648.321,
+        1771202653.419,
+        1771202659.443,
+        1771202664.53,
+        1771202670.474,
+        1771202675.48,
+        1771202681.519,
+        1771202686.547,
+        1771202692.91,
+        1771202698.898,
+        1771202708.636,
+        1771202714.171,
+        1771202718.811,
+        1771202723.861,
+        1771202728.94,
+        1771202735.05,
+        1771202740.302,
+        1771202745.317,
+        1771202750.527,
+        1771202755.497,
+        1771202760.534,
+        1771202765.52,
+        1771202770.689
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-16T00:43:18.336000+00:00",
+      "duration": 177.353
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## パソコンの不具合発生\n- パソコンがすぐブラックアウトする  \n- 不具合により利用に支障が出ている  \n\n## 対応行動\n- 状況確認のためその場を離れる  \n- パソコンを直接見に行くと発言  \n\n## 次のステップ\n- ブラックアウトの原因調査  \n- 必要なら修理や設定見直し"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
