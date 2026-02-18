@@ -2817,3 +2817,83 @@ Some Somehow's
 
 ---
 
+
+
+## 📝 Random TV Audio and Offhand Remarks - 122e916e-3c35-4294-8a80-8db6144bf918
+
+**記録時間**: 2026-02-15 03:43:10
+
+### STT生テキスト
+
+🎤 SPEAKER_4 [0s - 4s]
+$5,377. According to both you, a member.
+
+🎤 SPEAKER_7 [5s - 9s]
+Sincerity gets that same amount. She's a winner. Ready? One two three. You got it.
+
+🎤 SPEAKER_7 [17s - 23s]
+Is the wrong price. Great. It's all up to you. Anything but $2,830 she's a winner along with Stup's charity. Flip it.
+
+🎤 SPEAKER_7 [30s - 33s]
+Here we go. Hope you got it. Wind it up, please.
+
+🎤 SPEAKER_2 [34s - 34s]
+You got it.
+
+👤 あなた [60s - 63s]
+Mom stop being a prostitute? When she done.
+
+👤 あなた [66s - 69s]
+I mean, not immediately after we still got a few weeks out of it.
+
+🎤 SPEAKER_8 [82s - 86s]
+I knew I knew you, Well, it's it's it's hard to answer that without offending a proportion of the audience.
+
+🎤 SPEAKER_8 [93s - 96s]
+More interesting question is, how is he able to read minds?
+
+🎤 SPEAKER_8 [101s - 102s]
+What would I do if I was prime minister Would I
+
+🎤 SPEAKER_8 [115s - 119s]
+I don't like to I don't like to answer a question with a question, but how did you get it to my mind?
+
+🎤 SPEAKER_7 [201s - 204s]
+If you want to live, hurry and follow me. There's a safe spot ahead.
+
+🎤 SPEAKER_8 [221s - 223s]
+Cold. It just needs a bit of fixing here and there.
+
+🎤 SPEAKER_8 [236s - 238s]
+Everyone stay alert. Rebels have found us.
+
+🎤 SPEAKER_2 [240s - 241s]
+Why?
+
+🎤 SPEAKER_5 [241s - 241s]
+It's gonna kill me.
+
+🎤 SPEAKER_7 [244s - 247s]
+Governor, I'm ready to obey your commands.
+
+🎤 SPEAKER_8 [256s - 257s]
+You command, governor, Oh, no.
+
+🎤 SPEAKER_5 [300s - 301s]
+Are you hurt?
+
+🎤 SPEAKER_2 [306s - 307s]
+A good meal needs good strength.
+
+🎤 SPEAKER_4 [328s - 334s]
+This sure beats tree root and mustard. I'm so hungry.
+
+🎤 SPEAKER_8 [334s - 335s]
+Just give me something. Anything.
+
+🎤 SPEAKER_8 [346s - 347s]
+Please help us.
+
+
+---
+
