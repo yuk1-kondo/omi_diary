@@ -1,0 +1,77 @@
+{
+  "id": "ceeb9da4-f8b1-443e-a252-fb6e2f2f4021",
+  "created_at": "2026-02-18T10:21:26.242135+00:00",
+  "started_at": "2026-02-18T10:21:21.157501+00:00",
+  "finished_at": "2026-02-18T10:21:48.403880+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "バッティングフォーム改善の気付き",
+    "overview": "話者はスイング時にアウトになるのを恐れてバットを押さえ気味に振っていたが、「振り切って打ったほうがうまく飛ぶ」とアドバイスを受けたことについて述べている。守りに入らず振り切ることの重要性に気付いた場面が記録されている。",
+    "emoji": "🏏",
+    "category": "sports",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "8a04e16b-526d-4b99-ba48-4dd6666dcf9d",
+      "text": "アウトてしまうから押さえてたよその振り切ってなかった 打ったらうまく飛びますって言われて",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.76837158203125e-07,
+      "end": 19.48274952316284,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a23c71ef-a321-4119-a2d8-ced2dc460b17",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ceeb9da4-f8b1-443e-a252-fb6e2f2f4021",
+      "chunk_timestamps": [
+        1771410082.205,
+        1771410087.234,
+        1771410092.285,
+        1771410097.375,
+        1771410102.918,
+        1771410107.429,
+        1771410117.379,
+        1771410139.893
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-18T10:21:22.205000+00:00",
+      "duration": 62.688
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## バッティングのアドバイス\n- スイングを途中で抑えていた  \n- 振り切れていないことを指摘された  \n- しっかり振り切ればよく飛ぶと言われた  \n\n## 次のステップ\n- スイングを最後まで振り切る意識を持つ  \n- 抑えずにフルスイングを練習する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
