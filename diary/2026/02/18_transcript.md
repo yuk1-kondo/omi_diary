@@ -286,3 +286,20 @@ Or Okay. Tablet and then your toothbrush.
 
 ---
 
+
+
+## 📝 Clarifying Question About Tablet Location - 4aee38e5-1c18-40cd-bdf7-aca9382a955d
+
+**記録時間**: 2026-02-18 22:02:06
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 1s]
+Can you repeat your tablet?
+
+🎤 SPEAKER_1 [2s - 3s]
+Have you put your tablet in the bag?
+
+
+---
+
