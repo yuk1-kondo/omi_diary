@@ -230,3 +230,59 @@ Rice? He's in the conservatory.
 
 ---
 
+
+
+## 📝 Family Packs Pajamas and Travel Essentials - 30abbd95-967f-4bf4-a99f-770643d03f9e
+
+**記録時間**: 2026-02-18 21:42:49
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 0s]
+Pajamas?
+
+🎤 SPEAKER_1 [1s - 4s]
+Oh, I think I'm a bit worried about it. Pajamas? Pajamas.
+
+🎤 SPEAKER_2 [8s - 12s]
+And socks and pajamas, Jude. How many pair?
+
+🎤 SPEAKER_1 [15s - 17s]
+Whichever pajamas you want to take. If you want to have everyone on the
+
+🎤 SPEAKER_1 [26s - 27s]
+Okay.
+
+👤 あなた [30s - 32s]
+So Okay. Hold on.
+
+🎤 SPEAKER_2 [60s - 60s]
+Yeah.
+
+🎤 SPEAKER_1 [62s - 63s]
+Not 46 or 47.
+
+👤 あなた [64s - 64s]
+Yeah.
+
+🎤 SPEAKER_2 [75s - 76s]
+I'm happy to suddenly hurt.
+
+🎤 SPEAKER_2 [85s - 85s]
+Two.
+
+🎤 SPEAKER_1 [88s - 92s]
+Okay. So these this the oh, shine. This is the pen.
+
+👤 あなた [92s - 93s]
+Okay.
+
+🎤 SPEAKER_1 [109s - 111s]
+Was there a t shirt in there as well?
+
+🎤 SPEAKER_2 [113s - 118s]
+Or Okay. Tablet and then your toothbrush.
+
+
+---
+
