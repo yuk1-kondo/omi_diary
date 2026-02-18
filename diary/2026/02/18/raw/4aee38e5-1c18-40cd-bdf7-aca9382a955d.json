@@ -1,0 +1,125 @@
+{
+  "id": "4aee38e5-1c18-40cd-bdf7-aca9382a955d",
+  "created_at": "2026-02-18T13:02:06.077997+00:00",
+  "started_at": "2026-02-18T12:59:11.511754+00:00",
+  "finished_at": "2026-02-18T13:04:09.698631+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Clarifying Question About Tablet Location",
+    "overview": "A short exchange where one person asks the other to repeat themselves, then clarifies the question as asking whether they have put their tablet into the bag.",
+    "emoji": "📱",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "16b78c54-e401-4c88-9fcb-ea9e63811814",
+      "text": "Can you repeat your tablet?",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.479555405443534e-07,
+      "end": 1.0399997520453326,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9cda8fce-d040-492f-99c3-ca14f0179db6",
+      "text": "Have you put your tablet in the bag?",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 2.159999752044314,
+      "end": 3.6799997520447505,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156946,
+    "longitude": -3.2755656,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "b5c4a770-e293-442c-adba-7ecbcbe0969a",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "4aee38e5-1c18-40cd-bdf7-aca9382a955d",
+      "chunk_timestamps": [
+        1771419724.812,
+        1771419728.808,
+        1771419734.04,
+        1771419739.213,
+        1771419744.311,
+        1771419749.36,
+        1771419754.662,
+        1771419761.162,
+        1771419766.23,
+        1771419772.395,
+        1771419777.825,
+        1771419783.243,
+        1771419788.416,
+        1771419793.441,
+        1771419798.711,
+        1771419803.95,
+        1771419808.899,
+        1771419814.03,
+        1771419819.221,
+        1771419824.412,
+        1771419829.44,
+        1771419835.594,
+        1771419840.968,
+        1771419846.396,
+        1771419851.51,
+        1771419856.61,
+        1771419861.774,
+        1771419867.45,
+        1771419872.645,
+        1771419877.713,
+        1771419882.824,
+        1771419888.554,
+        1771419894.719,
+        1771419899.94,
+        1771419905.038,
+        1771419911.003
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-18T13:02:04.812000+00:00",
+      "duration": 191.191
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Clarification  \n- Question about repeating a sentence  \n- Sentence to repeat: \"Have you put your tablet in the bag?\"  \n\n## Next steps  \n- Confirm if further clarification or rephrasing is needed"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
