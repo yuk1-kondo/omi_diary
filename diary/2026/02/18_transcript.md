@@ -85,3 +85,134 @@
 
 ---
 
+
+
+## 📝 Family Plans Sleepover And Fish Tank Care - ea54a016-2b27-49e0-8810-aa4485fa1514
+
+**記録時間**: 2026-02-18 20:04:22
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 3s]
+You painted? Yeah. You brush your teeth then.
+
+🎤 SPEAKER_1 [59s - 59s]
+Be
+
+🎤 SPEAKER_1 [67s - 72s]
+Teeth drew Eddie up. And Drew comes there.
+
+🎤 SPEAKER_1 [87s - 90s]
+Because it's quite it's good for your muscles and
+
+🎤 SPEAKER_1 [94s - 103s]
+Jude. Jude, anyone can use it in our house. Jude, anyone can use that. It's not kids. Can I use it now? What idiots want it?
+
+🎤 SPEAKER_1 [121s - 124s]
+Brush your teeth. Your teeth?
+
+🎤 SPEAKER_1 [129s - 136s]
+Then that's not good. But either way, you don't need to be conscious. I don't know. How do you brush your cheek here? No.
+
+👤 あなた [136s - 136s]
+Right.
+
+🎤 SPEAKER_1 [144s - 147s]
+Has got to know my are you on tract GVT?
+
+👤 あなた [148s - 150s]
+Know attracted him?
+
+👤 あなた [168s - 169s]
+How a different one now, though. No.
+
+🎤 SPEAKER_1 [169s - 185s]
+I don't want Okay. What I was gonna say was, uppnine has now bought to know after the time because I've talked to about it a lot. I've talked about different things. When I ask you a question, it brings back the history of, well, actually, this would work well with your plan to do this. And even though you originally wanted that, maybe you could try this.
+
+🎤 SPEAKER_1 [186s - 195s]
+It builds up. So you kinda need to do that with with fish, and we need to get your app set up with your reminders on there.
+
+👤 あなた [195s - 195s]
+Okay?
+
+🎤 SPEAKER_1 [196s - 201s]
+Otherwise, you're gonna end up not enjoying your fish tank quite as much because mummy's gonna end up doing it.
+
+🎤 SPEAKER_1 [245s - 248s]
+Food. I can get your food wrong. Oh, I Me?
+
+👤 あなた [303s - 305s]
+No. Oh. Oh, listen.
+
+🎤 SPEAKER_1 [306s - 313s]
+Hold on. We're gonna go and get some fish and things like that. Yeah. And then we're gonna come back, get our stuff to go because we're gonna sleep over.
+
+🎤 SPEAKER_1 [314s - 319s]
+You're willing to go get our stuff to go to now. Oh, you both we are. You can wear cocks now if you want. We're both one. Yeah.
+
+🎤 SPEAKER_1 [319s - 322s]
+Well, both you are tonight, then tomorrow night, Kobe is sleeping over here.
+
+🎤 SPEAKER_2 [323s - 324s]
+Wait. Where? Where's he sleeping?
+
+🎤 SPEAKER_1 [324s - 326s]
+Here in Jude's in Elliot's room.
+
+🎤 SPEAKER_1 [329s - 331s]
+Or Eliot could get in his bed, and Eliot has to be
+
+🎤 SPEAKER_1 [335s - 337s]
+Oh. Oh. Oh. Oh.
+
+👤 あなた [338s - 339s]
+Oh. Oh. Wow.
+
+🎤 SPEAKER_2 [345s - 346s]
+Oh, Au. Au.
+
+🎤 SPEAKER_1 [349s - 356s]
+Jude. Jude, it was a mistake. And it said sorry. But, Jude, Jude just
+
+👤 あなた [356s - 356s]
+Fuck.
+
+🎤 SPEAKER_1 [357s - 359s]
+Jude, you just saw the back ball back at me.
+
+👤 あなた [361s - 362s]
+Jude?
+
+🎤 SPEAKER_1 [362s - 364s]
+Jude, you just threw the ball back at me.
+
+🎤 SPEAKER_1 [400s - 404s]
+Then threw the ball back to Elliot, and then you hit me. Am I screaming at you?
+
+🎤 SPEAKER_2 [404s - 405s]
+No. No.
+
+🎤 SPEAKER_1 [405s - 416s]
+Did you say sorry to me? I know I did, but I watched it. It wasn't that hard. It was a shock, but it wasn't that hard. Elliot said sorry immediately. We don't he did. I was here.
+
+🎤 SPEAKER_2 [452s - 456s]
+Wait. Jude, you did very well.
+
+🎤 SPEAKER_1 [456s - 467s]
+You don't have to have sleepovers. Listen. I'm do I'm my hair, then we're going. Okay? So just silently whistle around there.
+
+🎤 SPEAKER_2 [468s - 472s]
+You want to go and get a little ball to put on it, Jude, a golf ball, one of the little plastic golf balls, go and see what fits.
+
+🎤 SPEAKER_2 [473s - 477s]
+A marble, Let's see if you can find something in your bedroom more in the conservatory.
+
+🎤 SPEAKER_1 [487s - 489s]
+He's in the conservatory.
+
+🎤 SPEAKER_2 [490s - 493s]
+Rice? He's in the conservatory.
+
+
+---
+
