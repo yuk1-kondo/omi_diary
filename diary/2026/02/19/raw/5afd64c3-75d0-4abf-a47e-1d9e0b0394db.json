@@ -1,0 +1,104 @@
+{
+  "id": "5afd64c3-75d0-4abf-a47e-1d9e0b0394db",
+  "created_at": "2026-02-19T14:17:35.436624+00:00",
+  "started_at": "2026-02-19T14:17:23.509842+00:00",
+  "finished_at": "2026-02-19T14:18:02.526242+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User Confirms Mailing And Tracking Update",
+    "overview": "The user explains there was a slight delay because they were away the previous day, but confirms they are now heading to the post office to send an item. They state they will share a photo of the tracking receipt shortly once it is mailed.",
+    "emoji": "📮",
+    "category": "real",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "a74b2062-e0d9-473f-a182-e36563275ea2",
+      "text": "Hi. Apologies about the slight delay in posting. I was away yesterday. I'm heading to the post office now.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -1.9073468138230965e-08,
+      "end": 6.779999980926732,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "73a84569-3c61-4b45-96e7-f2e800a60b3c",
+      "text": "And we'll share a photo of the tracking receipt. With you shortly. All the best.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 17.019999980926514,
+      "end": 24.22999998092655,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156946,
+    "longitude": -3.2755656,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "33b01d02-f664-45df-a62a-b15cb4abe74f",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "5afd64c3-75d0-4abf-a47e-1d9e0b0394db",
+      "chunk_timestamps": [
+        1771510651.701,
+        1771510657.544,
+        1771510662.646,
+        1771510667.691,
+        1771510672.677,
+        1771510677.726,
+        1771510682.934,
+        1771510688.044,
+        1771510693.124,
+        1771510698.197,
+        1771510703.313,
+        1771510708.452,
+        1771510713.444,
+        1771510718.537,
+        1771510724.54,
+        1771510729.573
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-19T14:17:31.701000+00:00",
+      "duration": 82.872
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Shipping update\n- User was delayed in posting item\n- User is now heading to the post office\n- User will share tracking receipt photo soon\n\n## Next steps\n- User to ship item and obtain tracking receipt\n- User to send tracking receipt photo to recipient"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
