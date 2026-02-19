@@ -1540,3 +1540,35 @@ What the heck's going on with this bloody thing?
 
 ---
 
+
+
+## 📝 Breaking News: Prince Andrew Arrest Report Discussed - d3efe23b-b309-458f-bbd8-1e825edb7cb2
+
+**記録時間**: 2026-02-19 20:54:44
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 23s]
+And it's an overused phrase, isn't it, these days, break news. But in the moments that have passed since I told you six on my police car, appeared to have have arrived at the Kings, a state in Norfolk, Sandringham, where he disgraced younger brother, Andrew Windsor, currently resides. In in those moments, he has reportedly been arrested suspicion of misconduct in public office.
+
+🎤 SPEAKER_1 [24s - 33s]
+That, at the moment, is all anybody knows. But it is in the context of events, dear boy events.
+
+👤 あなた [34s - 35s]
+We update it for people patrolling.
+
+🎤 SPEAKER_1 [36s - 88s]
+For the royal family and because the royal family is so to this country, it's into to both perceptions of and and the office. This, of course, as a consequence of some of the revelations too recently in the so called Epstein files. But at first glance, and I don't know how many times this morning, I'm gonna have to remind you of two things. The first will be that Andrew Windsor denies all wrongdoing, and the second will be that this is all anybody knows at the moment, even though it's a developing story breaking news only available facts can be contained within a single sentence.
+
+🎤 SPEAKER_1 [91s - 131s]
+But you you you know that this is no about the the girls and young women who feature in the Epstein file sometimes in very close proximity to Andrew, both in photographs and in reportage, but but about the possible or the alleged sharing of information, commercial information to which he have had access as a consequence of his curious role as a sort of make believe trade envoy for The United Kingdom. And and here we are. It's it's a moment of, well, I'd I'd never done anything like this before.
+
+🎤 SPEAKER_1 [131s - 138s]
+When breaking news involves the Royal Family, it is normally, sadly, a death or a funeral, possibly the occasional marriage, but they never take us by surprise.
+
+🎤 SPEAKER_1 [139s - 144s]
+Breaking news about Andrew Mountbatten Windsor as he calls himself at the moment. Being arrested.
+
+
+---
+
