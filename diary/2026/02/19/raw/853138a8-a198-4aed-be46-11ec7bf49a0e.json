@@ -1,0 +1,112 @@
+{
+  "id": "853138a8-a198-4aed-be46-11ec7bf49a0e",
+  "created_at": "2026-02-19T11:43:11.681289+00:00",
+  "started_at": "2026-02-19T11:45:10.693442+00:00",
+  "finished_at": "2026-02-19T11:45:07.874032+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User Expresses Frustration With Device",
+    "overview": "The user expresses irritation and confusion about a malfunctioning or uncooperative device or system, asking what is wrong with it in strong, informal language.",
+    "emoji": "💢",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "5afb4e1b-85d8-4553-96a8-c9bee0e48849",
+      "text": "What the heck's going on with this bloody thing?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -5.912780807193485e-07,
+      "end": 1.8399994087219227,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156946,
+    "longitude": -3.2755656,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "0d6d1c6f-b99d-4cf0-979d-6790b9902abd",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "853138a8-a198-4aed-be46-11ec7bf49a0e",
+      "chunk_timestamps": [
+        1771501388.965,
+        1771501393.981,
+        1771501399.025,
+        1771501404.069,
+        1771501409.042,
+        1771501414.084,
+        1771501419.128,
+        1771501424.142,
+        1771501429.141,
+        1771501434.253,
+        1771501439.371,
+        1771501444.539,
+        1771501449.541,
+        1771501454.743,
+        1771501459.822,
+        1771501465.234,
+        1771501470.243,
+        1771501475.343,
+        1771501480.377,
+        1771501485.542,
+        1771501490.587,
+        1771501495.64,
+        1771501500.748,
+        1771501505.946,
+        1771501511.043,
+        1771501516.027,
+        1771501521.031,
+        1771501526.063,
+        1771501531.081,
+        1771501536.159,
+        1771501541.161,
+        1771501546.163,
+        1771501552.806,
+        1771501558.573,
+        1771501563.633,
+        1771501568.736,
+        1771501573.951
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-19T11:43:08.965000+00:00",
+      "duration": 189.986
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+      "content": "Sounds like something’s really not behaving the way you expect.  \n\nCan you tell me what “this thing” is—your phone, computer, an app, a device—and what it’s doing (or not doing)? Any error messages, weird behavior, or when it started happening will help me figure it out with you."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
