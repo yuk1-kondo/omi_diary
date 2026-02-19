@@ -2304,3 +2304,767 @@ And you
 
 ---
 
+
+
+## 📝 User Watches Final Space And Reflects - c4cfa3ba-43e2-4647-988c-e6ccb25e6482
+
+**記録時間**: 2026-02-19 22:12:15
+
+### STT生テキスト
+
+🎤 SPEAKER_11 [0s - 1s]
+Commander, there have been reports Allow me to reintroduce myself.
+
+🎤 SPEAKER_1 [72s - 78s]
+Carissini, Novaria internal me reintroduce
+
+🎤 SPEAKER_1 [82s - 94s]
+What do you want? The executive board knows about analytics disruption. I been undercover for six months. I want you to convince me to test a viable cleaner before. With his evidence, this planet can run profitably
+
+👤 あなた [133s - 135s]
+Hello, mate. Yeah.
+
+👤 あなた [202s - 203s]
+Two of them.
+
+👤 あなた [218s - 219s]
+Maybe I watch.
+
+👤 あなた [227s - 229s]
+And I did probably need to get on work, imagine.
+
+👤 あなた [234s - 238s]
+Okay. Final spursion.
+
+🎤 SPEAKER_2 [298s - 301s]
+Lifetime. Tomorrow, prisoner wide, the most Gary.
+
+🎤 SPEAKER_1 [336s - 342s]
+My mom. Or she gets executed. To save her life? I don't know.
+
+🎤 SPEAKER_2 [342s - 355s]
+Why would I wanna do that? So heartwarming. She thought she'd get the last Now it might hurt to say a lot and then abandon her.
+
+👤 あなた [355s - 361s]
+So good son.
+
+🎤 SPEAKER_2 [369s - 378s]
+Welcome to Sourdough Superman's prison, where it's our privilege to kill you. Well, hold on a second there. What is your business here?
+
+🎤 SPEAKER_2 [379s - 386s]
+Oh, you know, we're here to survey the cells. For the saber bats. The saber bats are you know, we got that call, so, you know, we can we came right down.
+
+🎤 SPEAKER_2 [388s - 410s]
+Doctor call. The call came in. Yeah, okay. Yeah. So we came right now. Was there Wesley in the front office? It sure was. Did old front office Wesley. You know, front office Wesley's a bit can't agree to me calling him a prep.
+
+🎤 SPEAKER_2 [411s - 415s]
+But what Just twisting your nips, man. We do have a crazy saber about it.
+
+🎤 SPEAKER_2 [419s - 424s]
+Carlos in half, lasted for twenty one days. Sabre bats are
+
+🎤 SPEAKER_2 [428s - 429s]
+So much
+
+🎤 SPEAKER_2 [444s - 447s]
+Gary thought about this day a long time. All right. You grew down it.
+
+🎤 SPEAKER_4 [447s - 454s]
+You wrote a 100 page essay, and then you boil it down to a small haiku. You remember it? Or is that the words?
+
+🎤 SPEAKER_2 [461s - 462s]
+Hurts painfully.
+
+🎤 SPEAKER_3 [462s - 462s]
+Are you coming?
+
+🎤 SPEAKER_3 [466s - 466s]
+I'm ready.
+
+🎤 SPEAKER_4 [469s - 481s]
+Wait. No, I'm not. Maybe I should also throw in. What kind of a mom watches out on the kid after his death dies and has no one to look after it? And then doesn't hear from her ever about anything ever it did?
+
+🎤 SPEAKER_2 [482s - 484s]
+Gary, Hold. Mom?
+
+🎤 SPEAKER_4 [488s - 491s]
+Is she even more tantalizing than my groin suggests.
+
+🎤 SPEAKER_4 [496s - 534s]
+Nice to meet you. It was? It is? I mean, really? You you doesn't resonate. So, what you been up to? I mean, other than getting a student's, deaf? Thank you. So much.
+
+🎤 SPEAKER_4 [534s - 536s]
+Shane, never get a chance to tell you, Hi, Gary.
+
+🎤 SPEAKER_1 [575s - 578s]
+You know it happened to have a shit.
+
+🎤 SPEAKER_4 [578s - 579s]
+Yes. Yes. I have a ship.
+
+🎤 SPEAKER_1 [581s - 584s]
+Room for you. Oh, no. I'll just be crowded.
+
+🎤 SPEAKER_1 [605s - 609s]
+Listen to you almost died forever. What happened was me thinking Off come my clothes.
+
+🎤 SPEAKER_3 [625s - 626s]
+Just just Best birthday ever.
+
+🎤 SPEAKER_4 [627s - 630s]
+Omi, come here. Let me show you my collectibles.
+
+🎤 SPEAKER_5 [630s - 635s]
+Tribal? Love what you've got going on, mate. But can I make an itty bitty suggestion?
+
+🎤 SPEAKER_4 [635s - 644s]
+Suggest away, hug mama. Okay. Loving it so far. Did that just happen? Yes.
+
+🎤 SPEAKER_1 [648s - 650s]
+For a mom. Wow. She'll be next.
+
+🎤 SPEAKER_5 [650s - 657s]
+Okey What about this? It's perfect.
+
+🎤 SPEAKER_1 [659s - 661s]
+Ninety night, kiddo. Hey, that's the closet.
+
+🎤 SPEAKER_4 [661s - 664s]
+But I'll see you on the bridge. See you on the bridge. Alright.
+
+🎤 SPEAKER_4 [674s - 677s]
+My name is In between. The gesticals.
+
+🎤 SPEAKER_3 [677s - 678s]
+Your heart.
+
+🎤 SPEAKER_4 [678s - 680s]
+Right. Forgot about that one. Okay. Yeah.
+
+🎤 SPEAKER_2 [680s - 680s]
+The heart.
+
+🎤 SPEAKER_4 [707s - 708s]
+Again, our Can I help you?
+
+🎤 SPEAKER_5 [708s - 715s]
+You better. You know, this shit would be good for oh, I know. It's too dangerous.
+
+🎤 SPEAKER_2 [715s - 716s]
+What?
+
+🎤 SPEAKER_5 [716s - 737s]
+It's just a little job. What kind of job, my little heirloom. It's located in the Polyhedron Fortress. I'm gonna be honest. It sounds a lot like you're pulling a bank robbery.
+
+🎤 SPEAKER_4 [746s - 749s]
+Well, Oh, I'm gonna fly so good.
+
+🎤 SPEAKER_3 [753s - 757s]
+I'm gonna fly fourteen years of just straight calcettics.
+
+🎤 SPEAKER_5 [762s - 764s]
+Confident Gary and I, we're going together.
+
+🎤 SPEAKER_4 [764s - 769s]
+So just, you and you and me? I think that's totally awesome.
+
+🎤 SPEAKER_3 [769s - 770s]
+Yes.
+
+🎤 SPEAKER_6 [770s - 771s]
+Trokadi.
+
+🎤 SPEAKER_4 [771s - 775s]
+You know what? Let me ask my mom. Mom, can mooncake come with?
+
+🎤 SPEAKER_5 [775s - 777s]
+No. Just you and me. Sorry, little buddy.
+
+🎤 SPEAKER_4 [779s - 794s]
+I can get you in with the eye of her. Body wants to see your fur eye. Or do you? With it, I can tell a into your mom's fortress.
+
+🎤 SPEAKER_5 [798s - 801s]
+You going on, Gary? Can't you see she's a con artist? They're all
+
+🎤 SPEAKER_5 [806s - 812s]
+Why didn't you try finding your son? How do you know I didn't? Sorry. You're not buying it.
+
+🎤 SPEAKER_4 [812s - 813s]
+Hold on, I fall.
+
+🎤 SPEAKER_5 [814s - 816s]
+I want do this. Let's go, son.
+
+🎤 SPEAKER_3 [820s - 821s]
+Nice.
+
+🎤 SPEAKER_4 [825s - 830s]
+My precious pancake bolt, it's violated. Who's in here? Show yourself.
+
+🎤 SPEAKER_4 [839s - 840s]
+Bit stressed.
+
+🎤 SPEAKER_4 [867s - 868s]
+So am.
+
+🎤 SPEAKER_6 [868s - 870s]
+Ready, kid?
+
+🎤 SPEAKER_2 [870s - 871s]
+I was born ready.
+
+🎤 SPEAKER_4 [875s - 877s]
+That's Oh, well, that would explain a lot, actually.
+
+🎤 SPEAKER_5 [877s - 877s]
+Well, chin up.
+
+🎤 SPEAKER_4 [915s - 916s]
+We Nice working with you.
+
+🎤 SPEAKER_2 [921s - 925s]
+Out of pancakes again. They're selling like never mind.
+
+🎤 SPEAKER_4 [935s - 938s]
+We have folding jacket.
+
+🎤 SPEAKER_4 [950s - 952s]
+It's an intervention.
+
+🎤 SPEAKER_6 [954s - 955s]
+That's the boat!
+
+🎤 SPEAKER_4 [956s - 958s]
+Squeezy walls, of course.
+
+🎤 SPEAKER_5 [958s - 959s]
+It's all right.
+
+🎤 SPEAKER_1 [959s - 960s]
+We've got this. Hang on.
+
+🎤 SPEAKER_3 [987s - 989s]
+Hello, pride eye of your sleep apnea.
+
+🎤 SPEAKER_4 [998s - 1001s]
+Crap. Moonkit, no matter what size
+
+🎤 SPEAKER_4 [1006s - 1009s]
+We love you, and we just wanna make sure that you're complete.
+
+🎤 SPEAKER_5 [1022s - 1025s]
+Lower you down to the pit and you snag the gem. Got it, gorgeous?
+
+🎤 SPEAKER_4 [1025s - 1026s]
+Our first stage.
+
+🎤 SPEAKER_3 [1103s - 1104s]
+Did good, my boy.
+
+🎤 SPEAKER_4 [1104s - 1109s]
+I'm not your boy. From now on, your name is Jimmy. Jimmy Jimmy Jimmy Jimmy.
+
+🎤 SPEAKER_3 [1111s - 1112s]
+Monkey, muy tortillas.
+
+🎤 SPEAKER_2 [1112s - 1120s]
+Is this about losing your powers or Gary not wanting to Because you're more than a planet destroying super weapon.
+
+🎤 SPEAKER_3 [1154s - 1155s]
+You are my two Pretty good head dog.
+
+🎤 SPEAKER_4 [1159s - 1162s]
+There goes my greatest customer, How did the
+
+🎤 SPEAKER_4 [1174s - 1175s]
+I know. My mom was amazing.
+
+🎤 SPEAKER_6 [1175s - 1176s]
+The things are
+
+🎤 SPEAKER_5 [1176s - 1177s]
+motherfucking. Day.
+
+🎤 SPEAKER_4 [1178s - 1179s]
+Okay. Come on.
+
+🎤 SPEAKER_6 [1181s - 1181s]
+I'll sell No.
+
+🎤 SPEAKER_5 [1182s - 1185s]
+Get some shite eye.
+
+🎤 SPEAKER_4 [1217s - 1222s]
+There'll be more So you're leaving? Again?
+
+🎤 SPEAKER_5 [1222s - 1225s]
+I think we've knew this was never meant to be forever. Right?
+
+🎤 SPEAKER_4 [1225s - 1230s]
+Can I ask you one thing? Why don't you want to do anything to do?
+
+🎤 SPEAKER_3 [1232s - 1233s]
+Don't The
+
+🎤 SPEAKER_5 [1234s - 1235s]
+the day I Yeah.
+
+🎤 SPEAKER_4 [1242s - 1247s]
+See, I would have taken even a tiny piece just one piece.
+
+🎤 SPEAKER_5 [1249s - 1256s]
+Yeah. Maybe in another life. But not this one. See you around, kiddo.
+
+🎤 SPEAKER_3 [1331s - 1332s]
+Gary.
+
+🎤 SPEAKER_1 [1333s - 1336s]
+Your mother left with that family airline. It was a Yes.
+
+👤 あなた [1336s - 1337s]
+Dimensional key.
+
+🎤 SPEAKER_5 [1338s - 1339s]
+How did you know?
+
+🎤 SPEAKER_4 [1340s - 1346s]
+She's good at taking what's important to me. That woman hasn't seen the last of me. It's on.
+
+🎤 SPEAKER_4 [1367s - 1371s]
+Don't shit tears for me. We don't even know what you're doing.
+
+🎤 SPEAKER_4 [1393s - 1401s]
+What? No tears. I wasn't even looking towards the in Tryporn.
+
+🎤 SPEAKER_4 [1413s - 1414s]
+I seek others.
+
+🎤 SPEAKER_4 [1459s - 1466s]
+We the triplators, ever get their homeland bag. Mhmm. I certainly hope not.
+
+🎤 SPEAKER_2 [1471s - 1474s]
+Any and I was not eavesdropping. Okay?
+
+🎤 SPEAKER_4 [1475s - 1480s]
+Alright. Jesus, I made weird sounds. I mean, oh, ah, ah, ah. I think I
+
+🎤 SPEAKER_4 [1485s - 1486s]
+We've all been there.
+
+🎤 SPEAKER_5 [1487s - 1488s]
+We have. I have.
+
+🎤 SPEAKER_1 [1489s - 1490s]
+Stop looking at me.
+
+🎤 SPEAKER_4 [1490s - 1494s]
+Yes. His body changing. He's becoming a man.
+
+🎤 SPEAKER_3 [1496s - 1498s]
+Gary, he doesn't have anything. Yeah. I know.
+
+🎤 SPEAKER_5 [1498s - 1499s]
+We can all see that.
+
+🎤 SPEAKER_4 [1504s - 1504s]
+You I never got.
+
+🎤 SPEAKER_3 [1504s - 1507s]
+Wait. What do you guys meet? What are you guys talking about? About? What talk?
+
+🎤 SPEAKER_4 [1507s - 1508s]
+Oh, god. I never gave you the talk.
+
+🎤 SPEAKER_4 [1511s - 1517s]
+And that's when I got caught upside down, cancellous, and a hammock had bailed Beth Sanderson's. So I'm
+
+🎤 SPEAKER_4 [1520s - 1521s]
+Good talk.
+
+🎤 SPEAKER_3 [1521s - 1522s]
+I have a question.
+
+🎤 SPEAKER_4 [1522s - 1536s]
+Yeah. Go for it. Why? Why? Because little invisible chaos marbles are exploding all over your insides. Then they're Yes. Yes, they are.
+
+🎤 SPEAKER_4 [1537s - 1545s]
+That explains your truckload, friend. Huzzah. For Cubescence. Remind me, little buddy. Can always talk to me about anything. Okay? About this.
+
+🎤 SPEAKER_4 [1545s - 1554s]
+About losing your powers, anything. Hooray! Solve the problem. See you. Are you okay, little buddy?
+
+🎤 SPEAKER_3 [1579s - 1580s]
+Warm? Give me a hint.
+
+🎤 SPEAKER_4 [1580s - 1582s]
+We don't have time for this. Ava.
+
+🎤 SPEAKER_3 [1582s - 1582s]
+Got it.
+
+🎤 SPEAKER_4 [1601s - 1602s]
+Moon tank.
+
+🎤 SPEAKER_4 [1651s - 1654s]
+Close. So close to getting my own cake back.
+
+🎤 SPEAKER_4 [1658s - 1660s]
+Take that wall. You've been cruising for a reason.
+
+🎤 SPEAKER_2 [1661s - 1662s]
+Stop it, woah.
+
+🎤 SPEAKER_3 [1669s - 1671s]
+Gary. I'll get that lightning bug.
+
+🎤 SPEAKER_6 [1673s - 1674s]
+Okay.
+
+🎤 SPEAKER_7 [1681s - 1684s]
+I don't know how you tolerate him.
+
+🎤 SPEAKER_7 [1689s - 1692s]
+Yo, did you just shrink your nothing happened for that moon king. You must retrieve him.
+
+🎤 SPEAKER_4 [1693s - 1695s]
+I get it. Okay? But where is he?
+
+🎤 SPEAKER_7 [1705s - 1711s]
+Key. But first, it must be activated. Hurry, Gary. The retina takes weight for no one.
+
+🎤 SPEAKER_4 [1729s - 1738s]
+Hey, fraskin how are look we need to find Can you unlock one of these? Sure, I can. But first, you have to beat me to scrub nibbled tittle pups.
+
+🎤 SPEAKER_4 [1739s - 1740s]
+I know.
+
+🎤 SPEAKER_4 [1746s - 1761s]
+Seriously, you have 18 hands and you go all Tintel Pops? Just tell us how to to freaking open the key. Fine, Murillo. He's a cosmic lunch He knows everything about keys. Clarence, I'm out of door wrestle? Get in there. Oh, god. I've already
+
+🎤 SPEAKER_4 [1766s - 1768s]
+Bolito, good to see you.
+
+🎤 SPEAKER_6 [1768s - 1768s]
+So.
+
+🎤 SPEAKER_4 [1771s - 1780s]
+Yeah. What what what's up? So, hey. So so so So. Yeah. So. So. Okay. So. Yeah. Alright.
+
+🎤 SPEAKER_4 [1786s - 1792s]
+Do you want from me, Bolito? All right? Look, we're we're trying to say my little buddy mooncake. So funny. Son of a stop saying.
+
+🎤 SPEAKER_4 [1805s - 1811s]
+So so Do any of the freaking two of you know how to unlock a dimensional key?
+
+🎤 SPEAKER_7 [1811s - 1813s]
+No. The window is so what brings you around?
+
+🎤 SPEAKER_4 [1832s - 1846s]
+Clemens, why the hell does everyone mister naughty. Hey, hey, hey. Keep it cool. I hate. We're looking to unlock a dimensional key. I'm assuming
+
+🎤 SPEAKER_4 [1858s - 1869s]
+I felt their eyes on me as I entered South Watering Hole. Thou's was always still the hardest of hard, and I beat it hard. Really super hard.
+
+🎤 SPEAKER_4 [1877s - 1884s]
+But I'm looking for someone. Someone with skills. Someone who's halfway
+
+🎤 SPEAKER_4 [1888s - 1898s]
+Go get you drink somewhere else. Who was he to give me orders? I mean, look at him. In that shirt. My eyes searched and searched.
+
+🎤 SPEAKER_4 [1899s - 1904s]
+Until, oh, You? What's your name?
+
+🎤 SPEAKER_7 [1904s - 1905s]
+Fun.
+
+🎤 SPEAKER_2 [1906s - 1906s]
+Thud.
+
+🎤 SPEAKER_3 [1906s - 1907s]
+I like that.
+
+🎤 SPEAKER_4 [1907s - 1908s]
+You wanna join the resistance?
+
+🎤 SPEAKER_2 [1908s - 1910s]
+What do we resistance?
+
+🎤 SPEAKER_4 [1910s - 1918s]
+Take your pick. But I'm sensing things are about to heat up. Troymoor. Mooncak's been kidnapped. I sense that. We need to unlock
+
+🎤 SPEAKER_4 [1923s - 1932s]
+Try more. Look, I haven't a clue how to do that. But the resistance is on the Actually, make that a sea breeze. Well, he's not gonna be any help. I heard that.
+
+🎤 SPEAKER_4 [1932s - 1934s]
+I'm always listening.
+
+🎤 SPEAKER_1 [1936s - 1939s]
+Gary, don't worry. We'll get Mooncake back.
+
+🎤 SPEAKER_4 [1939s - 1940s]
+I am worried.
+
+🎤 SPEAKER_2 [1965s - 1968s]
+I suppose I may know one last person who could unlock that key.
+
+🎤 SPEAKER_7 [1968s - 1969s]
+What?
+
+🎤 SPEAKER_4 [1969s - 1974s]
+Why didn't you bring this up sooner? The family drama. They didn't want to pull that thread. You don't need to hear the story.
+
+🎤 SPEAKER_4 [1978s - 1982s]
+Unlocker of words. Your niece's name is Dartrigio?
+
+🎤 SPEAKER_7 [1982s - 1985s]
+Unlocker of worlds.
+
+🎤 SPEAKER_4 [1985s - 1991s]
+And consumer of realms. Oh, it's getting longer. So one locker of worlds and name?
+
+🎤 SPEAKER_4 [1995s - 1998s]
+Polkouis. So Dartrigio
+
+🎤 SPEAKER_6 [1998s - 1999s]
+Unlafka.
+
+🎤 SPEAKER_4 [2004s - 2016s]
+And world's worst niece. More names. All right? You know what? Can she activate the key? If she can't, no one can Why are you being so helpful? Now I find your question As for the
+
+🎤 SPEAKER_4 [2019s - 2022s]
+Well, okay then. He's not gonna finish that one off. Oh, where is she?
+
+🎤 SPEAKER_4 [2026s - 2027s]
+I must warn you.
+
+🎤 SPEAKER_4 [2031s - 2033s]
+Do not look directly into her face.
+
+🎤 SPEAKER_4 [2035s - 2042s]
+Where are Oh, I looked. Oh. Oh. Why did I look? Oh, no. You were right, Clarence. Oh. Oh, this is Oh, I looked too. My away. My
+
+🎤 SPEAKER_4 [2047s - 2051s]
+Oh, yes. Yes. Of course. Your birthday. Oh. Oh.
+
+🎤 SPEAKER_3 [2055s - 2060s]
+Nice to be in a lie, Clarence. What brings you here with this minion? Of the misbegotten?
+
+🎤 SPEAKER_4 [2103s - 2104s]
+You're about to take the freaking tees.
+
+🎤 SPEAKER_4 [2112s - 2116s]
+Could turn off my heat sensors, but I wanna feel something. Anything.
+
+🎤 SPEAKER_4 [2120s - 2126s]
+Of course, a combination of song, painful screaming, and being whacked about with a bandit. Mhmm. How could we use that?
+
+🎤 SPEAKER_3 [2130s - 2137s]
+The unlocking of the world. Awaits. So says Dartrichio.
+
+🎤 SPEAKER_6 [2138s - 2139s]
+Unlocking of worlds.
+
+🎤 SPEAKER_4 [2139s - 2141s]
+Oh, and oh, there's a
+
+🎤 SPEAKER_7 [2141s - 2142s]
+Okay.
+
+🎤 SPEAKER_4 [2142s - 2149s]
+This part is cool. I will give you that. Who am all you dares to unlock the unlocker mini?
+
+🎤 SPEAKER_1 [2153s - 2155s]
+Oh, good. I thought it was gonna be You.
+
+🎤 SPEAKER_4 [2157s - 2159s]
+Ash? I was thinking I could wear a crisp
+
+🎤 SPEAKER_4 [2203s - 2205s]
+They got moonshape.
+
+🎤 SPEAKER_6 [2209s - 2210s]
+They were Stuff like that, the the blade
+
+🎤 SPEAKER_4 [2224s - 2228s]
+This place seems so familiar. Like a memory long Wow.
+
+🎤 SPEAKER_4 [2231s - 2241s]
+The hell are you doing back here? I ignored the bartender. I mean, look at him in shirt. Awful. Just awful. I'm looking for the blade.
+
+🎤 SPEAKER_3 [2246s - 2249s]
+Those slags could use a pleat.
+
+🎤 SPEAKER_4 [2249s - 2258s]
+A pleat. Ouch. His sharpest blade was his tongue. Looks like we found him. A new approach was needed. We had to think outside the box.
+
+🎤 SPEAKER_4 [2259s - 2262s]
+No bad ideas, just different.
+
+🎤 SPEAKER_7 [2265s - 2266s]
+What the hell?
+
+🎤 SPEAKER_4 [2266s - 2267s]
+Change your shirt.
+
+🎤 SPEAKER_6 [2267s - 2268s]
+Then we'll talk.
+
+🎤 SPEAKER_6 [2272s - 2272s]
+Okay.
+
+🎤 SPEAKER_1 [2273s - 2276s]
+Gary, these beings seem a tad too powerful to take down What are you?
+
+🎤 SPEAKER_4 [2278s - 2289s]
+A power far beyond your comprehension. We are the offers of final space. We are the arachnic techs.
+
+🎤 SPEAKER_4 [2296s - 2304s]
+His name is moon cake. He was never yours to clang. Yeah. Well, I respectfully disagree.
+
+🎤 SPEAKER_7 [2307s - 2308s]
+All off blind until their eyes are open.
+
+🎤 SPEAKER_7 [2337s - 2339s]
+Named Invictus dwells.
+
+🎤 SPEAKER_3 [2351s - 2352s]
+Oh, yeah. We met him.
+
+🎤 SPEAKER_7 [2362s - 2363s]
+In final space.
+
+🎤 SPEAKER_4 [2365s - 2369s]
+Great story. All right? But can someone please tell me what this all to do with mooncake?
+
+🎤 SPEAKER_7 [2369s - 2370s]
+Hey, he's getting there. Just give it a sec.
+
+🎤 SPEAKER_4 [2371s - 2374s]
+Call the titans try to escape final space.
+
+🎤 SPEAKER_6 [2375s - 2378s]
+At the walls until they broke through.
+
+🎤 SPEAKER_7 [2382s - 2387s]
+My dad? By doing so, he'll release the piece of final space.
+
+🎤 SPEAKER_7 [2391s - 2393s]
+One you call moon cake.
+
+🎤 SPEAKER_4 [2400s - 2404s]
+You just hand him over and we'll be on our way? No. No good. There's more.
+
+🎤 SPEAKER_7 [2404s - 2425s]
+When Mooncake left final space, he created a cosmic imbalance that weakened the walls of final space. World vulnerable to the onslaught of titans and their is restored.
+
+🎤 SPEAKER_6 [2435s - 2438s]
+Mooncake must be now.
+
+🎤 SPEAKER_4 [2453s - 2455s]
+Take me, I'll do anything.
+
+🎤 SPEAKER_4 [2463s - 2464s]
+And I can't
+
+🎤 SPEAKER_4 [2481s - 2483s]
+That hurts. Probably should have seen that coming.
+
+🎤 SPEAKER_2 [2486s - 2487s]
+I've got your back.
+
+🎤 SPEAKER_2 [2508s - 2513s]
+Not only has the power to destroy, he also has the power to heal. You know what I mean?
+
+🎤 SPEAKER_4 [2514s - 2516s]
+We figure that out. I'm sorry.
+
+🎤 SPEAKER_4 [2519s - 2524s]
+See? Mumbai can stay with me, and the universe can still be balanced. So what do you say about
+
+🎤 SPEAKER_2 [2528s - 2529s]
+Oh, all right.
+
+🎤 SPEAKER_4 [2538s - 2540s]
+Must be reachable on weekends. Omi.
+
+🎤 SPEAKER_2 [2540s - 2541s]
+I'm sorry. Yeah.
+
+🎤 SPEAKER_4 [2542s - 2548s]
+I got excited. It's okay. Break that promise, and we take Mooncake back.
+
+🎤 SPEAKER_6 [2548s - 2549s]
+Forever.
+
+🎤 SPEAKER_4 [2549s - 2552s]
+Not to be clear. Okay. Well, you're just gonna go.
+
+🎤 SPEAKER_6 [2556s - 2557s]
+If I pop the wood complete.
+
+🎤 SPEAKER_6 [2564s - 2569s]
+His headshots were also to die for. The time had come at last.
+
+🎤 SPEAKER_4 [2581s - 2585s]
+No. Try more. Good news. We found moon cake. So piss off.
+
+🎤 SPEAKER_6 [2585s - 2592s]
+Big news, guys. Thanks Troy. Tireless efforts, moon cakes get saved. How did we do it? We know.
+
+🎤 SPEAKER_4 [2596s - 2600s]
+This newsletter is so stupid. Right, Moojit? Cake.
+
+🎤 SPEAKER_6 [2600s - 2601s]
+Ah, moon cake.
+
+🎤 SPEAKER_4 [2602s - 2606s]
+Nice to have you back for our regular game of shadow blathers.
+
+🎤 SPEAKER_4 [2641s - 2641s]
+Oh shit.
+
+👤 あなた [2688s - 2691s]
+Did he get a positive impression from what he was saying then?
+
+🎤 SPEAKER_4 [2713s - 2713s]
+Seventeen.
+
+🎤 SPEAKER_7 [2715s - 2717s]
+Man attacked you. Why did you press charge?
+
+🎤 SPEAKER_6 [2719s - 2738s]
+That guy, from my understanding, was he was catfished by somebody pretending to be me. And he was not he was I I don't wanna, you know, be rude, but he was not all there. He was there was something off about him. Okay.
+
+🎤 SPEAKER_9 [2739s - 2743s]
+It felt like for me, it felt like the wrong thing to do Mhmm.
+
+🎤 SPEAKER_3 [2743s - 2745s]
+To try to get him in incarcerated in any way. Right.
+
+🎤 SPEAKER_9 [2745s - 2765s]
+And he wasn't a person that had the means to pay for a big fine and go through a whole legal process. I I asked the you know, judicial system that contacted me. I said, could we look into please getting this guy some help? Like, he's not I'm I'm I'm lucky that he didn't bring anything to, you know
+
+🎤 SPEAKER_8 [2765s - 2766s]
+Right.
+
+🎤 SPEAKER_9 [2766s - 2776s]
+Beep particularly violent with in its totality. Like, okay. What's the best course of action here? And it's probably to try to help this guy if we can do that.
+
+🎤 SPEAKER_9 [2804s - 2806s]
+So so do you see these as two silver gained or two goals lost?
+
+🎤 SPEAKER_1 [2873s - 2875s]
+Ten years from
+
+🎤 SPEAKER_5 [2875s - 2876s]
+now, this will Alright.
+
+👤 あなた [2890s - 2892s]
+Let's go and get some of these boxes then, see if I can Max,
+
+👤 あなた [3075s - 3099s]
+And as he stands, in victory, since curse has lost. Did great I'm his fought with the precious name,
+
+
+---
+
