@@ -1512,3 +1512,17 @@ B判定 そしてC判定 なので例えばですけど高知工科大学なん�
 
 ---
 
+
+
+## 📝 User Expresses Frustration With Device - 853138a8-a198-4aed-be46-11ec7bf49a0e
+
+**記録時間**: 2026-02-19 20:43:11
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+What the heck's going on with this bloody thing?
+
+
+---
+
