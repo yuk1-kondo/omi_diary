@@ -1607,3 +1607,206 @@ Probably get for less than that. I already own it, to be honest.
 
 ---
 
+
+
+## 📝 User Plays Mass Effect and Chats With Crew - 00c789e9-4a75-4a23-9c04-adee987ca471
+
+**記録時間**: 2026-02-19 21:28:02
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+Next muscle back on.
+
+🎤 SPEAKER_1 [19s - 26s]
+Suspicion of misconduct in public of And and I have to be honest with you. This is
+
+🎤 SPEAKER_1 [33s - 54s]
+And I might just myself until then. Obvious responses include, I I bet he's sweating now as about 30 people have already texted me. And I was gonna ask you, and I suspect I still will, but you didn't have an answer lined up before this event, before this moment, then I suspect you've probably got one lined up now.
+
+🎤 SPEAKER_1 [55s - 99s]
+I I was talking to Eleanor before we came on air. I'm obsessed with the Clapham Omnibus. Younger listeners might know what that involves. The Clapham Omnibus is a sort of byword for public conversation. Will the man on the Clapham Omnibus care, or will the man on the Clapham Omnibus, be talking about this? It's very much of the of the age in which the phrase was coined of course, most people don't travel by bus these days, and it could just slightly be a woman. But that was the phrase, the man on the clap of omnibus. And they're they're they're the subjects that I what's the word that I want? They're the subjects that I both I I simultaneously love and hate the most. The subjects about which we we just don't know how deep the public interest is.
+
+🎤 SPEAKER_1 [99s - 107s]
+Until this point. I've been saying in preprogram conversations, I I just have this weird sense that something else has to
+
+🎤 SPEAKER_3 [177s - 177s]
+Hey, commander.
+
+👤 あなた [178s - 180s]
+Looking for some extra supplies before you head up?
+
+🎤 SPEAKER_4 [180s - 181s]
+What have you got?
+
+🎤 SPEAKER_5 [182s - 190s]
+Whatever you want. Armor, weapons, laws. It's not standard reliance issues. It's standard Well, as long as you don't mind. Hey.
+
+🎤 SPEAKER_4 [192s - 194s]
+Should I pay you for my weapons and armor?
+
+🎤 SPEAKER_5 [194s - 196s]
+My stuff doesn't come from the Alliance.
+
+🎤 SPEAKER_6 [196s - 197s]
+I have to purchase it much
+
+🎤 SPEAKER_4 [197s - 199s]
+myself, and it's not true.
+
+🎤 SPEAKER_5 [199s - 205s]
+Hell, the licenses alone have sent me back more than I'd like. But no licenses? No goods.
+
+🎤 SPEAKER_4 [205s - 206s]
+Let's see what you've got.
+
+🎤 SPEAKER_5 [207s - 208s]
+You bet, commander.
+
+🎤 SPEAKER_5 [274s - 276s]
+Looking for supplies?
+
+🎤 SPEAKER_4 [276s - 277s]
+Let's see what you got.
+
+🎤 SPEAKER_5 [277s - 277s]
+You bet.
+
+🎤 SPEAKER_4 [364s - 373s]
+Passion it through. Commander Shepherd, my name is Nessana Dantius. Have a job for you. I can't say any more than unsecured communication.
+
+🎤 SPEAKER_8 [374s - 378s]
+If you're interested in hearing my offer, meet me on the Citadel so I can talk in Approach control.
+
+👤 あなた [462s - 464s]
+This is the SSV Normandy arrived without schedule.
+
+🎤 SPEAKER_2 [486s - 487s]
+Bunch.
+
+🎤 SPEAKER_3 [487s - 487s]
+I think I'll take my next leave here.
+
+🎤 SPEAKER_3 [510s - 515s]
+I prefer gold to silver, you know, for my metal. I if you'd recommend me for one since I pulled your boots out of the fire, Saving my boots from burning lava is part of your job, joker.
+
+🎤 SPEAKER_4 [523s - 527s]
+We don't give metals to soldiers for doing their jobs.
+
+🎤 SPEAKER_9 [527s - 534s]
+That figures. Just get me a nice card and a cake. No coconut, though. I hate that crap. So, commander, why don't you tell me why you're really here?
+
+🎤 SPEAKER_4 [536s - 538s]
+I'd like to know my crew.
+
+🎤 SPEAKER_9 [538s - 540s]
+I can see where this is going.
+
+🎤 SPEAKER_9 [540s - 560s]
+You did a background check on me, didn't you? Well, I'll tell you the same thing I told the cat You want me as your pilot. I'm not good. I'm not even great. I am the best damn helmsman in the Alliance Creek. Top of my classic flight school, I earned that. All those commendations in my file, I earned every single one. Those given to me as charity for my disease.
+
+🎤 SPEAKER_4 [563s - 567s]
+I can't have you on this ship if you're gonna infect my crew.
+
+🎤 SPEAKER_9 [567s - 568s]
+Infect the crew?
+
+🎤 SPEAKER_7 [569s - 570s]
+Man.
+
+🎤 SPEAKER_9 [570s - 572s]
+You have no idea what I'm talking about, do you?
+
+🎤 SPEAKER_7 [572s - 572s]
+Okay.
+
+🎤 SPEAKER_9 [572s - 585s]
+I've got ProLick syndrome, riddled bone disease. The bones in my legs never develop properly. They're basic hollow, too much force, little shatter. Even with and my leg braces, it's hard to get around. One wrong step and crack.
+
+🎤 SPEAKER_9 [585s - 591s]
+It's very dramatic. But I've learned to manage my condition, commander. Put the Normandy in my hands, and I'll make her dance for you.
+
+🎤 SPEAKER_9 [591s - 596s]
+Just don't ask me to get up and dance unless, you know, you like the sound of snapping shin bone.
+
+🎤 SPEAKER_4 [596s - 600s]
+I need to know more about this Rolex syndrome if I'm putting my ship in your hands.
+
+🎤 SPEAKER_9 [600s - 608s]
+Yeah. Of course you do. It's an extremely rare condition. Nobody knows exactly what causes it. Genetic may be. It's treatable, but there's no cure.
+
+🎤 SPEAKER_9 [609s - 623s]
+I classify my case as moderate to severe. I was born with Omi first year. Lucky for me, modern medical science has turned me into productive member of society.
+
+🎤 SPEAKER_4 [631s - 636s]
+I'm not trying to make Whatever you want, commander. How'd you end up joining the Alliance?
+
+🎤 SPEAKER_9 [636s - 641s]
+Look, if you're looking for an inspirational tale of the crippled kid overcoming impossible odds, you're gonna be disappointed.
+
+🎤 SPEAKER_9 [642s - 649s]
+My mother was a civilian contractor working for the Alliance. I basically grew up on the airport station back in the '49 of fleet.
+
+🎤 SPEAKER_4 [661s - 663s]
+Why does everyone call you joker?
+
+🎤 SPEAKER_9 [664s - 669s]
+It's a lot shorter than saying alliance flight lieutenant Jeff Moreau. Plus, I love to make little children laugh.
+
+🎤 SPEAKER_9 [675s - 679s]
+Used to bug me about never smiling. She started calling me joker.
+
+🎤 SPEAKER_7 [679s - 680s]
+Mhmm.
+
+🎤 SPEAKER_9 [680s - 681s]
+And stuck.
+
+🎤 SPEAKER_4 [681s - 683s]
+Why didn't she ever smile?
+
+🎤 SPEAKER_9 [684s - 693s]
+Hey. I work my ass off in flight school, commander. The world's not gonna hand you anything if you go around grinning like an idiot. By the end of the year, I was the best pilot in the academy.
+
+🎤 SPEAKER_9 [693s - 701s]
+Even better than the instructors, and everybody knew it. They'd all got their asses kicked by the sickly kid with the creaky little legs. One guess who was smiling and graduation.
+
+🎤 SPEAKER_4 [701s - 706s]
+How's the Normandy performing? Is she everything they said she'd be?
+
+🎤 SPEAKER_9 [706s - 724s]
+She's the best ship in the fleet if you've got a pilot who knows how to handle her. Balance isn't what you'd expect. It takes a while to get used to that oversized drive core we got stuffed in back and our power can sneak up on you if you're not careful. The Normandy's probably too much ship for your average alliance pilot commander. Lucky for you, I'm anything.
+
+🎤 SPEAKER_4 [724s - 725s]
+I have to go. Alright.
+
+🎤 SPEAKER_10 [725s - 726s]
+See you.
+
+👤 あなた [732s - 738s]
+Who am I taking? I'm taking taking the other.
+
+🎤 SPEAKER_4 [757s - 766s]
+I'm taking Equal with exterior atmosphere. Loved, the commanding officer is assured, x Presley has the deck.
+
+👤 あなた [770s - 772s]
+Mark, you're gonna be my piece.
+
+👤 あなた [777s - 782s]
+If I'm if she's just pure pure soldier,
+
+🎤 SPEAKER_7 [784s - 790s]
+Shotgun. Fine.
+
+🎤 SPEAKER_2 [790s - 791s]
+You are gonna be
+
+👤 あなた [808s - 809s]
+Pure damage.
+
+👤 あなた [816s - 817s]
+You're gonna walk.
+
+
+---
+
