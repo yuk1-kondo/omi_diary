@@ -1810,3 +1810,497 @@ You're gonna walk.
 
 ---
 
+
+
+## 📝 Shepard Navigates Noveria’s Corporate Intrigue - aa715fb7-ad81-4cd3-9f06-4cdf69af6f6d
+
+**記録時間**: 2026-02-19 21:43:46
+
+### STT生テキスト
+
+🎤 SPEAKER_7 [0s - 1s]
+Pretty badass.
+
+🎤 SPEAKER_7 [38s - 39s]
+That's far enough.
+
+🎤 SPEAKER_4 [41s - 43s]
+I'm on important business. This is an unscheduled arrival.
+
+🎤 SPEAKER_8 [44s - 45s]
+I need your credentials.
+
+🎤 SPEAKER_4 [46s - 49s]
+You first. We're the law here. Show some respect.
+
+🎤 SPEAKER_8 [51s - 54s]
+I'm captain Maiko Matsuo. Ilana is Risk Control Services.
+
+🎤 SPEAKER_4 [56s - 58s]
+All you need to know is I have more credentials than you.
+
+🎤 SPEAKER_8 [59s - 67s]
+They plan to be trouble, ma'am. I can't let you enter the port area without confirmation of your identity. Sergeant Sterling, secure their weapons.
+
+🎤 SPEAKER_4 [72s - 72s]
+Back away.
+
+🎤 SPEAKER_7 [73s - 74s]
+Nice and slow.
+
+🎤 SPEAKER_4 [77s - 78s]
+Nobody takes my weapon.
+
+🎤 SPEAKER_7 [79s - 79s]
+Charge and lock.
+
+🎤 SPEAKER_8 [79s - 85s]
+We are authorized to use lethal force. You have to the count of three to surrender your weapons.
+
+🎤 SPEAKER_4 [88s - 89s]
+One, two, three Captain Matsuo, stand down.
+
+🎤 SPEAKER_4 [96s - 100s]
+We confirm their identity. Spectres are authorized to carry weapons here, captain.
+
+🎤 SPEAKER_8 [100s - 108s]
+You may proceed, Spectre. I hope the rest of your visit will be less confrontational. Will meet you upstairs. Behave yourself.
+
+🎤 SPEAKER_4 [116s - 117s]
+Get out of here.
+
+🎤 SPEAKER_8 [120s - 123s]
+I'm sure Parisini san will answer any questions you have.
+
+🎤 SPEAKER_4 [143s - 152s]
+I am Gianna Parasini, assistant to administrator analysts, apologize for the incident in the docking bay. Someone pissing your security chief's coffee today?
+
+🎤 SPEAKER_4 [153s - 157s]
+She takes her job seriously. She is a valuable asset to the company.
+
+🎤 SPEAKER_4 [162s - 170s]
+Pretty heavy security for such a small port. The executive board does everything in its power to protect the privacy of our client corporation.
+
+🎤 SPEAKER_4 [171s - 181s]
+Is this privacy intended to hide illegal research? This planet is beyond the jurisdiction of the Citadel. The laws what the executive board says it is.
+
+🎤 SPEAKER_7 [182s - 183s]
+Do you know how valuable this planet is?
+
+🎤 SPEAKER_11 [184s - 188s]
+How many advances in genetics and artificial intelligence got their start here?
+
+🎤 SPEAKER_4 [189s - 192s]
+Has anyone unusual passed through here recently?
+
+🎤 SPEAKER_11 [192s - 200s]
+Unusual? And it's sorry. Matriarch passed through a few days ago. Lilly Penici Venetia, she is here.
+
+🎤 SPEAKER_4 [202s - 207s]
+She's a threat to galactic peace. I'm here to bring her in or put her down.
+
+🎤 SPEAKER_11 [207s - 216s]
+The board doesn't like having outside problems dumped in its commander. Venetia left for the peak fifteen research complex days ago.
+
+🎤 SPEAKER_4 [219s - 222s]
+Good. Give us directions and we'll be on our way.
+
+🎤 SPEAKER_11 [222s - 226s]
+You'll need to ask administrator for clearance to leave this port.
+
+🎤 SPEAKER_4 [226s - 228s]
+Where can I find the administrator?
+
+🎤 SPEAKER_11 [228s - 230s]
+His office is on the main level, left at the top of the
+
+👤 あなた [230s - 231s]
+Understood.
+
+🎤 SPEAKER_11 [231s - 243s]
+We go in now? Of course. If you need any help, you can ask me. I'm the administrator's office. She is here. I can't believe it. I imagine you want to talk to me, Shepherd.
+
+🎤 SPEAKER_11 [243s - 244s]
+About my mother.
+
+🎤 SPEAKER_4 [246s - 250s]
+No. We don't. Humans have an expression. Blood is thicker than water.
+
+🎤 SPEAKER_11 [251s - 263s]
+My people have an expression too. Only a child never contradicts her mother. I meant what I said before. Her actions are wrong. If you would feel safer leaving me on the Normandy, I will I don't think that's like but you can try.
+
+🎤 SPEAKER_11 [274s - 278s]
+Thank you, Shepherd. That means a great deal to me.
+
+🎤 SPEAKER_5 [291s - 295s]
+Welcome to Port Han Chan, the galaxy's most respected site for independent scientific research and development.
+
+🎤 SPEAKER_12 [295s - 311s]
+For your own safety and to protect personnel. If you have questions or concerns, our friendly administrative staff is always available.
+
+🎤 SPEAKER_12 [312s - 314s]
+Thank you, and enjoy your stay.
+
+🎤 SPEAKER_12 [327s - 330s]
+And then I I'm on duty, Spectre. I shouldn't be talking to you.
+
+🎤 SPEAKER_11 [352s - 353s]
+How can I help you?
+
+🎤 SPEAKER_4 [356s - 359s]
+Nothing right now. Thank you. Very well.
+
+🎤 SPEAKER_11 [360s - 361s]
+How can I help you?
+
+🎤 SPEAKER_11 [364s - 365s]
+How can I help you?
+
+🎤 SPEAKER_4 [365s - 367s]
+I'd like to speak to analysts. Wait a moment, please.
+
+🎤 SPEAKER_11 [367s - 369s]
+Mister Emmaus.
+
+🎤 SPEAKER_7 [369s - 370s]
+Yes. What? What?
+
+🎤 SPEAKER_11 [370s - 372s]
+Commander Shepherd is asking to see you sir.
+
+🎤 SPEAKER_12 [373s - 375s]
+Right. Fine. Come in.
+
+🎤 SPEAKER_9 [397s - 399s]
+You will excuse me if I don't stand up.
+
+🎤 SPEAKER_13 [399s - 402s]
+Have no time to entertain refugees from that urban blight call.
+
+🎤 SPEAKER_4 [402s - 404s]
+I see you look at my service record.
+
+🎤 SPEAKER_13 [404s - 415s]
+Only a fool went his negotiation without knowledge of the other party's tendencies. This greeting is a courtesy. I will only cooperate as required by the executive board. Businesses come here to avoid the second guessing of galactic law.
+
+🎤 SPEAKER_4 [416s - 418s]
+Are you telling me you have no safety protocols?
+
+🎤 SPEAKER_13 [419s - 429s]
+Don't be ridiculous. Do you think a for profit company would take no precautions against loss of life and material? Project leads have the final say here, not medicine politicians.
+
+🎤 SPEAKER_4 [433s - 436s]
+I've heard him matriarch is here. Venetia?
+
+🎤 SPEAKER_13 [437s - 442s]
+She arrived a few days ago, accompanied by a personal escort and some cargo. She's up at peak 15.
+
+🎤 SPEAKER_4 [445s - 447s]
+What do you mean personal escort?
+
+🎤 SPEAKER_13 [447s - 453s]
+The phrase is self explanatory. Body attending to the safety of her person, mainly a sorry commandos. Commandos?
+
+🎤 SPEAKER_11 [454s - 455s]
+And you didn't think that was weird?
+
+🎤 SPEAKER_13 [455s - 460s]
+They followed all our regulations. I had no reason to forbid lady Benezia from taking them.
+
+🎤 SPEAKER_4 [461s - 463s]
+What brought her out here?
+
+🎤 SPEAKER_13 [463s - 476s]
+If I knew, I wouldn't be at liberty to say she came here as agent Sarin's executor. His what? Executor. Sarin is a major shareholder in Binary Helix. Lady Venetia is authorized to act in his name.
+
+🎤 SPEAKER_13 [476s - 481s]
+She's here on business for binary helix. There were issues at fifteen that required Sarin's attention.
+
+🎤 SPEAKER_4 [483s - 485s]
+What can you tell me about her cargo?
+
+🎤 SPEAKER_13 [485s - 490s]
+Large, heavy, and sealed. It passed weapon screening. Beyond that, it is not our concern.
+
+🎤 SPEAKER_4 [491s - 492s]
+I'd like to see her immediately.
+
+🎤 SPEAKER_13 [493s - 503s]
+I'm afraid that you cannot. Peak 15 is a private facility in the Mountains. Regardless, there is a blizzard in the area. Shuttles are grounded and surface access has been cut off.
+
+🎤 SPEAKER_13 [504s - 511s]
+Surface access, you say? Cut off, I said. The roads are not suitable for travel. Don't make an issue of this shedded.
+
+🎤 SPEAKER_11 [511s - 515s]
+Forget him, commander. If he won't play ball, I'm sure someone else here will.
+
+🎤 SPEAKER_4 [516s - 517s]
+I'd like to see her immediately.
+
+🎤 SPEAKER_13 [518s - 521s]
+I'm afraid that you regardless, there is a blizzard in the area.
+
+🎤 SPEAKER_4 [522s - 523s]
+Are grounded in such Back to my other questions.
+
+🎤 SPEAKER_13 [524s - 532s]
+Every minute of my time you waste costs the company 12 credits. Do you do business with Sharon? I believe I explained this already. Did I not?
+
+🎤 SPEAKER_13 [532s - 536s]
+He's a major investor in Binary Helix Corporation, which is of the various Is Binary Helix developing weapons for him?
+
+🎤 SPEAKER_13 [539s - 548s]
+It's possible given his interest. What our clients do in their labs is they're I have no more questions at this this time. Good. I received a dozen urgent messages while you dithered about.
+
+🎤 SPEAKER_11 [552s - 556s]
+You've never worked in the corporate world have you, Commander? You can't bludgeon through bureaucracy.
+
+🎤 SPEAKER_7 [559s - 559s]
+Alright.
+
+🎤 SPEAKER_4 [560s - 561s]
+Would you do?
+
+🎤 SPEAKER_11 [562s - 569s]
+Talk to Lauren King. You should be able to find him at the bar. Can't say more. Not with an ear shot of Mr. Annelias.
+
+🎤 SPEAKER_4 [569s - 571s]
+You said I should talk to Laura Keene?
+
+🎤 SPEAKER_11 [572s - 579s]
+Mister Annelius isn't the only one with a pass to leave him. Keane spends his days at the hotel since his office was closed.
+
+🎤 SPEAKER_4 [580s - 582s]
+I've taken up enough of your time.
+
+🎤 SPEAKER_11 [582s - 585s]
+Not at all, Spector. This is my job after all.
+
+🎤 SPEAKER_11 [657s - 668s]
+Excuse me, I need a moment of your time. The male human at the hotel bar? He's a sales rep for Binary Helix. His name is Rafael Vargas.
+
+🎤 SPEAKER_8 [669s - 671s]
+I need you to speak with him.
+
+🎤 SPEAKER_4 [671s - 672s]
+Do you know who I am?
+
+🎤 SPEAKER_11 [674s - 692s]
+Everyone here knows who you are, Dahlstone. That makes you ideal for my job. You are a known Kwan quantity, or so Vargas would think. He will assume you are here to investigate his my, real intentions.
+
+🎤 SPEAKER_4 [692s - 694s]
+He's right there. Why not talk to him yourself?
+
+🎤 SPEAKER_11 [699s - 701s]
+He realized I was not a real buyer.
+
+🎤 SPEAKER_4 [705s - 708s]
+Strange people skoking in corners have gotten me in trouble before.
+
+🎤 SPEAKER_11 [709s - 714s]
+I represent the Aramali City Council on Pessia. Our town is known for its biotic ant crafters.
+
+🎤 SPEAKER_11 [722s - 733s]
+What is your There are rumors that the Novaria branch has flown in a sorry biotics. Powerful ones. Commandos to be specific. We want to assess any potential risk to a sorry copyright.
+
+🎤 SPEAKER_11 [734s - 739s]
+You will present yourself as a buyer on behalf of the or the lessons.
+
+🎤 SPEAKER_7 [739s - 740s]
+Discuss their military management programs.
+
+🎤 SPEAKER_14 [740s - 743s]
+Your real objective will be to distract him.
+
+🎤 SPEAKER_11 [744s - 749s]
+I will give you a device that will crack into his personal wireless network. It will up
+
+🎤 SPEAKER_11 [759s - 763s]
+I would be well paid for this. So would you. 500 credits.
+
+🎤 SPEAKER_4 [767s - 769s]
+Interesting plan?
+
+🎤 SPEAKER_7 [769s - 769s]
+I'm in.
+
+🎤 SPEAKER_15 [771s - 778s]
+Interesting Excellent. Here's the cracking device. You will know it is done when it beeps. I've assembled a dossier on Vargas. If you would like, I
+
+🎤 SPEAKER_4 [782s - 783s]
+Vargas.
+
+🎤 SPEAKER_15 [783s - 792s]
+He is impatient with those who waste his time. I tried to get him distracted and off topic. He concluded I was not interested in his company's services.
+
+🎤 SPEAKER_15 [794s - 808s]
+I noticed he has a tell when a topic makes him nervous or uncomfortable, he has a tendency to rub the him talking.
+
+🎤 SPEAKER_4 [809s - 810s]
+I'll go see him now.
+
+🎤 SPEAKER_15 [811s - 812s]
+I hope you hear from me soon.
+
+🎤 SPEAKER_7 [843s - 844s]
+Can I help him?
+
+🎤 SPEAKER_4 [846s - 851s]
+Mr. Vargas? I'm commander Shepherd, his Spectre. I understand you work for binary healings.
+
+🎤 SPEAKER_12 [851s - 855s]
+No, correct. Rafael Fardon, salesman. Where are you interested in our services?
+
+🎤 SPEAKER_4 [858s - 861s]
+I might be. That depends on what sort of offer you're company can make.
+
+🎤 SPEAKER_12 [861s - 867s]
+It was my understanding that the Citadel contracted to a Solarian Corporation for its enhancement programs.
+
+🎤 SPEAKER_4 [869s - 875s]
+Mister Vargas, I'm here to talk business with you. If you'd rather speculate on politics, I can visit an another Gen Eng firm.
+
+🎤 SPEAKER_12 [875s - 889s]
+You have my full Shepard. I'm merely getting a handle on my negotiating position. First, the boilerplate disclaimer. No genetic enhancement is guaranteed to take You can maximize the odds, but every strand of DNA is in it.
+
+🎤 SPEAKER_12 [890s - 893s]
+Our patented techniques can provide an 8% improvement
+
+🎤 SPEAKER_12 [897s - 898s]
+CG muscle degeneracy.
+
+🎤 SPEAKER_4 [910s - 914s]
+Those aren't very large improvements. I suppose every little bit helps.
+
+🎤 SPEAKER_12 [915s - 935s]
+Shepherd, this is a field in which improvements 2% are dramatic enough to panic. I find it difficult to believe for 30 k credits per head. For a bulk order, I can work in a sensory enhancement package guaranteed twenty fifteen vision and hearing from 12 to twenty two zero hertz.
+
+🎤 SPEAKER_4 [939s - 942s]
+Are you sure that's the best price you can offer?
+
+🎤 SPEAKER_12 [942s - 958s]
+Absolutely. That's the standard rate. Of course, if the government moves forward with this on an official level, there might be some additional discounts. I have to admit, it surprised me that you're here for business. There are many development projects on our very end, some not entirely.
+
+🎤 SPEAKER_4 [961s - 965s]
+Does binary helix have any less than above board projects? Keep my source comprehensive.
+
+🎤 SPEAKER_12 [967s - 978s]
+Certainly not. Our corporate reputation is sterling. I can assure you all are binary helix's operations on the very are strictly on the level.
+
+🎤 SPEAKER_4 [986s - 988s]
+Sounds like my crew needs me for something.
+
+👤 あなた [988s - 988s]
+I'll be in touch.
+
+🎤 SPEAKER_12 [989s - 990s]
+Of course, Commander Chevrolet.
+
+🎤 SPEAKER_7 [999s - 1000s]
+Any results?
+
+🎤 SPEAKER_4 [1002s - 1003s]
+Your toy did its job.
+
+🎤 SPEAKER_15 [1004s - 1007s]
+Excellent. I will transfer 500 credits to your account.
+
+🎤 SPEAKER_4 [1008s - 1011s]
+I could easily call mister Vargas and tell him what I just did.
+
+🎤 SPEAKER_15 [1012s - 1018s]
+Did I see 500 credits? I meant $7.50. Good day,
+
+🎤 SPEAKER_7 [1018s - 1018s]
+Spector.
+
+🎤 SPEAKER_7 [1026s - 1027s]
+Afternoon.
+
+🎤 SPEAKER_12 [1027s - 1029s]
+Sit down. Have a drink.
+
+🎤 SPEAKER_2 [1029s - 1030s]
+What can I do for you?
+
+🎤 SPEAKER_4 [1030s - 1033s]
+Are you Laura King? I heard you might be able to help me.
+
+🎤 SPEAKER_12 [1033s - 1035s]
+You are the specter that just
+
+🎤 SPEAKER_4 [1043s - 1044s]
+I have places to go.
+
+🎤 SPEAKER_1 [1046s - 1047s]
+You need to pass.
+
+🎤 SPEAKER_2 [1048s - 1056s]
+How fortuitous. I'm the manager of the local synthetic insights office. For the moment, please.
+
+🎤 SPEAKER_12 [1056s - 1065s]
+Mister Amaleus closed my office He claims to be investigating reports of my corruption. The control of rents.
+
+🎤 SPEAKER_4 [1068s - 1070s]
+By rents, you mean bribes for analytics.
+
+🎤 SPEAKER_12 [1071s - 1075s]
+Indeed. I acquired evidence of Analeus' actions. His high
+
+🎤 SPEAKER_12 [1080s - 1093s]
+I suspect your goal lies outside this port. Mister Adeleus would be disinclined to let you wander. If you recover the evidence from my office, I will give you my garage pass as well as a stop of credits.
+
+🎤 SPEAKER_4 [1098s - 1099s]
+That sounds like a fair trade.
+
+🎤 SPEAKER_12 [1101s - 1104s]
+Violence against mister Annelius's thoughts may be necessary.
+
+🎤 SPEAKER_16 [1104s - 1109s]
+He has members of Han Chan's security team searching my offices. He's
+
+🎤 SPEAKER_16 [1112s - 1112s]
+He's outside employment.
+
+🎤 SPEAKER_4 [1112s - 1116s]
+If he's paying them under the table, there were Excellent.
+
+🎤 SPEAKER_16 [1120s - 1124s]
+Here is my pass into our offices. People like to
+
+🎤 SPEAKER_16 [1130s - 1136s]
+Slide it into the drive and it will auto execute. Oh, and do try to keep bloodstains off the carpets, would you?
+
+🎤 SPEAKER_7 [1221s - 1222s]
+Freeze.
+
+🎤 SPEAKER_8 [1222s - 1224s]
+Handshan security. This office is sealed.
+
+🎤 SPEAKER_4 [1226s - 1228s]
+Lorike King gave me a pass in.
+
+🎤 SPEAKER_15 [1229s - 1230s]
+King? Are you working for him?
+
+🎤 SPEAKER_13 [1230s - 1232s]
+He's under investigation.
+
+🎤 SPEAKER_4 [1233s - 1236s]
+I don't have time for this. Get the hell out of here or I'll start shooting.
+
+🎤 SPEAKER_11 [1236s - 1238s]
+You want a third travel?
+
+👤 あなた [1241s - 1242s]
+Fortunately for you,
+
+🎤 SPEAKER_7 [1245s - 1246s]
+You're cooked.
+
+🎤 SPEAKER_7 [1250s - 1250s]
+And you
+
+
+---
+
