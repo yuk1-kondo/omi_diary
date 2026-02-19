@@ -1447,3 +1447,236 @@ Bloody not realized.
 
 ---
 
+
+
+## 📝 Analyzing Ezekiel’s Gog Oracle and Yahweh’s Holiness - f717e4b0-870d-44d9-bafd-1ce126c32ad2
+
+**記録時間**: 2026-02-20 01:23:00
+
+### STT生テキスト
+
+🎤 SPEAKER_15 [111s - 120s]
+Question, like, so The significance of women's 38, 14, twenty three The previous chapters promise a new heart in the resurrection of the dry of dry bones. However, the matter of axill threat, and so the security of this reservation is not resolved.
+
+🎤 SPEAKER_15 [120s - 128s]
+John W Hilbert describes chapters 38, 39 functionally as the as a as an as a bracket end
+
+🎤 SPEAKER_15 [135s - 163s]
+We'll see such as complementing The scrubs as an end bracket.
+
+🎤 SPEAKER_15 [239s - 240s]
+That's a complimenting chapter.
+
+🎤 SPEAKER_15 [265s - 268s]
+Periscopes significant sink can be understood as the final step for the restoration.
+
+🎤 SPEAKER_15 [277s - 284s]
+In short, this role the role of this passage within Ezekiel is as a theoscal bridge to the final chapter, Yahweh's no resolves.
+
+🎤 SPEAKER_15 [289s - 291s]
+Shall be telling that the paycope is deliberate.
+
+🎤 SPEAKER_15 [295s - 302s]
+Leading the audience ultimately towards regular scenarios. Regarding questions of agency, scholarly detentions remain.
+
+🎤 SPEAKER_15 [312s - 318s]
+For Margaret Marque Odel, Gog is a defiant rebel, not an agent of Yahweh. He is not an instrument of judgment. For his plans of his own.
+
+🎤 SPEAKER_15 [320s - 329s]
+Whilst Daniel our block emphasizes that Gog's actions are initiated by await service done on purpose. However, the structural arrangement of the text appears to leave a room for a synthesized position.
+
+🎤 SPEAKER_15 [330s - 343s]
+Example, in verse 15, Goggs intentions seem self devised. He gathers a great host, a mighty army, to rise up like a cloud curtain. However, structurally, verse 15 is between verses fourteen and sixteen.
+
+🎤 SPEAKER_10 [348s - 350s]
+And reveals gog suction.
+
+🎤 SPEAKER_15 [356s - 362s]
+That reveals in verse 14, Yahweh is reveal reveals that he he knows Gog's intentions and, in fact, it is.
+
+🎤 SPEAKER_15 [374s - 402s]
+He Yahweh's purpose in move of it moving. Not to bring judgment upon his people, but so that the nations may know me when you are god I haven't Structurally, then, before the confract begins, Yahweh speaks first and last revealing as both an enemy and an agent of let's see see Adams translation of a 16 as well, Yahweh's use.
+
+🎤 SPEAKER_15 [420s - 429s]
+I will send you to invade my country with the intent that the other nations may acknowledge me when they see me using you, o god, to reveal my transcendent holiness.
+
+🎤 SPEAKER_15 [430s - 437s]
+As John f notes, the recognition formula is the beat of the book and serves to structurally unify the various elements of the book around
+
+🎤 SPEAKER_15 [442s - 454s]
+Wider point is also true here where for the 17 marks a structural halt. To the narrative and introduces a degree of of interpretation through retrospection.
+
+🎤 SPEAKER_15 [455s - 461s]
+Black writes that the verse portrays and self-controflection on history of Israel. For Alan, the phrase my servants, the puppets.
+
+🎤 SPEAKER_15 [463s - 476s]
+Has a deuteronic stick uteronic stick ring. And there are refrains of familiar prophecies too. So verse 17 then seems to be vague and anchored from specific prophecies or profits making
+
+🎤 SPEAKER_15 [484s - 492s]
+Making the emphasis here more theological than historical. Gogg does not seem to be this historical From the North, Gogs, armies,
+
+🎤 SPEAKER_15 [508s - 517s]
+First 18 transitional shift focus from Goggs movements. Response firstly is Yahweh's wrath verse 18 that culminates in the of divine judgment.
+
+🎤 SPEAKER_15 [518s - 533s]
+In verse 23. The structure does not climax with god's feet or safety for Yahweh's people. But in Yahweh's revelation of his threefold intent and purposes behind his actions, to display his grip.
+
+🎤 SPEAKER_15 [556s - 566s]
+The structure flow then ensures that the reader naturally arrives at the recognition hourly's greatness. Entry of verse eighteen fifty leaves the reader unable to view our construct as historical military encounter.
+
+🎤 SPEAKER_15 [567s - 581s]
+More broadly, the passage reveals Yahweh's holiness through imagery of cosmic judgments and added upon his enemies. Although the cosmic elements and the symbolic density of this passage is led. Sun describe the
+
+🎤 SPEAKER_15 [586s - 601s]
+This passage according to John Golden Gate as miss missing many defining in it features of references in revelation also often need also often lead the often leads to a skeleton is called lead anarches.
+
+🎤 SPEAKER_15 [601s - 612s]
+However, the focus of the imagery here is to maximize Yahweh's acts of self manifestation of his glory and humbleness. In verse nineteen twenty, the imagery expands the action beyond the military encounter.
+
+🎤 SPEAKER_15 [613s - 634s]
+To view the judgments that Yahweh is an act upon his creation imagery in verse when it's clear Hilbert writes that use utilizing the passage Robertson notes that, he's cosmic actions are comparable to the entire of Noah's floods.
+
+🎤 SPEAKER_15 [635s - 639s]
+The mountains and cliffs are brought down by the great earthquake and imagery of Yahweh's shaking.
+
+👤 あなた [641s - 645s]
+Divinely. Grounded stability.
+
+🎤 SPEAKER_15 [646s - 659s]
+The image here is of Yahweh engaging in what Hillbird describes as divine warfare. Alongside the cosmic assault Yahweh saw its confusion lead into his self destructing in verse twenty one and twenty two.
+
+🎤 SPEAKER_15 [674s - 680s]
+Company that Durant Worth is the Nothic Imagery. First 20, describe the All the people
+
+🎤 SPEAKER_15 [696s - 701s]
+For block, these verses are a reminiscent of the quaking of the earth beneath the feet of the shites when Yahweh stepped down on the mountain.
+
+🎤 SPEAKER_15 [703s - 705s]
+The sole victims of the forced his
+
+🎤 SPEAKER_15 [714s - 730s]
+Earth's real earthly reality being invaded by the chaos monster. Chaos monster is rhetorical imagery, not cosmology and descriptive of the symbolic language utilized by sequel this vine power and holiness of Yahweh.
+
+🎤 SPEAKER_15 [730s - 737s]
+The imagery of Yahweh's mastery of chaos and theophic language are elements of a wide intention by Yahweh to recall the Exodus.
+
+🎤 SPEAKER_15 [738s - 757s]
+In summary, the passage is is rich in imagery and elevates and elevates the oral call above a conflict. Bound in history even when language wrath of language is found is used to employ familiar of Yahweh's actions against his enemies.
+
+🎤 SPEAKER_15 [759s - 765s]
+Therefore, the our cause intention is not to predict few events, but to persuade the audience to look to how his all woman's presence and his actions to have indicate his name.
+
+🎤 SPEAKER_15 [770s - 772s]
+Literally, the oracle's aim is to sway Firstly, the local structure and the right trick.
+
+👤 あなた [787s - 797s]
+Exposed to possibly that Yahweh's enemies have agency. Rony is rhetorically deployed to persuade audiences point.
+
+🎤 SPEAKER_15 [798s - 827s]
+God is Yahweh's dupe plan in evil, but Yahweh repeatedly asserts control for his own purposes. The retic then teaches the audience to not place trust in appearances or to fear seemingly overwhelming Amy's, instead to trust and recognize how he's holding us and where it is. Second, they are called the dominance by Yahweh speaking, narrating the events before they occur, teaching the how to interpret history. Now he speaks often in first person I will bring, I vindicate, I declare.
+
+👤 あなた [828s - 828s]
+I will summon.
+
+🎤 SPEAKER_15 [829s - 841s]
+I will answer. I will reign upon. I will show my greatness and my holiness. The aim here is to force the audience to view the events as subject to Yahweh's sovereign personality. Thirdly, the lack of need of defenses.
+
+🎤 SPEAKER_15 [843s - 854s]
+Supposedly, the lack of of the of need lack of need of defenses, walls or armies are left. I have to lead Yahweh's people to the conviction that they are to depend on.
+
+🎤 SPEAKER_15 [855s - 870s]
+The primary purpose of this passage is not to bring assurance to Yahweh's people in exile for revision of his military might, The purpose is to resolve the theological problem created by the exile, which is how he's done in red.
+
+🎤 SPEAKER_15 [870s - 881s]
+Reputation around the nations. The nations would have witnessed the Babylonian XL. An apparent lack, an apparent and apparent lack of protection.
+
+🎤 SPEAKER_15 [884s - 904s]
+By your way, most people To unlock in nations, defeated shame people among to the defeated shame deity. The vindication of Yahweh's reputation among the nations is achieved both through the return of its people to their land and by demonstration of power as he easily he's the strongest possible to show his enemies.
+
+👤 あなた [906s - 916s]
+God, the representative of this enemy is not they agent through whom god soon has manifested. But simply the locus of the revelation where it's blocked.
+
+🎤 SPEAKER_15 [923s - 925s]
+The of god then It's not the main purpose of the Oracle.
+
+👤 あなた [925s - 928s]
+But the means through which I always manifest this holiness.
+
+🎤 SPEAKER_15 [929s - 940s]
+The conflict is manufactured for the sake of Yahweh's self revelation. In summary, the purpose of the occult was beyond reassuring people of Yahweh's protection
+
+🎤 SPEAKER_15 [968s - 971s]
+The field score message is succinctly stated by
+
+🎤 SPEAKER_2 [971s - 971s]
+Yahweh.
+
+🎤 SPEAKER_15 [976s - 987s]
+Interestingly, the people of Yahweh do not have a role to play in the conflict. There are no commands issued, no cords of arms. The realm technists in this arm not Yahweh in Israel, but Yahweh in Gok.
+
+🎤 SPEAKER_15 [987s - 996s]
+The theological message here is that Yahweh's people are to find rescue at you not in the walls of him, in fierce actions. Sort of, yes, defend people but ultimate security.
+
+🎤 SPEAKER_15 [997s - 1000s]
+Is a result of Yahweh's compulsion to vindicate its reputation.
+
+👤 あなた [1002s - 1004s]
+And declare his own yes.
+
+🎤 SPEAKER_15 [1004s - 1017s]
+The other the judgment enacted by god upon his enemies is just the means the central point. The increased armature guard for lines, the recognition formula is used to argue that both Israel and the nations will come to a new acknowledge of god.
+
+🎤 SPEAKER_15 [1018s - 1030s]
+However, increased knowledge of Yahweh in Israel and among the nations do not comment the same results. The recognition of Yahweh by the nations does not imply an in in a conversion, but rather that they are forced to be compelled to bow down to Yahweh's power route.
+
+🎤 SPEAKER_15 [1031s - 1044s]
+Nor does recognition signify covenant inclusion of the nations. Or call for them to trust. And worship Yahweh. Well, Israel knows Yahweh as the god of the covenant this knowledge among the nations.
+
+🎤 SPEAKER_15 [1045s - 1047s]
+Is experiences upward wrath, not relationship.
+
+👤 あなた [1049s - 1056s]
+Through the return of his people to their land and the complete destruction of his enemies, Yahweh has reversed the trauma of the exile.
+
+🎤 SPEAKER_15 [1056s - 1060s]
+However, this oracle's primary theoretical message is Yahweh's revealing himself.
+
+👤 あなた [1060s - 1061s]
+To his creation.
+
+🎤 SPEAKER_15 [1062s - 1067s]
+The theocentricity of the theological message of this passage is consistent then with the book of as a whole.
+
+🎤 SPEAKER_15 [1071s - 1087s]
+This essay is demonstrate through exploration of the structure that this passage is steocentric and that's about Yahweh. It's about the indication and restoration of Yahweh's reputation and a manifestation of his holiness revealed through his pulled up wrath upon his enemies.
+
+🎤 SPEAKER_15 [1087s - 1101s]
+The structure of the text exposes Gog as an instrument used by Yahweh to Whereas the imagery elevates this passage above an historical military, encounter through the use of cosmic warfare
+
+🎤 SPEAKER_15 [1104s - 1107s]
+Rhetorically, the passage has raised the audience to recognize.
+
+🎤 SPEAKER_15 [1112s - 1114s]
+The person's passage the conflict is the means through which Yahweh shows his grip.
+
+👤 あなた [1115s - 1118s]
+So makes himself known as Christian to both his people and the Mizabhak.
+
+🎤 SPEAKER_15 [1120s - 1127s]
+Right. I think we are done. I'm not doing anymore. Not happening.
+
+👤 あなた [1148s - 1150s]
+As I can do, to be honest with you.
+
+👤 あなた [1159s - 1161s]
+Two one seven four.
+
+🎤 SPEAKER_15 [1172s - 1174s]
+Any angels cry Only only
+
+🎤 SPEAKER_15 [1229s - 1234s]
+Mixture three. Five six seven.
+
+
+---
+
