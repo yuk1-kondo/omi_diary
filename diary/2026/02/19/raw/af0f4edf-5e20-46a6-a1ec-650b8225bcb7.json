@@ -1,0 +1,90 @@
+{
+  "id": "af0f4edf-5e20-46a6-a1ec-650b8225bcb7",
+  "created_at": "2026-02-19T03:48:51.688050+00:00",
+  "started_at": "2026-02-19T03:35:43.672148+00:00",
+  "finished_at": "2026-02-19T03:51:21.553679+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "ドッキリ企画のアイデア相談",
+    "overview": "会話参加者が「時間がないから、ドッキリを仕掛ける系の企画がいい」と話し、短時間で実行可能なドッキリ企画を前向きに検討している様子がうかがえる。",
+    "emoji": "🎭",
+    "category": "entertainment",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2df39534-c01d-48e0-afc7-67089ca4f18f",
+      "text": "僕も時間がないから ドッキリ仕掛ける系 いいね 行ける",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.8991701128688874e-07,
+      "end": 39.96549971008295,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "e18ef921-0ddc-42ae-a0aa-d9860aea6807",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "af0f4edf-5e20-46a6-a1ec-650b8225bcb7",
+      "chunk_timestamps": [
+        1771472930.74,
+        1771472935.936,
+        1771472941.056,
+        1771472946.327,
+        1771472951.341,
+        1771472956.519,
+        1771472962.105,
+        1771472967.103,
+        1771472972.186,
+        1771472977.26,
+        1771472983.614,
+        1771472988.699,
+        1771472993.632,
+        1771472998.702,
+        1771473004.299,
+        1771473009.651,
+        1771473014.837,
+        1771473019.952,
+        1771473025.224,
+        1771473030.475,
+        1771473035.645
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-19T03:48:50.740000+00:00",
+      "duration": 109.905
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## ドッキリの方向性合意\n- 時間がない前提を共有  \n- ドッキリを仕掛ける企画で合意  \n- 「行ける」と実行への前向きな返答  \n\n## 次のステップ\n- 具体的なドッキリ内容を決める  \n- 短時間で実行できる段取りを組む"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
