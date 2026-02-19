@@ -1572,3 +1572,38 @@ Breaking news about Andrew Mountbatten Windsor as he calls himself at the moment
 
 ---
 
+
+
+## 📝 Streamer Reacts to Sacrificial Relationship Story - bd48e6eb-0c09-4b6e-a44b-db6b4bdc4261
+
+**記録時間**: 2026-02-19 21:22:19
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+Nine four.
+
+🎤 SPEAKER_2 [1s - 3s]
+Let me just put it right there. Just an autograph.
+
+👤 あなた [6s - 7s]
+I'm not gonna sign
+
+🎤 SPEAKER_2 [7s - 14s]
+Okay. Nine four. Let me just put it right there. Just an autograph.
+
+🎤 SPEAKER_3 [18s - 53s]
+Imagine you start dating a girl when you're 17, and just a few weeks later, she moves in with you, and begin living together. After a few years you decide to propose. She says yes but then tragedy strikes your future wife is diagnosed with cancer. You're a professional valorant player, one of the most beloved in the entire world. But you decide to walk away at the peak of your career to take care of your health. You start donating your own blood and other things because your genes are compatible. You take care of every expense, medical bills, apartment rent, household costs, and pleasures for both you and your girlfriend. You accompany her every step of the way.
+
+🎤 SPEAKER_3 [61s - 74s]
+Exponentially in no time. Meanwhile, you have to push your own channel to the back And in the end, after doing all of this, all this sacrifice, she decides to leave you because she needs to discover herself.
+
+🎤 SPEAKER_3 [77s - 88s]
+Imagine you dating a girl when you're 17 and just a few weeks later, moves in with you and you begin living together. After a few years you decide propose. She says yes, but then tragedy strikes your future
+
+👤 あなた [182s - 186s]
+Probably get for less than that. I already own it, to be honest.
+
+
+---
+
