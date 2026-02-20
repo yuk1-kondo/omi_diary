@@ -2036,3 +2036,101 @@ Elliot, can you anybody help to breakfast with them? I know you have it. Dope, d
 
 ---
 
+
+
+## 📝 Family Gets Ready And Talks Morning Plans - 29080473-af06-436a-b52a-04ef407179de
+
+**記録時間**: 2026-02-20 18:47:07
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 2s]
+Mhmm. Whether it's like bloatedness Yeah.
+
+🎤 SPEAKER_2 [9s - 10s]
+Well done.
+
+👤 あなた [12s - 14s]
+Now good job. I'm just gonna that it by the minute. Cheers to me.
+
+🎤 SPEAKER_2 [27s - 29s]
+Right. Hang on.
+
+🎤 SPEAKER_3 [29s - 29s]
+Hang on.
+
+🎤 SPEAKER_2 [29s - 30s]
+Stop. Don't
+
+🎤 SPEAKER_3 [30s - 30s]
+slam.
+
+👤 あなた [31s - 35s]
+Oh my god. You can carry carry on with this a minute. Should get changed first. No. You said
+
+👤 あなた [38s - 39s]
+Right. Right.
+
+🎤 SPEAKER_3 [39s - 40s]
+Listen.
+
+👤 あなた [40s - 43s]
+Listen. I'll give you a few options anyway. I've gone for the option.
+
+👤 あなた [47s - 60s]
+But I've got a t shirt for that. Or Jude, wait there. Wait there, Jude. Oh, right. Can you pause that a sec? Yes.
+
+🎤 SPEAKER_2 [60s - 61s]
+What?
+
+🎤 SPEAKER_3 [61s - 61s]
+Jude, good listing, please.
+
+🎤 SPEAKER_2 [63s - 68s]
+Orskins. I want the tracksis. Right. Okay. No.
+
+👤 あなた [68s - 73s]
+You gotta do what t shirt do you want? With it?
+
+🎤 SPEAKER_3 [73s - 74s]
+Like a black t shirt.
+
+🎤 SPEAKER_2 [74s - 76s]
+The black and white one.
+
+👤 あなた [76s - 82s]
+Black and white and quit in in Eurasia. It's not like they're
+
+🎤 SPEAKER_2 [82s - 86s]
+not gonna see the big giant chest plate thingy when chiggy on True.
+
+🎤 SPEAKER_3 [86s - 95s]
+Alright. Here's pants and socks. So it doesn't have any Right. Elliot, can you give Toby some show her how to do some breakfast, please. Oh, that's
+
+🎤 SPEAKER_2 [94s - 94s]
+Omi.
+
+🎤 SPEAKER_3 [95s - 96s]
+She's gonna get changed No.
+
+🎤 SPEAKER_1 [105s - 115s]
+Surgery's been cancelled. Oh, no. It's a short saw that in the news. Yeah. They've been told to prioritise our leave broken hips.
+
+👤 あなた [115s - 116s]
+Oh, no. Over.
+
+🎤 SPEAKER_2 [117s - 117s]
+Yeah.
+
+🎤 SPEAKER_3 [117s - 118s]
+No.
+
+🎤 SPEAKER_3 [147s - 154s]
+Are you quick whilst they're out there? I'll give you three t shirt options. If you don't like any of them, pick your own one up says. Alright? I can't find any more than that.
+
+🎤 SPEAKER_3 [154s - 157s]
+I couldn't find it. That's why I got those
+
+
+---
+
