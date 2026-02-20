@@ -2468,3 +2468,308 @@ His children fall over these scraps of his like hiatus. Or so I read.
 
 ---
 
+
+
+## 📝 Molestia Investigates Peak 15 Outbreak - 3f7bd610-ff62-460d-9390-b375f4ae75af
+
+**記録時間**: 2026-02-20 19:11:44
+
+### STT生テキスト
+
+🎤 SPEAKER_5 [0s - 1s]
+Sorry. We couldn't be sure what was on the tram.
+
+🎤 SPEAKER_1 [6s - 7s]
+Can those work at trains controls?
+
+🎤 SPEAKER_12 [8s - 15s]
+Hell if I know. I'm not assuming any goddamn thing. Look. You're human, and that's enough that I won't shoot. I'd like to know who you are.
+
+🎤 SPEAKER_11 [15s - 17s]
+My name's I'm a Spectre.
+
+🎤 SPEAKER_12 [19s - 28s]
+I won't look at Evelyn for us in the mouth. The aliens overran the hot labs last week, only Han Olar got outed. He ain't all there anymore.
+
+🎤 SPEAKER_12 [29s - 34s]
+First, we knew the bastards were clawing into my command post. He had a lot more staff then.
+
+🎤 SPEAKER_1 [35s - 37s]
+I'm packing fire and steel.
+
+🎤 SPEAKER_7 [37s - 39s]
+Wanna fight with claws and teeth. It's their funeral.
+
+🎤 SPEAKER_12 [40s - 46s]
+You got my support. The board sent an assorry to clean up the mess. She went to the hot labs yesterday, and we haven't heard from her since.
+
+🎤 SPEAKER_2 [49s - 50s]
+Ignisia.
+
+🎤 SPEAKER_7 [50s - 51s]
+She still over there?
+
+🎤 SPEAKER_2 [51s - 52s]
+I don't know.
+
+🎤 SPEAKER_12 [52s - 54s]
+I don't see what one person could do.
+
+🎤 SPEAKER_2 [54s - 57s]
+A matriarch has the skill to keep herself alive for a long time.
+
+🎤 SPEAKER_12 [58s - 68s]
+There's an emergency elevator out by the trams. This card will let you activate it. Can take you down to the hot labs. If you need any first aid, doctor Cohen's downstairs in the Med Bay.
+
+🎤 SPEAKER_7 [68s - 71s]
+I need to know more about the situation in the hot labs.
+
+🎤 SPEAKER_12 [71s - 77s]
+Facility's off the network. The only way to find out would be to send down the elevator, and I won't send my people to their death.
+
+🎤 SPEAKER_7 [78s - 82s]
+Did the aliens come from inside the facility, or did they attack from the outside?
+
+🎤 SPEAKER_12 [82s - 87s]
+You want my personal opinion? Labs like that existed in stupid crap that gets people killed.
+
+🎤 SPEAKER_7 [90s - 92s]
+You're certain the matriarch is still in the hot labs?
+
+🎤 SPEAKER_12 [92s - 96s]
+Hasn't come back here. You came through central station, so she ain't there. I've got work to do.
+
+🎤 SPEAKER_7 [96s - 97s]
+Yeah.
+
+🎤 SPEAKER_12 [97s - 98s]
+I hear that.
+
+🎤 SPEAKER_9 [101s - 102s]
+Hell, man, the perimeter.
+
+🎤 SPEAKER_7 [131s - 132s]
+Omi the door secured.
+
+🎤 SPEAKER_2 [139s - 140s]
+Thanks for the help.
+
+🎤 SPEAKER_7 [147s - 150s]
+Every few hours They always attack here? An obvious kill zone.
+
+🎤 SPEAKER_12 [151s - 156s]
+Their only other option is over the mountain and down through the ducts. They freeze like everyone else.
+
+🎤 SPEAKER_12 [156s - 162s]
+I don't know why they keep throwing themselves against our defenses. Even animals should learn not to stick their noses where it hurts.
+
+👤 あなた [223s - 225s]
+Might turn these hotels on just
+
+🎤 SPEAKER_2 [248s - 248s]
+What?
+
+🎤 SPEAKER_7 [251s - 255s]
+Do you know matriarch Venetia?
+
+🎤 SPEAKER_11 [256s - 257s]
+Why ask me, and not your friend?
+
+🎤 SPEAKER_7 [259s - 261s]
+Because I do not know anything about the matriarch.
+
+🎤 SPEAKER_2 [262s - 263s]
+Then why would I?
+
+🎤 SPEAKER_7 [265s - 269s]
+You're a member of the science teams. Recently transferred.
+
+🎤 SPEAKER_2 [269s - 269s]
+Yes.
+
+🎤 SPEAKER_7 [269s - 270s]
+What do you do here?
+
+🎤 SPEAKER_2 [271s - 275s]
+Molecular genetics. I specialize in biotic enhanced allele specific hybridization.
+
+🎤 SPEAKER_7 [277s - 286s]
+Think you could translate that into galactic? It's a genetic thing. Forget it. You seem less upset about this situation than the others.
+
+🎤 SPEAKER_2 [287s - 290s]
+That is one of the virtues of the meditation you interrupted.
+
+🎤 SPEAKER_7 [294s - 306s]
+Tell me about yourself. I am Molestia I Alice from the University of Arrays. Is there anything in particular you wanna know, or should I just spout random facts? No need to be so rude. You are interrupting my meditation.
+
+🎤 SPEAKER_7 [307s - 308s]
+Precisely Sorry. I'll leave.
+
+🎤 SPEAKER_2 [311s - 316s]
+Then I will return to my meditations. I'm certain.
+
+🎤 SPEAKER_9 [318s - 319s]
+I welcome you.
+
+🎤 SPEAKER_2 [320s - 321s]
+Cautiously.
+
+🎤 SPEAKER_9 [322s - 325s]
+I am curious to know what you're doing here.
+
+🎤 SPEAKER_7 [325s - 327s]
+See. I've been caught up in events.
+
+🎤 SPEAKER_3 [328s - 329s]
+Sympathetically.
+
+🎤 SPEAKER_2 [330s - 340s]
+Everyone here could say the same. We're now with forced peer. I still have a limited supply of equipment to sell.
+
+🎤 SPEAKER_7 [341s - 344s]
+Given the situation, you should freely contribute to the Pointedly.
+
+🎤 SPEAKER_9 [346s - 349s]
+I give freely to captain Bentralis.
+
+🎤 SPEAKER_2 [350s - 355s]
+You Let's have a look. Regretfully, most of myself.
+
+🎤 SPEAKER_2 [469s - 470s]
+It's pleasant Let's have a look.
+
+🎤 SPEAKER_9 [470s - 471s]
+Regretfully.
+
+🎤 SPEAKER_7 [488s - 490s]
+It's pleasant. Let's have a look.
+
+🎤 SPEAKER_2 [490s - 490s]
+Regretfully.
+
+🎤 SPEAKER_2 [517s - 518s]
+What? No.
+
+🎤 SPEAKER_2 [522s - 523s]
+Sorry.
+
+🎤 SPEAKER_8 [523s - 525s]
+I haven't had much sleep since the attack.
+
+🎤 SPEAKER_7 [526s - 528s]
+I'm looking for an Asari.
+
+🎤 SPEAKER_11 [529s - 533s]
+A Well, there's doctor. There's also our guest, Lady Benezia, captain Ventura.
+
+🎤 SPEAKER_7 [535s - 537s]
+How are you holding up?
+
+🎤 SPEAKER_13 [538s - 542s]
+It would be petty to complain at showering off a coworker's brain. None of us have had enough sleep sleep.
+
+🎤 SPEAKER_11 [542s - 542s]
+I'll talk to you.
+
+🎤 SPEAKER_7 [547s - 549s]
+Remember to You gotta smoke? We're all out.
+
+🎤 SPEAKER_2 [583s - 585s]
+What what do you want?
+
+🎤 SPEAKER_7 [586s - 589s]
+I've had a long day. Don't piss me off.
+
+🎤 SPEAKER_5 [591s - 592s]
+Yes. I'm sorry.
+
+🎤 SPEAKER_9 [592s - 594s]
+Haven't had much sleeping.
+
+🎤 SPEAKER_2 [594s - 597s]
+What happened to these people? They're suffering from a toxin.
+
+🎤 SPEAKER_5 [597s - 607s]
+Was an accident. I have a nondisclosure agreement. Shouldn't discuss it with anyone outside the city. Yourself? I'm just trying to avoid an incident.
+
+🎤 SPEAKER_7 [608s - 609s]
+What happened to these people?
+
+🎤 SPEAKER_5 [609s - 611s]
+I have a nondisclosured agreement.
+
+🎤 SPEAKER_3 [611s - 612s]
+But you're going.
+
+🎤 SPEAKER_7 [612s - 613s]
+To because I might be able to help.
+
+🎤 SPEAKER_5 [614s - 622s]
+I'd like to think that the company funds our lives more valuable than them. You know Mira, the v I for peak 15? She handles the safety protocols for our here.
+
+🎤 SPEAKER_7 [624s - 626s]
+We reactivated her on our way through Central Station
+
+🎤 SPEAKER_5 [627s - 638s]
+That was you. I'm Greg Until she came online, the automatic equipment wouldn't work. We lost the connection to near the middle of an experiment. These three were exposed to a toxin, something we were working on.
+
+🎤 SPEAKER_7 [640s - 644s]
+Congratulations. You made an illegal bioweapon. You think to make a cure for it?
+
+🎤 SPEAKER_5 [646s - 657s]
+Our first priority was getting it working. We were close to synthesizing an attitude. Our notes and equipment are locked in the quarantine labs. Captain Ventrales doesn't want to risk more contamination.
+
+🎤 SPEAKER_7 [658s - 660s]
+Is he right to keep people up?
+
+🎤 SPEAKER_5 [660s - 666s]
+No. The Totten has a brief period of bility. After that, breaks down into simple protein chains.
+
+🎤 SPEAKER_7 [666s - 668s]
+But he put this I'll talk to Ventura for you, but I don't have the training for that.
+
+🎤 SPEAKER_2 [669s - 669s]
+No.
+
+🎤 SPEAKER_5 [669s - 670s]
+Of course.
+
+🎤 SPEAKER_7 [671s - 671s]
+Talk to you later.
+
+🎤 SPEAKER_5 [672s - 673s]
+I hope you can do something.
+
+🎤 SPEAKER_2 [693s - 694s]
+Warning.
+
+🎤 SPEAKER_11 [694s - 695s]
+Watched up protocol is active.
+
+🎤 SPEAKER_12 [743s - 744s]
+Something you need?
+
+🎤 SPEAKER_7 [746s - 747s]
+I got work to do.
+
+🎤 SPEAKER_12 [747s - 748s]
+You and me both.
+
+🎤 SPEAKER_5 [787s - 789s]
+Moss, what what do you want?
+
+🎤 SPEAKER_14 [789s - 789s]
+BSN sorry.
+
+🎤 SPEAKER_5 [789s - 799s]
+I have a nondiscord. You know me and other. We these three were to a toxin, something we've obtained. Our notes and equipment. Our locked in the quarantine labs.
+
+🎤 SPEAKER_2 [799s - 802s]
+Come. No. Talk to you later. I hope you can do something.
+
+🎤 SPEAKER_11 [818s - 819s]
+Where did they come from?
+
+
+---
+
