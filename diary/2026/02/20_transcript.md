@@ -1947,3 +1947,92 @@ No. I had
 
 ---
 
+
+
+## 📝 Family Morning Game Disagreement - f8f48fae-97db-4f69-8540-7347794f3ba4
+
+**記録時間**: 2026-02-20 18:36:15
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+What was this getting? The burrito, is it?
+
+👤 あなた [7s - 7s]
+Judo.
+
+🎤 SPEAKER_2 [17s - 21s]
+Remember? Just come off? Oh.
+
+👤 あなた [21s - 22s]
+I'm so ready. That's some reason.
+
+👤 あなた [30s - 31s]
+Just maybe Sorry, son.
+
+🎤 SPEAKER_2 [90s - 90s]
+On.
+
+👤 あなた [99s - 101s]
+Who have bounced off the line loads?
+
+👤 あなた [166s - 168s]
+To chew chew chewed into that.
+
+🎤 SPEAKER_2 [168s - 173s]
+I did too wait I went down so many places.
+
+👤 あなた [175s - 180s]
+Yeah. Do you know how do you anything that tricks that if you're in a bad run, best pause and go on a different game.
+
+🎤 SPEAKER_2 [181s - 190s]
+Because seven. Now I'm division one. I've not so many places. I'm not games in a row.
+
+👤 あなた [196s - 198s]
+Oh, well. It's all the learning curves then. Alright. Come on then.
+
+🎤 SPEAKER_2 [198s - 200s]
+I think no.
+
+👤 あなた [200s - 200s]
+Don't don't be naughty.
+
+🎤 SPEAKER_2 [200s - 201s]
+No.
+
+👤 あなた [201s - 203s]
+You're not playing again.
+
+🎤 SPEAKER_2 [203s - 204s]
+You are not playing again.
+
+👤 あなた [206s - 210s]
+Mommy made it very clear. What do you mean what I'm doing?
+
+🎤 SPEAKER_1 [211s - 218s]
+Jude, you know you know what a you.
+
+👤 あなた [246s - 249s]
+Do know what? Let me tell you, mate. Who's giving more time?
+
+👤 あなた [268s - 270s]
+Past Dude, you've been a bit mean to me this morning.
+
+🎤 SPEAKER_2 [272s - 277s]
+No. No. I'll tell you why. Because we've got you're leaving in a minute. Because Yes.
+
+🎤 SPEAKER_3 [277s - 278s]
+You're not into it.
+
+🎤 SPEAKER_2 [278s - 281s]
+We can't put it on.
+
+🎤 SPEAKER_2 [285s - 288s]
+Alright. I'll take it.
+
+👤 あなた [288s - 292s]
+Elliot, can you anybody help to breakfast with them? I know you have it. Dope, do you have normally breakfast?
+
+
+---
+
