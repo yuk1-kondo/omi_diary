@@ -3227,3 +3227,182 @@ I now really realize I should have been strange.
 
 ---
 
+
+
+## 📝 Molestia and Omi Decide Rachni Queen’s Fate - dd946557-6487-4601-9918-d4c4cc881001
+
+**記録時間**: 2026-02-20 20:00:13
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 2s]
+Filled with his light. Everything is clear.
+
+🎤 SPEAKER_7 [11s - 13s]
+The wreck knight didn't cooperate with you. Why should I?
+
+🎤 SPEAKER_7 [17s - 19s]
+I will not betray him.
+
+🎤 SPEAKER_2 [20s - 27s]
+You will. You you must listen.
+
+🎤 SPEAKER_7 [28s - 33s]
+Sara still whispers in my mind. I can bite you.
+
+🎤 SPEAKER_1 [34s - 36s]
+Compulsions briefly but the indoctrination is strong.
+
+🎤 SPEAKER_7 [37s - 39s]
+Can he compel you? He's not even here.
+
+🎤 SPEAKER_11 [40s - 51s]
+People are not themselves or themselves. You come to idolize him, worship him, you will do anything for him. The key is sovereign. He's flagship.
+
+🎤 SPEAKER_11 [52s - 54s]
+It is a dreadnought of incredible size and his power is extraordinary.
+
+🎤 SPEAKER_7 [58s - 61s]
+Sovereigns not like other ships, Where did it come from?
+
+🎤 SPEAKER_13 [62s - 75s]
+I cannot say. The guests did not build it. Its technology is far more advanced than that of any known species. The longer you stay aboard, the more Sarin's will seems correct.
+
+🎤 SPEAKER_13 [76s - 90s]
+You sit at his feet and smile as his words pour into you. It is sudden at first, I thought I was strong enough to resist instead became a willing tool eager to serve.
+
+🎤 SPEAKER_13 [90s - 97s]
+He sent me here to find the location of the new relay. Its position was lost thousands of years ago.
+
+🎤 SPEAKER_7 [98s - 102s]
+Tell me where the mugate is before I lose my temper. Of course, demand.
+
+🎤 SPEAKER_13 [104s - 115s]
+I transcribed the data to an OSD Take it. Please. Knowing your relay's coordinates is not enough. Do you know where he plan to go from there?
+
+🎤 SPEAKER_13 [116s - 124s]
+Sarin wouldn't tell me his destination. But you must find out quickly. I transmitted the coordinates to him before you arrived.
+
+🎤 SPEAKER_13 [126s - 128s]
+You have to stop me.
+
+🎤 SPEAKER_1 [131s - 135s]
+I can't His teeth are at my ear, fingers on my spine, should, you should.
+
+🎤 SPEAKER_2 [136s - 143s]
+Mother, hey. Don't believe. Fight him.
+
+🎤 SPEAKER_13 [143s - 146s]
+You've always made me proud, Liara.
+
+🎤 SPEAKER_2 [153s - 153s]
+Die.
+
+🎤 SPEAKER_13 [191s - 193s]
+I cannot go on. You will have to
+
+🎤 SPEAKER_2 [199s - 199s]
+Hold on.
+
+🎤 SPEAKER_7 [200s - 201s]
+We've got Metagen. Maybe we can no.
+
+🎤 SPEAKER_13 [203s - 205s]
+He is still in my mind.
+
+🎤 SPEAKER_18 [205s - 209s]
+I am not entirely myself. I never will be again.
+
+🎤 SPEAKER_18 [225s - 227s]
+They always said there would be a
+
+🎤 SPEAKER_8 [295s - 297s]
+This one This one.
+
+🎤 SPEAKER_13 [297s - 300s]
+Serves as our voice.
+
+🎤 SPEAKER_18 [301s - 303s]
+We cannot see.
+
+🎤 SPEAKER_13 [305s - 307s]
+Not in a living room space as Your musics are colorless.
+
+🎤 SPEAKER_18 [314s - 330s]
+We filled you with enough of this. Vassal is at the edge. Yet she struggles You cannot see her that we are the mother. We are Rachnai.
+
+🎤 SPEAKER_7 [334s - 336s]
+Did you order your people to kill the science team?
+
+🎤 SPEAKER_18 [337s - 351s]
+No. We were locked away here. The children are beyond our songs. What will you sing? Will you release us? Are we to away once more?
+
+🎤 SPEAKER_2 [353s - 361s]
+Commander, I don't trust this thing. We know it's kinder killers, The tank is rigged with acid. I recommend using it. They made a mistake.
+
+🎤 SPEAKER_19 [361s - 366s]
+They let the krogan go too far. This is a chance for us to atone. She has done nothing to us.
+
+🎤 SPEAKER_18 [367s - 368s]
+Your companions
+
+🎤 SPEAKER_16 [368s - 369s]
+hear the truth.
+
+🎤 SPEAKER_18 [370s - 378s]
+You have the power to free us. Or return our people to the silence of memory.
+
+🎤 SPEAKER_7 [379s - 381s]
+Are you a survivor from the war?
+
+🎤 SPEAKER_18 [382s - 407s]
+A We do not know. We were only an egg, hearing light of cry in our dreams. Ottone from space hushed one voice after another. It forced the singers to resonate with its own sour yellow the last echo of those who came out from the singing planet.
+
+🎤 SPEAKER_18 [408s - 410s]
+The sky is silent.
+
+🎤 SPEAKER_7 [411s - 414s]
+If I let you live, would you attack other races again?
+
+🎤 SPEAKER_2 [414s - 417s]
+No. Me.
+
+🎤 SPEAKER_18 [418s - 427s]
+I do not know what happened in the war. We only heard discordance. Songs the color of oily shadows.
+
+🎤 SPEAKER_8 [432s - 432s]
+Harmony.
+
+🎤 SPEAKER_7 [442s - 443s]
+You could have calmed them if I hadn't set off the purge.
+
+🎤 SPEAKER_18 [443s - 458s]
+No. Our minds are not as yours. We can only learn to sing the inner harmony. Without a mother, children are lost to silence. You should not sing of them in and violet.
+
+🎤 SPEAKER_18 [460s - 461s]
+We would have stood them ourselves.
+
+🎤 SPEAKER_7 [468s - 471s]
+I won't destroy your entire race. You'll go free.
+
+🎤 SPEAKER_19 [472s - 478s]
+There's a reason their kind were haunted to extinction. Better to be safe and let a dangerous race loose.
+
+🎤 SPEAKER_7 [483s - 486s]
+I'd like to have the rachni on our side in the future.
+
+🎤 SPEAKER_19 [486s - 488s]
+You can trust them to stay there.
+
+🎤 SPEAKER_18 [489s - 491s]
+You you will give us the chance to come oppose anew?
+
+🎤 SPEAKER_18 [496s - 498s]
+Save of your forgiveness to our children.
+
+🎤 SPEAKER_2 [532s - 532s]
+Eight points.
+
+
+---
+
