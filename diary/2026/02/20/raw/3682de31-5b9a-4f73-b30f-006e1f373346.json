@@ -1,0 +1,204 @@
+{
+  "id": "3682de31-5b9a-4f73-b30f-006e1f373346",
+  "created_at": "2026-02-20T11:52:47.002448+00:00",
+  "started_at": "2026-02-20T11:37:17.617584+00:00",
+  "finished_at": "2026-02-20T11:54:30.364123+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Why Jesus’ Identity Matters For Salvation",
+    "overview": "The speaker reflects on the theological importance of Jesus’ identity for Christian salvation. Rather than focusing only on what Jesus did—dying on the cross, rising again, forgiving and saving—the talk emphasizes that who Jesus is (truly human and truly God) is central. The speaker poses probing questions: who are believers actually addressing when they pray to Jesus, and would the cross still save if Jesus were different from how Scripture presents him? The core point is that the effectiveness of salvation hinges not merely on the event of the crucifixion, but on the person who was crucified, arguing that Jesus’ identity is foundational to the success of the redemptive work.",
+    "emoji": "✝️",
+    "category": "spiritual",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "bcead875-a06a-4598-9b93-eeb9b5d3d576",
+      "text": "Redeemed",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "0bb42c09-fcae-44bb-9c3a-b440242bd1a5",
+      "start": 4.3869022192666307e-07,
+      "end": 0.48000043868978537,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "aebb2c0a-fbb3-4d97-919b-459883a55eac",
+      "text": "we need.",
+      "speaker": "SPEAKER_16",
+      "speaker_id": 16,
+      "is_user": false,
+      "person_id": null,
+      "start": 0.520000438689749,
+      "end": 1.3200004386899309,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "ea75499b-a60a-4f82-baad-f6bc542ac971",
+      "text": "And you can see answer two. One who is both truly human and truly god.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.0400004386901855,
+      "end": 5.240000438690004,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "54aebed6-7a22-47f2-923b-900527a35b35",
+      "text": "But let me ask you something before we go further. Why does that matter? Why does it matter who Jesus is? When you to Jesus, who exactly are you speaking to?",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.490000438690004,
+      "end": 17.69000043868982,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "70e23c57-c301-4c89-9c5a-1f93a3f0976c",
+      "text": "Have you ever wondered? If Jesus were not exactly who scripture says he is, with the cross still still with the cross still save you?",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 18.540000438690186,
+      "end": 29.02000043868975,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c9db370f-b6dc-4b11-a343-35eb745440ae",
+      "text": "Let me put it even more plainly. If Jesus was slightly different, would you still be",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 29.930000438690513,
+      "end": 35.63030043869003,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "61ac6044-7e1f-486c-a7af-c782fea5ffa9",
+      "text": "This is not a small question. It's it's not even a theological hobby question. This is a question about salvation. It's we often talk about what Jesus did, He died on the cross. He rose again. He forgives us. He saves us.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 39.32000043868993,
+      "end": 54.100000438690586,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "cebae965-89b9-4d01-8645-5992da722c0e",
+      "text": "Through him we fund forgiveness. But what if the most important thing about your salvation is not first what happened at the cross.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 55.09000043869037,
+      "end": 61.97000043869048,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f38ab1b4-564f-46c3-a230-976e4b1443fa",
+      "text": "But who was hanging on it.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 64.32030043869054,
+      "end": 66.08000043869015,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9bc26933-8850-46b4-8dcd-89e1c98387f0",
+      "text": "Because the success of the operation depends on who he is. Procedure matters. But identity matters more.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 82.75000043869022,
+      "end": 91.50970043868983,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156916,
+    "longitude": -3.2755739,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1fafa5ae-420f-4bfa-892a-ad116228930b",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "3682de31-5b9a-4f73-b30f-006e1f373346",
+      "chunk_timestamps": [
+        1771588363.195,
+        1771588368.236,
+        1771588373.698,
+        1771588379.107,
+        1771588384.23,
+        1771588389.175,
+        1771588394.193,
+        1771588399.948,
+        1771588404.952,
+        1771588410.059,
+        1771588415.173,
+        1771588420.186
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-20T11:52:43.195000+00:00",
+      "duration": 61.991
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Question of Jesus’ Identity  \n- Jesus described as truly human and truly God  \n- Speaker asks why Jesus’ identity actually matters  \n- Emphasis on who we speak to when praying to Jesus  \n\n## Salvation and Correct View of Jesus  \n- Raises doubt: would a “different” Jesus still save?  \n- Not a side issue; framed as salvation-level question  \n- Challenges assumption that small changes to Jesus don’t matter  \n\n## Who Was on the Cross  \n- We focus on what Jesus did: died, rose, forgives  \n- Speaker shifts focus to who was hanging on the cross  \n- States identity matters more than the procedure itself  \n\n## Next Steps  \n- Reflect on your current view of Jesus’ identity  \n- Consider why full humanity and full deity are necessary  \n- Re-examine how this affects your understanding of salvation"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
