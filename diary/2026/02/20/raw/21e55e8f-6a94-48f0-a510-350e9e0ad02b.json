@@ -1,0 +1,90 @@
+{
+  "id": "21e55e8f-6a94-48f0-a510-350e9e0ad02b",
+  "created_at": "2026-02-20T05:54:29.436890+00:00",
+  "started_at": "2026-02-20T04:43:55.760324+00:00",
+  "finished_at": "2026-02-20T05:56:06.881056+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "粘土遊びの開始確認",
+    "overview": "短いやり取りの中で、粘土遊びを始めてよいかを確認し、「いいえ」と断られている様子が描かれている。",
+    "emoji": "🎨",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "e902563b-db05-40b7-891b-ed9235dbee6f",
+      "text": "お願い 粘土始めても大丈夫 いいえ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.215238504912122e-07,
+      "end": 30.10412542152386,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "09d4b737-46ee-4087-90fd-d2d5bc76d13b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "21e55e8f-6a94-48f0-a510-350e9e0ad02b",
+      "chunk_timestamps": [
+        1771566870.152,
+        1771566875.971,
+        1771566882.049,
+        1771566886.998,
+        1771566892.337,
+        1771566897.601,
+        1771566902.719,
+        1771566910.334,
+        1771566915.475,
+        1771566920.759,
+        1771566925.839,
+        1771566931.056,
+        1771566936.007,
+        1771566941.145,
+        1771566946.248,
+        1771566951.529,
+        1771566956.597,
+        1771566962.468,
+        1771566967.708,
+        1771566973.022,
+        1771566978.343
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-20T05:54:30.152000+00:00",
+      "duration": 113.191
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「粘土を始めても大丈夫かどうか」を確認しようとしていた\n- それに対して「いいえ」という返答があった\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 粘土を始めてよいタイミングや条件を、信頼できる人（家族・支援者など）にゆっくり確認してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
