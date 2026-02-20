@@ -1,0 +1,80 @@
+{
+  "id": "473feb6b-9378-45b4-ba80-bfbea82feea1",
+  "created_at": "2026-02-20T03:56:25.502808+00:00",
+  "started_at": "2026-02-20T03:21:33.571432+00:00",
+  "finished_at": "2026-02-20T03:56:46.664822+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "AI問題解説コンテンツの導入メモ",
+    "overview": "短い発話として「AI問題解説解説」というフレーズのみが記録されており、AIに関する問題解説コンテンツのタイトル案や導入部分と思われる。具体的な議論内容やタスク、日程などは含まれていない。",
+    "emoji": "🤖",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "627e582b-794a-4be1-a17c-57ad16ba5ba9",
+      "text": "AI問題解説解説",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.721858542528935e-09,
+      "end": 9.821375005721848,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "2af30190-b896-4363-b8e2-a5fcbf459635",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "473feb6b-9378-45b4-ba80-bfbea82feea1",
+      "chunk_timestamps": [
+        1771559784.992,
+        1771559790.44,
+        1771559796.098,
+        1771559801.117,
+        1771559807.038,
+        1771559812.03,
+        1771559817.206,
+        1771559824.247,
+        1771559831.148,
+        1771559838.465,
+        1771559844.367
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-20T03:56:24.992000+00:00",
+      "duration": 64.375
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 内容概要\n- 「AI問題解説解説」という発話のみ\n- 文脈や詳細情報は一切なし\n\n## 次のステップ\n- 何を要約したいか具体的なテキストを提示する\n- もしくは「AI問題解説解説」の意味や意図を説明する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
