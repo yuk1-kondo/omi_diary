@@ -3725,3 +3725,20 @@ Because the success of the operation depends on who he is. Procedure matters. Bu
 
 ---
 
+
+
+## 📝 Reflection On The Meaning Of Salvation - d60e6c7e-7233-4ee5-9391-bc1922544710
+
+**記録時間**: 2026-02-20 20:56:33
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 1s]
+Oh, for goodness sake.
+
+🎤 SPEAKER_3 [81s - 86s]
+Well, the most important thing about your salvation is not first what happened at the cross, but who's hanging on it.
+
+
+---
+
