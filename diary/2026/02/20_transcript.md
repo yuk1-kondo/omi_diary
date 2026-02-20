@@ -3684,3 +3684,44 @@ We'll talk later, Williams. Looking forward to it, skipper.
 
 ---
 
+
+
+## 📝 Why Jesus’ Identity Matters For Salvation - 3682de31-5b9a-4f73-b30f-006e1f373346
+
+**記録時間**: 2026-02-20 20:52:47
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 0s]
+Redeemed
+
+🎤 SPEAKER_16 [0s - 1s]
+we need.
+
+🎤 SPEAKER_3 [2s - 5s]
+And you can see answer two. One who is both truly human and truly god.
+
+🎤 SPEAKER_3 [5s - 17s]
+But let me ask you something before we go further. Why does that matter? Why does it matter who Jesus is? When you to Jesus, who exactly are you speaking to?
+
+🎤 SPEAKER_3 [18s - 29s]
+Have you ever wondered? If Jesus were not exactly who scripture says he is, with the cross still still with the cross still save you?
+
+🎤 SPEAKER_3 [29s - 35s]
+Let me put it even more plainly. If Jesus was slightly different, would you still be
+
+🎤 SPEAKER_3 [39s - 54s]
+This is not a small question. It's it's not even a theological hobby question. This is a question about salvation. It's we often talk about what Jesus did, He died on the cross. He rose again. He forgives us. He saves us.
+
+🎤 SPEAKER_3 [55s - 61s]
+Through him we fund forgiveness. But what if the most important thing about your salvation is not first what happened at the cross.
+
+🎤 SPEAKER_3 [64s - 66s]
+But who was hanging on it.
+
+🎤 SPEAKER_3 [82s - 91s]
+Because the success of the operation depends on who he is. Procedure matters. But identity matters more.
+
+
+---
+
