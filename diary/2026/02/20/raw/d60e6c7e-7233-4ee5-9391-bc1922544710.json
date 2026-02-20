@@ -1,0 +1,129 @@
+{
+  "id": "d60e6c7e-7233-4ee5-9391-bc1922544710",
+  "created_at": "2026-02-20T11:56:33.335290+00:00",
+  "started_at": "2026-02-20T11:40:59.837584+00:00",
+  "finished_at": "2026-02-20T11:58:06.004307+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Reflection On The Meaning Of Salvation",
+    "overview": "A speaker briefly reflects on Christian salvation, emphasizing that the key aspect is not first the events of the crucifixion itself, but the identity of the person on the cross.",
+    "emoji": "✝️",
+    "category": "spiritual",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "1a2aabb1-8df4-4c8f-924c-1104d95a0c2d",
+      "text": "Oh, for goodness sake.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.1008024709299207e-07,
+      "end": 1.2000004100800652,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "05809f3b-d10b-4f38-adcf-3811d74e22f4",
+      "text": "Well, the most important thing about your salvation is not first what happened at the cross, but who's hanging on it.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 81.38000041008036,
+      "end": 86.59000041008039,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156916,
+    "longitude": -3.2755739,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "8f6b0055-c870-46b2-b500-2edd748c5f80",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "d60e6c7e-7233-4ee5-9391-bc1922544710",
+      "chunk_timestamps": [
+        1771588590.763,
+        1771588595.771,
+        1771588600.783,
+        1771588606.003,
+        1771588611.093,
+        1771588616.053,
+        1771588621.037,
+        1771588626.045,
+        1771588631.171,
+        1771588636.184,
+        1771588641.233,
+        1771588646.247,
+        1771588652.374,
+        1771588657.422,
+        1771588662.474,
+        1771588667.532,
+        1771588672.562,
+        1771588677.669,
+        1771588682.635,
+        1771588688.767,
+        1771588693.792,
+        1771588698.797,
+        1771588703.903,
+        1771588713.621,
+        1771588718.803,
+        1771588723.856,
+        1771588728.862,
+        1771588733.863,
+        1771588738.933,
+        1771588743.972,
+        1771588748.983,
+        1771588754.071,
+        1771588759.071,
+        1771588764.301,
+        1771588769.344,
+        1771588774.489,
+        1771588779.594,
+        1771588784.663,
+        1771588789.733,
+        1771588794.746,
+        1771588799.783
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-20T11:56:30.763000+00:00",
+      "duration": 214.02
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Salvation focus  \n- Emphasis on who is on the cross  \n- Identity of Christ prioritized over event details  \n\n## The cross reframed  \n- Salvation rooted in the person, not process  \n- Cross important because of who hangs there  \n\n## Next steps  \n- Reflect on Christ’s identity in relation to salvation  \n- Consider how this shifts view of the crucifixion"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
