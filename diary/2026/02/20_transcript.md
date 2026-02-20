@@ -3825,3 +3825,53 @@ Because they knew because they knew something we often forget. Christianity is n
 
 ---
 
+
+
+## 📝 Sermon Excerpt on Knowing Jesus Rightly - 37631ab0-f069-4c56-bccf-6e11f20122a8
+
+**記録時間**: 2026-02-20 21:17:58
+
+### STT生テキスト
+
+👤 あなた [0s - 11s]
+This is that serious. Jesus is not playing John's not playing games here. He is saying that the difference between the truth and error here is the difference between life and
+
+👤 あなた [33s - 36s]
+Now this that may feel intense, but it needs to be. Intense.
+
+👤 あなた [39s - 46s]
+Because if we live in a time when Jesus is talked about,
+
+👤 あなた [69s - 90s]
+He's coated on social media. He's referenced in political speeches. He's invoked in cultural debate. He's reimagined in podcasts. He's reshaped in documentaries. And often, he is reduced. Reduced to a moral teacher, reduced to a social reformer, reduced to a political symbol, but a reduced Jesus cannot save you.
+
+👤 あなた [91s - 92s]
+Cannot save anyone.
+
+👤 あなた [95s - 106s]
+And sometimes he is distorted the other way. Lifted so high that it becomes untouchable, so divine that it does not really share in our weakness.
+
+👤 あなた [110s - 113s]
+So elevated that he does not truly understand our struggles.
+
+👤 あなた [155s - 168s]
+En dat is not the Jesus of scripture either. John says, test it. Listen carefully. Examine the confession because if we get him wrong, we trust in a different savior and trusting in the wrong savior is no salvation at all.
+
+👤 あなた [168s - 182s]
+So this matters. It matters deeply. It matters for your assurances. Matters for your worship. It matters for your It matters for your children. It matters for what you allow to shape your mind.
+
+👤 あなた [182s - 196s]
+A salvation depends on who Jesus is, not just what Jesus did. And if that is true, and it is, then we must know him rightly. Now let's look at what error actually looks like.
+
+🎤 SPEAKER_2 [239s - 244s]
+Hello. Hello. Say hi, come me, Wace.
+
+🎤 SPEAKER_19 [244s - 247s]
+Come see me, Wace. Come see me.
+
+🎤 SPEAKER_21 [247s - 249s]
+Come see me. Come see me.
+
+
+---
+
