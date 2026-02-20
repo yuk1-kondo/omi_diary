@@ -3875,3 +3875,53 @@ Come see me. Come see me.
 
 ---
 
+
+
+## 📝 User Checks On Josh Sargent Transfer Situation - c7d843e0-79c8-4cf2-aa85-593e50089371
+
+**記録時間**: 2026-02-20 21:30:22
+
+### STT生テキスト
+
+👤 あなた [2s - 9s]
+Hey Google, What's the situation with Josh? Josh Sergeants? Oh, for goodness sake.
+
+🎤 SPEAKER_2 [10s - 10s]
+Josh Josh.
+
+👤 あなた [12s - 13s]
+Josh. Sardon.
+
+🎤 SPEAKER_1 [14s - 16s]
+On which Josh you are following, here are the latest updates.
+
+🎤 SPEAKER_2 [17s - 18s]
+Hey Google.
+
+👤 あなた [19s - 24s]
+What's the situation with Josh Sargeant's at Norwich City Football Club?
+
+🎤 SPEAKER_7 [31s - 34s]
+Norwich City has reached a £20,000,000 agreement to sell Josh Sargent to
+
+🎤 SPEAKER_22 [34s - 53s]
+Toronto FC. He is currently travelling to North America to undergo a medical and finalise personal terms. The move follows a standoff where Sergeant was disciplined and frozen out of the fur team after indicating he was distracted by transfer interest in January. Would you like me to check the details of his potential replacement at Norwich?
+
+👤 あなた [56s - 62s]
+Can you provide me with more information about the what happened there personally with him at the club?
+
+🎤 SPEAKER_22 [69s - 78s]
+In January 2026, the relationship between Josh Sargent and Norwich City backtured after he informed manager Philippe Clement via text that he was unavailable for an FA Cup match.
+
+🎤 SPEAKER_22 [79s - 98s]
+To transfer things in his head. This led to Sergeant being disciplined and demoted to training with the 21 squad. The situation escalated during a heated meeting with with Clement and sporting director Ben Napa. Reports indicate sergeant was left visibly upset by a comment regarding his family made during the meeting, which served as a last straw for him.
+
+🎤 SPEAKER_22 [99s - 108s]
+While the club initially demanded an apology, remained focused on a move to Toronto FC to be closer to his leading to the current £20,000,000 agreement.
+
+🎤 SPEAKER_22 [108s - 109s]
+Would you like to
+
+
+---
+
