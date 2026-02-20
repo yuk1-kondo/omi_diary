@@ -2148,3 +2148,323 @@ I couldn't find it. That's why I got those
 
 ---
 
+
+
+## 📝 Family Morning Chaos and Casual TV Chat - ed8466de-f51a-497d-969d-bb44b9a293d9
+
+**記録時間**: 2026-02-20 18:53:20
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 0s]
+Fuck you, shoot.
+
+🎤 SPEAKER_3 [20s - 21s]
+Okay. No. It's reading back.
+
+🎤 SPEAKER_3 [27s - 28s]
+Considering whatnot, we have not had the usual
+
+🎤 SPEAKER_3 [43s - 45s]
+Classic bridge. Are those losing their key?
+
+🎤 SPEAKER_2 [54s - 54s]
+Alright. Listen.
+
+🎤 SPEAKER_3 [61s - 63s]
+I'll get your shoes ready while you're brushing your teeth. Sort all this out for you.
+
+🎤 SPEAKER_3 [67s - 74s]
+No. Jude. I'm not three. It's for you. Two teeth. Come on. I'll see you.
+
+🎤 SPEAKER_2 [74s - 76s]
+Feet is moving speed. I'll Sorry.
+
+🎤 SPEAKER_3 [76s - 78s]
+Dan, you're too. Have you already dressed that it's taken ages? Wow.
+
+🎤 SPEAKER_2 [78s - 79s]
+Yeah.
+
+🎤 SPEAKER_3 [79s - 80s]
+Yeah. Go on.
+
+🎤 SPEAKER_2 [84s - 85s]
+Judo.
+
+🎤 SPEAKER_2 [177s - 178s]
+Alright then.
+
+🎤 SPEAKER_2 [191s - 192s]
+Is it? That's.
+
+🎤 SPEAKER_3 [192s - 194s]
+Oh, that shows, is it? Oh, sorry, mate.
+
+🎤 SPEAKER_2 [194s - 196s]
+Dad, mine's in the car. Damn it.
+
+🎤 SPEAKER_3 [197s - 203s]
+Okay. Jude, focus fox trainers play please. Trainers. Focus. Focus. I did your laces for you in the bottom step.
+
+🎤 SPEAKER_3 [230s - 238s]
+And she's in Cool Tube. I had a microscope for my birthday. Attach your phone. And takes all sorts of cool photos.
+
+🎤 SPEAKER_3 [241s - 256s]
+That was the screw head on that unit there. Cardboard, that's that's pink like yeah. That's kind of like it attaches to your phone and whatever.
+
+🎤 SPEAKER_3 [257s - 267s]
+But that with that is that. Zoomed in. That's cool. It's like a whole well, I live. Can it's almost like massive canyon in there.
+
+🎤 SPEAKER_2 [267s - 269s]
+Yeah. But reality is not so much.
+
+🎤 SPEAKER_3 [269s - 274s]
+And that was that's that. The bottom of his eye with the pink.
+
+🎤 SPEAKER_1 [275s - 276s]
+Oh, yeah.
+
+🎤 SPEAKER_3 [276s - 281s]
+It's madn't it? You can see the cosmetic of pink and a little bit of blue.
+
+🎤 SPEAKER_1 [281s - 283s]
+You try putting your point underneath there.
+
+🎤 SPEAKER_3 [284s - 287s]
+So Alice got like a Attaches to the phone camera. Oh, okay.
+
+🎤 SPEAKER_2 [288s - 289s]
+Yeah. So see Alice got one.
+
+🎤 SPEAKER_3 [289s - 290s]
+Can't remember what that was.
+
+🎤 SPEAKER_2 [290s - 293s]
+I've got on my phone. Oh, yeah?
+
+🎤 SPEAKER_3 [293s - 294s]
+Oh, she got oh, yeah?
+
+🎤 SPEAKER_3 [298s - 300s]
+Yeah.
+
+🎤 SPEAKER_2 [308s - 310s]
+It kinda It's like just Three.
+
+🎤 SPEAKER_3 [317s - 319s]
+What shall we look at quick before you go?
+
+🎤 SPEAKER_3 [343s - 345s]
+Oh, see the individual pixels?
+
+🎤 SPEAKER_1 [345s - 346s]
+Yeah. It's quite
+
+🎤 SPEAKER_2 [357s - 357s]
+Ow.
+
+🎤 SPEAKER_1 [357s - 359s]
+It's it's quite corruption. Ow.
+
+🎤 SPEAKER_2 [360s - 360s]
+Sorry.
+
+🎤 SPEAKER_3 [361s - 362s]
+What's that in all then? Netflix.
+
+🎤 SPEAKER_3 [366s - 370s]
+I mean, these phones have got really high quality pixels.
+
+🎤 SPEAKER_2 [371s - 376s]
+It's hard to That's go to Tesco to tell. Hey, hey.
+
+🎤 SPEAKER_3 [396s - 398s]
+You might wanna wear your Coke, please.
+
+👤 あなた [398s - 399s]
+You might wanna wear your No.
+
+🎤 SPEAKER_1 [399s - 402s]
+It's fine. Alright. Point. It's fine. Black they have breakfast.
+
+🎤 SPEAKER_2 [402s - 402s]
+So I've got Jude.
+
+🎤 SPEAKER_3 [405s - 406s]
+That's a what what? That's a Eight.
+
+🎤 SPEAKER_1 [428s - 434s]
+Aldi to get himself in Aldi. No. See who is her pal. Aldie.
+
+🎤 SPEAKER_2 [436s - 438s]
+No. Ahead. Stop. Mommy's
+
+🎤 SPEAKER_3 [438s - 439s]
+Eddie.
+
+🎤 SPEAKER_2 [439s - 447s]
+This is my son. Okay, Wendy? Steps all go to Tesco, sweater, by the best kids. Teaches on rabbit rages.
+
+🎤 SPEAKER_1 [462s - 467s]
+Kapelle. How are you stopping one shoe on? Chevy's into the toilet and put those shoes on it in the time that's taking you to put one on?
+
+🎤 SPEAKER_2 [468s - 469s]
+Wow.
+
+🎤 SPEAKER_3 [471s - 474s]
+Raining. Alright. Come in, juice. Okay. Have a good time.
+
+🎤 SPEAKER_1 [476s - 477s]
+No. You know?
+
+🎤 SPEAKER_2 [477s - 484s]
+Let so go to one stop to see see something. Can't find this figure in Danny.
+
+🎤 SPEAKER_3 [489s - 490s]
+Elliot, come on, man.
+
+🎤 SPEAKER_1 [491s - 493s]
+Toby Go look. Oh.
+
+🎤 SPEAKER_3 [494s - 500s]
+Now imagine you're in a race and you do it in ten seconds, you win a million pounds. 10. Nine. Eight.
+
+🎤 SPEAKER_2 [500s - 502s]
+Seven. Six.
+
+🎤 SPEAKER_4 [503s - 505s]
+Five, four, three two one.
+
+🎤 SPEAKER_3 [508s - 511s]
+No. No mini pants right here.
+
+🎤 SPEAKER_2 [514s - 515s]
+Well, yeah.
+
+🎤 SPEAKER_3 [515s - 517s]
+Well, Eddie didn't stop. If he stopped at a single knot, that would have been accepted.
+
+🎤 SPEAKER_1 [518s - 520s]
+Oh, Eddie, you are actually being serious. Right.
+
+🎤 SPEAKER_2 [520s - 522s]
+I got kicking. You two got you go and wait in the car.
+
+🎤 SPEAKER_3 [523s - 523s]
+Send them out now.
+
+🎤 SPEAKER_1 [524s - 524s]
+Right.
+
+🎤 SPEAKER_3 [524s - 525s]
+Right. Good to see you, Tobe.
+
+🎤 SPEAKER_2 [525s - 528s]
+Well, you'll see you later because you're come see Heidi.
+
+🎤 SPEAKER_1 [528s - 535s]
+Oh, yeah. There's no way they are going without you seeing Heidi. Oh, no. She's literally the cutest teddy bear, I mean dog ever.
+
+🎤 SPEAKER_3 [535s - 537s]
+Yeah. She does look like a teddy bear.
+
+🎤 SPEAKER_1 [537s - 541s]
+She does. You should come maybe come over after we've been to can come a little bit of lunch.
+
+🎤 SPEAKER_2 [541s - 542s]
+Yeah? Mhmm.
+
+🎤 SPEAKER_3 [544s - 546s]
+Why are you doing that in your case?
+
+🎤 SPEAKER_2 [546s - 547s]
+Because I got I got my breath. Okay.
+
+🎤 SPEAKER_1 [547s - 550s]
+You'll probably do a shaving today as well so that you don't do it on
+
+🎤 SPEAKER_2 [550s - 551s]
+Sunday morning too.
+
+🎤 SPEAKER_1 [551s - 552s]
+Let's go.
+
+🎤 SPEAKER_3 [552s - 553s]
+Right. See you later.
+
+🎤 SPEAKER_1 [553s - 553s]
+Let's go.
+
+🎤 SPEAKER_2 [613s - 619s]
+Hey. So here from LT Gaming. And today, we're jumping back into spacecraft because over the last couple of months, and a proper player driven economy.
+
+🎤 SPEAKER_5 [624s - 630s]
+It's all very exciting stuff. And I've got some massive news for you.
+
+🎤 SPEAKER_2 [635s - 641s]
+Having watched 11 other girls go before me, I want to do something that they all have in time.
+
+🎤 SPEAKER_6 [643s - 649s]
+So I take off my heels, you know, with this plan to do jumps and, you know, crazy things.
+
+🎤 SPEAKER_2 [649s - 650s]
+May I ask?
+
+🎤 SPEAKER_6 [651s - 657s]
+Why? It will give me ability to move more. Why do you think you're so special?
+
+🎤 SPEAKER_6 [665s - 673s]
+I'm just thinking, it's lost me. This challenge, I don't think that I could come back from that. So what can I possibly do?
+
+🎤 SPEAKER_2 [673s - 674s]
+Your time starts now.
+
+🎤 SPEAKER_6 [681s - 685s]
+Sarah went lost, and she really, you know, put all her embarrassment aside.
+
+🎤 SPEAKER_7 [685s - 687s]
+Just really went for it.
+
+🎤 SPEAKER_2 [688s - 693s]
+Five. And start the buffalo.
+
+🎤 SPEAKER_8 [696s - 707s]
+I'm not sure about taking a the shoes, Sarah, because I feel like everybody else did it in their shoes. Don't see why you should be different. And if that's what you're gonna wear.
+
+🎤 SPEAKER_8 [709s - 720s]
+You idiot. She's right. You can never take off your shoes. You never it's so stylist like that. And I'm thinking, why did I do it? Why? I'm thinking, I'm an idiot.
+
+🎤 SPEAKER_8 [734s - 736s]
+That's about the choice to cast Milton.
+
+🎤 SPEAKER_9 [736s - 747s]
+Before we were ever hired in out. He's like, well, who would you see a supergirl? I said, you'd see the House of the Dragons?
+
+🎤 SPEAKER_9 [747s - 754s]
+Who's that little blonde girl in that? Because I wanted her to be this little but very attitude character. And so she was the first That's about Isn't there a scene where Cal is looking for Rose?
+
+🎤 SPEAKER_10 [773s - 793s]
+Yeah. There is. Except it's more of an extended scene that was cut slightly, but let me show you. So this is the original version that we all know. We see Rose look up at Cal, she hides her face, and then he just walks away. Now the version is basically the same except for this part right here.
+
+🎤 SPEAKER_10 [802s - 808s]
+And from this point on, it's the same ending that we originally saw. They also cut out one of old room lines right here. Let me show you.
+
+🎤 SPEAKER_2 [808s - 809s]
+The crash of twenty nine.
+
+🎤 SPEAKER_8 [810s - 811s]
+It is interest hard.
+
+🎤 SPEAKER_11 [812s - 814s]
+And he put a pistol in his mouth that This sign right here.
+
+🎤 SPEAKER_10 [814s - 816s]
+They cut this out.
+
+🎤 SPEAKER_11 [816s - 821s]
+His children fall over these scraps of his like hiatus. Or so I read.
+
+
+---
+
