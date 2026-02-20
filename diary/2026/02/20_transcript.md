@@ -3030,3 +3030,200 @@ You and me both.
 
 ---
 
+
+
+## 📝 Rachni Purge And Betrayal On Noveria - 18d61cfc-4ff8-4031-aaae-aef9676d5f81
+
+**記録時間**: 2026-02-20 19:43:51
+
+### STT生テキスト
+
+🎤 SPEAKER_16 [0s - 1s]
+Are you here to secure the situation?
+
+🎤 SPEAKER_7 [3s - 7s]
+If by secure, you mean shoot every monster I see, sure.
+
+🎤 SPEAKER_5 [9s - 12s]
+I am certain you are having strong feelings.
+
+🎤 SPEAKER_17 [13s - 15s]
+But what has happened here, it is our fault.
+
+🎤 SPEAKER_7 [15s - 17s]
+Wait. Is there an assorry matriarchy?
+
+🎤 SPEAKER_16 [17s - 18s]
+A assorry?
+
+🎤 SPEAKER_2 [19s - 20s]
+She's safe then.
+
+🎤 SPEAKER_1 [20s - 21s]
+At brief station.
+
+🎤 SPEAKER_17 [22s - 34s]
+This is not important. Binary hill found an egg. This was rackna sheath. Inside, they find many eggs in cryogenic suspicion. They should have destroyed any helix to climb to clone Rachnae.
+
+🎤 SPEAKER_17 [35s - 47s]
+They destroyed move her to lift station. They are thinking that without her, they can raise the babies to be obedient.
+
+🎤 SPEAKER_2 [50s - 51s]
+Hold on.
+
+🎤 SPEAKER_17 [51s - 59s]
+Queens are born. Queens can lay eggs in hours. And have a colony in days.
+
+🎤 SPEAKER_7 [60s - 61s]
+This is how they spread so quick Separating them from their motherhood.
+
+🎤 SPEAKER_17 [63s - 69s]
+I am thinking that without a queen, Rachnai do not develop properly. Her mind is shaking theirs.
+
+🎤 SPEAKER_17 [76s - 85s]
+These Are you telling me I It is a sad thing, but they must be euthanized. I'm not familiar with the purge system. It creates burst of new radiation.
+
+🎤 SPEAKER_17 [85s - 91s]
+Kills everything within the station. Things beyond get genetic damage of varying degree.
+
+🎤 SPEAKER_7 [92s - 96s]
+Once the purge is armed, we'll have to fight our way out. Give us a minute.
+
+🎤 SPEAKER_17 [96s - 102s]
+Sure. Sure. I wait here. Mother always say I would need a bad end.
+
+🎤 SPEAKER_2 [110s - 113s]
+Connecting. I have full access to the facility and an I need information on the Neutron Purge is a fail safe system installed within the ISO resolve the situation.
+
+🎤 SPEAKER_7 [127s - 128s]
+What exactly does this thing do?
+
+🎤 SPEAKER_11 [128s - 130s]
+The purge is a neutron burst weapon.
+
+🎤 SPEAKER_2 [131s - 135s]
+Most of the energy is released in the form. You will be wise to avoid touching any control.
+
+🎤 SPEAKER_8 [135s - 138s]
+Without reading. It's always a good idea to RTFM, doctor.
+
+🎤 SPEAKER_2 [139s - 140s]
+To what?
+
+🎤 SPEAKER_7 [142s - 144s]
+Activate the neutron purge.
+
+🎤 SPEAKER_11 [145s - 147s]
+I'm sorry, but I can't do that without proper
+
+🎤 SPEAKER_2 [152s - 153s]
+That is not the correct code.
+
+🎤 SPEAKER_11 [153s - 154s]
+Who would have those codes?
+
+🎤 SPEAKER_7 [155s - 156s]
+Director of operations,
+
+🎤 SPEAKER_11 [156s - 158s]
+Tartakovsky.
+
+🎤 SPEAKER_7 [158s - 160s]
+Or We're moving on. Logging you out,
+
+🎤 SPEAKER_2 [160s - 160s]
+Commander.
+
+🎤 SPEAKER_17 [172s - 179s]
+Arming controls are nearby. All you do is insert the key. Then I will get you here at this time.
+
+🎤 SPEAKER_3 [193s - 195s]
+Always fishing the wrong bloody way.
+
+🎤 SPEAKER_2 [227s - 228s]
+Online.
+
+🎤 SPEAKER_7 [229s - 230s]
+Activate the neutron purge.
+
+🎤 SPEAKER_11 [230s - 232s]
+I'm sorry, but I can't do that without Who would have the code?
+
+🎤 SPEAKER_7 [232s - 240s]
+Director of operations, or any executive We're moving on. Logging you out. Commander.
+
+🎤 SPEAKER_1 [261s - 263s]
+Online. Activate the neutron.
+
+🎤 SPEAKER_7 [263s - 263s]
+Purge.
+
+🎤 SPEAKER_2 [264s - 265s]
+I'm sorry, but I can't do that.
+
+🎤 SPEAKER_7 [265s - 270s]
+Code input 87020079. Code omega local execution.
+
+🎤 SPEAKER_11 [272s - 276s]
+Verify code omega execution in one twenty seconds.
+
+🎤 SPEAKER_12 [380s - 383s]
+I'm sorry about that shepherd. We've got orders from Venetia.
+
+🎤 SPEAKER_2 [383s - 384s]
+Open fire.
+
+🎤 SPEAKER_11 [499s - 500s]
+Shut up.
+
+🎤 SPEAKER_16 [538s - 544s]
+Everywhere I go, I'm the only survivor. Maybe you better stand back.
+
+🎤 SPEAKER_7 [546s - 547s]
+I let anything happen.
+
+🎤 SPEAKER_16 [548s - 553s]
+Why do you think? The company wants to bury their mistake?
+
+🎤 SPEAKER_7 [553s - 553s]
+Venetia?
+
+🎤 SPEAKER_2 [554s - 556s]
+She's alive. She's here.
+
+🎤 SPEAKER_16 [558s - 564s]
+She ordered ventralis to send you to the hot labs. She expected the rachni to kill you.
+
+🎤 SPEAKER_7 [571s - 572s]
+Let's go collect the lady.
+
+🎤 SPEAKER_16 [574s - 576s]
+Do what whatever you like. I'm getting off this mountain.
+
+🎤 SPEAKER_2 [672s - 685s]
+You do not know the privilege of being a mother. There is power in creation. To shape a life turn it toward happiness or despair. Her children were to be ours.
+
+🎤 SPEAKER_7 [685s - 688s]
+Raised to hunt and slay Saren's enemies.
+
+🎤 SPEAKER_7 [691s - 693s]
+I won't be moved by
+
+🎤 SPEAKER_7 [700s - 706s]
+Liara is here because she's a member of my group. What have you told her about me,
+
+🎤 SPEAKER_1 [706s - 707s]
+What could I say either?
+
+🎤 SPEAKER_1 [710s - 720s]
+That you're insane, evil, Should I explain how to kill you? What could I say? Have you faced an Asari commando unit before Few humans have.
+
+🎤 SPEAKER_7 [724s - 726s]
+Can't believe you kill your own daughter.
+
+🎤 SPEAKER_7 [727s - 729s]
+I now really realize I should have been strange.
+
+
+---
+
