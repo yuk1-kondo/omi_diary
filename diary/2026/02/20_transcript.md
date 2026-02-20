@@ -3406,3 +3406,281 @@ Eight points.
 
 ---
 
+
+
+## 📝 Crew Reflects On Family, Faith, And Tough Choices - a375402c-38e7-432b-8f43-b315a194db9e
+
+**記録時間**: 2026-02-20 20:11:48
+
+### STT生テキスト
+
+🎤 SPEAKER_19 [0s - 2s]
+What's our next look commander? Head for the new relay.
+
+🎤 SPEAKER_7 [6s - 11s]
+The new relay could link to dozens of systems unless we know exactly where Sarah's going. We'd just be wasting our time.
+
+🎤 SPEAKER_19 [12s - 21s]
+The commander is right. We cannot rush off blind. We still need to learn more about Sarin. Who put you in charge? Did the commander resign when I wasn't looking?
+
+🎤 SPEAKER_7 [23s - 27s]
+I won't be a puppet for the Asari. Give the orders around here, understood?
+
+🎤 SPEAKER_19 [28s - 30s]
+Forgive me, commander. I was only trying to help.
+
+🎤 SPEAKER_7 [33s - 35s]
+We're done here. Crew dismissed.
+
+🎤 SPEAKER_10 [36s - 39s]
+Oviaria, report us away, Commander. You want me to patch you through to the council?
+
+🎤 SPEAKER_7 [40s - 41s]
+Patch him through, joker.
+
+🎤 SPEAKER_12 [41s - 42s]
+Setting up the link now, Commander.
+
+🎤 SPEAKER_7 [43s - 47s]
+Is this report accurate, commander? You found Rachni on Navaria.
+
+🎤 SPEAKER_9 [47s - 48s]
+Then release the queen.
+
+🎤 SPEAKER_16 [49s - 51s]
+Do you have any idea what you've done?
+
+🎤 SPEAKER_15 [51s - 54s]
+How many generations until they overrun the galaxy?
+
+🎤 SPEAKER_7 [55s - 57s]
+Three. Now four.
+
+🎤 SPEAKER_15 [60s - 65s]
+This is no joke to matter. The rack nine were one of the greatest threats the galaxy ever faced.
+
+🎤 SPEAKER_7 [66s - 71s]
+This queen is different. She understands why her kind had to be wiped out last time around.
+
+🎤 SPEAKER_15 [72s - 77s]
+I hope you're right, shepherd. Our children's children will pay the price if you're not.
+
+🎤 SPEAKER_7 [77s - 79s]
+We'll be waiting for your next report, Commander.
+
+🎤 SPEAKER_19 [118s - 125s]
+Oh, before I go, we saw Hayden in a newspaid about the Normandy. He's cute. Later, Sith,
+
+🎤 SPEAKER_19 [130s - 131s]
+Tell me you didn't hear that.
+
+🎤 SPEAKER_7 [133s - 134s]
+Afraid I did.
+
+🎤 SPEAKER_11 [135s - 136s]
+Shoot me now.
+
+🎤 SPEAKER_2 [140s - 142s]
+One of my sisters, that's Sarah, the youngest.
+
+🎤 SPEAKER_20 [142s - 145s]
+What's up? You didn't come by to Easter on one family meal.
+
+🎤 SPEAKER_7 [148s - 150s]
+Your family seems to be important to you.
+
+🎤 SPEAKER_2 [151s - 151s]
+Yeah.
+
+🎤 SPEAKER_7 [161s - 163s]
+Did your father start with the feet?
+
+🎤 SPEAKER_2 [163s - 164s]
+Yeah.
+
+🎤 SPEAKER_20 [164s - 173s]
+Took any crap posting you could get that off at space time. He worked his ass off trying to get recognized. Never made it above service.
+
+🎤 SPEAKER_2 [173s - 181s]
+Third class. He was really proud of that too. I was not the least What about you mother?
+
+🎤 SPEAKER_7 [181s - 182s]
+You haven't mentioned her.
+
+🎤 SPEAKER_20 [183s - 189s]
+Must know what military wives are like. Strong because they have to be, hate to raise kids while dad's away on a six month cruise.
+
+🎤 SPEAKER_20 [190s - 196s]
+She has a degree in planetary ideology. She ended up with one of the senior worlds. She gave up her career to raise us though.
+
+🎤 SPEAKER_7 [197s - 200s]
+You have more than one sister? Sounds like a big family.
+
+🎤 SPEAKER_20 [201s - 202s]
+Yeah.
+
+🎤 SPEAKER_19 [202s - 203s]
+I'm the oldest, then Abby, Sarah's the youngest.
+
+🎤 SPEAKER_20 [204s - 211s]
+She's still in high school. With the board girls daddies to say he felt more outnumbered at home than on the newest.
+
+🎤 SPEAKER_7 [215s - 217s]
+After helping Raisin, your sisters still talk to you?
+
+🎤 SPEAKER_17 [218s - 219s]
+Amazing.
+
+🎤 SPEAKER_20 [220s - 224s]
+Things were tense between Sarah and Eve for a while. And we thought it.
+
+🎤 SPEAKER_7 [227s - 229s]
+Sounds like a story you like sharing?
+
+🎤 SPEAKER_20 [230s - 242s]
+Sarah got herself a boyfriend who wanted to go faster than she did. Mike. I didn't think he was a bad kid, just pushy. Lynn would send me these worried nouns, and I'd tell her to relax.
+
+🎤 SPEAKER_20 [243s - 252s]
+Where were you when this was going on? I was on active duty. Sarah's graduating high school this year. This was only a couple years back.
+
+🎤 SPEAKER_20 [252s - 262s]
+They were on amateur all suit at the time I was assigned to turn out look. Same cluster but a dozen hell why away. Close enough to talk regularly, too far to make it back in an emergency.
+
+🎤 SPEAKER_20 [263s - 264s]
+I couldn't afford a fast packet play.
+
+🎤 SPEAKER_7 [268s - 270s]
+If he really liked her, he wouldn't be pushing
+
+🎤 SPEAKER_20 [271s - 272s]
+Yeah.
+
+🎤 SPEAKER_2 [272s - 272s]
+Of course.
+
+🎤 SPEAKER_20 [273s - 285s]
+If he didn't ask at all, I'd wonder if he thought Sarah was ugly. Damn if you do. Damn if you don't. Mike thought they'd go for a romantic walk in the woods because he figured it was past time they did the deed.
+
+🎤 SPEAKER_20 [285s - 293s]
+She levered Mike face first into a and left. Didn't have a scratch on her. Good thing mom and dad had us all learned some kind of self defense.
+
+🎤 SPEAKER_20 [294s - 297s]
+I took emergency leave and walked Sarah's school for a few days.
+
+🎤 SPEAKER_7 [303s - 306s]
+Why didn't you tell the police?
+
+🎤 SPEAKER_20 [306s - 313s]
+She said it solve the real problem. She and Mike would both become household muse. It was a small colony. I said it was her call to make.
+
+🎤 SPEAKER_20 [316s - 317s]
+Mom's pretty pissed about that.
+
+🎤 SPEAKER_7 [318s - 320s]
+You said all of your sisters learned self defense?
+
+🎤 SPEAKER_20 [325s - 331s]
+Abby decided to learn the sword. She always looked really weird. Like, speaks they do great things to her figure, though.
+
+🎤 SPEAKER_20 [337s - 339s]
+So what did you learn One of dad's friends taught me marine hand to hand.
+
+🎤 SPEAKER_7 [345s - 346s]
+Did anything happen while you were home?
+
+🎤 SPEAKER_20 [346s - 350s]
+My last day out, Mike was waiting for us.
+
+🎤 SPEAKER_20 [354s - 361s]
+Wasn't happy. I wanted to snap him in half, but Sarah gave me the look. This let me handle it.
+
+🎤 SPEAKER_13 [361s - 363s]
+I need to do this alone look.
+
+🎤 SPEAKER_20 [368s - 373s]
+Then he tried to punch her. I swear, she just flowed around him.
+
+🎤 SPEAKER_7 [378s - 381s]
+That's unbelievable. Sarah must be as good as you.
+
+🎤 SPEAKER_20 [382s - 395s]
+Better. I'm more or less a straight up puncher. When he swung, she just she wasn't there anymore, and he fell. She helped him stop the bleeding and had me call an ambulance. She told the paramedics he fell.
+
+🎤 SPEAKER_20 [396s - 401s]
+Before they took him to the hospital, Mike touched Sarah's arm. Thought he was gonna end up on the ground again.
+
+🎤 SPEAKER_20 [402s - 412s]
+But he hung his head, whispered. Sorry, and started crying. And she hugged him. The Williams women are a decisive bunch commander who do things when we're ready.
+
+🎤 SPEAKER_19 [412s - 413s]
+Not before, not after.
+
+🎤 SPEAKER_7 [416s - 421s]
+Your sister's something else. But you didn't mention your father at all. Was he on deployment?
+
+🎤 SPEAKER_20 [422s - 430s]
+Dad always wanted to serve in space. But he wanted us to have real ground under our feet. He say space is beautiful, but he can't raise a family there.
+
+🎤 SPEAKER_20 [431s - 443s]
+I cannot rest from travel. I will drink life to the All times I've enjoyed greatly. Have suffered greatly, both with those that love me and alone.
+
+🎤 SPEAKER_20 [445s - 450s]
+For always roaming with hungry heart, much have I seen and known. Cities of men, manners.
+
+🎤 SPEAKER_7 [451s - 453s]
+I never thought I'd hear you reciting poetry.
+
+🎤 SPEAKER_20 [454s - 460s]
+Just because I can drew you between the eyes at a 100 meters doesn't mean I can't like sensitive stuff. Just don't spread it around.
+
+🎤 SPEAKER_20 [460s - 468s]
+Ulysses was my dad's favorite Every time he shipped out, he recorded me reading it. He had a dozen versions when he retired.
+
+🎤 SPEAKER_7 [468s - 469s]
+Does he still like it?
+
+🎤 SPEAKER_20 [470s - 477s]
+I sure hope so. I read it to his grave every time I go home. Dad passed on a few years back. He's probably still watching though.
+
+🎤 SPEAKER_20 [478s - 479s]
+So behave.
+
+🎤 SPEAKER_7 [482s - 484s]
+You mean from wherever we go after dad?
+
+🎤 SPEAKER_20 [485s - 486s]
+Dead on skipper.
+
+🎤 SPEAKER_19 [487s - 487s]
+He's with God now.
+
+🎤 SPEAKER_7 [493s - 498s]
+That's You know that old saw there's never an atheist in a foxhole? I mean, in a lot of
+
+🎤 SPEAKER_2 [499s - 499s]
+Yeah.
+
+🎤 SPEAKER_20 [499s - 508s]
+I guess you have. I've met a few people who were really weirded out by my Because I work in space, I can't believe in a higher power. Jeez.
+
+🎤 SPEAKER_20 [511s - 516s]
+Hello. Have you people looked out the window? How you look at this galaxy and not believe in something?
+
+🎤 SPEAKER_7 [518s - 526s]
+Your beliefs are your business. I'm your commanding officer. Not your moral compass. Just my commanding officer, We'll have to see about that.
+
+🎤 SPEAKER_7 [530s - 532s]
+I'll look forward to our next talk.
+
+🎤 SPEAKER_20 [533s - 538s]
+Should get back to my duties. Didn't mean to take up so much of your time. What's your opinion of me the rack nine, right?
+
+🎤 SPEAKER_20 [542s - 543s]
+Haven't talked to Doctor. Tucson,
+
+🎤 SPEAKER_20 [546s - 548s]
+We'll talk later, Williams. Looking forward to it, skipper.
+
+
+---
+
