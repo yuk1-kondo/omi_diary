@@ -1876,3 +1876,74 @@ AI問題解説解説
 
 ---
 
+
+
+## 📝 Family Morning Chat About Weight And Routine - 1ccc40e7-0067-4523-afd6-0d46a917a8bc
+
+**記録時間**: 2026-02-20 18:27:33
+
+### STT生テキスト
+
+👤 あなた [0s - 2s]
+A ver, a ver, Yeah. They go with a nice Yeah.
+
+🎤 SPEAKER_1 [2s - 4s]
+What they look like with anything?
+
+👤 あなた [4s - 8s]
+Just prop alright on the snow tape, but Okay.
+
+🎤 SPEAKER_1 [8s - 8s]
+Hi.
+
+👤 あなた [8s - 11s]
+You don't sit. My coils never sit up there. They always sit on my hips.
+
+🎤 SPEAKER_1 [11s - 25s]
+Yeah. But what I'm telling you is this proton fine. Just like there. If you do it I now it's down from 11 stone five to 10 stone 13 and a half.
+
+👤 あなた [25s - 26s]
+Wow.
+
+🎤 SPEAKER_1 [28s - 31s]
+Impressive.
+
+👤 あなた [33s - 34s]
+Eighteen hour one thousand, one thousand two hundred calories, and exercise.
+
+🎤 SPEAKER_1 [36s - 40s]
+Yeah. Reese, I'm going to the shower now.
+
+👤 あなた [40s - 42s]
+Yep. Get the boys ready, is it?
+
+🎤 SPEAKER_1 [42s - 44s]
+Well, just if you can encourage him Do you finish your plate, Aja?
+
+👤 あなた [65s - 67s]
+Don't interrupt you.
+
+🎤 SPEAKER_1 [67s - 74s]
+No. I set my line for half nine. So I only had to tow to a half nine. I think this washing's hang up. I only had time to a lot, so pushing my exercise.
+
+👤 あなた [79s - 83s]
+Oh, you got from there, I see. That's convenient sewage space.
+
+🎤 SPEAKER_1 [83s - 84s]
+Well, my ones, too, is Let me just
+
+🎤 SPEAKER_1 [133s - 138s]
+Doesn't matter. Just open it, piece a bit of fresh air and oxygen. Do you try the other ones on?
+
+👤 あなた [139s - 139s]
+No.
+
+🎤 SPEAKER_1 [139s - 141s]
+But I'm not sure. Make.
+
+🎤 SPEAKER_2 [141s - 142s]
+No. I had
+
+
+---
+
