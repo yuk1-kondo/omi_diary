@@ -3742,3 +3742,86 @@ Well, the most important thing about your salvation is not first what happened a
 
 ---
 
+
+
+## 📝 Sermon Emphasizes Knowing the True Jesus - 11a35602-a622-4f5b-bef5-7152f24063dd
+
+**記録時間**: 2026-02-20 21:02:09
+
+### STT生テキスト
+
+🎤 SPEAKER_16 [0s - 1s]
+Drained on Christ.
+
+🎤 SPEAKER_16 [117s - 121s]
+Spirit. Get the spirit soon. As many false prophets gone into the world.
+
+🎤 SPEAKER_16 [172s - 173s]
+This is how we
+
+🎤 SPEAKER_3 [224s - 226s]
+It's coming from the planches test what they say about because if you get Jesus wrong, you get everything wrong.
+
+🎤 SPEAKER_3 [230s - 232s]
+So this is so what would
+
+👤 あなた [269s - 271s]
+This is not this is Jesus is not who the scripture says he is.
+
+🎤 SPEAKER_2 [275s - 275s]
+Why?
+
+👤 あなた [286s - 291s]
+Jesus not fully It's got the cross does not save you if Jesus is slightly even slightly different.
+
+👤 あなた [302s - 303s]
+Jesus is
+
+👤 あなた [342s - 348s]
+And this is why the church has always guided this doctrine. Fiercely.
+
+👤 あなた [351s - 361s]
+So here's the truth at the center of everything we're about to see. Salvation depends on who Jesus is, who Jesus is. Not just what Jesus did.
+
+👤 あなた [363s - 369s]
+Everything hands on that. Everything. Now let's see why.
+
+👤 あなた [411s - 421s]
+Every voice that uses the name of Jesus speaks the truth about Jesus. That means it's possible to talk about Christ and yet be wrong about Christ.
+
+👤 あなた [422s - 433s]
+It's possible to use his name and not know him. It's possible to preach Jesus and preach a different savior. And so John says, test it. Test what?
+
+👤 あなた [434s - 444s]
+Not the tone or the style of preaching or the passion behind the preaching, test what is confessed about Jesus. Because if you get Jesus wrong, you're not just slightly mistaken.
+
+👤 あなた [444s - 448s]
+You're trusting in someone who cannot save you.
+
+🎤 SPEAKER_3 [455s - 456s]
+The pilot is not truly qualified.
+
+👤 あなた [457s - 459s]
+It does not matter how calm he sounds.
+
+👤 あなた [488s - 497s]
+Test what is confessed by Jesus because if you get Jesus wrong, you're not slightly you're not just slightly mistaken. You are trusting in someone who cannot save you.
+
+👤 あなた [504s - 512s]
+The pilot's not truly qualified. It does not matter how calm he sounds. And if Jesus who is not whose scripture says he is, their cross does not save you.
+
+👤 あなた [513s - 530s]
+A wrong Jesus cannot save you. A slightly altered Jesus cannot reconcile you. A reshaped Jesus cannot bring you to God. Only the real Christ can. And the early church understood this And this is where they go.
+
+👤 あなた [531s - 534s]
+That is why they wrote the creeds.
+
+👤 あなた [537s - 544s]
+That is why they were willing to be exiled opposed even killed rather than compromise.
+
+👤 あなた [575s - 582s]
+Because they knew because they knew something we often forget. Christianity is not built on the admiration of Jesus.
+
+
+---
+
