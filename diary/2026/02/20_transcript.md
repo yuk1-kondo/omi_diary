@@ -2773,3 +2773,260 @@ Where did they come from?
 
 ---
 
+
+
+## 📝 Molestia and Omi Uncover Rachni Threat - dd4e33ca-7250-4ae0-99ea-d6e1ec0164b2
+
+**記録時間**: 2026-02-20 19:28:19
+
+### STT生テキスト
+
+🎤 SPEAKER_15 [0s - 0s]
+I welcome you.
+
+🎤 SPEAKER_13 [1s - 3s]
+I was sent here to find a Surprised for now.
+
+🎤 SPEAKER_7 [5s - 6s]
+With forced Given the situation pointedly, regrettably.
+
+🎤 SPEAKER_12 [59s - 63s]
+We could help us, but it's really good, but we can't risk the damage you now.
+
+🎤 SPEAKER_7 [65s - 68s]
+If we survive, we're employer. Alright. We'll run us
+
+🎤 SPEAKER_12 [68s - 68s]
+full camp of
+
+🎤 SPEAKER_2 [69s - 69s]
+four months.
+
+🎤 SPEAKER_12 [69s - 72s]
+Are there any anomalies? You straight up and the greatest
+
+🎤 SPEAKER_12 [79s - 80s]
+You work to do.
+
+🎤 SPEAKER_2 [134s - 135s]
+You and me You came to find out about them.
+
+🎤 SPEAKER_7 [137s - 139s]
+Didn't you? And you would be.
+
+🎤 SPEAKER_2 [141s - 144s]
+I'm Omi. I'm Ola.
+
+🎤 SPEAKER_7 [144s - 145s]
+I'll be leaving now.
+
+🎤 SPEAKER_2 [147s - 147s]
+Yeah.
+
+👤 あなた [149s - 150s]
+What?
+
+🎤 SPEAKER_7 [150s - 153s]
+I need to know more about those things out there.
+
+🎤 SPEAKER_10 [153s - 154s]
+About the rachni?
+
+🎤 SPEAKER_2 [155s - 157s]
+Rachni? That's preposterous.
+
+🎤 SPEAKER_7 [158s - 163s]
+The Krogan wiped them out a thousand years ago. They found it in a derelict ship.
+
+🎤 SPEAKER_16 [164s - 169s]
+An egg, waiting since the last battles. They brought it here
+
+🎤 SPEAKER_2 [172s - 173s]
+Shut up.
+
+🎤 SPEAKER_16 [173s - 179s]
+God, you wanna get us killed? I don't have any control over who lives or die
+
+🎤 SPEAKER_16 [185s - 193s]
+If you're gonna be crazy, be the quiet kind. Crazy? I'm sane. God am I sane.
+
+🎤 SPEAKER_7 [195s - 197s]
+I need to know everything about the Rachnai.
+
+🎤 SPEAKER_16 [198s - 203s]
+I told you all I can. We brought the Rachnai pack from the dead in retro I heard you were at the hot labs.
+
+🎤 SPEAKER_7 [204s - 207s]
+How did you make it out alive?
+
+🎤 SPEAKER_16 [207s - 215s]
+I killed She banged on the window once, and they her to pieces. I closed the door.
+
+🎤 SPEAKER_16 [217s - 217s]
+I killed her.
+
+🎤 SPEAKER_7 [221s - 223s]
+Tell me what you know.
+
+🎤 SPEAKER_16 [223s - 225s]
+I'll make you survive. You think I want absolute There is none.
+
+🎤 SPEAKER_7 [227s - 231s]
+I heard you were at the hot labs. How did you make it out alive?
+
+🎤 SPEAKER_16 [232s - 247s]
+I killed her. Who? Doctors on mule. We were going to lunch. When the alarms went off. I ran into the tram. And I closed the doors.
+
+🎤 SPEAKER_16 [249s - 260s]
+She banged on the window once, then they sliced her to pieces. Her head came apart like a melon. I closed the door. I killed her.
+
+🎤 SPEAKER_7 [263s - 265s]
+If you hadn't, you'd be dead too.
+
+🎤 SPEAKER_16 [266s - 266s]
+Of course.
+
+🎤 SPEAKER_7 [267s - 270s]
+That is pretty matriarchy. Survive in the hot labs.
+
+🎤 SPEAKER_2 [271s - 272s]
+It's possible.
+
+🎤 SPEAKER_16 [273s - 274s]
+They're the I'll be leaving now.
+
+🎤 SPEAKER_2 [275s - 275s]
+Yeah.
+
+🎤 SPEAKER_14 [312s - 313s]
+Okay.
+
+🎤 SPEAKER_12 [314s - 318s]
+So it used to night pairs like this to make cheap or it's lights out.
+
+🎤 SPEAKER_2 [326s - 327s]
+You're not part of the crew.
+
+🎤 SPEAKER_7 [330s - 332s]
+I have Ventralis' permission to go in there.
+
+🎤 SPEAKER_12 [332s - 332s]
+Yeah.
+
+🎤 SPEAKER_5 [333s - 335s]
+You He also said you have to prove you're you got a death wish.
+
+🎤 SPEAKER_12 [335s - 338s]
+You should stand watch as the barricade.
+
+🎤 SPEAKER_11 [417s - 421s]
+Your mission ends here, Shepherd. What the hell?
+
+🎤 SPEAKER_7 [427s - 433s]
+What happened to Vittrolux's man? I didn't have permission to come in. He got my way.
+
+🎤 SPEAKER_2 [437s - 439s]
+I was the slab. Weapons free.
+
+🎤 SPEAKER_7 [516s - 518s]
+They came out of there You mean to get the inorganics the Astari had with her?
+
+🎤 SPEAKER_16 [519s - 520s]
+Venezia brought them with her.
+
+🎤 SPEAKER_7 [525s - 526s]
+How come I get into the maintenance area?
+
+🎤 SPEAKER_16 [526s - 531s]
+A team lead would have access like doctor Cohen.
+
+🎤 SPEAKER_7 [531s - 532s]
+I'll be leaving now.
+
+🎤 SPEAKER_2 [532s - 532s]
+Yeah.
+
+🎤 SPEAKER_5 [604s - 606s]
+It's not the cure. You did it?
+
+🎤 SPEAKER_7 [610s - 614s]
+I was ambushed in the lab you sent me to. If you sent me off You had attacked?
+
+🎤 SPEAKER_5 [616s - 619s]
+I I I don't know anything about that. I hate looking.
+
+🎤 SPEAKER_5 [621s - 628s]
+The guards, been more on edge since you got here. I think they would expect it. There are more labs in the back. The guards won't even let me back there.
+
+🎤 SPEAKER_5 [629s - 630s]
+Just people with clearance.
+
+🎤 SPEAKER_5 [636s - 643s]
+Somebody in here needs a I don't want to get involved in this. Let me see that fire. An extension on Phil's work? I can't thank you enough.
+
+🎤 SPEAKER_16 [643s - 645s]
+Oh, god. What a cliche.
+
+🎤 SPEAKER_5 [646s - 648s]
+You saved their lives. Do you know that?
+
+🎤 SPEAKER_7 [651s - 652s]
+That's what I'm here for.
+
+🎤 SPEAKER_5 [652s - 654s]
+I need to administer.
+
+🎤 SPEAKER_2 [654s - 655s]
+They seem to be coming along well.
+
+🎤 SPEAKER_1 [655s - 658s]
+I need to get into the maintenance area. You're not supposed to go back there.
+
+🎤 SPEAKER_9 [658s - 659s]
+Here's my pass.
+
+🎤 SPEAKER_5 [660s - 661s]
+Just don't tell the car.
+
+🎤 SPEAKER_7 [661s - 661s]
+Talk to you later.
+
+🎤 SPEAKER_2 [662s - 663s]
+Of course. Mhmm.
+
+🎤 SPEAKER_12 [709s - 710s]
+Something you need?
+
+🎤 SPEAKER_7 [712s - 715s]
+I was attacked by the Asari who was in here. She killed your guard.
+
+🎤 SPEAKER_12 [716s - 719s]
+Doctor Ayalas? But she seemed like the most stable one here.
+
+🎤 SPEAKER_2 [720s - 722s]
+She was a Huntress pledged to the matronic.
+
+🎤 SPEAKER_1 [722s - 723s]
+A group of geth were with her.
+
+🎤 SPEAKER_15 [724s - 724s]
+Geth?
+
+🎤 SPEAKER_12 [726s - 730s]
+I know. God's honest truth. I thought she was just another egg head.
+
+🎤 SPEAKER_2 [731s - 731s]
+Son of a bitch.
+
+🎤 SPEAKER_7 [731s - 733s]
+I need to know more about the situation.
+
+🎤 SPEAKER_12 [733s - 735s]
+Facilities often network. I've got work today.
+
+🎤 SPEAKER_2 [735s - 735s]
+You and me both.
+
+
+---
+
