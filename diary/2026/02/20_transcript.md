@@ -3925,3 +3925,1724 @@ Would you like to
 
 ---
 
+
+
+## 📝 Family Visit, Studies, Dogs, And Using AI At Work - 1c0e0d1e-c356-404c-a2ba-7e75250506b7
+
+**記録時間**: 2026-02-20 21:44:38
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [992s - 1005s]
+Me sense Into those extreme circumstances early when someone can watch over you. Anyway, I assume can understand why it's important for a telemancer to carry a little metal on their body as possible. Did not as
+
+🎤 SPEAKER_0 [1005s - 1025s]
+then paused to My earring, she said, I'll have to stop wearing it. Does it have a clip on the back? Elsir asked. Ben shook her head. It's just a small stunt, and the pin on the back bends down. Then you'll be alright, Elsa said.
+
+👤 あなた [1026s - 1039s]
+Metal in your body, even if only a bit of it is in your body, can't be pushed or pulled. Otherwise, another elementor could grip the metals out of your stomach while you were burning them. Good to know, your thought.
+
+👤 あなた [1040s - 1052s]
+It's also why those inquisitors can walk around so confidently with a pair of steel spikes sticking out of their heads. The metal pierces their body so it can't be affected by another palomancer. Keep the earring.
+
+👤 あなた [1053s - 1067s]
+It's small so you won't be able to do much with it, but you could use it as a weapon an emergency. Alright. Now you ready to go? She looked up at the wall, preparing to jump again, then knotted.
+
+👤 あなた [1068s - 1114s]
+Not going back up, Kelsey said. Come on. In front of this, Kelsey began to walk out into the mists. So he does have a destination after all, or has he just decided to wander some more? Oddly, his affable nonchalance made him very difficult to Ben hurried to keep up not wanting to be left alone in the rest. The landscape around the was barren, safe for scrub and weeds. Prickles and dried leaves, both dusted with ash from an earlier ash fall, rubbed against her legs as they walked. The underbrush crunched as they walked, quiet and a bit sudden with mist view. A they passed heaps of ash that had been carted out of the city.
+
+👤 あなた [1115s - 1140s]
+Most of the time, however, ash was thrown into the River Channeril, which passed through the city. Water broke it down eventually, or at least that was what had been assumed. Otherwise, the entire continent would have been buried long ago. Lynn stayed close to as they walked, though she had traveled out cities before, she had always moved as part of a group of boatmen.
+
+👤 あなた [1141s - 1163s]
+The skye workers who ran narrow boats and barges up and down the many canal routes in the final empire. It had been hard work. Most noblemen skies instead of horses to pull the boats along the tow path, but there had been a certain freedom to knowing that she was traveling at all. For most ska, even ska thieves, never let their plantation or town.
+
+👤 あなた [1165s - 1183s]
+The constant movement from city to city had been ringed choice. He had been obsessive about never getting locked down. He usually got them places on canal boats run by underground crews, never staying in one place for more than a year. He had kept moving, always going. I said running from something.
+
+👤 あなた [1185s - 1196s]
+They continued to walk. At night, even the barren hills, and scrap covered plains took on up for being here. Ben didn't speak, though she tried to make as little noise as possible.
+
+👤 あなた [1198s - 1214s]
+She had heard tales of what went abroad in her land at night and the cover of the mists. Even pierced by tin as it now was, made her feel as if she were being watched. The sensation grew more unnerving as they traveled. Soon she began to hear noises in the darkness.
+
+👤 あなた [1214s - 1236s]
+They were muffled and faint. Crackles of weeds, shuffles in the equally nest. They were just being paranoid. She told herself that she jumped at some half imagined sound. Eventually, however, she could stand it no more. Healthier, she said with an urgent whisper, one that sounded betrayingly loud to her enhanced ears.
+
+👤 あなた [1237s - 1251s]
+I think there's something out there. Kelsey or asked. He looked lost in his thoughts. I think something is following us. Oh, Calcio said. Yes. You're right.
+
+👤 あなた [1251s - 1265s]
+It's a mistake. Then stop. In her tracks. Calcior, however, kept going. Calcier, she said, causing him to pause. You mean they're real? Of course they are.
+
+👤 あなた [1265s - 1275s]
+Are, said. Where do you think all the stories came from? Ben stood in dumbfounded shock. You wanna go look at it? Gelsier asked.
+
+👤 あなた [1276s - 1288s]
+Look at the mist race, Ben asked. Are you? She stopped. Kelsey or chuckled, strolling back to her. Miss Drakes might be a bit disturbing to look at.
+
+👤 あなた [1289s - 1306s]
+But they're relatively harmless. The scavengers most Come on. He began to retrace their waving her to follow. Reluctant, but curious, then followed. Often brisk pace, leading her to the top of a relatively scrub free hill.
+
+👤 あなた [1307s - 1312s]
+He crashed down, motioning for Vin to do likewise. There.
+
+👤 あなた [1341s - 1342s]
+Hallo, Hello.
+
+🎤 SPEAKER_1 [1342s - 1344s]
+Hello. I've got a quick jogging.
+
+👤 あなた [1344s - 1351s]
+Quick. Forgot. That's alright. Is that alright? Hello? Yeah. Yeah. Hello. Hi, Alright. I I come and say hello.
+
+🎤 SPEAKER_2 [1351s - 1353s]
+Yay. I come and say hello.
+
+🎤 SPEAKER_2 [1358s - 1359s]
+Hello.
+
+🎤 SPEAKER_1 [1360s - 1361s]
+Hello little kitty.
+
+🎤 SPEAKER_2 [1361s - 1362s]
+How are you?
+
+🎤 SPEAKER_0 [1389s - 1389s]
+Hello?
+
+🎤 SPEAKER_1 [1390s - 1394s]
+Would you like we have got scrambled eggs, and we've got beans, all
+
+🎤 SPEAKER_1 [1397s - 1395s]
+and the sandwiches? Yeah. Yeah. got ham ham and Yes.
+
+👤 あなた [1399s - 1401s]
+That sounds good.
+
+🎤 SPEAKER_2 [1407s - 1413s]
+Are you? You okay? Thank you. Yeah. You're good. Job. Come on.
+
+👤 あなた [1413s - 1423s]
+Come here. Come here little kitty. Come on in. You are telling me, is it? You are tiny. But very nothing but my lips.
+
+👤 あなた [1443s - 1451s]
+Yes. You are. Yes. You are. You're a happy little doggy. You're a happy little doggy. You are a happy little doggy.
+
+🎤 SPEAKER_2 [1451s - 1452s]
+You you? Yes.
+
+🎤 SPEAKER_2 [1461s - 1462s]
+Tea or a or a a cold one?
+
+👤 あなた [1462s - 1474s]
+Well, have you got any cans maybe? Yes. I'll start. Yes. I have one of those. I can sort my myself as fine. You're alright. Yeah. That's great. Thank you. Just meeting this little Hello, cutie.
+
+🎤 SPEAKER_2 [1475s - 1478s]
+You're right. You're alive. You're I am. Well done.
+
+👤 あなた [1478s - 1485s]
+My main progress is done. It's done. On to the next thing, anyway. You lit me on the lips. She did when I bit them. Oh, yes.
+
+🎤 SPEAKER_1 [1485s - 1486s]
+Sitting.
+
+👤 あなた [1487s - 1492s]
+Wash my hands now in a minute because She's gorgeous. You could do one of these, Mary.
+
+🎤 SPEAKER_2 [1492s - 1493s]
+No. Can't. No. She's been in my bedroom.
+
+👤 あなた [1493s - 1504s]
+Is she? But she's a of joy, though, isn't she? Little dogs are my really compared to big. Companion, No. Have to keep getting getting back. Have to get to bow the door.
+
+🎤 SPEAKER_1 [1504s - 1506s]
+Daddy, can you finish it?
+
+👤 あなた [1506s - 1509s]
+Yeah. That's true. That's true. It's done. It's done. Yeah.
+
+🎤 SPEAKER_2 [1509s - 1512s]
+It's done. Yep. No. No.
+
+👤 あなた [1512s - 1516s]
+Oh, well, yeah, actually, it is. I've got this note to do which is like an it's like a
+
+🎤 SPEAKER_2 [1516s - 1517s]
+Busy lessons.
+
+👤 あなた [1517s - 1523s]
+It's like three essays in one, essentially. You're final. That's it. And then I've got exciting.
+
+👤 あなた [1527s - 1530s]
+Oh, it is? I I earlier than I thought.
+
+🎤 SPEAKER_2 [1530s - 1531s]
+Like, three trades were we Well, yeah.
+
+👤 あなた [1531s - 1534s]
+That's thanks to Rachel that. She's so new.
+
+🎤 SPEAKER_2 [1535s - 1535s]
+Remember Rachel.
+
+👤 あなた [1535s - 1536s]
+Do you remember that?
+
+🎤 SPEAKER_1 [1536s - 1537s]
+I'll add these guys, really.
+
+🎤 SPEAKER_2 [1537s - 1539s]
+Say thank you to them. They had the kids all day.
+
+👤 あなた [1540s - 1547s]
+Oh, I did. Think I yeah. Thank you, Anna. Yeah. I thought I told her thank you already, Rachel. Oh, I thought you just By a text by a text. Oh, yeah.
+
+👤 あなた [1547s - 1548s]
+Not in person though, to be fair.
+
+🎤 SPEAKER_2 [1548s - 1550s]
+Yeah.
+
+👤 あなた [1551s - 1553s]
+Freeze for Resee.
+
+🎤 SPEAKER_1 [1555s - 1561s]
+The voice had fun doing crate art kits, and we jumped into Omi and Emily. Go to school there.
+
+👤 あなた [1561s - 1562s]
+Omi and Emily. Hi. Yeah.
+
+👤 あなた [1565s - 1567s]
+Not for now, maybe. Thank you, though. Thank you for offering, though.
+
+🎤 SPEAKER_2 [1569s - 1573s]
+Yeah.
+
+🎤 SPEAKER_1 [1573s - 1576s]
+You're making just get yourself some food, then I'm having food as well.
+
+🎤 SPEAKER_1 [1576s - 1579s]
+So and I How many of these will be? You and me.
+
+👤 あなた [1584s - 1588s]
+Oh, yeah. That's that's great. Mini popper dogs.
+
+🎤 SPEAKER_2 [1593s - 1594s]
+Thank you, babe.
+
+👤 あなた [1626s - 1635s]
+No. Thank you. I'm good. Alright. We're in here. We're in good. So, Hannah, new car. Looking good? Say it again?
+
+🎤 SPEAKER_1 [1643s - 1645s]
+She is perfect.
+
+👤 あなた [1645s - 1646s]
+You're perfect. You're beautiful.
+
+🎤 SPEAKER_2 [1646s - 1648s]
+Ready down.
+
+👤 あなた [1648s - 1649s]
+The complete opposite.
+
+🎤 SPEAKER_2 [1654s - 1657s]
+Complete opposite to Henry.
+
+👤 あなた [1658s - 1659s]
+Not to lessen Henry, you know.
+
+🎤 SPEAKER_2 [1674s - 1676s]
+No. I can just tug her if she's It doesn't yeah.
+
+👤 あなた [1676s - 1680s]
+Different temperament as well. They're a bit more bubbly and Honey.
+
+🎤 SPEAKER_2 [1680s - 1684s]
+Yeah. Well, she's more Perfect.
+
+🎤 SPEAKER_1 [1685s - 1687s]
+She loves people.
+
+🎤 SPEAKER_2 [1687s - 1689s]
+Yep. But she's much more needy, so she can't cope very well when people are no longer there.
+
+🎤 SPEAKER_2 [1692s - 1695s]
+Oh, yes. So there's definitely she yeah.
+
+👤 あなた [1695s - 1698s]
+There's a few things. Was Henry he was very much used to?
+
+🎤 SPEAKER_1 [1699s - 1702s]
+Was just like, if you could just leave him and then know he was lying. No.
+
+👤 あなた [1709s - 1712s]
+That would've been a very sad introduction to Hody if I opened the door and she belted out.
+
+👤 あなた [1719s - 1721s]
+Very good. And what does Chris make of Heidi?
+
+🎤 SPEAKER_1 [1721s - 1730s]
+He likes it. I think there's a few things that I would get it. But the things that are a bit of a challenge, he's obviously liked oh, that's not that great.
+
+👤 あなた [1730s - 1735s]
+But Imagine crisper for, like, imagine, like, a a disciplined farm dog or something.
+
+🎤 SPEAKER_1 [1743s - 1747s]
+Okay. I'll be quiet. Whereas she would just whine two hours.
+
+👤 あなた [1747s - 1748s]
+Yeah.
+
+🎤 SPEAKER_1 [1753s - 1756s]
+She's a little bit. It's like when the doorbell goes, Oh, yeah.
+
+👤 あなた [1776s - 1779s]
+Last time we did that with Henry, there's no
+
+👤 あなた [1796s - 1799s]
+I'm assuming she doesn't Which is a big difference with Henry, obviously.
+
+🎤 SPEAKER_1 [1811s - 1820s]
+Stairs, but it's just easier if she could follow us because Yeah. Control where it clearly corners her by being put in a room.
+
+👤 あなた [1820s - 1824s]
+Yes. I wonder if that's the little dog thing, but Yeah.
+
+🎤 SPEAKER_3 [1824s - 1825s]
+But more passing.
+
+👤 あなた [1825s - 1831s]
+My very limited experience, My parents just got the same same constantly. But
+
+👤 あなた [1836s - 1842s]
+Bichon frise. That's right. That are fashion now, but they're all the they're all in. Ones there.
+
+🎤 SPEAKER_2 [1842s - 1843s]
+Like, they're all Anything is because I don't mouth.
+
+👤 あなた [1847s - 1852s]
+You can't give them one in text. No. It's almost like like of a they're quite dopey slash
+
+🎤 SPEAKER_2 [1852s - 1853s]
+Oh, but they're white.
+
+👤 あなた [1881s - 1884s]
+But maybe you're not you're not tempted in
+
+👤 あなた [1918s - 1920s]
+She sweep it up over there.
+
+👤 あなた [1923s - 1924s]
+So how's the sweet been then? So
+
+👤 あなた [1947s - 1952s]
+Hannah, I've never heard anything so disgusting. When I A sheep breath smell to the cheese.
+
+🎤 SPEAKER_2 [1982s - 1983s]
+Just cheddar,
+
+🎤 SPEAKER_2 [1997s - 2001s]
+Alright?
+
+👤 あなた [2030s - 2034s]
+Six for one, and she had a four five of four You'll be enjoying it and working hard and resting well.
+
+👤 あなた [2059s - 2064s]
+Will that whole area be cleared for us on your home or no? Will the tank still be there, B2B and everything?
+
+🎤 SPEAKER_1 [2065s - 2065s]
+It's been harder than
+
+🎤 SPEAKER_1 [2074s - 2074s]
+Yeah.
+
+🎤 SPEAKER_1 [2077s - 2078s]
+So we've, like, dropped price.
+
+🎤 SPEAKER_2 [2078s - 2079s]
+That's gonna be four eighty four hours to
+
+👤 あなた [2080s - 2081s]
+Just get rid of stuff.
+
+🎤 SPEAKER_2 [2081s - 2082s]
+Painful bracelet.
+
+🎤 SPEAKER_1 [2082s - 2083s]
+Oh, okay.
+
+🎤 SPEAKER_1 [2098s - 2102s]
+Hobby size. Mhmm. And you can get a picture there. But when you post a post, it also gives you then Heidi's you.
+
+🎤 SPEAKER_2 [2131s - 2133s]
+Doggy thing. But it's not new.
+
+🎤 SPEAKER_1 [2133s - 2134s]
+Yet.
+
+👤 あなた [2134s - 2140s]
+Well, Do you just do it just then? I I just noticed that. I thought it looked pretty cool. Nice.
+
+🎤 SPEAKER_2 [2142s - 2143s]
+Nice.
+
+👤 あなた [2143s - 2146s]
+You wanna keep your body behind the ball though? In case your hands miss.
+
+👤 あなた [2155s - 2156s]
+Because if he slips your hands not.
+
+🎤 SPEAKER_1 [2169s - 2172s]
+I've just said to Chris that you've had a long time of enjoying it.
+
+🎤 SPEAKER_3 [2172s - 2174s]
+We're not gonna lose money. No.
+
+🎤 SPEAKER_2 [2175s - 2176s]
+No. You've any profit.
+
+🎤 SPEAKER_3 [2176s - 2179s]
+Good job. Regenerate. Yeah. Hello?
+
+👤 あなた [2180s - 2190s]
+You asked probably gonna save a fair whack on your energy bill. Although you have got soda you have got soda panels. I'm not gonna be giving you any foods, but you can see there Dan. No. You're not allowed to do this.
+
+👤 あなた [2193s - 2195s]
+Jumping on the sofa. Yeah.
+
+🎤 SPEAKER_4 [2195s - 2196s]
+It's just jumping up. Yeah.
+
+👤 あなた [2196s - 2200s]
+Trying to teach her not to do that. She's gorgeous.
+
+🎤 SPEAKER_2 [2204s - 2205s]
+Now.
+
+👤 あなた [2205s - 2208s]
+Really? Yeah. Oh, great. You know? That's sweet. Yeah.
+
+🎤 SPEAKER_1 [2215s - 2218s]
+I minute. Yeah. And then She she comes across more toy Yeah.
+
+🎤 SPEAKER_1 [2222s - 2228s]
+And we were like, oh, we did What are the things like that? But for me? The dad was fine. Maybe about this.
+
+🎤 SPEAKER_2 [2229s - 2232s]
+With you. Mhmm.
+
+👤 あなた [2235s - 2243s]
+We've got her actually gonna send off a script Get yourself a little tote bag that you can walk around with her in and have her. I a sweet head little popping out over the top.
+
+👤 あなた [2259s - 2262s]
+But you went into the eyes wide open. You know what you get into?
+
+🎤 SPEAKER_1 [2267s - 2298s]
+Of insight, but at the same time, have a slightly I've told me as a puppy, but, like, even because we didn't know what's at. Yeah. The only big drama. So you just chew a hole in the into next door's garden.
+
+🎤 SPEAKER_1 [2300s - 2318s]
+That's a I'm sure he ate it. Just like that. So that first year was expected because he can have he was constrained. Then where, like, your arms be, it's after the surgery it's well looked up. Isn't that that be?
+
+🎤 SPEAKER_2 [2318s - 2318s]
+I'm here. No.
+
+🎤 SPEAKER_1 [2339s - 2344s]
+That's But we will have to go through it. Yeah. We've got a new sofa coming in March, so I hope it doesn't tie one of them
+
+🎤 SPEAKER_3 [2344s - 2345s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [2345s - 2347s]
+We'll just cover everything in towels.
+
+👤 あなた [2348s - 2350s]
+Oh, one you say for the new set coming in?
+
+🎤 SPEAKER_1 [2351s - 2353s]
+No. So we we well, the
+
+🎤 SPEAKER_2 [2353s - 2354s]
+the two are great.
+
+👤 あなた [2354s - 2358s]
+Magic is just gonna say Oh, yeah. In there. Well used.
+
+🎤 SPEAKER_3 [2358s - 2359s]
+Well well used.
+
+🎤 SPEAKER_1 [2359s - 2361s]
+So we're gonna tip that.
+
+👤 あなた [2363s - 2364s]
+That's not even Is this Heidi's pool?
+
+🎤 SPEAKER_2 [2364s - 2365s]
+No.
+
+👤 あなた [2365s - 2366s]
+You want me to do some?
+
+👤 あなた [2371s - 2371s]
+That's right.
+
+🎤 SPEAKER_1 [2371s - 2375s]
+I don't know. We got new soaps, but the the two seater we're putting in is the kitchen diner.
+
+👤 あなた [2376s - 2377s]
+Yeah.
+
+🎤 SPEAKER_2 [2386s - 2388s]
+Hi, Well, I've got that Whistleball.
+
+🎤 SPEAKER_3 [2391s - 2393s]
+Oh.
+
+🎤 SPEAKER_1 [2393s - 2394s]
+I've got a backup plan. Oh.
+
+🎤 SPEAKER_2 [2394s - 2396s]
+You've been? Meese, Hannah, husband.
+
+🎤 SPEAKER_1 [2398s - 2399s]
+Little mini cockroach bun. No.
+
+🎤 SPEAKER_2 [2399s - 2400s]
+Why not? I just want it like that.
+
+🎤 SPEAKER_1 [2400s - 2402s]
+It looks like you don't even need any That's all.
+
+👤 あなた [2403s - 2403s]
+Yeah.
+
+🎤 SPEAKER_3 [2403s - 2403s]
+No.
+
+👤 あなた [2404s - 2408s]
+Oh, no. I thought you're gonna toast it and better it. No.
+
+🎤 SPEAKER_2 [2408s - 2410s]
+I'm bring you, like, raw dough. Yeah.
+
+👤 あなた [2419s - 2423s]
+I do on I do on purpose because I know
+
+🎤 SPEAKER_2 [2436s - 2437s]
+You have a ring.
+
+🎤 SPEAKER_3 [2441s - 2442s]
+Nice.
+
+👤 あなた [2445s - 2449s]
+Omi, is that from the Truman Show? Is that from the Truman Show? No.
+
+👤 あなた [2457s - 2460s]
+Nice safe. Grace. Yep.
+
+🎤 SPEAKER_2 [2464s - 2464s]
+You wanted if Grade one pieces.
+
+👤 あなた [2465s - 2469s]
+Grade one pieces. Yeah. He's working he's doing really well with that, to be honest.
+
+🎤 SPEAKER_3 [2469s - 2470s]
+I know.
+
+👤 あなた [2471s - 2472s]
+Her her licks are not Actually, I didn't mind
+
+👤 あなた [2476s - 2477s]
+Let's get ready first of you.
+
+👤 あなた [2483s - 2484s]
+Oh, sobiades.
+
+🎤 SPEAKER_3 [2489s - 2490s]
+Go, Lucky.
+
+👤 あなた [2495s - 2498s]
+Nice throw, Harris. Oh, wise.
+
+🎤 SPEAKER_1 [2499s - 2503s]
+Pretty much.
+
+👤 あなた [2503s - 2505s]
+Yeah. And that's it.
+
+🎤 SPEAKER_1 [2506s - 2509s]
+So one off essay. No.
+
+👤 あなた [2512s - 2520s]
+I got a part of my dissertation will be to do, like, interviews with passers And I thought, well, a perfect time to do that would be when I'm in Cape Town.
+
+🎤 SPEAKER_3 [2520s - 2521s]
+Yeah.
+
+👤 あなた [2521s - 2532s]
+Because everyone would be there. Yeah. So before I do that though, I've got to do the I've got to do the work to get the I've got to do the Gotta do the work first.
+
+🎤 SPEAKER_2 [2532s - 2532s]
+See? Yeah.
+
+👤 あなた [2532s - 2537s]
+Oh, Don't don't have me on your team for Volders Volders around Disney.
+
+🎤 SPEAKER_2 [2540s - 2542s]
+That that's what I said.
+
+👤 あなた [2543s - 2543s]
+I can't.
+
+👤 あなた [2551s - 2559s]
+Have you got any fun dog issues like gym Oh, look at that. Thanks, Rich. I've I'm covered in dogs there, coats.
+
+🎤 SPEAKER_2 [2560s - 2563s]
+You got coats? We've got a junk cut guy, and we've got Have you?
+
+👤 あなた [2564s - 2568s]
+What about like little doggy boots?
+
+👤 あなた [2573s - 2578s]
+Some nice What's the the posh brand of
+
+🎤 SPEAKER_3 [2578s - 2579s]
+Weli boots?
+
+👤 あなた [2580s - 2583s]
+Hunters. Come up here little doggy hunters. Sorry. Yeah.
+
+🎤 SPEAKER_1 [2584s - 2585s]
+And then sunshine yellow.
+
+👤 あなた [2617s - 2630s]
+Quite a ton of did that one. I was getting you to sorry, Adobe was pinned down. Go and show me again?
+
+👤 あなた [2669s - 2671s]
+Precision I don't scare it up.
+
+👤 あなた [2698s - 2703s]
+Oh, Nice. What can we in, ain't it? What can we in? I don't know, actually.
+
+🎤 SPEAKER_1 [2703s - 2704s]
+Alright. I mean, it's bruising y'all.
+
+👤 あなた [2704s - 2709s]
+Nice, Edith. Sounding good, son. How are you?
+
+🎤 SPEAKER_2 [2710s - 2711s]
+Alright. Thank you.
+
+👤 あなた [2712s - 2729s]
+It's been Laughing. Oh, sorry. I just started yeah. Busy up. Yeah. Busy house and Good. Yeah. It's nice. It's been nice for everybody. I think everyone's well, see the kids less than I do in a school week. Yeah. You've done well.
+
+🎤 SPEAKER_3 [2730s - 2730s]
+Oh, dear.
+
+👤 あなた [2730s - 2732s]
+I have. But it's it's meant that I've got everything done.
+
+🎤 SPEAKER_2 [2734s - 2735s]
+Yeah.
+
+👤 あなた [2735s - 2737s]
+I nearly finished seven for Sunday and saw some cousins when it came down.
+
+🎤 SPEAKER_2 [2739s - 2740s]
+Yep.
+
+👤 あなた [2742s - 2755s]
+And they got on alright? There was no problems when they slept over? Well, I Yeah. Lucky dudes, behavior. It's just all emotionally dude. It can be super cheerial.
+
+🎤 SPEAKER_3 [2756s - 2758s]
+No. Kids.
+
+🎤 SPEAKER_1 [2768s - 2769s]
+It's Yeah. So she came. So they put on to put on when they paid.
+
+👤 あなた [2770s - 2771s]
+No. Bailey. I've no.
+
+🎤 SPEAKER_1 [2771s - 2775s]
+Played. So they came just after they'd gone in for their first
+
+👤 あなた [2775s - 2775s]
+Oh, yeah?
+
+🎤 SPEAKER_1 [2776s - 2781s]
+And then we'd come out for half an hour. Trying to perhaps that.
+
+🎤 SPEAKER_2 [2781s - 2783s]
+Yeah. So then Omi and Emily arrived.
+
+🎤 SPEAKER_5 [2783s - 2787s]
+So they did one so they did two gates on the trough, so that's what did quite well because so Oh, yeah.
+
+👤 あなた [2787s - 2789s]
+That was good.
+
+🎤 SPEAKER_5 [2789s - 2792s]
+Omi was, you with Jewish. Good. So I think they had quite a nice time.
+
+👤 あなた [2792s - 2798s]
+And did the the pricing work out? Did the free tickets and the t shirts ready? We don't think it was right.
+
+👤 あなた [2819s - 2827s]
+For a reason. Know. Yeah. Yeah. You know. All one of all these companies, they a little bit ahead of themselves and start charging silly money, they?
+
+🎤 SPEAKER_5 [2828s - 2830s]
+Town. Yep.
+
+👤 あなた [2830s - 2841s]
+Well, I've not eaten since there. I've got our foods. I'll just just a window between half twelve and half five
+
+👤 あなた [2859s - 2860s]
+Was song is this, Ariel? To deja.
+
+🎤 SPEAKER_2 [2861s - 2862s]
+Song
+
+🎤 SPEAKER_2 [2910s - 2911s]
+Maybe.
+
+🎤 SPEAKER_1 [2923s - 2924s]
+School pieces. Yeah.
+
+👤 あなた [2929s - 2931s]
+That does sound like a boring grade one piece, don't it?
+
+🎤 SPEAKER_1 [2932s - 2934s]
+It's not grade one, isn't it? Think.
+
+🎤 SPEAKER_3 [2934s - 2934s]
+Is it not?
+
+👤 あなた [2937s - 2939s]
+So anyhow, I'll I'll We're burning some testosterone over there lads, are we?
+
+🎤 SPEAKER_1 [2939s - 2944s]
+Four days into your piano lesson. You can't write them up.
+
+🎤 SPEAKER_3 [2944s - 2944s]
+No.
+
+🎤 SPEAKER_1 [2944s - 2950s]
+You're supposed perfect at it. Okay? Otherwise, there's no Virginia pants. Jude.
+
+👤 あなた [2950s - 2953s]
+Jude. No no pinching.
+
+🎤 SPEAKER_3 [2958s - 2959s]
+Yeah. No.
+
+🎤 SPEAKER_2 [2959s - 2961s]
+My dad.
+
+👤 あなた [2961s - 2970s]
+But I gotta be honest with you. My dad was like, right. Gonna start with the the something scale or something. I just had no interest in that.
+
+👤 あなた [2971s - 2979s]
+So I stopped So I stopped I got an Oasis Call book and that's how I going. It's just a fool. In the end, I would have preferred probably to probably it properly, but But
+
+👤 あなた [2986s - 2989s]
+Back in those days, Hannah wasn't much to do other than play insurance and stuff.
+
+🎤 SPEAKER_1 [2991s - 2993s]
+So it's much now.
+
+👤 あなた [3007s - 3010s]
+What's your doggy? What's the what's the dog?
+
+🎤 SPEAKER_2 [3032s - 3034s]
+Watch my flowers.
+
+👤 あなた [3035s - 3038s]
+Right. All the groups waiting for the game to finish really, aren't they?
+
+🎤 SPEAKER_2 [3040s - 3042s]
+She's like, more more. You want more?
+
+👤 あなた [3069s - 3071s]
+Yeah. She's the one in you you the boss.
+
+🎤 SPEAKER_2 [3080s - 3081s]
+An animal.
+
+👤 あなた [3082s - 3084s]
+Look at that. They got a beautiful fur.
+
+👤 あなた [3089s - 3090s]
+Keep you away from those lot.
+
+🎤 SPEAKER_3 [3095s - 3099s]
+She's very cute. What's the aim of the game then, you two?
+
+🎤 SPEAKER_2 [3106s - 3107s]
+Yeah. I think they need to get the ball.
+
+👤 あなた [3107s - 3109s]
+They felt the boys need this sort of outlet really.
+
+👤 あなた [3136s - 3138s]
+What's your what's your doggy?
+
+🎤 SPEAKER_3 [3142s - 3143s]
+Jude, Jude, what are doing?
+
+🎤 SPEAKER_1 [3143s - 3147s]
+Jude, I think we forgot you were grabbing Heidi Right.
+
+👤 あなた [3153s - 3154s]
+Stop now.
+
+👤 あなた [3159s - 3163s]
+I think I don't wonder if Jude's intention was to either a drag Oh, you're on top of
+
+🎤 SPEAKER_3 [3164s - 3164s]
+Toby?
+
+👤 あなた [3169s - 3172s]
+Heidi's a bit confused as to what's going on here. She's looking a bit sad.
+
+👤 あなた [3186s - 3187s]
+What's what's the She's a bit concerned and
+
+🎤 SPEAKER_1 [3188s - 3188s]
+She's alright.
+
+🎤 SPEAKER_2 [3188s - 3194s]
+She's like She's like, like to give you a little bit.
+
+👤 あなた [3196s - 3198s]
+Oh, I What was your intentions and plans and afternoon?
+
+👤 あなた [3213s - 3213s]
+Yeah.
+
+🎤 SPEAKER_3 [3217s - 3218s]
+How do you guys winning now?
+
+🎤 SPEAKER_1 [3221s - 3222s]
+Just do gentle, please.
+
+🎤 SPEAKER_3 [3225s - 3225s]
+Watch.
+
+🎤 SPEAKER_3 [3245s - 3247s]
+Right. I think that's enough now, I think.
+
+👤 あなた [3257s - 3258s]
+Oh, sorry. Yeah.
+
+🎤 SPEAKER_3 [3259s - 3259s]
+It's probably keep out the game, Right.
+
+🎤 SPEAKER_5 [3274s - 3275s]
+Listen.
+
+🎤 SPEAKER_3 [3275s - 3278s]
+That's the end of that game now. Stop.
+
+🎤 SPEAKER_1 [3278s - 3280s]
+That was a good rugby sack.
+
+👤 あなた [3281s - 3283s]
+It's a bit really bit rough and violent for the dog.
+
+👤 あなた [3306s - 3308s]
+Can the dog go around the gum sensor?
+
+🎤 SPEAKER_1 [3343s - 3345s]
+You drive somewhere. Yeah.
+
+🎤 SPEAKER_3 [3347s - 3348s]
+It looked like a hump, didn't it? No.
+
+👤 あなた [3348s - 3349s]
+But she's a she's female.
+
+🎤 SPEAKER_3 [3365s - 3368s]
+Oh, watch it.
+
+🎤 SPEAKER_3 [3373s - 3374s]
+She has another bits for it.
+
+🎤 SPEAKER_1 [3376s - 3382s]
+Right. Oh, you got But this is when they turn six months, they can start going a little bit weird. Oh, they're normal.
+
+🎤 SPEAKER_3 [3382s - 3384s]
+They're they're like Yeah.
+
+🎤 SPEAKER_1 [3389s - 3391s]
+Obviously, it's when I get very excited.
+
+🎤 SPEAKER_3 [3396s - 3397s]
+Alright. That's enough now.
+
+👤 あなた [3398s - 3401s]
+Sobey, stop now. Added. Cheese. That's enough now.
+
+🎤 SPEAKER_3 [3405s - 3406s]
+That's the k two for the winner and I'll be the end of it.
+
+🎤 SPEAKER_2 [3406s - 3410s]
+No. Got the ball. No.
+
+🎤 SPEAKER_3 [3412s - 3423s]
+I said that's the end, Jude. Jude, Jude, listen to your father. Jude, Stop it. Do you know what happened last year?
+
+👤 あなた [3431s - 3437s]
+Bruce, it's funny because Bruce used to, as a puppy, would do the same to Jude, but not Elliot. It's something about Jews maybe.
+
+🎤 SPEAKER_3 [3438s - 3441s]
+That dogs appreciate. Release is an aroma.
+
+🎤 SPEAKER_2 [3441s - 3441s]
+Yeah.
+
+🎤 SPEAKER_1 [3448s - 3451s]
+She's like, I do love She's like a teenager, and I adult. Yeah.
+
+🎤 SPEAKER_5 [3451s - 3453s]
+I know. A lot of teenagers in my house, though.
+
+👤 あなた [3460s - 3464s]
+Wow. Well done, you two. You feeling good for that? You look wiped over there.
+
+🎤 SPEAKER_3 [3468s - 3470s]
+It did look quite like a workout to be fair.
+
+🎤 SPEAKER_3 [3496s - 3496s]
+Yeah.
+
+👤 あなた [3497s - 3505s]
+What I'll do is I'll come and join you a later then probably. That's alright. Still got things I need to be doing. Otherwise, I to do it on Saturday, which is
+
+🎤 SPEAKER_5 [3505s - 3506s]
+We'd have to.
+
+👤 あなた [3507s - 3508s]
+Which is no good.
+
+👤 あなた [3519s - 3520s]
+Well, got the you got the you got the piles.
+
+🎤 SPEAKER_2 [3520s - 3523s]
+That was the brochures when you atrocious Oh, give me a note?
+
+🎤 SPEAKER_3 [3532s - 3535s]
+No, didn't. And you'll gonna you'll be going out soon.
+
+👤 あなた [3536s - 3537s]
+No nurses on tablet either?
+
+🎤 SPEAKER_2 [3537s - 3538s]
+Yeah. I I was just saying.
+
+🎤 SPEAKER_3 [3539s - 3540s]
+Oh, yeah.
+
+🎤 SPEAKER_2 [3541s - 3542s]
+We're going out again.
+
+🎤 SPEAKER_3 [3543s - 3544s]
+Well we all love it.
+
+👤 あなた [3544s - 3546s]
+Well, you look how much challenge you got to Burnsham.
+
+🎤 SPEAKER_2 [3547s - 3552s]
+I'm tired now. He said I'm tired.
+
+🎤 SPEAKER_3 [3553s - 3554s]
+Before the before the game of Toby, you were doing you're doing diving saves and everything.
+
+🎤 SPEAKER_3 [3559s - 3560s]
+What's your plan? Yeah. Is it?
+
+🎤 SPEAKER_2 [3566s - 3567s]
+Oh.
+
+🎤 SPEAKER_3 [3568s - 3569s]
+Oh, you back at it.
+
+🎤 SPEAKER_3 [3580s - 3581s]
+Is she getting a little bit
+
+🎤 SPEAKER_2 [3581s - 3582s]
+No.
+
+🎤 SPEAKER_3 [3582s - 3584s]
+Too much sensory over there.
+
+🎤 SPEAKER_5 [3606s - 3608s]
+Have you seen that short when the guy from the Trump bruits get so upsized when you all go, and then put these cages come down.
+
+🎤 SPEAKER_2 [3609s - 3610s]
+Yeah.
+
+👤 あなた [3636s - 3637s]
+Sorry, lost the float there.
+
+👤 あなた [3641s - 3645s]
+Can you do that, Hannah? Can you how low can you go? That's as low as I can go.
+
+🎤 SPEAKER_2 [3645s - 3646s]
+Yes. Yes.
+
+🎤 SPEAKER_3 [3649s - 3653s]
+Shut up high juice. Say up high and then see how low you get.
+
+👤 あなた [3653s - 3654s]
+We are still doing that.
+
+🎤 SPEAKER_3 [3654s - 3662s]
+Keep going, though. Keep going, Juice. Yeah. She's doing it like a Toby. He's got it. She got it. Show show Toby show dues.
+
+🎤 SPEAKER_1 [3670s - 3672s]
+The quicker you do it, the Yeah.
+
+🎤 SPEAKER_3 [3678s - 3680s]
+You say Go, Mary. Go. Go.
+
+🎤 SPEAKER_5 [3698s - 3700s]
+You'd be the best about hips off, and I never thought of any. Thought I'd
+
+👤 あなた [3701s - 3703s]
+because the the stuff they used to make the fake stuff.
+
+🎤 SPEAKER_5 [3703s - 3708s]
+Yeah. They were saying yeah, we looked up this morning though. I think it's a bit shaver. Right?
+
+👤 あなた [3708s - 3708s]
+It is.
+
+🎤 SPEAKER_3 [3710s - 3711s]
+It is.
+
+👤 あなた [3712s - 3720s]
+That is a shame. Oh, it's something nice in America. Like being back in the eighties, honestly, the shortages everywhere.
+
+🎤 SPEAKER_4 [3720s - 3720s]
+Yeah.
+
+🎤 SPEAKER_5 [3720s - 3723s]
+Yeah. It was finished it.
+
+👤 あなた [3797s - 3800s]
+That's why you need to a you're locked you're locked in.
+
+👤 あなた [3805s - 3811s]
+Bit of a I'll do it. Expression. Oh, I see. Express the the plane.
+
+👤 あなた [3818s - 3820s]
+You can look Alice in the face. Are you gonna look
+
+🎤 SPEAKER_3 [3820s - 3826s]
+Alice in the face? No. Give a kissy. Her kiss. Give a kiss.
+
+🎤 SPEAKER_3 [3831s - 3833s]
+Are you gonna eat Nanny in the face? Are you gonna eat Nanny in the face?
+
+🎤 SPEAKER_5 [3839s - 3844s]
+Okay. Resol resolhydrone the jumper and steal her. You're die at something good.
+
+🎤 SPEAKER_1 [3844s - 3845s]
+This is exactly what Reese would like.
+
+👤 あなた [3846s - 3848s]
+It's This is my perfect dog.
+
+🎤 SPEAKER_3 [3850s - 3850s]
+Beautiful.
+
+🎤 SPEAKER_5 [3864s - 3865s]
+Was gonna get a big one.
+
+👤 あなた [3865s - 3872s]
+Maybe what the plan is to skip the puppy stage and have a play a trains dog. That are not that's no longer dream.
+
+👤 あなた [3878s - 3880s]
+You're now done here. That's why I put you here, but She's yeah.
+
+🎤 SPEAKER_5 [3880s - 3883s]
+She goes wherever she wants. She's really nice.
+
+👤 あなた [3895s - 3897s]
+I've she had a looking a bit tired now. Tired.
+
+🎤 SPEAKER_2 [3899s - 3903s]
+No. When she gets tired, she's getting hurt. What?
+
+👤 あなた [3916s - 3917s]
+That's the sort of fish. Right.
+
+🎤 SPEAKER_3 [3917s - 3919s]
+Listen. That's the end of that now. Judah. Don't you don't know him.
+
+🎤 SPEAKER_2 [3919s - 3920s]
+A poppy little.
+
+🎤 SPEAKER_3 [3920s - 3923s]
+Oh, he's like fourteen, 15? Yeah. Think it could be the Yes.
+
+🎤 SPEAKER_1 [3923s - 3925s]
+Because I suppose they're small, they're actually 40 You might have time for one more dog after the day.
+
+🎤 SPEAKER_1 [3933s - 3935s]
+That tastes such a think You may have grandchildren that have just about met met.
+
+🎤 SPEAKER_2 [3936s - 3939s]
+Well, they're all here. I can't get this ball from you too, Matt, because it won't be that long.
+
+🎤 SPEAKER_5 [3940s - 3941s]
+I always know about Peppy.
+
+🎤 SPEAKER_1 [3941s - 3942s]
+We just thought I met Peppy.
+
+🎤 SPEAKER_5 [3944s - 3944s]
+Didn't I?
+
+👤 あなた [3944s - 3949s]
+You did. You did. He used breathing in your face all night the first time Slightly
+
+🎤 SPEAKER_2 [3951s - 3951s]
+Yeah.
+
+👤 あなた [3953s - 3955s]
+He was. He was.
+
+🎤 SPEAKER_3 [3955s - 3956s]
+He when you Oh, 13 foxies.
+
+👤 あなた [3957s - 3962s]
+You met him as an an old old dog that you know, the best that years of puppies, the petty lodging.
+
+🎤 SPEAKER_1 [3962s - 3967s]
+He was their puppy. Dog. No. They were both. Oh, Bruce was a Yeah. But, like, eight weeks yeah.
+
+👤 あなた [3969s - 3971s]
+And foxy Happy was about four.
+
+🎤 SPEAKER_1 [3971s - 3977s]
+So they thought, let's gonna puck in this and foxy. Separation anxiety issues and training things.
+
+🎤 SPEAKER_1 [3983s - 3985s]
+So then Lots of people I know this dog is exactly my She's somehow sleeping.
+
+🎤 SPEAKER_3 [4024s - 4025s]
+Baby fish.
+
+👤 あなた [4025s - 4029s]
+She does look a little bit worn out either by the noise or by just feeling a bit tired.
+
+🎤 SPEAKER_3 [4029s - 4030s]
+It's probably good.
+
+🎤 SPEAKER_1 [4030s - 4031s]
+We had a quiet morning?
+
+🎤 SPEAKER_5 [4031s - 4032s]
+By yourself, isn't it?
+
+👤 あなた [4038s - 4041s]
+Bang just too too too. You? I think so. Bit paranoid about it.
+
+🎤 SPEAKER_1 [4041s - 4043s]
+It just needs a minute. That's fine.
+
+🎤 SPEAKER_3 [4052s - 4052s]
+That's You're okay.
+
+👤 あなた [4056s - 4057s]
+Yeah. While you were playing my tongue.
+
+🎤 SPEAKER_2 [4062s - 4067s]
+And I right there you suck.
+
+🎤 SPEAKER_5 [4067s - 4069s]
+Mhmm.
+
+🎤 SPEAKER_2 [4069s - 4069s]
+And these two How about the actual look, man.
+
+🎤 SPEAKER_2 [4075s - 4077s]
+These Why do you all so purple?
+
+👤 あなた [4077s - 4081s]
+She's Noah. Okay.
+
+👤 あなた [4089s - 4090s]
+Oh, yeah. You alright?
+
+🎤 SPEAKER_2 [4090s - 4091s]
+No. No. No.
+
+👤 あなた [4092s - 4093s]
+Listen.
+
+🎤 SPEAKER_3 [4093s - 4095s]
+That's nothing you can do, but that'd be fun. Listen.
+
+👤 あなた [4095s - 4104s]
+No more and tumble, please. I'll ask you now. Because it ends up in things like that. Yeah. No. I'm asking you. I'm I'm I'm telling you to stop. Okay?
+
+👤 あなた [4106s - 4115s]
+It's fine. It's fine. It's just tiniest cut on his lip. But that's what happens. You could choose.
+
+🎤 SPEAKER_5 [4115s - 4117s]
+I just fit my tongue. No.
+
+🎤 SPEAKER_2 [4117s - 4118s]
+My lips.
+
+👤 あなた [4118s - 4120s]
+Yeah. Told him to stop. I've no more now. Right?
+
+🎤 SPEAKER_1 [4122s - 4124s]
+Consulting and dentist.
+
+🎤 SPEAKER_1 [4126s - 4148s]
+So she's not Just so lovely and understood child because it was a pediatrics one. So I understood anxiety. She right way. Understood. Or it just was so nice to actually have that a doctor that was a children's doctor rather than a normal doctor who's No. She's brilliant. What's her name, Marie?
+
+👤 あなた [4149s - 4151s]
+Sorry. Listening to anything you were saying.
+
+👤 あなた [4157s - 4161s]
+Oh, the the dental I don't know. Shebiba or something like that, I think. Shebiba.
+
+🎤 SPEAKER_5 [4162s - 4163s]
+Yeah.
+
+👤 あなた [4174s - 4180s]
+I do wonder what what started Graham's interest in teeth.
+
+🎤 SPEAKER_1 [4181s - 4182s]
+Did he just decide that 1819 that he's gonna Back in those days, if you couldn't if you you don't get the rest of the doctor, then Yeah.
+
+🎤 SPEAKER_5 [4182s - 4188s]
+I thought it's what I you told me. No. No. No. It's just a different line of measurement. You're
+
+🎤 SPEAKER_5 [4208s - 4209s]
+Alright. To a doctor.
+
+👤 あなた [4209s - 4209s]
+Yeah.
+
+🎤 SPEAKER_5 [4215s - 4221s]
+Said, have you ever considered you said you can either resit, do a whole year, Yeah. And then go up to Oxford.
+
+👤 あなた [4221s - 4223s]
+Oh, yes.
+
+🎤 SPEAKER_5 [4223s - 4228s]
+Or you could re or you could with these rage, you can be a dentist that have a really good I've really sold you to them.
+
+🎤 SPEAKER_3 [4228s - 4229s]
+Oh, yeah.
+
+👤 あなた [4231s - 4232s]
+So it was like And so that's what convinced him.
+
+🎤 SPEAKER_5 [4232s - 4236s]
+Like two and a half weeks. Yeah. He was suddenly at school.
+
+👤 あなた [4236s - 4239s]
+And you two were together by this point, do No.
+
+🎤 SPEAKER_5 [4239s - 4243s]
+No. Think we started going here I knew each other from you for church. But literally, yes.
+
+🎤 SPEAKER_2 [4243s - 4243s]
+Yeah. Seventeen.
+
+🎤 SPEAKER_5 [4247s - 4249s]
+Can everything or be a doctor of teeth.
+
+🎤 SPEAKER_1 [4249s - 4252s]
+The smallest part your body really. That is a whole job role.
+
+🎤 SPEAKER_3 [4252s - 4253s]
+That is a whole thing.
+
+🎤 SPEAKER_1 [4255s - 4259s]
+But I think dad was always he loved the specialism or something.
+
+🎤 SPEAKER_5 [4260s - 4268s]
+I have to see why that probably And this is why I also saw another program where somebody went, oh, you see reports go, oh, it's the the doctor, and they didn't notice I got this wrong in my and going, oh, go to the dentist.
+
+👤 あなた [4276s - 4281s]
+And I was what? Six years at dentist. Cool. Yeah.
+
+🎤 SPEAKER_2 [4281s - 4283s]
+Very good.
+
+🎤 SPEAKER_5 [4284s - 4286s]
+Better better work life balance because Mhmm.
+
+🎤 SPEAKER_2 [4286s - 4288s]
+You're not quite upset.
+
+🎤 SPEAKER_1 [4297s - 4301s]
+Wouldn't have been in hospital for twelve hours and night and all that?
+
+🎤 SPEAKER_5 [4301s - 4304s]
+I don't know. Doctors just have to do stuff. Oh, no. I don't. Yeah.
+
+🎤 SPEAKER_1 [4304s - 4316s]
+Wonder where the maxillofacials start as dentist and go to especially do, do they? They don't go from doctor surgeon to maxillofacials. That's what I Do they? I think think I'd have to do PhD because he wouldn't go into that sort of stuff. Yeah.
+
+🎤 SPEAKER_3 [4316s - 4319s]
+To do PhD to do that. And because they have four little ones.
+
+🎤 SPEAKER_2 [4319s - 4319s]
+Yeah.
+
+👤 あなた [4336s - 4339s]
+Nanny thought specialisation even further into the gums then after that?
+
+🎤 SPEAKER_5 [4339s - 4340s]
+Well, I no.
+
+🎤 SPEAKER_5 [4341s - 4342s]
+He came that first. Did that first.
+
+👤 あなた [4342s - 4343s]
+Oh, see. Yeah.
+
+🎤 SPEAKER_2 [4343s - 4344s]
+Specialist in the end.
+
+🎤 SPEAKER_4 [4345s - 4347s]
+Oh, I see. Yeah. Specialist in see. Specialist in the youngest.
+
+🎤 SPEAKER_2 [4349s - 4350s]
+Very good.
+
+🎤 SPEAKER_4 [4351s - 4352s]
+Very good.
+
+🎤 SPEAKER_4 [4355s - 4356s]
+No more education.
+
+👤 あなた [4358s - 4361s]
+I'm feeling that way at the minute, Movie, but it was a little much lower level.
+
+🎤 SPEAKER_5 [4371s - 4375s]
+Is what it feel like Ralph is having an 11 year old sister. Oh, thank you.
+
+🎤 SPEAKER_1 [4375s - 4378s]
+One of your one of your would be off living somewhere.
+
+🎤 SPEAKER_2 [4379s - 4385s]
+Sixteen year old brother. Twenty year old sister and twenty three year old sister.
+
+🎤 SPEAKER_4 [4385s - 4385s]
+I mean, I guess I could shake you out.
+
+👤 あなた [4399s - 4405s]
+I wonder for the every round if you had the girls first. Might be a bit different. Maybe the would have taken out little brothers instead.
+
+👤 あなた [4405s - 4406s]
+Yeah. The boys are a bit different.
+
+🎤 SPEAKER_1 [4407s - 4420s]
+You really didn't benefit from that, did you? Maybe for suppose we kind of ¿cómo es promesa?
+
+👤 あなた [4428s - 4430s]
+Well, we've only just become in the last second
+
+🎤 SPEAKER_2 [4442s - 4445s]
+I don't wanna go Why do I come?
+
+🎤 SPEAKER_3 [4447s - 4448s]
+It's about putting energy.
+
+🎤 SPEAKER_4 [4452s - 4452s]
+Yeah.
+
+🎤 SPEAKER_2 [4453s - 4454s]
+200 calories.
+
+🎤 SPEAKER_3 [4455s - 4465s]
+It's just I just stopped weathering. So it's not that I guess so the put this way, if you will to run on a if you run for thirty minutes, that's 300 calorie.
+
+🎤 SPEAKER_2 [4468s - 4468s]
+Yeah?
+
+👤 あなた [4470s - 4471s]
+She gone to sleep?
+
+👤 あなた [4474s - 4478s]
+And then at that point, you might as well fall asleep yourself and have a lot of snowball.
+
+👤 あなた [4482s - 4485s]
+That does look well more more cozy for I'll eat.
+
+🎤 SPEAKER_2 [4487s - 4489s]
+No thanks. No way.
+
+🎤 SPEAKER_4 [4492s - 4495s]
+Dude, this doesn't come come up here.
+
+🎤 SPEAKER_2 [4496s - 4496s]
+No. That was my No.
+
+🎤 SPEAKER_3 [4497s - 4499s]
+It wasn't made it wasn't made comfy for me.
+
+🎤 SPEAKER_4 [4499s - 4499s]
+What?
+
+👤 あなた [4503s - 4503s]
+You're too big for that, Nelson.
+
+🎤 SPEAKER_2 [4507s - 4508s]
+So how are you gonna feel, Reese, when you finish here?
+
+🎤 SPEAKER_4 [4510s - 4512s]
+Feel good.
+
+🎤 SPEAKER_1 [4513s - 4515s]
+You get your grades. Right?
+
+👤 あなた [4515s - 4516s]
+Yeah. Yeah. Noelle.
+
+🎤 SPEAKER_3 [4516s - 4517s]
+Yeah.
+
+🎤 SPEAKER_5 [4518s - 4521s]
+And then it would be, like, or would it be when you hand in the last thing, or do
+
+👤 あなた [4521s - 4538s]
+The exams are the worst thing because my brain's so rubbish. No. It's got like a traditional old fashioned exam. You have you have two questions you have to answer and you can pick from a Do they are? A bank of three for question a, three for question b, you pick which one you wanna answer.
+
+👤 あなた [4539s - 4556s]
+Mini essays. And it could be on anything that we've covered the whole year. You know? So what did Gordon Fee have to say about Philippian two and this particular issue? And you're like, we did that back in October. Have no so so learning everything like that, that's the bit where my brain do that.
+
+🎤 SPEAKER_1 [4556s - 4558s]
+Told it could be one of these things.
+
+👤 あなた [4558s - 4559s]
+No. It could be anything.
+
+🎤 SPEAKER_4 [4559s - 4560s]
+Anything.
+
+🎤 SPEAKER_2 [4560s - 4561s]
+Yep. Well, anything that you studied in the module.
+
+👤 あなた [4563s - 4569s]
+And that's quite a lot, mate, if you think about it. The only thing I know at Mumbai is what we covered in our essays.
+
+🎤 SPEAKER_1 [4571s - 4572s]
+So It does a bit. Choice though.
+
+🎤 SPEAKER_5 [4573s - 4575s]
+They have got a choice. It's just the worst, frankly. How many questions are there to choose from?
+
+👤 あなた [4575s - 4583s]
+So say so question a question b Yeah. And I think there's three questions you can pick for answering question a, three for question b.
+
+🎤 SPEAKER_1 [4586s - 4594s]
+Gotta do one in the e. Like, it doesn't finish till at half five. Uh-huh. Does it all bring back memories of school?
+
+👤 あなた [4595s - 4596s]
+I was rubbish at exams in schools.
+
+🎤 SPEAKER_1 [4596s - 4599s]
+Can do exams in my OTE degree. So I've not done No. Just a
+
+🎤 SPEAKER_4 [4599s - 4600s]
+level.
+
+🎤 SPEAKER_1 [4600s - 4614s]
+Well, I have to sit on that. So they do it online. Do it for watch them through a exam proctor. Software. So I get I do Lisa's degree, but I do the others. And I can see all their faces, and some of them are just so terrified
+
+👤 あなた [4615s - 4616s]
+You should you should see me.
+
+🎤 SPEAKER_3 [4616s - 4616s]
+You're not?
+
+🎤 SPEAKER_2 [4616s - 4619s]
+I just see them so they don't necessarily know it.
+
+🎤 SPEAKER_1 [4619s - 4620s]
+So just see them sat there like oh, what that is.
+
+🎤 SPEAKER_4 [4627s - 4628s]
+Is. Frozen? No.
+
+🎤 SPEAKER_1 [4628s - 4632s]
+No. They're just thinking. Or often they're their eyes closed. Yeah.
+
+🎤 SPEAKER_3 [4632s - 4632s]
+I wish I would do.
+
+🎤 SPEAKER_5 [4632s - 4634s]
+Or they're just trying to think things Trying to pray for divine help them.
+
+👤 あなた [4635s - 4641s]
+Yeah. Yeah. Right. I I said, no more. Elliot?
+
+👤 あなた [4644s - 4648s]
+No more riff and tumble now. It's it's draining for everyone else in the room to watch to be honest as well.
+
+🎤 SPEAKER_4 [4653s - 4654s]
+Okay.
+
+🎤 SPEAKER_1 [4659s - 4661s]
+So what's the date of the last thing?
+
+👤 あなた [4661s - 4666s]
+Yes. May Jude, no thanks. May is when the exams are.
+
+🎤 SPEAKER_3 [4670s - 4671s]
+So when The May, I think is it, Rachel? May 13.
+
+🎤 SPEAKER_1 [4672s - 4673s]
+Is your last exam.
+
+🎤 SPEAKER_3 [4673s - 4675s]
+Let's stop the balls. That's it. That's it.
+
+🎤 SPEAKER_1 [4675s - 4676s]
+So you'll be finished at May May midday.
+
+🎤 SPEAKER_4 [4677s - 4679s]
+So you need to go and get yourself a cheapy takeaway lunch or something.
+
+🎤 SPEAKER_3 [4683s - 4685s]
+Celebratory or something. Unless he fails.
+
+🎤 SPEAKER_5 [4687s - 4687s]
+I don't know.
+
+🎤 SPEAKER_1 [4689s - 4691s]
+In which case, he probably he won't able to graduate.
+
+🎤 SPEAKER_5 [4691s - 4693s]
+So what's that? You got a special
+
+🎤 SPEAKER_4 [4693s - 4694s]
+What do mean?
+
+👤 あなた [4694s - 4695s]
+Or I won't I won't fail.
+
+🎤 SPEAKER_2 [4695s - 4696s]
+No.
+
+🎤 SPEAKER_6 [4696s - 4697s]
+I know you won't fail. You might.
+
+👤 あなた [4699s - 4704s]
+May Because I put the effort and work into it to make sure. Level he knows. Well, it will be by then.
+
+🎤 SPEAKER_1 [4704s - 4705s]
+He might score low.
+
+👤 あなた [4707s - 4714s]
+Long do they get do He I do a really poor result, I'll still get a two one probably. Matt Park. I'm not gonna No.
+
+🎤 SPEAKER_4 [4714s - 4715s]
+I won't I won't fail. I I won't fail.
+
+🎤 SPEAKER_3 [4715s - 4717s]
+If I did zero revision, I would fail.
+
+👤 あなた [4725s - 4735s]
+But I So Is it literally the week after? 14 Oh, so you won't be able to do that whole talking to me about the holiday thing and then run up to it. I'll be in the conservatory for hours on ends probably.
+
+🎤 SPEAKER_1 [4736s - 4737s]
+No. Before France.
+
+👤 あなた [4738s - 4740s]
+And you got your GCSE's tow next year, is it?
+
+🎤 SPEAKER_6 [4752s - 4753s]
+Oh.
+
+🎤 SPEAKER_5 [4753s - 4757s]
+So nothing's next week? You pick exams on the thirteenth. May 13.
+
+🎤 SPEAKER_1 [4758s - 4760s]
+And we're going the following week the weekend on the May 23 to France.
+
+👤 あなた [4785s - 4786s]
+How do you?
+
+👤 あなた [4788s - 4794s]
+So you're not required to do any more learning on the job then, Hannah, in terms of keeping up to date on things and Well, there's always training.
+
+🎤 SPEAKER_2 [4796s - 4799s]
+Available in a actually biting your fingers, do you?
+
+🎤 SPEAKER_5 [4800s - 4803s]
+If she if she is, we kind of want her not to do that.
+
+👤 あなた [4803s - 4804s]
+So So don't encourage you.
+
+🎤 SPEAKER_5 [4805s - 4806s]
+Don't encourage it and pop that in enough.
+
+👤 あなた [4807s - 4809s]
+Do we have we done the whole teething thing, by the way, with the
+
+🎤 SPEAKER_1 [4809s - 4810s]
+Yes.
+
+🎤 SPEAKER_4 [4810s - 4811s]
+She's she's got She's gone through it.
+
+🎤 SPEAKER_2 [4811s - 4812s]
+All out of teeth now.
+
+👤 あなた [4812s - 4814s]
+There she goes. So crooking it in these little ones.
+
+🎤 SPEAKER_1 [4821s - 4830s]
+What were you saying? Oh, learning. Thing with stroke is that it's so massive. There's so much I still don't know.
+
+🎤 SPEAKER_4 [4830s - 4831s]
+Yeah. Yeah.
+
+🎤 SPEAKER_5 [4832s - 4833s]
+And there's so much terminology and because it's stuff I necessarily deal with a lot in my vocational rehab fee which is the bit I specialize in Yeah.
+
+👤 あなた [4844s - 4848s]
+I'm not as confident in certain bits, but There's no requirements up up on you to do that, like Open.
+
+🎤 SPEAKER_4 [4848s - 4848s]
+Wow. Enforced.
+
+👤 あなた [4853s - 4855s]
+Involve because we're not gonna That can involve ChatGPT these days.
+
+🎤 SPEAKER_3 [4855s - 4857s]
+Am I right? Chat, I do. You're right.
+
+👤 あなた [4859s - 4861s]
+ChatGPT to create It's the it's it knows everything about everything pretty much.
+
+🎤 SPEAKER_6 [4862s - 4864s]
+I I have I've sent to Rachel.
+
+🎤 SPEAKER_6 [4866s - 4874s]
+Got a guy who works at for the gutter of vision. Okay. Are you really what his job is and what he does. I'm assess is he capable of going back to doing this job. Right.
+
+🎤 SPEAKER_5 [4874s - 4875s]
+Very little information technical engineering.
+
+🎤 SPEAKER_6 [4882s - 4885s]
+Right. He also because of his stroke he can't really speak. Right?
+
+🎤 SPEAKER_2 [4885s - 4887s]
+Well. Right. Yeah.
+
+🎤 SPEAKER_6 [4887s - 4892s]
+Well, when he does speak, it's gobbledygook. Right. And he also when I do it to him, he doesn't understand what I'm saying fully.
+
+🎤 SPEAKER_4 [4892s - 4894s]
+Right.
+
+🎤 SPEAKER_2 [4895s - 4899s]
+Looks like he likes quite did you have a good weekend? And he'd like he just chatted a little bit. Okay.
+
+🎤 SPEAKER_6 [4899s - 4902s]
+He also can't write down what he wants to do.
+
+👤 あなた [4902s - 4904s]
+He's not the answer and f in terms of his work.
+
+🎤 SPEAKER_4 [4909s - 4911s]
+How strange.
+
+🎤 SPEAKER_6 [4911s - 4912s]
+I need to assess whether could I get him back to his job?
+
+🎤 SPEAKER_6 [4920s - 4942s]
+He's doing a general technical engineering, can't establishes things like setting up the tech stuff for meetings, and people got the hardware of, like, computers and printers and, like, machine machinery and things, that's what he even heard. But if it comes through as like, a task, he can read it and do it. So if he can do this, he just communicate back.
+
+🎤 SPEAKER_6 [4944s - 4945s]
+He can't communicate back.
+
+🎤 SPEAKER_6 [4946s - 4968s]
+So I know whether I don't I'm gonna have to have a chat with his employer to see whether there's any way we could create some sort of checklist he can tick. So he can read, I have to fix this now and tick it or this needs a new car, or, like, there's just lots of, like, whether they're gonna down to us. It's lots of work companies, isn't it? If you can do that, then he could go back.
+
+👤 あなた [4970s - 4971s]
+Imagine it's quite a specialized hilly as I imagine then.
+
+🎤 SPEAKER_6 [4972s - 4983s]
+Chat GPT. I've typed in everything like, man who's stroke. I can't speak, can't understand spoken language, but can't read. I need activity to Yeah.
+
+👤 あなた [4984s - 4985s]
+And it's been good for that.
+
+👤 あなた [4986s - 4988s]
+And it's just come up with It's crazy. You know? It's crazy.
+
+🎤 SPEAKER_6 [4988s - 4997s]
+Like, something on the computer's broke. Yeah. Lots of potential answers, then I've cut them out. He's had to then Nice. Try and pull out the right one.
+
+👤 あなた [4997s - 4999s]
+Working smarter. Right? Oh, that would do.
+
+🎤 SPEAKER_1 [5003s - 5004s]
+Amazing. Really?
+
+🎤 SPEAKER_5 [5005s - 5006s]
+And then you can just say to it again again, like, another one, please.
+
+🎤 SPEAKER_6 [5006s - 5008s]
+Yeah.
+
+👤 あなた [5008s - 5010s]
+A slightly harder one. Yeah.
+
+🎤 SPEAKER_3 [5010s - 5010s]
+That's right. Yeah.
+
+👤 あなた [5011s - 5016s]
+It is it's cleverer than most people even think, right, in terms of understanding context and everything.
+
+👤 あなた [5021s - 5027s]
+Just a path of past it to feel that I've coast he's saying, what's he call it?
+
+🎤 SPEAKER_6 [5033s - 5037s]
+He calls it demonic and you must not use People might interpret that as I'm writing in how do I treat a patient Yes.
+
+🎤 SPEAKER_5 [5037s - 5039s]
+That they you don't know how to do.
+
+🎤 SPEAKER_3 [5039s - 5045s]
+I know what to do, but it's just the there's bits where I can save your child. Yeah.
+
+🎤 SPEAKER_6 [5045s - 5046s]
+Yeah. Exactly.
+
+🎤 SPEAKER_1 [5046s - 5050s]
+I mean, it I think people wrongly assume people who understand it's intelligent.
+
+🎤 SPEAKER_6 [5051s - 5053s]
+They could tell me what to do, but I that's not what I'm using it for.
+
+🎤 SPEAKER_1 [5053s - 5066s]
+Mean, at work, we're trying to bring it in more. But in at the moment, the perception by some is that you're kind of saying, you know, good enough at your job and you're getting to do stuff that you could just do yourself. Why would you do that when you could just do yourself?
+
+👤 あなた [5066s - 5069s]
+Because it says nothing. It's just work working smarter.
+
+🎤 SPEAKER_7 [5074s - 5074s]
+Like, if I Why would I not do that?
+
+🎤 SPEAKER_6 [5074s - 5085s]
+I probably would have needed to have out that two a half hours in my diary just to come up with some sort of vague exercise for him to do Whereas actually it took half an hour and it was a really
+
+
+---
+
