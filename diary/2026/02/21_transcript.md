@@ -659,3 +659,26 @@ Go.
 
 ---
 
+
+
+## 📝 Exploring Jesus As Lord And Life Purpose - 67265f74-e8ba-4247-bd90-32f228abaf24
+
+**記録時間**: 2026-02-21 20:10:44
+
+### STT生テキスト
+
+🎤 SPEAKER_7 [0s - 1s]
+But say Jesus is the Lord.
+
+🎤 SPEAKER_7 [34s - 36s]
+He is the one whom I seek to conform my life to
+
+🎤 SPEAKER_7 [62s - 76s]
+Vision teachings, a message I tried to proclaim to the world and encourage others to follow as well because I
+
+🎤 SPEAKER_7 [88s - 131s]
+Believe it leads to abundant that life redemption and rest aspiration of individual lives and of of our world. As far as what what lord means,
+
+
+---
+
