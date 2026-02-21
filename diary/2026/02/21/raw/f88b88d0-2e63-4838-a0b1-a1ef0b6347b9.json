@@ -1,0 +1,170 @@
+{
+  "id": "f88b88d0-2e63-4838-a0b1-a1ef0b6347b9",
+  "created_at": "2026-02-21T10:53:28.903379+00:00",
+  "started_at": "2026-02-21T10:54:56.980304+00:00",
+  "finished_at": "2026-02-21T10:55:07.613700+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Parent Coordinates With Child Before Visitor Arrives",
+    "overview": "The speaker, likely a parent, asks a child to come downstairs and continue what they are doing on screens there because someone named Honey will arrive in a few minutes. They also remind the child to put shoes on and offer to take them somewhere. Another person responds briefly, but their words are unclear and possibly playful or misheard.",
+    "emoji": "👨‍👧",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "6efd9ee1-31ff-477e-8cca-5433e8bad1f2",
+      "text": "Toby an idiot? Can come down here then and just go on your screens down here? You remember Honey will be here in a few minutes.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 3.910063242074102e-07,
+      "end": 6.6900003910068335,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "a4c54801-5a44-4d38-b688-1e04fb2e10e9",
+      "text": "Just just come on doing what you're doing, but just come and do Danny even instead.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 8.750000391006324,
+      "end": 12.03000039100607,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "5f544309-1bab-4c6e-a07f-3bb1111e84cc",
+      "text": "Can you get your shoes on as well? I'll take if you like?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 18.310000391006724,
+      "end": 20.190000391006834,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b35baca1-d9ea-42fd-b5ca-4d3df9e5342f",
+      "text": "Yahweh.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 26.670000391006397,
+      "end": 27.15000039100687,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4aec1ae9-25dc-4b3c-8c08-a13880e48985",
+      "text": "Yeah. Oui. Foundation",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": 34.72000039100658,
+      "end": 39.610000391006906,
+      "translations": [
+        {
+          "lang": "en",
+          "text": "Yeah. Yes. Foundation"
+        }
+      ],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "aa28c5f3-dbf8-4491-bd17-0d5696e06c36",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "f88b88d0-2e63-4838-a0b1-a1ef0b6347b9",
+      "chunk_timestamps": [
+        1771671204.187,
+        1771671209.192,
+        1771671214.188,
+        1771671219.406,
+        1771671224.481,
+        1771671229.56,
+        1771671234.681,
+        1771671239.987,
+        1771671245.049,
+        1771671251.07,
+        1771671256.105,
+        1771671261.122,
+        1771671266.251,
+        1771671271.237,
+        1771671276.368,
+        1771671282.397,
+        1771671287.372,
+        1771671292.392,
+        1771671297.466,
+        1771671302.668,
+        1771671307.894,
+        1771671312.979,
+        1771671318.047,
+        1771671323.088,
+        1771671328.171,
+        1771671333.183,
+        1771671338.202,
+        1771671344.534,
+        1771671349.595,
+        1771671354.702,
+        1771671359.936,
+        1771671364.983,
+        1771671371.73,
+        1771671376.977,
+        1771671382.018,
+        1771671387.8,
+        1771671392.88,
+        1771671398.16,
+        1771671403.597,
+        1771671408.684,
+        1771671413.864,
+        1771671418.979,
+        1771671424.016
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-21T10:53:24.187000+00:00",
+      "duration": 224.829
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Situation setup\n- Discussion about coming downstairs\n- Reminder that Honey arriving in a few minutes\n- Suggestion to use screens downstairs instead\n\n## Instructions given\n- Asked to keep doing what they're doing downstairs\n- Asked to \"do Danny even instead\" (unclear task)\n- Told to put shoes on; offer to take them somewhere\n\n## Other responses\n- Brief affirmative responses: “Yahweh”, “Yeah. Oui. Foundation”\n- Replies seem unclear or possibly playful\n\n## Next steps\n- Come downstairs with screens\n- Put shoes on to go out soon\n- Prepare for Honey’s arrival in minutes"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
