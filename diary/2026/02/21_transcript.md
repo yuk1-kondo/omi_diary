@@ -682,3 +682,554 @@ Believe it leads to abundant that life redemption and rest aspiration of individ
 
 ---
 
+
+
+## 📝 Family Chat On Faith, Football, And Daily Life - bc8c159c-2e11-413a-9ae3-6963314944d0
+
+**記録時間**: 2026-02-21 20:18:19
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 0s]
+Neste
+
+🎤 SPEAKER_6 [1s - 2s]
+Woah.
+
+🎤 SPEAKER_2 [2s - 5s]
+You are wet. What time is it?
+
+🎤 SPEAKER_3 [54s - 54s]
+Are Is it?
+
+👤 あなた [55s - 56s]
+Yeah. Yeah.
+
+🎤 SPEAKER_2 [56s - 57s]
+It's been nonstop rain, to be honest.
+
+👤 あなた [69s - 71s]
+Yeah. They keep your feet warm.
+
+🎤 SPEAKER_2 [72s - 79s]
+Where were you at again? Brahmanag. Brahmanag. Any gate shenanigans today?
+
+🎤 SPEAKER_1 [117s - 133s]
+Absolutely minging, fine, gray. There to stand with with a whip breeze. So I have look at the wind. I have to just stand with the brolly, completely, like, not over my head, just, like, back behind me.
+
+🎤 SPEAKER_2 [133s - 140s]
+Oh, yeah. Honey, come on. Had a quick look at the fish. She said, oh, that's that's they're lovely and neat and easy to manage.
+
+🎤 SPEAKER_1 [141s - 141s]
+Yeah.
+
+👤 あなた [143s - 146s]
+I showed my telescope as well. You pretended to be interested in that?
+
+🎤 SPEAKER_2 [150s - 157s]
+But, yeah, it was fine. You give the boy 10 book a spending mate for some unknown reason. What purpose? I don't know.
+
+🎤 SPEAKER_1 [157s - 163s]
+Maybe she's sending the kids over some Yeah. Jude, did you hear that?
+
+🎤 SPEAKER_2 [163s - 169s]
+There's a £10 note on the stairs, Jude. That's for you from nanny. She's giving you some spending money, some pocket money there.
+
+👤 あなた [175s - 176s]
+Look. How much do these weigh there, Mitchell?
+
+🎤 SPEAKER_2 [177s - 180s]
+Oh, yeah. Alright. That's that's that's more than it looks like, to be honest with you.
+
+👤 あなた [181s - 181s]
+You.
+
+🎤 SPEAKER_1 [186s - 187s]
+Really well.
+
+🎤 SPEAKER_3 [187s - 188s]
+Yeah.
+
+🎤 SPEAKER_2 [188s - 191s]
+Exactly. More energy.
+
+🎤 SPEAKER_2 [192s - 194s]
+Well, my spread over the volume of your body, the matter.
+
+🎤 SPEAKER_1 [195s - 199s]
+Where if you think so, like I say, Emily. How much effort it must be to move. Yeah. I know your body adjusts to it.
+
+🎤 SPEAKER_2 [200s - 201s]
+The missiles and whatnot. Yeah.
+
+🎤 SPEAKER_1 [201s - 204s]
+Well, to be fair, I've pregnant, so I guess I know.
+
+👤 あなた [205s - 205s]
+Yeah.
+
+🎤 SPEAKER_3 [206s - 207s]
+It is hard.
+
+🎤 SPEAKER_1 [209s - 211s]
+Yeah.
+
+🎤 SPEAKER_2 [214s - 222s]
+The reason to Not So, Rachel, part of my thing tomorrow. This is inspired by you, really. Is in my I'm gonna play Brandon Brandon Robertson.
+
+🎤 SPEAKER_2 [223s - 224s]
+I don't know who Brandon Robertson is.
+
+🎤 SPEAKER_1 [224s - 227s]
+Or is he someone who doesn't believe that god is He is what we call a progressive Christian.
+
+🎤 SPEAKER_2 [228s - 230s]
+Right? I'm gonna play this.
+
+🎤 SPEAKER_2 [233s - 240s]
+And basically, it sounds good, but this is why it's not. K. So he says, I would say Jesus is Lord.
+
+🎤 SPEAKER_7 [240s - 260s]
+Is Lord. He is the one whom I seek to conform my life to, whose vision, teachings, and message I try to proclaim to the world and encourage others to follow as well because I believe it leads to abundant life redemption and restoration of individual lives and of our world. As far as what Lord means, we can get into that later.
+
+🎤 SPEAKER_2 [260s - 261s]
+But what do you think of what he says?
+
+👤 あなた [264s - 264s]
+Sounds Christian, doesn't it?
+
+🎤 SPEAKER_1 [264s - 265s]
+Yeah.
+
+🎤 SPEAKER_2 [265s - 269s]
+But from he doesn't recognize Jesus as the the eternal son of god.
+
+🎤 SPEAKER_2 [269s - 271s]
+He's he's a teacher, a moral teacher.
+
+🎤 SPEAKER_1 [271s - 273s]
+Yes. So he said well, I don't know if it's that clear.
+
+🎤 SPEAKER_2 [273s - 283s]
+No. No. I know. Well, I No. I know what he's saying. No. No. It's not clear. No. You're right. It's it's not clear in that. But everything else he he's known for is very clear. So what I'm trying to say is Very clearly what?
+
+🎤 SPEAKER_1 [284s - 289s]
+Good or bad? No. No. No. Babe.
+
+🎤 SPEAKER_5 [290s - 291s]
+I can see through what he said.
+
+👤 あなた [291s - 293s]
+You might not be able you might not be able to.
+
+🎤 SPEAKER_2 [293s - 293s]
+Just from that clip alone.
+
+🎤 SPEAKER_1 [293s - 300s]
+Sorry. Sorry, Reese. Yeah. Sorry. If I if I I might it's my particular paragraph. Okay? Is that okay?
+
+🎤 SPEAKER_5 [300s - 300s]
+No.
+
+🎤 SPEAKER_1 [300s - 333s]
+I'm thinking sitting as a person in the Now I can see and some of the people in congregation might be able to say, oh, his teachings, his vision, that sounds like that doesn't sound like anything. It just sounds like a good moral person doesn't it? But what I'm trying to get at is you know everything else about Like, is that clear enough for people to to identify? Like, is it obvious? Like, he could believe that Jesus is the eternal son of God. It's just the way he worded it isn't that great.
+
+👤 あなた [333s - 342s]
+Well, this is the this is I'm trying to highlight to people. It's very, very subtle. But this guy is in no way Christian whatsoever.
+
+👤 あなた [343s - 353s]
+Wouldn't know that. Apart from what soon as you know the Jesus behind the the Jesus that he follows, doesn't even worship, then you can see it clearly.
+
+🎤 SPEAKER_1 [353s - 354s]
+Yeah.
+
+🎤 SPEAKER_2 [354s - 357s]
+So I'm not saying to people they should be able to identify that in that one clip.
+
+🎤 SPEAKER_1 [358s - 361s]
+I'm just thinking you want a clip that is I was expecting something that No.
+
+🎤 SPEAKER_2 [361s - 364s]
+I've done it now. I I don't Really listen. I don't know.
+
+👤 あなた [364s - 366s]
+It's something obviously Please, please, listen.
+
+👤 あなた [374s - 378s]
+Have you got another clip of him that's quite clearly him saying so you can just show that I'll Well I'm gonna well I was gonna do that but then instead I'm gonna summarize a couple of things that he's known for saying.
+
+👤 あなた [378s - 401s]
+So such as that Jesus was was hang on. I haven't got time to show Meg a long kit, but Jesus made mistakes. Jesus was mistaken about the god of the old testament. Jesus, was sinful but can follow him and we could probably correct him in some ways, but generally he's a good person to follow.
+
+🎤 SPEAKER_2 [402s - 403s]
+That is Brandon's He's also well known for his LGBTQ.
+
+👤 あなた [403s - 419s]
+He's a gay guy. But that that size is more to do with this what we call progressive Christianity. And so I guess what I want people to realize is when they watch things like that, you can't just trust I mean, compare it to this.
+
+🎤 SPEAKER_2 [419s - 424s]
+So that that so now that you know that Jesus is just a a basically a spiritual guru and lord means follower.
+
+🎤 SPEAKER_7 [425s - 428s]
+He is the one whom I seek to conform my life to, whose
+
+🎤 SPEAKER_1 [429s - 429s]
+No.
+
+👤 あなた [431s - 434s]
+I I wishes versus this guy. Okay? This is more like what it should be.
+
+🎤 SPEAKER_5 [434s - 445s]
+I'm gonna give you my thirty second take on Jesus, you give me yours. Okay? Jesus is the second person in the trinity, fully divine, who takes on human flesh.
+
+🎤 SPEAKER_5 [449s - 459s]
+Died on the cross for our sins and offers us eternal life if we'll accept through faith by his grace. Go.
+
+🎤 SPEAKER_7 [459s - 461s]
+I would say Jesus is Lord.
+
+🎤 SPEAKER_1 [461s - 463s]
+His whom I seek I think you show the whole thing.
+
+🎤 SPEAKER_2 [463s - 467s]
+I'm gonna show I'm gonna show that first. And then show the whole thing again.
+
+🎤 SPEAKER_1 [467s - 470s]
+Yeah. Okay. That's fine then. You you you want me to it? Didn't say that before.
+
+🎤 SPEAKER_2 [470s - 476s]
+That's what you Oh, I I didn't get a chance, frankly. Was I I'm I was just telling you about him. Didn't.
+
+🎤 SPEAKER_1 [476s - 477s]
+Yeah. Either I think, yes.
+
+🎤 SPEAKER_9 [477s - 479s]
+That is that that's what I'm saying. That is way better.
+
+🎤 SPEAKER_1 [480s - 485s]
+You can see the contrast. People need that visual contrast. You saying it in words or people have already listened to a twenty minutes.
+
+🎤 SPEAKER_9 [485s - 502s]
+They've got listened to twenty minutes to seven. Anything that you don't have to speak that you can display. Yeah. Now what I would say is really important. Say this guy you there might be stuff that you see video clips of go, he's a Christian, he believes this. And and and, yeah, I believe that too. But actually Yeah.
+
+🎤 SPEAKER_9 [503s - 515s]
+It's really important to know Exactly. Who it is that you're listening to because if he's got a video that's reinforcing some view that you've got, about what the Bible says, it turns out he's saying he's Christian.
+
+🎤 SPEAKER_2 [515s - 518s]
+He's not. And this is the main point. Right?
+
+👤 あなた [518s - 533s]
+Because we got on the other end of it, we got Richard Dawkins, We're an Atheist for Jesus t shirt. Right? And he had, likewise, Dawkins likes likes Jesus apart from his weird spiritual stuff. He he likes his teachings, which is odd. It's not just what Jesus did that we need to hold important. It's who he is.
+
+👤 あなた [534s - 555s]
+That's more in in some ways, that's more important than the cross. That's what I'm trying to get across here or there. So who Jesus is Brendan completely rejects him. So the the overall the overall thing is that that if we get him wrong, and then what looks like when we get him wrong. Jesus reduced a moral teacher.
+
+👤 あなた [559s - 567s]
+How this protects you today? What does this mean for your actual life? I'm trying to do a bit more what you suggest. Mhmm. Nice.
+
+🎤 SPEAKER_2 [567s - 569s]
+It looks long, it's not actually. And, also, for that branding guy, can say, you know, you might catch a clip of something he says on online.
+
+🎤 SPEAKER_2 [574s - 575s]
+Mhmm.
+
+👤 あなた [577s - 584s]
+And believe what he's saying because it's There of clip of him preaching something really rubbish. And something really heritical and then no joke.
+
+👤 あなた [584s - 591s]
+Lightning thunder, and then the lights in the church go out. And everyone sits laughing going, oh, no. I know.
+
+🎤 SPEAKER_2 [591s - 592s]
+He said, just be clear, that's not god's judgment.
+
+👤 あなた [592s - 596s]
+Okay? And he everyone's laughing, but it's quite a funny thing.
+
+🎤 SPEAKER_7 [598s - 599s]
+Inform my life.
+
+👤 あなた [599s - 610s]
+Yeah. So it's quite a good contrast between so this this guy This guy affirms that the second person of the trinity he rejects that.
+
+👤 あなた [611s - 625s]
+Fully divine, he rejects that. Take he rejects he rejects that. Yeah. He agrees with that. Rejects that. Rejects that, of its eternal life.
+
+👤 あなた [626s - 627s]
+Rejects that.
+
+🎤 SPEAKER_2 [627s - 628s]
+I think that what I would say I'm not gonna go and do that.
+
+🎤 SPEAKER_9 [628s - 635s]
+But what I would say though is it there's probably a lot of videos online that he's saying that sound
+
+🎤 SPEAKER_8 [635s - 635s]
+Mhmm.
+
+🎤 SPEAKER_9 [636s - 647s]
+That sound like you know, you can follow someone like that because you see some videos and you share them online or it re reinforces your like, what you're exploring is what the Jonathan might end up heading that way.
+
+👤 あなた [649s - 662s]
+Yeah. And every time I hear him Alex Raymond's clip on line, this penny lean thing, sounds like you don't need god in it. It's like self healthy stuff, how to live a good life.
+
+🎤 SPEAKER_1 [662s - 663s]
+Yeah.
+
+👤 あなた [663s - 666s]
+With biblical wisdom. But Well, they're doing that as synagogue.
+
+🎤 SPEAKER_2 [667s - 668s]
+Yeah.
+
+🎤 SPEAKER_9 [668s - 671s]
+That's seeker friendly talks. How we get people in?
+
+👤 あなた [671s - 674s]
+I shouldn't think that asynchronitis would have trained him properly on it. Maybe. I don't know.
+
+🎤 SPEAKER_9 [674s - 677s]
+Anyway, don't just preach it, Jonathan, every time you do a I'm not pre I'm not.
+
+🎤 SPEAKER_2 [677s - 679s]
+I'm not. I'm just saying.
+
+🎤 SPEAKER_9 [679s - 680s]
+Because that probably leaves anyway.
+
+🎤 SPEAKER_2 [680s - 682s]
+So Would you say that looks pretty neat, doesn't it?
+
+🎤 SPEAKER_1 [682s - 683s]
+It's that the the damn. Yeah.
+
+🎤 SPEAKER_3 [684s - 685s]
+Also,
+
+🎤 SPEAKER_3 [690s - 691s]
+Yeah.
+
+🎤 SPEAKER_8 [691s - 691s]
+We're done.
+
+👤 あなた [693s - 694s]
+Not perfect by any means.
+
+🎤 SPEAKER_1 [695s - 700s]
+It's fine. It's because I'm here. Can see the edge of it, but, actually, no position you'd be sat in where you'd able see the edge.
+
+🎤 SPEAKER_3 [700s - 700s]
+No.
+
+🎤 SPEAKER_8 [701s - 701s]
+No.
+
+🎤 SPEAKER_2 [701s - 711s]
+You don't you'll notice it. Okay? Well, I'm gonna I'm getting exhausted from that. Are you? Not feeling fresh for it? In the rain. You're not feeling like I blew the cobwebs out?
+
+🎤 SPEAKER_2 [712s - 715s]
+Well.
+
+👤 あなた [715s - 717s]
+But it was he was pleased that he let him one go.
+
+🎤 SPEAKER_8 [717s - 717s]
+Well,
+
+🎤 SPEAKER_9 [717s - 718s]
+yeah.
+
+🎤 SPEAKER_1 [718s - 728s]
+He was pleased because he had some nice encouragements. He was in a positive Was his teammates been a bit mean or No.
+
+🎤 SPEAKER_9 [729s - 735s]
+Was to say I was saying it was Curtis, he said he was like Nathan Trott. So he said it was. But no. They were really positive about him because he was good. Mhmm.
+
+🎤 SPEAKER_1 [735s - 743s]
+And he knew how to be a good goalkeeper. Oh, yeah. And every pass he did was spot on.
+
+🎤 SPEAKER_9 [743s - 750s]
+So whether it was just a short knock to Curtis or a short knock to Jack in the back or whether it was a long pass Yeah. Generally he just is ones because Curtis and Jack could handle it from there. Alright.
+
+🎤 SPEAKER_1 [751s - 752s]
+But it looked like proper football.
+
+🎤 SPEAKER_9 [752s - 755s]
+So I think they were happy that they had a good goalkeeper who knew what to do, who could do long balls and Yeah.
+
+🎤 SPEAKER_9 [758s - 762s]
+He's probably frustrated for as defenders to feel like Yeah. Why did you pass the ball there?
+
+🎤 SPEAKER_2 [762s - 768s]
+Why did I forgot Fred in left as well. Not very not very pleasant.
+
+🎤 SPEAKER_1 [768s - 769s]
+That's brilliant football today.
+
+🎤 SPEAKER_2 [770s - 770s]
+Yeah.
+
+🎤 SPEAKER_1 [770s - 773s]
+Watching him today. He had a good attitude. He was positive.
+
+🎤 SPEAKER_3 [773s - 775s]
+I Hopefully, he'd grow into that. Mhmm. He was fine.
+
+🎤 SPEAKER_9 [784s - 790s]
+They I think I think he's quite protective, and he's quite able to see that woman a foul That was both of them going in.
+
+🎤 SPEAKER_1 [790s - 812s]
+Don't don't just go these players are strong thugs. We're gonna get across them. I think he's quite defensive of them. He doesn't want them getting pulled up so that they haven't done So but I think it's something due to saying something like the other two I can't even be bothered. But he was sore and he was afterwards, and afterwards he's like, I'd never wanna play them again. To the whole squad, him Vale Vikings, never wanna play them again.
+
+🎤 SPEAKER_1 [812s - 817s]
+Oh my. Which is embarrassing. It's embarrassing. Like, I don't wanna be around that.
+
+👤 あなた [818s - 829s]
+You is a coach like Andrew in the basketball, professional Yeah. Good kids, invested, brings a bit of a can get annoyed at the other side. Brings a little bit of professionalism to it.
+
+🎤 SPEAKER_7 [832s - 834s]
+Be embarrassing sometimes, but he wouldn't and he might get it would be different.
+
+🎤 SPEAKER_1 [834s - 844s]
+Craig is every week. And he's and he doesn't seem to care about the kids in it as well.
+
+👤 あなた [847s - 850s]
+He was just like He's a little bit more like he's a bit of an extra bit more of an extraversion than my brother, basically.
+
+🎤 SPEAKER_1 [851s - 856s]
+Yeah. He's like that. And clearly, Jack's on the autistic spectrum. He's on some something.
+
+👤 あなた [856s - 864s]
+It was funny seeing the picture of that shared of Joshua's birthday The one with him is little one and he's wearing a t shirt or something.
+
+👤 あなた [865s - 869s]
+So if you think I'm cute, look, you you have to see my dad or something. I've got there. I bet Paul bought that.
+
+👤 あなた [875s - 876s]
+You see Freddie's It's like he always thought he's chocolate pool.
+
+🎤 SPEAKER_1 [878s - 879s]
+Felt he was told that by your parents.
+
+🎤 SPEAKER_2 [879s - 881s]
+No. He wasn't?
+
+🎤 SPEAKER_1 [881s - 886s]
+No. Not not for a lot not for a lot of time because they probably then got fed up with him. But
+
+🎤 SPEAKER_8 [886s - 886s]
+No.
+
+🎤 SPEAKER_2 [886s - 887s]
+They didn't.
+
+👤 あなた [887s - 893s]
+They didn't. Paul just Paul just thought he was he was he was god's gift to women.
+
+👤 あなた [899s - 900s]
+Are some people like that.
+
+🎤 SPEAKER_1 [900s - 906s]
+He he is like yeah. There's like Craig. He likes the network. He likes the bands. He likes the same phrases.
+
+👤 あなた [907s - 908s]
+He likes the The dramatic goals and progressions.
+
+🎤 SPEAKER_1 [908s - 909s]
+The comedy.
+
+🎤 SPEAKER_3 [909s - 909s]
+Yeah.
+
+🎤 SPEAKER_1 [911s - 917s]
+Anyway, that was embarrassing. But everything else, I mean I thought the kids played well. Didn't think they were rough. Didn't think I didn't see any of that.
+
+🎤 SPEAKER_1 [918s - 922s]
+So in that sense, only thing that lay it down was reading a lot too and Craig.
+
+🎤 SPEAKER_9 [923s - 925s]
+I did say because was there and I I was just like they're like, oh, just let them have the ball.
+
+🎤 SPEAKER_1 [927s - 939s]
+Like, they were losing, like, 10 nil. So I was like, oh, it was me, I'd just let them have it and just move on. And then say, I think he just feels a bit defensive because if they
+
+🎤 SPEAKER_8 [939s - 939s]
+No.
+
+🎤 SPEAKER_1 [944s - 948s]
+But if he's buried black and white on things, he can't let things go, can it?
+
+🎤 SPEAKER_1 [971s - 974s]
+Cheese out. I'll let you look at that later.
+
+🎤 SPEAKER_3 [975s - 976s]
+Oh, boy, me. It's quick.
+
+🎤 SPEAKER_9 [978s - 978s]
+Well, the game is in less than an hour.
+
+🎤 SPEAKER_2 [979s - 980s]
+Yeah. I know. That's what I'm talking about.
+
+👤 あなた [981s - 986s]
+I mess my dad and say, look, dad don't make spaghetti bolognese for me and Elliot and write chili for you too.
+
+🎤 SPEAKER_1 [987s - 989s]
+Will prob Elliot might eat chili. So is it not spicy?
+
+👤 あなた [990s - 993s]
+Well, I just as chilly as it is, he's making chilly fall of us now.
+
+🎤 SPEAKER_1 [994s - 995s]
+Did you tell him not to?
+
+🎤 SPEAKER_8 [995s - 996s]
+Yeah.
+
+🎤 SPEAKER_2 [996s - 1005s]
+I said that was silly. And it is it really? I I really I've always and I continue to dislike chilli. Don't like it.
+
+🎤 SPEAKER_8 [1005s - 1006s]
+There we are.
+
+🎤 SPEAKER_2 [1007s - 1008s]
+Never have done.
+
+🎤 SPEAKER_9 [1009s - 1011s]
+It's weird because it is bolognese.
+
+🎤 SPEAKER_2 [1011s - 1011s]
+No. It's not.
+
+👤 あなた [1012s - 1016s]
+It's the chili elements. It's the beans. They've got the runner beans or whatever they go in there. Beans. I saw that.
+
+🎤 SPEAKER_2 [1018s - 1020s]
+But can I just take And the rice is not as nice as spaghetti?
+
+👤 あなた [1020s - 1021s]
+Grace.
+
+🎤 SPEAKER_9 [1021s - 1031s]
+If you wanna actually do well and be healthy, you need to eat things like beans. They will fill you up. You'll be full up. If they're really good for you, they give you so much like much protein, they give you so much good stuff.
+
+🎤 SPEAKER_9 [1032s - 1035s]
+Okay, in them that is excellent. And then, like, just
+
+🎤 SPEAKER_2 [1036s - 1036s]
+Yeah.
+
+🎤 SPEAKER_9 [1036s - 1039s]
+It is good for you.
+
+🎤 SPEAKER_5 [1039s - 1040s]
+And rice rice as well is a So I'm gonna give you my thirty sec.
+
+👤 あなた [1041s - 1042s]
+Yeah. Sorry. No.
+
+🎤 SPEAKER_2 [1043s - 1045s]
+And so what you're saying. Yeah. But equally.
+
+
+---
+
