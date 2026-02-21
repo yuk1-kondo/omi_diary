@@ -463,3 +463,29 @@ Alright then. See you in a bit. Bye.
 
 ---
 
+
+
+## 📝 Parent Coordinates With Child Before Visitor Arrives - f88b88d0-2e63-4838-a0b1-a1ef0b6347b9
+
+**記録時間**: 2026-02-21 19:53:28
+
+### STT生テキスト
+
+👤 あなた [0s - 6s]
+Toby an idiot? Can come down here then and just go on your screens down here? You remember Honey will be here in a few minutes.
+
+👤 あなた [8s - 12s]
+Just just come on doing what you're doing, but just come and do Danny even instead.
+
+👤 あなた [18s - 20s]
+Can you get your shoes on as well? I'll take if you like?
+
+🎤 SPEAKER_3 [26s - 27s]
+Yahweh.
+
+🎤 SPEAKER_3 [34s - 39s]
+Yeah. Oui. Foundation
+
+
+---
+
