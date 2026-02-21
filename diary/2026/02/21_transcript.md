@@ -1256,3 +1256,80 @@ Alright.
 
 ---
 
+
+
+## 📝 Friends Admire Map And Get Ready To Leave - 11185df5-45e4-4d4f-ae91-76974d792f73
+
+**記録時間**: 2026-02-21 20:56:57
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+That's a cool map.
+
+👤 あなた [6s - 7s]
+Wow. Really?
+
+🎤 SPEAKER_1 [7s - 10s]
+That looks really cool. Himself. Wow.
+
+👤 あなた [10s - 12s]
+That that that's really cool. That looks really
+
+🎤 SPEAKER_1 [14s - 14s]
+good, to be fair.
+
+👤 あなた [83s - 87s]
+Just think on that colour, dude, Is it?
+
+🎤 SPEAKER_1 [87s - 87s]
+Good.
+
+👤 あなた [93s - 94s]
+You're welcome, pictures.
+
+🎤 SPEAKER_1 [95s - 100s]
+Well, I'll do Well. I'll It's exactly how things work, but I'll come.
+
+🎤 SPEAKER_1 [106s - 108s]
+What what do you mean throw it outside?
+
+👤 あなた [108s - 109s]
+I'm putting it the mistake.
+
+👤 あなた [112s - 113s]
+Jude, we're leaving in seven minutes.
+
+🎤 SPEAKER_1 [132s - 134s]
+Anywhere? Yeah.
+
+👤 あなた [148s - 152s]
+I don't get You will have a drink. Don't worry. You didn't need to say that. You didn't have to take that burden upon yourself there.
+
+🎤 SPEAKER_1 [155s - 156s]
+Was reflecting on it.
+
+👤 あなた [159s - 164s]
+It's felt like an age, to be honest, since the last time we all summer clothing.
+
+🎤 SPEAKER_1 [168s - 168s]
+Yep.
+
+🎤 SPEAKER_1 [185s - 191s]
+Addiots, come on. Oh, woah. That looks cool. You know what juice?
+
+👤 あなた [192s - 194s]
+That looks really good actually. Looks almost like he faked it.
+
+🎤 SPEAKER_1 [277s - 278s]
+Tablet.
+
+👤 あなた [279s - 280s]
+Where's the tablet?
+
+🎤 SPEAKER_1 [281s - 281s]
+Your tablet.
+
+
+---
+
