@@ -1233,3 +1233,26 @@ And so what you're saying. Yeah. But equally.
 
 ---
 
+
+
+## 📝 Parent Prepares Lunch And Plans Departure - 04daa0f3-5a23-43d5-817e-022e28165ce9
+
+**記録時間**: 2026-02-21 20:51:54
+
+### STT生テキスト
+
+👤 あなた [1s - 15s]
+Jude, do you like chilli and rice? Do you like chilli and rice? No? Okay. What do you want in your sandwiches then? Hello? Butter toast? Better toast for lunch?
+
+👤 あなた [19s - 20s]
+I see.
+
+👤 あなた [44s - 48s]
+We're leaving in ten minutes. How long you got left in your game?
+
+🎤 SPEAKER_1 [52s - 52s]
+Alright.
+
+
+---
+
