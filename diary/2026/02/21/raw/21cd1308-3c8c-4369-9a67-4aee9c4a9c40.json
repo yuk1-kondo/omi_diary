@@ -1,0 +1,98 @@
+{
+  "id": "21cd1308-3c8c-4369-9a67-4aee9c4a9c40",
+  "created_at": "2026-02-21T10:20:41.045008+00:00",
+  "started_at": "2026-02-21T10:21:20.820304+00:00",
+  "finished_at": "2026-02-21T10:21:11.250229+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Family Plans Meal With Dad",
+    "overview": "The user discusses plans to have spaghetti bolognese with Elliot and to prepare lunch for Jude, mentioning bringing sandwiches and other food. They ask their dad to message them back to confirm what they should bring along.",
+    "emoji": "🍝",
+    "category": "family",
+    "action_items": [
+      {
+        "description": "Message dad asking what to bring with you",
+        "completed": false,
+        "created_at": "2026-02-21T10:23:17.337460+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "4e5a21b8-4f57-4ee6-b424-ab85fb3d5178",
+      "text": "Me and Elliot are well up for some spaghetti bolognese. And I'll give Jude some lunch. To bring such as sandwiches, etcetera.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 4.76837158203125e-07,
+      "end": 12.77000047683714,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7d69a8e1-6453-411c-aa86-78647c624ad0",
+      "text": "Message me, dad. Just let me know what I can bring with us.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 17.329800476837136,
+      "end": 20.049800476836936,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "c378704a-4b6e-43cf-a3de-7a1df4bc9718",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "21cd1308-3c8c-4369-9a67-4aee9c4a9c40",
+      "chunk_timestamps": [
+        1771669238.697,
+        1771669243.795,
+        1771669248.814,
+        1771669253.952,
+        1771669259.305,
+        1771669264.355
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-21T10:20:38.697000+00:00",
+      "duration": 30.658
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Meal plans\n- Spaghetti bolognese planned for you and Elliot  \n- Jude will be given lunch to bring (sandwiches etc.)\n\n## Request to dad\n- Asked dad to message back  \n- Want dad to confirm what you should bring  \n\n## Next steps\n- Wait for dad’s reply  \n- Decide what food items to bring based on reply"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
