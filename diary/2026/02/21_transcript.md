@@ -417,3 +417,20 @@ So I'm allowed to destroy the country, but I can't charge them a little fee. I c
 
 ---
 
+
+
+## 📝 Family Plans Meal With Dad - 21cd1308-3c8c-4369-9a67-4aee9c4a9c40
+
+**記録時間**: 2026-02-21 19:20:41
+
+### STT生テキスト
+
+👤 あなた [0s - 12s]
+Me and Elliot are well up for some spaghetti bolognese. And I'll give Jude some lunch. To bring such as sandwiches, etcetera.
+
+👤 あなた [17s - 20s]
+Message me, dad. Just let me know what I can bring with us.
+
+
+---
+
