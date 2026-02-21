@@ -434,3 +434,32 @@ Message me, dad. Just let me know what I can bring with us.
 
 ---
 
+
+
+## 📝 Family Prepares For Visit And Lunch Plans - f668ba57-3c22-4cc5-9ae6-8388f2df7436
+
+**記録時間**: 2026-02-21 19:47:50
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 0s]
+So big.
+
+👤 あなた [1s - 13s]
+Your mom's gonna be here in ten minutes. Okay. Where are you? Up there. You dress and everything? Yes. Know. Pretty much ready to roll, are you? Yes. Okay.
+
+🎤 SPEAKER_3 [13s - 14s]
+Good.
+
+👤 あなた [53s - 69s]
+Hey, dad. Hey, listen. Don't do a hey, dad. Listen, do spackball just for me and Elliot. We will have chili as well. No putting you doing two lunches. Alright then. See you in a bit. Bye.
+
+🎤 SPEAKER_3 [81s - 82s]
+Nuggets.
+
+👤 あなた [83s - 84s]
+Alright then. See you in a bit. Bye.
+
+
+---
+
