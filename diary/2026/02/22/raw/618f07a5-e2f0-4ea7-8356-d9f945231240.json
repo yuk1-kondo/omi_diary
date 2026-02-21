@@ -1,0 +1,90 @@
+{
+  "id": "618f07a5-e2f0-4ea7-8356-d9f945231240",
+  "created_at": "2026-02-21T15:06:19.601840+00:00",
+  "started_at": "2026-02-21T12:08:37.835786+00:00",
+  "finished_at": "2026-02-21T15:07:58.433345+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "隆二のすき焼きレシピメモ",
+    "overview": "会話内容は「隆二すき焼きレシピ」という一言のみで、隆二という人物のすき焼きレシピに関するメモや検索キーワードのような発話が記録されている。具体的なレシピ内容や次の行動、日時などは言及されていない。",
+    "emoji": "🍲",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "554b814f-54b3-4f88-a137-ce1d01e90b8a",
+      "text": "隆二すき焼きレシピ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.177093497759188e-07,
+      "end": 9.981374582290648,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "6cfe8d64-7ec8-431f-becd-b8b28f4e1583",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "618f07a5-e2f0-4ea7-8356-d9f945231240",
+      "chunk_timestamps": [
+        1771686376.02,
+        1771686381.063,
+        1771686386.082,
+        1771686391.137,
+        1771686396.192,
+        1771686401.254,
+        1771686406.348,
+        1771686412.389,
+        1771686417.375,
+        1771686422.478,
+        1771686427.653,
+        1771686432.663,
+        1771686437.763,
+        1771686442.852,
+        1771686447.948,
+        1771686452.988,
+        1771686459.079,
+        1771686464.904,
+        1771686470.213,
+        1771686475.321,
+        1771686481.014
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-21T15:06:16.020000+00:00",
+      "duration": 109.994
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「隆二」のすき焼きレシピについての話題が出た\n- 具体的な材料や作り方の内容は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 必要であれば、「どんなすき焼きレシピを知りたいか（味の好みや人数など）」を少し整理してから、あらためて質問してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
