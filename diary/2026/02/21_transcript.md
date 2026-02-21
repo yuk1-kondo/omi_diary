@@ -489,3 +489,173 @@ Yeah. Oui. Foundation
 
 ---
 
+
+
+## 📝 Family Morning, School Run, and Faith Chat - 9556dbd1-7c85-4f4c-a083-f8054e24aa79
+
+**記録時間**: 2026-02-21 19:57:10
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 1s]
+One two eight. One two.
+
+🎤 SPEAKER_3 [8s - 8s]
+Alright?
+
+👤 あなた [16s - 20s]
+Try the 30 kick off today, think. We might do your haircut in the way home,
+
+🎤 SPEAKER_3 [20s - 24s]
+No. What? We're home from football.
+
+👤 あなた [25s - 32s]
+Well, look at the state of it. I've been very he needs it. It does. So you just think about close to her.
+
+🎤 SPEAKER_2 [35s - 38s]
+You wanna carry on looking like a tramp?
+
+🎤 SPEAKER_1 [40s - 41s]
+Call me a tramp.
+
+🎤 SPEAKER_2 [42s - 42s]
+No.
+
+👤 あなた [42s - 46s]
+I didn't say you didn't call you Trump. I said you look like Trump. Completely different.
+
+🎤 SPEAKER_1 [48s - 48s]
+I'm I'm not Trump.
+
+👤 あなた [48s - 54s]
+Thank you. Your hair, so it needs a haircut. Homeless person.
+
+👤 あなた [59s - 60s]
+Not being rude by that, but
+
+👤 あなた [161s - 162s]
+Thanks.
+
+🎤 SPEAKER_2 [164s - 166s]
+Hey. You need to come get dressed then. I mean, not being funny.
+
+👤 あなた [169s - 172s]
+Go and get dressed, please. Or you can wait for Toby to go. Yeah? Alright.
+
+🎤 SPEAKER_5 [236s - 238s]
+So I'm gonna give you my thirty second take on Jesus.
+
+🎤 SPEAKER_3 [246s - 248s]
+You Record. PC screen.
+
+🎤 SPEAKER_5 [270s - 271s]
+You gave me yours.
+
+🎤 SPEAKER_3 [273s - 273s]
+Sure, sir.
+
+🎤 SPEAKER_5 [274s - 277s]
+Sure, I'm gonna give you my thirty take on Jesus. You give me yours.
+
+🎤 SPEAKER_6 [277s - 278s]
+We don't really know.
+
+🎤 SPEAKER_3 [279s - 279s]
+Who wrote it.
+
+🎤 SPEAKER_5 [279s - 283s]
+So I'm gonna give you my thirty second take on Jesus. You give me yours. Okay?
+
+🎤 SPEAKER_2 [289s - 294s]
+Alright. There's your mom. Soap? Yeah. Can can you get your shoes on, mate?
+
+🎤 SPEAKER_3 [313s - 314s]
+That's alright.
+
+🎤 SPEAKER_3 [320s - 321s]
+Say again.
+
+🎤 SPEAKER_2 [322s - 325s]
+Oh, look at this weather. It is.
+
+👤 あなた [325s - 327s]
+You coming in?
+
+🎤 SPEAKER_2 [327s - 328s]
+Are you going straight on?
+
+🎤 SPEAKER_1 [328s - 329s]
+We're going straight by.
+
+🎤 SPEAKER_2 [329s - 331s]
+You got the pillow? That's
+
+🎤 SPEAKER_3 [331s - 331s]
+right.
+
+🎤 SPEAKER_3 [335s - 336s]
+Wat is wat is dat voor in Edouk?
+
+🎤 SPEAKER_2 [338s - 345s]
+Oh, brilliant. We'll make sure we'll definitely make sure he gets over. Yeah. We come snap, snap, snappy. Come on.
+
+🎤 SPEAKER_1 [347s - 351s]
+That's you mate. Anything. Yeah. She did.
+
+🎤 SPEAKER_2 [351s - 355s]
+Do you wanna do a quick one last sweep Let me I'll yeah. Go ahead. Do it okay.
+
+🎤 SPEAKER_1 [362s - 363s]
+Well, yeah.
+
+👤 あなた [364s - 367s]
+Much more manageable. And this, Hannah, is my telescope.
+
+🎤 SPEAKER_2 [371s - 375s]
+It kind of it kind of opens up a bit like that Oh, wow.
+
+👤 あなた [375s - 376s]
+See this.
+
+👤 あなた [378s - 384s]
+So the thicker it is that that's further into space, you can see, like, the darkener. The the the you know, things that are too dark Yeah. Obviously, the length gives you more so.
+
+🎤 SPEAKER_2 [384s - 386s]
+Good. Can see all the planets.
+
+👤 あなた [387s - 391s]
+You can see visible actually see different galaxies with it. You know, milky not the milk way.
+
+🎤 SPEAKER_2 [392s - 396s]
+We're in milk way, but anyway, it's kind of like a Very cool. You know. Yeah. That's my geekiest thing.
+
+👤 あなた [396s - 399s]
+Yeah. Yeah.
+
+🎤 SPEAKER_2 [400s - 407s]
+Well, I feel like I'm in my forties now. I'm allowed to have something Right. Okay. Right. Toby, good to you, mate.
+
+🎤 SPEAKER_1 [407s - 409s]
+Yes. To be Yeah.
+
+🎤 SPEAKER_5 [448s - 458s]
+Born by Mary lived a sin divine who be fully person of the trinity is the set. Okay? Give me yours. Take on Jesus.
+
+🎤 SPEAKER_6 [458s - 459s]
+Oh, no problem.
+
+🎤 SPEAKER_5 [460s - 464s]
+Some I'm gonna give you my thirty second take on Jesus. Oh, okay.
+
+🎤 SPEAKER_5 [473s - 487s]
+So I'm gonna give you my thirty second take on Jesus, you give me yours. Okay? Jesus is the sect. Died on the cross The one whom I seek to conform my life to, whose vision teachings and message I try to proclaim to the world and encourage others to follow as well because I believe it leads to abundant life redemption and restoration of individual lives and of our world.
+
+🎤 SPEAKER_7 [492s - 501s]
+As far as what Lord means, we can get into that later, but that's my summary.
+
+🎤 SPEAKER_3 [512s - 512s]
+Go.
+
+
+---
+
