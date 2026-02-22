@@ -1,0 +1,100 @@
+{
+  "id": "6350e0fe-c89d-4024-9210-aa0abb67e5fc",
+  "created_at": "2026-02-22T09:54:04.906867+00:00",
+  "started_at": "2026-02-22T09:54:44.086471+00:00",
+  "finished_at": "2026-02-22T09:55:53.648660+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Brief Reaction Conversation",
+    "overview": "A very short exchange where the user reacts with concern, asking what happened after noticing something unexpected or problematic.",
+    "emoji": "❓",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "cc45a2b5-4b9e-4a78-9e02-785e58f29d72",
+      "text": "K.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 3.814699311988079e-08,
+      "end": 0.3200000381469863,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f6c17d8d-a33b-4b2f-8507-e31d15b4efec",
+      "text": "Oh, no. What's happens?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 61.50000003814699,
+      "end": 65.42997003814696,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJF3AKX-sFbkgR9Ckz7o3AYxQ",
+    "latitude": 51.4053298,
+    "longitude": -3.2663931,
+    "address": "The Mews, Belvedere Cres, Barry CF63 4UZ, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1af5ab94-7daa-436e-9803-0193b342e1d4",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "6350e0fe-c89d-4024-9210-aa0abb67e5fc",
+      "chunk_timestamps": [
+        1771754042.973,
+        1771754048.162,
+        1771754053.164,
+        1771754058.261,
+        1771754063.239,
+        1771754068.406,
+        1771754073.487,
+        1771754078.49,
+        1771754083.685,
+        1771754088.657,
+        1771754093.748,
+        1771754098.783,
+        1771754103.755
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-22T09:54:02.973000+00:00",
+      "duration": 65.782
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+      "content": "Something went wrong or changed suddenly? Can you tell me what’s going on or what you’re reacting to with “Oh, no”? I’ll help you figure it out."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
