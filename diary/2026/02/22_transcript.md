@@ -2251,3 +2251,62 @@ Thank you, please come.
 
 ---
 
+
+
+## 📝 Sunday Catechism On The Redeemer - 8db074d0-3c9e-48d9-8684-1407c867b8b1
+
+**記録時間**: 2026-02-22 20:38:31
+
+### STT生テキスト
+
+👤 あなた [0s - 2s]
+Thanks, Katherine. Thank you, Jesus. Christ, Jeff, you.
+
+🎤 SPEAKER_2 [8s - 9s]
+She's sauces.
+
+🎤 SPEAKER_4 [29s - 31s]
+Let's shit a second. Thank you.
+
+🎤 SPEAKER_2 [52s - 52s]
+¿Qué tienes?
+
+🎤 SPEAKER_2 [64s - 65s]
+Brick it there.
+
+🎤 SPEAKER_4 [68s - 73s]
+Thanks for the worship, guys. That was lovely. And then we took a seat the presence of the Lord.
+
+🎤 SPEAKER_4 [76s - 82s]
+We're gonna move on. We're gonna move on to the catechisms of the morning. We're gonna start again. It's been a while.
+
+👤 あなた [84s - 86s]
+Yeah. To the good.
+
+🎤 SPEAKER_4 [110s - 118s]
+Guys, we did have you all up for the end of the second a second of the catechisms through this program. We're have you all up doing that.
+
+🎤 SPEAKER_4 [123s - 127s]
+This is the beginning of the second part. Alright? We're
+
+🎤 SPEAKER_4 [129s - 135s]
+gonna this is our question, guys. What kind of redeemer do we need to be reconciled to God?
+
+🎤 SPEAKER_4 [140s - 142s]
+And I sleep too already, so do know the answer.
+
+🎤 SPEAKER_4 [146s - 171s]
+We have our answer this morning. And it says this, the one who is both true vision went and truly god. Yeah. He Amen. That is and an easy one, guys. So, again, we read the question again. What kind of redeemable do we need to be to God?
+
+🎤 SPEAKER_4 [171s - 183s]
+Let's read that second part together. It's good to do that. We One who is both truly human and truly god. Get that. Bring it in your head this week. Come on. Here we go.
+
+🎤 SPEAKER_4 [184s - 184s]
+Let's go.
+
+👤 あなた [184s - 186s]
+Kevin up, John.
+
+
+---
+
