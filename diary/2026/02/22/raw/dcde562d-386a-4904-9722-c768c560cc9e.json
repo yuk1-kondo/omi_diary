@@ -1,0 +1,106 @@
+{
+  "id": "dcde562d-386a-4904-9722-c768c560cc9e",
+  "created_at": "2026-02-22T04:23:46.206590+00:00",
+  "started_at": "2026-02-22T03:58:00.100295+00:00",
+  "finished_at": "2026-02-22T04:25:15.650035+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "待ち合わせ時間の再調整",
+    "overview": "話し手が「3時10分まで」「後から行く」「もう遅くなるけど」と話しており、約束や待ち合わせに遅れるため、3時10分頃までに合流する予定であることを伝えている場面と考えられる。ただし、具体的な日付や場所、相手、正式な予定かどうかは明示されていない。",
+    "emoji": "⏱️",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "810befa7-5272-47db-882e-6a91ff49fc20",
+      "text": "3時10分まで 後から行く もう遅くなるけど",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.555847089524832e-07,
+      "end": 28.30412474441529,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1d853ff7-83ca-4dbf-90a7-aeaac45255fd",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "dcde562d-386a-4904-9722-c768c560cc9e",
+      "chunk_timestamps": [
+        1771734221.819,
+        1771734226.903,
+        1771734232.845,
+        1771734237.844,
+        1771734247.597,
+        1771734252.96,
+        1771734258.021,
+        1771734263.072,
+        1771734269.202,
+        1771734275.091,
+        1771734280.271,
+        1771734285.399,
+        1771734290.507,
+        1771734295.599,
+        1771734300.891,
+        1771734305.977,
+        1771734312.144,
+        1771734317.537,
+        1771734322.601,
+        1771734328.516,
+        1771734334.197,
+        1771734339.188,
+        1771734344.681,
+        1771734349.714,
+        1771734355.753,
+        1771734360.792,
+        1771734366.211,
+        1771734371.52,
+        1771734376.52,
+        1771734381.561,
+        1771734386.686,
+        1771734393.232,
+        1771734399.381,
+        1771734404.386,
+        1771734409.659,
+        1771734415.712,
+        1771734421.034
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-22T04:23:41.819000+00:00",
+      "duration": 204.215
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 3時10分までに行く予定がある\n- 後から合流するつもり\n- 到着は少し遅くなりそう\n\n【決めたこと】\n- 3時10分までに向かう（予定）\n\n【次の一歩】\n- 3時10分に間に合うように、家を出る時間をあらかじめ決めておく"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed"
+}
