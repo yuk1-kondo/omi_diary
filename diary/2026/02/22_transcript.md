@@ -213,3 +213,20 @@ But that's not the case. If you would have met with me, told him the case that w
 
 ---
 
+
+
+## 📝 Brief Reaction Conversation - 6350e0fe-c89d-4024-9210-aa0abb67e5fc
+
+**記録時間**: 2026-02-22 18:54:04
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+K.
+
+👤 あなた [61s - 65s]
+Oh, no. What's happens?
+
+
+---
+
