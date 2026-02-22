@@ -1,0 +1,80 @@
+{
+  "id": "42f886e6-f1a6-49bd-b990-3b653de25431",
+  "created_at": "2026-02-22T09:56:57.218717+00:00",
+  "started_at": "2026-02-22T09:46:18.118021+00:00",
+  "finished_at": "2026-02-22T09:58:02.519087+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "オムツの残量確認と買い出しの話",
+    "overview": "会話では、話し手が「そろそろオムツがないね」と述べ、家にあるオムツの残量が少なくなっており、近いうちに買い足す必要があることを共有している。具体的な購入日時までは決まっていないが、早めの補充が必要な状況である。",
+    "emoji": "🍼",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "bc8dcea9-072c-4282-8bd9-8a630d27758c",
+      "text": "そろそろオムツがないね",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.9836425835251248e-07,
+      "end": 10.04137480163574,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "9fba6fe9-6bbb-4142-a251-2fc71cad91d9",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "42f886e6-f1a6-49bd-b990-3b653de25431",
+      "chunk_timestamps": [
+        1771754215.922,
+        1771754220.938,
+        1771754225.956,
+        1771754230.988,
+        1771754236.215,
+        1771754241.274,
+        1771754247.267,
+        1771754252.36,
+        1771754258.105,
+        1771754263.153,
+        1771754268.306
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-22T09:56:55.922000+00:00",
+      "duration": 57.384
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- オムツの残りが少なくなっている\n- 近いうちに補充が必要な状況\n\n【決めたこと】\n- 特になし（いつ・どこで買うかは未確認）\n\n【次の一歩】\n- 使っているサイズと種類を確認して、同じもの（または近いもの）を買うタイミングを決める"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
