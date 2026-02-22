@@ -2109,3 +2109,86 @@ There's nothing my god can cannot do our god is so big and so strong
 
 ---
 
+
+
+## 📝 Worship Gathering With Prayer And Reflection - 6a324efc-e789-4194-b544-6a68e477a647
+
+**記録時間**: 2026-02-22 20:13:08
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [22s - 26s]
+Sin into the heaven till Spirit has come, voice of the prophet, I to the father now hold on to the son, Praise the spirit now when always to be resurrected.
+
+👤 あなた [96s - 98s]
+And we look for the world without end.
+
+🎤 SPEAKER_2 [106s - 107s]
+Our ramp.
+
+👤 あなた [109s - 113s]
+This is the God we love.
+
+🎤 SPEAKER_6 [160s - 164s]
+Trade.
+
+🎤 SPEAKER_2 [211s - 214s]
+Say my salvation where your love poured out by the blood.
+
+👤 あなた [300s - 315s]
+That my Jesus spill sets free for his free is rolled away.
+
+🎤 SPEAKER_4 [427s - 430s]
+Behold the empty two.
+
+🎤 SPEAKER_2 [479s - 497s]
+Praise and all he good?
+
+👤 あなた [498s - 503s]
+Isn't he worthy of your whole life? He worthy of all your praise and adoration?
+
+👤 あなた [510s - 548s]
+If you haven't yet today, why don't you just take a moment just to kind of just to pray I'm just gonna play quietly for a little bit and what I don't you just take this moment just to to close your eyes and just say what's on your heart. Maybe you've come here and today maybe you've come here today and the cloud of guilt, and you need to remind of God's grace and his unfailing love towards you Maybe you need to come and repense Say sorry.
+
+👤 あなた [549s - 559s]
+Maybe you just come full of joy We believe God is here. His Holy Spirit is in us, but it's also moving among us.
+
+👤 あなた [563s - 577s]
+Let's just wait for a moment, Just take a moment just to check-in with God and just wait on him. Holy spirit, we invite you to move among us. We are here after all to meet with you That's the reason we're here.
+
+👤 あなた [577s - 587s]
+To worship you, to adore you, to meet with you, to to submit once again to your rule over our lives. Your good and great rule over our lives.
+
+👤 あなた [588s - 589s]
+Let's just take a moment.
+
+👤 あなた [634s - 645s]
+Isn't it wonderful that we get to approach God not in our own merit? Nothing that we've done or do means that we can approach god as everything that he's done.
+
+👤 あなた [645s - 659s]
+For us. So we can approach the phone of grace with confidence today. Not because we deserve to be able to come before God, but because he has done everything for us.
+
+👤 あなた [659s - 666s]
+To make the way for us to meet with him. So how one or two of us can lead us in prayer. You feel led, we'll leave a bit of space.
+
+👤 あなた [668s - 671s]
+Just just lead us in prayer, Holy Spirit, lead our prayers. God, us.
+
+👤 あなた [761s - 771s]
+Is there another prayer? Holy Spirit kind of nudged prayer. That's you you feel like you just need to pray just go through it with well, amen with you.
+
+👤 あなた [803s - 804s]
+Yes.
+
+🎤 SPEAKER_3 [811s - 811s]
+Yes.
+
+🎤 SPEAKER_2 [816s - 817s]
+Amen.
+
+🎤 SPEAKER_2 [838s - 946s]
+My star rose by sea is well my cached him
+
+
+---
+
