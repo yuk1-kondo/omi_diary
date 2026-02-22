@@ -2192,3 +2192,62 @@ My star rose by sea is well my cached him
 
 ---
 
+
+
+## 📝 Church Communion Reflection and Invitation - 20692272-bb65-4926-86cb-a5cae5fc5867
+
+**記録時間**: 2026-02-22 20:31:06
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 45s]
+raise sound and the low shall is where well with my soul Praise you.
+
+👤 あなた [47s - 59s]
+You are worthy of all our praise. How can it be that is well with our souls? How can it be that you've not just forgiven us, but you've welcomed them as welcomed us as children?
+
+🎤 SPEAKER_4 [86s - 92s]
+And I was reading this weekend you know, Adam puts 20 flowers in a day, seven days in a week.
+
+🎤 SPEAKER_4 [96s - 110s]
+Just keeps on going enjoying. And he showed me this week that it because he cares so much for the people of the schools. He cares about us, and he cares for those who are not.
+
+🎤 SPEAKER_4 [111s - 112s]
+We saved him yet.
+
+🎤 SPEAKER_4 [129s - 135s]
+That he takes the time that he takes never ending time. We're going to intimidate
+
+🎤 SPEAKER_4 [147s - 149s]
+When you're confronted with somebody,
+
+🎤 SPEAKER_4 [163s - 170s]
+You know, and I know there's people there this morning. Were to make that decision. It's about making that decision.
+
+🎤 SPEAKER_2 [175s - 175s]
+Sigilo.
+
+🎤 SPEAKER_4 [176s - 180s]
+We don't say it often. We don't just say it often enough. You know?
+
+🎤 SPEAKER_4 [191s - 220s]
+The way forward. You know, when he died on that cross, move on to communion with this, that when the sin, the and it's gone. He forgets it.
+
+🎤 SPEAKER_4 [221s - 224s]
+He doesn't remember it. He forgets it.
+
+🎤 SPEAKER_4 [233s - 235s]
+I'm just gonna read these words
+
+🎤 SPEAKER_4 [255s - 270s]
+Do this in remembrance of me. In the same way also we took the cup and you reference it being.
+
+🎤 SPEAKER_4 [287s - 291s]
+Forward and to go up and tell that. But please come and join us this morning. Come
+
+🎤 SPEAKER_4 [302s - 303s]
+Thank you, please come.
+
+
+---
+
