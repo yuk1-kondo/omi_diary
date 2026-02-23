@@ -1,0 +1,94 @@
+{
+  "id": "5d8bf44d-c3af-4514-bf4e-47efba981c22",
+  "created_at": "2026-02-23T08:56:21.700783+00:00",
+  "started_at": "2026-02-23T08:23:31.240502+00:00",
+  "finished_at": "2026-02-23T08:57:10.723410+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "エレベーターに取り残された状況の一言記録",
+    "overview": "話者がエレベーターに取り残されたことを短く述べているだけの断片的な発話で、追加の文脈や今後の予定、対応内容は示されていない。",
+    "emoji": "🚪",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "e3c08692-dde9-4d7e-8960-a7766ec59aa8",
+      "text": "エレベーター取り残された 結",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -5.569458210175071e-07,
+      "end": 20.00274944305417,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "ba36fd12-4459-42dc-947a-0aee6308f0a5",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "5d8bf44d-c3af-4514-bf4e-47efba981c22",
+      "chunk_timestamps": [
+        1771836980.972,
+        1771836985.991,
+        1771836991.039,
+        1771836996.894,
+        1771837002.246,
+        1771837007.233,
+        1771837012.276,
+        1771837017.353,
+        1771837022.465,
+        1771837027.578,
+        1771837032.718,
+        1771837038.726,
+        1771837043.813,
+        1771837049.056,
+        1771837054.943,
+        1771837060.054,
+        1771837065.038,
+        1771837071.052,
+        1771837076.177,
+        1771837081.227,
+        1771837086.28,
+        1771837092.242,
+        1771837097.359,
+        1771837104.321,
+        1771837109.723
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-23T08:56:20.972000+00:00",
+      "duration": 133.751
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「エレベーターに取り残された」という出来事について話があった\n- 詳しい状況やその後の様子は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- もし不安や怖さが続いている場合は、身近な信頼できる人に「エレベーターでの出来事」について、覚えている範囲で少しだけ話してみることを検討してください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
