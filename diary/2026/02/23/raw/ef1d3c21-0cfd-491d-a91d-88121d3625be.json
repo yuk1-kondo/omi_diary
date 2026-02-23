@@ -1,0 +1,99 @@
+{
+  "id": "ef1d3c21-0cfd-491d-a91d-88121d3625be",
+  "created_at": "2026-02-23T09:23:54.126641+00:00",
+  "started_at": "2026-02-23T08:25:51.299752+00:00",
+  "finished_at": "2026-02-23T09:24:50.819777+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "葬儀に関する短い会話",
+    "overview": "話し手が「ありがとう さようなら ベルコのお葬式」と述べており、ベルコの葬儀に関連した場面の締めくくりや別れの挨拶が簡潔に記録されている。新たな予定や具体的な行動の指示などは含まれていない。",
+    "emoji": "🕊️",
+    "category": "real",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "e8651711-e73d-48a0-af4a-aed2236d7895",
+      "text": "ありがとうさようならベルコのお葬式",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.3487557377375197e-07,
+      "end": 10.001374565124422,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "e0272504-9592-457a-be22-a9cd834f324b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ef1d3c21-0cfd-491d-a91d-88121d3625be",
+      "chunk_timestamps": [
+        1771838624.299,
+        1771838634.667,
+        1771838639.829,
+        1771838644.947,
+        1771838650.18,
+        1771838656.249,
+        1771838662.238,
+        1771838667.253,
+        1771838673.331,
+        1771838678.32,
+        1771838683.396,
+        1771838688.576,
+        1771838693.629,
+        1771838698.734,
+        1771838703.88,
+        1771838708.845,
+        1771838713.952,
+        1771838719.878,
+        1771838724.983,
+        1771838730.13,
+        1771838736.066,
+        1771838741.471,
+        1771838746.851,
+        1771838753.109,
+        1771838758.185,
+        1771838763.318,
+        1771838769.297,
+        1771838774.601,
+        1771838780.596,
+        1771838785.657
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-23T09:23:44.299000+00:00",
+      "duration": 166.358
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「ありがとう」「さようなら」という言葉が印象に残っている\n- 「ベルコのお葬式」というフレーズに触れた\n- 詳しい状況や気持ちは未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 自分の気持ち（さみしさ・感謝など）を、短い言葉でもよいので紙やメモに書き出してみる"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
