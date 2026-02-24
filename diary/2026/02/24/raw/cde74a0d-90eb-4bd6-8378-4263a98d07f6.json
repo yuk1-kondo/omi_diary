@@ -1,0 +1,98 @@
+{
+  "id": "cde74a0d-90eb-4bd6-8378-4263a98d07f6",
+  "created_at": "2026-02-24T08:27:41.150097+00:00",
+  "started_at": "2026-02-24T08:29:09.873859+00:00",
+  "finished_at": "2026-02-24T08:29:11.399577+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User Seeks Help Expressing Their Mind",
+    "overview": "The user intensely asks how they can paint or express their mind, implying a desire to communicate their inner thoughts or mental state more clearly.",
+    "emoji": "🎨",
+    "category": "psychology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "557da066-a860-424e-9c6b-74879c743b4d",
+      "text": "How can I paint you this fucking mind?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 0.0,
+      "end": 2.0,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJ5Zgmk48FbkgRSFGKg91E-kY",
+    "latitude": 51.4159004,
+    "longitude": -3.2757062,
+    "address": "58 White Farm, Barry CF62 9EU, UK",
+    "location_type": "street_address"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "61a863c9-166d-437e-a7e7-c8d3572dc43d",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "cde74a0d-90eb-4bd6-8378-4263a98d07f6",
+      "chunk_timestamps": [
+        1771921660.742,
+        1771921665.767,
+        1771921670.79,
+        1771921676.212,
+        1771921681.214,
+        1771921686.363,
+        1771921691.642,
+        1771921696.684,
+        1771921701.864,
+        1771921706.89,
+        1771921712.146,
+        1771921717.228,
+        1771921722.786,
+        1771921728.068,
+        1771921733.396,
+        1771921738.102,
+        1771921743.152,
+        1771921748.148,
+        1771921753.351,
+        1771921758.385,
+        1771921763.561,
+        1771921768.883
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-24T08:27:40.742000+00:00",
+      "duration": 113.141
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+      "content": "If you mean “how do I show you what’s in my mind,” the closest thing you can do is:\n\n1. **Describe it in layers**  \n   - Start with the big picture: *what is this about?* (a feeling, a memory, a story, an image, an idea?)  \n   - Then add details: colors, sounds, textures, people, places, specific thoughts.  \n   - Finally, add the “why”: why it matters to you, what it reminds you of, what it changes.\n\n2. **Use metaphors instead of definitions**  \n   “My mind feels like…” is often more revealing than “I am anxious.”  \n   For example:  \n   - “My mind is a browser with 50 tabs open and music playing from somewhere I can’t find.”  \n   - “It’s like walking through a museum at night with a flashlight that keeps flickering.”\n\n3. **Switch mediums**  \n   Even if you’re not an artist:\n   - Sketch shapes and arrows linking ideas.  \n   - Write a raw, unfiltered brain dump for 5–10 minutes.  \n   - Make a list of images, phrases, song lyrics that feel “right” for what’s in your head.\n\n4. **Be specific, not polite**  \n   Don’t worry about sounding “crazy” or “negative.” The more unfiltered and concrete you are (“it feels like I’m drowning in emails while my chest is tight”) the closer I can get to your actual inner world.\n\nIf you want, you can start by finishing this sentence and I’ll help you “paint” it into something clearer:\n\n> “Right now, my mind feels like…”"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
