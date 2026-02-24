@@ -1422,3 +1422,518 @@ But I will
 
 ---
 
+
+
+## 📝 WWE Elimination Chamber Qualifier And WrestleMania Stakes - fb4c82ba-da0d-4c31-a700-82df25c1cb4f
+
+**記録時間**: 2026-02-24 20:29:26
+
+### STT生テキスト
+
+🎤 SPEAKER_18 [0s - 1s]
+view mirror, we turn our attention
+
+🎤 SPEAKER_11 [23s - 24s]
+DoorDash.
+
+🎤 SPEAKER_11 [74s - 75s]
+I know you too.
+
+🎤 SPEAKER_18 [75s - 84s]
+I just tried your hardest. But for me, that didn't really cut it. So get out of my lane. Sit behind that desk.
+
+🎤 SPEAKER_18 [141s - 148s]
+And I think that it is disgraceful that there's a celebration tonight a loser.
+
+🎤 SPEAKER_16 [153s - 153s]
+But I understand.
+
+🎤 SPEAKER_18 [155s - 161s]
+You people feel for those losers. Your lifetime losers like Bill Gilbert.
+
+🎤 SPEAKER_18 [164s - 167s]
+Loses like John C.
+
+🎤 SPEAKER_18 [170s - 173s]
+Ena and lose us like AJ Styles.
+
+🎤 SPEAKER_18 [176s - 184s]
+And what they all have in common, is that I killed a career.
+
+🎤 SPEAKER_18 [188s - 195s]
+So what should really happen here tonight? Is a celebration for a truly great wrestler.
+
+🎤 SPEAKER_10 [197s - 197s]
+Me.
+
+🎤 SPEAKER_18 [197s - 200s]
+That is enough. Enough. They're great.
+
+🎤 SPEAKER_18 [215s - 216s]
+Goddamn it.
+
+🎤 SPEAKER_18 [223s - 231s]
+I knew you'd come out here trying something like that. We are not gonna do that. Well, we are gonna do is we are gonna celebrate the career of AJ Styles.
+
+🎤 SPEAKER_18 [237s - 240s]
+So you're done. Get out of the ring.
+
+🎤 SPEAKER_11 [240s - 243s]
+Call the night I'm having my boys escort you out of this building right now.
+
+🎤 SPEAKER_18 [255s - 270s]
+I am going to leave. But not because you tell me. Because out of my free will, I decide to leave this building because I'm by what is going to happen here tonight.
+
+🎤 SPEAKER_16 [275s - 276s]
+Puxa-la aí.
+
+🎤 SPEAKER_11 [282s - 287s]
+Well, Cory, I I can't say I shocked it. Thought they were up to the proceedings tonight.
+
+🎤 SPEAKER_11 [297s - 306s]
+Gucker retired Goldberg at the beginning of this career killer stance for Gucker. And unfortunately, as bitter of a pill as it is to swallow, Thompson does speak a great deal of truth.
+
+🎤 SPEAKER_2 [308s - 309s]
+The man is ending legendary careers.
+
+🎤 SPEAKER_18 [311s - 312s]
+I I don't agree with this choice.
+
+🎤 SPEAKER_11 [313s - 314s]
+The disrespect styles already tonight, but I'm not gonna stop right there.
+
+🎤 SPEAKER_4 [319s - 320s]
+And kudos to our general manager to get gutter out of here.
+
+🎤 SPEAKER_18 [327s - 342s]
+Dragon League is just Dragon League. Dragon League attacking Gunther. On the night that his friend AJ Styles, his former tank team, and he takes it upon himself to attack Goku.
+
+🎤 SPEAKER_18 [345s - 352s]
+And he's tired of the disrespect being displayed towards Stiles by Gotham. You're not Dragon Lee.
+
+🎤 SPEAKER_11 [392s - 393s]
+It's not your night.
+
+🎤 SPEAKER_11 [473s - 475s]
+A large charger spawn.
+
+🎤 SPEAKER_18 [475s - 481s]
+Cody Rose kicking the slot tonight on Monday night, he's got a lot on his mind, Corey.
+
+🎤 SPEAKER_18 [495s - 506s]
+That man right there, Cody Because just like everyone Atlanta, like you, like you, like you,
+
+🎤 SPEAKER_18 [516s - 521s]
+When Robinson wins tonight, wins the elimination chamber, and wince at WrestleMania.
+
+🎤 SPEAKER_11 [525s - 528s]
+The vision's taken over SmackDown two.
+
+🎤 SPEAKER_11 [531s - 533s]
+And you, Cody Rhodes, are the first guy out the door.
+
+🎤 SPEAKER_4 [541s - 541s]
+However, god bless all of you because you're here in our presence.
+
+🎤 SPEAKER_11 [544s - 548s]
+And that all starts when Bronson Reed wins his
+
+🎤 SPEAKER_18 [559s - 562s]
+I don't know. I don't know.
+
+🎤 SPEAKER_18 [566s - 570s]
+I'm pretty sure there's someone here who would disagree with that.
+
+🎤 SPEAKER_11 [609s - 611s]
+Big bronseter who is incredibly agile.
+
+🎤 SPEAKER_11 [621s - 624s]
+Steel post match other men's side in the history of the chamber.
+
+🎤 SPEAKER_18 [624s - 627s]
+And with a forearm drop in Jeyousa.
+
+🎤 SPEAKER_10 [629s - 635s]
+Your eyes on the original. Run to Americano who's perched on the top turnbuckle. Look out below.
+
+🎤 SPEAKER_11 [637s - 639s]
+Saw takes out a Omi and Reed.
+
+🎤 SPEAKER_16 [641s - 641s]
+You have to wonder what man standing.
+
+🎤 SPEAKER_10 [646s - 650s]
+It's elimination style. The last man standing heads direct
+
+🎤 SPEAKER_25 [651s - 653s]
+Sylvania.
+
+🎤 SPEAKER_10 [653s - 664s]
+You know, true maggot. He's his chops, and he'll be watching every moment of that match up fold. With his WrestleMania hopes on the line. Hey, Richie. Oh, inside cradle. Yes.
+
+🎤 SPEAKER_11 [664s - 665s]
+Enough to put him away.
+
+🎤 SPEAKER_10 [665s - 671s]
+And, like Our shoulders were up there. I mean, Jay actually initiated the inside cradle that was countered by Americano.
+
+🎤 SPEAKER_25 [672s - 679s]
+Americano has never been a part of the elimination chamber, which to qualify for the first time this year. You know, wicked chop.
+
+🎤 SPEAKER_25 [679s - 681s]
+Delivered to Lead event, Jey Uso.
+
+🎤 SPEAKER_25 [684s - 692s]
+And we were top office earlier. You could really feel the pressure the stress of WrestleMania season fifty four nights away Oh. In Las Vegas.
+
+🎤 SPEAKER_25 [694s - 703s]
+Listen to Jay. Why did it in pain? Beautiful. Bridging hammer lock applied by Americano. Number Jay taps here.
+
+🎤 SPEAKER_16 [703s - 703s]
+It's over.
+
+🎤 SPEAKER_10 [704s - 711s]
+Would have to be disappointing for Big Bronx to to not even be involved in the fall and still lose an opportunity at the chain And and talk about pressure.
+
+🎤 SPEAKER_25 [711s - 716s]
+I mean, there's a lot of read as well. Really, the future with the vision.
+
+🎤 SPEAKER_10 [716s - 717s]
+Yeah. You're right.
+
+🎤 SPEAKER_10 [719s - 723s]
+The the last hope for representation on the stage of the mall could be Big Bronson Reed. Jay Fight.
+
+🎤 SPEAKER_3 [723s - 725s]
+Oh, come on, Jay.
+
+🎤 SPEAKER_25 [726s - 731s]
+Las Vegas. Listen to Jay. Why didn't he paint?
+
+🎤 SPEAKER_25 [734s - 737s]
+Really, the future with invention. Yeah. You're right, man.
+
+🎤 SPEAKER_10 [737s - 741s]
+Last hope for representation on the grandest stage of the mall could be a big grandson read.
+
+🎤 SPEAKER_25 [742s - 754s]
+K. Fight back. With one arm and Goande will stop him again. And this is great strategy by Uso and Rande to take out of the mix at least momentarily turn this into a one on one matchup.
+
+🎤 SPEAKER_10 [757s - 760s]
+Focusing his attack on the left arm with Jay Huso.
+
+🎤 SPEAKER_25 [761s - 769s]
+And, hopefully, we've settled things down here in Atlanta as we prepare to celebrate the great AJ styles of it later on tonight. Oh, what a kick.
+
+🎤 SPEAKER_25 [783s - 790s]
+USO and Americano have done a great job keeping out of the majority of this matchup and making this one on one unleashed a hellacious right hand on the chin of Americano.
+
+🎤 SPEAKER_25 [797s - 807s]
+Again, he's three men battling now to the final spot in Saturday's elimination chamber. Jay looking to return to the main event of WrestleMania yet again.
+
+🎤 SPEAKER_25 [808s - 819s]
+The battle for a championship. I'm talking to you last year. And the three hundred thirty pound also in the wagon. Big headbutt.
+
+🎤 SPEAKER_25 [822s - 824s]
+Look at the power of big Bronx and Reed. Oh my god.
+
+🎤 SPEAKER_18 [825s - 826s]
+Oh my god.
+
+🎤 SPEAKER_10 [826s - 826s]
+Double stacked.
+
+🎤 SPEAKER_25 [828s - 832s]
+And now, and marching around the ring. Look at the power of Brush and
+
+🎤 SPEAKER_2 [833s - 833s]
+Reed.
+
+🎤 SPEAKER_18 [835s - 837s]
+It's verifying strength.
+
+👤 あなた [838s - 838s]
+Not ready.
+
+🎤 SPEAKER_25 [838s - 855s]
+There's a reason that the Oracle Paul Heyman picked Reed to be a part of this vision. Steph Rollins, who was the original leader of the group, Imagine what Bronson Reed can do inside the elimination chain.
+
+🎤 SPEAKER_25 [855s - 861s]
+Got a glimpse of it a couple of years ago back in 2023 when he battled for the United States championship inside the championship.
+
+🎤 SPEAKER_10 [863s - 865s]
+This is a different competitor altogether.
+
+🎤 SPEAKER_25 [865s - 874s]
+Covered here by Look for the way. You're kicking at two. Ironically, in that chamber match that he was in, Austin was The United States He'd go on to win.
+
+🎤 SPEAKER_10 [874s - 893s]
+And, again, another superstar who has completely altered their outlook, their vision, no pun intended, on WWE. The future of this industry Big Bronson Reed said, enough being background noise. It's time to be the main carry And that's what we've seen our read over the past several months. This man is lethal.
+
+🎤 SPEAKER_10 [893s - 897s]
+Look at Paul and a good point earlier. The vision has been dominating Rise of Blade.
+
+🎤 SPEAKER_25 [898s - 902s]
+Imagine if Thompson Reed wins the chamber, goes on to win the WWE title in WrestleMania then?
+
+🎤 SPEAKER_16 [903s - 905s]
+It's not a proper trip now.
+
+🎤 SPEAKER_18 [919s - 926s]
+World's strongest slam delivered that time by The fact that Americano just scramble his own grains and then pull this off I champion against this guy.
+
+🎤 SPEAKER_16 [927s - 927s]
+Wow.
+
+🎤 SPEAKER_25 [936s - 948s]
+The power of the original El Grande Americano is unreal. Just delivered a German suplex to the three hundred thirty pound Bronson Reed to turn this entire match upside down.
+
+🎤 SPEAKER_16 [951s - 952s]
+Alright.
+
+🎤 SPEAKER_10 [952s - 954s]
+But he's all over the ring.
+
+🎤 SPEAKER_25 [959s - 965s]
+Awesome. Ready to roll out of the ring up. After that German Suplexa.
+
+🎤 SPEAKER_10 [966s - 974s]
+I think it should read up a bit as I mean, it was in a high angle landing across the tops of his shoulders, the base of his When you dealing with over 330 pounds, that much weight crashing down the your body will damage anybody.
+
+🎤 SPEAKER_25 [975s - 983s]
+And with read out of the equation, at least it allows Omiro and Omiro coming out to buy some time catch their breath a bit, potentially, or this could be an opportunity for both of them to to step on the gas to engage in a one on one competition.
+
+🎤 SPEAKER_10 [988s - 994s]
+Your odds aren't gonna get any better than they could be right now if you're Americano or Jehoussa.
+
+🎤 SPEAKER_25 [995s - 997s]
+And you can't count out read here because there are no countouts in this match.
+
+🎤 SPEAKER_10 [999s - 1008s]
+I'm still, you know, all over the fact that Marocado flew three quarters of the way across the ring and appeared to land face first on the map, and he's still in his bow.
+
+🎤 SPEAKER_10 [1010s - 1021s]
+American now surveying the scene. They finally realizing that Big Bronson Reed is out of the equation for the moment. Jey Husso now coming to the same realization.
+
+🎤 SPEAKER_10 [1023s - 1024s]
+Say, let's throw down while we still have time.
+
+🎤 SPEAKER_25 [1027s - 1037s]
+The official, Rod Zippata, resetting things here is a 10 to two at ringside. Triple threat match continues for an opportunity to get to elevations.
+
+🎤 SPEAKER_25 [1038s - 1039s]
+Chamber.
+
+🎤 SPEAKER_10 [1044s - 1055s]
+The original El Grande Americano attempting to get the WWE Fancy in Atlanta behind him. Yeah. But it's It's it's like a bizarro world for me, Cole. You know, I do triple a on Saturday nights on WWE.
+
+🎤 SPEAKER_25 [1055s - 1057s]
+This coming Saturday this coming
+
+🎤 SPEAKER_18 [1057s - 1057s]
+Saturday night.
+
+🎤 SPEAKER_10 [1058s - 1067s]
+Every Saturday night, WWE's YouTube channel. And this original, quote, unquote, El Grande Americano is absolutely south of the border.
+
+🎤 SPEAKER_10 [1068s - 1070s]
+Whereas the other americano is a national hero.
+
+🎤 SPEAKER_25 [1085s - 1087s]
+House and Monday, Americana,
+
+🎤 SPEAKER_25 [1091s - 1096s]
+Nice German suplex from El Grande. Gonna head up now to the top rope.
+
+🎤 SPEAKER_10 [1096s - 1098s]
+There's a lot of ground to cover.
+
+🎤 SPEAKER_18 [1099s - 1102s]
+Oh, it's all the way across the wing.
+
+🎤 SPEAKER_16 [1102s - 1103s]
+Cover.
+
+🎤 SPEAKER_25 [1103s - 1107s]
+Hook in the leg. Reef breaks things up. I don't know if Americano made much at all with Jey Uso and his self.
+
+🎤 SPEAKER_16 [1109s - 1110s]
+Executed the cover.
+
+🎤 SPEAKER_10 [1110s - 1116s]
+I mean, that could prove to be disastrous. Crashed landed for Americano. Nowhere.
+
+🎤 SPEAKER_11 [1117s - 1121s]
+Turning me. One sharp and a Suplex into the bridge cover and a kick out at two.
+
+🎤 SPEAKER_18 [1123s - 1127s]
+The fact that Americano just scrambled his own brains and then pulled this off
+
+🎤 SPEAKER_10 [1128s - 1129s]
+I champ got against this guy.
+
+🎤 SPEAKER_10 [1148s - 1150s]
+I hate to speculate, obviously, not being medical.
+
+🎤 SPEAKER_10 [1154s - 1163s]
+Quote unquote El Grande Americano is detested south of the border. Whereas the other americano is a national hero.
+
+🎤 SPEAKER_25 [1163s - 1167s]
+Well, well, he is the original one. Corey. He's the first one to appear in this mask and get up.
+
+🎤 SPEAKER_18 [1169s - 1170s]
+Last summer. No.
+
+🎤 SPEAKER_25 [1177s - 1190s]
+Yeah. At this now. A grande. A was taken over. James soak in a bit of trouble here. Interested to see what can do inside elimination chamber if that comes to be.
+
+🎤 SPEAKER_25 [1205s - 1216s]
+Ladies and gentlemen, back here on Monday night, while this triple threat match continues for a spot in the elimination chamber. A grande Americano main event, Jey Uso.
+
+🎤 SPEAKER_10 [1217s - 1221s]
+Bronson Reed is also in this match, but moments ago, we see Bronson Reed bulldozing the pile to break up the pinball attempt.
+
+🎤 SPEAKER_10 [1222s - 1232s]
+And immediately looking at his gray arm. I hate to speculate, obviously, not being medical professional, but it could be a bicep. It could be an elbow. Yeah.
+
+🎤 SPEAKER_25 [1233s - 1235s]
+He pointed toward the bicep, as the the ringside doctor is out here outside the ring.
+
+🎤 SPEAKER_19 [1235s - 1236s]
+Look out, Cole.
+
+🎤 SPEAKER_25 [1236s - 1241s]
+On And this is to do a one on one matchup between Jey Uso and Americano.
+
+🎤 SPEAKER_26 [1242s - 1250s]
+An opportunity to get to Chicago to fill the final spot inside the elimination chamber with a spotted WrestleMania on the line.
+
+🎤 SPEAKER_10 [1253s - 1267s]
+Huso throwing caution to the wind. A great effect a moment ago, but there is still work to be done. It's sort of happenstance has gotta be viewed as good luck if you're Jey Uso or El Grande Americano having Bronson neutralized.
+
+🎤 SPEAKER_10 [1268s - 1277s]
+For at least the past several minutes remains to be seen whether or not he'll be able to continue this matchup. But this just means it's a one on one competition for the moment.
+
+🎤 SPEAKER_10 [1277s - 1283s]
+'re gonna make big things happen. Yeah. But America icano will not allow it foresee.
+
+🎤 SPEAKER_26 [1283s - 1288s]
+Jey Uso to lose his balance and now higher risk area up toward the top of the ropes.
+
+👤 あなた [1290s - 1291s]
+More shumbles.
+
+🎤 SPEAKER_26 [1308s - 1317s]
+And an order of Sooner or later, your ankle's gonna pop. Something's gonna give big super kick. Oh. Omi, lighter kicked by Americano.
+
+🎤 SPEAKER_16 [1319s - 1319s]
+Spare.
+
+🎤 SPEAKER_26 [1322s - 1323s]
+J Uso with a spear.
+
+🎤 SPEAKER_18 [1326s - 1336s]
+And now heading up top. Bushoe Splash. Into the cover.
+
+🎤 SPEAKER_16 [1336s - 1336s]
+Jay Uso.
+
+🎤 SPEAKER_18 [1337s - 1339s]
+Is going to the chamber.
+
+🎤 SPEAKER_26 [1353s - 1360s]
+Has another opportunity. To get back in contention for a title of WrestleMania.
+
+🎤 SPEAKER_26 [1365s - 1372s]
+From the top Huso Splash. Puts down Americano for the count of three.
+
+🎤 SPEAKER_16 [1376s - 1378s]
+City this Saturday.
+
+🎤 SPEAKER_26 [1382s - 1384s]
+And we the final step inside of the Benz Elimination
+
+🎤 SPEAKER_19 [1384s - 1385s]
+Chamber match.
+
+🎤 SPEAKER_26 [1388s - 1390s]
+Meal is Oh.
+
+🎤 SPEAKER_19 [1390s - 1391s]
+Granular
+
+🎤 SPEAKER_26 [1392s - 1393s]
+LE nine.
+
+🎤 SPEAKER_26 [1442s - 1452s]
+Cody Rose, part of AJ's career here tonight. Shinsuke Nakamura Classic matches in New Japan and W W Evan styles on the left. Bobby Roode arrival will be with AJ, both the DNA in here in WWE as well.
+
+🎤 SPEAKER_26 [1459s - 1473s]
+Well, Corey I heard it was gonna be here. That is the Michael Jordan NASCAR that was driven by Tyler Bank. In back to back NASCAR victory. So win at Daytona.
+
+🎤 SPEAKER_26 [1473s - 1479s]
+Eight days ago, and then yesterday here in Atlanta at the AutoTrader four hundred.
+
+🎤 SPEAKER_19 [1483s - 1485s]
+And look who's along for the ride.
+
+🎤 SPEAKER_19 [1500s - 1501s]
+Ladies and gentlemen, last week, o ounce 50.
+
+🎤 SPEAKER_26 [1502s - 1522s]
+First ever turn on Sunday, May 31. This landmark event will form part of the WWE European Summer Door, which will see WWE superstars visit cities across Italy, Spain, France, Portugal, and The UK.
+
+🎤 SPEAKER_26 [1525s - 1533s]
+You can register to be the first to receive presale information for all events during the upcoming European tour at w w e dot com slash w w e live You're up.
+
+🎤 SPEAKER_26 [1545s - 1553s]
+Paul, by the time we get to Italy, lift Morgan to have some new hardware around the place. Twenty thirty, is a champ.
+
+🎤 SPEAKER_16 [1591s - 1592s]
+Okay.
+
+🎤 SPEAKER_12 [1599s - 1601s]
+Caballeros, You are in the presence of the greatest Intercontinental Champion triple a megacampeón, en Royal Rumble win, of all time.
+
+🎤 SPEAKER_27 [1624s - 1635s]
+And now is the moment you have all been waiting for. Live is going to make her decision on who she will face at WrestleMania.
+
+🎤 SPEAKER_27 [1639s - 1652s]
+So will the champions please come out? My wedita can make her decision face to face? Women's world champion Stephanie Vaca.
+
+🎤 SPEAKER_16 [1655s - 1655s]
+Me lo impacta.
+
+🎤 SPEAKER_26 [1665s - 1690s]
+You know, Corey, it was right here, and it lasted Georgia last summer that started up stepping into care's prize here in WWE won the battle of oil and evolution. She would go out, of course, win the world title, which stood out to be most of all the controversial things that care said last week to inform was the fact that Stephanie feels as though she's walked through hell and made it her own.
+
+🎤 SPEAKER_10 [1690s - 1697s]
+La Primera is eager to take the grandest stage in the mall and prove to the world that nobody can outrest her.
+
+🎤 SPEAKER_26 [1697s - 1706s]
+And one of the important points that Stephanie made was that she's done it on her own. She hasn't had any support. She had anybody backing her off.
+
+🎤 SPEAKER_25 [1706s - 1709s]
+She hasn't had to hide behind anybody else like Liv Morgan has.
+
+🎤 SPEAKER_10 [1711s - 1720s]
+Well, the hair came from in Chile. There really isn't in hopes of someday getting an opportunity to Steffy doors of WWE.
+
+🎤 SPEAKER_26 [1720s - 1724s]
+She's here, and she's champ.
+
+🎤 SPEAKER_27 [1736s - 1740s]
+WWE women's champion Jade Cargo.
+
+🎤 SPEAKER_25 [1761s - 1762s]
+Somebody wipe that.
+
+🎤 SPEAKER_19 [1767s - 1773s]
+Look at the physical specimen that is Jade Tar Heel and think to themselves, I wanna fight her at WrestleMania.
+
+🎤 SPEAKER_26 [1775s - 1777s]
+Yeah. Storm is coming to WrestleMania.
+
+
+---
+
