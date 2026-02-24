@@ -894,3 +894,44 @@ They plot to take away my life, but I trust in you, y'all. Yahweh. I said you ar
 
 ---
 
+
+
+## 📝 Group Discusses Typological Bible Interpretation - d72c17a5-23d4-4c63-ad6e-6e2b77f45673
+
+**記録時間**: 2026-02-24 19:00:30
+
+### STT生テキスト
+
+👤 あなた [0s - 2s]
+Good morning. Good to see you too.
+
+👤 あなた [112s - 130s]
+Father god, we thank you that you have been gracious to us and that you have blessed us. By sending us your son. And my simple prayer for our time together as brothers and sister in Christ is that by your holy spirit, you would illuminate Christ to us as we as we look at your word together.
+
+👤 あなた [131s - 140s]
+May we enjoy your presence. May we, may we enjoy our time together, but may we be pointed to your son. Amen.
+
+👤 あなた [183s - 184s]
+Amen.
+
+👤 あなた [303s - 316s]
+No. No. Yes. I do. But I also have my own question. It's to do with the topological reading and where is it warranted rather than speculative.
+
+👤 あなた [316s - 329s]
+I wonder if there's some I mean, you you got you couched it in lit the literal historical reading. But I wonder if you could speak a little bit about warranted versus speculative topological readings.
+
+👤 あなた [338s - 339s]
+Alright. Sorry.
+
+👤 あなた [428s - 436s]
+Just a related question on the third day, thing you went through where Jesus was expecting the disciples to to look for the third day pattern.
+
+👤 あなた [438s - 447s]
+Not just because he told them, but because of their own readings. I was just reflecting on the, you know, the famous one Corinthians 15 where Paul says, that he was raised on the third day according to the scriptures.
+
+🎤 SPEAKER_3 [448s - 457s]
+I wonder if that is, Paul making a similar point perhaps to what Jesus was saying. Or or had something more specific in mind perhaps. I know.
+
+
+---
+
