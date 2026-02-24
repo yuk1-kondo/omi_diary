@@ -1,0 +1,211 @@
+{
+  "id": "e53f295c-2d6e-4fdf-abb9-86867c4214d1",
+  "created_at": "2026-02-24T10:21:33.522094+00:00",
+  "started_at": "2026-02-24T10:21:51.693859+00:00",
+  "finished_at": "2026-02-24T10:25:20.595229+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Discussion on How Apostles Read Scripture",
+    "overview": "The speakers discuss whether the apostles are not only uniquely inspired interpreters of Scripture but also models for how Christians today should read and preach from the Bible. One participant suggests that their interpretive method might be reproducible to a degree, provided modern readers are grounded in deep knowledge of the Old Testament, similar to first‑century fishermen who were familiar with the Psalms. They seek confirmation that they have correctly understood this point about imitation versus irreproducible authority in apostolic interpretation.",
+    "emoji": "📖",
+    "category": "spiritual",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "f401fe18-dea9-4906-b1e7-c0d97068dfc1",
+      "text": "Yeah. Very good.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.7166166799142957e-07,
+      "end": 0.9599998283383684,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c7173f21-5ccb-4fcf-9d2b-b15ad0967e08",
+      "text": "Yes.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 5.529999828338987,
+      "end": 6.00999982833855,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "382a2ad2-b41a-4394-bfc5-ac8fdd746555",
+      "text": "Just just a quick just a quick follow-up, Stefan, if I can. That was very interesting. Because, obviously, we're talking about the the right of the the apostles to reinterpret.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 22.32999982833826,
+      "end": 29.88999982833866,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b97e3f42-55a6-4328-b061-5fa7a7ba2cc1",
+      "text": "Supposedly scripture in a way that we cannot cannot reproduce. But connected to that, I'm wondering about are they also modeling how scripture is meant to be read to us and thus in some ways, scripture is meant to be accessible to to fishermen, as well as Leonard. But on saying that, fishermen, as you've already pointed out, would have known the Psalms really well and possibly more so. We don't have that today.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 30.349999828338696,
+      "end": 54.68999982833884,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "dc47f841-8cb5-400e-b562-e3ff86451ceb",
+      "text": "So in a sense of modeling how we read scripture or even as preachers how we you know, approach scripture in this way. Are we are they are the apostles modeling for us then a way which we're meant to be reading scripture and thus right. So in that sense, it isn't just kind of something we can't reproduce. In fact, we we should be doing so, but on on the foundation of of good knowledge of of the of the Old Testament particularly as well.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 55.58999982833848,
+      "end": 85.12899982833915,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b6137c73-e7d4-4e14-806a-72dabd793bf2",
+      "text": "Is that have I got you right there?",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 86.15949982833808,
+      "end": 87.75999982833855,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4c6be749-046f-4a8d-9f0e-0079709aa85a",
+      "text": "Alright.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 187.99099982833832,
+      "end": 188.30999982833782,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "99ad4fa8-6325-4710-9a2d-78abfeba2fea",
+      "text": "Yeah. There you",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 190.529999828339,
+      "end": 191.24999982833833,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156931,
+    "longitude": -3.2755703,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "29d314b3-4673-44fc-814a-6160ffa97d7d",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "e53f295c-2d6e-4fdf-abb9-86867c4214d1",
+      "chunk_timestamps": [
+        1771928492.025,
+        1771928497.054,
+        1771928502.254,
+        1771928507.505,
+        1771928512.715,
+        1771928518.822,
+        1771928524.018,
+        1771928529.644,
+        1771928534.916,
+        1771928540.077,
+        1771928545.092,
+        1771928551.241,
+        1771928556.49,
+        1771928563.153,
+        1771928568.341,
+        1771928573.355,
+        1771928579.25,
+        1771928584.54,
+        1771928589.833,
+        1771928594.851,
+        1771928600.719,
+        1771928605.333,
+        1771928610.429,
+        1771928615.44,
+        1771928621.734
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-24T10:21:32.025000+00:00",
+      "duration": 134.709
+    },
+    {
+      "id": "f52c8188-f147-4723-932f-b1a6ede18045",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "e53f295c-2d6e-4fdf-abb9-86867c4214d1",
+      "chunk_timestamps": [
+        1771928718.624,
+        1771928732.108,
+        1771928735.171,
+        1771928736.14,
+        1771928741.728,
+        1771928747.152,
+        1771928752.264,
+        1771928757.462,
+        1771928762.515,
+        1771928767.563,
+        1771928772.828
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-24T10:25:18.624000+00:00",
+      "duration": 59.204
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Apostles’ Unique Role\n- Apostles have a special, non-repeatable interpretive authority  \n- They can reinterpret scripture in ways we cannot fully reproduce  \n\n## Model for Reading Scripture\n- Apostles still model how we should read scripture  \n- Scripture meant to be accessible to both scholars and laypeople  \n- Reading should be grounded in strong Old Testament knowledge  \n\n## Implications for Preaching\n- Preachers should imitate apostolic use of scripture  \n- Aim to read and apply scripture as apostles exemplify  \n\n## Next steps\n- Deepen Old Testament familiarity for better scriptural reading  \n- Pattern preaching and study methods on apostolic examples"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
