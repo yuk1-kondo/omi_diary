@@ -798,3 +798,35 @@ I do need to get a shoe of skimming on that.
 
 ---
 
+
+
+## 📝 Recitation of Psalm-Inspired Verses About Yahweh - 0be3cd83-fd86-49b5-9da6-dc5c7a5e5133
+
+**記録時間**: 2026-02-24 18:25:02
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 0s]
+Troubles.
+
+🎤 SPEAKER_2 [5s - 5s]
+Yeah.
+
+🎤 SPEAKER_2 [34s - 66s]
+For there is no land. With those who listen to me. I will teach you the fear of Yahweh
+
+🎤 SPEAKER_2 [69s - 70s]
+Keep your tongue for me.
+
+🎤 SPEAKER_2 [75s - 82s]
+Depart from evil. And do good. Seek peace and pursue it.
+
+🎤 SPEAKER_2 [163s - 173s]
+Shame, this poor man and saved him out of all his troubles.
+
+🎤 SPEAKER_2 [253s - 254s]
+Yahweh
+
+
+---
+
