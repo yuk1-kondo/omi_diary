@@ -2731,3 +2731,68 @@ Paul.
 
 ---
 
+
+
+## 📝 Passenger and Driver Argue Over Open Container - 3e10a458-c347-47df-bdfd-19b55301d384
+
+**記録時間**: 2026-02-24 22:04:16
+
+### STT生テキスト
+
+🎤 SPEAKER_8 [0s - 1s]
+Very much AJ
+
+🎤 SPEAKER_16 [1s - 2s]
+Styles.
+
+🎤 SPEAKER_16 [73s - 75s]
+No. I cannot do the open container.
+
+🎤 SPEAKER_11 [75s - 79s]
+So if you you can either drink it or discard of it.
+
+🎤 SPEAKER_8 [79s - 80s]
+Thank you, sir.
+
+🎤 SPEAKER_16 [80s - 80s]
+Oh, you're welcome.
+
+🎤 SPEAKER_11 [81s - 84s]
+Okay. You just spilled alcohol on my car.
+
+🎤 SPEAKER_32 [84s - 85s]
+Would you like to leave Yes.
+
+🎤 SPEAKER_31 [85s - 87s]
+ERC.
+
+🎤 SPEAKER_26 [88s - 89s]
+Can't rate me, actually.
+
+🎤 SPEAKER_31 [89s - 90s]
+You're gonna get charged for this.
+
+🎤 SPEAKER_1 [90s - 92s]
+No. We're not gonna get charged for this.
+
+🎤 SPEAKER_2 [92s - 93s]
+Yes.
+
+🎤 SPEAKER_31 [93s - 96s]
+He's wants to come out there. He threw alcohol on the last in his cup.
+
+🎤 SPEAKER_37 [98s - 99s]
+He threw alcohol on my front seat.
+
+🎤 SPEAKER_32 [99s - 102s]
+I emptied my cup, and I threw it at you because yeah.
+
+🎤 SPEAKER_16 [102s - 102s]
+Yeah.
+
+🎤 SPEAKER_37 [102s - 112s]
+Threw it at me because it okay. Well, it's the law saying What your son? You're stupid. No. I cannot do the open container. So if you you can either drink it.
+
+
+---
+
