@@ -726,3 +726,47 @@ Alright. Yeah. Wanna keep the lamps too? You wanna grow it longer, do you? Yeah.
 
 ---
 
+
+
+## 📝 Rachel Expresses Safety Concerns About Open Door - 41751fc4-0d1a-4273-9833-ec566e0e3c3c
+
+**記録時間**: 2026-02-24 17:05:41
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 4s]
+This morning. I think I was just gonna completely unhappy about that this morning. I think I was just completely completely Was enough time.
+
+🎤 SPEAKER_0 [20s - 29s]
+Running upstairs, grabbing something or running back down is very different to coming upstairs, putting something down, saying, oh, by the way, John is gonna come through this.
+
+🎤 SPEAKER_0 [30s - 34s]
+And all I said was, can we just is the door wide open? Can we just, like, either
+
+🎤 SPEAKER_1 [58s - 81s]
+you need to go for a time and shut I I just this should I just think it's completely unfair. It's a totally different scenario to anything else. Just need to do, like, and this and this, and you would completely refuse that. Like, I'm just saying that I'm not happy with the door being open.
+
+🎤 SPEAKER_1 [83s - 95s]
+I just like, my my bags are right there. I can't I mean, it's fine until it's not fine, until someone happens to be wiggled. You know, if you were opposite us, come on.
+
+🎤 SPEAKER_1 [95s - 106s]
+On. There's a criminal activity there. All it takes is every person to have them to come. Like, it doesn't hurt. Just have to door shut on our house with all our possessions. And all I'm asking is can we just carry this on with that?
+
+🎤 SPEAKER_1 [107s - 114s]
+I'm not saying can we stop? Can we stop talking? Can you do anything? I'm just wanting to keep an eye on the door. He's only doing massive wow.
+
+🎤 SPEAKER_1 [115s - 141s]
+Just think that's so unfair now because two, like, that's not fair. And now I've got my blinking appraisal, and I just even feel in the mood for it at all. And I'm cross about it because you go on jump on, and you'll probably come back now and go, well, well, Rachel, we've got an issue with this because you keep interrupting me. But I'm telling you that I'm sorry I was not happy that the front door was open. So I don't care whether I in chatting you. I do it a 100 times over.
+
+🎤 SPEAKER_1 [142s - 161s]
+And you say, oh, it was only gonna be ten seconds. What? You got up there long enough that I fell on uncomfortable with how long the doors open. So you can either say what tough you have to feel on uncomfortable, or you could just accept, like, offline, which is a bit much on this. I think the past is fine. But you didn't have to jump in and just get really angry with me.
+
+🎤 SPEAKER_1 [161s - 170s]
+Me, refuse to talk to me. I'm not that's it. I'm not telling you anything that. But but but you've done this is a problem with you. This is this. This is this. I come on.
+
+🎤 SPEAKER_1 [171s - 180s]
+I just think that was really unfair. Now I'm unhappy because has just woke up till I was arguing. And I just don't think that's fair at all, so I'm not happy.
+
+
+---
+
