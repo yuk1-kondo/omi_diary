@@ -2023,3 +2023,50 @@ So it's seventeen.
 
 ---
 
+
+
+## 📝 Wrestling Match Ends by Referee Stoppage - e8ac558c-8c4b-434c-9bd6-4d66be0af7d3
+
+**記録時間**: 2026-02-24 21:11:05
+
+### STT生テキスト
+
+🎤 SPEAKER_11 [0s - 1s]
+See you. I just want you to be the rush on.
+
+🎤 SPEAKER_10 [5s - 7s]
+And now now you Wait minute.
+
+🎤 SPEAKER_19 [7s - 7s]
+Wait a minute.
+
+🎤 SPEAKER_25 [8s - 17s]
+Vaccine hit the the post hard face first and vaccine has not moved since that happened at the the official's gotta get out and get down there and check on her.
+
+🎤 SPEAKER_19 [18s - 19s]
+No. No. No. No.
+
+🎤 SPEAKER_26 [29s - 32s]
+Vaccine who hasn't moved since she ran face first into the ring post.
+
+🎤 SPEAKER_26 [37s - 43s]
+And that in really It was the bell.
+
+🎤 SPEAKER_29 [47s - 51s]
+A result of referee stoppage.
+
+🎤 SPEAKER_25 [52s - 54s]
+Natti Look at that sick look at Natty's face on him.
+
+🎤 SPEAKER_10 [54s - 56s]
+The right call by Eddie at regular.
+
+🎤 SPEAKER_10 [60s - 61s]
+Any further damage.
+
+🎤 SPEAKER_18 [62s - 62s]
+Alright.
+
+
+---
+
