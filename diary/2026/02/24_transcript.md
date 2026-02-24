@@ -830,3 +830,53 @@ Yahweh
 
 ---
 
+
+
+## 📝 Exploring the Name of God and Its Pronunciation - ae86bd39-06b6-4813-b6d9-cc38ef4f91a5
+
+**記録時間**: 2026-02-24 18:33:39
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+Geben to Yahweh.
+
+🎤 SPEAKER_2 [32s - 35s]
+Of defense to save me.
+
+🎤 SPEAKER_2 [39s - 40s]
+Curious.
+
+🎤 SPEAKER_2 [49s - 50s]
+Name
+
+🎤 SPEAKER_2 [91s - 92s]
+Deliver me in
+
+👤 あなた [92s - 93s]
+your Jehovah.
+
+🎤 SPEAKER_2 [94s - 94s]
+Life.
+
+👤 あなた [107s - 110s]
+The proper name of the one true god, I'm trying to accept with a bowel.
+
+👤 あなた [177s - 191s]
+This is the word it's they could original for. Oh, you're the full hang on. It's keeper. So you're learning about the moon skulls on the tour This is how the name was did because the original valves were lost.
+
+👤 あなた [195s - 208s]
+Pepsikra were This vision includes the small dots and lines valves that were added by the truest scrubs around the centuries, the hybrid. These are those are those aren't actually the real valves that in Jewish tradition the name is so holy it never spoken about but instead readers say Adonai.
+
+👤 あなた [215s - 222s]
+The scribes took the valve, you know, at night and to post him onto the letter. This an act is a reason to tell him, we can't read it what this says.
+
+👤 あなた [231s - 242s]
+They try to pronounce hybrid words exactly as written. This resulted in Jehovah Jehovah, Jehovah. I know.
+
+🎤 SPEAKER_2 [291s - 316s]
+They plot to take away my life, but I trust in you, y'all. Yahweh. I said you are my who persecute me make your
+
+
+---
+
