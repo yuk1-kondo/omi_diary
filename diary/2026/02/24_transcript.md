@@ -2070,3 +2070,488 @@ Alright.
 
 ---
 
+
+
+## 📝 WWE Builds To Elimination Chamber And Honors AJ Styles - 9a69cf6b-ad65-4dfd-82d8-ad3efb3141fe
+
+**記録時間**: 2026-02-24 21:15:04
+
+### STT生テキスト
+
+🎤 SPEAKER_20 [0s - 4s]
+Earlier tonight, we saw Jay Uso become the final competitor to qualify for the men's elimination chamber match.
+
+🎤 SPEAKER_30 [4s - 14s]
+This is your first elimination chamber, so I have to ask you, how are you feeling about these five other competitors, and what's your strategy heading in?
+
+🎤 SPEAKER_19 [16s - 19s]
+Reporting to you live, the sexiest
+
+🎤 SPEAKER_19 [29s - 39s]
+And the truth is, I wasn't supposed to be here tonight. But somebody told me Atlanta got the best chicken wings in the world.
+
+🎤 SPEAKER_19 [47s - 49s]
+I said, Since I've been a got the best chicken wings, maybe it's only right that I showed up with my
+
+🎤 SPEAKER_19 [62s - 64s]
+But not for real. Understand this.
+
+🎤 SPEAKER_18 [65s - 68s]
+Trey Williams, they call me mister getting the job done.
+
+🎤 SPEAKER_19 [70s - 75s]
+That's exactly what I'm gonna do Saturday at the elimination chamber. I don't care who just won a match. Ain't nobody gonna be eating
+
+🎤 SPEAKER_19 [80s - 82s]
+We'll be having no RKOs.
+
+🎤 SPEAKER_19 [85s - 86s]
+We won't be having no
+
+🎤 SPEAKER_19 [91s - 93s]
+Won't nobody be saying, yeah.
+
+🎤 SPEAKER_18 [96s - 97s]
+Every shoulder won't be bouncing.
+
+🎤 SPEAKER_19 [99s - 100s]
+It's time for the brightest new star in the business.
+
+🎤 SPEAKER_19 [107s - 111s]
+I'm talking about about mister Lemon pepper stepper to show you what I'm about.
+
+🎤 SPEAKER_16 [129s - 144s]
+And Ladies and gentlemen, trick.
+
+🎤 SPEAKER_19 [149s - 151s]
+I'm gonna end up burning my man.
+
+🎤 SPEAKER_16 [163s - 163s]
+Yeah.
+
+🎤 SPEAKER_26 [168s - 169s]
+Multi platinum wrapper.
+
+🎤 SPEAKER_19 [170s - 174s]
+Having a good time with us as we are the phenomenal AJ stock.
+
+🎤 SPEAKER_26 [186s - 188s]
+A free agent. Oba.
+
+🎤 SPEAKER_11 [241s - 243s]
+Remind me why this thing is here.
+
+🎤 SPEAKER_20 [244s - 246s]
+Again, Nick always told me he'd stole the bridge here.
+
+🎤 SPEAKER_10 [246s - 246s]
+Nick always.
+
+🎤 SPEAKER_26 [250s - 254s]
+Put this back on the truck and start hitting for Chicago.
+
+🎤 SPEAKER_31 [254s - 258s]
+Looks like a big and high level open it together. On Saturday for two. Cool?
+
+🎤 SPEAKER_18 [262s - 262s]
+Here's.
+
+🎤 SPEAKER_11 [271s - 273s]
+Wait. Do you think there's somebody more important than me?
+
+🎤 SPEAKER_18 [274s - 275s]
+Yes, ma'am. Is.
+
+🎤 SPEAKER_18 [283s - 285s]
+How about you shove me up? Do something.
+
+🎤 SPEAKER_32 [286s - 288s]
+Oh, you wanna go? Oh, yes. You wanna go?
+
+🎤 SPEAKER_9 [288s - 289s]
+Okay. Let's go.
+
+🎤 SPEAKER_31 [289s - 297s]
+Time and place. Tonight is for AJ. Let's do this. For another time in place.
+
+🎤 SPEAKER_16 [303s - 307s]
+Great. Free. Thank you.
+
+🎤 SPEAKER_26 [342s - 347s]
+Accompanied by the Oracle Hayden, long time relationship between these two men.
+
+🎤 SPEAKER_25 [348s - 378s]
+Brock, Lesnar, going to stand up and wander away after what this man has done to me in the past and have mercy you as well, Corey.
+
+🎤 SPEAKER_10 [384s - 386s]
+Thank you again for that night. I get C. Rexed.
+
+🎤 SPEAKER_16 [386s - 388s]
+I don't believe he can't see me.
+
+🎤 SPEAKER_26 [389s - 390s]
+He sees everything.
+
+🎤 SPEAKER_19 [423s - 432s]
+My name is Paul Fayne. Yes. I am an Oracle.
+
+🎤 SPEAKER_16 [436s - 442s]
+My name? Is Paul But most of all Okay.
+
+🎤 SPEAKER_19 [456s - 478s]
+History lesson for all of you. Traditionally, WrestleMania had two main events. The title match and the undertaker's streak.
+
+🎤 SPEAKER_26 [481s - 483s]
+Now, I have to remind you my client, Leicester conquered the undertakers on the Phoenix.
+
+🎤 SPEAKER_19 [484s - 485s]
+Streak at WrestleMania.
+
+🎤 SPEAKER_19 [489s - 493s]
+Which means that neither they spot went to block
+
+🎤 SPEAKER_14 [494s - 494s]
+Leicester.
+
+🎤 SPEAKER_19 [496s - 506s]
+The only dead man walking in is the one that comes down the aisle to face
+
+🎤 SPEAKER_16 [507s - 509s]
+Brock Lesnar.
+
+🎤 SPEAKER_19 [519s - 524s]
+Who will fight Brock Lesnar at WrestleMania.
+
+🎤 SPEAKER_16 [526s - 527s]
+I don't have a prediction.
+
+🎤 SPEAKER_11 [529s - 531s]
+I don't even have a spoil for you.
+
+🎤 SPEAKER_19 [532s - 572s]
+Because when Brock, Webster and I walked through that lock room, there wasn't one person that was managed up that I could identify that would step up these are the appearances that Rox Lester is going to make on the road to WrestleMania.
+
+🎤 SPEAKER_19 [578s - 579s]
+And at any time, any man is willing to go down history.
+
+🎤 SPEAKER_16 [584s - 586s]
+By taking the absolute worst victimization possible.
+
+🎤 SPEAKER_19 [590s - 603s]
+At the grandest stage of the law, that all that man has to do is come down that aisle and get up in the face of Brock. Lester.
+
+🎤 SPEAKER_18 [606s - 609s]
+But I don't think that's going to happen.
+
+🎤 SPEAKER_19 [610s - 627s]
+I don't think anyone is going to answer Brock Lesnar's open challenge for WrestleMania. Because if you kids that couldn't look, that that locker room Let's be honest.
+
+🎤 SPEAKER_19 [627s - 639s]
+Can have all the title matches you want The real main event at WrestleMania is whomever's gonna get their ass kicked and conquered.
+
+🎤 SPEAKER_16 [639s - 647s]
+Versus rock Lesnar.
+
+🎤 SPEAKER_19 [649s - 660s]
+And there's no one no one in that locker room with the balls to take that ass kicking at WrestleMania.
+
+🎤 SPEAKER_26 [668s - 682s]
+Well, it's a double edged sword. I mean, you take the open challenge and you can make your career in you can beat Brock Leisure in WrestleMania. But there's the other problem if you to take on Brock Lesnar or WrestleMania, you may not make it out of Las Vegas.
+
+🎤 SPEAKER_19 [686s - 696s]
+There is no one in their right mind in this locker room or any other locker room who should be crazy enough to step up the beast incarnate, particularly on the grandest stage of the mall.
+
+🎤 SPEAKER_26 [696s - 698s]
+This is the man who ended the other streak.
+
+🎤 SPEAKER_10 [698s - 702s]
+Just imagine what he could do to anyone else's career.
+
+🎤 SPEAKER_33 [709s - 717s]
+You think you could stand out there and compare resumes with me? What have you ever done? How You have one butterfly balance.
+
+🎤 SPEAKER_33 [717s - 731s]
+I changed the entire game. I was the first woman to win the main event in WrestleMania. I was the first woman on the cover of the video game, and it was a lot better than your complete moron of a husband's.
+
+🎤 SPEAKER_33 [732s - 743s]
+I have taken this business to heights that you have and will not ever reach, even just I have taken it and made it the most talked about.
+
+🎤 SPEAKER_33 [747s - 753s]
+All of WWE.
+
+🎤 SPEAKER_16 [754s - 756s]
+You do not deserve to hold this, but I deserve to get rid of you.
+
+🎤 SPEAKER_33 [759s - 770s]
+And retire you in front of all. Of your friends and family in your hometown of Chicago. You'll still be the least talented AJ to retire this
+
+🎤 SPEAKER_17 [771s - 772s]
+You're looking for me.
+
+🎤 SPEAKER_33 [772s - 778s]
+I'll still be the greatest female wrestler of all time if it's not just me saying, Other people are saying it. Everybody's saying it.
+
+🎤 SPEAKER_33 [778s - 786s]
+Sports Illustrated is saying it. The bleacher report is saying it. Saturday, an elimination chamber. I prove it.
+
+🎤 SPEAKER_26 [791s - 811s]
+Eight believe will have the home field advantage in her hometown of Illinois. If she looks to win, the Intercontinental championship. AJ's first one on one match in a decade first title match in eleven years, and she has to dock off one of the all time brakes in Becky Lynch to win the gold.
+
+🎤 SPEAKER_26 [930s - 933s]
+Chamber match. This coming Saturday.
+
+🎤 SPEAKER_19 [939s - 940s]
+In that match.
+
+🎤 SPEAKER_19 [944s - 952s]
+Comes to Javan. Then sometimes what you don't know can benefit you. Evan's the youngest superstar in the elimination chamber.
+
+🎤 SPEAKER_26 [952s - 965s]
+Least experienced of the field. And the yellow Jeep repeats like he's playing without wasn't even four.
+
+🎤 SPEAKER_18 [993s - 994s]
+Everyone's gotta tell.
+
+🎤 SPEAKER_31 [997s - 998s]
+Blink.
+
+🎤 SPEAKER_16 [1000s - 1001s]
+A breath.
+
+🎤 SPEAKER_1 [1042s - 1044s]
+AJ Styles, the phenomenal one, Oak
+
+🎤 SPEAKER_16 [1045s - 1045s]
+Island.
+
+🎤 SPEAKER_33 [1046s - 1047s]
+We love you.
+
+🎤 SPEAKER_11 [1047s - 1049s]
+You are one of a kind in our industry, man.
+
+🎤 SPEAKER_31 [1049s - 1052s]
+And feel truly honored to have shared the room with you.
+
+🎤 SPEAKER_33 [1052s - 1053s]
+Ten years ago, he changed and raised the bar.
+
+🎤 SPEAKER_31 [1054s - 1057s]
+We did everything.
+
+🎤 SPEAKER_11 [1057s - 1060s]
+There is to do and not just WWE.
+
+🎤 SPEAKER_31 [1060s - 1063s]
+You're back in the back.
+
+🎤 SPEAKER_34 [1063s - 1065s]
+Twenty five years, You're our best team. It's ever do this.
+
+🎤 SPEAKER_32 [1066s - 1069s]
+Thank you for everything that you did for this business.
+
+🎤 SPEAKER_2 [1070s - 1072s]
+No one did this phenomenon.
+
+🎤 SPEAKER_32 [1072s - 1081s]
+As one of those AJ styles. Love you, buddy, and thanks for the good times inside the radio and out. I miss it already.
+
+🎤 SPEAKER_31 [1083s - 1088s]
+It has been a privilege to call you a friend. It's an honor to share the ring with you.
+
+🎤 SPEAKER_18 [1088s - 1089s]
+I love you, brother. Thank you.
+
+🎤 SPEAKER_16 [1093s - 1094s]
+Hey, wait.
+
+🎤 SPEAKER_10 [1098s - 1102s]
+Course, that man's breaking this area. He's had so many battles. AJ and TNA.
+
+🎤 SPEAKER_26 [1103s - 1106s]
+And then Ovis is here. For the tag titles.
+
+🎤 SPEAKER_26 [1181s - 1183s]
+World, Centimeters Punk.
+
+🎤 SPEAKER_26 [1205s - 1213s]
+I am here to celebrate the phenomenal AJ Styles. You go ahead and gen his name.
+
+🎤 SPEAKER_26 [1230s - 1233s]
+Week in front of my people in Chicago. But there
+
+🎤 SPEAKER_19 [1234s - 1237s]
+are a few things going on that I need to address.
+
+🎤 SPEAKER_19 [1240s - 1243s]
+First things first, is it great to be allowed on a Monday night in Atlanta or what?
+
+🎤 SPEAKER_26 [1270s - 1279s]
+The show never stops, you WWE two k twenty six in last week. Two k revealed DJ details of this year's showcase mode centered on Sam Buck's career.
+
+🎤 SPEAKER_26 [1287s - 1295s]
+Month's robberies and explore the world for Park to never including fantasy historical scenarios, three owners Omi two k 26 today. Early access starts March 6, and you can also play as big money cool.
+
+🎤 SPEAKER_10 [1296s - 1306s]
+La Bruda Raquel Rodriguez. I would love to earn her entry into the elimination chamber tonight.
+
+🎤 SPEAKER_26 [1307s - 1309s]
+Meanwhile, Raquel Rodriguez in this triple threat match again.
+
+🎤 SPEAKER_26 [1326s - 1331s]
+I want a close line of Kyrie Saint. The dominant into the car.
+
+🎤 SPEAKER_19 [1340s - 1344s]
+On the top rope, With the inside elbow.
+
+🎤 SPEAKER_16 [1344s - 1344s]
+On a trail gather Sky, four DT
+
+🎤 SPEAKER_26 [1359s - 1361s]
+My goodness.
+
+🎤 SPEAKER_19 [1362s - 1366s]
+Ayo could be chosen. On the elimination table match.
+
+🎤 SPEAKER_26 [1367s - 1371s]
+By resetting, though, I replace spoiler.
+
+🎤 SPEAKER_19 [1373s - 1378s]
+From the top with the inside elbow. Uh-huh. Carry Gather Boots Up.
+
+🎤 SPEAKER_19 [1383s - 1385s]
+And now to Huddle Ball.
+
+🎤 SPEAKER_26 [1400s - 1409s]
+We talked about the confidence of Raquel Rodriguez and how it has been so much difference in the trajectory of her career, illustrating took down Rodriguez.
+
+🎤 SPEAKER_26 [1421s - 1425s]
+But Kyrie Sane attempted to steal the win. Thwarted by a pair of boots.
+
+🎤 SPEAKER_26 [1437s - 1458s]
+And I'm for the women's elimination chamber match in Chicago this But, ladies and gentlemen, before we get to things in Chicago, I wanna give you an injury update on what happened to the onshill of Big Bronson Reed from division earlier tonight in that triple threat match to qualify for the chamber. Ron Sinri has suffered a distal biceps tear, and Bronson will be out.
+
+🎤 SPEAKER_26 [1458s - 1460s]
+Indefinitely.
+
+🎤 SPEAKER_25 [1461s - 1464s]
+Switching gears now to Saturday in Chicago.
+
+🎤 SPEAKER_26 [1466s - 1474s]
+Elimination chamber starts Someone will earn the opportunity to head to WrestleMania and challenge Jay Cardile in the women's elimination chamber match.
+
+🎤 SPEAKER_26 [1474s - 1481s]
+Rhea Ripley, Tiffany Strat, Alexa Bliss, Oscar, Keyana James, and now Rochelle
+
+🎤 SPEAKER_10 [1481s - 1482s]
+Rodriguez.
+
+🎤 SPEAKER_26 [1482s - 1486s]
+I really hope that Sam thought that somebody's doing in his hometown Chicago.
+
+🎤 SPEAKER_26 [1490s - 1500s]
+Finn Ballard, who looks to alter the entire landscape of WrestleMania and mess up perhaps one of the great WrestleMania made events in history. Punk and Reigns can bow or knock off Punk for the title.
+
+🎤 SPEAKER_10 [1500s - 1502s]
+Punk found the only one in his
+
+🎤 SPEAKER_19 [1508s - 1511s]
+on the line as big time Becks.
+
+🎤 SPEAKER_26 [1511s - 1520s]
+Becky Lynch goes one on one with a Lee. And who's gonna head to WrestleMania to face crew McIntyre for the Dolby championship?
+
+🎤 SPEAKER_26 [1521s - 1523s]
+Six men involved.
+
+🎤 SPEAKER_26 [1525s - 1537s]
+Cody Rose, Randy LA Knight, Joan Evans, Jay Huso, and Trick. Williams. Of these men. Are doing WrestleMania. Let's talk about what the schedule looks like for this coming Saturday.
+
+🎤 SPEAKER_26 [1537s - 1539s]
+In the Chicago.
+
+🎤 SPEAKER_30 [1543s - 1550s]
+The countdowns Giving a very close eye on that match, please welcome my guest. WWE women's champion,
+
+🎤 SPEAKER_20 [1550s - 1551s]
+Jade Cargo.
+
+🎤 SPEAKER_16 [1553s - 1554s]
+What's up? What's up?
+
+🎤 SPEAKER_30 [1555s - 1561s]
+Becky, you said that again for the crowd. Please welcome WWE women's champion, Jay
+
+🎤 SPEAKER_16 [1561s - 1561s]
+Cargill.
+
+🎤 SPEAKER_28 [1564s - 1565s]
+Wait.
+
+🎤 SPEAKER_14 [1565s - 1566s]
+And what else?
+
+🎤 SPEAKER_30 [1567s - 1575s]
+Two time WWE women's tag team champion. And what else? 2025 Queen of the Ring. Exactly.
+
+🎤 SPEAKER_5 [1575s - 1577s]
+So go ahead with that question.
+
+🎤 SPEAKER_30 [1578s - 1585s]
+Well, Jade tonight, we saw Liv Morgan declare for WrestleMania. She will be facing Stephanie back here. What is your response to that?
+
+🎤 SPEAKER_35 [1587s - 1594s]
+I think she may wanna the smartest choices tonight if you ask me. She knew I was gonna mop her behind up and down that floor. She chose me.
+
+🎤 SPEAKER_30 [1596s - 1607s]
+Well, I know you'll be keeping a close eye on the women's elimination chamber match. We have an incredible, match coming up. The card is stacked. So tell me how are you feeling heading into that?
+
+🎤 SPEAKER_35 [1608s - 1612s]
+Kathy, do you know me? Have I ever cared about any these women?
+
+🎤 SPEAKER_26 [1629s - 1634s]
+You need to understand I'm the And tonight's WWE Raw is brought to you by DoorDash. Door, more.
+
+🎤 SPEAKER_10 [1635s - 1636s]
+Pay tribute to to AJ Styles.
+
+🎤 SPEAKER_34 [1642s - 1651s]
+I wanted to be in that ring more than anybody. That's who I am. I just wanna enjoy the moment. Because I don't know how long that moment's gonna last.
+
+🎤 SPEAKER_1 [1743s - 1745s]
+Better person He's someone that we all look up to.
+
+🎤 SPEAKER_32 [1746s - 1751s]
+What I really respect about him is the kind of husband and the kind of father he is.
+
+🎤 SPEAKER_35 [1753s - 1754s]
+As a wife, I'm so extremely proud of my kids.
+
+🎤 SPEAKER_34 [1761s - 1764s]
+I guess, the way, went a little crooked.
+
+🎤 SPEAKER_34 [1786s - 1789s]
+So you can look back and see. What you accomplished.
+
+🎤 SPEAKER_23 [1801s - 1803s]
+The benchmark for what it is to be
+
+🎤 SPEAKER_31 [1808s - 1810s]
+He's a huge inspiration for me.
+
+🎤 SPEAKER_6 [1811s - 1813s]
+Who am for my bad shit?
+
+🎤 SPEAKER_10 [1814s - 1816s]
+What he's given to the business is amazing.
+
+🎤 SPEAKER_31 [1817s - 1822s]
+He's just a good person. On behalf of every single person, thank you very much, AJ Styles.
+
+🎤 SPEAKER_16 [1889s - 1890s]
+Where's the pop?
+
+
+---
+
