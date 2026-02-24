@@ -2324,3 +2324,3170 @@ Kevin up, John.
 
 ---
 
+
+
+## 📝 Sunday Service and Sermon on Who Jesus Is - c97b38e4-23a5-4c0c-82f1-14e85ddd5876
+
+**記録時間**: 2026-02-22 20:43:53
+
+### STT生テキスト
+
+🎤 SPEAKER_4 [0s - 17s]
+Just a few announcements, guys. We've got we we do have men's breakfast on Tuesday. We meet at the wire on Cold Road at 09:15 We have a meet together. We have a chat. Alright. We'll talk about everything.
+
+🎤 SPEAKER_4 [17s - 29s]
+Guys and I mean everything. So nothing is outside of our vocabulary on that morning. But, yeah, it's a good time. We've made good relations with the with the ladies who led the place as well.
+
+🎤 SPEAKER_2 [29s - 30s]
+Wow.
+
+🎤 SPEAKER_4 [30s - 43s]
+Please, if if you're free, come along. Tuesday evenings went online. Our prayer is online. Recently put a note that the on WhatsApp?
+
+🎤 SPEAKER_2 [45s - 46s]
+Yeah.
+
+🎤 SPEAKER_4 [47s - 58s]
+On WhatsApp, the the link for that on Tuesday. If it's not coming during the day, worry about it. It will arrive before we meet for quarter to eight.
+
+🎤 SPEAKER_2 [58s - 62s]
+Don't worry about that.
+
+🎤 SPEAKER_4 [63s - 76s]
+Also, we have we have a cardigan that was left here last week. Played cardigan, the little one. That's there. Anybody who know where that belongs, please take it if it belongs to you. Otherwise, let us know who it does belong to, we'll get it to them.
+
+🎤 SPEAKER_4 [77s - 87s]
+There's also some containers at the back that have been here for weeks guys. They will go for a good home or recycle it soon.
+
+🎤 SPEAKER_4 [88s - 93s]
+They're taking up room that we don't need to take up. So if it belongs to you, take them home.
+
+🎤 SPEAKER_4 [96s - 104s]
+Also, recent ventral. Alright? I've been announced it. Then after two a lovely country across the world. They're going to South Africa.
+
+🎤 SPEAKER_4 [104s - 105s]
+Guys.
+
+🎤 SPEAKER_4 [113s - 116s]
+And parts of, they have a a worldwide
+
+🎤 SPEAKER_4 [120s - 128s]
+And I know these guys have always thought it'd be lovely to go to one of the world in America or South Africa or wherever it is.
+
+🎤 SPEAKER_4 [129s - 134s]
+And they thought about it but never could do it yet. Well, this year they're gonna get there.
+
+🎤 SPEAKER_4 [137s - 155s]
+And I know it's it's it's a blessing from other churches that have helped them in that way. But guys, they can have a wonderful across the world and just to get to know what's going on in the world.
+
+🎤 SPEAKER_4 [156s - 164s]
+Arena of of the group that we're part of. So, yeah, they're going away for they're gonna be away for a couple of Sundays in March.
+
+🎤 SPEAKER_4 [165s - 181s]
+And one of those Sundays, we are gonna have on the fifteenth, we're gonna have a breakfast. Alright? If need to know anything about that food or anything like that, Lewis and Nana are gonna be organizing that together.
+
+🎤 SPEAKER_4 [183s - 190s]
+So they will put something out there with a list or they will ask you personally if you've got anything that you can help with.
+
+🎤 SPEAKER_4 [192s - 199s]
+Towards the time. In the in the next couple of weeks, we'll give you exact time and everything else that we're gonna meet and everything else.
+
+🎤 SPEAKER_4 [200s - 219s]
+Yeah, we have breakfast together. We all and eat together. It's a wonderful time. So please, the March 15 first song. Okay. I think that's I think that's it. Good job. I think we are. Yeah. We've arrived. Yeah. There you go.
+
+🎤 SPEAKER_4 [220s - 230s]
+Can I just ask there's no lift for those who don't know already, there's no lift this morning, the boat is gone? So please don't try it. We might do a damage to it.
+
+🎤 SPEAKER_4 [231s - 248s]
+I don't know if it's just gone. So we we can't use it. But just to say there's a toilet at the back of this room for the adults, so the children go down. We try and leave the toilets downstairs for the children. Children keep all food in this parts of the building, in this room.
+
+🎤 SPEAKER_4 [249s - 259s]
+Gives us an easier job at the end. And we're just gonna pray with this pray for our children. We're we're pray. Workers and our children this morning.
+
+🎤 SPEAKER_4 [260s - 273s]
+Father, we just thank you. We thank you for the time that we've had with you and the blessing that has been so far. And we look forward to the rest of our time pray for the children as they go down to do more about you.
+
+🎤 SPEAKER_4 [274s - 288s]
+Pray for those who go down and and give up this part of the service. To just serve you and serve our children, Lord. And we just thank you for that this morning. We thank you that you will lead them and just help them and just give them a wonderful time.
+
+🎤 SPEAKER_4 [289s - 295s]
+And just bring your arm to your root. And also for us Lord. In Jesus name.
+
+🎤 SPEAKER_2 [295s - 296s]
+Amen. Amen.
+
+🎤 SPEAKER_2 [302s - 304s]
+Good boy.
+
+🎤 SPEAKER_3 [304s - 304s]
+Oh, you did a great job.
+
+👤 あなた [305s - 305s]
+What done.
+
+🎤 SPEAKER_2 [305s - 312s]
+What? Song was that then? I don't know. When was that music in my accent?
+
+👤 あなた [312s - 315s]
+Oh, well, not on purpose.
+
+🎤 SPEAKER_9 [316s - 317s]
+Then, like, add and then, like, oh, pound in your ass and do that.
+
+👤 あなた [319s - 326s]
+Alright. I didn't do it on purpose. Maybe.
+
+🎤 SPEAKER_2 [328s - 332s]
+Is that Nee. See you.
+
+👤 あなた [383s - 385s]
+And what different sea in their volume?
+
+🎤 SPEAKER_2 [385s - 385s]
+I'd say.
+
+🎤 SPEAKER_4 [386s - 388s]
+Yeah.
+
+🎤 SPEAKER_2 [388s - 388s]
+Send out a message here.
+
+🎤 SPEAKER_3 [388s - 391s]
+Thank everybody. I know. I know. Yeah.
+
+🎤 SPEAKER_4 [391s - 394s]
+I'm said to Michelle, Apple won't probably read it, but I think they did message.
+
+🎤 SPEAKER_5 [404s - 406s]
+Three of his hands, and he's eating the balls.
+
+🎤 SPEAKER_2 [407s - 410s]
+He's still there. Choo choo choo choo.
+
+👤 あなた [410s - 411s]
+How many things have you had? My mom's like,
+
+🎤 SPEAKER_2 [414s - 414s]
+Listen.
+
+🎤 SPEAKER_3 [415s - 415s]
+You know he's No.
+
+🎤 SPEAKER_5 [415s - 418s]
+I've been weed all week for that person.
+
+👤 あなた [418s - 423s]
+You know, one second. You know he's got special needs to Doesn't really Oh, the sets your voice
+
+🎤 SPEAKER_2 [424s - 425s]
+Hello, mate.
+
+🎤 SPEAKER_6 [426s - 430s]
+I was joking with Fanny. Oh yeah. Do you know what? This is not like an ultimate
+
+🎤 SPEAKER_2 [435s - 437s]
+This is about to be.
+
+👤 あなた [437s - 446s]
+Take your seat. Please find your seat. Yeah. Yeah. We could it it turns out somebody in the back. Fighting me on the door with a microphone.
+
+🎤 SPEAKER_2 [446s - 448s]
+Well, welcome to god first. Yeah.
+
+👤 あなた [448s - 449s]
+I'll get you on it. Yeah. Good to see you, man.
+
+👤 あなた [458s - 463s]
+Right. It's just way too high. Say again?
+
+🎤 SPEAKER_4 [463s - 463s]
+You're desperate for the drink.
+
+👤 あなた [465s - 466s]
+Well, lessons learned, Taejung.
+
+👤 あなた [471s - 476s]
+This is she waited. Oh, it's just been too away for me.
+
+🎤 SPEAKER_4 [477s - 481s]
+I'm a shorty, so Can you try please? Somebody is always tightness.
+
+🎤 SPEAKER_8 [481s - 482s]
+Tight. Yeah.
+
+🎤 SPEAKER_6 [482s - 485s]
+Yeah. You can't do it. Just stand on the from the back and just do different impressions.
+
+👤 あなた [488s - 489s]
+Or try and do a different accent?
+
+🎤 SPEAKER_2 [489s - 489s]
+Yeah.
+
+👤 あなた [491s - 494s]
+So I stand up comedians, they announce themselves on stage, they?
+
+🎤 SPEAKER_2 [494s - 494s]
+Yeah.
+
+👤 あなた [495s - 499s]
+Ladies and gentlemen, please welcome Peter K. Peter K in the background.
+
+🎤 SPEAKER_2 [500s - 500s]
+Yeah.
+
+👤 あなた [501s - 502s]
+That's good, man. That's good.
+
+🎤 SPEAKER_2 [512s - 513s]
+Okay?
+
+🎤 SPEAKER_2 [530s - 531s]
+Ponzu, ja.
+
+👤 あなた [535s - 539s]
+Jonathan, how is that for volume? Is that can you is that a good volume? Obviously music Yeah.
+
+🎤 SPEAKER_8 [543s - 544s]
+Wouldn't it?
+
+👤 あなた [544s - 545s]
+That's fine.
+
+🎤 SPEAKER_2 [554s - 557s]
+Thank you, man. How are you doing? Let me check it out for you.
+
+👤 あなた [557s - 560s]
+Doing, you man? Yeah. Good. So Good. How's your name?
+
+🎤 SPEAKER_8 [560s - 567s]
+That's lot better now. Yeah. I I something it's weird because I I found that I I started sleep kinda curled up a bit.
+
+🎤 SPEAKER_8 [575s - 582s]
+Oh, shoulders messed up. And so I I laid kind of partly on my front with my shoulder behind me. Right? Oh, yeah.
+
+🎤 SPEAKER_6 [583s - 584s]
+And and as I did that, stretched it out, my head went all tingling.
+
+🎤 SPEAKER_4 [586s - 587s]
+Oh, no.
+
+🎤 SPEAKER_8 [587s - 589s]
+As as it As it released.
+
+🎤 SPEAKER_2 [589s - 590s]
+Oh, wow.
+
+🎤 SPEAKER_8 [590s - 591s]
+So That must be freaky in it. Yeah.
+
+🎤 SPEAKER_2 [594s - 595s]
+Funny I'd there grill? Known that two days earlier. Can have It's funny you said that.
+
+👤 あなた [595s - 598s]
+Yesterday, was like, this muscle here.
+
+🎤 SPEAKER_2 [599s - 599s]
+Sorry.
+
+👤 あなた [601s - 603s]
+To well, well, well, did you get that as well?
+
+🎤 SPEAKER_4 [604s - 606s]
+Anyway, You're gonna come back together and show I what early show.
+
+👤 あなた [606s - 607s]
+I would try it's something playing tennis all the years.
+
+🎤 SPEAKER_4 [608s - 610s]
+Because every time do it It's just my sporting
+
+🎤 SPEAKER_1 [611s - 612s]
+Yeah.
+
+👤 あなた [613s - 614s]
+That's why I have give up on the pro
+
+🎤 SPEAKER_2 [614s - 615s]
+You know?
+
+👤 あなた [617s - 624s]
+But let me get a water whilst everyone I hear you're gonna be announcing each Sunday service
+
+🎤 SPEAKER_2 [648s - 648s]
+Alright.
+
+🎤 SPEAKER_1 [648s - 649s]
+Good.
+
+👤 あなた [650s - 651s]
+Let's just get the foot there.
+
+🎤 SPEAKER_4 [651s - 651s]
+Yeah.
+
+🎤 SPEAKER_2 [651s - 656s]
+Let's do. Yeah. That
+
+🎤 SPEAKER_2 [660s - 665s]
+Okay. Good.
+
+👤 あなた [666s - 676s]
+Let's find you like I'm out. Is it loud? It feels a bit silly way in one of these in a small room, but it's it's it's for the supposedly for the quality of the recording of the audio.
+
+👤 あなた [677s - 678s]
+I'll bear with it.
+
+🎤 SPEAKER_4 [678s - 694s]
+Let's pray. Yeah. Father, we just thank you for this We just thank you that all of the dedication and the hard work that you present prepared in your word, we the pray this morning that it will come into our hearts into our minds as we take it away today.
+
+🎤 SPEAKER_4 [694s - 699s]
+That we can use it this week. Our walk with you in Jesus' name. Amen.
+
+👤 あなた [700s - 707s]
+Amen. Thank you, John. Thank you. That is a bit loud. Can Omi, let me just turn it down before we get started. Yeah. Please. You on it? Oh, good.
+
+👤 あなた [708s - 709s]
+A real sound person.
+
+🎤 SPEAKER_2 [709s - 710s]
+Good.
+
+👤 あなた [711s - 730s]
+Well, simple Christian catechism part two. So so those of you who've joined us since we started part one, we did a big series Well, I say I think it was bigger. I think it was significant last March where we talked about the importance of getting to know our really well.
+
+👤 あなた [731s - 755s]
+Because we want to guard a good deposit interested to us so we can pass it on faithfully to the generation if you like. We wanna guard ourselves from error. We use the we use the analogy of how a bank someone working in the bank can tell a fake fake note is to get to know the real notes really well. And that's what we're trying to do. We're getting to know our really well so that we can communicate it faithfully and we can spot for teachers easily.
+
+👤 あなた [756s - 769s]
+More well, more easily. And so part one, I did a recap on that last week. We are about to launch a new podcast player kind of thing, which is quite exciting. Jonathan's been working on it.
+
+👤 あなた [770s - 783s]
+And so you can listen to all the talks. You can sort it by series, by preach, you can favorite some. You can download them to listen to them on your phone if you prefer. And so we've got a few a bit of a backlog we're gonna upload on there.
+
+👤 あなた [784s - 797s]
+And last week, I covered part one one, part two now. I'm really excited about it. What kind of redeemer do we need? The question and answers already been revealed to you. So the punchline of the sermon is kind of there.
+
+👤 あなた [797s - 804s]
+So I was thinking, well, how can I how can I kind of word this in a way that you don't think you've already got the you have in a way?
+
+👤 あなた [805s - 822s]
+But let me ask you something, a few questions. Why does it matter who Jesus is? If Jesus were not exactly who scripture says he is, would the cross still save you?
+
+👤 あなた [822s - 834s]
+Have you ever thought about that? If Jesus was slightly different, would you still be saved? It's not a small question. It's a and it's not a theological hobby question either.
+
+👤 あなた [835s - 853s]
+It's a question about salvation. Really important question to consider. We often talk about what Jesus did. We talked about how he died, how he rose, again, how he forgives us, how he saves. But what if the most important thing about salvation is not what happened on the cross?
+
+👤 あなた [855s - 867s]
+But who was hanging on the cross. Or to put it another way, if anyone else was on the cross in our place, would it still be effective?
+
+👤 あなた [869s - 878s]
+I think that the obvious answer is no. Rachel and I are flying to, as Johnny said, we're flying to Cape Town in a few weeks time.
+
+👤 あなた [879s - 895s]
+For the advance global conference. We are going through the generosity of once again of Mark Harbor Church Stephen Jack. He's he's been a great support of ours and he said you gotta get there. And I said, we're a small church plant. We can't we'll use up half the church budget just to fly us there.
+
+👤 あなた [895s - 901s]
+And he said, no. We've got Advance has got money for this sort of thing. We've got some. We'll we'll pay for the flights. We'll pay for the accommodation.
+
+👤 あなた [901s - 918s]
+Make sure you're there. So we're and we're going. It's a long flight. Steven, Steven, Rana, Obviously, we've got a are you from Cape Town? Are you from No. Johannesburg. Right. So we've got a we've got a South African here anyway. So it's a long flight. It's over oceans. It's over the whole of Africa.
+
+👤 あなた [923s - 951s]
+Yeah. Have you has anyone here seen the movie catch me if you can? With Leonardo DiCaprio and Tom Hanks? A wonderful movie. It's for those of you who don't know about it, is Leo the based loosely, it turns out, on a true story about a con artist a world class con artist who managed to fake number of professions. He he managed to pretend to be a surgeon and got himself a job in a in a really high prestigious hospital. He he pretended to be a lawyer.
+
+👤 あなた [952s - 960s]
+And he also pretended to be a commercial airplane pilot. And the film is all about the FBI chasing after this guy, trying to catch him.
+
+👤 あなた [961s - 974s]
+He was he sat off in bank bank for a he kind of did that. He never flew a plane, thankfully. But a pilot, you get to you get to have free flights, and that's kinda why he used it. He kind got to pretend that he's a pilot so he could fly places for free.
+
+👤 あなた [975s - 1001s]
+But imagine if he did manage to get onto the control of the of the plane. Yeah. Next week, a few weeks time, Rachel and I are trusting something. We're trusting something. I'm trusting that the pilot that's fly flying the BA plane is qualified and is not a fraud. Right? That's what I'm trusting. I'm trusting that's the case.
+
+👤 あなた [1002s - 1013s]
+I'm trusting then the pilot is who he says he is. I'm trusting that he is really is trained. He is authorized. He's a competent airline pilot, and I'm sure he is.
+
+👤 あなた [1013s - 1023s]
+Because once that plane takes off, I'm not in control of that plane. I used to when I used to fly, I used to hold this the armrest trying to keep the plane steady, which is obviously really silly.
+
+👤 あなた [1023s - 1034s]
+When I was younger. But my safety then doesn't depend on how sincere I think this pile is about his credentials. It depends entirely on who is flying the plane. Right?
+
+👤 あなた [1035s - 1050s]
+If the pilot is slightly unqualified, all of us on that plane well, we're we're in serious trouble, aren't we? He looks the parts, but is not fully trained, then we're not safe. We're not safe.
+
+👤 あなた [1051s - 1067s]
+He talks confidently, but he doesn't have the credentials, we're not landing probably very well. And so the success success of our flight depends not on what the plane does, but who's flying it. That's the point. And this is this is the point that I wanna make. This is the thing that why this matters. Okay?
+
+👤 あなた [1073s - 1089s]
+Identity determines the outcome. In the same way, Christianity doesn't simply say, look at what Jesus did. That's not the end of Christianity. It's it's look at who Jesus is.
+
+👤 あなた [1090s - 1107s]
+Look at who Jesus is, And so, the apostle John knew this. The early church faced people who talked about Jesus a lot and who Jesus was. And that was that was the big kind of discussion for the first five hundred years of the church. Who is Jesus?
+
+👤 あなた [1110s - 1122s]
+People talk about him all the time. They use his name. They they quote it as words, but some some of the Gnostic church, they reshape it, they reduced him, they adjusted him. So John wrote these words. It quite led into his life, the apostle John. He wrote this.
+
+👤 あなた [1122s - 1133s]
+Let's in fact, let's read it together. If you've got a bible, we're reading from one John four near the end of the bible. You've got one John, two John, three John.
+
+👤 あなた [1137s - 1145s]
+Jude, Revelation, We've got one so one John chapter four. And if you're reading from the Pew Bible, do the usual chat if you're there first.
+
+👤 あなた [1147s - 1154s]
+Congratulations. I was gonna say. You win. One I won't even listen. +1 227. +1 227.
+
+🎤 SPEAKER_4 [1154s - 1155s]
+Here we are.
+
+👤 あなた [1156s - 1165s]
+It will be on the screen, but I want us to get used to being familiar with our paper bible. See? One John four.
+
+👤 あなた [1170s - 1173s]
+Oh, that is tiny text, it? Can you read that?
+
+🎤 SPEAKER_2 [1173s - 1174s]
+Yeah. Yes.
+
+👤 あなた [1174s - 1180s]
+Yeah. Okay. Good. No. Okay. I'll don't worry. I will then I'll read out for us. K.
+
+👤 あなた [1183s - 1198s]
+Dear friends, do not believe every spirit. But test the spirits to see whether they are from God. Because many false prophets have gone out into the world, This is how you can recognize the spirit of god.
+
+👤 あなた [1199s - 1209s]
+Every spirit that acknowledges that Jesus Christ has come in the flesh is from God. But every spirit that does not acknowledge Jesus not from god.
+
+👤 あなた [1212s - 1226s]
+This is the spirit of the antichrist, you have heard is coming and even now is already in the world. There's lots you could do quite a few summons on that passage alone, But now notice what John does not say.
+
+👤 あなた [1227s - 1236s]
+He does not say test the spirits whether they talk about love. He does not say test whether they are kind, these preachers are kind.
+
+👤 あなた [1237s - 1241s]
+These spirits are kind. What does he tell believers to test?
+
+👤 あなた [1244s - 1259s]
+He says, test what they say about Jesus. Test what they say about Because if you get Jesus wrong, you get everything wrong. If you get Jesus wrong, you get everything wrong.
+
+👤 あなた [1260s - 1274s]
+And so what we're talking about today then isn't about learning some theological trivia. This is really important for us ourselves, but also in how we communicate this to others and how we pass this truth onto our children.
+
+👤 あなた [1275s - 1289s]
+And anybody that we have influence on. Is this really important? Because if Jesus is not fully and completely who scriptures say he is, the cross does not save you.
+
+👤 あなた [1290s - 1298s]
+If we understand Jesus even slightly differently to the way the bible reveals reveals him to be, then we are trusted in someone else and not the real Jesus.
+
+👤 あなた [1299s - 1309s]
+And that's why the church has always guarded this doctrine fiercely, and it was fierce, fierce battle over the years, over the centuries.
+
+👤 あなた [1311s - 1323s]
+And here's the truth at the center of everything we are, everything we are about to see. Okay? This this next slide I hope I got on a slide. If you remember this, then you've got the whole thing.
+
+🎤 SPEAKER_2 [1323s - 1323s]
+Okay?
+
+👤 あなた [1324s - 1337s]
+No, I didn't have a slide. Oh, that's a shame. Can write it down if you want. Oh, why I put slide this one? Okay. Our salvation our salvation depends on who Jesus is.
+
+👤 あなた [1338s - 1355s]
+On who Jesus is not just what Jesus did. It's both. Our salvation depends on who Jesus is, not just what Jesus did. Everything on that truth. Everything hangs on that. Let's see why.
+
+👤 あなた [1356s - 1368s]
+If you get this wrong. Okay. Forget him wrong. John says something astonishing. Doesn't He says, do not believe every spirit. In other words, not every voice that uses the name of Jesus speaks the truth about Jesus.
+
+👤 あなた [1370s - 1378s]
+That means it's possible to talk about Christ and yet be wrong about Christ. It's possible to use his name and also not know him.
+
+👤 あなた [1379s - 1391s]
+It's possible to preach Jesus. And preach a different savior. So John says test it. Not just the spirits, but those who speak about Christ.
+
+👤 あなた [1391s - 1404s]
+Through those spirits. Test what? Don't test the tone. Don't test the style or the passion. You can have a really passionate, a charismatic preacher. Test what they say.
+
+👤 あなた [1405s - 1415s]
+Test what is confessed about Christ. The most important thing. What are they saying about Jesus? Because if you get Jesus wrong, you're not just slightly mistaken.
+
+👤 あなた [1416s - 1419s]
+You're trusting in someone who cannot save you.
+
+👤 あなた [1422s - 1431s]
+If the parlour is not truly qualified, it doesn't matter how calm he sounds. If Jesus is not who scripture says he is, the cross does not save.
+
+👤 あなた [1432s - 1445s]
+A wrong Jesus cannot save you. A slightly altered Jesus cannot reconcile you. Reshaped Jesus cannot bring you to god. Only the real Christ can. And the early church, they understood this.
+
+👤 あなた [1446s - 1453s]
+They they understood this really well, and they pretended they protected it fear They guarded it carefully. That's why they wrote the creeds.
+
+👤 あなた [1453s - 1476s]
+That's why they wrote the creeds. That's why the first Sunday of each month, we say together the Nicene Creed. We want to place ourselves in the historic Christian faith We don't want to reinvent our faith for ourselves. We want to ensure that we are within historic Christianity guarded, defended, and thought about and articulated on for thousands of years.
+
+👤 あなた [1478s - 1496s]
+That's why the early church was willing to exile those who who disagreed with this. That's why the the church was opposing and suddenly even even killing those who preached a different gospel, not saying we should do that, we should defend the faith.
+
+👤 あなた [1497s - 1512s]
+Rather than compromise on who Christ is. The who Jesus is is essential. Because they knew something that we often forget. Christianity is not built on admiration of Jesus.
+
+👤 あなた [1513s - 1518s]
+It's built on the identity of Jesus. Who Jesus is.
+
+👤 あなた [1522s - 1536s]
+Here is a picture of the well known atheist Richard Dawkins. He's a new atheist, self designated new atheist, which was a movement which, thankfully, has peaked in popularity. Was really popular about fifteen years ago.
+
+👤 あなた [1537s - 1549s]
+New atheism as opposed to normal atheism, if I can put it that way, is that it's the kind of atheism that doesn't just believe, don't believe in god, They go further than that, and they think the idea of a god is dangerous and should be destroyed.
+
+👤 あなた [1550s - 1559s]
+And eliminated because it brings so much harm to the world. So they're kind of that much further. And then here we are. We have Richard Dawkins. We're in atheist for Jesus t shirts.
+
+👤 あなた [1563s - 1571s]
+He kind of liked some of the stuff that Jesus said. All that spiritual nonsense he was deluded on, but he had some good nice things to say about how we should live.
+
+👤 あなた [1572s - 1584s]
+Is Dawkins view. And Elon Musk this week, I heard him say something like, I agree with the teachings of Jesus. He he tweeted that, not tweeted x. Tweeted out. He he tweeted out, I agree with the teachings of Jesus.
+
+👤 あなた [1585s - 1595s]
+Notice that he didn't say, I affirm the identity of Jesus. As the son of God, I submit my life to Jesus. Christianity is not built on the admiration of Jesus.
+
+👤 あなた [1596s - 1605s]
+Or even his wonderful teachings. It's built on the identity of Jesus, recognizing that he is the second person of the trinity. He is the lord of your life, and we are to submit to him.
+
+👤 あなた [1607s - 1616s]
+Following Jesus' moral teachings by themselves, saves no one. Saves no one. Make the world a better place for sure. But it can't save you.
+
+👤 あなた [1620s - 1634s]
+If Jesus is less than god, he cannot bring you to god. If Jesus is less than human, he can't stand in the place of humanity. That's why John speaks so strongly. Every spirit that does not confess Jesus is not from God.
+
+👤 あなた [1635s - 1645s]
+So this is quite a serious matter really. John is not playing games here. He's saying that the between truth and error on this point is different between life and death.
+
+👤 あなた [1646s - 1658s]
+Between being saved and still standing in the condemnation before holy god. Now that might feel a bit intense for me to say that.
+
+👤 あなた [1659s - 1672s]
+It needs to be intense because this is serious This is serious stuff. We live in a time where Jesus is talked about constantly, and kind of shaped into our own image.
+
+👤 あなた [1674s - 1686s]
+He's referenced in political speeches. He is invoked in cultural debates. He is appropriated by nationalist movements. He's kind of discussed in podcasts.
+
+👤 あなた [1687s - 1698s]
+He's reshaped in documentaries. And often, 's reduced. He's a reduced Jesus. He's a moral teacher. He's a social reformer. He's a political symbol.
+
+👤 あなた [1699s - 1728s]
+Maybe a spiritual guide. But a reduced Jesus cannot save anyone because it's not the real Jesus. And sometimes, Jesus is distorted the other way. He he's lifted so high that he becomes untouchable, so divine that he does not really share in our weakness. God, Jesus really understand what us did what us like to suffer with temptation, sin, and doesn't know how how painful this will can be.
+
+👤 あなた [1729s - 1739s]
+He's he's elevated beyond our struggles. And our fight against sin. And that's not the Jesus of scripture either. John says test it.
+
+👤 あなた [1740s - 1751s]
+Listen carefully. Examine the confession. Examine what the voice is listening to is telling you about who Jesus is because if we get him wrong, we trust it in a different savior who can't save.
+
+👤 あなた [1754s - 1779s]
+So what does this actually look like? What does a wrong Jesus sound like? Let me show you two common distortions. What the reason So next the next two questions is kind of like, why do the redeemer need to be truly human and why do the redeemer need to be truly god? So I'm trying trying to avoid getting into that today. So if you're wondering what all that means. So let me show you two common distortions, and you will recognise them.
+
+👤 あなた [1780s - 1797s]
+Firstly, Jesus is reduced to a moral teacher. A kind of a a a wise person that we that we commit to follow his teachings and that's that's the end of it. And this is everywhere. This is the version of Jesus that sounds great. He's he's he's followed.
+
+👤 あなた [1797s - 1810s]
+He's admired. He he he is he is what have I put here? Proclaims. Jesus shows us how to love. Jesus reveals God's heart to us.
+
+👤 あなた [1810s - 1814s]
+He challenges injustice. He welcomes the outsider.
+
+👤 あなた [1817s - 1839s]
+But he's not worshipped. He's not obeyed. Who has had the displeasure of coming across a guy called Brandon Robertson? He's, he seems like a nice guy, to be fair to him, but he describes himself as a progressive Christian And my my issue with him is not so much that. It's it's this. Let me play you a clip.
+
+👤 あなた [1840s - 1849s]
+Listen to what listen to what he says about Jesus. He's asked the question, in thirty seconds, who is Jesus? Listen to listen to his answer.
+
+🎤 SPEAKER_10 [1853s - 1871s]
+My life to whose vision teachings and message I try to proclaim to the world. Encourage others to follow as well because I believe it needs to abundant life, redemption, and restoration of individual lives and our world. As far as what Lord means, we can get into that later, but that's my summary.
+
+👤 あなた [1872s - 1874s]
+Let me play that one more time because it was bit quiet, wasn't it?
+
+🎤 SPEAKER_10 [1874s - 1889s]
+I would say Jesus is Lord. He is the one whom I seek to conform my life to, whose vision teachings message I try to proclaim to the world and encourage others to follow as well because I believe it leads to abundant life, redemption, and restoration of individual life and of our world.
+
+🎤 SPEAKER_2 [1889s - 1891s]
+That's sort of one more means So he says, Jesus is Lord, is the one whom I seek to conform my life to.
+
+👤 あなた [1901s - 1911s]
+Whose vision, teachings, and message I proclaim to the world. I encourage others to follow him because he leads to abundant life, redemption, and restoration of individuals and of our world.
+
+👤 あなた [1912s - 1921s]
+Now to the untrained dear, that sounds quite a quite a nice summary in some ways. They sound Christian. They sound even Jericho even. But listen.
+
+👤 あなた [1921s - 1930s]
+Carefully to what he he's not saying. He's he uses what we call orthodox words but he has a different thesaurus. They mean different things.
+
+👤 あなた [1931s - 1942s]
+Jesus is Lord. What does he mean by this? You get that from the clip. But well, in historic Christianity to confess Jesus as Lord is what?
+
+👤 あなた [1943s - 1953s]
+He is has divine authority. He's the second person of the Trinity. He divine he defines truth. He rules over salvation, conscious and ethics.
+
+👤 あなた [1954s - 1963s]
+Whereas Robertson's framework is law does not mean that. He For Robertson, that Jesus isn't the eternal son to be worshipped.
+
+👤 あなた [1963s - 1980s]
+He isn't the final authority He isn't god. He isn't a savior who delivers from our sins. We don't need saving from our sins. Instead, the lord becomes something like this. He's a teacher whose values I broadly admire and choose to align with.
+
+👤 あなた [1981s - 1987s]
+That's not lordship in any biblical sense. I seek to conform my life to him and that's it.
+
+🎤 SPEAKER_4 [1987s - 1988s]
+That's the limit.
+
+👤 あなた [1989s - 1997s]
+Notice this shift. Jesus is not the one who saves. He's not the one who forgives sin. He's not the one whom we trust to reconcile, to god.
+
+👤 あなた [1997s - 2018s]
+Is the one I choose to conform with, example I choose to follow. Jesus is a moral teacher, but not a perfect one. For Robertson, Jesus made mistakes. Jesus was sinful. He misunderstood the god of the old testament. He he he had some good things about that we should follow, but he was a falling human like us. That's Robinson's Jesus.
+
+👤 あなた [2020s - 2032s]
+And in some ways, to the outside, Robertson's vision is of Jesus as quite inspiring. He's he's loving. He's meaningful. He's a good human for us to emulate after, and the world would be a better place for it.
+
+🎤 SPEAKER_0 [2075s - 2080s]
+So this is so that was on a cut
+
+🎤 SPEAKER_0 [2080s - 2085s]
+Shaun McDowell's YouTube channel. I don't know if any of you know Shaun McDowell. He seems like a nice guy. was his own answer to this impression.
+
+🎤 SPEAKER_1 [2090s - 2092s]
+No, it's a This This was his So I'm gonna give you my thirty second take on Jesus.
+
+🎤 SPEAKER_2 [2092s - 2113s]
+You give me yours. Okay? Jesus is the second person in Trinity, fully divine, who takes on human flesh, born by Mary with age, sinless life, died on the cross for our sins, and offers us eternal life, it looks at through faith by his grace.
+
+🎤 SPEAKER_3 [2114s - 2136s]
+Go. I would say Jesus is the one whom I seek to conform my life to whose vision, teachings, and message I try to proclaim to the world, and encourage others to follow as well. Decided we the peace to abundant life's redemption restoration of individual lives and of our world. As far as one Lord means, you've been as a leader, but that's my thought.
+
+👤 あなた [2137s - 2148s]
+So at this point, Jesus becomes functionally indistinguishable, really, from any other spiritual guru. Or prophetic teacher or wise man or whatever word you want to use, sage.
+
+👤 あなた [2149s - 2152s]
+Which is exactly how every other religion treats its founder.
+
+👤 あなた [2155s - 2171s]
+Jesus points us to God. Jesus gestures gestures. Yeah. That's the right word, actually. Just is towards truth. I was thinking of a court jester for some reason then. That was but Jesus kind of jesses us at truth. Jesus helps us imagine a better world, basically.
+
+👤 あなた [2172s - 2178s]
+But he's not the way to God. He's not the truth. He doesn't save us. He's just he's an example for us to follow.
+
+👤 あなた [2182s - 2196s]
+For Robertson, Jesus salvation is about social liberation and psychological healing. He plays down sin, Jesus' authority to judge, and sees him as a social revolutionary.
+
+👤 あなた [2198s - 2210s]
+So in no sense can we say that Brandon is what historically is known as a follower of Jesus really. Christian, belonging to Christ, And he must be renounced as a false teacher.
+
+👤 あなた [2212s - 2227s]
+In need of saving. The only the only value you'll get out of watching anything from this this seemingly nice guy is to to see how wrong he is. Sharpen your sharpen yourself. But don't allow you be careful who you invite to be a voice in your life.
+
+👤 あなた [2227s - 2239s]
+It's a reason why the bible describes false teachers as what? Sheep's clothing. If they were easy to spot, the sheep would run away from the wolves easily.
+
+👤 あなた [2239s - 2254s]
+But they come disguised. They look they 90% truth, 10% heresy that leads you to death. Jesus, Brandon's Jesus doesn't reconcile. He he teaches. He he doesn't rule. He guides.
+
+👤 あなた [2255s - 2267s]
+He's a prophet of love, but not the eternal son of god. Not the one whom all the fullness of deity dwells bodily as Paul describes in Colossians. He's not the word who was with god and was god.
+
+👤 あなた [2268s - 2281s]
+Just a remarkable human being. If Jesus is only human, even a perfect human, he can't in he can he can inspire you but he can't reconcile you.
+
+👤 あなた [2281s - 2292s]
+To god because he's just like us, broken, fallen, sinful human. All of us are the same. He can show you the way, but he cannot be the way.
+
+👤 あなた [2293s - 2303s]
+He can model love, but he can't forgive your sin. Reduced Jesus cannot save you. He is not truly god. You're still separated from god.
+
+👤 あなた [2304s - 2312s]
+No amount of admiration of a moralistic teacher will will bridge that gap. But here's another distortion, bit quicker this time.
+
+👤 あなた [2313s - 2315s]
+This one sounds more spiritual.
+
+👤 あなた [2320s - 2322s]
+I don't think I have a slide for it.
+
+👤 あなた [2325s - 2332s]
+This one sounds more spiritual, more reverent, more churchy. It sounds like this. Jesus is god, so he wasn't really tempted like we are.
+
+👤 あなた [2334s - 2342s]
+He didn't really struggle. He didn't really feel or understand my weakness. He doesn't know what it's like to be me. He's god, and I'm just a sinful man.
+
+👤 あなた [2342s - 2351s]
+Looked human, but that was only an appearance. Was a facade really. Jesus is god, so and he only appeared human. He wasn't truly human.
+
+👤 あなた [2352s - 2367s]
+In this version, Jesus is so divine that his humanity becomes thin like a mask. That's last Christmas when Rachel and I took the kids to go and watch a film, there's a film in the cinema, like animated film, Jesus, son of god or something.
+
+👤 あなた [2367s - 2374s]
+Something like that. It was the story of Jesus. It was a beautifully done it looked wonderful. It was really nice. Was the gospel was retold essentially.
+
+👤 あなた [2375s - 2385s]
+But the Jesus in that in that film, he seemed very inhuman. You watched it, did anyone else watch that film? No. Easter. It might have been.
+
+👤 あなた [2385s - 2399s]
+Yeah. Jesus, he seemed very, like, etheral. He floated around almost. He didn't have any emotion. He seemed a bit from those around him. And he's he seemed not really that human.
+
+👤 あなた [2399s - 2417s]
+Really. He kinda like kind of like this other this other like an alien that's come to earth kind of thing. And no surprise, I discovered after watching it that the production company that put it on was actually the Mormon church. They financed it. And actually that fits really well with the Mormon Jesus.
+
+👤 あなた [2417s - 2428s]
+Because the Mormon Jesus is not really truly human either. But there we are. So you've got he becomes untouchable, but scripture will not allow that view of Jesus.
+
+👤 あなた [2428s - 2444s]
+Jesus Christ has come in the flesh, John says. In the flesh. Not in an appearance, not in a disguise. Not in some sort of fake projection. Jesus really came and took a flesh. In fact, Hebrews, the right of Hebrews put it this way, He was made like his brothers in every respect.
+
+👤 あなた [2446s - 2454s]
+Not in some respect, in every respect. Which means real hunger, real extortion, real sorrow, real temptation, real suffering.
+
+👤 あなた [2456s - 2467s]
+If Jesus is not truly human, he cannot sympathize with you. Praise god you've got somebody that can sympathize with you. He cannot stand for you in your place.
+
+👤 あなた [2467s - 2488s]
+He cannot represent you because he's not like us. He can't represent humanity if he's not human. You cannot relate to him. He becomes distant. He, he he he is so distant that we can't connect with him. It's but we're reducing Jesus on the other side.
+
+👤 あなた [2491s - 2498s]
+No matter how you dilute Jesus' Jesus either of humanity or his deity, you're left with a different savior.
+
+👤 あなた [2504s - 2520s]
+Paul says plainly, this is not from god. That's why the church has always insisted, fully God, fully man, not fifty fifty, not a not a metaphor, the eternal son who truly entered our humanity added humanity to himself.
+
+👤 あなた [2524s - 2542s]
+Our salvation depends on who Jesus is. Not just what Jesus did. And if we allow trends and influencers and even our own preferences to reshape him, we are not adjusting a minor detail. We are abandoning only redeemer who can actually save.
+
+👤 あなた [2546s - 2555s]
+So how what does this mean? What's the take rate we share? What's I amen to all that. What's the takeaway? Do not believe every spirit, but test them.
+
+👤 あなた [2557s - 2578s]
+That means discernment for us as Christians is not optional. You don't we don't outsource this to the pastor to be discerning on behalf of us all. That's literally impossible, by the way, in the in the modern day with YouTube with all the voices that can come through. We want to be wise. We want to be discerning.
+
+👤 あなた [2579s - 2591s]
+Next time you scroll through whatever social media you use, and you come across a reel, Next time you hear someone say, Jesus would never or Jesus was like this.
+
+👤 あなた [2592s - 2602s]
+Slow down. Pause. Ask one simple question. May not find it in that answer in that video, but ask this question. Who is the Jesus being described?
+
+👤 あなた [2604s - 2617s]
+Is he confessed as fully god? Is he confessed as fully human? Is he treated as the eternal son? You need a theology degree. To do that, or you're not learning this catechism to win.
+
+👤 あなた [2618s - 2628s]
+Theological arguments. I don't want us to be, you know, keyboard warriors on on YouTube, get into arguments online. That is to guard ourselves and to proclaim the true Christ.
+
+👤 あなた [2629s - 2640s]
+That's why creeds are important. That's why statement of faith are important. When you join a church when you join our church, my hope would be that you'd go would've gone on our website and thought, what's this church believe about Jesus?
+
+👤 あなた [2641s - 2649s]
+What's this church believe about the Trinity? What's this believe about redemption or justification? All these things. It's on there.
+
+👤 あなた [2651s - 2664s]
+Any voice that you allow to speak into your life, be that YouTube, podcast, books, Find out what they believe. Do they affirm affirm orthodox mainstream Christian doctrine, if I can put it like that.
+
+👤 あなた [2673s - 2676s]
+This matters to the parents in the room as well and how you bring up your children.
+
+👤 あなた [2681s - 2691s]
+If your children grow up hearing a Jesus is mostly a moral teacher, focusing on on his wonderful moral teachings. They'll admire him.
+
+👤 あなた [2692s - 2704s]
+But they need to see who Jesus is to trust him. If they grow up hearing a Jesus is holy and untouchable, you know, children will remain to approach.
+
+👤 あなた [2706s - 2725s]
+But if they see the true Christ fully god, fully man, who is both near and sovereign, who is both gentle and authoritative, they all know the redeemer that they actually need. That's the question. What kind of redeemer do we need to be reconciled to god?
+
+👤 あなた [2726s - 2739s]
+This also protects Evan in this room too. When you pray in weakness, are not speaking to a distant unloving deity. You're speaking to a Jesus who became like us.
+
+👤 あなた [2741s - 2752s]
+Who knows all of our struggles, When you confess your sin you are not hoping a moral teacher will nod in approval. Yes. Yes. I can you're trusting the eternal son.
+
+👤 あなた [2753s - 2758s]
+Has the authority to forgive and made the way to forgive your sin. For one once and for all.
+
+👤 あなた [2762s - 2772s]
+You are not alone in your struggle The one who intercedes for you with the father walked in human flesh. He felt hunger. He felt sorrow.
+
+👤 あなた [2773s - 2794s]
+He felt loss. He felt rejection. And yet the one who intercedes for you now is also the lord of glory. Seated at the right hand of the father, holding all the authority, So affirming this doctrine, this truth and knowing it in your life, it can shape your prayer.
+
+👤 あなた [2796s - 2800s]
+Because you know who you're talking to. And can affect your worship.
+
+👤 あなた [2805s - 2806s]
+I'm doing well. My slide today.
+
+👤 あなた [2817s - 2822s]
+Time time is time is gone. I'd to stand, I'm I'm gonna pray.
+
+👤 あなた [2825s - 2829s]
+Hannah, do wanna come up and start playing for us?
+
+👤 あなた [2838s - 2856s]
+Isn't it wonderful that Jesus is who he is? If you heard this morning and you feel in weighed down by your by your sin, Know that you have a savior that was tempted with sin yet never sinned. But he was tempted, truly tempted.
+
+👤 あなた [2856s - 2866s]
+He knows and he is compassionate. He he experienced everything we experienced growing up as a child, probably falling over, grazing his knee. That's a guess.
+
+👤 あなた [2866s - 2875s]
+Imagine that may have happened. He lost people he loved. He knows what it's like to be us.
+
+👤 あなた [2879s - 2893s]
+Yet he is the eternal son of god. Forever interceding on our behalf. He loves us, and in fact, great great swim and swims we'll do one day probably in this church is to see the the appearances of Christ in the Old Testament.
+
+👤 あなた [2895s - 2906s]
+Theophanies, I think they're called. The angel of the Lord. And how he intercedes and on behalf of of humans even then, but we'll get to that. He knows You can trust him.
+
+👤 あなた [2909s - 2922s]
+Jesus, we adore you. We admire you. We love you. We submit our lives to you. As the Lord of Glory. You are not just our teacher. You are our teacher. We aim we do aim to follow your commands.
+
+👤 あなた [2924s - 2932s]
+Because we love you, we'll follow your commands, but you're more than that. More than a teacher. You are our Lord. You are our savior, and we love you.
+
+👤 あなた [2933s - 2953s]
+Help us, God, treasure this truth revelation given to us by your holy spirit. Into your words. May we guard it, protect it fiercely, help us holy spirit to teach our children that we have a redeemer that understands us who is like us, but also is all powerful.
+
+👤 あなた [2955s - 2957s]
+All loving, eternal.
+
+👤 あなた [2962s - 2975s]
+If you're here today, and you have yet to submit your life to Jesus as the Lord of your life, the one whom more than you just follow the one that you trust to save you.
+
+👤 あなた [2978s - 2983s]
+To reconcile you to God, That's you today. Why don't you today make that say that prayer?
+
+👤 あなた [2987s - 3000s]
+Thank you that you like us, but also that you are like God. You are God. Sorry. And I submit you as the lord of my life. I need you to save me. I can't save myself. There's no other human that can save us.
+
+👤 あなた [3001s - 3013s]
+There's no other way. There's only one way, and that was you. Coming taking on human flesh, reconciling us to the father. We we praise you.
+
+👤 あなた [3014s - 3040s]
+Love you. We're gonna worship together now. I'm gonna I'm gonna jump on the guitar. Look forward to Ben coming back soon to to lead worship for us. But if you want prayer for anything I've just spoken about, or anything else, Maybe you've had a tough week. Maybe you've got a tough week coming up. Maybe you you're carrying an injury or you want some prayer for anything at all.
+
+👤 あなた [3040s - 3053s]
+Come down the front and we'll together. Somebody will some of you will will come and pray with you. But don't delay. It's a wonderful thing to submit your life to the lordship of Christ.
+
+👤 あなた [3054s - 3057s]
+It's a wonderful thing, the best thing you can do. Let's worship together.
+
+🎤 SPEAKER_3 [3115s - 3118s]
+God, messiah, you.
+
+🎤 SPEAKER_3 [3157s - 3220s]
+Jesus my redeemer names precious lamb of god you Omi in glory, holy day.
+
+🎤 SPEAKER_4 [3345s - 3355s]
+Viven your spirit spirit and we're not bleeding together. Then we could call each other. So please feel free to do that. You know, if you need to go up on the web on the on the
+
+🎤 SPEAKER_4 [3365s - 3378s]
+Just please. Just use I always say use and abuse. Use and abuse in electricity and senses if the right way. You know? Don't answer somebody else's question before you ask them the question.
+
+🎤 SPEAKER_4 [3379s - 3389s]
+Ask them the question, and if they can do it for you, I'm sure we will. Lord, I praise and thank this morning that we do serve a risen savior.
+
+🎤 SPEAKER_4 [3391s - 3422s]
+You know, we have answered this for me. You have told us let's portray the real Jesus to the people of this world. In Jesus' name. Amen. Have a good week, guys.
+
+🎤 SPEAKER_4 [3424s - 3426s]
+And join together in other Get your hand up.
+
+👤 あなた [3432s - 3433s]
+Hold him.
+
+🎤 SPEAKER_5 [3433s - 3434s]
+Okay. Thank you.
+
+🎤 SPEAKER_4 [3439s - 3444s]
+Hola, John. Hey. Thank you. It's a cheap mess.
+
+👤 あなた [3444s - 3446s]
+Was it? Yeah. Yeah.
+
+🎤 SPEAKER_4 [3446s - 3449s]
+Thank you, man. I liked everything I've been reading this Is it?
+
+👤 あなた [3449s - 3451s]
+Is it? Hello, mate.
+
+🎤 SPEAKER_4 [3451s - 3451s]
+Seeing you.
+
+🎤 SPEAKER_2 [3451s - 3453s]
+How are you? You alright?
+
+🎤 SPEAKER_4 [3453s - 3455s]
+Yeah. Good. You're well? Alright.
+
+🎤 SPEAKER_3 [3455s - 3455s]
+Good.
+
+🎤 SPEAKER_4 [3455s - 3456s]
+Just about shaking that bug.
+
+🎤 SPEAKER_5 [3457s - 3458s]
+How are you? Yeah.
+
+👤 あなた [3458s - 3459s]
+Well done.
+
+🎤 SPEAKER_4 [3462s - 3476s]
+Okay. If you're wondering whether the system had to push hard, that speaker wasn't pushed in. The jack on the back pushed up? Wrap the whole thing? Yeah. I've just gone up and checked. Alright.
+
+👤 あなた [3476s - 3478s]
+Oopsie. It's alright. Oh, it was a this morning. Then. Yeah.
+
+🎤 SPEAKER_4 [3478s - 3480s]
+That's nice. Pleasure. Need any help.
+
+👤 あなた [3481s - 3492s]
+I I mean, I'll Hey. That's it. Intention of the rotor is that you meant not to. No. I'm So thank you, brother. Appreciate that. Yeah. But in some ways, yes, I've been good because we only start practicing at 22.
+
+👤 あなた [3492s - 3500s]
+And because just the sheer amount of setup needed. But but equally, what's more important is everyone gets to just turn up. Let's start the service.
+
+🎤 SPEAKER_4 [3500s - 3504s]
+You know? Decorate it with. Yeah.
+
+👤 あなた [3506s - 3507s]
+Cheers, Dave.
+
+🎤 SPEAKER_6 [3507s - 3513s]
+This is your big it's your sister. Here. We have a a x a eight eight Oh, nice. A tablet.
+
+🎤 SPEAKER_4 [3514s - 3515s]
+Alright. Yeah. Sorry.
+
+👤 あなた [3515s - 3516s]
+I've seen a lot of churches did that.
+
+🎤 SPEAKER_6 [3516s - 3524s]
+It it it helped most because there's a lot of the technical stuff. You can't change you still can't change it. Yeah.
+
+👤 あなた [3526s - 3528s]
+To make up close to There's a few churches I've noticed that. Yeah.
+
+🎤 SPEAKER_6 [3529s - 3532s]
+Well, There's a couple of grand. Yeah. And, yeah, we've Yeah.
+
+👤 あなた [3537s - 3537s]
+It is. Yeah.
+
+🎤 SPEAKER_6 [3537s - 3539s]
+But, I mean, you can use it with pastas.
+
+🎤 SPEAKER_3 [3539s - 3542s]
+Oh, yeah. When you we have to play with power speakers.
+
+👤 あなた [3542s - 3543s]
+Oh, yeah.
+
+🎤 SPEAKER_6 [3543s - 3546s]
+But because the room is a bit it'd be just a little bit bigger than this.
+
+👤 あなた [3546s - 3554s]
+Do you know what? Richard just came up to me and said, that speaker plugged The jack cable didn't go so that's what everything was coming out of window. Yeah. Unfortunately, a bit Yeah.
+
+🎤 SPEAKER_6 [3555s - 3563s]
+But it didn't sound bad. Came out. Mean, you're doing amazing. In terms of when you go to room like this and Yeah. You get overpowering quite easily.
+
+👤 あなた [3564s - 3567s]
+You got an interesting you you you can do a bit of sounds?
+
+🎤 SPEAKER_6 [3567s - 3572s]
+I'll do it I'll do it back in in Bellingham. Oh, yeah. I mean, I'm one of one of the two.
+
+👤 あなた [3572s - 3573s]
+Oh, Yeah.
+
+🎤 SPEAKER_6 [3573s - 3581s]
+There's guys who who like Oh, pretty. I'm pretty this is top system Yeah. Allows somebody who's not Yeah.
+
+👤 あなた [3583s - 3585s]
+Well, I wonder if we if we could adapt that one to have something like that.
+
+🎤 SPEAKER_7 [3585s - 3586s]
+Probably not.
+
+👤 あなた [3586s - 3587s]
+Because it's not digital. You wouldn't need this.
+
+🎤 SPEAKER_6 [3587s - 3592s]
+No. You you would wear the amplifier over there.
+
+🎤 SPEAKER_7 [3592s - 3592s]
+Right? Yeah. Yeah.
+
+🎤 SPEAKER_6 [3593s - 3598s]
+So, yeah, you just plug it into the Oh, no. Interesting. It's it's an envelope in itself.
+
+🎤 SPEAKER_7 [3598s - 3598s]
+So Oh, yeah.
+
+🎤 SPEAKER_6 [3598s - 3603s]
+Works. Classic. Yeah. I wanna speak if if you want.
+
+🎤 SPEAKER_7 [3603s - 3614s]
+Yes. Yeah. Yeah. Oh, no. No. Well, I'm hoping I'm hoping that we won't be in this room, Raymond. Well, we're praying. We're Yeah. We've been trying to find we've been putting office in all sorts of different places, but No.
+
+🎤 SPEAKER_6 [3614s - 3617s]
+But it the thing is, if it's not broken, don't fix it.
+
+🎤 SPEAKER_7 [3618s - 3619s]
+Yes.
+
+👤 あなた [3619s - 3620s]
+You know, then that's Well, it's also a butchery issue as well probably.
+
+🎤 SPEAKER_7 [3620s - 3622s]
+Exactly.
+
+🎤 SPEAKER_6 [3622s - 3625s]
+That's I mean, you've you've done about six years like this as well.
+
+🎤 SPEAKER_7 [3625s - 3634s]
+Yeah. There's a go. We were six of us in our front roof started off with a system just like that. Yeah. Yamaha. Is that right? Yeah. You know, it's got a thing in the back of them. Channels. Yeah.
+
+🎤 SPEAKER_6 [3635s - 3636s]
+Never had one of these.
+
+🎤 SPEAKER_7 [3636s - 3642s]
+Well, this is that was the big upgrade for us a few years ago. In the back of that speaker, can you see us it's got a lot of excitement? That's it. The same thing.
+
+🎤 SPEAKER_4 [3642s - 3643s]
+Yeah.
+
+🎤 SPEAKER_7 [3643s - 3648s]
+Which you can you can pull it out of You can remove it and have it. It's the sort of like Yeah.
+
+🎤 SPEAKER_6 [3648s - 3649s]
+Go to choice blenders.
+
+🎤 SPEAKER_7 [3649s - 3651s]
+Edit? It works.
+
+🎤 SPEAKER_6 [3651s - 3651s]
+Open it as Yeah.
+
+🎤 SPEAKER_7 [3652s - 3653s]
+Exactly.
+
+🎤 SPEAKER_6 [3653s - 3653s]
+Too much power.
+
+🎤 SPEAKER_7 [3653s - 3657s]
+No. No.
+
+👤 あなた [3657s - 3660s]
+And also another consideration for us is set up every Sunday. Yeah.
+
+🎤 SPEAKER_7 [3660s - 3666s]
+What I said to the guys is that the needs to be quick because Of course. Is that right? Yeah. Yeah. We we have to do it We're fine.
+
+🎤 SPEAKER_6 [3666s - 3669s]
+I believe it. We've been there five years in June.
+
+🎤 SPEAKER_7 [3670s - 3671s]
+Is that right? Yes. Wow.
+
+🎤 SPEAKER_5 [3671s - 3672s]
+Wow.
+
+🎤 SPEAKER_7 [3672s - 3673s]
+Yeah.
+
+🎤 SPEAKER_6 [3674s - 3681s]
+So and and we're we're kinda getting to this place with the venue. It's like a hall. It's a little bit bigger than this. Mhmm. So The is very
+
+👤 あなた [3681s - 3681s]
+Yeah.
+
+🎤 SPEAKER_6 [3682s - 3690s]
+And I think we do amazing. I probably went for the excerpt. Kind of It's very user friendly and it's you know Hi, Cynthia.
+
+🎤 SPEAKER_7 [3691s - 3693s]
+Hi. How are you?
+
+🎤 SPEAKER_8 [3693s - 3695s]
+Good. Thank you.
+
+🎤 SPEAKER_7 [3695s - 3703s]
+And I'll get We've met one. South Africa. Oh, yeah. We're looking forward to it. Yes. Looking forward to it. Everyone's laughing because they know, historically, in the past, had bit of a fear of flying, but I'm Okay.
+
+🎤 SPEAKER_7 [3705s - 3709s]
+God's help me through that. That's probably why they they love the eleven hours, mate.
+
+🎤 SPEAKER_5 [3709s - 3710s]
+I know.
+
+🎤 SPEAKER_7 [3710s - 3712s]
+Well, I've been I went to Paulo. It was my first ever flight.
+
+🎤 SPEAKER_4 [3712s - 3714s]
+Done it a few times.
+
+🎤 SPEAKER_7 [3714s - 3715s]
+Suggested.
+
+🎤 SPEAKER_6 [3715s - 3716s]
+You got him. You got him. Him.
+
+🎤 SPEAKER_7 [3717s - 3719s]
+No. We're good. We're doing BA. From he's a road.
+
+🎤 SPEAKER_6 [3719s - 3720s]
+Straight there.
+
+🎤 SPEAKER_7 [3720s - 3721s]
+Straight there?
+
+🎤 SPEAKER_6 [3721s - 3724s]
+Yeah. So that's good. Because they don't have anywhere to stop.
+
+🎤 SPEAKER_7 [3724s - 3725s]
+Well, Steven Jack's booked it all for us, actually.
+
+👤 あなた [3725s - 3728s]
+So and he's there's it all the time on all the time, but he's left them back to Joeburg and everything.
+
+🎤 SPEAKER_7 [3731s - 3732s]
+So he just booked the for us. Was him.
+
+🎤 SPEAKER_6 [3734s - 3739s]
+And we just set up. Into bike rages and goes Emirates there. A lot of people work for Emirates.
+
+🎤 SPEAKER_7 [3739s - 3740s]
+Is that right?
+
+🎤 SPEAKER_6 [3740s - 3745s]
+Yeah. So it's became the stopover place, and it's become the Yeah. Would say the pop.
+
+🎤 SPEAKER_7 [3746s - 3749s]
+Is that right? The world sort of Is that right? Yeah.
+
+🎤 SPEAKER_6 [3749s - 3754s]
+Where would you say about Central Place? Is it Jobo? Still or is it?
+
+🎤 SPEAKER_7 [3756s - 3757s]
+Yeah. No.
+
+👤 あなた [3758s - 3760s]
+It's it's a very regionalized impact. Okay.
+
+🎤 SPEAKER_6 [3761s - 3761s]
+So Good microphone.
+
+🎤 SPEAKER_7 [3762s - 3765s]
+Yeah.
+
+👤 あなた [3766s - 3769s]
+So in the sense that my only real experience realistic experience with Advance is The UK and Europe.
+
+🎤 SPEAKER_7 [3769s - 3771s]
+We say Europe, we've got two churches in Europe, three now, actually.
+
+👤 あなた [3772s - 3779s]
+But mainly, it's UK. And and so we don't have as much input on the global I mean, the global team, Alan Frou, you familiar with Alan No.
+
+🎤 SPEAKER_7 [3780s - 3787s]
+Alan No. It's fine. He's well, he's just he's begun the point version. PJ's guy. Yeah.
+
+🎤 SPEAKER_6 [3788s - 3795s]
+Yeah. He actually he actually Oh, nice. Well, as you said, why are you cooking up in it?
+
+🎤 SPEAKER_4 [3795s - 3796s]
+Because all the kids are doing the sit in their exams.
+
+🎤 SPEAKER_7 [3800s - 3801s]
+Yeah. Yeah.
+
+🎤 SPEAKER_6 [3803s - 3803s]
+Right.
+
+🎤 SPEAKER_7 [3803s - 3805s]
+But it's a place. Oh, I see.
+
+🎤 SPEAKER_6 [3805s - 3811s]
+Walking the door. Yeah. Right. Wow. They could take their exams in Oh, wait. Oh, I see.
+
+🎤 SPEAKER_7 [3811s - 3812s]
+Yeah. Yeah.
+
+🎤 SPEAKER_6 [3812s - 3814s]
+So we I'm still back here. Alright. So Yeah.
+
+🎤 SPEAKER_7 [3815s - 3820s]
+That was in that was in where was that? That was you you were in Africa for 04:00?
+
+🎤 SPEAKER_6 [3820s - 3824s]
+We in the we were in the free state, so was doing my three hours. Right.
+
+🎤 SPEAKER_5 [3824s - 3825s]
+Okay.
+
+🎤 SPEAKER_6 [3825s - 3831s]
+And Steve Oliver Yeah. Who became Beyond Guy. It was just a church company normal guy.
+
+🎤 SPEAKER_7 [3832s - 3832s]
+Oh, yeah.
+
+🎤 SPEAKER_5 [3835s - 3837s]
+Apostolic gift card. Yeah.
+
+🎤 SPEAKER_7 [3838s - 3845s]
+Amazing. Yeah. It's it. Yeah. What's your new stories from places? Yeah. Well, that'd be good. That will be good. I would love to hear that. I'm gonna put this this in the box.
+
+👤 あなた [3846s - 3847s]
+Great. Thank you.
+
+🎤 SPEAKER_10 [3847s - 3848s]
+You got a box?
+
+🎤 SPEAKER_7 [3849s - 3856s]
+We have on the yeah. We're like a great box. John. Mate. Dave, mean. Sorry. It's Dave, isn't it? Not David's or Dave? Dave is fine.
+
+🎤 SPEAKER_7 [3856s - 3860s]
+Dave, look forward to catch up some more. Dan. Hello.
+
+👤 あなた [3860s - 3870s]
+Right. Sorry, my friends. That's alright. So what's your general adaptability like in terms of you work every day or do you Yeah. Good. Is that in Barry or Yeah.
+
+🎤 SPEAKER_4 [3872s - 3873s]
+Well, yeah, usually working.
+
+🎤 SPEAKER_7 [3873s - 3875s]
+Alright. Alright.
+
+🎤 SPEAKER_5 [3875s - 3875s]
+Okay.
+
+🎤 SPEAKER_7 [3877s - 3878s]
+That's fine. I don't mind.
+
+👤 あなた [3880s - 3882s]
+You get out do you have a do you give yourself a lunch break? Anything like that?
+
+🎤 SPEAKER_7 [3884s - 3885s]
+Or Or was that tricky?
+
+🎤 SPEAKER_7 [3887s - 3889s]
+It can depend on what's going on, though. Oh, yeah.
+
+👤 あなた [3891s - 3896s]
+Because I wonder I'm I I can do evenings, but we let they're left free, but that's I can make that. Can you make sense?
+
+🎤 SPEAKER_7 [3896s - 3900s]
+Yeah. I wanna prioritize. Some time with you and a bit of your story and what with you.
+
+👤 あなた [3902s - 3906s]
+When would be good what what when would be good for you generally on average average week?
+
+🎤 SPEAKER_7 [3908s - 3910s]
+It depends on what's going on.
+
+🎤 SPEAKER_5 [3921s - 3922s]
+Yeah.
+
+👤 あなた [3929s - 3944s]
+So well, if it's during the daytime, Wednesday lunch, but also evening, then probably Monday anytime in from whenever you're free in the evening Wednesday, kind of 07:30 onwards.
+
+🎤 SPEAKER_7 [3946s - 3950s]
+How about how about that? What's for Monday? Monday. Yeah. What time what time would be good for you?
+
+🎤 SPEAKER_3 [3961s - 3962s]
+Maybe whole pork Great.
+
+👤 あなた [3962s - 3965s]
+On that? Yeah. That's fine. That's okay.
+
+🎤 SPEAKER_7 [3965s - 3975s]
+I just forgot. So my younger is on an inset day tomorrow, I just remembered. So my wife gets home from work She'll get home from work about four past five. Yep.
+
+🎤 SPEAKER_7 [3976s - 3978s]
+So can we say, like, quarter to six?
+
+🎤 SPEAKER_9 [3978s - 3979s]
+Yep.
+
+🎤 SPEAKER_7 [3979s - 3988s]
+Is that right? Normally, that'd alright. And we're doing it with I can I normally meet people in Starbucks? Would that work for you or no?
+
+🎤 SPEAKER_7 [3989s - 3994s]
+Which one Standby It's do you know where the Morrison's is?
+
+🎤 SPEAKER_10 [3994s - 3995s]
+Yeah.
+
+🎤 SPEAKER_7 [3996s - 3997s]
+It's in the car park of the Morrison's.
+
+🎤 SPEAKER_2 [3997s - 3998s]
+Okay.
+
+🎤 SPEAKER_7 [3999s - 4008s]
+Is that right? Yep. That's fine. And then I will, you know, spend an hour or something. That'd be good. Is that okay? Thanks, Dan. Look forward to it.
+
+🎤 SPEAKER_7 [4008s - 4010s]
+Good to see you. Thanks for coming back. Yeah. Good to see you.
+
+🎤 SPEAKER_7 [4027s - 4028s]
+You're right, guys. I'm I'm with you tomorrow then.
+
+🎤 SPEAKER_5 [4028s - 4029s]
+01:00.
+
+🎤 SPEAKER_6 [4029s - 4030s]
+Yeah. Yeah.
+
+🎤 SPEAKER_11 [4030s - 4032s]
+Is that okay? Yeah. Yeah. Yeah. Good. Absolutely cracking this morning.
+
+🎤 SPEAKER_7 [4032s - 4034s]
+Was it? Oh, good.
+
+🎤 SPEAKER_2 [4036s - 4037s]
+Was it it was a master class, right, in the salmon.
+
+🎤 SPEAKER_10 [4037s - 4037s]
+Oh.
+
+🎤 SPEAKER_7 [4039s - 4044s]
+Never I always get a bit worried about these theological ones because they they can just be like, so what? You know, kind of thing.
+
+🎤 SPEAKER_4 [4044s - 4050s]
+No. Know, it's something I've never actually heard preached right back.
+
+🎤 SPEAKER_10 [4050s - 4051s]
+Okay. No.
+
+🎤 SPEAKER_6 [4051s - 4051s]
+Brilliant.
+
+🎤 SPEAKER_7 [4051s - 4060s]
+Thank you, man. I've re I that means a lot, man. Appreciate that. You always like it. Anyway, You labor over something and Yeah. You never know where was was gonna land, but there we are. No.
+
+🎤 SPEAKER_6 [4061s - 4062s]
+That was good. Thanks.
+
+👤 あなた [4062s - 4062s]
+Brother.
+
+🎤 SPEAKER_4 [4062s - 4063s]
+Really good.
+
+🎤 SPEAKER_7 [4063s - 4064s]
+I've got it recorded.
+
+🎤 SPEAKER_5 [4065s - 4066s]
+So I've done
+
+👤 あなた [4066s - 4066s]
+Excellent.
+
+🎤 SPEAKER_11 [4066s - 4068s]
+I'll spend a rush. No rush, man.
+
+🎤 SPEAKER_7 [4068s - 4068s]
+Honestly.
+
+🎤 SPEAKER_11 [4068s - 4069s]
+No.
+
+🎤 SPEAKER_5 [4069s - 4069s]
+Come on.
+
+🎤 SPEAKER_9 [4069s - 4069s]
+It's an afternoon.
+
+🎤 SPEAKER_7 [4070s - 4070s]
+No.
+
+🎤 SPEAKER_10 [4070s - 4076s]
+No. No. No. I No. I stayed actual five this morning. Stay away. Get now.
+
+🎤 SPEAKER_11 [4079s - 4079s]
+I So that's Dan.
+
+🎤 SPEAKER_6 [4079s - 4080s]
+You go.
+
+🎤 SPEAKER_7 [4081s - 4084s]
+I noticed his jacket. He had a he had a do you see it?
+
+🎤 SPEAKER_10 [4084s - 4087s]
+Yeah. Union with the Yeah.
+
+👤 あなた [4087s - 4087s]
+Yeah.
+
+🎤 SPEAKER_7 [4088s - 4089s]
+So maybe that maybe that was
+
+🎤 SPEAKER_11 [4090s - 4090s]
+Yeah.
+
+🎤 SPEAKER_10 [4090s - 4094s]
+It's it's weird because, I mean, I haven't had I often dream.
+
+🎤 SPEAKER_5 [4094s - 4094s]
+I used to have pictures.
+
+🎤 SPEAKER_10 [4094s - 4096s]
+Now I dream, apparently. I'm old
+
+🎤 SPEAKER_5 [4096s - 4097s]
+enough.
+
+🎤 SPEAKER_7 [4098s - 4100s]
+Omi, what's the what's the what's the what's old man dream dreams?
+
+🎤 SPEAKER_11 [4100s - 4100s]
+Yeah.
+
+🎤 SPEAKER_10 [4100s - 4102s]
+Men will see visions. Old men will dream dreams.
+
+🎤 SPEAKER_11 [4106s - 4108s]
+Me, that is shade, that isn't it? That that is shade.
+
+🎤 SPEAKER_10 [4110s - 4118s]
+The game is weird, and I I I thought, well, you know, it's not an encouraging message to kinda say, hey.
+
+🎤 SPEAKER_11 [4118s - 4119s]
+You know, I don't hope you mind.
+
+🎤 SPEAKER_10 [4119s - 4132s]
+I I I Yeah. The Lord gave me a dream of you last night. He he said, Yeah. But I thought, actually, it's weird. If if that's the case, and I've been praying about a doggy. Yeah. If that's the case, then maybe it's something is carrying.
+
+🎤 SPEAKER_5 [4132s - 4134s]
+Yeah.
+
+🎤 SPEAKER_7 [4134s - 4135s]
+Pups of guilt are something.
+
+🎤 SPEAKER_5 [4135s - 4135s]
+Yeah.
+
+🎤 SPEAKER_10 [4135s - 4137s]
+That god actually wants to Yeah.
+
+🎤 SPEAKER_7 [4137s - 4143s]
+That's really all I'll use that caffeine wising just Oh, yeah. I mean, it might it might be.
+
+🎤 SPEAKER_7 [4146s - 4148s]
+As is often the case with Yeah.
+
+🎤 SPEAKER_10 [4149s - 4151s]
+Minimize too much cheese. You know, hate the spirit. Could be.
+
+🎤 SPEAKER_5 [4151s - 4154s]
+Could be. Be.
+
+🎤 SPEAKER_7 [4154s - 4156s]
+Right. Is it just the two of guys tomorrow?
+
+🎤 SPEAKER_10 [4156s - 4164s]
+Yeah. Just just the two of us tomorrow. And and, yeah, we're not sure where you'll be doing next Sunday because it will actually be the second anniversary next Sunday.
+
+🎤 SPEAKER_11 [4164s - 4165s]
+Yeah. Okay.
+
+🎤 SPEAKER_10 [4165s - 4173s]
+We we may just stay in and You might Trump. Might I might. Catherine's still out now, but I it might just be that If you want to.
+
+🎤 SPEAKER_7 [4174s - 4176s]
+No. Just see how you feel, guys.
+
+🎤 SPEAKER_6 [4176s - 4176s]
+See?
+
+🎤 SPEAKER_7 [4176s - 4187s]
+See how you feel. I'll be over tomorrow, and I have done one in the past, but that was for my my who a Christian. I'm very much imagining this is a completely different flavor.
+
+🎤 SPEAKER_5 [4188s - 4189s]
+And it will be be yeah.
+
+🎤 SPEAKER_11 [4190s - 4190s]
+And And so you got you're very much be led by you guys.
+
+🎤 SPEAKER_7 [4190s - 4192s]
+We have no Yes.
+
+🎤 SPEAKER_10 [4192s - 4195s]
+Level of action. Expectation really. We just need Would you like it?
+
+🎤 SPEAKER_5 [4195s - 4197s]
+Would you like read a verse? Say a prayer?
+
+👤 あなた [4200s - 4202s]
+I'll be there completely by you guys.
+
+🎤 SPEAKER_7 [4202s - 4205s]
+So so so what so what you want? Thank you for asking me to be in love.
+
+🎤 SPEAKER_11 [4205s - 4205s]
+Yeah. Yeah.
+
+🎤 SPEAKER_10 [4205s - 4206s]
+Are you coming to us?
+
+🎤 SPEAKER_11 [4206s - 4208s]
+Yeah. Yeah.
+
+🎤 SPEAKER_7 [4210s - 4212s]
+Unless we we can meet someone.
+
+🎤 SPEAKER_10 [4212s - 4213s]
+Paintbrush and you can help.
+
+👤 あなた [4215s - 4217s]
+You get the D and D guys over an hour before.
+
+🎤 SPEAKER_5 [4219s - 4221s]
+Blitz blitz a room. It's fine.
+
+🎤 SPEAKER_4 [4221s - 4222s]
+There's no there's Yeah.
+
+🎤 SPEAKER_5 [4222s - 4224s]
+Little bits of box.
+
+🎤 SPEAKER_10 [4224s - 4227s]
+After we go to Steven the other month Right. It has
+
+🎤 SPEAKER_11 [4227s - 4227s]
+a kit.
+
+🎤 SPEAKER_5 [4229s - 4235s]
+To me that if we do actually move, I was thinking I wonder if we can invite avoid using a removing company. Yeah. Get everything in the face.
+
+🎤 SPEAKER_5 [4236s - 4243s]
+No. It it what it could happen, but Get a band in that It it is I haven't got enough beers to everyone happy.
+
+🎤 SPEAKER_11 [4244s - 4245s]
+No.
+
+👤 あなた [4245s - 4248s]
+It used to be back in the day, pizzas and beer would would do the beers, but
+
+🎤 SPEAKER_5 [4248s - 4248s]
+Absolutely.
+
+🎤 SPEAKER_11 [4248s - 4249s]
+Yeah.
+
+🎤 SPEAKER_5 [4249s - 4250s]
+And that still works if you're, like, building a shed or Yeah.
+
+🎤 SPEAKER_12 [4252s - 4253s]
+You know, if you decorate it or something.
+
+🎤 SPEAKER_7 [4254s - 4257s]
+My I'm a whole house last night. Save yourself a few grand. You could be, but No.
+
+🎤 SPEAKER_11 [4258s - 4259s]
+Well, I did say to you about home and around. I'm wondering if you could look into it or something.
+
+🎤 SPEAKER_5 [4260s - 4262s]
+No. We're not leaving.
+
+👤 あなた [4262s - 4272s]
+Brother, if you can afford it We do it. It's alright. You know, it's like it's like, Rachel and I I moved, was it seven times in twelve years or something? Back at years ago.
+
+👤 あなた [4272s - 4273s]
+Yeah.
+
+🎤 SPEAKER_7 [4274s - 4275s]
+And I'm sure you guys moved a lot as well, obviously. Quite
+
+🎤 SPEAKER_10 [4275s - 4277s]
+a few few times. Yeah.
+
+👤 あなた [4277s - 4285s]
+It's a pain. You forget. It's like, well, I dare me a man say this, but a bit like labor, one would imagine. You you forget the pain.
+
+🎤 SPEAKER_5 [4285s - 4286s]
+And right, Katherine?
+
+👤 あなた [4289s - 4290s]
+Anyway, I best I best stop talking.
+
+🎤 SPEAKER_7 [4292s - 4294s]
+See you later. See later.
+
+🎤 SPEAKER_5 [4294s - 4294s]
+Hey, Ben.
+
+🎤 SPEAKER_7 [4294s - 4296s]
+You alright, man? How are you?
+
+🎤 SPEAKER_11 [4297s - 4301s]
+Yeah? Good. You family well? Yeah. Well. Good.
+
+🎤 SPEAKER_4 [4304s - 4306s]
+Oh, are you?
+
+👤 あなた [4308s - 4318s]
+Oh, you and in terms of answer to prayer, how Patty has gone? First, we were praying that it was it would be a blessing and a joy rather than a I hate this. Wanna get back to work. It has been just that.
+
+🎤 SPEAKER_4 [4318s - 4318s]
+It's been great.
+
+🎤 SPEAKER_7 [4320s - 4322s]
+That's good. That is excellent. That is excellent.
+
+🎤 SPEAKER_10 [4323s - 4325s]
+Apologies.
+
+👤 あなた [4337s - 4341s]
+I didn't reply to your last Did you find a a place for those classicism cards then?
+
+🎤 SPEAKER_4 [4341s - 4341s]
+Yeah.
+
+🎤 SPEAKER_5 [4344s - 4346s]
+They played.
+
+🎤 SPEAKER_11 [4349s - 4351s]
+On top of them. Oh, good.
+
+🎤 SPEAKER_7 [4353s - 4360s]
+I just so I mean, part one is living under our sofa in our front room at us. Oopsie. So we just didn't want any more stuff. We can fit here. It's up to you.
+
+🎤 SPEAKER_4 [4360s - 4365s]
+You can bring that one and put that in if you want. All it does is sits on the Yeah.
+
+🎤 SPEAKER_11 [4366s - 4368s]
+On the black box. It's on top.
+
+🎤 SPEAKER_7 [4368s - 4368s]
+Great.
+
+👤 あなた [4369s - 4374s]
+The bag the bag there's a bag up there with it as well. This is are they in the cardboard box? Yes.
+
+🎤 SPEAKER_7 [4374s - 4375s]
+Yeah. That's fine. That's probably better, isn't it, now?
+
+👤 あなた [4377s - 4378s]
+Once the box gets battered, we can put them in the big bag.
+
+🎤 SPEAKER_7 [4379s - 4382s]
+Okay. Thanks, John. You did a great job today, mate. Honestly.
+
+🎤 SPEAKER_11 [4384s - 4385s]
+Good.
+
+🎤 SPEAKER_5 [4389s - 4389s]
+Hello?
+
+🎤 SPEAKER_4 [4391s - 4393s]
+The two weeks.
+
+🎤 SPEAKER_11 [4393s - 4395s]
+The fifteenth of breakfast. Yes.
+
+🎤 SPEAKER_4 [4395s - 4397s]
+And the eighth is wrote on preaching on the eighth.
+
+🎤 SPEAKER_7 [4397s - 4398s]
+So I'll show you now.
+
+🎤 SPEAKER_5 [4398s - 4399s]
+Yeah.
+
+🎤 SPEAKER_7 [4403s - 4403s]
+So where are we?
+
+👤 あなた [4407s - 4408s]
+Part one.
+
+🎤 SPEAKER_4 [4408s - 4409s]
+So we're catechism next week.
+
+👤 あなた [4409s - 4412s]
+I'm preaching three catechisms, and then it's you.
+
+🎤 SPEAKER_4 [4413s - 4417s]
+Yes. That's right. Next week's the '20 no. The first and then Yeah.
+
+👤 あなた [4418s - 4419s]
+And then and then it's a breakfast Sunday, isn't it, after that?
+
+🎤 SPEAKER_11 [4420s - 4420s]
+Yeah.
+
+👤 あなた [4420s - 4425s]
+Which is the which is the fifteenth. Is that correct?
+
+🎤 SPEAKER_14 [4426s - 4427s]
+You're what are you doing on the eighth?
+
+🎤 SPEAKER_7 [4429s - 4430s]
+Try to work The eighth, that's you.
+
+🎤 SPEAKER_11 [4430s - 4432s]
+On the eighth? It's me on the eighth. Yeah.
+
+👤 あなた [4432s - 4435s]
+And the fifteenth, the following Sunday, when we're in Cape Town still. Yeah.
+
+🎤 SPEAKER_7 [4435s - 4438s]
+Am I in Cape Town for both of those, yeah? Yeah. And that's the breakfast Sunday, is it?
+
+🎤 SPEAKER_11 [4438s - 4439s]
+Yes. Yep.
+
+🎤 SPEAKER_7 [4439s - 4440s]
+And then it's back then.
+
+🎤 SPEAKER_4 [4440s - 4441s]
+I'm back to it.
+
+🎤 SPEAKER_7 [4441s - 4442s]
+Back to it then. Okay. Alright.
+
+🎤 SPEAKER_4 [4442s - 4443s]
+Thanks, ma'am.
+
+🎤 SPEAKER_7 [4448s - 4449s]
+Gotta get there first, John.
+
+🎤 SPEAKER_4 [4451s - 4455s]
+We were talking about it the other day. Oh, yeah. And you do. You guys did Zoom.
+
+🎤 SPEAKER_5 [4455s - 4455s]
+Yeah.
+
+🎤 SPEAKER_7 [4456s - 4461s]
+They well, know for Rachel's really excited. It's about 25 degrees there. 23, 25 is lovely. Yeah.
+
+🎤 SPEAKER_4 [4461s - 4463s]
+I know we've said it to you before, but
+
+🎤 SPEAKER_6 [4463s - 4463s]
+Yeah.
+
+🎤 SPEAKER_11 [4464s - 4464s]
+Six years, mate.
+
+🎤 SPEAKER_4 [4464s - 4466s]
+We've been trying to work that in our heads this week.
+
+🎤 SPEAKER_4 [4469s - 4474s]
+We've seen coming with a pink ing and it was like six years alongside the family. Right? The young family.
+
+🎤 SPEAKER_11 [4474s - 4474s]
+Yeah.
+
+🎤 SPEAKER_10 [4474s - 4476s]
+And then alongside Staten the Tune.
+
+🎤 SPEAKER_4 [4477s - 4478s]
+Through through COVID.
+
+🎤 SPEAKER_11 [4479s - 4479s]
+Yeah.
+
+🎤 SPEAKER_4 [4480s - 4483s]
+Nobody in their right mind would do it.
+
+🎤 SPEAKER_7 [4483s - 4484s]
+I'm I'm a bit mad, John.
+
+🎤 SPEAKER_11 [4486s - 4487s]
+That's fantastic. Yeah.
+
+🎤 SPEAKER_4 [4487s - 4489s]
+What the achiever you guys have had?
+
+👤 あなた [4489s - 4491s]
+Oh, it's Thank you, mate.
+
+🎤 SPEAKER_7 [4491s - 4494s]
+It's the yeah. Was all about the grace you got. Thank you, John. Can do without you,
+
+🎤 SPEAKER_7 [4576s - 4582s]
+I'm gonna go in between the chairs, Steve. I'm gonna go in between the chairs of this. That's the hard bit for that, isn't it?
+
+🎤 SPEAKER_7 [4676s - 4678s]
+The section's pretty much on there.
+
+🎤 SPEAKER_7 [4686s - 4688s]
+Yeah. Maybe. Let's try without this a minute,
+
+🎤 SPEAKER_5 [4688s - 4689s]
+Rich.
+
+🎤 SPEAKER_7 [4690s - 4695s]
+Let's try it. Put back on a sec. Cheers, guys. Thank you. Rich, let me just feel the end of that a minute.
+
+🎤 SPEAKER_7 [4698s - 4700s]
+That's it's got some section, but it's not very good.
+
+🎤 SPEAKER_5 [4701s - 4704s]
+Got all this, Rachel. Sweeping. And that's it.
+
+🎤 SPEAKER_7 [4704s - 4705s]
+It was sweeping to a pile now. Was trying to hoover Okay.
+
+👤 あなた [4705s - 4707s]
+Well, that's silly.
+
+🎤 SPEAKER_5 [4707s - 4713s]
+I need to go get the second.
+
+🎤 SPEAKER_11 [4717s - 4719s]
+So yeah, go ahead, mate. Just take it then.
+
+🎤 SPEAKER_7 [4721s - 4723s]
+That not bad.
+
+🎤 SPEAKER_11 [4723s - 4724s]
+That is that Hoover's
+
+👤 あなた [4725s - 4727s]
+pretty useless to me.
+
+🎤 SPEAKER_7 [4727s - 4729s]
+Actually, it's got it's got a section of a I've got a old huber.
+
+🎤 SPEAKER_15 [4729s - 4734s]
+Right? I can bring it and leave it here, but it's it's got a bag on it.
+
+🎤 SPEAKER_7 [4735s - 4736s]
+No. No.
+
+👤 あなた [4736s - 4738s]
+We'll we'll buy one. We'll buy it.
+
+🎤 SPEAKER_15 [4738s - 4740s]
+No. We use it. So the garage.
+
+🎤 SPEAKER_11 [4740s - 4740s]
+Yeah? Yeah.
+
+🎤 SPEAKER_7 [4742s - 4747s]
+It's not well, I wonder if it's if it's got a good section. Is it? Suction one. Oh, yeah.
+
+🎤 SPEAKER_15 [4747s - 4761s]
+And I had to put a bit of tape on it, because it's the pin had come out at the bottom, it has to hold the pin in place Yeah. For the head. But Ronald could use it because it was powerful on the carpet. She can push it
+
+🎤 SPEAKER_5 [4760s - 4761s]
+Yeah.
+
+🎤 SPEAKER_15 [4761s - 4767s]
+So it's no. Sitting there, I could bring that and if need be, just leave it down in there.
+
+🎤 SPEAKER_7 [4767s - 4768s]
+Well, if you're happy to, if if if you alright, Ben?
+
+🎤 SPEAKER_11 [4769s - 4772s]
+Yeah. How you, Ewan? Yeah.
+
+🎤 SPEAKER_7 [4772s - 4774s]
+That's what I'm What's what's going on, man?
+
+🎤 SPEAKER_11 [4774s - 4774s]
+Not too much.
+
+🎤 SPEAKER_15 [4774s - 4778s]
+Yeah? Yeah. Yeah. But Yeah. I haven't done quite that.
+
+🎤 SPEAKER_11 [4779s - 4779s]
+No?
+
+🎤 SPEAKER_7 [4779s - 4781s]
+No? Well, that's fine.
+
+🎤 SPEAKER_11 [4781s - 4785s]
+Oh, yeah. Yeah. Same thing with you? Yeah. Kids. Kids.
+
+👤 あなた [4788s - 4792s]
+Be, but but nearly finished at uni now.
+
+🎤 SPEAKER_7 [4794s - 4795s]
+So I'll be free I'll be much free at that point.
+
+👤 あなた [4796s - 4798s]
+Some downtime there. Well, we'll see.
+
+🎤 SPEAKER_7 [4798s - 4801s]
+I might have I might have a few weeks off and then we'll see how we do Well, I was just thinking Yeah.
+
+🎤 SPEAKER_12 [4801s - 4810s]
+Like, you know, you don't like flying. Yeah. Or I could just thinking that you should stay behind because it'd be really stressful for you. Yeah. And then right right said, could go with her.
+
+🎤 SPEAKER_5 [4810s - 4812s]
+Oh, right.
+
+🎤 SPEAKER_12 [4812s - 4814s]
+Like, I'm doing a really gracious thing.
+
+🎤 SPEAKER_7 [4816s - 4819s]
+Oh, of course. And you'd have to wear the badge though when you're at the conference.
+
+🎤 SPEAKER_5 [4819s - 4821s]
+No problem. No problem.
+
+🎤 SPEAKER_7 [4821s - 4827s]
+No. I do you know what? I think the Lord's delivered me a little bit from it. Something just something just clicked in my head.
+
+🎤 SPEAKER_12 [4827s - 4834s]
+It's gonna be fantastic. And I think that, you know, at the end of the day, you can't be like this the rest of your life. You've gotta get over it.
+
+🎤 SPEAKER_12 [4834s - 4840s]
+Gotta go over it. You know, you've got Otherwise, it's gonna spoil things for the family, and if you have to do something. And if you wanna go, you know, like Exactly.
+
+🎤 SPEAKER_11 [4842s - 4842s]
+I can do things.
+
+🎤 SPEAKER_7 [4842s - 4846s]
+Well, we're doing San Trapeze. It's on the French I've been there. Yeah.
+
+👤 あなた [4847s - 4849s]
+And in May.
+
+🎤 SPEAKER_7 [4850s - 4853s]
+My parents said, oh, we're taking you on holiday. Which is nice of them.
+
+👤 あなた [4853s - 4858s]
+So they've taken me and Rachel, the boys, to outside Saint Tropez along the coast.
+
+🎤 SPEAKER_11 [4859s - 4860s]
+May.
+
+🎤 SPEAKER_5 [4860s - 4861s]
+May.
+
+🎤 SPEAKER_7 [4861s - 4862s]
+So on average It's not too long.
+
+👤 あなた [4863s - 4865s]
+Low to well, about twenty three to twenty five.
+
+🎤 SPEAKER_7 [4865s - 4866s]
+It's a lot.
+
+🎤 SPEAKER_5 [4867s - 4868s]
+It can go up to full Yeah.
+
+🎤 SPEAKER_7 [4868s - 4872s]
+That's too much as well. And so that seems perfect.
+
+👤 あなた [4872s - 4873s]
+That'd be nice. Yeah. Yeah.
+
+🎤 SPEAKER_7 [4873s - 4874s]
+So we're flying there as well to our flights, so that's easy.
+
+🎤 SPEAKER_12 [4875s - 4877s]
+Yeah. Oh, that really nice.
+
+👤 あなた [4877s - 4881s]
+So that'd good. So this so two abroad holidays Yeah.
+
+🎤 SPEAKER_7 [4881s - 4888s]
+In one year we haven't flown we haven't flown since Elliot was a toddler. Yeah. I know. I know. That's fine. I'm over I'm over it. I'm I'm kind of over.
+
+🎤 SPEAKER_7 [4891s - 4897s]
+Anyway, thank you thank you for thank you for serving us today. You're very welcome. And it it works okay with the stopping the coffees and everything?
+
+🎤 SPEAKER_12 [4897s - 4901s]
+Yep. It's it. Then Yeah. Yeah. A lot more quiet. It's been really noisy.
+
+🎤 SPEAKER_7 [4901s - 4905s]
+Has. Yeah. I I I'm gonna send a message out later. Yeah.
+
+🎤 SPEAKER_7 [4909s - 4912s]
+I'm gonna I'm I'm seriously gonna say something. You.
+
+🎤 SPEAKER_11 [4912s - 4913s]
+Because it's it's Yeah.
+
+👤 あなた [4914s - 4919s]
+It was affecting things a bit. Without losing everything, we didn't want so it worked work. It was quite nice today.
+
+🎤 SPEAKER_12 [4927s - 4929s]
+Yeah. I I come here. Okay.
+
+🎤 SPEAKER_5 [4929s - 4933s]
+So Yeah. Go a lot further there. Yeah.
+
+🎤 SPEAKER_12 [4933s - 4936s]
+But then when you got all this stuff going around in it, it's just like Yeah.
+
+🎤 SPEAKER_5 [4936s - 4939s]
+I can't that this is closed. Yeah. Put my arms on.
+
+🎤 SPEAKER_9 [4939s - 4939s]
+No.
+
+🎤 SPEAKER_5 [4939s - 4941s]
+It's it's distracting. I know I shouldn't have. I shouldn't have.
+
+🎤 SPEAKER_12 [4944s - 4947s]
+I It's just it's just it's just me. I just need that.
+
+👤 あなた [4947s - 4948s]
+Yes.
+
+🎤 SPEAKER_7 [4948s - 4949s]
+Do know what, Deb?
+
+👤 あなた [4950s - 4952s]
+I think you're right. It's distracting It's very distracting.
+
+🎤 SPEAKER_5 [4952s - 4954s]
+It can't help with the kids. You know? Yeah.
+
+🎤 SPEAKER_12 [4956s - 4957s]
+It is what it is and we're in such a small building.
+
+🎤 SPEAKER_11 [4957s - 4959s]
+We are. We're we're hoping for a bigger one.
+
+👤 あなた [4959s - 4974s]
+The the the single best thing helping you praying. Do you have something to we're and believing. We trust in god's timing. But just in those you know those moments in the worship where there's just music going on? There's no and there's a bit silence.
+
+🎤 SPEAKER_7 [4974s - 4976s]
+Those are those are the times of zone.
+
+🎤 SPEAKER_12 [4976s - 4982s]
+Piano picks up. My bit. Like, but lately, it's been really sometimes it's stayed up.
+
+🎤 SPEAKER_5 [4982s - 4984s]
+I've got two kids running around.
+
+🎤 SPEAKER_4 [4984s - 4985s]
+No.
+
+🎤 SPEAKER_12 [4985s - 4986s]
+Them through the service.
+
+🎤 SPEAKER_8 [4992s - 4993s]
+To listen.
+
+🎤 SPEAKER_5 [4994s - 4995s]
+Yeah.
+
+👤 あなた [4995s - 5003s]
+Sure. Deb, I think this is this is a conviction I've got generally, but this is true of you. If if god is wooing you, which I think he is, gently You know what?
+
+🎤 SPEAKER_12 [5004s - 5005s]
+I don't think if I know you.
+
+👤 あなた [5005s - 5007s]
+He'll never give up.
+
+🎤 SPEAKER_12 [5008s - 5009s]
+Know that. I just sit.
+
+🎤 SPEAKER_5 [5010s - 5011s]
+It it doesn't help that.
+
+👤 あなた [5011s - 5013s]
+No. I agree with you.
+
+🎤 SPEAKER_7 [5013s - 5016s]
+So today we much better for that.
+
+👤 あなた [5016s - 5019s]
+Think I put on there. Yeah. Yeah. Yeah. It was.
+
+🎤 SPEAKER_7 [5019s - 5020s]
+Was. Take a minute.
+
+🎤 SPEAKER_7 [5024s - 5026s]
+Yeah. What was wrong with the slideshow?
+
+🎤 SPEAKER_5 [5027s - 5028s]
+Just didn't work I lost your way a few times.
+
+🎤 SPEAKER_7 [5028s - 5032s]
+I did, didn't I? I did. Yeah. Just as well the audio.
+
+🎤 SPEAKER_5 [5033s - 5033s]
+Yeah.
+
+👤 あなた [5035s - 5038s]
+Okay. Where's my guitar? Thank thank you, Steve.
+
+👤 あなた [5046s - 5050s]
+Somerset West, which is not too far from Stellenbosch, I probably.
+
+🎤 SPEAKER_7 [5053s - 5057s]
+Yes. It's just in quite an affluent area, son of bosh. It is actually.
+
+🎤 SPEAKER_7 [5058s - 5060s]
+But that's where we went to the vineyard.
+
+👤 あなた [5060s - 5063s]
+Yes. We're not too I think we're in the vineyard area.
+
+🎤 SPEAKER_7 [5071s - 5073s]
+Yeah. It's a museum.
+
+🎤 SPEAKER_15 [5073s - 5074s]
+It's an art gallery.
+
+🎤 SPEAKER_15 [5075s - 5077s]
+It's wine tasting. It's the gardens.
+
+🎤 SPEAKER_7 [5082s - 5092s]
+It's Sounds amazing. Everyone everyone who's gone there, including numerator, plus there's Richard, some work colleagues. They're all cool there saying, when we came back, we started looking at houses prices and things like that.
+
+🎤 SPEAKER_7 [5093s - 5095s]
+Because it's very tempting to move there.
+
+🎤 SPEAKER_11 [5096s - 5097s]
+Some way.
+
+🎤 SPEAKER_13 [5107s - 5107s]
+Yeah.
+
+👤 あなた [5110s - 5111s]
+Yeah. Yeah. Hear you. Hard.
+
+🎤 SPEAKER_11 [5111s - 5112s]
+Alright? What was what come up?
+
+🎤 SPEAKER_7 [5112s - 5115s]
+The airport, was it the big thing? Discarded.
+
+🎤 SPEAKER_11 [5115s - 5116s]
+It discarded. So when you come out come on the motorway.
+
+👤 あなた [5123s - 5126s]
+You'll see the The biggest shanty shanty pass.
+
+🎤 SPEAKER_15 [5126s - 5131s]
+And it goes Huge in it? One of the largest ones in South Africa. Ma'am. And it goes on for, like, five Yes.
+
+🎤 SPEAKER_7 [5146s - 5148s]
+Then you go to You do wonder how South Africa gonna sort that mess out really.
+
+🎤 SPEAKER_11 [5164s - 5165s]
+Yeah.
+
+🎤 SPEAKER_5 [5165s - 5168s]
+It's become aware life.
+
+🎤 SPEAKER_11 [5183s - 5184s]
+It's Yeah. Yeah.
+
+🎤 SPEAKER_15 [5188s - 5189s]
+Their their their economy is charged.
+
+🎤 SPEAKER_11 [5189s - 5190s]
+Yeah.
+
+🎤 SPEAKER_7 [5190s - 5196s]
+You know, corruption or something. Well, you know, when I was born, the day I was born, number one was, do they know it was Christmas?
+
+🎤 SPEAKER_7 [5197s - 5199s]
+And you think about as Africa as a continent, how far that's come in forty years.
+
+👤 あなた [5204s - 5205s]
+There's progress, but slow and uneven.
+
+🎤 SPEAKER_10 [5247s - 5250s]
+He went and became a missionary in See you, dad.
+
+🎤 SPEAKER_7 [5251s - 5253s]
+Thank you for helping today.
+
+🎤 SPEAKER_10 [5254s - 5255s]
+In the shant of town.
+
+🎤 SPEAKER_11 [5255s - 5257s]
+Who are you there for? Oh, yeah?
+
+🎤 SPEAKER_15 [5257s - 5268s]
+It's really in store. Is amazing. And struggles because he's quite human about it. You know, he's very distorted or Oh, yeah.
+
+🎤 SPEAKER_11 [5268s - 5273s]
+Have you finished it?
+
+🎤 SPEAKER_7 [5281s - 5282s]
+You hope to go back out, South Africa at some point over the coming years?
+
+🎤 SPEAKER_4 [5284s - 5285s]
+Yes and no.
+
+🎤 SPEAKER_5 [5285s - 5286s]
+Yeah.
+
+👤 あなた [5286s - 5289s]
+You feel like you've done it and the cost and everything?
+
+🎤 SPEAKER_11 [5289s - 5290s]
+We've been there twice Yeah.
+
+🎤 SPEAKER_15 [5290s - 5300s]
+We've been Safari twice, so we've had holidays. I mean, Sarah is Sunday. You know, Sofia is Sarah. No doubt. Yeah.
+
+🎤 SPEAKER_11 [5304s - 5304s]
+No.
+
+🎤 SPEAKER_7 [5304s - 5305s]
+It's a long way and it's quite expensive.
+
+👤 あなた [5305s - 5307s]
+Right? It it is.
+
+👤 あなた [5340s - 5342s]
+Yeah. Well, we'll well, I'm sure we'll enjoy his house.
+
+🎤 SPEAKER_5 [5343s - 5343s]
+Alright.
+
+👤 あなた [5360s - 5368s]
+Oh, yeah. If one goes at an angle, doesn't matter, does it? The boxes one of the boxes, half on the cardboard and half off.
+
+🎤 SPEAKER_14 [5368s - 5368s]
+One could
+
+🎤 SPEAKER_11 [5368s - 5369s]
+go there.
+
+👤 あなた [5369s - 5373s]
+Yeah. There's another one I grabbed yet. Yeah. No. He's he's too big. Is.
+
+🎤 SPEAKER_7 [5373s - 5375s]
+That's fine. You can go you just go and angle like that.
+
+🎤 SPEAKER_5 [5375s - 5376s]
+Yeah. Put him in there.
+
+🎤 SPEAKER_4 [5377s - 5378s]
+That's and he got set.
+
+🎤 SPEAKER_11 [5379s - 5379s]
+You can just sit like that then.
+
+🎤 SPEAKER_4 [5379s - 5380s]
+That's fine.
+
+🎤 SPEAKER_7 [5380s - 5383s]
+Yeah. Then the edge. That's fine. Thanks, John. Really?
+
+🎤 SPEAKER_5 [5383s - 5383s]
+Thank you.
+
+🎤 SPEAKER_11 [5383s - 5386s]
+Cool. One more box, think, up here? Yeah.
+
+👤 あなた [5386s - 5387s]
+That's it. I think you
+
+🎤 SPEAKER_11 [5387s - 5388s]
+rolled them didn't you?
+
+🎤 SPEAKER_5 [5413s - 5414s]
+Yep.
+
+🎤 SPEAKER_4 [5414s - 5416s]
+Keep going front to the music stuff.
+
+🎤 SPEAKER_11 [5416s - 5417s]
+Alrighty. Yeah.
+
+🎤 SPEAKER_4 [5417s - 5419s]
+You can sit in the floor there.
+
+🎤 SPEAKER_11 [5419s - 5421s]
+Oh, yeah. Yeah. There's plenty in there.
+
+🎤 SPEAKER_11 [5428s - 5431s]
+They they all used to sit on it, didn't they? Why is that then?
+
+🎤 SPEAKER_4 [5431s - 5437s]
+Because the we'd lost the shelf till we get up the top.
+
+🎤 SPEAKER_7 [5438s - 5440s]
+And also we've got extra New stuff coming now, are they?
+
+🎤 SPEAKER_11 [5440s - 5440s]
+Yeah.
+
+🎤 SPEAKER_4 [5441s - 5441s]
+So Yeah.
+
+🎤 SPEAKER_11 [5441s - 5443s]
+Yeah.
+
+🎤 SPEAKER_5 [5443s - 5443s]
+We got room.
+
+🎤 SPEAKER_4 [5443s - 5444s]
+Here we are.
+
+🎤 SPEAKER_11 [5445s - 5447s]
+Yep. And all the paper cups in my view and What we're not using all the time Yeah.
+
+🎤 SPEAKER_4 [5447s - 5452s]
+And maybe shoving that on the shelf some Yeah.
+
+🎤 SPEAKER_11 [5453s - 5454s]
+And then having the most Yeah. That's fine.
+
+🎤 SPEAKER_7 [5455s - 5461s]
+Well, to be honest you, I'm very grateful we got the spin. Oh, is it not gone in yet? Yeah. Might still be hanging up a lot of a look.
+
+🎤 SPEAKER_11 [5461s - 5462s]
+Is it?
+
+👤 あなた [5462s - 5463s]
+Is he?
+
+🎤 SPEAKER_11 [5464s - 5464s]
+Oh, there we are then.
+
+🎤 SPEAKER_7 [5465s - 5469s]
+Anything else done here? Oh, braille. Thank you.
+
+🎤 SPEAKER_4 [5482s - 5486s]
+Guys, you could've helped me with these boxes, couldn't you? Oh, yeah. And they both went, no.
+
+🎤 SPEAKER_11 [5489s - 5489s]
+They didn't.
+
+🎤 SPEAKER_5 [5490s - 5491s]
+Of them.
+
+🎤 SPEAKER_4 [5491s - 5493s]
+They both did each other. They both did the same job.
+
+🎤 SPEAKER_11 [5493s - 5494s]
+Chiquis.
+
+👤 あなた [5495s - 5497s]
+They're still left. They're still bad.
+
+🎤 SPEAKER_5 [5497s - 5497s]
+Still sat there.
+
+🎤 SPEAKER_11 [5497s - 5500s]
+There's Right.
+
+🎤 SPEAKER_7 [5501s - 5503s]
+Well, that's one word,
+
+🎤 SPEAKER_5 [5503s - 5503s]
+John.
+
+🎤 SPEAKER_5 [5515s - 5516s]
+Yeah. Let's see the sign.
+
+🎤 SPEAKER_11 [5516s - 5518s]
+Alright.
+
+🎤 SPEAKER_5 [5518s - 5519s]
+You should you shouldn't to do this.
+
+🎤 SPEAKER_11 [5520s - 5522s]
+No sticking problems. Yeah.
+
+🎤 SPEAKER_7 [5522s - 5528s]
+You know, Steve's gonna bring one. He's got one a powerful one he's gonna bring. How'd it go today?
+
+🎤 SPEAKER_11 [5528s - 5529s]
+Yeah. Nice.
+
+🎤 SPEAKER_5 [5530s - 5530s]
+K.
+
+🎤 SPEAKER_7 [5533s - 5534s]
+Nine. Vegas.
+
+🎤 SPEAKER_11 [5535s - 5536s]
+Alright.
+
+🎤 SPEAKER_7 [5536s - 5536s]
+Excellent. Thank you, guys.
+
+🎤 SPEAKER_7 [5542s - 5551s]
+Good news is Rich. We found space in the cupboards for the catechism cards. So we have to remember to bring them every Sunday or don't have to live into our sofa either.
+
+🎤 SPEAKER_12 [5553s - 5554s]
+Uh-huh.
+
+🎤 SPEAKER_11 [5557s - 5559s]
+Yeah.
+
+🎤 SPEAKER_7 [5559s - 5563s]
+I mean, it's funny because it it's up. It's multiple trips from the car when I get here.
+
+👤 あなた [5564s - 5565s]
+Which which shaves yeah.
+
+🎤 SPEAKER_11 [5566s - 5567s]
+That's true.
+
+🎤 SPEAKER_12 [5577s - 5582s]
+Coat with these old hat dryers before we have this super fast ones.
+
+🎤 SPEAKER_11 [5582s - 5583s]
+Well, you just shaking like they were useless, weren't they?
+
+🎤 SPEAKER_5 [5583s - 5586s]
+Yeah.
+
+🎤 SPEAKER_12 [5586s - 5588s]
+You still just just resort to a bit paper.
+
+🎤 SPEAKER_7 [5588s - 5589s]
+Was like I mean, I could blow faster.
+
+👤 あなた [5590s - 5590s]
+Than those things.
+
+🎤 SPEAKER_7 [5594s - 5598s]
+A public event where the out the door for women's sonnets as it is.
+
+🎤 SPEAKER_12 [5598s - 5604s]
+But the children, the little ones don't like the sound of the No. The new Yeah. That could be really loud.
+
+🎤 SPEAKER_7 [5604s - 5606s]
+Yeah. Remember you being scared them.
+
+🎤 SPEAKER_5 [5606s - 5608s]
+Not long long. Yeah.
+
+🎤 SPEAKER_12 [5608s - 5616s]
+And a larger with that, terrified of them until recently. Yeah. Jacob's a little bit too bad, but I've been in toilets when there's been other children and somebody's put them on, and the charge just been squeezing.
+
+🎤 SPEAKER_7 [5616s - 5618s]
+Really? Tired.
+
+👤 あなた [5622s - 5629s]
+It's like, don't lose Was dad's gleeful ego? Yeah. Just to take joy in their kids being scared of her. Exactly.
+
+🎤 SPEAKER_5 [5630s - 5630s]
+Yeah.
+
+🎤 SPEAKER_5 [5656s - 5657s]
+Yeah. I have.
+
+🎤 SPEAKER_12 [5657s - 5659s]
+Are you taking out your back pocket? No.
+
+🎤 SPEAKER_7 [5659s - 5662s]
+This time. Ryan said, every week I lose my phone, and then I go to Steven
+
+👤 あなた [5662s - 5663s]
+Steve goes, here it is, my darling.
+
+🎤 SPEAKER_12 [5663s - 5665s]
+Yeah. I do that at home constantly. Constantly.
+
+🎤 SPEAKER_5 [5665s - 5666s]
+Cheers.
+
+👤 あなた [5666s - 5667s]
+Rachel is the finder in our house.
+
+🎤 SPEAKER_12 [5667s - 5672s]
+Like, can't hold my keys anywhere. The second shelf of the bookcase in Elliot's room.
+
+🎤 SPEAKER_5 [5672s - 5673s]
+Yeah.
+
+🎤 SPEAKER_5 [5675s - 5677s]
+I can't find my can't find my dorky. It's in your pocket.
+
+🎤 SPEAKER_12 [5677s - 5679s]
+Came in last night, and you put your dressing gown straight on.
+
+🎤 SPEAKER_7 [5679s - 5683s]
+You Just remind the Lord puts people together, you see complimentary gifts and abilities come together as one.
+
+🎤 SPEAKER_5 [5685s - 5685s]
+You know what mean?
+
+🎤 SPEAKER_12 [5685s - 5696s]
+When we're into Pampadock, obviously it's a really small time. And I've been like Wilkinson's walking around. And I'd get to the till, and I'd go to get my phone out, and I'd be like, it would be there in his uniform and he was caught
+
+🎤 SPEAKER_12 [5704s - 5711s]
+I took it out of your back popping or I took it out of your open handbag. That's been nasty. Yeah. Yeah.
+
+🎤 SPEAKER_7 [5712s - 5714s]
+It's so nice What a joyful way to teach a lesson, Steve. That's quite enjoyable there. Yeah.
+
+🎤 SPEAKER_15 [5717s - 5717s]
+Watching that ship.
+
+🎤 SPEAKER_5 [5717s - 5719s]
+Panic. At least three times.
+
+🎤 SPEAKER_15 [5720s - 5727s]
+I I caught you a three two or three times. In the supermarket. I just came up behind her. She there. I just took it out of the handbag. Yeah.
+
+🎤 SPEAKER_5 [5727s - 5732s]
+No. I mean, if they could make them smaller, I or pockets bigger, we'd be fine.
+
+🎤 SPEAKER_7 [5732s - 5735s]
+I hate it being It's just so big.
+
+👤 あなた [5735s - 5738s]
+People use them as their main feet screens these days. Shows and all sorts. So they can't annoyed.
+
+🎤 SPEAKER_15 [5738s - 5739s]
+I know.
+
+🎤 SPEAKER_5 [5739s - 5740s]
+I know. I know.
+
+🎤 SPEAKER_12 [5740s - 5743s]
+Do it. So, no, you're not allowed to have it in your back pocket instead.
+
+🎤 SPEAKER_7 [5743s - 5751s]
+No. I swear here. Thank you guys for coming for us, boss. We're Bob. Hey. Jamie. Breakfast. Are you here for breakfast Sunday? Yeah. So what's that? The fifteenth?
+
+🎤 SPEAKER_12 [5751s - 5752s]
+That's the fifteenth. That's the near back.
+
+🎤 SPEAKER_7 [5753s - 5754s]
+And then Sunday, we go the eighth.
+
+🎤 SPEAKER_5 [5754s - 5757s]
+Yeah. You're not here for breakfast Sunday? No. We're not.
+
+🎤 SPEAKER_15 [5757s - 5758s]
+No. Don't play here. No.
+
+🎤 SPEAKER_11 [5758s - 5759s]
+Obviously.
+
+🎤 SPEAKER_7 [5759s - 5761s]
+Partly, her motivation was Rachel's worrying about kids too, she's saying.
+
+🎤 SPEAKER_12 [5764s - 5764s]
+We can drive her out in that that for the go toy space.
+
+👤 あなた [5764s - 5765s]
+Thinking she's not here Yeah.
+
+🎤 SPEAKER_11 [5777s - 5779s]
+Kill everyone off. Forty percent. Yeah. Fifty two, though.
+
+🎤 SPEAKER_5 [5779s - 5781s]
+Yeah. I I didn't think so. Understand that.
+
+🎤 SPEAKER_12 [5781s - 5785s]
+But don't worry about kids jokes when you're away. No. I'm sure it will be.
+
+🎤 SPEAKER_11 [5798s - 5800s]
+Wasn't John. Did you answer it?
+
+🎤 SPEAKER_9 [5800s - 5801s]
+Oh, just read it. Just read it. Yeah.
+
+🎤 SPEAKER_7 [5806s - 5812s]
+On breakfast, guys. Got a few. I've got another three or four, and then I'll be back because I have missed it. I've missed it.
+
+🎤 SPEAKER_15 [5812s - 5816s]
+And That's that's well, said two team soapings come to one.
+
+🎤 SPEAKER_4 [5816s - 5821s]
+Yep. Yes. He did say, he said it's 07:00 tonight.
+
+🎤 SPEAKER_7 [5839s - 5845s]
+I'll check the But he knew it was a Tuesday. He did? That's good. So Well, from where he was, last summer to where he is now.
+
+🎤 SPEAKER_15 [5846s - 5847s]
+It's amazing.
+
+🎤 SPEAKER_7 [5850s - 5854s]
+And also tomorrow evening, I'm meeting with Dan, the new guy.
+
+👤 あなた [5854s - 5855s]
+I'm taking for coffee in Starbucks.
+
+🎤 SPEAKER_7 [5855s - 5859s]
+I'll find out a bit more about his story and where he's at. But he's been four or five weeks now. Yeah.
+
+🎤 SPEAKER_5 [5859s - 5860s]
+Yeah. Yeah. Yeah.
+
+🎤 SPEAKER_4 [5860s - 5862s]
+We have a chap with him a couple of weeks ago.
+
+🎤 SPEAKER_11 [5862s - 5863s]
+See you.
+
+👤 あなた [5863s - 5865s]
+He's come from Simon up in
+
+🎤 SPEAKER_5 [5865s - 5865s]
+Hookwondo.
+
+🎤 SPEAKER_7 [5866s - 5867s]
+Yeah.
+
+👤 あなた [5867s - 5869s]
+So one second. Yeah.
+
+👤 あなた [5870s - 5874s]
+If all goes well, I may some point might be good to add him on to the men's WhatsApp if you want to do.
+
+🎤 SPEAKER_11 [5875s - 5877s]
+Well, I've I've chatted with him. He knows what he's in the week.
+
+🎤 SPEAKER_7 [5877s - 5878s]
+You can do the breakfast.
+
+👤 あなた [5879s - 5881s]
+Breakfast. You can organize with
+
+🎤 SPEAKER_13 [5881s - 5882s]
+Simon now.
+
+🎤 SPEAKER_15 [5884s - 5886s]
+He's off for seventeen days. They're going away for a bit.
+
+🎤 SPEAKER_11 [5886s - 5890s]
+Nice. I've been trying to catch up with him. In an evening.
+
+🎤 SPEAKER_13 [5890s - 5891s]
+Yeah.
+
+🎤 SPEAKER_15 [5892s - 5899s]
+And I said, right. Let us know when you're free. And he wants to do it. Said, we'll go to Hold on. Yeah. And maybe do a snooker.
+
+🎤 SPEAKER_11 [5899s - 5902s]
+Sorry? Yeah. Very good. Very good. Yeah. So get ahold of a few people.
+
+🎤 SPEAKER_7 [5902s - 5905s]
+I know that he opened up to a little bit on the weekend, didn't he? Yeah.
+
+🎤 SPEAKER_13 [5922s - 5922s]
+The baby changing station that they bought that I want.
+
+🎤 SPEAKER_6 [5924s - 5924s]
+Right.
+
+🎤 SPEAKER_11 [5936s - 5938s]
+The weekend. Oh, yeah?
+
+🎤 SPEAKER_15 [5938s - 5940s]
+Down in Andrew was supposed to go with the
+
+🎤 SPEAKER_7 [5941s - 5942s]
+Didn't?
+
+🎤 SPEAKER_5 [5942s - 5943s]
+No.
+
+🎤 SPEAKER_15 [5943s - 5944s]
+He's he's he's got tonsilitis.
+
+🎤 SPEAKER_13 [5945s - 5946s]
+So he went to a doctor.
+
+🎤 SPEAKER_17 [5946s - 5948s]
+He's not the keys.
+
+🎤 SPEAKER_12 [5948s - 5949s]
+In the kitchen lady. I got the keys.
+
+🎤 SPEAKER_5 [5950s - 5950s]
+And Yeah.
+
+🎤 SPEAKER_11 [5950s - 5951s]
+And did you just watch
+
+🎤 SPEAKER_12 [5951s - 5952s]
+Steph again?
+
+🎤 SPEAKER_13 [5952s - 5954s]
+So they Sophie went with her in
+
+🎤 SPEAKER_4 [5954s - 5955s]
+Oh, yeah.
+
+🎤 SPEAKER_13 [5955s - 5957s]
+And there's pictures of it.
+
+🎤 SPEAKER_4 [5957s - 5957s]
+They They haven't had great time, weren't they?
+
+🎤 SPEAKER_15 [5957s - 5959s]
+Tiny Tots disco. Yeah. Two nights in a row.
+
+🎤 SPEAKER_12 [5960s - 5963s]
+Eli's been vomiting. I mean, he's been great all day.
+
+🎤 SPEAKER_11 [5963s - 5965s]
+No. Bit comfy at night too.
+
+🎤 SPEAKER_12 [5965s - 5967s]
+It's been snotty.
+
+🎤 SPEAKER_7 [5977s - 5980s]
+Yeah. That's well, you've done those holidays. You've done your time, Steven.
+
+🎤 SPEAKER_5 [5984s - 5986s]
+Well, I've not Alright.
+
+🎤 SPEAKER_0 [6046s - 6050s]
+Come on in. Mixed wheels. And these three wheels is is
+
+👤 あなた [6064s - 6071s]
+Alright. Are you coming then, everyone? We're locking up now. Tubed out. We're going. Yeah. Yeah. We gotta leave the building now. Okay?
+
+👤 あなた [6072s - 6079s]
+Who's that your charger next to me now? No. That's Jude's. Oh, Jude's. Oh, I mean, I'll bet somebody that then. Have a good week.
+
+🎤 SPEAKER_2 [6079s - 6082s]
+Actually, we Lexi made it off to the Alright.
+
+👤 あなた [6086s - 6094s]
+Okay. I have to move the shake for a sec. There we are. Yeah. Yeah.
+
+🎤 SPEAKER_1 [6094s - 6095s]
+You can easily fall asleep on these, it?
+
+👤 あなた [6097s - 6104s]
+Right. Can I do have a good time? Did Rachel tell you that we we grew up we got married in Cheltenham and lived there for ten years?
+
+👤 あなた [6107s - 6114s]
+So the zizzies was all those years ago we're going back to 2007, was the first place our parents Rachel's parents and my parents mess.
+
+👤 あなた [6115s - 6125s]
+A meal there. It was the ziti's when we were there. Is it still the ziti's now? Yeah. It looked it looked amazing back then as well.
+
+👤 あなた [6125s - 6129s]
+Really nicely lit and everything. The kit the the kitchen's almost
+
+👤 あなた [6132s - 6136s]
+Yeah, that's right. The kitchen is in the area. Yeah. That's right.
+
+🎤 SPEAKER_2 [6137s - 6138s]
+So it's been like that for It's quite weird.
+
+👤 あなた [6138s - 6142s]
+For nearly thirty years. What have you? Yeah. Yeah. Was like Twinies.
+
+🎤 SPEAKER_2 [6142s - 6145s]
+Like, all features, everything. Yeah. Even on the back on the wall, everything was all Yeah.
+
+👤 あなた [6146s - 6155s]
+Yeah. It was it was Chocolate Chocolate is very wealthy, and so they have all these interesting places Do go to Chartland, would you prefer? No.
+
+👤 あなた [6155s - 6156s]
+No? No.
+
+🎤 SPEAKER_2 [6156s - 6157s]
+Wouldn't go there again. Yeah.
+
+👤 あなた [6159s - 6160s]
+It's
+
+👤 あなた [6164s - 6166s]
+But you visited and you've seen it.
+
+🎤 SPEAKER_2 [6166s - 6166s]
+But we've done it now anyway.
+
+👤 あなた [6166s - 6173s]
+Yeah. We've done in Chapman so Rich and I got married in in Chapman and it was our church we met there.
+
+🎤 SPEAKER_2 [6175s - 6176s]
+And let's Was there any judge,
+
+👤 あなた [6176s - 6177s]
+I mean Yeah.
+
+🎤 SPEAKER_2 [6178s - 6181s]
+Really ashamed that they they take me to place in Elba, then.
+
+👤 あなた [6181s - 6198s]
+To be honest, if it probably needed to die that type of church because it was probably dead already. Sometimes Jesus about pruning the church, cutting away the dead wood, which is not useful or beneficial and probably a bit of dead wood that needed cutting, to be honest. Well, out of you go then. Sorry, Lexi mate.
+
+👤 あなた [6198s - 6199s]
+Got a lock the building up.
+
+🎤 SPEAKER_2 [6199s - 6200s]
+Yeah.
+
+👤 あなた [6201s - 6206s]
+Come out. Come and enjoy it. Hey. You got Kempen holiday lined up this year, Deb? Which and I were looking at it?
+
+🎤 SPEAKER_2 [6207s - 6209s]
+Yeah. Probably will start camping until April now.
+
+👤 あなた [6209s - 6215s]
+No. Well, well, very Braver than us. We would bid minimum be made. Yep.
+
+🎤 SPEAKER_1 [6215s - 6215s]
+Because the wind it is.
+
+👤 あなた [6215s - 6220s]
+Is the wind is the problem. I think it it indicates us decide when in front of them. There's Judo's. No.
+
+🎤 SPEAKER_2 [6220s - 6221s]
+We shouldn't.
+
+👤 あなた [6224s - 6225s]
+Come on. We you in then.
+
+👤 あなた [6232s - 6240s]
+No. I think so. John, Steve, does that table normally go go away, or do we leave it out? Normally go away. Wait. Alright. I'll do I'll do it. I do. Don't Wait.
+
+🎤 SPEAKER_2 [6247s - 6247s]
+Thanks, John.
+
+👤 あなた [6248s - 6253s]
+I don't wanna do that. Don't worry. So I'm just gonna stick center. We're not the center's favorite people at the minute. That's all.
+
+🎤 SPEAKER_2 [6253s - 6253s]
+Yeah.
+
+👤 あなた [6253s - 6257s]
+Some reason even though we're probably the biggest biggest spenders, but there we are.
+
+👤 あなた [6263s - 6265s]
+Is that done? We'll go in the cover by the left of it.
+
+🎤 SPEAKER_3 [6265s - 6268s]
+No. It's Rachel. It's one of Rachel's tables. I pinch it for
+
+🎤 SPEAKER_1 [6272s - 6273s]
+Cheers, John.
+
+🎤 SPEAKER_2 [6273s - 6274s]
+Hey.
+
+👤 あなた [6274s - 6280s]
+Hi. Right. Tute. Do you wanna come with me? To now?
+
+👤 あなた [6284s - 6286s]
+Right. Should we we're going are we heading home first or straight?
+
+🎤 SPEAKER_2 [6288s - 6291s]
+Patty, we're going to the opposite of Forks.
+
+👤 あなた [6292s - 6294s]
+We're going to the place with a spoon.
+
+🎤 SPEAKER_2 [6294s - 6298s]
+No. We're going to somewhere.
+
+🎤 SPEAKER_2 [6300s - 6302s]
+We see some is opposite of walk.
+
+👤 あなた [6303s - 6304s]
+Oh.
+
+🎤 SPEAKER_2 [6304s - 6309s]
+Could we see where this is an fork spoon? So with a spoon.
+
+👤 あなた [6309s - 6318s]
+Is it with a spoon? That's what that was my joke. I don't think you noticed. Is it with a spoon? After spoons and for luncheon. See you later, John. Thanks, mate.
+
+🎤 SPEAKER_3 [6318s - 6319s]
+See you later, guys. Take care.
+
+👤 あなた [6319s - 6321s]
+You too. Thanks for today. You did a great job.
+
+👤 あなた [6331s - 6333s]
+You could have helped. How can we?
+
+🎤 SPEAKER_4 [6333s - 6335s]
+I helped so much.
+
+👤 あなた [6335s - 6338s]
+It's just nice to have a grown up when they're trying to busy
+
+🎤 SPEAKER_4 [6338s - 6339s]
+Helped by not helping.
+
+🎤 SPEAKER_0 [6380s - 6382s]
+Go straight. We won't go home. We'll just go straight.
+
+🎤 SPEAKER_1 [6384s - 6386s]
+Am I supposed to sit there?
+
+🎤 SPEAKER_0 [6427s - 6431s]
+I'm gonna go to Sesgo. How then, Jude? Good boy.
+
+👤 あなた [6441s - 6443s]
+Are you gonna be alright getting things in the house then?
+
+🎤 SPEAKER_1 [6438s - 6441s]
+Well I'll drive that car. You drive this one. Yeah. And I'll do we just get the laps?
+
+🎤 SPEAKER_2 [6449s - 6450s]
+See my socking cars.
+
+👤 あなた [6455s - 6459s]
+What I thought you literally got to jump into it. Oh, no. Because I'll wait. Cheers. Job.
+
+🎤 SPEAKER_2 [6460s - 6461s]
+So I'll kick you off in Tesco, then?
+
+👤 あなた [6462s - 6464s]
+Yeah. Alright. So you're happy to?
+
+👤 あなた [6486s - 6488s]
+This is low. Battery is low, man.
+
+🎤 SPEAKER_1 [6488s - 6489s]
+Okay.
+
+👤 あなた [6493s - 6500s]
+That's why my my mommy jumps on the it. She worries she's gonna run out of power. If it run out of power, I don't know how how to fix that.
+
+👤 あなた [6502s - 6503s]
+Before we can charge it.
+
+🎤 SPEAKER_1 [6504s - 6507s]
+How much is that? Now?
+
+👤 あなた [6509s - 6530s]
+It says 17 miles. But it's not really that accurate. I see. We're probably about two miles away, two to three miles away from Teskemysk. So if it's below 14 miles at the end of it, then we know in a rough experiment, the eyes are accurate.
+
+🎤 SPEAKER_1 [6544s - 6544s]
+Thank you.
+
+🎤 SPEAKER_1 [6602s - 6603s]
+How was you today?
+
+👤 あなた [6624s - 6632s]
+Me, Dominic, Joanna, So I was like she may do when you feel like she bit too young for itself. Oh, she's the age, but do want me When Did she join in?
+
+🎤 SPEAKER_1 [6632s - 6635s]
+Frankly, a new person.
+
+👤 あなた [6639s - 6641s]
+A phone with them. Alright.
+
+🎤 SPEAKER_3 [6642s - 6645s]
+Usually but but when they're not there, which is, like, a day, do you good.
+
+👤 あなた [6646s - 6647s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [6657s - 6660s]
+Yeah.
+
+👤 あなた [6660s - 6663s]
+So I understand that we're not eating dinner with a fork. We're eating it with a spoon today.
+
+👤 あなた [6666s - 6672s]
+We're not having our lunch with a fork. We're having it with a spoon.
+
+🎤 SPEAKER_1 [6674s - 6676s]
+Like that? About tow.
+
+👤 あなた [6677s - 6679s]
+Play onwards. Is that right? Is that where we're going?
+
+🎤 SPEAKER_1 [6679s - 6681s]
+Yeah. Okay.
+
+🎤 SPEAKER_3 [6681s - 6683s]
+I had to know that we've been to court.
+
+🎤 SPEAKER_1 [6684s - 6685s]
+Alright.
+
+👤 あなた [6687s - 6689s]
+Ja, dan denk ik er is een place called Fox, ja.
+
+🎤 SPEAKER_3 [6690s - 6691s]
+Make a place called Forks.
+
+👤 あなた [6691s - 6695s]
+You can make a place called Winter Fork. No. Or Windher Fork.
+
+🎤 SPEAKER_1 [6695s - 6696s]
+What?
+
+🎤 SPEAKER_3 [6697s - 6701s]
+What's a different much for worth? Climate. Fog. Climate fog.
+
+👤 あなた [6701s - 6703s]
+Climate fog. It it sounds It sounds
+
+🎤 SPEAKER_1 [6709s - 6710s]
+Onward and west.
+
+🎤 SPEAKER_3 [6710s - 6713s]
+Weather fog. Anyway, omelets have a long Yeah.
+
+👤 あなた [6713s - 6714s]
+It's true.
+
+👤 あなた [6717s - 6720s]
+Weathers have Weather can also mean whether I'm wearing shorts or whether I'm wearing trousers.
+
+🎤 SPEAKER_1 [6786s - 6787s]
+No.
+
+🎤 SPEAKER_3 [6787s - 6788s]
+And there's a smile.
+
+🎤 SPEAKER_1 [6790s - 6793s]
+What is that? I'm not sure how much is quite strong.
+
+👤 あなた [6803s - 6804s]
+Maybe it's a small Maybe it's just me.
+
+🎤 SPEAKER_1 [6805s - 6809s]
+Is it me? No.
+
+🎤 SPEAKER_3 [6810s - 6813s]
+If it was me, I'd I'd rest about it. No. Sure.
+
+🎤 SPEAKER_1 [6814s - 6815s]
+Maybe it's maybe it's me.
+
+🎤 SPEAKER_3 [6822s - 6826s]
+They they they cover the the speech sign. Black.
+
+👤 あなた [6826s - 6828s]
+Yeah. Because it's not 30 anymore. It's 20.
+
+👤 あなた [6832s - 6843s]
+My wife, they put, like, a Literally nobody pays attention to the speed of it, unfortunately. Why? Well, because everyone's like, well, used to be 30. My whole life has been 30. I'm not changing it to 20 a, and b, when was the last time you saw a police car around?
+
+👤 あなた [6845s - 6850s]
+Did you do see a police car, they're usually on their way to somewhere, aren't they? When I was growing up, you'd have traffic police.
+
+👤 あなた [6851s - 6863s]
+Police literally, only job was to drive around and catch people doing things they shouldn't be doing. Do you have Like speeding, cops. Yeah. It's still we sell it in The UK, but No.
+
+👤 あなた [6864s - 6869s]
+Mainly as motorways now and other things. But the police are for is much smaller now.
+
+🎤 SPEAKER_1 [6869s - 6869s]
+Alright.
+
+👤 あなた [6869s - 6882s]
+Now there's less crime. Just because you shouldn't I don't know. When I was your age, big big crime happened all the time was people break in someone's car and they would steal their radio.
+
+👤 あなた [6882s - 6906s]
+Why? Because the radios used to be like it was, like, two like, a size of a brick. Two of them, and they would slot in. You'd slot them into your car and all you gotta do is undo two screws and pull it out and you've them as radio. And so, obviously, when the radio started getting built into the car, then that stopped that crime.
+
+🎤 SPEAKER_3 [6906s - 6907s]
+Beautiful.
+
+👤 あなた [6907s - 6912s]
+And cars used to be really easy to do. But now that it's near impossible now.
+
+🎤 SPEAKER_1 [6912s - 6913s]
+My?
+
+👤 あなた [6914s - 6924s]
+Oh, I can't manufacturers have got clever now. Like, since we saw this car, wouldn't get very far if they didn't have a key because the key if the car's the key's not in range, the engine won't work.
+
+🎤 SPEAKER_3 [6925s - 6926s]
+They do the old cars?
+
+👤 あなた [6927s - 6937s]
+Well, back back in the day before the Internet and everything. If you pull this off underneath and there'd two wires and there would cut them and then put them together and it would make the engines out.
+
+👤 あなた [6938s - 6948s]
+Hot wire car, usually called. So that was another crime that I've got then. Yeah. Other third crime is burglary. People should break into people's a lot and steal their stuff.
+
+🎤 SPEAKER_3 [6948s - 6949s]
+Does that happen?
+
+👤 あなた [6949s - 6959s]
+That much lesser now. Because just be honest, most people's houses don't have that much expensive stuff in. And it's hard to sell. Still in stuff anyway.
+
+🎤 SPEAKER_3 [6961s - 6971s]
+What's it? What's that road that we go down? What path? That road we walk down and go? Going to the city of the car.
+
+👤 あなた [6971s - 6983s]
+Oh, that one. Know? Yeah. I think that's more of a scrap dealer that one. A car has been written off as not too expensive to fix. Mhmm. So it seems as a crack.
+
+👤 あなた [6983s - 6987s]
+Windows. Yeah. People probably break into whatever.
+
+🎤 SPEAKER_3 [6988s - 6988s]
+Yeah.
+
+👤 あなた [6991s - 6994s]
+But it might be just kids just thinking that just mucking about. I don't know.
+
+🎤 SPEAKER_3 [6994s - 6994s]
+I know.
+
+🎤 SPEAKER_1 [6994s - 6997s]
+Teens.
+
+👤 あなた [6997s - 6999s]
+Yeah. Which to me a kid would be?
+
+🎤 SPEAKER_3 [7001s - 7001s]
+To me, then teens.
+
+🎤 SPEAKER_1 [7002s - 7002s]
+Yeah.
+
+👤 あなた [7012s - 7024s]
+Right. It's down to four fourteen. So that's pretty accurate at the end, that it? The battery is down to 14 miles. So that was about it said that, you know, that worked out about right probably.
+
+🎤 SPEAKER_1 [7024s - 7025s]
+In the end.
+
+🎤 SPEAKER_3 [7030s - 7030s]
+You know what we're testing?
+
+👤 あなた [7033s - 7042s]
+If the miles went down the accurate amounts, or if they were down quicker than they said they're 20 miles left. Is it really 20 miles left or less?
+
+🎤 SPEAKER_3 [7042s - 7042s]
+So you went down to it.
+
+👤 あなた [7043s - 7051s]
+It was at 17 miles left. It's now 14 miles And I thought it was about two or three miles from here to the church.
+
+👤 あなた [7062s - 7073s]
+Because They did every charge. It is a bit of a problem this It's a bit of a problem with the fact that I'm trying to find a blinking charger.
+
+🎤 SPEAKER_3 [7073s - 7074s]
+Spine one.
+
+🎤 SPEAKER_1 [7079s - 7080s]
+Come Omi. Omi.
+
+👤 あなた [7080s - 7081s]
+Because he's a meanie.
+
+🎤 SPEAKER_1 [7085s - 7085s]
+Why?
+
+👤 あなた [7094s - 7102s]
+But let me plug this in then. Hopefully, it's gonna work because last time I giving me free free charge. But every five minutes the connection was disconnected.
+
+👤 あなた [7103s - 7105s]
+It's not a problem if I'm staying here, but if I'm not staying yet,
+
+🎤 SPEAKER_1 [7165s - 7166s]
+It's charging. Again.
+
+🎤 SPEAKER_3 [7281s - 7282s]
+Even though remember that place.
+
+👤 あなた [7299s - 7301s]
+Was it how was it getting at a church today, Omi?
+
+🎤 SPEAKER_1 [7302s - 7303s]
+The drain.
+
+
+---
+
