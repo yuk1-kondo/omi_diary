@@ -1079,3 +1079,197 @@ Friday.
 
 ---
 
+
+
+## 📝 Fragmented Audio Snippets and Tool Demonstration - 44065133-0ef6-441d-b419-a1e119ac3bb4
+
+**記録時間**: 2026-02-24 20:00:38
+
+### STT生テキスト
+
+🎤 SPEAKER_5 [0s - 3s]
+He delivered lessons and helped us fit the skills into our lessons.
+
+🎤 SPEAKER_7 [5s - 8s]
+Schools that like there It helps They just did two dogs of no learning bad skills.
+
+🎤 SPEAKER_7 [13s - 19s]
+I mean, I'm pretty about Blue King's headed. Like, if you train like, person well enough, they'll know to use the back. They don't have to tell them anymore.
+
+🎤 SPEAKER_7 [19s - 20s]
+Thanks.
+
+🎤 SPEAKER_8 [20s - 25s]
+Allison Allison Freedman, what you're saying is absolutely hearable. Here. You've gotta stop.
+
+🎤 SPEAKER_9 [31s - 33s]
+Acá en la radio.
+
+🎤 SPEAKER_4 [39s - 40s]
+Three wing boomerang.
+
+👤 あなた [41s - 41s]
+Wing boomerang.
+
+🎤 SPEAKER_4 [96s - 106s]
+This is OpenYapper. It's an open source clone of whisper flow where you can speak to your mic, and it will be transcribing an pasting it for you. You can set up your own diction.
+
+🎤 SPEAKER_10 [149s - 154s]
+You guys said the chicken didn't care about me. They only cared I have food.
+
+🎤 SPEAKER_8 [179s - 181s]
+I was just not the one that hurts.
+
+🎤 SPEAKER_11 [182s - 183s]
+I need you to just chill about it.
+
+🎤 SPEAKER_11 [188s - 194s]
+It doesn't hurt that there's not enough. You got everything in the shade off.
+
+👤 あなた [195s - 195s]
+There we go.
+
+👤 あなた [223s - 225s]
+Copilot, three reviews,
+
+🎤 SPEAKER_4 [236s - 239s]
+And still things, like, ChatGPT.
+
+🎤 SPEAKER_12 [240s - 245s]
+I was given a cup by a friend and the top of the cup is sealed. And the bottom is open. How do I drink from this?
+
+🎤 SPEAKER_1 [246s - 249s]
+Well, unless you want to wear your drink as a fashion statement, that cup's not going to be very functional.
+
+🎤 SPEAKER_13 [251s - 262s]
+A sealed top means there's no easy way in, and an open body means everything pours out. If it's some kind of joke or novelty item, you can have a laugh. Just grab a different cup when you actually want to drink something.
+
+🎤 SPEAKER_12 [266s - 271s]
+Here in California at this UPS store in San Diego over but I will I will not forget them.
+
+🎤 SPEAKER_2 [281s - 284s]
+I'm never gonna forget them.
+
+🎤 SPEAKER_5 [286s - 287s]
+Can you leave?
+
+🎤 SPEAKER_2 [289s - 289s]
+No.
+
+🎤 SPEAKER_5 [294s - 295s]
+Can you get away?
+
+🎤 SPEAKER_2 [296s - 296s]
+Come on.
+
+🎤 SPEAKER_12 [299s - 299s]
+Come on.
+
+🎤 SPEAKER_13 [299s - 299s]
+No.
+
+🎤 SPEAKER_5 [299s - 301s]
+Can you leave us alone? Hey.
+
+🎤 SPEAKER_1 [305s - 306s]
+No.
+
+🎤 SPEAKER_14 [306s - 308s]
+You You didn't. Snip out of place. Yep.
+
+👤 あなた [309s - 309s]
+Come on.
+
+🎤 SPEAKER_5 [309s - 310s]
+No.
+
+🎤 SPEAKER_14 [310s - 313s]
+Yep. Oh, I Can you leave?
+
+🎤 SPEAKER_2 [315s - 315s]
+Hi.
+
+🎤 SPEAKER_1 [326s - 328s]
+Because, Micah, we are gonna do a segment about breast.
+
+🎤 SPEAKER_15 [328s - 340s]
+Unfortunately, we do feel that you have consistently proven that you can't stay professional in these segments where we're talking about breast. So we would just production would like to ask you, are you comfortable with just staying silent whilst we
+
+👤 あなた [340s - 342s]
+Come on, Kath.
+
+🎤 SPEAKER_1 [342s - 343s]
+Do this. No.
+
+🎤 SPEAKER_15 [343s - 350s]
+We we would think it's for the best. We think it's for the best. Not a word. Just silence. Said walking. Visible. No laughs. You know?
+
+🎤 SPEAKER_1 [351s - 351s]
+That okay?
+
+🎤 SPEAKER_5 [351s - 352s]
+Can we agree?
+
+🎤 SPEAKER_15 [353s - 363s]
+Can we agree? You can't trust me? No. We can't. Experience has us not to trust you in this area. Trust me. I'm sorry. No. If you could just agree, and we can move on with the segment.
+
+🎤 SPEAKER_16 [364s - 365s]
+Please. No.
+
+🎤 SPEAKER_15 [366s - 371s]
+Very much. Alright. So, four games, who here likes pressed? Like breast?
+
+🎤 SPEAKER_12 [371s - 377s]
+You do too? I like the shape of them. Uh-huh. Yeah. No. Do. I mean, you you look at the setup from the manager what he's got.
+
+🎤 SPEAKER_17 [378s - 380s]
+You know? But he's gonna back up full.
+
+🎤 SPEAKER_12 [380s - 381s]
+But he's he's got on the front two tonight?
+
+🎤 SPEAKER_17 [382s - 389s]
+Yeah. Two big two big big pair of front that are going to try to trouble This way I can fit you there?
+
+🎤 SPEAKER_12 [392s - 394s]
+Yeah.
+
+🎤 SPEAKER_11 [398s - 399s]
+Yo, check this hero. That's what they're never doing.
+
+🎤 SPEAKER_8 [399s - 402s]
+I count it here. I count it there. They totally make someone's career.
+
+🎤 SPEAKER_18 [403s - 405s]
+And somebody's gonna look back with a regret.
+
+🎤 SPEAKER_19 [405s - 406s]
+Rudolph drooping crowd.
+
+🎤 SPEAKER_14 [498s - 499s]
+Vediamo se riesce a portar fuori velocità.
+
+🎤 SPEAKER_2 [509s - 510s]
+Hey, wait.
+
+🎤 SPEAKER_1 [533s - 534s]
+Drink.
+
+🎤 SPEAKER_20 [538s - 549s]
+Lance and White One in the shed on the 14 year old boy and 16 year old girl and one in a room upstairs with no bed only its heart floor that stayed on the nine year old girl and 11 year old boy.
+
+🎤 SPEAKER_20 [550s - 561s]
+The video showed a daily routine of waking up early and being forced to stand with hands on head unable to change your shower, receiving only peanut butter sandwiches to eat before going back to bed on the floor.
+
+🎤 SPEAKER_12 [566s - 567s]
+In this no puede pasar.
+
+👤 あなた [580s - 586s]
+And my wife, on one of the rare visits to London, had a credit card storeman and and I monitored the use of the card
+
+🎤 SPEAKER_21 [589s - 593s]
+I have to say I didn't report it to the police because the thief was spending less than she wants.
+
+
+---
+
