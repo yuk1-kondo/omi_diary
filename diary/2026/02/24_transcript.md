@@ -2810,3 +2810,104 @@ Threw it at me because it okay. Well, it's the law saying What your son? You're 
 
 ---
 
+
+
+## 📝 Charlie Discusses Badge Book And Top Gear Lap Times - ee60cc72-aabf-4f07-891d-94199f255b78
+
+**記録時間**: 2026-02-24 22:24:11
+
+### STT生テキスト
+
+🎤 SPEAKER_39 [1s - 5s]
+Hi, my name is Charlie, about eight months ago, I wrote Oh, I badge book.
+
+🎤 SPEAKER_14 [7s - 9s]
+Now this is a book of 52 merit badges, a bit like if you're a cub or brownie when you're little, but these are specifically designed for if you want to do your camping band or your artist band, your musician, you just go to the relevant page, and it tells you what you need to do to complete your badge.
+
+🎤 SPEAKER_29 [20s - 29s]
+I think but in case this gets awkward later, I think I should bring this up now. Yes. That, John Bishop, you do have a connection to Tom Cruise.
+
+🎤 SPEAKER_38 [29s - 32s]
+Yes. Yes. You do? Yes. Yeah.
+
+🎤 SPEAKER_23 [32s - 39s]
+We do have a connection because we were both I was on gear. Shortly after Tom was on Top
+
+🎤 SPEAKER_16 [39s - 39s]
+Gear.
+
+🎤 SPEAKER_29 [39s - 40s]
+This is the star in a reasonably priced car?
+
+🎤 SPEAKER_4 [41s - 43s]
+The star in a reasonably priced car.
+
+🎤 SPEAKER_29 [43s - 44s]
+And you did very well, Tom.
+
+🎤 SPEAKER_6 [45s - 45s]
+I did it.
+
+🎤 SPEAKER_16 [45s - 46s]
+Right?
+
+🎤 SPEAKER_38 [46s - 47s]
+Yeah. Yeah. Top of the leaderboard.
+
+🎤 SPEAKER_12 [47s - 48s]
+How did you do,
+
+🎤 SPEAKER_16 [48s - 48s]
+John?
+
+🎤 SPEAKER_29 [50s - 51s]
+Well, here's the leaderboard.
+
+🎤 SPEAKER_12 [52s - 54s]
+John Bishop. Yeah.
+
+🎤 SPEAKER_14 [54s - 55s]
+Beat you. Two seconds.
+
+🎤 SPEAKER_23 [69s - 73s]
+To me, to Tom Cruise, Cameron Diaz, and then and then
+
+🎤 SPEAKER_19 [74s - 76s]
+Reaper Clinch is forward, wasn't he?
+
+🎤 SPEAKER_1 [76s - 76s]
+Reaper Clinch.
+
+🎤 SPEAKER_2 [77s - 77s]
+Yes.
+
+🎤 SPEAKER_26 [77s - 78s]
+That's a wizard.
+
+🎤 SPEAKER_2 [78s - 79s]
+I even beat a wizard.
+
+🎤 SPEAKER_38 [83s - 84s]
+I mean, dad, you didn't just beat us.
+
+🎤 SPEAKER_27 [84s - 85s]
+You crushed us.
+
+🎤 SPEAKER_40 [85s - 96s]
+That's one forty two point eight. That's that's a good, full second and a half on I know undertaking it. Like, you can drive cars in your range. I've got zero interest in cars. I I
+
+🎤 SPEAKER_40 [98s - 99s]
+you chose the wrong profession.
+
+🎤 SPEAKER_16 [99s - 100s]
+I'm sorry.
+
+🎤 SPEAKER_19 [100s - 100s]
+I'm some?
+
+🎤 SPEAKER_1 [215s - 233s]
+It is great. It's so good. This is good. Oh, nice. Yeah. Yeah. Yeah. No more. That's it. Oh, thank you. I mean, we're all so tight that we kinda see each other We see each other anyway.
+
+
+---
+
