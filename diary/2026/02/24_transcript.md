@@ -2555,3 +2555,179 @@ Where's the pop?
 
 ---
 
+
+
+## 📝 AJ Styles Announces Retirement And WWE Hall Induction - edb50134-da21-44a8-ac6f-75f0550869e3
+
+**記録時間**: 2026-02-24 21:48:40
+
+### STT生テキスト
+
+🎤 SPEAKER_11 [0s - 6s]
+I was gonna wear a suit tonight, but the last time I did, I beat the piss out Jody Rhodes. So I thought maybe maybe I don't wear a suit.
+
+🎤 SPEAKER_16 [10s - 10s]
+Listen.
+
+🎤 SPEAKER_11 [13s - 15s]
+I I thought those are gonna be easy.
+
+🎤 SPEAKER_26 [15s - 17s]
+So when I get a little choked up, it's not because I'm sad.
+
+🎤 SPEAKER_11 [20s - 21s]
+Just want you guys to know that.
+
+🎤 SPEAKER_18 [34s - 39s]
+I am so grateful to be in Atlanta, Georgia.
+
+🎤 SPEAKER_18 [48s - 52s]
+I mean, I grew up forty five minutes down the road in Gainesville, Georgia.
+
+🎤 SPEAKER_31 [58s - 66s]
+And that is a lot of People don't get to have a celebration like this when they retire. So I am incredibly thankful for this night.
+
+🎤 SPEAKER_2 [67s - 70s]
+I understand again that this doesn't happen very often, so thank you.
+
+🎤 SPEAKER_31 [82s - 86s]
+But in that core, I'm still that kid from gays Georgia who fell in love with professional wrestling.
+
+🎤 SPEAKER_18 [89s - 99s]
+And I wrestled in Gainesville, Georgia and I wrestled in the asylum NTNA in Nashville. And I wrestled in the Tokyo Dome in
+
+🎤 SPEAKER_16 [99s - 99s]
+Japan.
+
+🎤 SPEAKER_11 [102s - 104s]
+And I wrestled on the bright lights of WrestleMania.
+
+🎤 SPEAKER_18 [112s - 125s]
+And, man, I wrestle some OGs. In TNA. Daniels, Joe, Frankie Casarian, we made a mark in wrestling, not just in TNA, but in professional wrestling.
+
+🎤 SPEAKER_2 [126s - 130s]
+And then with some uncertainty, I left G and A and I went to Japan.
+
+🎤 SPEAKER_31 [134s - 136s]
+And I met some good brothers over there.
+
+🎤 SPEAKER_11 [144s - 149s]
+These guys, gallows and your you show me what it's like to have fun in pro wrestling.
+
+🎤 SPEAKER_18 [149s - 153s]
+He's not serious all the time. And if I'm having fun, that means you're having fun and that's what it's all about.
+
+🎤 SPEAKER_11 [164s - 166s]
+Done almost everything
+
+🎤 SPEAKER_16 [169s - 170s]
+Almost.
+
+🎤 SPEAKER_16 [176s - 176s]
+I can tell you this.
+
+🎤 SPEAKER_18 [177s - 181s]
+The one thing that I haven't done is be a full time father.
+
+🎤 SPEAKER_26 [191s - 196s]
+And you've heard this before.
+
+🎤 SPEAKER_31 [197s - 203s]
+Miss birthdays, missed anniversaries, I've missed games. I missed name it. I missed it all.
+
+🎤 SPEAKER_31 [206s - 207s]
+And that's tough.
+
+🎤 SPEAKER_19 [208s - 212s]
+That's done.
+
+🎤 SPEAKER_18 [213s - 215s]
+And my flex should be at least most people think my flex should be all the world championships.
+
+🎤 SPEAKER_18 [219s - 221s]
+That I've won all over the world.
+
+🎤 SPEAKER_31 [222s - 223s]
+But I'll tell you my biggest flex.
+
+🎤 SPEAKER_26 [224s - 230s]
+Right here in front of god and everybody that led into it. My biggest flex is having the best wife in the world.
+
+🎤 SPEAKER_26 [240s - 245s]
+You never slowed me down. You've never told me to stop.
+
+🎤 SPEAKER_31 [245s - 247s]
+You cut pushing me forward.
+
+🎤 SPEAKER_18 [247s - 253s]
+You held the family together even though I watched them grow on FaceTime. You're the one.
+
+🎤 SPEAKER_31 [266s - 270s]
+Thank you guys for being here. Avery, Andy, love you.
+
+🎤 SPEAKER_18 [271s - 272s]
+AJ's at home with a blue loved boy.
+
+🎤 SPEAKER_11 [274s - 277s]
+But here's the thing. I know that things may have not went the way that you wanted to.
+
+🎤 SPEAKER_26 [282s - 283s]
+Like, it's gutter at the Royal Rumble?
+
+🎤 SPEAKER_18 [289s - 299s]
+Jillian Turk It's not the way that iPhone inputted. That it should've went. But here's the thing, when you think about it, it was kinda poetic.
+
+🎤 SPEAKER_16 [302s - 303s]
+Hear me out.
+
+🎤 SPEAKER_18 [305s - 309s]
+Not many people get to go out where they started.
+
+🎤 SPEAKER_11 [313s - 326s]
+My debut was at the Royal Rumble in 2016. And my match, my last one against gutter, was at the Royal Rumble in 2026.
+
+🎤 SPEAKER_11 [332s - 335s]
+Now I know there's some questions about I didn't leave my gloves in the ring.
+
+🎤 SPEAKER_11 [339s - 346s]
+Here's the thing. I am a man about words. And at the end of the day, all we have is our word.
+
+🎤 SPEAKER_11 [365s - 384s]
+I didn't take off my gloves at the Royal Rumble. Because I wanted to take them with me to the house and come here to Atlanta and be in this ring and lift my gloves at home.
+
+🎤 SPEAKER_11 [410s - 416s]
+I would have been nothing without you Thank you for your love. I love you right back.
+
+🎤 SPEAKER_3 [535s - 536s]
+What would the ticket make it by him?
+
+🎤 SPEAKER_10 [643s - 645s]
+You're just gonna leave your stuff here at leave.
+
+🎤 SPEAKER_19 [653s - 655s]
+Omi and you, we are not finished business.
+
+🎤 SPEAKER_36 [659s - 659s]
+I don't think so.
+
+🎤 SPEAKER_18 [666s - 668s]
+You are here the phrase, if you see me coming, you're already gone.
+
+🎤 SPEAKER_18 [679s - 681s]
+I changed that phrase a little bit.
+
+🎤 SPEAKER_32 [683s - 688s]
+Because if you see me coming, that means you're going.
+
+🎤 SPEAKER_16 [691s - 692s]
+AJ,
+
+🎤 SPEAKER_31 [700s - 702s]
+It is my esteemed honor to inform you that you are the newest in the 2026 class, of the WWE
+
+🎤 SPEAKER_19 [733s - 734s]
+Paul.
+
+
+---
+
