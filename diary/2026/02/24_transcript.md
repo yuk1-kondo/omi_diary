@@ -949,3 +949,38 @@ I wonder if that is, Paul making a similar point perhaps to what Jesus was sayin
 
 ---
 
+
+
+## 📝 Discussion on How Apostles Read Scripture - e53f295c-2d6e-4fdf-abb9-86867c4214d1
+
+**記録時間**: 2026-02-24 19:21:33
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 0s]
+Yeah. Very good.
+
+🎤 SPEAKER_2 [5s - 6s]
+Yes.
+
+🎤 SPEAKER_3 [22s - 29s]
+Just just a quick just a quick follow-up, Stefan, if I can. That was very interesting. Because, obviously, we're talking about the the right of the the apostles to reinterpret.
+
+🎤 SPEAKER_3 [30s - 54s]
+Supposedly scripture in a way that we cannot cannot reproduce. But connected to that, I'm wondering about are they also modeling how scripture is meant to be read to us and thus in some ways, scripture is meant to be accessible to to fishermen, as well as Leonard. But on saying that, fishermen, as you've already pointed out, would have known the Psalms really well and possibly more so. We don't have that today.
+
+🎤 SPEAKER_3 [55s - 85s]
+So in a sense of modeling how we read scripture or even as preachers how we you know, approach scripture in this way. Are we are they are the apostles modeling for us then a way which we're meant to be reading scripture and thus right. So in that sense, it isn't just kind of something we can't reproduce. In fact, we we should be doing so, but on on the foundation of of good knowledge of of the of the Old Testament particularly as well.
+
+🎤 SPEAKER_3 [86s - 87s]
+Is that have I got you right there?
+
+🎤 SPEAKER_2 [187s - 188s]
+Alright.
+
+👤 あなた [190s - 191s]
+Yeah. There you
+
+
+---
+
