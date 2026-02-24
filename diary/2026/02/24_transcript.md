@@ -984,3 +984,98 @@ Yeah. There you
 
 ---
 
+
+
+## 📝 Fragmented Classroom and Conversation Snippets - 8e616434-7ed0-42ee-b9ca-58f047e510e5
+
+**記録時間**: 2026-02-24 19:48:53
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+Yes.
+
+🎤 SPEAKER_2 [36s - 38s]
+Amen. Amen.
+
+🎤 SPEAKER_2 [111s - 112s]
+It sound cool.
+
+🎤 SPEAKER_2 [118s - 119s]
+Play.
+
+🎤 SPEAKER_4 [150s - 153s]
+So, well, here pretty this thing is called a golpe.
+
+🎤 SPEAKER_2 [153s - 155s]
+It is punch. It's punch. You know?
+
+🎤 SPEAKER_4 [159s - 167s]
+Let me make it a bit deeper. Like like a hard work, like, just my wrist. Like, the five
+
+🎤 SPEAKER_2 [241s - 241s]
+Hello?
+
+🎤 SPEAKER_2 [275s - 275s]
+Hello?
+
+🎤 SPEAKER_2 [281s - 284s]
+You wanna do what? There you go.
+
+🎤 SPEAKER_4 [287s - 289s]
+Are you take out? Out. Oh, I'll go. I'll skip him.
+
+👤 あなた [351s - 352s]
+Friday.
+
+🎤 SPEAKER_5 [352s - 355s]
+Delivers lessons and help that spit up
+
+🎤 SPEAKER_1 [389s - 390s]
+Friday.
+
+🎤 SPEAKER_5 [391s - 395s]
+He delivers lessons and helps us fit those skills into our Excellent.
+
+🎤 SPEAKER_7 [398s - 399s]
+Like, to know their very bad school.
+
+🎤 SPEAKER_7 [403s - 411s]
+I mean, I'm pretty lucky he said it. Like, if you've trained a black person well enough, they'll know to use the back. They don't have to tell them anymore.
+
+👤 あなた [415s - 416s]
+They Allison Freedman, what you're saying is hearable here.
+
+🎤 SPEAKER_8 [417s - 419s]
+You've gotta stop.
+
+🎤 SPEAKER_1 [435s - 435s]
+Okay.
+
+🎤 SPEAKER_7 [435s - 437s]
+I'm sorry, sweetie. Go ahead, baby. I'm sorry.
+
+🎤 SPEAKER_5 [438s - 440s]
+So be in many of the students. They break last week.
+
+🎤 SPEAKER_5 [448s - 453s]
+Friday. He delivers lessons and helps us fit those skills into our lessons.
+
+🎤 SPEAKER_7 [466s - 472s]
+I mean, apparently, he said it. Like, if you've trained a live person well enough, they'll know what used the back. You don't have to tell them anymore. They I'll send I'll send premed.
+
+🎤 SPEAKER_8 [473s - 474s]
+What you're saying is
+
+👤 あなた [481s - 482s]
+Absolutely here.
+
+🎤 SPEAKER_8 [485s - 488s]
+Trouble here. You gotta stop.
+
+🎤 SPEAKER_4 [495s - 496s]
+Friday.
+
+
+---
+
