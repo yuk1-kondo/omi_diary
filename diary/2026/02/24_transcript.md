@@ -337,3 +337,392 @@ Alright.
 
 ---
 
+
+
+## 📝 Rachel And Rhys Resolve Door-Safety Disagreement - 6b5407a2-5385-4918-ab6e-4684444df945
+
+**記録時間**: 2026-02-24 16:45:14
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+I get on juice.
+
+👤 あなた [9s - 11s]
+Just go with the catalytic rather than against it then.
+
+🎤 SPEAKER_2 [12s - 16s]
+But what do you really want me to unclean it? No.
+
+🎤 SPEAKER_1 [16s - 16s]
+No.
+
+👤 あなた [16s - 17s]
+Well, you haven't got it like that. Does it?
+
+🎤 SPEAKER_1 [17s - 18s]
+It just goes up a bit.
+
+🎤 SPEAKER_2 [23s - 27s]
+Now No. Side power in there.
+
+🎤 SPEAKER_1 [32s - 38s]
+I don't wanna I don't want us to go to work with being mad at each other. I understand your reasons for doing it. You felt it was really important.
+
+🎤 SPEAKER_1 [39s - 53s]
+Principle to enforce. I wanna necessarily go into the details. But I understand why you did it. I equally dislike I dislike the the mid interruption. It tells me we don't need to go into it, but I've I've made it clear in past.
+
+🎤 SPEAKER_2 [53s - 69s]
+And I and I understand that. I don't want to interrupt you and I want to What are gonna say? And not interrupt? But in that that for me, it's the same, like, it's like you saying don't interrupt. I know the house is on fire, let me finish up saying first because otherwise you're kinda not gonna see your emotions on this.
+
+🎤 SPEAKER_1 [69s - 76s]
+I think you see my I don't wanna get into it, I think I don't think you see my wider point which is is a common habit you do irrelevant to the issue.
+
+🎤 SPEAKER_2 [76s - 80s]
+No. No. But I'm not happy about the fact that you're relating it to any other wider point.
+
+🎤 SPEAKER_1 [81s - 82s]
+I'm saying Well, it is. You don't realize clearly.
+
+🎤 SPEAKER_2 [83s - 91s]
+No. But no. But I don't see how you can it to me interrupting you because telling you that don't forget Jude's got pee tomorrow.
+
+👤 あなた [91s - 92s]
+I left it open on purpose.
+
+🎤 SPEAKER_2 [93s - 94s]
+I wasn't happy with that.
+
+👤 あなた [95s - 105s]
+Babe, how do you know I was not literally up to say something and downstairs. How do you know that I was not gonna walk in here, say one sentence and walk back downstairs? You did. You didn't know that.
+
+👤 あなた [105s - 108s]
+Please. No. No. Answer my question.
+
+🎤 SPEAKER_2 [108s - 116s]
+Honey, I know that but you No. Funny. Yeah. But it doesn't matter, Reese. I would never leave a You were fully in here.
+
+👤 あなた [116s - 137s]
+My laptop is right behind Babe, babe, babe, opportunist. No, please. Please. No, babe. I don't think you're Be no, just do a little be a little bit of be a little bit amiable to reflect self reflection rather than just I for all you didn't know this, I was gonna do that and then walk back down again because I carrying something up. Yep. Yep. Don't tell me that you've never opened the door, walked upstairs, grabs him, walked her down because you have.
+
+👤 あなた [138s - 152s]
+Anyway, I don't want a row. I understand why you said what you did. I don't like it when I don't like when you do that. But I always most of the time, I look at you. I eye contact, I'm engaged in what you're saying, I'm not thinking I must see this.
+
+🎤 SPEAKER_2 [153s - 159s]
+Grace, I'm telling you, you cannot compare the two. I'm sorry. Time and again.
+
+👤 あなた [159s - 162s]
+I want you you have I've already proven that I can. No.
+
+🎤 SPEAKER_2 [162s - 173s]
+Please. I Time it again. Honey, are you are you're happy with the front door being open, but literally you forget all the time. Went into church in the day and the boot just over from the car.
+
+👤 あなた [173s - 183s]
+Babe, I look the car was open. The front door was open. You didn't know that. I didn't know the front door was open. You didn't know the car was open. You didn't know that I was gonna come up here and say, quick sentence. But what I said yes.
+
+🎤 SPEAKER_2 [183s - 187s]
+But what I was saying is, can we just come and explain Yeah.
+
+👤 あなた [187s - 197s]
+Can you at least If I'm going on for more than one If I'm going on for more than ten seconds, by all means, but you went straight in, I don't like it. I've told you in the past. I want to get into it now.
+
+👤 あなた [197s - 198s]
+Just letting you know.
+
+🎤 SPEAKER_2 [198s - 203s]
+But Reese, I'm sorry. Still, you like, the sense of importance for me.
+
+👤 あなた [203s - 204s]
+Opportunist thesis You need to learn.
+
+🎤 SPEAKER_2 [204s - 216s]
+Is right there. If the front door's open and my handbag's not there, my laptop's not there. Okay. Fine. If there's not as much opportunistness, some but when it's lit right there, delivery man cubs, great. Let's take Rachel's laps and pearl. Babe.
+
+🎤 SPEAKER_7 [216s - 217s]
+No.
+
+👤 あなた [217s - 217s]
+Don't Listen.
+
+🎤 SPEAKER_2 [218s - 219s]
+More important than what Babe.
+
+👤 あなた [219s - 224s]
+Babe. You're assuming there that the door's gonna be open for minutes at a time.
+
+🎤 SPEAKER_3 [224s - 224s]
+It matter.
+
+🎤 SPEAKER_1 [224s - 225s]
+Who It does.
+
+🎤 SPEAKER_5 [225s - 225s]
+Right.
+
+👤 あなた [225s - 230s]
+Anyways, have a good day. Let me know. Let let me know how your appraisal goes,
+
+🎤 SPEAKER_2 [230s - 230s]
+Rachel.
+
+👤 あなた [232s - 233s]
+But I You're not.
+
+🎤 SPEAKER_2 [234s - 242s]
+But If you cannot compare, me and interrupting because I want to tell you that I'm thirsty to there's a door wide open. I'm sorry. That little door needs to be showing.
+
+👤 あなた [242s - 251s]
+Yes. I know it's open. I was, like, about to explain to you why it was open. You just heard me that you never open front door, come up, says, grab someone, go back down with them.
+
+👤 あなた [252s - 256s]
+Honey. And the door, which you didn't even see I see. Was No.
+
+🎤 SPEAKER_1 [256s - 257s]
+You were you were there.
+
+👤 あなた [258s - 260s]
+Yeah. I was here. You never walked out and looked.
+
+🎤 SPEAKER_2 [260s - 264s]
+Well, no. Did because then I followed you and I saw how far why it was open.
+
+👤 あなた [264s - 266s]
+It wasn't even far wide open.
+
+🎤 SPEAKER_2 [266s - 297s]
+It was wasn't completely open like that, but it was to come say, honey, I I I I I I I understand that you don't wanna be talking to me, and I'm working on that. But that situation is complete it's two completely different things. Now obviously, if you perceive that there's no risk to door be open, you're gonna think it was a point that's interruption and not fair. I clearly perceive that risk to be way higher than you do, but that's always been the case. You've never had a problem with things being on. I'm saying, don't think that door wrote for why she used it. Because my handbag's hanging up. You're like, well, it's fine. You're always gonna take your handbag.
+
+🎤 SPEAKER_2 [298s - 304s]
+So we clearly we had a different perceived risk of the situation. Just why I was cheating it with more urgency than you were.
+
+👤 あなた [306s - 307s]
+Do Right.
+
+🎤 SPEAKER_1 [307s - 308s]
+You do wanna get into it, do you?
+
+👤 あなた [308s - 310s]
+And so I've I've already told you.
+
+🎤 SPEAKER_3 [310s - 311s]
+Omi, what's the version?
+
+🎤 SPEAKER_2 [311s - 312s]
+Was urgent.
+
+👤 あなた [312s - 315s]
+I've already I've I've already explained to you that understand why you did it, Rachel.
+
+🎤 SPEAKER_3 [323s - 323s]
+No.
+
+🎤 SPEAKER_2 [323s - 326s]
+But you can't link it in with every character flaw.
+
+👤 あなた [327s - 328s]
+Every time I So every character flaw is yours.
+
+🎤 SPEAKER_2 [329s - 339s]
+Because I can go all by the way meet you who would is really important, and that's not that important. You cannot combine it with that. Maybe that's that's two completely different things.
+
+👤 あなた [344s - 345s]
+Let's have look here, dude.
+
+🎤 SPEAKER_1 [346s - 346s]
+Yeah.
+
+🎤 SPEAKER_3 [347s - 348s]
+Yeah.
+
+🎤 SPEAKER_1 [353s - 360s]
+But what else have you got to do, son? Nice. Have a good day, Rachel.
+
+🎤 SPEAKER_2 [362s - 363s]
+Have a good day, Rachel.
+
+🎤 SPEAKER_9 [376s - 378s]
+Think I left things down.
+
+🎤 SPEAKER_1 [379s - 380s]
+You'd have to swing upstairs?
+
+🎤 SPEAKER_9 [380s - 382s]
+Oh, you have to meet with my drink.
+
+👤 あなた [382s - 385s]
+Afternoon. Hang on. Go.
+
+🎤 SPEAKER_3 [387s - 389s]
+Go on. Okay.
+
+🎤 SPEAKER_9 [390s - 391s]
+Woah.
+
+🎤 SPEAKER_3 [388s - 391s]
+解.
+
+👤 あなた [392s - 399s]
+了 You know, mummy and daddy row, we're not really crossing each other. We're just having a heated conversation. Okay? Unless I've grown up still with things Okay?
+
+🎤 SPEAKER_1 [399s - 407s]
+They they talk things through. Okay. So we're mummy daddy are fine. We're not we wish love each other.
+
+👤 あなた [422s - 424s]
+There a few minutes before eight then.
+
+🎤 SPEAKER_1 [424s - 426s]
+There might be people outside.
+
+🎤 SPEAKER_1 [459s - 463s]
+Are those shoes tend to get ruined already, dude? A little bit at the front.
+
+🎤 SPEAKER_8 [478s - 479s]
+For Oh yeah.
+
+🎤 SPEAKER_1 [479s - 481s]
+Oh yeah. Oh yeah. She's she's fixed them basically.
+
+👤 あなた [481s - 485s]
+These, how how much space have you got left in those for your toes?
+
+🎤 SPEAKER_9 [487s - 489s]
+My toes ends there.
+
+🎤 SPEAKER_1 [490s - 494s]
+Right. You nearly went out of they're nearly finished anyway. I have to get I have to get you some more.
+
+🎤 SPEAKER_9 [497s - 499s]
+Can you get me my shoulder colors?
+
+🎤 SPEAKER_9 [506s - 507s]
+Ja.
+
+🎤 SPEAKER_1 [507s - 512s]
+Zinnig. Is that what you want is that what you plan to say?
+
+🎤 SPEAKER_1 [517s - 523s]
+I charged your headphones last night anyway as well. Okay? Got basketball tonight,
+
+🎤 SPEAKER_1 [532s - 535s]
+Well, yeah. Do you don't have a cup full of cup like that? That looks silly. I don't wanna have my this jacket.
+
+🎤 SPEAKER_10 [538s - 539s]
+Right?
+
+👤 あなた [539s - 542s]
+It's it's a matching outfit. There's a there's a matching That's a much outfit, doesn't it?
+
+🎤 SPEAKER_7 [544s - 547s]
+Is that good? Not cool. Isn't it?
+
+🎤 SPEAKER_9 [547s - 548s]
+It's like a nerdy thing.
+
+🎤 SPEAKER_3 [549s - 550s]
+Is it? Yeah. Let's go.
+
+🎤 SPEAKER_9 [561s - 562s]
+Yeah.
+
+🎤 SPEAKER_1 [564s - 565s]
+Well, is expensive.
+
+🎤 SPEAKER_7 [565s - 566s]
+They're like there's like £80 those.
+
+🎤 SPEAKER_3 [575s - 576s]
+Yeah.
+
+👤 あなた [577s - 578s]
+Go on then. On, grab it.
+
+🎤 SPEAKER_3 [578s - 579s]
+Thank you.
+
+🎤 SPEAKER_10 [586s - 587s]
+Be quick about it.
+
+🎤 SPEAKER_3 [587s - 587s]
+Right?
+
+🎤 SPEAKER_3 [681s - 681s]
+What?
+
+👤 あなた [685s - 686s]
+Alright. Why is it like that then? Right.
+
+🎤 SPEAKER_1 [688s - 689s]
+Your hands appear by your shoulders.
+
+🎤 SPEAKER_7 [690s - 691s]
+What's it there?
+
+👤 あなた [693s - 697s]
+Did that it make you shiver? Has daddy been using it? No.
+
+🎤 SPEAKER_9 [697s - 701s]
+Are you well, mummy used it for for Sabrina?
+
+🎤 SPEAKER_3 [705s - 707s]
+Mami, Right.
+
+🎤 SPEAKER_0 [771s - 781s]
+I think me and you when it comes to springtime will start walking school or you can go on your scooter. Good for exercise. Then you get less rainy and a bit warmer.
+
+🎤 SPEAKER_1 [789s - 791s]
+Nari next week, he's gonna start walking to the bus stop in the morning now.
+
+🎤 SPEAKER_1 [797s - 805s]
+It's start walking to the bus stop. At the moment, I drop from school every day while dropping to the bus every day. But it's light enough now.
+
+🎤 SPEAKER_1 [806s - 808s]
+That you can start walking.
+
+🎤 SPEAKER_1 [812s - 814s]
+That's Huh?
+
+👤 あなた [817s - 818s]
+This would like
+
+🎤 SPEAKER_1 [821s - 821s]
+What's that?
+
+🎤 SPEAKER_1 [827s - 840s]
+Would you like you like you like the look of a perm, do you? Yeah. They're pretty cool to be fair. It's like curly hair. Yeah. It's like a tiny
+
+🎤 SPEAKER_1 [846s - 850s]
+Some people have a natural perm. But the hair does it automatically.
+
+🎤 SPEAKER_1 [855s - 862s]
+Usually girls. Guys have a perm usually have to What's that noise?
+
+👤 あなた [864s - 867s]
+Kochpoen. My god.
+
+🎤 SPEAKER_1 [868s - 870s]
+Where is it in there? Yeah.
+
+👤 あなた [872s - 873s]
+So it's running around last night.
+
+🎤 SPEAKER_1 [873s - 876s]
+I thought, is that the car making a funny noise? But
+
+🎤 SPEAKER_1 [915s - 916s]
+Look at that, dude. 08:00 exactly.
+
+🎤 SPEAKER_1 [920s - 926s]
+My hand on the button. Climb out before we grab the bag. Yeah?
+
+🎤 SPEAKER_1 [950s - 951s]
+Da hast Yeah. Off we go.
+
+🎤 SPEAKER_2 [951s - 955s]
+Can we go to the barber's office so you can just give me a feed? Nothing on the top.
+
+🎤 SPEAKER_1 [955s - 963s]
+Alright. Yeah. Wanna keep the lamps too? You wanna grow it longer, do you? Yeah. Alright. Let's have a chat later about it. See you later. Can't do it today because you got back score, but bye bye.
+
+
+---
+
