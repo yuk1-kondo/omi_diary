@@ -1,0 +1,82 @@
+{
+  "id": "bd844214-d4be-40a0-bad6-11d963d9a1cc",
+  "created_at": "2026-02-24T10:13:08.470114+00:00",
+  "started_at": "2026-02-24T09:04:31.348132+00:00",
+  "finished_at": "2026-02-24T10:15:10.516788+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "明日の仕事を休むことへの迷い",
+    "overview": "話し手が「明日仕事なのに、しんどいわけでもないのに休むのは良くない」と述べており、体調不良ではないのに仕事を休むことへの後ろめたさや判断について考えている様子がうかがえる。",
+    "emoji": "💭",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "85c1bdcc-d358-4bce-9f15-c98ee82f664c",
+      "text": "あと 明日仕事じゃん もしんどいわけでもないのに休むの良くない",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.722044988942798e-07,
+      "end": 31.8641255722045,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1569b685-0c85-40aa-8c7e-c252dead76cf",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "bd844214-d4be-40a0-bad6-11d963d9a1cc",
+      "chunk_timestamps": [
+        1771927985.399,
+        1771927991.896,
+        1771927999.94,
+        1771928005.27,
+        1771928010.799,
+        1771928015.833,
+        1771928020.916,
+        1771928026.014,
+        1771928031.172,
+        1771928037.178,
+        1771928042.214,
+        1771928047.271,
+        1771928053.825
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-24T10:13:05.399000+00:00",
+      "duration": 73.426
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 明日仕事があることを気にしている\n- しんどくないのに仕事を休むのは良くないのでは、と感じている\n\n【決めたこと】\n- 未確認\n\n【次の一歩】\n- 明日の自分の体調や気持ちを朝もう一度ゆっくり確認してから、仕事をどうするか判断してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
