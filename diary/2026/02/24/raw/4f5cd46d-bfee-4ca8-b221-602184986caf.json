@@ -1,0 +1,107 @@
+{
+  "id": "4f5cd46d-bfee-4ca8-b221-602184986caf",
+  "created_at": "2026-02-24T08:42:20.630392+00:00",
+  "started_at": "2026-02-24T08:43:52.903859+00:00",
+  "finished_at": "2026-02-24T08:43:58.922081+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User Mentions Skimming Task",
+    "overview": "The user briefly notes they need to \"get a shoe of skimming on that,\" which likely indicates a need to skim or quickly review some unspecified material. No clear context, specific task details, or timing are provided.",
+    "emoji": "📝",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "13263e99-7572-47d1-b643-80c468ea97b8",
+      "text": "I do need to get a shoe of skimming on that.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 2.861042958102189e-08,
+      "end": 2.560000028610375,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJ5Zgmk48FbkgRSFGKg91E-kY",
+    "latitude": 51.4159004,
+    "longitude": -3.2757062,
+    "address": "58 White Farm, Barry CF62 9EU, UK",
+    "location_type": "street_address"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "b05624ec-36a5-49b9-aa6c-80c89674242a",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "4f5cd46d-bfee-4ca8-b221-602184986caf",
+      "chunk_timestamps": [
+        1771922537.752,
+        1771922542.998,
+        1771922549.17,
+        1771922554.22,
+        1771922560.236,
+        1771922565.433,
+        1771922570.665,
+        1771922575.639,
+        1771922580.767,
+        1771922585.867,
+        1771922591.142,
+        1771922596.236,
+        1771922601.37,
+        1771922607.114,
+        1771922612.745,
+        1771922618.167,
+        1771922623.215,
+        1771922632.572,
+        1771922637.64,
+        1771922642.64,
+        1771922647.741,
+        1771922653.176,
+        1771922658.321,
+        1771922663.368,
+        1771922680.945,
+        1771922681.251,
+        1771922686.97,
+        1771922692.849,
+        1771922698.606,
+        1771922704.376,
+        1771922709.462,
+        1771922715.812
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-24T08:42:17.752000+00:00",
+      "duration": 183.06
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## clarification request\n- User mentions \"shoe of skimming\"\n- Phrase likely mis-typed or unclear\n- Needs clarification before meaningful response\n\n## next steps\n- Ask user what \"shoe of skimming\" means\n- Confirm intended topic: reading, surfing, or footwear?"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8"
+}
