@@ -1937,3 +1937,89 @@ Yeah. Storm is coming to WrestleMania.
 
 ---
 
+
+
+## 📝 WrestleMania Opponent Decision and Elimination Chamber Hype - b7e82795-d17b-4777-be73-d14668f64bd7
+
+**記録時間**: 2026-02-24 21:03:38
+
+### STT生テキスト
+
+🎤 SPEAKER_26 [0s - 11s]
+Jay Cargo will defend. The WWE Women's Championship. The only question is who will she face? Will it be Liv, Who will be the winner of Saturday's chamber match?
+
+🎤 SPEAKER_7 [38s - 40s]
+I know you guys have been patiently waiting.
+
+🎤 SPEAKER_28 [41s - 50s]
+For me to decide who my WrestleMania opponent is gonna be, and I'm ready. I've decided. But there is something I'd like to get off my first.
+
+🎤 SPEAKER_28 [50s - 51s]
+If that's okay.
+
+🎤 SPEAKER_28 [55s - 68s]
+Stephanie, last week, your words really caught me by surprise. I'm really not used to vulnerable. Like that, and I really thought about what you said.
+
+🎤 SPEAKER_28 [68s - 70s]
+I thought about what you said all week.
+
+🎤 SPEAKER_16 [72s - 73s]
+And you're right.
+
+🎤 SPEAKER_28 [74s - 92s]
+You you were right. I didn't realize how self I've been. I didn't realize how I've only been thinking about my own experience. I didn't realize how privileged I really was. You said I've had ten years with the best medical the best coaches, the best facilities.
+
+🎤 SPEAKER_28 [93s - 111s]
+Even so, I still thought that I was struggling. And to be honest, I really didn't know much about your story. I really didn't know too much. I didn't know that you had to scratch and claw and fight ten years just to be here in WWE.
+
+🎤 SPEAKER_28 [112s - 125s]
+And now that I know about your story, I just wanna say that I'm sorry. I am sorry that I judged you. It is very clear to me that you are the champion that's you are because of what you had to go through.
+
+🎤 SPEAKER_28 [127s - 132s]
+But now I need to focus on my story.
+
+🎤 SPEAKER_19 [160s - 162s]
+And with that being said, I think we have our answer.
+
+🎤 SPEAKER_26 [164s - 167s]
+At the Who Lives Choices at WrestleMania. And Liv Morgan not done yet.
+
+🎤 SPEAKER_19 [167s - 169s]
+She felt like
+
+🎤 SPEAKER_16 [176s - 176s]
+Alright.
+
+🎤 SPEAKER_11 [176s - 179s]
+Two seven. Young blood.
+
+🎤 SPEAKER_19 [189s - 194s]
+Let's get Pool, and Betty X for wise.
+
+🎤 SPEAKER_10 [194s - 198s]
+Betty X makes the official theme song of elimination Chamber twenty twenty six from the album Chiari Offset chamber, United Center in Chicago this Saturday.
+
+🎤 SPEAKER_25 [202s - 212s]
+Let's take a look at the schedule of course, on the ESPN app internationally on Netflix. Count that gets underway at five eastern.
+
+🎤 SPEAKER_25 [213s - 220s]
+Two Pacific as we went through appetite for what's to follow. The elimination chamber, the final PLE before wrestle, It gets underway seventies through four Pacific.
+
+🎤 SPEAKER_10 [220s - 223s]
+Of course, the post show immediately following the main event.
+
+🎤 SPEAKER_25 [226s - 226s]
+This Saturday.
+
+🎤 SPEAKER_16 [310s - 311s]
+Mas é esse bread.
+
+🎤 SPEAKER_3 [312s - 313s]
+There's garlic sausage
+
+👤 あなた [318s - 319s]
+So it's seventeen.
+
+
+---
+
