@@ -1,0 +1,110 @@
+{
+  "id": "e6638f14-c700-4e13-ab6e-15e9b349ebb0",
+  "created_at": "2026-02-24T23:53:29.550299+00:00",
+  "started_at": "2026-02-24T23:15:53.229342+00:00",
+  "finished_at": "2026-02-24T23:55:49.630276+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "吉田先生への連絡についての短いやりとり",
+    "overview": "話し手が吉田先生に対し、「見つかったらすぐに」と、何かが見つかり次第すぐ報告・連絡する旨を伝えている短い発話のみが記録されている。文脈となる対象物や用件、日時などの詳細は不明であり、今後の具体的な予定やタスクも読み取れない。",
+    "emoji": "📩",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2c3bed1a-d885-4371-adea-6516116b49bd",
+      "text": "吉田先生すいません 見つかったらすぐすぐに",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.5939941394881316e-07,
+      "end": 19.92275025939941,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "248b8015-fa6d-4c0e-85a1-f3327aeed5ec",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "e6638f14-c700-4e13-ab6e-15e9b349ebb0",
+      "chunk_timestamps": [
+        1771977204.637,
+        1771977209.819,
+        1771977215.01,
+        1771977220.073,
+        1771977225.143,
+        1771977230.78,
+        1771977235.822,
+        1771977240.979,
+        1771977246.042,
+        1771977251.191,
+        1771977257.702
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-24T23:53:24.637000+00:00",
+      "duration": 58.065
+    },
+    {
+      "id": "d42340e1-69b3-42c1-b270-92298b2cb11e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "e6638f14-c700-4e13-ab6e-15e9b349ebb0",
+      "chunk_timestamps": [
+        1771977349.042,
+        1771977357.387,
+        1771977362.49,
+        1771977367.702
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-24T23:55:49.042000+00:00",
+      "duration": 23.66
+    },
+    {
+      "id": "cee6dbf6-819c-4160-815d-734638beebea",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "e6638f14-c700-4e13-ab6e-15e9b349ebb0",
+      "chunk_timestamps": [
+        1771977433.642,
+        1771977438.984,
+        1771977445.536,
+        1771977451.536,
+        1771977456.86,
+        1771977462.016
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-24T23:57:13.642000+00:00",
+      "duration": 33.373999999999995
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「吉田先生」に何かをお願いしている途中の会話だったようです\n- 「見つかったらすぐに…」という内容以外は未確認です\n\n【決めたこと】\n- 特になし（内容が途中のため未確認）\n\n【次の一歩】\n- 何を「見つかったらすぐ」連絡・対応したいのかを、メモに一文で書き残しておいてください（例：誰に・何を・どうしてほしいか）"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
