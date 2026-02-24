@@ -153,3 +153,125 @@ Bing.
 
 ---
 
+
+
+## 📝 Couple Argues About Communication and Interruptions - e68d306d-6cfc-4dc0-b355-0c0c9c5437c6
+
+**記録時間**: 2026-02-24 16:28:54
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+Babe.
+
+👤 あなた [0s - 1s]
+Now, I
+
+🎤 SPEAKER_1 [1s - 1s]
+go on.
+
+👤 あなた [1s - 10s]
+I understand your reasons, but your method is I don't want I've told you. Don't like times. I don't like it. I want to talk now. I also lead me to sod off then.
+
+👤 あなた [21s - 32s]
+You don't freaking know how long I was gonna talk before you interrupted me. I could've been two sentences, which is what I was gonna do. I don't wanna talk to you. I told you many times I really dislike when you do that. And that's not
+
+👤 あなた [37s - 39s]
+Oh, forget it. So I don't wanna talk about it. I don't wanna talk about it.
+
+🎤 SPEAKER_2 [41s - 41s]
+Petty.
+
+👤 あなた [41s - 47s]
+I'm not being petty. It is a of behavior I dislike. I've told you loads. Well, sorry.
+
+🎤 SPEAKER_2 [47s - 48s]
+You're stuck with it.
+
+👤 あなた [48s - 52s]
+I No. You need to learn it to change. You're not an unchangeable being, Rachel.
+
+🎤 SPEAKER_2 [52s - 58s]
+Honey, I'm happy to change if you're wanting to talk to me about something and I'm interrupting you or something else. Else. But that is totally different.
+
+👤 あなた [58s - 65s]
+It's the same, Rachel. Yeah. It's not The scenarios are different. But your method of this is really important. I must say it before we even finish the sentence.
+
+👤 あなた [66s - 68s]
+Was was that. Because that's exactly what happened.
+
+🎤 SPEAKER_2 [68s - 71s]
+It wasn't about saying. It was about the fact that I was not happy with the How do you know?
+
+👤 あなた [71s - 81s]
+I was only talk for ten more seconds or not? You didn't. It didn't matter. It did matter. Right? I don't wanna talk to you about it. No. You clearly don't care.
+
+🎤 SPEAKER_2 [83s - 86s]
+So Do you know what? I have be getting freaking involved one day.
+
+👤 あなた [86s - 88s]
+Every time you No. You don't. Sure.
+
+👤 あなた [89s - 96s]
+Every time you Oh, for stop in babe, I'm I'm not engaging in this conversation with you. We are not gonna get robbed in ten seconds. Just go away.
+
+👤 あなた [104s - 105s]
+No.
+
+🎤 SPEAKER_2 [105s - 106s]
+No.
+
+👤 あなた [106s - 116s]
+Well, don't need to worry about it. We're not gonna get robbed. Cheers. I left the door open when I went upstairs. Mummy's worried that some of you might come in and take our stuff.
+
+👤 あなた [116s - 121s]
+As I left the door open. Don't need to worry about it. It's fine.
+
+🎤 SPEAKER_2 [123s - 123s]
+Wait.
+
+👤 あなた [126s - 127s]
+Ten seconds.
+
+👤 あなた [132s - 133s]
+It's a conversation from Omi and Deli. Definitely.
+
+🎤 SPEAKER_1 [147s - 148s]
+Right.
+
+👤 あなた [148s - 157s]
+Kinda quick. Daddy's unfortunate now and not a very good mood now, unfortunately. It's not your fault. You haven't done anything. But none the daddy's got zero bubbles in his bucket.
+
+👤 あなた [158s - 159s]
+Unfortunately.
+
+👤 あなた [163s - 168s]
+So they come forward to being back in school? It's only three days.
+
+👤 あなた [171s - 173s]
+I'll have two piece of trousers.
+
+🎤 SPEAKER_3 [173s - 173s]
+No.
+
+👤 あなた [173s - 176s]
+They don't no. That's your top, I think. Yes. They're matching. Mhmm?
+
+🎤 SPEAKER_2 [177s - 179s]
+There's a two piece That's not a it's matching tracksuit.
+
+👤 あなた [185s - 189s]
+Adidas. Pretty pretty expensive and pretty trendy.
+
+👤 あなた [192s - 201s]
+Done. Well done, son. Off you go. When did you put your watch back on? Dude? I took that off you last night.
+
+🎤 SPEAKER_2 [206s - 213s]
+I I the wrong one at four seven. Seven 08:20. And I actually would
+
+🎤 SPEAKER_1 [215s - 215s]
+Right.
+
+
+---
+
