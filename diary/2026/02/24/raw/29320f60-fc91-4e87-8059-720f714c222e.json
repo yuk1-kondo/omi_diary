@@ -1,0 +1,96 @@
+{
+  "id": "29320f60-fc91-4e87-8059-720f714c222e",
+  "created_at": "2026-02-24T13:12:56.497147+00:00",
+  "started_at": "2026-02-24T12:46:14.543752+00:00",
+  "finished_at": "2026-02-24T13:14:09.789138+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "前橋地震と株価への影響メモ",
+    "overview": "「前橋地震の株価」というキーワードのみが発話されており、前橋での地震が株価へ与える影響、あるいは関連銘柄について調べようとしている様子がうかがえるが、詳細な文脈や結論、具体的な議論内容は示されていない。",
+    "emoji": "📉",
+    "category": "finance",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "84e5cd96-1039-4212-bb5b-67477b5adb9f",
+      "text": "前橋地震の株価",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.831054685652589e-07,
+      "end": 9.98137518310547,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "db8d1f71-22cc-40e2-8904-7005eed8e52e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "29320f60-fc91-4e87-8059-720f714c222e",
+      "chunk_timestamps": [
+        1771938775.588,
+        1771938780.56,
+        1771938785.683,
+        1771938790.795,
+        1771938795.94,
+        1771938801.056,
+        1771938807.147,
+        1771938812.249,
+        1771938817.445,
+        1771938823.404,
+        1771938828.482,
+        1771938834.486,
+        1771938839.538,
+        1771938844.562,
+        1771938849.57,
+        1771938854.549,
+        1771938859.66,
+        1771938864.684,
+        1771938870.041,
+        1771938875.332,
+        1771938880.482,
+        1771938885.796,
+        1771938890.852,
+        1771938896.527,
+        1771938901.529,
+        1771938906.562,
+        1771938911.523
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-24T13:12:55.588000+00:00",
+      "duration": 140.935
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 前橋地震と株価の話題  \n- 前橋地震が株価に与える影響に関心  \n- 地震発生後の市場反応を知りたい意図あり  \n\n## 次のステップ  \n- 具体的な日時や銘柄を特定して再質問  \n- 地震規模や被害状況も併せて提示する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
