@@ -1273,3 +1273,152 @@ I have to say I didn't report it to the police because the thief was spending le
 
 ---
 
+
+
+## 📝 Ben and Pastor Plan Church Finance Transparency - 428a4d50-7ec3-44a6-a875-67d88b7d03fd
+
+**記録時間**: 2026-02-24 20:12:57
+
+### STT生テキスト
+
+🎤 SPEAKER_22 [4s - 19s]
+So I go to a church in Japan, and last week after the they handed out these papers, and they had a meeting. And it's basically a financial breakdown of absolutely all the money that has come in to the church down to the yen, so down to the cent. It says how much money they had left over from events.
+
+🎤 SPEAKER_22 [19s - 28s]
+And then on the other side, it has everywhere that they spent money, And, again, it's down to the very end, so you know where absolutely all the money is going.
+
+🎤 SPEAKER_22 [28s - 43s]
+It's super transparent. It's super honest. I think it's great. It's it's a good safeguard against any kind of corruption it's good beneficial for people to know where the money is going when they're giving. Yeah. I'm curious. What country are you in?
+
+🎤 SPEAKER_22 [43s - 54s]
+Does your church have something like this? Do you think it's a good idea? Do you think more churches should be doing this, or do you think it's none of nobody's ease wax where my goes and they should just be happy giving?
+
+🎤 SPEAKER_22 [54s - 56s]
+Personally, I think this is awesome.
+
+🎤 SPEAKER_3 [61s - 72s]
+Hello, mate. Yeah. Thank you for sending that through. And, yes, lunch tomorrow would be good. If you're happy and comfortable with all that, you know, life is back.
+
+🎤 SPEAKER_3 [72s - 72s]
+To
+
+🎤 SPEAKER_3 [76s - 86s]
+Hey, Ben. Thank you for sending that through. And, yes, lunch would be good. I, well, it'd be to get back in the habit of things before Cape Town.
+
+🎤 SPEAKER_3 [87s - 99s]
+And I will, you know, have a good look at those videos that you prepped beforehand. I did have time scheduled Friday, but regrettably, it was just it had to be bumped along a little bit.
+
+🎤 SPEAKER_3 [100s - 118s]
+So I'll watch those videos in advance and then we can you know, have a more kind of informed chat about it I guess. In answer to the the short, I'm all for financial, you know, what's the word I'm looking for? Transparency, that's the word.
+
+🎤 SPEAKER_3 [120s - 148s]
+My only thoughts are is that we'd want to you know, be careful about it in the sense that how we present it in terms of where an elder led church or we're certainly going to be. And so we want to be open and transparent about how we spend the money. But equally not invite too much input into people's opinions on that unless it was unless it was, you know,
+
+🎤 SPEAKER_3 [154s - 180s]
+Hey Ben, thank you for sending those through. Yes, lunch on Thursday sounds good. I can't remember whose turn it is to bring lunch. I'm happy to do so. If it's if if that works. And I'll watch the the finance videos that you put together. I haven't yet. I did plan to watch them Friday, but I had to bump them along I'm But I'll do that in advance of Thursday. So we can, have an informed chat about it.
+
+🎤 SPEAKER_3 [182s - 193s]
+So that's I believe that's 12:12 o'clock, isn't it? Regarding that short, I I'm really for the principle of transparency. Oops. Shown's at the door. One sec.
+
+🎤 SPEAKER_3 [202s - 202s]
+Hello, mate.
+
+🎤 SPEAKER_16 [204s - 205s]
+Cheers, man. Thank you, mate.
+
+🎤 SPEAKER_3 [213s - 230s]
+Yeah. Sorry about that. Delivery man. Yeah. I'm all for transparency. I'm very happy to do that. And I think something that I've I've wanted to do, and we have done actually in the past when Andy was here, was produce some sort of reports that broke down the the, you know, how we spent the money.
+
+🎤 SPEAKER_3 [232s - 243s]
+Tied in with kind of like an annual kind of presentation of the church as finances and maybe a bit of vision casting, if I can use that word for the for the coming year.
+
+🎤 SPEAKER_3 [245s - 277s]
+So we kind of pray about it as a leadership and think about how we wanna spend the money how we what we have vision for and faith for and then any shortfall we present to the church and at that point then they also receive a report from the previous year. My only questions I guess about how we do this is we want to be transparent but in we are an elder led church as opposed to a kind of more of a Baptist member model kind of church. So in that sense, accountability is important.
+
+🎤 SPEAKER_3 [281s - 292s]
+How we invite that accountability and who we're accountable to is also important. So what am I trying to say there?
+
+🎤 SPEAKER_3 [296s - 315s]
+I guess I want to share with the church how we spend the money so they can be informed in their prayers and things like that. But not necessarily invite opinion on how we are to spend the money. That is a leadership decision, I guess. So maybe we can think about how we do that presentationally.
+
+🎤 SPEAKER_3 [315s - 331s]
+But, I'm all for I'm all for accountability. I'll I'll also probably want to because that's quite an important matter to get right, maybe chat with some of the mentors about it. I'll advance churches approach financial transparency.
+
+🎤 SPEAKER_3 [332s - 339s]
+And maybe we can then have a chat about it. Anyway, mate. Hope that makes sense. I look forward to seeing you on Thursday midday.
+
+🎤 SPEAKER_3 [339s - 343s]
+And I can bring lunches. Cheers, man.
+
+🎤 SPEAKER_12 [343s - 343s]
+Bye.
+
+🎤 SPEAKER_11 [345s - 348s]
+Hey, Ben. Thank you for sending those through.
+
+🎤 SPEAKER_3 [348s - 372s]
+Yes. Lunch on Thursday sounds good. I can't remember whose turn it is to bring lunch. I'm happy to do so. If it's if if that works, And I'll watch the the finance videos that you put I haven't yet. I did plan to watch them Friday, but I had to bump them along, I'm afraid. But I'll do that in advance of Thursday so we can, have an informed chat about it.
+
+🎤 SPEAKER_3 [374s - 376s]
+So that's I believe that's 12:12 o'clock, isn't it?
+
+🎤 SPEAKER_3 [380s - 388s]
+Regarding that short I I'm really for the principle of transparency. Oops. I was at the door. One sec. Yeah. Sorry about that. Delivery man.
+
+🎤 SPEAKER_9 [389s - 389s]
+Yeah.
+
+🎤 SPEAKER_3 [389s - 402s]
+I'm all for transparency. I'm very happy to do that. And I think that's something that I've I've wanted to do. I'm we have done actually in the past when Andy was here, was produce some sort of reports that broke down the copper, you know, humming at the moment.
+
+🎤 SPEAKER_12 [416s - 416s]
+The coming year.
+
+👤 あなた [418s - 433s]
+So we kind of pray about it as a leadership. And think about how we wanna spend the money, how we what we have vision for and faith for and then any shortfall we present to the church. And at that point, then they also receive a report from the previous year.
+
+🎤 SPEAKER_12 [434s - 435s]
+My only, crush at How are you?
+
+🎤 SPEAKER_5 [446s - 449s]
+You alright? Good. Thank you. Thank you. Alright. Thanks.
+
+🎤 SPEAKER_3 [449s - 450s]
+Thank you very much. You too.
+
+👤 あなた [469s - 483s]
+My only, questions, I guess, about how we do this is want to be transparent, but in we are an outlet church as opposed to a kind of moral of practice member model kind of church.
+
+🎤 SPEAKER_12 [483s - 486s]
+So in that sense, accountability is important, but how we invite that accountability and who we're comfortable too is also important.
+
+🎤 SPEAKER_11 [497s - 501s]
+So so what am I trying to say? There?
+
+🎤 SPEAKER_23 [504s - 508s]
+I guess I want to share with the church how we spend the money so they can be informed in their prayers and things like that.
+
+🎤 SPEAKER_23 [508s - 547s]
+But not necessarily invite invites opinion on how we are to spend them in. That is a leadership decision, I guess. Guess. So maybe we can think about how how we do that presentationally. But, yeah, I think I'm all for accountability. I'll also want to because it's quite an important matter to get right, maybe chat with some of the mentors about it, might have power over our advantage to approach financial transparency, and maybe we can then have a chat it. Anyway, mate, hope that makes sense. I'll look forward to seeing you after Thursday midday, and I'll bring lunches.
+
+🎤 SPEAKER_23 [548s - 549s]
+Cheers, man.
+
+🎤 SPEAKER_11 [549s - 549s]
+Bye.
+
+🎤 SPEAKER_8 [629s - 630s]
+2026.
+
+🎤 SPEAKER_11 [712s - 713s]
+When I shakes it all, Ou seja, viu em desse discado?
+
+🎤 SPEAKER_24 [713s - 731s]
+Espelho? Parece mentira, mas existe truque simples pra você deslizar mais rápido que qualquer pessoa. O que acontece é que você deve usar apenas pé pra tocar a ponta de cada degrau. Enquanto isso isso, estenda a outra perna pra frente pra manter o equilíbrio. Conforme você pega o jeito do movimento, aumente a velocidade para o efeito ser fluido, é assim que você A lot of people, gunning, followed me down right now.
+
+🎤 SPEAKER_11 [749s - 750s]
+But I will
+
+
+---
+
