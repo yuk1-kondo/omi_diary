@@ -275,3 +275,65 @@ Right.
 
 ---
 
+
+
+## 📝 Parent and Child Discuss Tooth Brushing - 7ac244d5-2e79-4b07-ab90-19721c62a1cb
+
+**記録時間**: 2026-02-24 16:40:53
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+You first should have it, do you?
+
+👤 あなた [7s - 9s]
+I'm just need to stir my hair and Brush your teeth.
+
+🎤 SPEAKER_2 [9s - 10s]
+I brush my teeth.
+
+🎤 SPEAKER_1 [11s - 13s]
+Have you ever can I have a look at them?
+
+👤 あなた [14s - 23s]
+No. I don't believe you. Just need to check the quality of your work. Come here. Because we have to look after your teeth here. I don't want you to have any more teeth needing to take out.
+
+👤 あなた [23s - 28s]
+Because if you don't brush your teeth well enough, you will they will have to be taken out right now. You don't know, do you?
+
+🎤 SPEAKER_1 [30s - 32s]
+But lower, I can't see that. Come here, sir.
+
+🎤 SPEAKER_1 [36s - 38s]
+Alright. Open your feet. Yeah.
+
+🎤 SPEAKER_1 [41s - 47s]
+Ja, ja, So you stole your hair hem op. Got my shoes on. Goodbye. Well done.
+
+🎤 SPEAKER_2 [56s - 57s]
+I don't know actually.
+
+👤 あなた [57s - 59s]
+Let me get onto that.
+
+🎤 SPEAKER_1 [61s - 64s]
+I've got a new you you can install your hair and whatever you need to do and I'll sort that out now.
+
+🎤 SPEAKER_6 [75s - 77s]
+Thing is rubbish.
+
+🎤 SPEAKER_1 [77s - 79s]
+It is on its last legs.
+
+🎤 SPEAKER_6 [79s - 79s]
+Okay.
+
+🎤 SPEAKER_1 [80s - 82s]
+Stop there. Look. Is it hang up perhaps?
+
+🎤 SPEAKER_2 [102s - 102s]
+Alright.
+
+
+---
+
