@@ -1,0 +1,100 @@
+{
+  "id": "e2885d6d-7bf6-4ccd-941f-fc868940f9a5",
+  "created_at": "2026-02-24T22:36:23.282150+00:00",
+  "started_at": "2026-02-24T22:30:17.548045+00:00",
+  "finished_at": "2026-02-24T22:37:41.252092+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "音楽を流すリクエスト",
+    "overview": "ユーザーがアシスタントに対して「音楽流して」と音楽再生を依頼している内容。特定のジャンルやサービス、プレイリスト指定などの詳細はない。",
+    "emoji": "🎵",
+    "category": "entertainment",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "54e62f37-ba3c-4987-8610-49b4ca64a2f8",
+      "text": "音楽流して",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 10.06137476158142,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "afcc84f1-4fbe-4924-811e-908ff1b11087",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "e2885d6d-7bf6-4ccd-941f-fc868940f9a5",
+      "chunk_timestamps": [
+        1771972581.107,
+        1771972586.545,
+        1771972591.723,
+        1771972596.886,
+        1771972602.055,
+        1771972607.456,
+        1771972612.658,
+        1771972617.737,
+        1771972622.797,
+        1771972628.549,
+        1771972633.418,
+        1771972638.603,
+        1771972643.629,
+        1771972648.792,
+        1771972653.862,
+        1771972658.968,
+        1771972664.017,
+        1771972669.694,
+        1771972675.255,
+        1771972680.511,
+        1771972686.422,
+        1771972691.591,
+        1771972696.604,
+        1771972702.582,
+        1771972707.958,
+        1771972712.953,
+        1771972718.193,
+        1771972725.651,
+        1771972731.354,
+        1771972737.732,
+        1771972745.381,
+        1771972750.091
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-24T22:36:21.107000+00:00",
+      "duration": 173.984
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 音楽のリクエスト内容\n- 音楽を流してほしいと依頼あり\n- 具体的な曲名やジャンルの指定なし\n\n## 次のステップ\n- 好きなジャンルやアーティストを教える\n- BGM用途（作業用・リラックス用など）を伝える"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
