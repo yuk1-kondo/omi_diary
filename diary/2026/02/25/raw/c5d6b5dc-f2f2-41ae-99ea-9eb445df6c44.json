@@ -1,0 +1,94 @@
+{
+  "id": "c5d6b5dc-f2f2-41ae-99ea-9eb445df6c44",
+  "created_at": "2026-02-25T03:07:05.638918+00:00",
+  "started_at": "2026-02-25T03:00:15.342650+00:00",
+  "finished_at": "2026-02-25T03:10:00.287293+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "明日木曜日の「サファイヤ」対応メモ",
+    "overview": "話者が「サファイヤ 押せ 明日明日明日木曜日」と発言しており、木曜日（翌日）に『サファイヤ』に関連する何らかの操作やタスク（ボタンを押す、処理を実行するなど）を行う必要があることを自分にリマインドしている内容と解釈できる。ただし具体的な時刻や詳細内容は明示されていない。",
+    "emoji": "⏰",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "439c50f4-802e-47c8-8dc2-a69071ab9333",
+      "text": "サファイヤ 押せ 明日明日明日木曜日",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.9945373825057686e-07,
+      "end": 30.10412529945374,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "ff91eaf8-22da-4468-b7dc-ab6ac8f850c1",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "c5d6b5dc-f2f2-41ae-99ea-9eb445df6c44",
+      "chunk_timestamps": [
+        1771988820.909,
+        1771988825.917,
+        1771988831.04,
+        1771988836.021,
+        1771988841.103,
+        1771988846.051,
+        1771988853.423,
+        1771988858.733,
+        1771988863.74,
+        1771988869.185,
+        1771988874.071,
+        1771988879.206,
+        1771988884.391,
+        1771988890.72,
+        1771988896.776,
+        1771988902.166,
+        1771988907.417,
+        1771988912.425,
+        1771988917.494,
+        1771988923.468,
+        1771988928.507,
+        1771988933.559,
+        1771988939.339,
+        1771988944.551,
+        1771988949.585
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-25T03:07:00.909000+00:00",
+      "duration": 133.676
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「サファイヤ」「押せ」「明日」「木曜日」といった言葉が出てきた\n- 明日が木曜日であることを意識している可能性があるが、目的は未確認\n- 何を「押す」のか（ボタン・予約など）は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 「サファイヤ」「押す」「明日木曜日」が何を指していたか、心当たりのある予定やボタン（例：予約ボタン、アラーム設定など）を一つずつ思い出せる範囲で確認してみてください。"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
