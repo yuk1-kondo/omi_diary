@@ -1,0 +1,77 @@
+{
+  "id": "910bfc6e-cc18-4b48-a492-aa3f2595ffe2",
+  "created_at": "2026-02-25T00:56:47.240207+00:00",
+  "started_at": "2026-02-25T00:56:56.904112+00:00",
+  "finished_at": "2026-02-25T00:58:07.991612+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "プリント提出の許可を求める場面",
+    "overview": "話し手が「テストができなかったので、今からプリントを提出してもよいか」と許可を求めるが、相手からは「もうええわ」と受け入れられないニュアンスの返答があった場面が記録されている。短いやりとりだが、提出タイミングの遅れとそれに対する諦め混じりの反応がうかがえる。",
+    "emoji": "📄",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "f4c45184-54a2-4223-aa83-6e79699fb2f0",
+      "text": "ギガギガ 今からプリント提出させていただいていいですかテストできへんかったんで1年間通じて今から もうええわ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.76837158203125e-07,
+      "end": 28.52412452316284,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "8185f8bb-2d7d-45ed-8235-cfcd183d7511",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "910bfc6e-cc18-4b48-a492-aa3f2595ffe2",
+      "chunk_timestamps": [
+        1771981008.273,
+        1771981017.713,
+        1771981023.675,
+        1771981028.875,
+        1771981034.984,
+        1771981040.066,
+        1771981046.736,
+        1771981052.241
+      ],
+      "provider": "gcp",
+      "started_at": "2026-02-25T00:56:48.273000+00:00",
+      "duration": 48.968
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「プリントを今から提出したい」という話が出た\n- 「テストができなかった」「もうええわ」という言葉が出ている\n- 詳しい状況（学校かどうか、相手との関係など）は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- どうしたいか（プリントを出したいのか、別の方法を考えたいのか）を、自分の気持ちとあわせて紙やメモに一度書き出してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "b70d5aa8-3137-4190-b84f-83a1f0e7fe43"
+}
