@@ -1137,3 +1137,260 @@ Short, Yeah. Remember.
 
 ---
 
+
+
+## 📝 Parent and Child Discuss Football, Safety, And Hygiene - 71748849-ee98-4154-8e91-fbd90a26726d
+
+**記録時間**: 2026-02-28 23:04:53
+
+### STT生テキスト
+
+👤 あなた [0s - 7s]
+We set it. Yeah, good job, Ok.
+
+👤 あなた [21s - 21s]
+Alright.
+
+🎤 SPEAKER_1 [35s - 36s]
+Thank you very much.
+
+🎤 SPEAKER_1 [39s - 41s]
+Not much, but appreciate that. Thanks very much. Cheers.
+
+👤 あなた [41s - 41s]
+See you guys.
+
+👤 あなた [46s - 52s]
+So you should have have asked for a bit shorter or What's wrong with Omi's gonna say?
+
+🎤 SPEAKER_0 [93s - 102s]
+He has told us a lot of adults now. So he's obviously not gonna treat your leg and but you you he's not gonna treat you like a little kid anymore. Okay? Yep. And you'll you'll notice that
+
+👤 あなた [109s - 105s]
+People start speaking too differently. you'll notice that
+
+👤 あなた [112s - 125s]
+Treating you different now. And so they expect a bit more back from you as well. Okay. Rather than just going no. That's the end of it. Now You're gonna go on now.
+
+👤 あなた [125s - 128s]
+Now I'm watching I am watching Cardiffield or something like that.
+
+👤 あなた [133s - 139s]
+A little bit more, basically. You're not a child anymore. Yeah? Right. They're never ending cute cars here for some reason.
+
+👤 あなた [162s - 167s]
+The cruise control broke set the brake me.
+
+👤 あなた [170s - 175s]
+Not really good. It's because our dinner was on. So that break in now, doing anything.
+
+🎤 SPEAKER_1 [204s - 207s]
+Nail to Wolf. Uh-huh. Wolf's second to win over the season.
+
+👤 あなた [207s - 207s]
+Woah.
+
+🎤 SPEAKER_1 [207s - 208s]
+Woah.
+
+🎤 SPEAKER_2 [208s - 209s]
+Woah. Woah. Woah. Fair play.
+
+🎤 SPEAKER_1 [210s - 214s]
+I still gonna go every game. That's when, like, every game actually.
+
+👤 あなた [218s - 220s]
+Gal, It's it's just gonna come down there, is it?
+
+👤 あなた [224s - 227s]
+Nice bike, but you need to learn the rules of the road for there.
+
+🎤 SPEAKER_1 [234s - 238s]
+We're sitting here for, like, a bites to go. Like, when the traffic just goes to the middle.
+
+👤 あなた [239s - 253s]
+If the car traffic's not really moving, that's okay. Or if it's very slow? But then if it's moving slowly, I would still wouldn't personally because it's a bit of bit of a risk.
+
+🎤 SPEAKER_2 [253s - 254s]
+You know what the cars do?
+
+🎤 SPEAKER_1 [256s - 258s]
+Mean, it's just on the trip to eight and
+
+👤 あなた [259s - 259s]
+No.
+
+🎤 SPEAKER_2 [259s - 260s]
+We don't? No.
+
+🎤 SPEAKER_2 [263s - 264s]
+No.
+
+🎤 SPEAKER_1 [264s - 264s]
+Maybe not.
+
+🎤 SPEAKER_2 [265s - 265s]
+I know.
+
+👤 あなた [266s - 271s]
+When I was about 14, I walking around all over the barry play with my meats, and so Yeah. I've got used to do that, it?
+
+🎤 SPEAKER_2 [271s - 272s]
+No.
+
+👤 あなた [277s - 286s]
+It's different here now as well. You like them to do that as much? If you're into a Burribate school, that might happen.
+
+🎤 SPEAKER_1 [286s - 292s]
+30 even. Most of them, duffy will always eat it like every day. Done. They will come come.
+
+🎤 SPEAKER_2 [292s - 296s]
+They go on flee or whatever. Out until, like, five o'clock or so.
+
+👤 あなた [297s - 297s]
+Yeah.
+
+🎤 SPEAKER_2 [300s - 301s]
+Yeah.
+
+👤 あなた [306s - 311s]
+Obviously, he's just brushed it down but you can do whatever you want with it in terms of style, whatever.
+
+👤 あなた [329s - 331s]
+Right here. You need to go home and have a shower quick.
+
+🎤 SPEAKER_2 [332s - 332s]
+Alright.
+
+🎤 SPEAKER_1 [332s - 333s]
+The fifth show of the Yeah.
+
+👤 あなた [335s - 338s]
+It's not bad. When you're your age? I'm a shower most days of the week.
+
+🎤 SPEAKER_1 [338s - 346s]
+Monday, Tuesday, Wednesday. Thursday, Friday, Saturday and Saturday.
+
+👤 あなた [348s - 349s]
+Yeah. It's nice to feel fresh, though, innit?
+
+🎤 SPEAKER_1 [350s - 362s]
+Monday, let's have a shop. Didn't have a shop for two days. Tuesday, I ping. Friends there, training, Thursday, I I'm for matches, mattrickens.
+
+👤 あなた [366s - 369s]
+Just while you had that match on the end against the end of fourteens.
+
+🎤 SPEAKER_2 [369s - 369s]
+Right?
+
+👤 あなた [369s - 372s]
+Well, if you didn't, I think I rest of you would have been for the cup game today, Hula.
+
+🎤 SPEAKER_1 [374s - 376s]
+I mean, all my leg was my leg was hurt.
+
+👤 あなた [376s - 380s]
+No. But you would have been much rusty. I doubt you would have won.
+
+🎤 SPEAKER_2 [385s - 387s]
+Lots of the people.
+
+👤 あなた [387s - 389s]
+Was Mark there? Was he Sharon? Was he gone with Nats?
+
+🎤 SPEAKER_1 [389s - 389s]
+Mark was not there.
+
+👤 あなた [390s - 391s]
+Not there, was he? No.
+
+🎤 SPEAKER_1 [391s - 391s]
+Wow.
+
+👤 あなた [393s - 394s]
+You know, he'd been like he would've been No.
+
+🎤 SPEAKER_1 [396s - 413s]
+You usually seen it when it says the are doing really well. Wasn't Carverna always encouraging us. She's Mark comes in. Ten minutes left to spare up for twenty minutes. You can have that under control.
+
+🎤 SPEAKER_1 [416s - 418s]
+Dude, get the path straight.
+
+👤 あなた [418s - 419s]
+No. He's coming in.
+
+🎤 SPEAKER_1 [420s - 420s]
+Me the ball in.
+
+🎤 SPEAKER_2 [421s - 422s]
+On the Yeah.
+
+👤 あなた [423s - 423s]
+Yeah.
+
+🎤 SPEAKER_2 [424s - 425s]
+Yeah.
+
+👤 あなた [425s - 426s]
+That's classic mark, I mean. And then was wasting
+
+🎤 SPEAKER_1 [427s - 428s]
+towels and laughing.
+
+👤 あなた [428s - 429s]
+Yeah. But they were
+
+🎤 SPEAKER_1 [429s - 430s]
+Quietly.
+
+👤 あなた [431s - 443s]
+Yeah. Different style, though, in that different way. Sometimes you see that in the Premier League. You got managers just sitting down on the in the sub section and what it's called these days, dugout. Yeah.
+
+👤 あなた [445s - 452s]
+And just sitting there not saying anything and you have other coaches like Brian Murphy pacing up and down the box, shouting the whole game.
+
+👤 あなた [452s - 457s]
+Diet market. It's just different styles in it, you know.
+
+👤 あなた [466s - 485s]
+I wonder if mom may be home now already. Probably not.
+
+🎤 SPEAKER_1 [490s - 496s]
+I'm gonna be getting off the be here for ages, but I think we're through the 10 things for the children. Yeah.
+
+👤 あなた [496s - 497s]
+Exactly. That's why it's quite surprising as well.
+
+🎤 SPEAKER_2 [523s - 523s]
+Nine.
+
+👤 あなた [549s - 550s]
+Before you do anything else then.
+
+🎤 SPEAKER_1 [551s - 552s]
+Only hurts just well.
+
+👤 あなた [554s - 563s]
+Yeah. Well, listen. We're leaving in about twenty minutes, minutes. Yeah. So you need to cash shift the
+
+👤 あなた [570s - 573s]
+You don't need to shampoo up there. Just just hot water, I guess.
+
+🎤 SPEAKER_2 [576s - 577s]
+Hot water.
+
+👤 あなた [577s - 580s]
+In less than a minute. Go it over dry and then boom.
+
+👤 あなた [583s - 598s]
+I know. That's you're right. The the best thing I if you do this already, Elliot, in the shower. Before you get out so once you've turned the water off before but before you get out, No. Not not only that. Look at me.
+
+👤 あなた [599s - 611s]
+Get your fingers to this. Push all the water out the back, and you'll you'll be amazed work for you you're like on the phone? No. It works for you as well. You just gotta push hands down Do a forward axial here.
+
+👤 あなた [612s - 616s]
+And push like that and all the water will come out unless all the water not going into your towel then.
+
+
+---
+
