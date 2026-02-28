@@ -273,3 +273,125 @@ Yeah.
 
 ---
 
+
+
+## 📝 Friends Chat About Golf And Stargazing - 13bca587-128f-4913-bcba-7483a822bdae
+
+**記録時間**: 2026-02-28 18:54:10
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 193s]
+Morning.
+
+👤 あなた [194s - 201s]
+Hi. Sunshine, Exactly. Oh, it is Gents,
+
+🎤 SPEAKER_1 [310s - 312s]
+Morning. I'm here.
+
+👤 あなた [312s - 316s]
+Are you alright? Are you babeys? Very good. Excellent. Yeah. Not too bad. Good.
+
+👤 あなた [321s - 323s]
+Noch Well, yeah. I don't know if it'll hold out, but again?
+
+🎤 SPEAKER_1 [328s - 329s]
+The golf club are playing it.
+
+👤 あなた [329s - 330s]
+Oh, yeah?
+
+🎤 SPEAKER_2 [330s - 333s]
+Closed today, they sent an inch of rings and fell last night.
+
+👤 あなた [333s - 333s]
+Alright.
+
+🎤 SPEAKER_1 [333s - 334s]
+Yeah.
+
+👤 あなた [335s - 338s]
+So what's that mean then? What's that in terms of golf?
+
+🎤 SPEAKER_2 [338s - 340s]
+They just the golf the golf course is just too flooded.
+
+👤 あなた [341s - 342s]
+Oh, yeah.
+
+🎤 SPEAKER_2 [342s - 347s]
+To play on. Yeah. The opinion they have is if you do play on it Yeah.
+
+👤 あなた [348s - 350s]
+You wrap the turn it off. Right.
+
+🎤 SPEAKER_2 [350s - 352s]
+And it takes too long to recover then, so they might as well close it. Yeah.
+
+👤 あなた [352s - 355s]
+Makes sense? Yeah. Yeah. So it's close today, is it?
+
+🎤 SPEAKER_2 [355s - 360s]
+It's close today. It's today as well. Yeah. And you yeah. So there we are.
+
+👤 あなた [360s - 362s]
+Where'd where'd you play then then?
+
+🎤 SPEAKER_1 [366s - 367s]
+Alright.
+
+👤 あなた [368s - 369s]
+Oh, yeah. Lovely.
+
+🎤 SPEAKER_2 [369s - 371s]
+Yeah. Is. Definitely. Yeah. It's nice.
+
+👤 あなた [371s - 373s]
+It's probably nice for you to get back out there, to be honest.
+
+🎤 SPEAKER_2 [374s - 376s]
+Played twice since November. Oh, yeah? Something like that.
+
+👤 あなた [381s - 382s]
+It's been a wet sun. Is it though, you know?
+
+🎤 SPEAKER_2 [384s - 388s]
+2026. My my parents went to Australia March 4. They're January 4.
+
+👤 あなた [388s - 388s]
+Yeah.
+
+🎤 SPEAKER_2 [389s - 390s]
+And just seems to read every day since.
+
+👤 あなた [391s - 402s]
+Well, it has. It has my birthday's in general, and I got of a kiki thing, but I've been tripped together. Got a a nice proper telescope, not a toy one, a one that you can see all the planets. Oh, does she?
+
+🎤 SPEAKER_2 [402s - 404s]
+Yeah.
+
+👤 あなた [404s - 412s]
+I'll be visible to my Well, there was last night, tonight, the next night. But I've only just been able to take out twice, but I've done all the reading on it. Yeah.
+
+👤 あなた [412s - 418s]
+I was at my first night in the garden with it, could see Jupiter in three of the moons, which is awesome. I love Seeing that with the owner pretty nuts. Yeah.
+
+👤 あなた [419s - 424s]
+But since then, I've not it's not been a single night. Has not had cloud coverage Yeah. Ruining the whole thing. Yeah.
+
+👤 あなた [425s - 430s]
+My So I'm hope it's like a one hour window in Cardiff museum if you know where that is. Yeah. Yeah. No.
+
+🎤 SPEAKER_2 [430s - 431s]
+That's one.
+
+👤 あなた [431s - 434s]
+That's right. Run by the back of the old RAF base.
+
+🎤 SPEAKER_2 [434s - 435s]
+Yeah. Run after my.
+
+
+---
+
