@@ -1066,3 +1066,74 @@ Numbers are do with clippers, and they don't use clippers on the top. They use s
 
 ---
 
+
+
+## 📝 Friends Discuss Football Management Mobile Game - b1622e61-f252-4a4b-a1d9-3c4b66893347
+
+**記録時間**: 2026-02-28 22:50:30
+
+### STT生テキスト
+
+👤 あなた [0s - 4s]
+That is Yeah. Records as yeah. It's a voice recorder.
+
+👤 あなた [12s - 20s]
+The full mobile version of w k 25. She's not put it anymore. I'm not on the phone. Never played on the phone. I downloaded it because it was through Netflix.
+
+🎤 SPEAKER_0 [40s - 46s]
+A 65 rating attacker. So he'd probably be my my best attacker.
+
+👤 あなた [52s - 54s]
+took them up from I'll show you now. That's terrible.
+
+🎤 SPEAKER_1 [47s - 48s]
+Six four, that's like the same weekend.
+
+🎤 SPEAKER_0 [48s - 51s]
+Yeah. But I'm in division two or division one.
+
+🎤 SPEAKER_1 [55s - 57s]
+For division one or division two.
+
+👤 あなた [58s - 64s]
+Well, this is a different rating system, innit? Free transfer? Yeah?
+
+👤 あなた [73s - 77s]
+So basically, this game, you're not a manager. You're the chairman.
+
+🎤 SPEAKER_1 [77s - 78s]
+You see this the whole time?
+
+👤 あなた [79s - 81s]
+So we're in we're in the division two.
+
+🎤 SPEAKER_1 [82s - 83s]
+D two.
+
+👤 あなた [84s - 92s]
+History. We we start off in 2026 in nonleak sea and then we got before it seasons there before
+
+🎤 SPEAKER_1 [92s - 93s]
+Yeah.
+
+👤 あなた [93s - 105s]
+B an hour in a, an hour in Leak two. Two. And you have to what you gotta do is you gotta build your stadium up. Make it bigger.
+
+👤 あなた [106s - 109s]
+You can get food.
+
+🎤 SPEAKER_1 [111s - 112s]
+Excellent.
+
+👤 あなた [130s - 133s]
+You're get that all covered covered in here now. Know that. Yeah? It's fine.
+
+🎤 SPEAKER_1 [133s - 135s]
+They got it's quite tight in there. Right.
+
+🎤 SPEAKER_1 [182s - 184s]
+Short, Yeah. Remember.
+
+
+---
+
