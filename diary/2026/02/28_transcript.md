@@ -917,3 +917,152 @@ Oh, I I the ball with my foot got stuck in the
 
 ---
 
+
+
+## 📝 Family Chat About Football And Haircuts - e7736c6f-79a4-4a63-afee-eaea437b6232
+
+**記録時間**: 2026-02-28 22:41:47
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 10s]
+Eddie pads. What was called? Eddie beds. Eddie beds. What's that we rent there for you? I know beds. Beds. Is it? Yeah. And and we got you a new mattress there.
+
+🎤 SPEAKER_0 [10s - 13s]
+Did we? Yeah. Is that the one that you got now? Probably.
+
+🎤 SPEAKER_1 [13s - 13s]
+Yeah.
+
+👤 あなた [22s - 48s]
+it's not gonna be a massive cure. Probably will be, though. So so what do you think? We need to we need to kind of get back to winning ways today, don't we?
+
+👤 あなた [49s - 50s]
+No. We actually
+
+👤 あなた [53s - 54s]
+Bye.
+
+🎤 SPEAKER_1 [65s - 66s]
+Oh.
+
+👤 あなた [67s - 69s]
+Lincoln are playing today then?
+
+👤 あなた [78s - 88s]
+Troy Morrison in his his article today was saying, there's another five six wins and we're up. Win. Whereas third place, are you?
+
+👤 あなた [88s - 95s]
+Probably has to win nine out of the last 12 games. To try and catch us.
+
+🎤 SPEAKER_1 [96s - 110s]
+So much better to be in our position So Lincoln again and we're in today. He got a black pool. Teeth of body playing. All one all So we're here at play, we're playing, we're playing eighteenth place.
+
+🎤 SPEAKER_1 [111s - 113s]
+Course they're on two wins. Right?
+
+👤 あなた [114s - 115s]
+Two, Dunkasta?
+
+🎤 SPEAKER_1 [116s - 120s]
+Two one one now. Okay. Not great. I mean, two one against and one nil against
+
+🎤 SPEAKER_1 [139s - 155s]
+11 points ahead of third. It's just that we're not continuing five goals. Now now we've got by far we've got pretty average goals against
+
+🎤 SPEAKER_1 [160s - 168s]
+I don't think champ champ should definitely not be using five two.
+
+👤 あなた [168s - 169s]
+Who?
+
+🎤 SPEAKER_1 [169s - 172s]
+Champs. Yeah.
+
+👤 あなた [173s - 180s]
+Well, yeah, but then you ban balance that against you balance that out against the fact we haven't lost since November or whatever.
+
+👤 あなた [180s - 180s]
+Before that.
+
+🎤 SPEAKER_1 [180s - 182s]
+December. December.
+
+👤 あなた [182s - 182s]
+Early December.
+
+🎤 SPEAKER_1 [184s - 185s]
+Lincoln we lost we lost him.
+
+👤 あなた [185s - 188s]
+That's when he lost us against Lincoln. Eight for 10% of Lincoln Lincoln.
+
+🎤 SPEAKER_1 [190s - 191s]
+You got Lincoln after? Yeah.
+
+🎤 SPEAKER_1 [195s - 200s]
+Quite likely winning the league. Favorite ones out of that will win the league probably. Yeah. Yeah.
+
+🎤 SPEAKER_1 [203s - 208s]
+It's kinda like You're you're saying I I mean, right now, statistically, Lincoln, I know we're one point the only point behind us.
+
+👤 あなた [209s - 212s]
+But like So we're we are one point better than them. So that's the that's the end of it.
+
+🎤 SPEAKER_1 [212s - 220s]
+One, they've two if whoever whoever wins us against the will definitely win the league actually.
+
+👤 あなた [220s - 226s]
+Yeah. Well, maybe, maybe not. Could Lincoln could have a bit of a blink. Bit of a blip?
+
+🎤 SPEAKER_1 [226s - 228s]
+They've actually had another blip. They lost since like, before.
+
+👤 あなた [229s - 234s]
+Yeah. Why they so good all of them? Finished me table last season, didn't they?
+
+🎤 SPEAKER_1 [234s - 235s]
+Yeah. And before that, they have playoffs.
+
+👤 あなた [235s - 246s]
+Fair enough then. Fair enough to him. Yeah. I'm glad it's him. But the reality is, Ariel, we are still better than them by one point.
+
+👤 あなた [246s - 253s]
+So Also, I got two pound better on that we win the league. So it's gonna give me £32.
+
+👤 あなた [257s - 258s]
+Come on then Elliot. Let's go.
+
+👤 あなた [279s - 282s]
+Oh, man. Look at that. Loads of space down here.
+
+🎤 SPEAKER_1 [299s - 300s]
+Faster early come So what you
+
+👤 あなた [323s - 324s]
+Mid taper.
+
+🎤 SPEAKER_1 [326s - 327s]
+What is it? Or do you shop top two?
+
+👤 あなた [327s - 331s]
+Well, you tell me what's what you think about them at? What do you want? I'll do it.
+
+👤 あなた [333s - 336s]
+Shorter Do you want a bit of a fringe, or do you want it short all the way across?
+
+🎤 SPEAKER_1 [336s - 336s]
+Like, short
+
+🎤 SPEAKER_1 [352s - 355s]
+Or is it like two? Or is it like two in his No, it didn't.
+
+👤 あなた [356s - 364s]
+No, it didn't. Won't be more than that. You should say mid teepa, one on one on the back and sides, and then short on top. And that's it.
+
+👤 あなた [365s - 370s]
+Numbers are do with clippers, and they don't use clippers on the top. They use scissors. Numbers don't work in that way.
+
+
+---
+
