@@ -846,3 +846,74 @@ So you get a mud over it. Sweet daddy.
 
 ---
 
+
+
+## 📝 Friends Recount Dramatic Youth Football Match - 38ef00ce-5e4a-4adf-8186-0436fed5fb00
+
+**記録時間**: 2026-02-28 21:02:10
+
+### STT生テキスト
+
+👤 あなた [0s - 3s]
+Are you doing those? Out on the front door there for a sec.
+
+🎤 SPEAKER_2 [3s - 12s]
+Hello. That was tremendous. Was it quite was it? I know. Tense. When Santi scored the third goal, three three Literally, like, five. Look.
+
+🎤 SPEAKER_2 [12s - 19s]
+She's so corrupted. Did it? All of them. Kids were in the corner. It was like Carna City scoring It's like the eighteen final.
+
+👤 あなた [19s - 24s]
+Well, well, well, Has it been that long since you guys enjoyed a football game, Cup matches as well?
+
+🎤 SPEAKER_2 [24s - 32s]
+Not in that was the first one we've gone out of the first round because that's the last against Cogan in the first round and we lost. Woah. So that's a bit unlucky. Next round.
+
+👤 あなた [33s - 34s]
+I think the finals played in Jenna Parker.
+
+🎤 SPEAKER_2 [35s - 39s]
+It's way better than just playing the league. I don't I I think oh, yeah. I
+
+🎤 SPEAKER_2 [40s - 41s]
+I don't think we're getting the point.
+
+🎤 SPEAKER_3 [42s - 53s]
+I don't think we're the best team in is is Barry I mean, depends who gets knocked out. The problem is Barry's athetic. We hardly had any games cancelled because they're playing on pen culture and they've moved their pitch right onto the top of the hill. Mhmm. So it was decent enough.
+
+🎤 SPEAKER_3 [54s - 57s]
+I mean, it was muddy, but it wasn't but a little bit further down the hill is really squelchy.
+
+👤 あなた [57s - 59s]
+Oh, yeah. Are you muddy off?
+
+🎤 SPEAKER_3 [60s - 63s]
+Was like blinking playing on the side of Snowden. Was ridiculous.
+
+🎤 SPEAKER_2 [63s - 65s]
+And the No.
+
+🎤 SPEAKER_3 [66s - 73s]
+But as their home pitch, they were they obviously know it well. They know Yeah. How do you go? Dave's team. He was getting a bit animated. Zach gave away a pen.
+
+🎤 SPEAKER_3 [74s - 75s]
+Thinks it should have been a work card.
+
+👤 あなた [75s - 76s]
+It should have been.
+
+🎤 SPEAKER_1 [76s - 77s]
+Was it a That was not last month.
+
+🎤 SPEAKER_3 [80s - 85s]
+Oh, No. But, Dan, I missed the ball because my foot was in the mud and they got stuck in the mud. I went to kick it and boot away. Wow.
+
+🎤 SPEAKER_1 [85s - 86s]
+That's something's coming through.
+
+🎤 SPEAKER_3 [86s - 89s]
+Oh, I I the ball with my foot got stuck in the
+
+
+---
+
