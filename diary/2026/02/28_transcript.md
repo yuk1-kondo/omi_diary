@@ -463,3 +463,386 @@ That was a good second half. Good second game, Omi.
 
 ---
 
+
+
+## 📝 Parent and Jude Discuss Social Media and Safety - 7d04a74f-e801-4c6a-bbf0-d221a9ee2511
+
+**記録時間**: 2026-02-28 20:05:32
+
+### STT生テキスト
+
+👤 あなた [0s - 5s]
+It might be just me and Elliot. As Judas at a birthday party.
+
+👤 あなた [15s - 19s]
+You are. Sorry. Didn't know you came out. Do you know what time your party is?
+
+🎤 SPEAKER_1 [20s - 23s]
+One 1PM until 5PM.
+
+👤 あなた [23s - 30s]
+Woah. That's quite a long time, innit? Yeah. Yeah. I don't know. Was just pops just wondering if we were coming over to a at a party, but I don't know how long for.
+
+🎤 SPEAKER_1 [32s - 33s]
+Well done, Two hours.
+
+👤 あなた [36s - 43s]
+03:00. So it'd be you're gonna miss it. But don't worry. I'm sure you have a lot more fun than watching Cardiff play over pupses.
+
+👤 あなた [45s - 48s]
+No need not quite the same watching on TV, is it?
+
+🎤 SPEAKER_1 [50s - 52s]
+Tell Omi, don't Well, yeah.
+
+👤 あなた [55s - 62s]
+So it will fit in three, four, 40. Yeah. You can do, or you can just find out at the end. Can I go to one of my friends' 35?
+
+👤 あなた [69s - 70s]
+To see?
+
+🎤 SPEAKER_1 [70s - 70s]
+Yeah.
+
+👤 あなた [76s - 88s]
+Yeah. That's cool. That's what we're trying to avoid you, Gavin. An It's not good. It's not good at all. It's actually banned for it's gonna be banned soon for under sixteens.
+
+🎤 SPEAKER_1 [89s - 91s]
+Social media.
+
+👤 あなた [94s - 106s]
+Social media being Facebook, TikTok, Snap, Instagram, Mensen yeah. And the reason is is because it's actually quite addictive. It's not good for you.
+
+👤 あなた [107s - 116s]
+YouTube's not social media now. So YouTube will fine. Social media is anything where you just chat with people more? All my friends have.
+
+👤 あなた [116s - 120s]
+To do. Well, it depends on if the parents decide to follow the rules or not on it.
+
+👤 あなた [124s - 133s]
+Oh, you get well, we'll we might make a decision to let you have WhatsApp. But it'd be very, very strictly monitored. So we're not gonna let you go in any group chats.
+
+👤 あなた [135s - 144s]
+And we'll be checking your phone every few days. Yeah. To see who what you're chatting about and who you're chatting with. And what you're looking at.
+
+👤 あなた [145s - 158s]
+That was the rules that we gave to Elliot. And it's shown safety. Right? We did mummy shell checks as well. Yeah. It's about keeping you safe then because the there's people can be mean.
+
+👤 あなた [165s - 174s]
+Yeah. But mummy check yeah. But mummy took him out a few. And that is a bit different to you. I added it to a full a rural follower.
+
+👤 あなた [175s - 181s]
+So he does what he never he tends to not do things he shouldn't do. Whereas you, on the other hand, are not a rural follower.
+
+👤 あなた [183s - 191s]
+A bit more wild. You sneak. Tablets into bed. You watch screen when you shouldn't. You do things that you're not meant to do.
+
+👤 あなた [191s - 201s]
+And so my job is to keep you safe. And there's some real meanies, Jude. When you particularly when you're a young child, people can be people can be mean to each other.
+
+🎤 SPEAKER_1 [202s - 207s]
+I would want it. I would just wanna want to Doesn't matter.
+
+👤 あなた [209s - 222s]
+It's in your group chat, in your in your class even, there'll be people who put mean things on there. Might even be people swimming or sharing pictures of things that you're not meant to see at your age.
+
+👤 あなた [224s - 233s]
+And so for that reason, if we do give you WhatsApp, it will be very strictly monitored. For your own safety.
+
+🎤 SPEAKER_0 [259s - 259s]
+Yeah.
+
+🎤 SPEAKER_0 [263s - 266s]
+Between like eleven or ten. Doesn't mean that
+
+👤 あなた [269s - 272s]
+can't get can't get in a minute. How's your boots anyway?
+
+🎤 SPEAKER_1 [266s - 269s]
+a good decision. Right. I'm gonna move the car forward a bit, Juice.
+
+👤 あなた [285s - 293s]
+Run this side. Just try to keep your beep keep your keep your feet off the seats. So just kneel basically. Don't have your feet on the seats anywhere.
+
+👤 あなた [297s - 314s]
+Sorry.
+
+👤 あなた [318s - 338s]
+Oh, and it's a reverse accident. Oh, watch that wing mirror race. Yeah. It doesn't matter about beer, just to be honest.
+
+👤 あなた [346s - 359s]
+Even even grown ups are meant to have at least seven to eight hours sleep. Less than seven hours, over time it makes you ill and makes you your brain not work as well, but also really affects your health overall.
+
+👤 あなた [360s - 373s]
+For an adult. So I've got to bed that late as a appearance incision, unfortunately. Parent incision. Any have ten, eleven hours sleep really at your ridge.
+
+👤 あなた [374s - 388s]
+Not as a not not for any other reason then that your body's suffering. And so you'll thank my mom daddy when you're older. You'll thank us for making sure that we didn't get addicted to social media.
+
+👤 あなた [389s - 399s]
+Thank us that we made sure that he had proper sleep. But I do appreciate it when you're at your age now. All you can think about it as well as not there because session sessions are allowed to do it.
+
+👤 あなた [400s - 403s]
+But when you're older, you'll see. You'll see why.
+
+👤 あなた [407s - 415s]
+Well, was a weird weather, wouldn't it? The summer's out. Warm? But when the summer's away, quite cold, it?
+
+👤 あなた [423s - 430s]
+No. It's not quite working like that, actually. It's still the wind chill. Just making conversations you don't need to be
+
+👤 あなた [435s - 435s]
+Go.
+
+👤 あなた [442s - 443s]
+No. No. From 21, not.
+
+👤 あなた [451s - 458s]
+I thought you made some really decent saves today. Yeah. You made that one mistake, but to be honest, with you, they're madder because your your team is just too good.
+
+👤 あなた [461s - 464s]
+Yeah. It matter, does it? That's the thing about goalkeeper.
+
+🎤 SPEAKER_2 [465s - 466s]
+You if you my wedding.
+
+👤 あなた [466s - 468s]
+Yeah. Some is Happens.
+
+🎤 SPEAKER_2 [468s - 470s]
+I literally see the bomb.
+
+👤 あなた [470s - 475s]
+Well, you should have bought a baseball cap, I guess, head, but there we are. You would have to do this then. It would have it would have actually.
+
+👤 あなた [476s - 483s]
+We'll just stop you and pay in the thing is, dude, even professional keepers who playing the championship Premier League, they make mistakes.
+
+👤 あなた [483s - 497s]
+And if they if keepers never made mistakes, they would never all games would be zero zero. Pretty much. And so that would be boring to everyone else. So you just gotta accept that you will concede goals from time to time.
+
+👤 あなた [499s - 501s]
+As long as on the overall balance, you're doing your best.
+
+👤 あなた [503s - 513s]
+Much like, they've controlled when the best keepers we've had in recent memory letting five goals last week. In one match. He would have been absolutely annoyed and gutted about it, but he noticed how calm he was.
+
+👤 あなた [514s - 528s]
+I saw the camera when zoomed in on his face. And all he's doing, he's shaking his head off this. He was obviously really annoyed, but wasn't letting that show. He's keeping that inside and just just realizing now this is football at the end of the day.
+
+👤 あなた [532s - 539s]
+You know I'm injured? Bro, do you want a bath?
+
+👤 あなた [542s - 544s]
+I can put the bath on you can watch screen and bath.
+
+🎤 SPEAKER_2 [545s - 547s]
+In the bath.
+
+👤 あなた [547s - 549s]
+Whilst you're in the bath. Yes.
+
+🎤 SPEAKER_2 [549s - 551s]
+You said put screen in the bath.
+
+👤 あなた [553s - 557s]
+Tudor tudor producer tudor. Tudo, know exactly what I meant, so
+
+👤 あなた [560s - 566s]
+There you go. You're probably. Here you go. Big boy now.
+
+👤 あなた [570s - 573s]
+Nou dat je tuurlijk bent. No. Mommy, wow.
+
+🎤 SPEAKER_1 [573s - 576s]
+I'm a big boy now. That's a song to sing.
+
+🎤 SPEAKER_1 [579s - 581s]
+When when when you discover If we try and choose, we try and get the beads not in here.
+
+🎤 SPEAKER_2 [599s - 599s]
+So somehow.
+
+👤 あなた [601s - 608s]
+So this is what you need to do, Jude. So what you need to do, you need to stand on the door step here. Look up look at me me.
+
+🎤 SPEAKER_0 [630s - 637s]
+Set me foot in. That's it. And give it a good old shake outside. Any in there? No. Against the wall bit.
+
+🎤 SPEAKER_0 [637s - 639s]
+Bash against that wall there.
+
+👤 あなた [644s - 644s]
+Not really.
+
+👤 あなた [658s - 669s]
+Yeah? Yeah. Pork parts are there. We should don't wanna do the That's the first time ever, innit? Normally you have a little
+
+👤 あなた [672s - 691s]
+Come on in then, son. And there it is. Half the houses and barely probably got loaded beads. Yeah. Thousand beats in house. I know. It's annoying. More than that. Uh-huh. 10,000.
+
+👤 あなた [692s - 693s]
+Woah. Maybe.
+
+👤 あなた [745s - 748s]
+You remember me fix it for you though? No.
+
+👤 あなた [751s - 760s]
+Do you know that one of the fish died attitudes? One of the fish died, unfortunately. We don't know. We found it underneath one of the rocks.
+
+👤 あなた [761s - 762s]
+One of the green ones.
+
+🎤 SPEAKER_1 [763s - 765s]
+Was it a bit shubby one?
+
+👤 あなた [765s - 770s]
+No. One of the green ones. Yeah. We only got three green ones in there now.
+
+🎤 SPEAKER_1 [774s - 776s]
+Did he eat?
+
+👤 あなた [776s - 778s]
+I know. He looked a bit unwell.
+
+👤 あなた [782s - 789s]
+I think fish tend to put themselves separately to everyone else when they're not well. And so there's always one fish that kept on swimming by itself and
+
+👤 あなた [856s - 861s]
+Oh, yeah. Yeah. I've got a bit of a bruise there. Now that's your muscle there is. It's this bit here.
+
+🎤 SPEAKER_2 [862s - 864s]
+But this is the Yeah.
+
+👤 あなた [864s - 867s]
+That that is a bit of a bit of a bump on the bruise there.
+
+🎤 SPEAKER_1 [868s - 868s]
+Like this.
+
+👤 あなた [869s - 872s]
+So You try to get don't think he meant you don't think he tried to hit you? You're trying to get the ball?
+
+🎤 SPEAKER_1 [872s - 873s]
+In a corner.
+
+🎤 SPEAKER_2 [873s - 874s]
+Yeah. Look.
+
+🎤 SPEAKER_1 [874s - 874s]
+He's
+
+🎤 SPEAKER_1 [878s - 879s]
+like the He was fully studded and he went like that.
+
+👤 あなた [880s - 882s]
+Was your foot on the ground like that? Stood on you basically. Alright.
+
+🎤 SPEAKER_1 [883s - 884s]
+Because I was like
+
+👤 あなた [885s - 886s]
+You saved it?
+
+🎤 SPEAKER_2 [887s - 887s]
+I thought I said this.
+
+👤 あなた [888s - 890s]
+And the accident stood on your leg basically.
+
+🎤 SPEAKER_1 [890s - 891s]
+Yeah. Then I went like
+
+🎤 SPEAKER_2 [894s - 894s]
+Yeah.
+
+👤 あなた [894s - 903s]
+Well, oh, it happened before the safe. Yeah. Alright. Alright. But you didn't know. No. Because it was two situations. Was it? It was a first save, then it was a second thing going on. Yeah.
+
+👤 あなた [904s - 906s]
+Well, then do you want me to put do you want some ice on that?
+
+🎤 SPEAKER_1 [908s - 910s]
+It's just a bit sticky to me on it.
+
+👤 あなた [910s - 917s]
+Yeah. It does look a bit it does look like you're gonna have a bit of a bruise this end, but that's what happens to populism unfortunately.
+
+👤 あなた [919s - 922s]
+Particularly goalkeepers, they do get they do get injured.
+
+👤 あなた [953s - 957s]
+Right. Okay. Can you still play it or no? No.
+
+🎤 SPEAKER_1 [958s - 979s]
+It's like and then she died. See, they died just then.
+
+👤 あなた [980s - 983s]
+Right. Okay. You're playing now or you're watching TV?
+
+👤 あなた [999s - 1001s]
+Ya, these in in that past year.
+
+🎤 SPEAKER_2 [1001s - 1001s]
+Yep.
+
+👤 あなた [1005s - 1024s]
+Oh, is your thing broken again? Is it, Jude? Your toy? Your fridge your toy? It's on the floor.
+
+👤 あなた [1039s - 1041s]
+Four eight for their batteries maybe, I don't know.
+
+🎤 SPEAKER_2 [1058s - 1061s]
+Face shine on us.
+
+👤 あなた [1064s - 1065s]
+Have On the floor by your right foot.
+
+🎤 SPEAKER_2 [1076s - 1076s]
+There we are.
+
+🎤 SPEAKER_1 [1096s - 1098s]
+Dad, stand.
+
+👤 あなた [1099s - 1100s]
+Again? Yeah.
+
+🎤 SPEAKER_2 [1101s - 1102s]
+Blimey.
+
+👤 あなた [1109s - 1110s]
+Some more batteries.
+
+🎤 SPEAKER_2 [1110s - 1110s]
+Woah.
+
+👤 あなた [1113s - 1115s]
+Alright. These definitely will work. These are brand new.
+
+👤 あなた [1119s - 1146s]
+Why is your Xbox not to
+
+👤 あなた [1150s - 1157s]
+Yeah. It's just to pair, basically.
+
+👤 あなた [1161s - 1177s]
+Patience is always good thing to learn, Jude.
+
+👤 あなた [1181s - 1193s]
+Right. Is that on the right channel?
+
+🎤 SPEAKER_1 [1194s - 1197s]
+Just stop like this. I haven't clipped anything.
+
+👤 あなた [1197s - 1209s]
+I just Troke chain. Okay. Pass through the TV controller. Yeah. Try try again on the Chromecast.
+
+🎤 SPEAKER_2 [1210s - 1211s]
+Alright.
+
+👤 あなた [1215s - 1295s]
+So you get a mud over it. Sweet daddy.
+
+
+---
+
