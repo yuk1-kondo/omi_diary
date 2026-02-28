@@ -395,3 +395,71 @@ Yeah. Run after my.
 
 ---
 
+
+
+## 📝 Post-Match Chat on Goalkeeping and Injury - 2fc19678-8fae-4ac6-8c10-32810129122e
+
+**記録時間**: 2026-02-28 19:55:46
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+It's safe, Jeez?
+
+🎤 SPEAKER_1 [1s - 2s]
+Nice.
+
+🎤 SPEAKER_1 [93s - 93s]
+Yo.
+
+🎤 SPEAKER_1 [125s - 126s]
+Number four is cocaine.
+
+👤 あなた [195s - 202s]
+How are doing? Made some good saves in that match in the end. You like? Very
+
+👤 あなた [207s - 208s]
+Where is it feeding them?
+
+👤 あなた [211s - 220s]
+Just around the area hit, was it? My leg. Leg. Yeah. Say again? I can my foot. But yeah. It's a bit numb around there, is it?
+
+👤 あなた [221s - 222s]
+Yeah. You've had a good whack here, so
+
+🎤 SPEAKER_1 [223s - 223s]
+Probably.
+
+👤 あなた [226s - 236s]
+If it really bit painful, June will then keep some medicine later if needed. Alright? But you got a good party to enjoy later. So the fact that you carried on playing and goalkeepers pick up a lot of knocks.
+
+👤 あなた [256s - 261s]
+Yeah. Brilliant. Yeah. You look this is the time to learn those things as well. Yeah. Exactly.
+
+👤 あなた [273s - 274s]
+Yeah.
+
+👤 あなた [277s - 283s]
+It Yeah. Maybe it cooled at the last minute. It may be it cooled at the last moment. You know?
+
+👤 あなた [287s - 290s]
+I'm like Right.
+
+👤 あなた [298s - 299s]
+I I have to die.
+
+🎤 SPEAKER_1 [299s - 304s]
+Nothing. But the ball is going ring. Fast.
+
+👤 あなた [304s - 304s]
+Yeah.
+
+👤 あなた [310s - 319s]
+Yeah. Yeah. It happened it happened pretty quick. As Krishna said, that you reacted really You made some decent saves. First half particularly, you're doing you're catching all the balls coming at you.
+
+👤 あなた [320s - 323s]
+That was a good second half. Good second game, Omi.
+
+
+---
+
