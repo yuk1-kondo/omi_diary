@@ -527,3 +527,215 @@ So
 
 ---
 
+
+
+## 📝 Debate On UK Role In Iran Retaliation - 010f58c4-32a1-4fec-b705-2af4bb480708
+
+**記録時間**: 2026-03-02 19:17:24
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 26s]
+Prime minister should not be party to attempts. To minimize those and even neutralize those attacks. And that is the nuance. So we'll talk about this a lot today, and we'll come at it from lots and lots of different But I worry, looking at some of the early reactions to that speech from Kirstama, I worry that we're all in danger of going a little bit undergraduate.
+
+🎤 SPEAKER_1 [27s - 58s]
+Or going a little bit footballification. Whether you pick a side, and, of course, if you were cheering last time, they secured their historic victory that was down for generations. You're probably lost to morality now. You're not gonna sit there and say, hang on a minute. I can't be in favor of this one without admitting that I believe the lies about the last one. I I don't know how you I I I don't know how you process information like this. But for the rest of us who can recognize Nuance or can at least try to we're doing.
+
+🎤 SPEAKER_2 [58s - 61s]
+Then we're protagonists are blatant and birthday liars.
+
+🎤 SPEAKER_1 [62s - 71s]
+Kirstama tries to walk a tightrope, and that tightrope there, he's in not being part of the original unprovoked and almost certainly
+
+🎤 SPEAKER_1 [74s - 89s]
+Both being party two the attempts to minimize the consequences of Iran's retaliation upon our allies and ourselves. Which is why he has done the right thing.
+
+🎤 SPEAKER_1 [90s - 104s]
+Even though it feels and to a certain extent sounds, like the wrong thing Because here is what the alternative would be. Iran launches missile after missile after missile at our allies in the region quite possibly at British bases.
+
+🎤 SPEAKER_1 [104s - 115s]
+And we are not part of either the defense or the response to those attacks. Provoked attacks. Crucial distinction number 307.
+
+🎤 SPEAKER_1 [115s - 128s]
+Provoked attacks. Iran's attacks upon enemy, upon allied positions, or upon British bases are provoked attacks. They are attacks provoked by the United States and Israel. But what do you do?
+
+🎤 SPEAKER_1 [129s - 140s]
+Do you do nothing? Do you say to the Americans, you cannot use our bases to defend our allies? Because you've just used them to attack our enemies.
+
+🎤 SPEAKER_1 [141s - 149s]
+You've just launched an unprovoked attack upon our enemy, so you can't use our bases to defend our allies from their provoked retaliation.
+
+🎤 SPEAKER_1 [150s - 162s]
+And that's what I mean about it being suboptimal from a phoneme point of view because it not just pick a side, get your rattle, and start waving your scarf in the furiously shouting about how the other lot are awful and your lot are fantastic.
+
+🎤 SPEAKER_1 [162s - 173s]
+We can leave that to the other 80% of The UK media. What I want you to talk to me about today is whether or not Kirstama has got this right.
+
+🎤 SPEAKER_1 [174s - 186s]
+By distancing himself from the unprovoked and almost certainly illegal attack upon Iran, which enjoys next to known public support in either this country or The United States. America.
+
+🎤 SPEAKER_1 [190s - 209s]
+But responding to the retaliations from Iran by contributing to that process of resistance. It's complicated. Right? I mean, it's not so complicated that you don't understand it, but it may have needed a little bit of explanation from those of us who are paid to do this kind of thing.
+
+🎤 SPEAKER_1 [210s - 235s]
+I don't quite see what else he could have done. To to sit on his hands, while British allies and even potentially British bases come under attack, or to do what he has done while distancing himself originally from the unprovoked criminality. That's it. That's that's the conversation I wanna have first up today. O three four five six zero six o nine seven three is the number that you need. Hit the numbers now. You will get through.
+
+🎤 SPEAKER_1 [236s - 247s]
+Other angles that we will no doubt get to later in the program, notwithstanding, At not least, the fact of how on earth can you need another war just nine months after a historic victory which will stand for generations.
+
+🎤 SPEAKER_1 [248s - 254s]
+Don't know. But I wanna know first about our prime minister, our country, and our role. We're not part of the original attack.
+
+🎤 SPEAKER_1 [255s - 262s]
+But we are gonna be part of the responses to the provoked responses to the original attack. And that's complicated, and it's nuanced.
+
+🎤 SPEAKER_1 [263s - 276s]
+And it's not clear immediately. It's certainly not binary. But I think the prime minister's got it right. Do you? O 34506O973. LBC.
+
+👤 あなた [280s - 282s]
+Offensive posture and what it means by that
+
+🎤 SPEAKER_3 [283s - 308s]
+is that it does believe that the ability to provide the Americans with support has changed when it comes to the calculation about international law and so on. Given the response that we're now seeing, the retali that we're now seeing from the Iranians aimed at various other countries in the region. And The UK believes that it is therefore appropriate to provide support in the form of military bases and so on.
+
+🎤 SPEAKER_3 [309s - 325s]
+To The US because of the possibility for allies in in the region and British assets and indeed civilians to come to harm as a result of the Iranian retaliation, drone strikes, missiles, and so on.
+
+🎤 SPEAKER_3 [326s - 363s]
+The UK government, though, is denying that is effectively being drawn into a war in the Middle East Hamish Folker has also been talking for the government this and he is denied that The UK is at war in in the Middle East region. But certainly, there is the concern that is being asked of the government about whether this could lead to something protracting and drawn out and certainly all sorts of concerns about wider escalation in the region to That said, The UK has faced some criticism. Domestic two, domestically from companies like k.
+
+👤 あなた [389s - 390s]
+Mhmm. All sorted.
+
+🎤 SPEAKER_2 [393s - 395s]
+How much is it?
+
+👤 あなた [395s - 402s]
+Twenty. Well, actually, in the end, it was gonna be 15, but I just felt like Yeah.
+
+🎤 SPEAKER_2 [402s - 403s]
+Because She's no longer than the average job.
+
+👤 あなた [403s - 408s]
+Yeah. So but the place has been taken over by these two Afghani guys now.
+
+🎤 SPEAKER_2 [408s - 409s]
+Yeah.
+
+👤 あなた [409s - 413s]
+And they're probably in there late forties, early fifties. Oh, yeah.
+
+🎤 SPEAKER_4 [413s - 414s]
+I'd call you back to Galley.
+
+👤 あなた [414s - 437s]
+Well, because I overheard a conversation with one or the other with the another customer. And he's like, oh, you guys just the guy the other guy who came back is like, this I've been here quite a few times since you took over, and superb customer service, great job and I like to be fair to them, you know what it's like? Some people come work really hard and they they did a good job. They checked the tire pressure and all the other ones as well.
+
+👤 あなた [439s - 440s]
+And persevered.
+
+👤 あなた [442s - 445s]
+Whereas Because another customer we're talking about it.
+
+🎤 SPEAKER_4 [445s - 447s]
+He was Alright. Okay. You start telling me what they said.
+
+👤 あなた [447s - 448s]
+Oh, yeah. Oh, sorry.
+
+🎤 SPEAKER_4 [450s - 450s]
+Okay.
+
+👤 あなた [450s - 454s]
+Right. So he said I'm off yeah. He said, yeah, he just asked them where they're from, basically, the solar guy.
+
+🎤 SPEAKER_2 [456s - 456s]
+Yeah.
+
+🎤 SPEAKER_4 [456s - 457s]
+Fuck it.
+
+👤 あなた [457s - 463s]
+And he was like, I'm off to America. I was like in but tone deaf pal. I'm off to America tomorrow. That's where I'm getting my tire fixed.
+
+👤 あなた [465s - 475s]
+Which is he's he's like and then you start asking him about the Taliban and all that. I was like, just don't go there, mate. You know? But they were polite and kind and just like just a complete I mean, Barry has been white forever.
+
+🎤 SPEAKER_4 [480s - 483s]
+Yeah. People don't you know, I
+
+👤 あなた [496s - 497s]
+Yeah.
+
+🎤 SPEAKER_4 [497s - 505s]
+No. Just like because, literally, people like you and me, they're in their life, there's just this weird and it's always been there, this colonialism. Yeah.
+
+🎤 SPEAKER_0 [532s - 534s]
+Too late for this to grout.
+
+🎤 SPEAKER_1 [546s - 555s]
+Eddie has got a cup game. Eddie's a cup game. Yeah. And the buttsman are gonna have to keep tabs of blinking.
+
+👤 あなた [555s - 566s]
+There's a tiny bit left, they? Won't put it in yet, but Stop. Only got a walk. Well, it's the time Why did you wanna is on? Well, I'll tell you why. I did a, I didn't put it in for status.
+
+👤 あなた [566s - 571s]
+B, it's so quiet speak. So quiet I didn't hear it so I opened the drawer then I noticed it.
+
+👤 あなた [572s - 580s]
+Oh, Then you started and then I stopped. That was the order of things. Yeah. Moses and and who's had four cream eggs then?
+
+🎤 SPEAKER_1 [592s - 597s]
+Oh, they're My mum's happy to work we'll just get the play card game on that Saturday.
+
+👤 あなた [597s - 598s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [598s - 600s]
+And Elliot is really key for the team, to be honest.
+
+👤 あなた [601s - 601s]
+Is he?
+
+👤 あなた [611s - 616s]
+Quite how he's had the scrub spurt. 12 going on 13. He's now taller than both of us.
+
+🎤 SPEAKER_1 [618s - 629s]
+Some tees ridiculously, and then Who was?
+
+👤 あなた [640s - 641s]
+Any 90% Right.
+
+🎤 SPEAKER_1 [641s - 641s]
+Something. Like that.
+
+👤 あなた [643s - 643s]
+Was it?
+
+🎤 SPEAKER_1 [644s - 644s]
+Wow.
+
+👤 あなた [648s - 657s]
+Yeah. I just I just prepared for it. Bit like I wasn't prepared to start balding in my early twenties. I was not prepared for my son who is 12.
+
+👤 あなた [658s - 675s]
+Now 13, now to be taller than me. So only a year or two ago, he was you know, and he was quite sweet and yeah. And these toys I've noticed that his hands have grown a bit as well recently. He had quite small hands like me for a while.
+
+🎤 SPEAKER_1 [675s - 676s]
+No.
+
+👤 あなた [676s - 681s]
+But now he's but if you look him Yeah. So I've seen him on the piano and they're looking really big.
+
+🎤 SPEAKER_1 [697s - 698s]
+Hold on. I know.
+
+👤 あなた [698s - 701s]
+I know. She showed you. Yeah. Really good. Really good.
+
+👤 あなた [718s - 721s]
+Yeah, good. One sec.
+
+
+---
+
