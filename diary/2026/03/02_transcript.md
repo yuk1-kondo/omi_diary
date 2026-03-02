@@ -478,3 +478,38 @@ Okay. Thank you.
 
 ---
 
+
+
+## 📝 User Discusses Recurring Car Tyre Pressure Loss - 11e8c129-285d-4d27-8617-3a9699cc7572
+
+**記録時間**: 2026-03-02 19:02:24
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 2s]
+How how how often do they? Well, let's just change it.
+
+👤 あなた [2s - 12s]
+I took it to to a garage last year because I kept on doing it. But every about week or week and a half, it it goes down to 1.8 bar or something like that.
+
+👤 あなた [14s - 16s]
+But the the guy before couldn't find anything.
+
+👤 あなた [19s - 24s]
+They had a look and they're like, no, I can't see any problem. But it keeps it keeps happening. So it's
+
+👤 あなた [29s - 29s]
+Yeah.
+
+🎤 SPEAKER_2 [29s - 30s]
+The size of Yes.
+
+👤 あなた [32s - 41s]
+You start making. Yes. But there's there must be something after eight days? That's not that's not right, is it? No. But it's not for the Yeah. That's right. Yeah.
+
+👤 あなた [41s - 42s]
+So
+
+
+---
+
