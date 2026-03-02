@@ -330,3 +330,53 @@ I got Just put my wallet.
 
 ---
 
+
+
+## 📝 Customer Arranges Window Cleaning Receipt - 9654b98a-7c86-44bd-96a6-4fd72f723b00
+
+**記録時間**: 2026-03-02 18:43:19
+
+### STT生テキスト
+
+👤 あなた [0s - 7s]
+a window clue So these are I'm I'm working now. So these are I mean, they they need washed. Yeah. This one is
+
+🎤 SPEAKER_1 [7s - 7s]
+the strips.
+
+👤 あなた [8s - 8s]
+Do you wanna
+
+👤 あなた [46s - 48s]
+This is my second visit of coming
+
+👤 あなた [51s - 54s]
+It's funny that's funny. Are you you do remember good service.
+
+🎤 SPEAKER_2 [54s - 56s]
+Know, I'm learning heavy. But the father's
+
+👤 あなた [56s - 57s]
+thought that one So
+
+🎤 SPEAKER_2 [71s - 72s]
+Yep.
+
+🎤 SPEAKER_2 [104s - 106s]
+Let me check the other thing.
+
+👤 あなた [106s - 111s]
+Is it possible to get a just a receipt from me if it's possible?
+
+👤 あなた [151s - 152s]
+I'm on the motorway tomorrow.
+
+🎤 SPEAKER_2 [154s - 155s]
+No. Today.
+
+👤 あなた [223s - 268s]
+How can I get that? Come back with that, Bill.
+
+
+---
+
