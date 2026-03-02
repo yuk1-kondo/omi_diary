@@ -1,0 +1,94 @@
+{
+  "id": "638b3c15-f73e-46a1-b25a-77423f0f42fc",
+  "created_at": "2026-03-02T14:27:39.235587+00:00",
+  "started_at": "2026-03-02T14:18:40.982399+00:00",
+  "finished_at": "2026-03-02T14:29:01.507822+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "質問の依頼についての短い発話",
+    "overview": "会話は「教えてください」という一言のみで構成されており、具体的なトピックや内容は明示されていない。相手に何かの説明や情報提供を求めている状況と推測されるが、詳細は不明であり、アクションアイテムや予定に結びつく情報も含まれていない。",
+    "emoji": "❓",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "a4e28da3-ccfc-4fd3-85d7-d905ba526b06",
+      "text": "教えてください",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.384185791015625e-07,
+      "end": 9.10137523841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1e7c1eac-e3bc-4528-8c8f-ed55b837f04b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "638b3c15-f73e-46a1-b25a-77423f0f42fc",
+      "chunk_timestamps": [
+        1772461659.908,
+        1772461667.294,
+        1772461676.388,
+        1772461683.804,
+        1772461694.725,
+        1772461705.174,
+        1772461711.207,
+        1772461717.579,
+        1772461723.282,
+        1772461730.983,
+        1772461736.964,
+        1772461742.934,
+        1772461747.931,
+        1772461754.621,
+        1772461762.704,
+        1772461770.266,
+        1772461777.718,
+        1772461785.299,
+        1772461794.326,
+        1772461801.289,
+        1772461807.724,
+        1772461814.222,
+        1772461821.438,
+        1772461830.659,
+        1772461840.698
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-02T14:27:39.908000+00:00",
+      "duration": 185.79
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「教えてください」という依頼があったが、内容の詳細は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 何について知りたいか（例：手続きのこと、生活のこと、気持ちのことなど）を、思いつく範囲で少し具体的に書いてみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
