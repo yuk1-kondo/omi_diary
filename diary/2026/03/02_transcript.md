@@ -753,3 +753,65 @@ Yeah, good. One sec.
 
 ---
 
+
+
+## 📝 Family Prepares School Visit And Discusses Politics - 0f9a6975-d8f1-4a42-86a5-8ac5fbe9131e
+
+**記録時間**: 2026-03-02 19:32:21
+
+### STT生テキスト
+
+👤 あなた [0s - 15s]
+Britt is quite unpleased that that was sorted, Rachel. The the tire. Yeah. It's been an issue for quite a while now. And the tire itself looked brand new, really. Even when he took it off, the tread was almost brand new, so it would be a shame to replace the tire.
+
+🎤 SPEAKER_1 [17s - 18s]
+So the name, you say?
+
+👤 あなた [19s - 36s]
+Yeah. Wasn't quite clear what it was, but it was something sharp and small. The way they find the hole is they pour water. Around the rim, first of all, and then both sides, and then they put it in a massive sink and this there's no nothing coming up.
+
+👤 あなた [37s - 44s]
+He it slowly looking at every little bit. And then he got it out and rolled it around again. It went on for about ten minutes. I'm trying to find this blinking thing.
+
+👤 あなた [45s - 55s]
+Tileus Yeah. Well, you're like, oh, so how often is it deflating? I said every couple of weeks. No, that's not normal. She had to keep going, keep going.
+
+👤 あなた [55s - 61s]
+And then the tiniest thing, I'm not even jigging about the size of a full stop, maybe a bit bigger. You got it with a bit of ply, moved it a bit.
+
+👤 あなた [61s - 66s]
+And then you could see that then that's when it became obvious after that.
+
+🎤 SPEAKER_1 [67s - 70s]
+So Yeah. I guess if it's been on there for so long, it will dugging. No.
+
+👤 あなた [71s - 76s]
+But we've been up to Darborshire and all sorts with it. So it's good to have that finely sorted down for Heathrow as well.
+
+👤 あなた [80s - 89s]
+Alright. What time, Rachel? What I know you're working. What time do we have to go to the school then?
+
+🎤 SPEAKER_1 [90s - 91s]
+What is the ten past eleven?
+
+👤 あなた [92s - 210s]
+Right. Yeah. Even though they're always behind, but seeing that leader have announced a new plan for refugees and the status is temporary and the government will pay you to leave.
+
+👤 あなた [211s - 220s]
+Quite a bit of money to leave the country. But that's way cheaper than supporting them over many years. And if you leave then we'll deport you.
+
+👤 あなた [220s - 224s]
+Kind of thing. So that's the that's labour's response to reform photos I guess.
+
+🎤 SPEAKER_1 [226s - 227s]
+To leave.
+
+👤 あなた [227s - 235s]
+I know. Didn't because it's only on the radio. Caught the back end of it. Know if that was just for refugees. Or if that was for foreign internationals that have upset they're welcome visa wise.
+
+👤 あなた [243s - 248s]
+So for these Afghani guys, I don't know what that means. I don't know. They would have come here as refugees or not, but
+
+
+---
+
