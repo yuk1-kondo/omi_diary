@@ -1,0 +1,104 @@
+{
+  "id": "75b98f81-419d-49c9-b58c-714d95a215fa",
+  "created_at": "2026-03-02T11:20:31.023689+00:00",
+  "started_at": "2026-03-02T11:16:16.495536+00:00",
+  "finished_at": "2026-03-02T11:21:37.739039+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "一緒に逃げたいという気持ちの共有",
+    "overview": "短いやり取りの中で、「一緒に逃げたいです」という強い感情や願望が表明されている。具体的な状況説明や予定、行動計画などは語られておらず、文脈は不明だが、現状から離れたい・誰かと共に逃避したいという心理的な訴えとして読み取れる。",
+    "emoji": "💭",
+    "category": "psychology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "48a33b59-71cf-4caf-b076-b88a7a75fb0b",
+      "text": "一緒に逃げたいです",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 9.90137476158142,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "6572aff7-b341-4863-ad04-3ec1bb8f2eca",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "75b98f81-419d-49c9-b58c-714d95a215fa",
+      "chunk_timestamps": [
+        1772450426.059,
+        1772450431.748,
+        1772450437.15,
+        1772450442.229,
+        1772450448.313,
+        1772450455.392,
+        1772450460.319,
+        1772450465.736,
+        1772450471.134,
+        1772450476.693,
+        1772450481.996,
+        1772450487.355,
+        1772450493.291,
+        1772450498.472,
+        1772450503.905,
+        1772450509.35,
+        1772450514.887,
+        1772450521.738,
+        1772450526.599,
+        1772450532.161,
+        1772450538.068,
+        1772450543.387,
+        1772450549.167,
+        1772450554.416,
+        1772450560.289,
+        1772450565.998,
+        1772450571.273,
+        1772450575.963,
+        1772450581.61,
+        1772450586.473,
+        1772450591.789,
+        1772450597.099,
+        1772450602.181,
+        1772450607.268,
+        1772450612.348
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-02T11:20:26.059000+00:00",
+      "duration": 191.289
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「一緒に逃げたい」という気持ちを言葉にしてくれた\n- 今の状況がつらく、ひとりでは抱えきれない思いがあるように感じられる（詳細は未確認）\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- いま感じていることを、少しでも安心して話せそうな相手（家族・友人・支援窓口など）に言葉にして伝える場を検討してみてください。もし混乱や危険を感じる場合は、信頼できる人や専門家への相談を検討してください。"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
