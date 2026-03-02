@@ -380,3 +380,101 @@ How can I get that? Come back with that, Bill.
 
 ---
 
+
+
+## 📝 Customer Arranges Repair For Deflating Tyre - 22171d6c-ee56-4770-816d-5e8d80329ae1
+
+**記録時間**: 2026-03-02 18:50:30
+
+### STT生テキスト
+
+👤 あなた [0s - 13s]
+Aí. Which car?
+
+👤 あなた [13s - 20s]
+Oh, blue one. I can bring it up if you like. Yes. Just the back left is slowly deflating and I top it up and then it goes down again.
+
+👤 あなた [21s - 32s]
+It's got a puncture, I think, a hole somewhere. Let's see if she's getting there now. Okay. Thank you. I'll Nope. That's fine. That's fine. No. That's okay.
+
+🎤 SPEAKER_3 [33s - 43s]
+The back one.
+
+👤 あなた [44s - 54s]
+Yeah. Yeah. I pump it up and in about two weeks it goes goes down again. So don't sure if it's a nail. I couldn't see in like a nail, it could be.
+
+👤 あなた [54s - 57s]
+But there's something that's making it kind of go down.
+
+🎤 SPEAKER_1 [57s - 58s]
+Okay. Log that, please.
+
+👤 あなた [58s - 59s]
+Yep.
+
+👤 あなた [73s - 98s]
+Try to break it up. Yeah. I'll bring it up. Yep.
+
+🎤 SPEAKER_3 [102s - 181s]
+Alright.
+
+👤 あなた [182s - 185s]
+Now that? These guys do a good job here.
+
+🎤 SPEAKER_4 [185s - 187s]
+They're lovely too up there. Yeah.
+
+👤 あなた [191s - 212s]
+Yes. The guys before, they moved they gone to Russ. I don't know these guys took over and do a great job. But, yeah, I I I carried on coming here because it was so it's been a tired place for Convenience. Decades. Haven't it? Yeah.
+
+🎤 SPEAKER_4 [212s - 213s]
+And the fact that they're so polite. Yeah.
+
+🎤 SPEAKER_3 [214s - 214s]
+Yeah.
+
+👤 あなた [216s - 217s]
+It does.
+
+🎤 SPEAKER_1 [217s - 217s]
+It does.
+
+👤 あなた [221s - 222s]
+Yeah. Yeah.
+
+🎤 SPEAKER_4 [241s - 248s]
+Test ones. Yeah. But it's... How much is it going?
+
+🎤 SPEAKER_2 [248s - 256s]
+Don't let try.
+
+🎤 SPEAKER_2 [290s - 290s]
+Mhmm.
+
+🎤 SPEAKER_3 [290s - 296s]
+Okay. Okay. That's it.
+
+🎤 SPEAKER_4 [297s - 298s]
+I'll see you soon.
+
+🎤 SPEAKER_2 [298s - 299s]
+You're excited for?
+
+🎤 SPEAKER_3 [300s - 301s]
+Okay.
+
+🎤 SPEAKER_4 [302s - 304s]
+Thank you so much. Thank you.
+
+🎤 SPEAKER_3 [308s - 309s]
+Yay.
+
+🎤 SPEAKER_2 [310s - 313s]
+Can drive. Before you move to, you can come. We we sorted you.
+
+🎤 SPEAKER_4 [313s - 313s]
+Okay. Thank you.
+
+
+---
+
