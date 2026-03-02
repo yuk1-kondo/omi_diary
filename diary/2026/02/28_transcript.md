@@ -1394,3 +1394,1094 @@ And push like that and all the water will come out unless all the water not goin
 
 ---
 
+
+
+## 📝 Family Trip for Chips and Cardiff Match Commentary - cfe170fb-a939-4865-822e-bf1bb1e2959b
+
+**記録時間**: 2026-02-28 23:49:19
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 1s]
+Right, it is time to go, son.
+
+🎤 SPEAKER_1 [4s - 8s]
+Elliot, it's time to go.
+
+🎤 SPEAKER_1 [12s - 17s]
+Going in.
+
+🎤 SPEAKER_1 [21s - 41s]
+Órale.
+
+🎤 SPEAKER_1 [97s - 98s]
+Ça va bien
+
+🎤 SPEAKER_1 [113s - 127s]
+Let's just It's just the way that question answers were did. It's not particularly set up to be easy easy to sing.
+
+🎤 SPEAKER_1 [131s - 142s]
+Come on, let's come.
+
+🎤 SPEAKER_2 [146s - 157s]
+Let's go.
+
+🎤 SPEAKER_3 [161s - 162s]
+But I didn't go in and give me a fade.
+
+🎤 SPEAKER_1 [163s - 164s]
+So that yes.
+
+🎤 SPEAKER_3 [165s - 165s]
+Not really
+
+🎤 SPEAKER_1 [168s - 172s]
+I know. Where's the keys?
+
+🎤 SPEAKER_1 [176s - 195s]
+Je vais het lancer. Vais het What? Yeah. Hi, Evans.
+
+👤 あなた [196s - 198s]
+Evan asked seems to be sorted out.
+
+🎤 SPEAKER_1 [198s - 199s]
+I didn't. Why?
+
+👤 あなた [200s - 201s]
+I know. Seems
+
+🎤 SPEAKER_0 [231s - 235s]
+We just realized you need to have a drink when we get to what kind of puppies is then? So
+
+🎤 SPEAKER_0 [244s - 246s]
+I'll pop into Irene's now and get some chippy lunch.
+
+🎤 SPEAKER_1 [251s - 255s]
+Just because you can. Yeah. Do it on your own.
+
+👤 あなた [261s - 263s]
+Good. Are you hungry? You alright?
+
+👤 あなた [270s - 274s]
+Get chips.
+
+🎤 SPEAKER_1 [275s - 278s]
+Five minutes, do you get there. To the match and get food.
+
+👤 あなた [278s - 285s]
+Too. Yeah. We're gonna miss the start of the game now. Unfortunately. You know how it is.
+
+👤 あなた [289s - 294s]
+This look over it, you know.
+
+🎤 SPEAKER_1 [297s - 303s]
+If you say so. I mean it. I pushed it.
+
+🎤 SPEAKER_1 [312s - 318s]
+I'm gonna find B.
+
+👤 あなた [318s - 321s]
+C. Radio wales is easy.
+
+🎤 SPEAKER_1 [324s - 334s]
+Time to check the Uh-huh.
+
+👤 あなた [335s - 335s]
+Uh-huh.
+
+👤 あなた [347s - 370s]
+Because of Adam's sin, an able to keep god's
+
+🎤 SPEAKER_1 [371s - 374s]
+No. Really?
+
+👤 あなた [421s - 426s]
+On just switch up BBC Radio Whales FM frequency.
+
+🎤 SPEAKER_1 [430s - 436s]
+See if that can guess.
+
+👤 あなた [436s - 439s]
+No. 93.5.
+
+🎤 SPEAKER_1 [440s - 443s]
+Wait. Wow. Just says it's between 93 and a 104.
+
+👤 あなた [446s - 455s]
+That's not by a swap, to be honest with you. Type in BBC Radio Wales, Cardiff region or something like that. Because of Adams 103.
+
+🎤 SPEAKER_1 [463s - 464s]
+9.
+
+👤 あなた [466s - 467s]
+Go and tune up for a
+
+👤 あなた [478s - 482s]
+Do you want something, man? Do you want some chips too?
+
+🎤 SPEAKER_1 [482s - 483s]
+Yes.
+
+👤 あなた [483s - 487s]
+You want some You don't have anything with it? No? I'm having chips with some sauce. What sauce?
+
+🎤 SPEAKER_1 [490s - 491s]
+What sauce? Curly sauce. Curry?
+
+👤 あなた [495s - 579s]
+Hey, dad. I'm on Murray down now. Just popped into Irene's on the way. So we'll be there in about five, ten minutes probably.
+
+👤 あなた [580s - 580s]
+Cheers, mate.
+
+🎤 SPEAKER_1 [584s - 600s]
+Hi there. Hi.
+
+👤 あなた [600s - 613s]
+Can I have a small bag of chips, please? And also a savoy savoy sausage. Fish cake, and a small, what whatever is your mildest curry sauce, please.
+
+👤 あなた [615s - 616s]
+That's everything. Thanks.
+
+🎤 SPEAKER_1 [617s - 618s]
+Kaspi.
+
+🎤 SPEAKER_2 [621s - 621s]
+Cheers.
+
+👤 あなた [625s - 647s]
+Oh, it's so nice. Okay? Yeah.
+
+👤 あなた [653s - 653s]
+Oh, yeah? So nice
+
+👤 あなた [657s - 661s]
+Is that right? Wow. I mad, innit? Nothing you can do about that once it's done.
+
+👤 あなた [664s - 671s]
+Whole the whole point of it is meant to for it to, like, be impossible for it. Wow. Yeah. Yes, please.
+
+🎤 SPEAKER_1 [673s - 674s]
+The twenties were Is it?
+
+👤 あなた [675s - 677s]
+Yeah. Well, it looks it looks real.
+
+🎤 SPEAKER_1 [678s - 679s]
+That's what But that more like that initially.
+
+🎤 SPEAKER_3 [680s - 686s]
+It was like the flat to that. Wow. So it actually has something in there as well, which is where it usually makes no wrong.
+
+👤 あなた [686s - 698s]
+So, yeah, as long as it's looks really low enough, buy chips or is it what? I know. Yeah. Well, you can't can't get past the machine, though, right?
+
+👤 あなた [710s - 711s]
+Yes. That's fine. Yeah.
+
+👤 あなた [728s - 729s]
+Whichever one's the mildest.
+
+🎤 SPEAKER_2 [733s - 733s]
+Yeah. Thanks.
+
+👤 あなた [758s - 763s]
+Thank you. Cheers. Bye. We just leave the door open or? Yeah. Alright. See you.
+
+👤 あなた [767s - 773s]
+Could be here forever.
+
+🎤 SPEAKER_3 [777s - 789s]
+Could be here Right.
+
+👤 あなた [792s - 811s]
+See you back on, please. That's the curry sauce. Keep it upright. Yeah?
+
+🎤 SPEAKER_1 [811s - 811s]
+Yeah?
+
+🎤 SPEAKER_2 [812s - 813s]
+Keep it upright. Right?
+
+👤 あなた [814s - 819s]
+Why? I've got a lid, but you never know if it's on properly, do you? So it's no harming
+
+👤 あなた [822s - 829s]
+Right. Have you figured out the you find out the exact Cardiff region? A hundred four point Hundred and four point nine.
+
+🎤 SPEAKER_1 [830s - 831s]
+Forgot that. I didn't mind my history and 3.
+
+🎤 SPEAKER_1 [834s - 835s]
+9.
+
+🎤 SPEAKER_3 [835s - 836s]
+Alright.
+
+👤 あなた [836s - 837s]
+Shock.
+
+🎤 SPEAKER_2 [839s - 847s]
+Two in the Don Caste team the last time these two sides met? Adventure. Twenty four years ago. Molyneux forward for Doncaster blocked by Began.
+
+🎤 SPEAKER_2 [847s - 857s]
+By the corner flag pretty much. The card is full back. He scored that very late winner when these two met in December. And then the full batter, the three kicks, sorry, has been won.
+
+🎤 SPEAKER_2 [858s - 861s]
+By Robertson for Cardiff. It is nil nil after four minutes.
+
+🎤 SPEAKER_2 [864s - 875s]
+Nice. Switch. I'm taking the lead. Against Swamsea City in championship. That is FM and DAB. The Southwest. Hope people commentary this afternoon.
+
+🎤 SPEAKER_2 [876s - 887s]
+It's Newport County at Fleetwood. If you live in the Newport area, you're listening to us, you want to listen to that, you need to reach in your radio to ninety five point nine FM.
+
+🎤 SPEAKER_2 [887s - 900s]
+05:30, staying on a Newport theme will bring you live coverage at all our free frequencies and on the BBC Sounds app. On your smartphone or tablet of dragons against better in the URC in the first fallow week.
+
+🎤 SPEAKER_2 [900s - 906s]
+Of the six nations. Liverpool won West Ham Mill first goal of the day in the 03:00 kickoffs in the
+
+🎤 SPEAKER_2 [919s - 929s]
+Comcast is starting. With great intensity and pace. This is mulling you up to the half boiler. The pitches are a wowia. It's not
+
+🎤 SPEAKER_3 [929s - 929s]
+a wowia.
+
+🎤 SPEAKER_2 [929s - 933s]
+You're having to take an extra touch. Because of the pitch.
+
+🎤 SPEAKER_2 [936s - 941s]
+It's not the best You can see both teams really having trouble at work the ball under control.
+
+👤 あなた [941s - 942s]
+The pitch is a diabolical, is it?
+
+🎤 SPEAKER_2 [942s - 949s]
+Having no problems at the moment. That's a curling cross from Middleton, which sailed past everyone. And behind for a goal kick.
+
+👤 あなた [949s - 949s]
+Yeah.
+
+🎤 SPEAKER_2 [949s - 954s]
+We gotta say that, you know, the rookie legs played on here. And right.
+
+🎤 SPEAKER_4 [954s - 958s]
+Like maybe What? Ten, fifteen years ago. You can tell where it's not.
+
+👤 あなた [960s - 970s]
+The rugby league share the stadium at Duncaster. It's a rugby pitch as well as a football pitch. Shall put the heat wraps on this after they get Hence why it's so bad. Big. Pitch. Recover.
+
+🎤 SPEAKER_2 [971s - 976s]
+We had forgot if we we look power stadium also hope of Domcast at night. So we can see the rugby league markings this surface.
+
+🎤 SPEAKER_2 [977s - 982s]
+They held England into that here in rugby league and a challenge cup semifinal.
+
+🎤 SPEAKER_2 [987s - 997s]
+He start the day in eighteen Four points clear of the relegation zone. Has loved it completely Slices that clearance no doubt because of the Oh, mummy's here. And now action wide on the left.
+
+👤 あなた [1000s - 1003s]
+Gonna bust me big time for this these chippies.
+
+🎤 SPEAKER_1 [1007s - 1008s]
+She gonna have done it anytime.
+
+👤 あなた [1008s - 1019s]
+I say Eddie insisted. I'll say Eddie was really hungry, he wanted some chips. I say Eddie was desperate, mummy. You know?
+
+🎤 SPEAKER_1 [1022s - 1023s]
+And I just agree.
+
+👤 あなた [1025s - 1034s]
+You gotta call you gotta call me with me, son. You gotta go back me up. Come Just go in now quick before he comes.
+
+🎤 SPEAKER_1 [1036s - 1036s]
+Yeah.
+
+🎤 SPEAKER_4 [1039s - 1040s]
+Alright.
+
+👤 あなた [1040s - 1046s]
+Haven't had any lunch yet, so got some chippies. Hey. It's still wanted a bit of chips as well.
+
+🎤 SPEAKER_3 [1047s - 1049s]
+A donut. Does he ask me to get the donut?
+
+👤 あなた [1050s - 1056s]
+Elliot I was hoping that I did have these finished before you got back. Did you get my message, dad?
+
+🎤 SPEAKER_0 [1082s - 1086s]
+They changed the room. It's routine. Makes it brighter or something.
+
+👤 あなた [1114s - 1116s]
+Limey, these chips have barely cooked.
+
+👤 あなた [1120s - 1138s]
+Just blinking.
+
+👤 あなた [1144s - 1147s]
+Yeah. I knew mommy would say that, but I didn't wanted it like that, mommy.
+
+🎤 SPEAKER_1 [1151s - 1179s]
+The chips are anemic.
+
+👤 あなた [1179s - 1182s]
+Sorry, Adya. The chips are slightly anemic.
+
+👤 あなた [1186s - 1188s]
+Oh, you've got some curry, yes?
+
+👤 あなた [1192s - 1195s]
+The smallest bag of small chips we've ever seen ever.
+
+🎤 SPEAKER_1 [1196s - 1197s]
+Irene.
+
+👤 あなた [1199s - 1202s]
+Where's Kate sitting in the bear? She goes in the bear. Yeah.
+
+🎤 SPEAKER_1 [1204s - 1207s]
+Oh, hello. Hello. No.
+
+👤 あなた [1208s - 1208s]
+We've got food, Bert.
+
+👤 あなた [1213s - 1214s]
+Good to see you too, buddy.
+
+🎤 SPEAKER_1 [1221s - 1221s]
+Have a friend.
+
+👤 あなた [1225s - 1226s]
+When I finish, I'll I'll sit here.
+
+🎤 SPEAKER_1 [1228s - 1231s]
+No. No. No. I'll sit over there with pops now.
+
+👤 あなた [1231s - 1233s]
+No. No. You're on the bed. Yeah.
+
+🎤 SPEAKER_1 [1233s - 1236s]
+You only to sit on one sofa. Oh, I got in here earlier from these two.
+
+👤 あなた [1238s - 1239s]
+These two You're going you you're on the bed?
+
+👤 あなた [1244s - 1244s]
+Well done, Kate.
+
+🎤 SPEAKER_1 [1244s - 1257s]
+That winter. You know?
+
+👤 あなた [1257s - 1260s]
+On the radio, they were saying this picture's dad. It was just
+
+👤 あなた [1264s - 1265s]
+Oh, all tintana?
+
+🎤 SPEAKER_1 [1265s - 1266s]
+No.
+
+👤 あなた [1266s - 1267s]
+You Oh. Is that
+
+👤 あなた [1279s - 1279s]
+Hi.
+
+🎤 SPEAKER_1 [1282s - 1290s]
+And we're gonna stop following it soon, that way. Thanks, It's get it's gonna get stressful now, isn't it?
+
+👤 あなた [1290s - 1290s]
+A lot of teams have got back
+
+👤 あなた [1307s - 1307s]
+Hello, Bruce.
+
+🎤 SPEAKER_1 [1307s - 1308s]
+Go away.
+
+👤 あなた [1324s - 1326s]
+Well, no. We didn't have much time in the hands.
+
+🎤 SPEAKER_1 [1326s - 1328s]
+That's fine.
+
+👤 あなた [1328s - 1329s]
+Mum is blamed.
+
+👤 あなた [1339s - 1339s]
+Yeah. That?
+
+🎤 SPEAKER_1 [1338s - 1338s]
+What's that?
+
+👤 あなた [1338s - 1344s]
+What's Oh, we're to be a veer, dad, we haven't lost since early December.
+
+👤 あなた [1353s - 1357s]
+The radio is saying that they think the pitch is diabolical. And it's obviously rugby league pitch as well.
+
+🎤 SPEAKER_1 [1359s - 1360s]
+And so saturate.
+
+👤 あなた [1361s - 1365s]
+You can see it's I mean, we can't see the bubbles and everything there. It's going in this
+
+🎤 SPEAKER_1 [1372s - 1372s]
+Why?
+
+👤 あなた [1373s - 1375s]
+It's just green chile.
+
+🎤 SPEAKER_1 [1375s - 1375s]
+I have.
+
+👤 あなた [1393s - 1397s]
+We like to play football on the pit on the floor, don't we, Carter, normally? We can't do that today very well.
+
+🎤 SPEAKER_1 [1397s - 1399s]
+Yeah. Look at this. Dumpy.
+
+🎤 SPEAKER_1 [1410s - 1419s]
+Equivalent. Nathan Nathan Nathan Nathan Nathan Nathan Blake?
+
+👤 あなた [1420s - 1426s]
+Remember, just called Nathan Black on there. And he yeah. And it That's it. It would have been fine if the guy didn't I wasn't back.
+
+👤 あなた [1427s - 1431s]
+He's black. Nathan Black's back. Yeah. Twelve. You didn't make a thing of it, the the person who said Nathan Black,
+
+👤 あなた [1442s - 1443s]
+Don't take him down, Osho.
+
+🎤 SPEAKER_1 [1447s - 1448s]
+Oh, then.
+
+👤 あなた [1449s - 1451s]
+We go where a penalty How obvious was the hands up like that and then a big belly push? Right?
+
+👤 あなた [1455s - 1468s]
+Is that law there out there? Okay. No. It's Laura. You got a foot to it. Yeah. Laura.
+
+👤 あなた [1492s - 1495s]
+My dad said he's eating. I didn't think about Kate, unfortunately.
+
+🎤 SPEAKER_2 [1495s - 1495s]
+Yeah.
+
+👤 あなた [1495s - 1498s]
+Have a birthday like some one to a half too.
+
+🎤 SPEAKER_1 [1500s - 1500s]
+So there's no way I could make tea.
+
+👤 あなた [1500s - 1501s]
+No.
+
+👤 あなた [1510s - 1515s]
+G mail? I need to raise that, Rachel, but the reality was I thought I I haven't asked I had lunch already. I I was in
+
+👤 あなた [1531s - 1533s]
+No. I sorry. I thought you said you already had lunch.
+
+🎤 SPEAKER_1 [1534s - 1539s]
+Well, let's have let's have the sandwich, then let's get extra boba's chips and fries.
+
+👤 あなた [1571s - 1572s]
+The boys.
+
+🎤 SPEAKER_2 [1573s - 1573s]
+Upfield.
+
+🎤 SPEAKER_2 [1585s - 1586s]
+Bolt in the play.
+
+👤 あなた [1597s - 1604s]
+Listen. It was impulsive. I was driving down the road. I didn't have time to ask if everybody wanted anything. Thought you were all eating by now at 03:00.
+
+👤 あなた [1605s - 1608s]
+Yes. Give me a chip man. Hey. What's your wish you room.
+
+🎤 SPEAKER_1 [1608s - 1609s]
+Yeah.
+
+👤 あなた [1620s - 1623s]
+Wish Wish you were I'd like to formally apologize for not offering it chips everybody.
+
+👤 あなた [1630s - 1636s]
+Well, wouldn't go to Irene's because the chips are anemic and this is feels it tastes like it four or five days old. Solid.
+
+👤 あなた [1639s - 1641s]
+Our rings.
+
+🎤 SPEAKER_2 [1642s - 1642s]
+Oh, rings.
+
+🎤 SPEAKER_3 [1642s - 1644s]
+That was our sundaes.
+
+👤 あなた [1648s - 1650s]
+Yeah. It just doesn't taste fresh in any way.
+
+👤 あなた [1687s - 1689s]
+What should be you go to now? Okay?
+
+👤 あなた [1695s - 1701s]
+I understand I got over checking over, but I never company around Christmas time.
+
+🎤 SPEAKER_1 [1701s - 1701s]
+Who are?
+
+👤 あなた [1701s - 1702s]
+Finnegans.
+
+👤 あなた [1707s - 1717s]
+It's owned by like a like a couple that own quite a few little places in Cardiff that are quite popular. It's not linked to the island.
+
+👤 あなた [1717s - 1719s]
+The Danto and all that.
+
+🎤 SPEAKER_2 [1726s - 1727s]
+No.
+
+👤 あなた [1727s - 1735s]
+Well, I know about the pub, but I know the scoop that just closed them. Was owned by the same couple, but they're just having a baby.
+
+🎤 SPEAKER_2 [1746s - 1747s]
+Yeah.
+
+👤 あなた [1756s - 1759s]
+They're trying to keep the ball off the floor, which is unusual for Kyle, if no.
+
+🎤 SPEAKER_2 [1760s - 1762s]
+Passes Hey, Bruce. Hey, buddy.
+
+👤 あなた [1775s - 1777s]
+Cole will winds ahead of them.
+
+👤 あなた [1778s - 1781s]
+Little terrible. Sluice ball. Back to Portion.
+
+👤 あなた [1807s - 1808s]
+Nearly? Oh, he did it.
+
+👤 あなた [1816s - 1817s]
+Was really sad to see that Willick was dropped.
+
+🎤 SPEAKER_1 [1826s - 1832s]
+Seventy minutes opening cuff names. Yeah. First game since
+
+🎤 SPEAKER_2 [1832s - 1833s]
+November.
+
+🎤 SPEAKER_1 [1833s - 1838s]
+Sunday was on. Yay. Up the pen quite trim, but right on the top of the fields. Thank you.
+
+🎤 SPEAKER_2 [1838s - 1839s]
+Then penguin till it My goodness.
+
+🎤 SPEAKER_1 [1846s - 1849s]
+It's ready to lower t when individual effort.
+
+👤 あなた [1880s - 1884s]
+That's a pain ref. No. If you
+
+🎤 SPEAKER_2 [1885s - 1886s]
+Yeah.
+
+👤 あなた [1899s - 1901s]
+We're sitting in screw now. That's what's sitting in the screw.
+
+👤 あなた [1906s - 1910s]
+I won't even have much space.
+
+🎤 SPEAKER_1 [1911s - 1912s]
+But well, I would because I they want them to know I need?
+
+🎤 SPEAKER_2 [1913s - 1915s]
+They are chicken Yeah.
+
+👤 あなた [1922s - 1932s]
+But back to back to Willock a second, dad. He's he's attacking he's attacking form is pretty good. But he's about half yard off the pace tracking back.
+
+👤 あなた [1932s - 1935s]
+Leaving us over so that's why I don't like, oh.
+
+👤 あなた [1972s - 1976s]
+Too Well, that happens every time they get it in and they had it the defender heads it out.
+
+🎤 SPEAKER_2 [1976s - 1976s]
+Every
+
+👤 あなた [1977s - 1977s]
+time.
+
+🎤 SPEAKER_2 [1977s - 1977s]
+Yeah.
+
+🎤 SPEAKER_1 [1978s - 1979s]
+We haven't got south.
+
+🎤 SPEAKER_1 [1983s - 1988s]
+Someone's got the to Hidden, do you mean? There's no point hitting the first lag.
+
+🎤 SPEAKER_2 [1988s - 1988s]
+Oh, oh.
+
+👤 あなた [1989s - 1992s]
+Angie's Angie's job then was just to slow him down, it?
+
+🎤 SPEAKER_4 [1995s - 1999s]
+The keeper up covered. Potentially chase the ball.
+
+🎤 SPEAKER_2 [2000s - 2003s]
+Well, I see your message because To the top. When I came in, came Okay.
+
+👤 あなた [2004s - 2011s]
+Took a phone and set it up. Oh, yeah. No. That's fine. It's all good. I was just saying I I thought We're popping your tyreons on the way down. Yeah.
+
+🎤 SPEAKER_2 [2011s - 2012s]
+I'm supposed to see Rachel, please.
+
+🎤 SPEAKER_1 [2012s - 2016s]
+Well, I was surprised to not see you too because I saw the car and thought it was yours.
+
+👤 あなた [2017s - 2020s]
+The manager's losing it there. You gotta keep calm, my friend.
+
+👤 あなた [2025s - 2026s]
+Seizure went against them I guess.
+
+🎤 SPEAKER_3 [2037s - 2038s]
+Have Bolton.
+
+🎤 SPEAKER_2 [2039s - 2040s]
+Osa.
+
+👤 あなた [2062s - 2064s]
+We haven't got out there.
+
+🎤 SPEAKER_2 [2073s - 2079s]
+Yeah. I've gone faster pretty good because twice now. Would be the push on them, and they've stayed still.
+
+🎤 SPEAKER_1 [2079s - 2080s]
+They didn't know.
+
+🎤 SPEAKER_2 [2080s - 2083s]
+They've kinda gone all the exactly. Yeah.
+
+🎤 SPEAKER_4 [2083s - 2084s]
+Anyone's gonna get the car.
+
+🎤 SPEAKER_3 [2098s - 2099s]
+Right.
+
+👤 あなた [2099s - 2101s]
+Yeah. Like a Disney? Enjoyed Disney, like a few Aw, well done,
+
+🎤 SPEAKER_1 [2108s - 2108s]
+Lola.
+
+👤 あなた [2139s - 2146s]
+Thought, oh, they probably quite enjoyed that as a family. Yeah. Well, I remember us when we all went to Disney, and we had a great day there, didn't we?
+
+🎤 SPEAKER_4 [2146s - 2146s]
+I should.
+
+👤 あなた [2146s - 2148s]
+Do you go, Kate? You must have gone that day.
+
+🎤 SPEAKER_1 [2149s - 2153s]
+Yeah. Was Yeah.
+
+👤 あなた [2153s - 2157s]
+Lot me. It was like three of floor and it was like themed areas and everything was free.
+
+🎤 SPEAKER_3 [2171s - 2173s]
+This is six point. Alright.
+
+👤 あなた [2174s - 2174s]
+Alright.
+
+👤 あなた [2198s - 2205s]
+Go on, Lauren. Like where he is. Oh, lovely ball. Oh. Come on. Oh. What a sis that was.
+
+👤 あなた [2213s - 2215s]
+Lola took the ball well into the second half. Lovely little assistant, Lola.
+
+👤 あなた [2222s - 2226s]
+Laura, that come on, guys. Just give Laura a bit of credit. Come on. Who wants to give Laura some credit? Yeah.
+
+🎤 SPEAKER_4 [2228s - 2231s]
+Lawless just Lawless first stop for a while.
+
+👤 あなた [2231s - 2238s]
+I mean, he had a lot to do still, to be fair, to Robinson, but I wanna come on first first then. That one very nice, unfortunately.
+
+👤 あなた [2241s - 2243s]
+It wasn't very nice, unfortunately.
+
+👤 あなた [2301s - 2306s]
+Can't believe Chambers was blamed more than Austria then for last week's debacle. Shall I let the dog out now?
+
+👤 あなた [2315s - 2319s]
+No. I do I do like fish myself.
+
+👤 あなた [2330s - 2339s]
+Oh, lovely. Who was that? Was that Tanner? So I mean, I called it three d l. Who else? Do you want the is there anybody want the puff?
+
+🎤 SPEAKER_4 [2344s - 2345s]
+Just thing.
+
+👤 あなた [2346s - 2347s]
+This is this is called a puff.
+
+🎤 SPEAKER_4 [2348s - 2349s]
+Or poof.
+
+👤 あなた [2352s - 2353s]
+Oh, yeah. Same with color.
+
+🎤 SPEAKER_1 [2361s - 2362s]
+Yeah.
+
+👤 あなた [2374s - 2375s]
+No. It probably wouldn't work.
+
+🎤 SPEAKER_2 [2382s - 2383s]
+Come in.
+
+👤 あなた [2383s - 2383s]
+Bruce.
+
+👤 あなた [2389s - 2392s]
+Is he now? I'll go in and have a crack, son.
+
+🎤 SPEAKER_4 [2394s - 2395s]
+Not great.
+
+🎤 SPEAKER_3 [2395s - 2396s]
+Great.
+
+🎤 SPEAKER_1 [2396s - 2398s]
+That's what Tony's only there because we've probably got a tough deal.
+
+👤 あなた [2412s - 2416s]
+Is he on? I missed that. Was it good? Yeah. First time we passed.
+
+👤 あなた [2426s - 2429s]
+The pitch is a bit of a it's a bit of a hindrance, isn't it? Oh, lovely, Ruben.
+
+🎤 SPEAKER_3 [2430s - 2431s]
+It's my bra.
+
+👤 あなた [2431s - 2435s]
+Oh, which yeah. They got a tough afternoon there as well.
+
+👤 あなた [2450s - 2452s]
+You have to the enemies on the cheekbone.
+
+🎤 SPEAKER_4 [2454s - 2455s]
+Come on.
+
+🎤 SPEAKER_3 [2466s - 2466s]
+Colonos.
+
+👤 あなた [2477s - 2479s]
+It's like today using goals, and he had nothing to do all game.
+
+🎤 SPEAKER_2 [2481s - 2481s]
+And he he bored,
+
+👤 あなた [2481s - 2488s]
+so he, you know, just you don't mind that when you're professional getting paid, when you're a kid, this year, you our football on a weekend.
+
+👤 あなた [2495s - 2496s]
+So far, so good.
+
+🎤 SPEAKER_2 [2497s - 2499s]
+I haven't seen think he's alright. Shouldn't just touch that off of the bed.
+
+👤 あなた [2504s - 2506s]
+Any updates on the Lincoln games? Is it still now now?
+
+🎤 SPEAKER_6 [2506s - 2506s]
+Yeah.
+
+👤 あなた [2509s - 2510s]
+Interesting. Do you
+
+👤 あなた [2527s - 2528s]
+Oh, he did it he did it.
+
+👤 あなた [2535s - 2537s]
+Maybe else one's the puff, just say.
+
+🎤 SPEAKER_4 [2537s - 2537s]
+Rich Sean?
+
+👤 あなた [2537s - 2543s]
+Let me swing the song. No. No. It's not. It's just I feel a bad having it all myself.
+
+👤 あなた [2552s - 2559s]
+Well, Eddie, I should say to her do you a short is it no? He wants it he wants it like that. Sitting length on the top and short in the back.
+
+👤 あなた [2560s - 2565s]
+If you ever too short in school, you do stand out in whatever you go. You did take some off the top.
+
+👤 あなた [2569s - 2575s]
+But these days, they they deliberately leave the fringe longer. So at doesn't look like. But there are the rest of it the rest
+
+👤 あなた [2582s - 2583s]
+Again, an exit up. Great. That's it.
+
+🎤 SPEAKER_4 [2583s - 2584s]
+Breaking that line.
+
+👤 あなた [2584s - 2589s]
+Well, we came it was busy when we arrived, but quickly cleared up. We had three people on. So
+
+👤 あなた [2604s - 2607s]
+No. Cheese.
+
+🎤 SPEAKER_2 [2607s - 2608s]
+I don't think it makes it dog to talk to you.
+
+👤 あなた [2620s - 2623s]
+It's good to have l'or le back out of these. Fishes quite a lot early on in the season, didn't he?
+
+👤 あなた [2634s - 2647s]
+You can we've got the same do you want that? I contacted you fiber and said any chance I could get a new router? Because I just referred family member, and they've got the WiFi seven. We've we've got the WiFi six. And I've renewed and was never offered.
+
+👤 あなた [2648s - 2650s]
+I thought, well, why not ask? And he went yeah.
+
+🎤 SPEAKER_3 [2650s - 2650s]
+Okay.
+
+👤 あなた [2650s - 2656s]
+Then your little customer will give you a WiFi seven router. It arrived this week. So I've the same one as you now.
+
+🎤 SPEAKER_2 [2657s - 2658s]
+I'm really pleased with Yeah.
+
+🎤 SPEAKER_6 [2662s - 2662s]
+Yeah.
+
+👤 あなた [2665s - 2666s]
+Also, I Omi set yeah.
+
+🎤 SPEAKER_2 [2666s - 2667s]
+The one who's gonna work in that next minute.
+
+👤 あなた [2668s - 2671s]
+Yeah. If you struggle, put it on. Otherwise, I'd keep it off that because
+
+👤 あなた [2675s - 2677s]
+You're could it's a QR code you scan it, log you on straight away.
+
+🎤 SPEAKER_2 [2678s - 2679s]
+Yeah.
+
+👤 あなた [2680s - 2684s]
+On the other sides. So you when you get guest ad, you want them on the Wi Fi, just turn to scan the QR.
+
+🎤 SPEAKER_3 [2685s - 2686s]
+Yeah. We scan the QR. Oh.
+
+🎤 SPEAKER_6 [2689s - 2690s]
+Oh.
+
+🎤 SPEAKER_4 [2693s - 2695s]
+You know what songs? Like a short form from 60 gold feet.
+
+👤 あなた [2695s - 2703s]
+I come from the other angle of all you, babes. Come at a weird angle there. You got it? That's because you're doing it weirdly. Yes, sir.
+
+👤 あなた [2705s - 2710s]
+Have you found parallel to the image, parallel, Rachel?
+
+🎤 SPEAKER_4 [2724s - 2724s]
+Yeah.
+
+👤 あなた [2724s - 2725s]
+Classic Rachel.
+
+🎤 SPEAKER_1 [2725s - 2727s]
+The wrong thing. I had it on longest thing.
+
+🎤 SPEAKER_6 [2727s - 2729s]
+Thanks, chef. It's nothing classic about that.
+
+🎤 SPEAKER_1 [2729s - 2731s]
+Know? Straight connected. Wow.
+
+🎤 SPEAKER_2 [2732s - 2732s]
+You've yeah.
+
+🎤 SPEAKER_1 [2734s - 2736s]
+No typing is at 45.
+
+🎤 SPEAKER_4 [2740s - 2741s]
+Letter Oh, that's a foul?
+
+🎤 SPEAKER_2 [2741s - 2741s]
+No. It's
+
+🎤 SPEAKER_6 [2741s - 2742s]
+not.
+
+👤 あなた [2744s - 2751s]
+Bacon likes to argue with the line, he? Gums off. You did that last week? Today, is it?
+
+👤 あなた [2765s - 2768s]
+Yeah. Well, if bacon should know better than in that situation.
+
+👤 あなた [2779s - 2781s]
+It's even itch. But equalized at home in Stockport.
+
+👤 あなた [2791s - 2797s]
+And I used to like Steven Itch before the season began, but they had just been rough. Okay. Yeah. They're dirty. Yeah.
+
+🎤 SPEAKER_2 [2798s - 2799s]
+Like, supports dirty.
+
+👤 あなた [2802s - 2806s]
+Oh, we certainly will with in the song's BBMCs.
+
+👤 あなた [2823s - 2824s]
+Depends.
+
+🎤 SPEAKER_1 [2824s - 2828s]
+Unless he gets poached for pro mini, but you'll have more success sticking with the clubbing nose and building it up.
+
+🎤 SPEAKER_6 [2846s - 2849s]
+What? You call a strike? Yeah.
+
+🎤 SPEAKER_4 [2895s - 2903s]
+It was should be pretty pleased with the thirty seven minutes so far. Just one moment of real from Cardiff that has separating the two teams here.
+
+👤 あなた [2908s - 2911s]
+It's Yeah. 700 people. So a few 100 last, but still.
+
+👤 あなた [2915s - 2916s]
+What are you just pointed in it for?
+
+👤 あなた [2933s - 2934s]
+You could have got a black coffee, Rachel.
+
+👤 あなた [2942s - 2943s]
+Classic milk in it.
+
+🎤 SPEAKER_6 [2945s - 2946s]
+Lincoln.
+
+👤 あなた [2970s - 2972s]
+I think My game? Guessing this game.
+
+🎤 SPEAKER_1 [2972s - 2974s]
+Getting the stanza then.
+
+👤 あなた [3031s - 3038s]
+It's a six point I wonder if one of our best players is effectively out the game though, Ruben. Being so high at the pitch. Well done.
+
+👤 あなた [3039s - 3040s]
+Love you, Rome, Robertson.
+
+🎤 SPEAKER_6 [3042s - 3042s]
+Yeah.
+
+🎤 SPEAKER_2 [3043s - 3044s]
+Yes.
+
+🎤 SPEAKER_6 [3044s - 3045s]
+Is he on?
+
+👤 あなた [3066s - 3068s]
+Yeah. And then bought Mashawn.
+
+👤 あなた [3072s - 3073s]
+The ref was?
+
+👤 あなた [3081s - 3082s]
+Yeah.
+
+👤 あなた [3086s - 3088s]
+They booing because they thought Ruben was offsides. Yeah. Right.
+
+👤 あなた [3093s - 3098s]
+Well, we're this receiving end of that, won't we? Last week or whatever. Good job on Off cycle. Oh, the ice is much lower now.
+
+🎤 SPEAKER_4 [3102s - 3105s]
+Get enough flight on his ball. Give him a weight.
+
+🎤 SPEAKER_6 [3105s - 3107s]
+I can't move
+
+👤 あなた [3107s - 3107s]
+Oh.
+
+🎤 SPEAKER_1 [3110s - 3113s]
+Is one in his hatch. Yeah. He is. Yeah.
+
+👤 あなた [3119s - 3123s]
+Confident for Youngstering? Yeah. It's brilliant.
+
+🎤 SPEAKER_2 [3124s - 3126s]
+I think he's better in McKenzie's wash.
+
+👤 あなた [3127s - 3128s]
+Yeah. Possibly. Yeah.
+
+👤 あなた [3167s - 3171s]
+It's kick on. Oh, she's to get the chips. Yeah.
+
+🎤 SPEAKER_6 [3172s - 3175s]
+She's done the podcast She's She on the van.
+
+🎤 SPEAKER_2 [3182s - 3184s]
+Save me. Tune the blue bits.
+
+🎤 SPEAKER_4 [3185s - 3187s]
+Forty two minutes on the clock.
+
+🎤 SPEAKER_6 [3188s - 3189s]
+Chew.
+
+🎤 SPEAKER_1 [3189s - 3190s]
+Is what? What? Twenty eight pounds.
+
+👤 あなた [3190s - 3192s]
+Chew. Jeans?
+
+🎤 SPEAKER_1 [3192s - 3194s]
+Oh, it's gone. Is it a party?
+
+🎤 SPEAKER_6 [3194s - 3196s]
+New cords. Nope.
+
+🎤 SPEAKER_1 [3196s - 3207s]
+Well, it's it's some arcade. You think that when you went to Disney, you paid to go in and then everything's free. It's So we've gone the mum has driven, the people pad. There's two gardens, and they've driven, like, 12 kids.
+
+🎤 SPEAKER_1 [3213s - 3216s]
+No. From Barry.
+
+👤 あなた [3216s - 3222s]
+My parents are him there. Oh, that's a good way to spend Saturday afternoon for you, it, really? Yeah.
+
+🎤 SPEAKER_2 [3235s - 3237s]
+South Wales today? Yeah.
+
+👤 あなた [3240s - 3242s]
+Well, it's appearance there. I don't mind too much.
+
+🎤 SPEAKER_6 [3271s - 3276s]
+Anyway against Woah.
+
+👤 あなた [3286s - 3287s]
+Was that truck sold, though?
+
+
+---
+
