@@ -829,3 +829,17 @@ So for these Afghani guys, I don't know what that means. I don't know. They woul
 
 ---
 
+
+
+## 📝 質問の依頼についての短い発話 - 638b3c15-f73e-46a1-b25a-77423f0f42fc
+
+**記録時間**: 2026-03-02 23:27:39
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 9s]
+教えてください
+
+
+---
+
