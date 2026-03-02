@@ -815,3 +815,17 @@ So for these Afghani guys, I don't know what that means. I don't know. They woul
 
 ---
 
+
+
+## 📝 一緒に逃げたいという気持ちの共有 - 75b98f81-419d-49c9-b58c-714d95a215fa
+
+**記録時間**: 2026-03-02 20:20:31
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 9s]
+一緒に逃げたいです
+
+
+---
+
