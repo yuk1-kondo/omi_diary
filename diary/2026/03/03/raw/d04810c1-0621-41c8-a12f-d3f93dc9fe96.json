@@ -1,0 +1,94 @@
+{
+  "id": "d04810c1-0621-41c8-a12f-d3f93dc9fe96",
+  "created_at": "2026-03-03T07:10:40.489656+00:00",
+  "started_at": "2026-03-03T07:07:38.748462+00:00",
+  "finished_at": "2026-03-03T07:10:48.995495+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "今後の対面の約束",
+    "overview": "短い会話で「会いましょう」という提案があり、今後会う意向だけが示されているが、日時や場所など具体的な予定はまだ決まっていない。",
+    "emoji": "🤝",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "5ef02daf-447d-4d5b-9169-12ce820f531b",
+      "text": "会いましょう",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.76837158203125e-07,
+      "end": 9.941375476837159,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "92eeebf4-8880-4785-9808-991b2dbf96ef",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "d04810c1-0621-41c8-a12f-d3f93dc9fe96",
+      "chunk_timestamps": [
+        1772521834.896,
+        1772521840.935,
+        1772521846.035,
+        1772521851.094,
+        1772521856.348,
+        1772521861.325,
+        1772521867.182,
+        1772521872.561,
+        1772521878.611,
+        1772521884.111,
+        1772521889.188,
+        1772521894.486,
+        1772521899.499,
+        1772521905.525,
+        1772521910.599,
+        1772521915.623,
+        1772521921.091,
+        1772521927.685,
+        1772521932.454,
+        1772521937.51,
+        1772521942.89,
+        1772521948.75,
+        1772521953.933,
+        1772521958.91,
+        1772521963.938
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-03T07:10:34.896000+00:00",
+      "duration": 134.042
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「会いましょう」という話が出た\n\n【決めたこと】\n- 未確認（日時や場所などは決まっていない）\n\n【次の一歩】\n- 会う相手に、いつ・どこで会うかを具体的に確認してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed"
+}
