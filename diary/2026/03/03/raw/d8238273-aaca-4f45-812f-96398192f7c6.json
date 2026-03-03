@@ -1,0 +1,86 @@
+{
+  "id": "d8238273-aaca-4f45-812f-96398192f7c6",
+  "created_at": "2026-03-03T09:55:51.462691+00:00",
+  "started_at": "2026-03-03T09:36:58.371899+00:00",
+  "finished_at": "2026-03-03T09:57:09.494869+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "価格交渉の進め方メモ",
+    "overview": "話者は、他社とも交渉していると伝えることで値下げを引き出す価格交渉テクニックについて触れている。具体的な案件や日程などは示されておらず、今後の行動やスケジュールもこの一文からは特定できない。",
+    "emoji": "💬",
+    "category": "business",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "39d44653-c6e5-4150-9a38-5303aa970ef6",
+      "text": "他のとことも交渉してるとかって言って安くさしてもらったりとか",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.117157009706716e-07,
+      "end": 10.021375211715707,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "7ce8c603-d5e1-4459-a002-66803795cf07",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "d8238273-aaca-4f45-812f-96398192f7c6",
+      "chunk_timestamps": [
+        1772531749.661,
+        1772531754.686,
+        1772531759.856,
+        1772531765.029,
+        1772531770.615,
+        1772531775.794,
+        1772531780.85,
+        1772531786.254,
+        1772531791.635,
+        1772531797.134,
+        1772531802.136,
+        1772531807.218,
+        1772531812.363,
+        1772531818.052,
+        1772531823.34,
+        1772531828.353,
+        1772531833.639
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-03T09:55:49.661000+00:00",
+      "duration": 88.978
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 価格交渉のポイント\n- 他社とも交渉していると伝える  \n- その情報を使って値下げを狙う  \n\n## 次のアクション\n- 他社見積もりを集めて比較材料を用意する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
