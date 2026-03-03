@@ -1,0 +1,108 @@
+{
+  "id": "250d8833-8965-4e0b-a879-ff38663ced48",
+  "created_at": "2026-03-03T04:18:14.908851+00:00",
+  "started_at": "2026-03-03T04:05:47.533557+00:00",
+  "finished_at": "2026-03-03T04:20:36.994803+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "吉田先生との本日の会議確認",
+    "overview": "話者が「会議 今日 で吉田先生」と述べており、本日中に吉田先生との会議があることを口頭で再確認している内容。具体的な開始時刻は示されていないが、ユーザーが本日中の会議予定を意識していることがわかる。",
+    "emoji": "📅",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "3737d681-e68b-4191-b682-ae4582240d28",
+      "text": "会議 今日 で吉田先生",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.757476818577743e-07,
+      "end": 32.76412537574768,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "faf18062-2cab-4f15-bf32-ab8d3f84cddf",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "250d8833-8965-4e0b-a879-ff38663ced48",
+      "chunk_timestamps": [
+        1772511492.796,
+        1772511499.376,
+        1772511504.764,
+        1772511510.773,
+        1772511515.751,
+        1772511521.745,
+        1772511526.754,
+        1772511532.641
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-03T04:18:12.796000+00:00",
+      "duration": 44.845
+    },
+    {
+      "id": "d4ef0e40-d76e-4faa-990c-62d796b74e91",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "250d8833-8965-4e0b-a879-ff38663ced48",
+      "chunk_timestamps": [
+        1772511636.226,
+        1772511641.441,
+        1772511646.691,
+        1772511652.151,
+        1772511657.104,
+        1772511662.122,
+        1772511667.19,
+        1772511672.184,
+        1772511677.232,
+        1772511683.303,
+        1772511689.569,
+        1772511699.948,
+        1772511706.106,
+        1772511711.045,
+        1772511718.394,
+        1772511724.251,
+        1772511729.414,
+        1772511734.603,
+        1772511739.652,
+        1772511744.648,
+        1772511750.861
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-03T04:20:36.226000+00:00",
+      "duration": 119.635
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「会議」「今日」「吉田先生」という言葉が出ている\n- 具体的な時間や場所、内容は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 今日、吉田先生との会議があるかどうか、手帳やカレンダー、メールなどで確認してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
