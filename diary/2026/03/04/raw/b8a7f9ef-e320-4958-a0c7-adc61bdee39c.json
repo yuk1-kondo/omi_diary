@@ -1,0 +1,101 @@
+{
+  "id": "b8a7f9ef-e320-4958-a0c7-adc61bdee39c",
+  "created_at": "2026-03-04T03:38:55.443017+00:00",
+  "started_at": "2026-03-04T03:20:38.018370+00:00",
+  "finished_at": "2026-03-04T03:42:16.313990+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "予定変更：開始時刻を13時30分に調整",
+    "overview": "会話では、予定していた何らかの約束やミーティングの開始時間が「13時30分から」に変更されたことが簡潔に伝えられている。ただし、日付やイベント内容、参加者などの具体的情報は示されていないため、詳細な予定や行動計画までは特定できない。",
+    "emoji": "🗓️",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "a6dc581a-f814-4d14-abd1-a7f5a27de027",
+      "text": "から 1時半からになりました",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.76837158203125e-07,
+      "end": 20.12275047683716,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "19696f6d-e890-4f94-8df6-0eb0d01af1bb",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "b8a7f9ef-e320-4958-a0c7-adc61bdee39c",
+      "chunk_timestamps": [
+        1772595534.68,
+        1772595539.95,
+        1772595546.095,
+        1772595552.395,
+        1772595557.403,
+        1772595563.48,
+        1772595568.565,
+        1772595573.673,
+        1772595578.793,
+        1772595584.803,
+        1772595589.963,
+        1772595594.939,
+        1772595600.396,
+        1772595606.466,
+        1772595611.643,
+        1772595616.697,
+        1772595621.765,
+        1772595626.873,
+        1772595631.944,
+        1772595637.089,
+        1772595643.108,
+        1772595648.403,
+        1772595653.425,
+        1772595658.86,
+        1772595664.688,
+        1772595670.212,
+        1772595676.268,
+        1772595682.287,
+        1772595687.386,
+        1772595692.711,
+        1772595697.928,
+        1772595702.989
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-04T03:38:54.680000+00:00",
+      "duration": 173.309
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 時間が「1時半から」に変わった\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 「1時半から」の予定をカレンダーやメモに書いておく"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
