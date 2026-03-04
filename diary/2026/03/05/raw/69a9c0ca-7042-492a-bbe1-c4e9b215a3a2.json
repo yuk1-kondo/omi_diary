@@ -1,0 +1,111 @@
+{
+  "id": "69a9c0ca-7042-492a-bbe1-c4e9b215a3a2",
+  "created_at": "2026-03-04T23:45:57.644063+00:00",
+  "started_at": "2026-03-04T23:41:29.931911+00:00",
+  "finished_at": "2026-03-04T23:47:48.972898+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "10時半の予定調整",
+    "overview": "短いやりとりの中で、話し手が「10時半でお願いします」と時間指定をして予定（予約または約束）の調整を行っている場面が記録されている。具体的な日付や内容は明示されていないが、相手に対して10時30分開始での確定を依頼している発話と解釈できる。",
+    "emoji": "⏰",
+    "category": "other",
+    "action_items": [
+      {
+        "description": "10時半に対応する予約内容を確認する",
+        "completed": false,
+        "created_at": "2026-03-04T23:49:57.538264+00:00",
+        "updated_at": null,
+        "due_at": "2026-03-10T01:30:00+00:00",
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "43a08e87-df4c-428a-9426-9715806298ee",
+      "text": "10時半 お願いします",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.76837158203125e-07,
+      "end": 20.04274952316284,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "185cca7b-9cef-48a6-9c73-e9ebc6112b32",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "69a9c0ca-7042-492a-bbe1-c4e9b215a3a2",
+      "chunk_timestamps": [
+        1772667957.123,
+        1772667961.669,
+        1772667967.092,
+        1772667972.938,
+        1772667977.832,
+        1772667983.093,
+        1772667988.537,
+        1772667994.252,
+        1772668000.861,
+        1772668006.353,
+        1772668010.828,
+        1772668016.7,
+        1772668021.132,
+        1772668027.046,
+        1772668033.632,
+        1772668040.776,
+        1772668045.982,
+        1772668051.726,
+        1772668056.627,
+        1772668061.876,
+        1772668067.188,
+        1772668072.361,
+        1772668078.561,
+        1772668083.989,
+        1772668089.072,
+        1772668095.452,
+        1772668103.318,
+        1772668107.95,
+        1772668112.558,
+        1772668118.222,
+        1772668122.851,
+        1772668128.829
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-04T23:45:57.123000+00:00",
+      "duration": 176.706
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 10時半の時間を希望している\n\n【決めたこと】\n- 特になし（10時半で確定したかは未確認）\n\n【次の一歩】\n- 10時半の予定・予約が本当に取れているか、相手やカレンダーで確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
