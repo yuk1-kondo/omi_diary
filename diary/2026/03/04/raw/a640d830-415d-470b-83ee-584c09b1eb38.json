@@ -1,0 +1,109 @@
+{
+  "id": "a640d830-415d-470b-83ee-584c09b1eb38",
+  "created_at": "2026-03-04T05:15:52.425742+00:00",
+  "started_at": "2026-03-04T05:11:56.806119+00:00",
+  "finished_at": "2026-03-04T05:17:36.008747+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "不足した50の共有依頼メモ",
+    "overview": "話し手が「50がなくなったので、よければお伝えいただけたらありがたい」と依頼している短いやり取り。何かの数量や在庫（おそらく50単位のもの）が不足したため、その状況を別の相手に伝達してほしいという要請が行われている。",
+    "emoji": "✉️",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "1a713a5c-9300-429c-ad9d-a4cc3a699007",
+      "text": "50 なくなったのでよければお伝えいただけたらありがた",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 19.96274976158142,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "745284e1-8f87-4cde-ac74-e566dd0d8477",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "a640d830-415d-470b-83ee-584c09b1eb38",
+      "chunk_timestamps": [
+        1772601346.599,
+        1772601352.698,
+        1772601357.677,
+        1772601363.667,
+        1772601368.795,
+        1772601373.792,
+        1772601378.877,
+        1772601383.893,
+        1772601389.085,
+        1772601394.197,
+        1772601399.158,
+        1772601404.281,
+        1772601409.338,
+        1772601415.36,
+        1772601420.394,
+        1772601425.9,
+        1772601431.909,
+        1772601436.969,
+        1772601441.999,
+        1772601447.834,
+        1772601452.887,
+        1772601459.006,
+        1772601464.007,
+        1772601469.189,
+        1772601474.289,
+        1772601480.306,
+        1772601485.692,
+        1772601491.282,
+        1772601496.284,
+        1772601501.386,
+        1772601506.379,
+        1772601511.508,
+        1772601516.475,
+        1772601521.82,
+        1772601527.779,
+        1772601533.412,
+        1772601538.569,
+        1772601544.682,
+        1772601550.763,
+        1772601556.628
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-04T05:15:46.599000+00:00",
+      "duration": 215.029
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 要件の確認\n- 「50なくなった」との状況を共有  \n- 相手に詳細を教えてほしいと依頼  \n- 情報提供への感謝を表明  \n\n## 次のステップ\n- 相手から「50」についての詳細報告を待つ  \n- 必要に応じて追加質問や対応を検討"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
