@@ -1,0 +1,80 @@
+{
+  "id": "bcdb4386-ee45-4bd8-8d4f-0fc782943dda",
+  "created_at": "2026-03-04T10:12:21.743856+00:00",
+  "started_at": "2026-03-04T09:26:55.736853+00:00",
+  "finished_at": "2026-03-04T10:12:58.233636+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "周辺国エネルギー施設攻撃と経済影響",
+    "overview": "発言内容から、周辺国のエネルギー関連施設への攻撃が続いており、その被害が経済へ影響を及ぼしているというニュースまたは解説の一部であることが分かる。ただし、具体的な国名や時期、当事者などの詳細は、この短い断片からは特定できない。",
+    "emoji": "⚠️",
+    "category": "news",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "0a3da8a7-4a0c-46d6-890d-29e6efa6e35a",
+      "text": "攻撃が続いて周辺国のエネルギー関連施設でも被害経済への影響もあった 今",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.3460376041839481e-07,
+      "end": 19.98275023460377,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a1df4e91-d064-42e1-a556-8d5d419b16b2",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "bcdb4386-ee45-4bd8-8d4f-0fc782943dda",
+      "chunk_timestamps": [
+        1772619139.079,
+        1772619144.247,
+        1772619150.913,
+        1772619155.999,
+        1772619162.802,
+        1772619168.485,
+        1772619173.9,
+        1772619180.782,
+        1772619203.37,
+        1772619210.272,
+        1772619215.688
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-04T10:12:19.079000+00:00",
+      "duration": 81.609
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 攻撃の状況  \n- 攻撃が継続して発生  \n- 周辺国にも被害が拡大  \n\n## エネルギー施設への影響  \n- 周辺国のエネルギー関連施設が被害  \n- インフラ機能の低下が懸念  \n\n## 経済への影響  \n- 攻撃により経済活動へ悪影響  \n- エネルギー供給不安でコスト増加の可能性  \n\n## 次のステップ  \n- 被害範囲と経済影響の詳細把握  \n- エネルギー施設防衛と復旧策の検討"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce"
+}
