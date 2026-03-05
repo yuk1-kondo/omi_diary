@@ -1,0 +1,113 @@
+{
+  "id": "26993a96-ba8d-4f67-b73f-378d9933af31",
+  "created_at": "2026-03-05T01:42:25.631398+00:00",
+  "started_at": "2026-03-05T01:36:24.482753+00:00",
+  "finished_at": "2026-03-05T01:43:20.008290+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "書類倉庫の明日からの運用変更",
+    "overview": "話し手が「書類倉庫乗せて 明日から」と発言しており、書類倉庫に関する何らかの作業や運用を明日から開始する意図が示されている。ただし詳細な内容や具体的なタスク、日時は不明。",
+    "emoji": "📂",
+    "category": "work",
+    "action_items": [
+      {
+        "description": "書類を倉庫に載せる作業を行う",
+        "completed": false,
+        "created_at": "2026-03-05T01:45:27.653574+00:00",
+        "updated_at": null,
+        "due_at": "2026-03-06T14:59:59+00:00",
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "1b415805-d31e-4906-82ba-a0f560964bfc",
+      "text": "書類倉庫乗せて 明日から",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.384185791015625e-07,
+      "end": 19.92275023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "475de43d-14b4-45b4-8ba4-71abc60b92b3",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "26993a96-ba8d-4f67-b73f-378d9933af31",
+      "chunk_timestamps": [
+        1772674943.723,
+        1772674948.837,
+        1772674954.789,
+        1772674959.992,
+        1772674965.043,
+        1772674970.102,
+        1772674975.274,
+        1772674980.715,
+        1772674985.776,
+        1772674990.976,
+        1772674996.087,
+        1772675002.434,
+        1772675007.608,
+        1772675012.675,
+        1772675017.975,
+        1772675022.987,
+        1772675028.184,
+        1772675033.188,
+        1772675039.118,
+        1772675044.066,
+        1772675048.955,
+        1772675054.106,
+        1772675059.167,
+        1772675064.192,
+        1772675069.223,
+        1772675074.313,
+        1772675079.484,
+        1772675084.881,
+        1772675090.161,
+        1772675095.206,
+        1772675100.495,
+        1772675106.16,
+        1772675111.417,
+        1772675116.507
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-05T01:42:23.723000+00:00",
+      "duration": 177.784
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 明日からの作業内容\n- 書類を倉庫に載せる作業開始\n- 開始日は「明日から」と明示されている\n\n## 次のステップ\n- 明日の具体的な作業時間を確認する\n- 必要な人員・道具を事前に準備する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
