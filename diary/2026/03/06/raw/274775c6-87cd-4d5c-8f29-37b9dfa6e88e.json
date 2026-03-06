@@ -1,0 +1,125 @@
+{
+  "id": "274775c6-87cd-4d5c-8f29-37b9dfa6e88e",
+  "created_at": "2026-03-06T01:54:34.915960+00:00",
+  "started_at": "2026-03-06T01:52:32.908078+00:00",
+  "finished_at": "2026-03-06T01:56:37.415631+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "教室プロジェクター清掃の段取り確認",
+    "overview": "設営時に教室のプロジェクター清掃を一緒に行うよう依頼しており、その作業に「掃除機」を使うことをメモ・指示している内容。",
+    "emoji": "🧹",
+    "category": "work",
+    "action_items": [
+      {
+        "description": "教室のプロジェクターを清掃する",
+        "completed": false,
+        "created_at": "2026-03-06T01:58:48.573808+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "d88786bd-6322-4462-928e-5b507748c686",
+      "text": "設営の時に教室のプロジェクターの清掃一緒にお願いします 掃除機って書く",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.76837158203125e-07,
+      "end": 19.822750476837157,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "abb2a95d-8e7c-4097-a798-3eb386717984",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "274775c6-87cd-4d5c-8f29-37b9dfa6e88e",
+      "chunk_timestamps": [
+        1772762072.21,
+        1772762079.154,
+        1772762084.213,
+        1772762090.238,
+        1772762095.279,
+        1772762100.414,
+        1772762105.406,
+        1772762110.547,
+        1772762115.866,
+        1772762121.2,
+        1772762126.283,
+        1772762131.339,
+        1772762136.553,
+        1772762141.667,
+        1772762146.786,
+        1772762152.005,
+        1772762157.316,
+        1772762162.526,
+        1772762168.717,
+        1772762174.771,
+        1772762180.13,
+        1772762185.535,
+        1772762190.723,
+        1772762195.975,
+        1772762201.21,
+        1772762205.745,
+        1772762211.326,
+        1772762217.056,
+        1772762222.407,
+        1772762227.488,
+        1772762232.653,
+        1772762237.748,
+        1772762242.889,
+        1772762247.951,
+        1772762253.021,
+        1772762258.876,
+        1772762264.086,
+        1772762269.421,
+        1772762275.544,
+        1772762280.615,
+        1772762285.829,
+        1772762291.144,
+        1772762296.184,
+        1772762302.301,
+        1772762307.488,
+        1772762312.588
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-06T01:54:32.210000+00:00",
+      "duration": 245.378
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 設営のときに、教室のプロジェクター清掃を一緒に行う予定。\n- 清掃に「掃除機」を使うことをメモしておく流れになっている。\n\n【決めたこと】\n- 設営時にプロジェクターを清掃する。\n- 清掃内容に「掃除機」を使うことを記載する。\n\n【次の一歩】\n- 設営当日までに、掃除機の用意と、清掃のメモ（「掃除機」と書く）を作業リストに追加しておく。"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
