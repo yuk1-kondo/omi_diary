@@ -1,0 +1,103 @@
+{
+  "id": "7d5a297a-d3d7-4647-b977-330a8a5f8416",
+  "created_at": "2026-03-09T00:03:58.550142+00:00",
+  "started_at": "2026-03-08T23:56:48.788517+00:00",
+  "finished_at": "2026-03-09T00:09:25.960790+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "英語科 成績評価と課題提出状況の共有",
+    "overview": "英語科の教員と思われる河村と安藤が、生徒の成績評価について短く共有している。河村は担当クラスの成績をつけるのが難しい状況があり、その理由として空白が多い（＝提出物や記録が不足している）ことに触れている。安藤は、成績が懸念される生徒と同様にもともと課題を出さない生徒について、1学期からの提出状況を踏まえて対応する旨を述べ、今後の成績処理方針について「よろしくお願い」と協力を求めて話を締めている。",
+    "emoji": "🏫",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "f1ca8a03-f9d6-4a80-b7e1-0e70ee59e96b",
+      "text": "いました 英語に対して いつも4組の指導ありがとうございます ギリギリ 最後まで いたします 組の半額を担当している河村で 空白 なかなか成績をつけれるところが もし なってしまいました以上です 3組の安藤ですこの生徒と同じようにもともと 出さないと言う生徒に関しては1学期 です よろしくお願い 提案",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -5.149841797447152e-08,
+      "end": 160.02199994850156,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "868fd182-4ef2-43ec-8cab-04ac6a231414",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "7d5a297a-d3d7-4647-b977-330a8a5f8416",
+      "chunk_timestamps": [
+        1773014637.871,
+        1773014643.351,
+        1773014648.909,
+        1773014654.189,
+        1773014659.328,
+        1773014665.147,
+        1773014670.151,
+        1773014675.137,
+        1773014680.273,
+        1773014685.454,
+        1773014690.445,
+        1773014695.585,
+        1773014700.648,
+        1773014705.64,
+        1773014710.658,
+        1773014715.624,
+        1773014720.871,
+        1773014725.992,
+        1773014731.029,
+        1773014736.086,
+        1773014741.118,
+        1773014747.28,
+        1773014752.422,
+        1773014757.469,
+        1773014763.528,
+        1773014769.518,
+        1773014776.052,
+        1773014781.115,
+        1773014786.529,
+        1773014791.64,
+        1773014796.612,
+        1773014802.652,
+        1773014807.734,
+        1773014812.802
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-09T00:03:57.871000+00:00",
+      "duration": 179.931
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 英語指導状況\n- 英語の指導への感謝が伝えられた  \n- 最後まで指導を継続してほしい意向  \n\n## 成績評価の課題\n- 河村が4組の半期評価を担当  \n- 成績をつけにくい状況が発生している  \n\n## 提出物がない生徒への対応\n- 安藤が3組の状況を共有  \n- 提出しない生徒は1学期から同様の傾向  \n\n## 今後の対応・提案\n- 提出しない生徒への評価方針の検討が必要  \n- 1学期からの状況を踏まえた対応を継続"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9"
+}
