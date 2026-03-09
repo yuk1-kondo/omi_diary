@@ -1,0 +1,98 @@
+{
+  "id": "66fa7615-46f0-4e73-bc51-14901498d582",
+  "created_at": "2026-03-09T02:47:26.844613+00:00",
+  "started_at": "2026-03-09T01:30:20.087619+00:00",
+  "finished_at": "2026-03-09T02:48:49.126222+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "受験当日の持ち物と引き継ぎ確認",
+    "overview": "試験当日の運営に関する指示として、「受験票控え」「引き継ぎ用紙」「筆記用具」を預かった状態にしておくことが述べられている。監督者またはスタッフ向けに、受験生からの必要書類や持ち物を受け取り、整理・管理した上で引き継ぐ準備をしておくことが求められている内容。",
+    "emoji": "✏️",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "5c3d15a4-754f-490a-812d-34c43e0f0f7e",
+      "text": "ください 指示 受験票控え引き継ぎ用紙筆記用具預かった状態で",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -5.378723244575667e-07,
+      "end": 30.00412446212772,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "d23ad10a-529d-4601-9423-c320def102b5",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "66fa7615-46f0-4e73-bc51-14901498d582",
+      "chunk_timestamps": [
+        1773024444.859,
+        1773024451.12,
+        1773024456.777,
+        1773024461.993,
+        1773024468.172,
+        1773024473.129,
+        1773024478.2,
+        1773024483.223,
+        1773024489.423,
+        1773024495.075,
+        1773024500.223,
+        1773024506.299,
+        1773024511.455,
+        1773024516.599,
+        1773024522.285,
+        1773024527.422,
+        1773024532.534,
+        1773024537.654,
+        1773024543.534,
+        1773024548.521,
+        1773024553.762,
+        1773024558.794,
+        1773024564.733,
+        1773024569.932,
+        1773024575.114,
+        1773024580.317,
+        1773024585.342,
+        1773024591.156,
+        1773024596.293
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-09T02:47:24.859000+00:00",
+      "duration": 156.434
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 試験当日の持ち物・準備\n- 受験票の控えを用意しておく  \n- 引き継ぎ用紙を準備しておく  \n- 筆記用具を預かった状態にしておく  \n\n## 次のステップ\n- 指示に従い、受験票控え等を受け渡し準備"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "b70d5aa8-3137-4190-b84f-83a1f0e7fe43"
+}
