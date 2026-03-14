@@ -1,0 +1,78 @@
+{
+  "id": "87a312d8-404a-4032-ad86-9e5e6791a7b3",
+  "created_at": "2026-03-14T04:45:20.441947+00:00",
+  "started_at": "2026-03-14T03:39:33.711018+00:00",
+  "finished_at": "2026-03-14T04:52:22.571224+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "恵比寿での温泉予定キャンセル相談",
+    "overview": "話し手は現在イベントに参加しており、「お母さんいます」とメモしたことやカッティングモードで何かを削る作業について触れている。その後、恵比寿のタイ料理店から温泉施設（恵比寿湯）まで徒歩30分かかるため距離が遠いと判断し、温泉に行く計画をキャンセルする旨を伝え、「ごめん」と謝罪している。具体的な日時を伴う今後の予定や確定した約束は示されていない。",
+    "emoji": "♨️",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2b92f8b7-658a-4ee3-9195-a00f80c311dc",
+      "text": "にイベント行ってますお母さんいますって書いてる カッティングモード作ったら削っておきますのでクリーターあり 温泉 遠いかなぁちょっと お店から温泉まで徒歩30分かかるからちょっと 恵比寿からそのタイ料理からその恵比寿湯まで キャンセル ごめん",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.242493562538584e-08,
+      "end": 79.89100003242493,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "26b6810c-5d53-434a-97bd-a064f889d4e4",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "87a312d8-404a-4032-ad86-9e5e6791a7b3",
+      "chunk_timestamps": [
+        1773463520.169,
+        1773463580.74,
+        1773463641.233,
+        1773463701.92,
+        1773463762.653,
+        1773463823.528,
+        1773463884.423,
+        1773463944.783
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-14T04:45:20.169000+00:00",
+      "duration": 545.576
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 温泉（恵比寿湯）に行く計画があった\n- お店から温泉まで徒歩30分くらいかかると感じた\n- 距離のこともあり、温泉の予定はキャンセルした\n\n【決めたこと】\n- 温泉（恵比寿湯）に行く予定をキャンセルすること\n\n【次の一歩】\n- 体力や移動時間に負担が少ない、行きやすい場所や過ごし方を一つ考えてみる"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed",
+  "call_id": null
+}
