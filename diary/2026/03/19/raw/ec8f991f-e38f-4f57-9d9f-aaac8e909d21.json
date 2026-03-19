@@ -1,0 +1,84 @@
+{
+  "id": "ec8f991f-e38f-4f57-9d9f-aaac8e909d21",
+  "created_at": "2026-03-19T02:39:19.267392+00:00",
+  "started_at": "2026-03-19T02:38:38.614834+00:00",
+  "finished_at": "2026-03-19T02:41:33.017800+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "12時の会場予定についての会話",
+    "overview": "話し手が空腹を感じつつ、「12時会場になると思うんです」と述べており、正午に会場が開く／利用可能になる見込みを伝えている短いやり取り。具体的な日付や確定した予定までは示されていない。",
+    "emoji": "⏰",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "c5d083fd-9272-4118-a986-d63656191cb0",
+      "text": "腹減ったなぁ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 10.041374761581421,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    },
+    {
+      "id": "4b2bd461-a4a3-4de2-b851-1852d28147f0",
+      "text": "すいませ 12時会場になると思うんです",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 133.99666166305542,
+      "end": 153.7794116630554,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "254365a4-4cf1-4906-9f5a-09b78eaf1961",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ec8f991f-e38f-4f57-9d9f-aaac8e909d21",
+      "chunk_timestamps": [
+        1773888052.561
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-19T02:40:52.561000+00:00",
+      "duration": 120.722
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- お腹がすいていると感じていた\n- 12時に会場になる（開く／始まる）予定と話していた（詳細は未確認）\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 12時の予定に合わせて、無理のないタイミングで食事をとるかどうかを検討する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
