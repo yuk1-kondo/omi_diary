@@ -1,0 +1,73 @@
+{
+  "id": "06da2758-aa21-4baf-b6ec-4cd4e2f6f114",
+  "created_at": "2026-03-21T14:17:55.259210+00:00",
+  "started_at": "2026-03-21T14:10:51.169577+00:00",
+  "finished_at": "2026-03-21T14:19:21.278893+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "明日の服装についての確認",
+    "overview": "話し手は「明日服どれ持ってく」と明日の服装について考えており、「青いジャンパーは持っていない」と述べていることから、翌日に向けた服選びや持ち物の確認をしている場面と分かる。具体的な予定や場所には触れられていない。",
+    "emoji": "👕",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "a9ad4fa8-1e02-470b-81a1-f71614b25984",
+      "text": "被害被害 明日服どれ持ってく 特に青いジャンパー持ってないけど 多分",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 40.00549976158142,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "0bba9d2d-9acc-43be-bf4d-57f4cfdc55e9",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "06da2758-aa21-4baf-b6ec-4cd4e2f6f114",
+      "chunk_timestamps": [
+        1774102674.959,
+        1774102735.842,
+        1774102796.51
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-21T14:17:54.959000+00:00",
+      "duration": 256.073
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 明日着ていく服について考えている\n- 「青いジャンパー」は今は持っていないと話している（「多分」と不確かさあり）\n- 詳しい予定や状況は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 明日着ていく服を、今日のうちに一式（上着・インナー・ボトムスなど）出しておき、足りないものがないかゆっくり確認してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
