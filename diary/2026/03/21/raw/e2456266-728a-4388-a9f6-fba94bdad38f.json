@@ -1,0 +1,72 @@
+{
+  "id": "e2456266-728a-4388-a9f6-fba94bdad38f",
+  "created_at": "2026-03-21T08:49:56.117844+00:00",
+  "started_at": "2026-03-21T08:43:53.554288+00:00",
+  "finished_at": "2026-03-21T08:50:42.832266+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "接種猶予証明書の持ち物確認",
+    "overview": "話し手が「接種猶予証明書をカバンに入れた」と口にしており、ワクチンなどの接種猶予に関する証明書を所持品としてバッグに入れたことを確認している様子がうかがえる。特定の予定や日程についての具体的な言及はない。",
+    "emoji": "📄",
+    "category": "health",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "7d8548ce-f5d3-4ff2-80ab-d1f841eb5c8d",
+      "text": "接種猶予証明書カバン入れたパーティー あ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 19.98274976158142,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1d63775c-273b-46e6-bc50-4d80b6ec1872",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "e2456266-728a-4388-a9f6-fba94bdad38f",
+      "chunk_timestamps": [
+        1774082995.826,
+        1774083056.106
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-21T08:49:55.826000+00:00",
+      "duration": 180.482
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「接種猶予証明書」をカバンに入れた、というお話があった\n- それ以外の状況や目的は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- カバンの中に「接種猶予証明書」が入っているか、余裕のあるときに一度だけ中身を確認してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
