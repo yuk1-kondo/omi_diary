@@ -873,3 +873,170 @@ For sake.
 
 ---
 
+
+
+## 📝 Fantasy Novel Excerpt And Brief Side Conversation - 94476e84-eb23-4f1b-8900-9377c34674c6
+
+**記録時間**: 2026-03-24 22:03:51
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 1s]
+Cultivated garden.
+
+👤 あなた [1s - 12s]
+On burglaries or scouting missions, she had occasionally seen ornamental plants. But she'd never given them much heed. They, like many noble interests, had seemed frivolous to her.
+
+👤 あなた [13s - 24s]
+She hadn't realized how beautiful the plants could be arranged carefully. Mentioned Rinu's garden balcony was a thin oval structure that overlooked the grounds below.
+
+👤 あなた [25s - 35s]
+The gardens weren't large, They required too much water and attention to form more than a thin perimeter Still, they were marvelous.
+
+👤 あなた [36s - 39s]
+Instead of mundane browns and whites, they called them
+
+👤 あなた [42s - 52s]
+Shades of red, orange, and yellow with the colors concentrated in their leaves. The groundskeepers have planted them to make intricate beautiful patterns.
+
+👤 あなた [53s - 65s]
+Closer to the balcony, exotic tree with colorful yellow leaves gave shade and protected from ash falls. It was a very mild winter and most of the trees still held in. Leaves.
+
+👤 あなた [65s - 75s]
+The air felt cool, and the rustling of branches in the wind glows soothe. Almost soothing enough, in fact, to make Ben forget how annoyed she was.
+
+👤 あなた [77s - 86s]
+Would you like more tea, child? Lord, when you asked. He didn't wait for an answer. Simply waved for a serpent to rush forward and refill their cup.
+
+👤 あなた [88s - 97s]
+Vin sat on a plush cushion, her wicker chair designed for comfort. During the last four weeks, her every whim and desire had been met.
+
+👤 あなた [97s - 112s]
+Servants cleaned up after her, her, fed her, and even helped bathe her. Rainu saw that anything she asked for was given her. And she certainly wasn't expected to do anything strenuous, dangerous, or even slightly inconvenient.
+
+👤 あなた [113s - 122s]
+In other words, her life was maddeningly boring, Before her time at Mansion, Renu had been monopolized by lessons and training.
+
+👤 あなた [123s - 139s]
+She'd during the day is having only minimal contact with the mansion staff. Now, however, Allomancy at least the nighttime jumping kind, was forbidden her Her wound was only partially healed and too much motion reopened it.
+
+👤 あなた [140s - 155s]
+Says it still gave her occasional lessons, his time was dominated by translating the book. He spent long hours in the library, pouring over its pages with a uncharacteristically excited air. He spun a new bit of more than thought.
+
+👤 あなた [156s - 165s]
+To a that's probably as intoxicating as street spice. She sipped at her teeth with repressed petulance. Eyeing the nearby servants.
+
+👤 あなた [166s - 177s]
+They seemed like scavenger birds. Roosting and waiting for any opportunity to make Venice and as frustrated. As possible. Knew wasn't much help either.
+
+👤 あなた [177s - 187s]
+This idea of taking lunch with Vin is to sit and attend to his own duties, making notes on lectures or dictating letters. While eating.
+
+👤 あなた [188s - 199s]
+Her attendance seemed important to him, but he rarely paid much attention to her. Other than to ask how her day had been. Yet she forced herself to act the of a prim double one.
+
+👤 あなた [200s - 212s]
+Lord Renu had hired some new servants that didn't know about the job. Not house staff, but gardeners and workmen. Calcira and Renu had worried that the other houses were gross suspicious.
+
+👤 あなた [212s - 223s]
+If they couldn't get at least a few certain spies onto the Renew grounds. Didn't see it as a danger to the job, but it did mean that Ben had to maintain her persona whenever possible.
+
+👤 あなた [225s - 234s]
+I can't believe that people live like this. It thought as some servants began clearing away the meal. How can noble women fill their days with so much nothing?
+
+👤 あなた [235s - 249s]
+No wonder everyone's eager to attend those balls. Here's your respite pleasant, dear. When you asked. Over another ledger. Yes, Ben said through tight lips.
+
+👤 あなた [249s - 259s]
+Quite. You should be up to your shopping trip soon, Omi said. But he happened to her. Perhaps you would like to visit Canton Street?
+
+👤 あなた [259s - 269s]
+Get some new earrings to replace that pedestrian stud you wear. Then reached a hand to her ear, where her mother's earrings still sat.
+
+👤 あなた [270s - 281s]
+No. She said. I'll keep this. Renew frowned but said no more. For a servant approached and drew his attention.
+
+👤 あなた [283s - 292s]
+Ma lord, the servant said to Renewal, the courage just arrived from Luther Delah. Then perked up. That was the servant's way of saying that a member of the crew had arrived.
+
+👤 あなた [293s - 304s]
+Ah, very good, Renew said. Show them up, Tom, Yes, my lord. A few minutes later, Kelsey or Breeze, Eden, and Dachshund walked out.
+
+👤 あなた [304s - 323s]
+Onto the balcony. Crater discreetly waved to the serpents who closed the glass balcony doors and left the crew in privacy. Several men took a position just inside watching to make certain that the wrong people didn't have an opportunity to Are we interrupting your mere? Dachshund asked.
+
+👤 あなた [323s - 334s]
+No, Vince said quickly, cutting off loading your news reply. Sit, please. Calcio strolled over to the balcony's ledge, looking out over the garden and grounds.
+
+👤 あなた [335s - 347s]
+Nice view you have here. Kelsey, is that wise? When you asked? Some of the gardeners are men for whom I cannot vouch. Calcior chuckled.
+
+👤 あなた [348s - 356s]
+If they can recognize me from this distance, they deserve more than the great houses are paying them. However, he did leave the balcony edge.
+
+👤 あなた [356s - 365s]
+Walking over to the table and spinning a chair, then sitting down on it the wrong way. Over the last few weeks, he had mostly returned to his old familiar self.
+
+👤 あなた [366s - 375s]
+Yet there were still changes. He held meetings more often, discussed more of his plans with the crew. He also still seemed different.
+
+👤 あなた [375s - 387s]
+More thoughtful. Says it was right, in thought. Our attack on the palace might have been near deadly for me. But it has changed Kelsier for the better.
+
+👤 あなた [389s - 399s]
+We thought we'd have our meeting here this week, Thompson said. Since you two get to participate. That was most thoughtful of you, master dachshund.
+
+👤 あなた [400s - 416s]
+Lord Renew said. But your concern is unnecessary. We are doing just fine. No. No. We aren't. Some of us need information. What's happening at the crew? How is the recruitment going?
+
+👤 あなた [417s - 426s]
+Bernie knew Iyer with dissatisfaction. Vin, however, ignored him. He's not really a lord, she told herself. He's just another crew member.
+
+👤 あなた [427s - 441s]
+My opinion counts as much as his. Now that the servants are gone, I can speak how I want. Kelsior chuckled. Well, captivity's made her a bit more outspoken as nothing else. I have anything to do.
+
+👤 あなた [442s - 455s]
+Vince said. It's driving me insane. Breeze said his cup of wine on the table. Sir, I'm going to find your then they must already be insane.
+
+👤 あなた [455s - 468s]
+Oh, they're mostly noblemen, Calcius said. So yes, they're quite mad. The jump been reminded, what's happening? Recruitment is still too slow, Dachshund said.
+
+👤 あなた [469s - 478s]
+But we're improving. We may have to sacrifice further security for numbers, Kelsey, Eaton said. That's a change too, she thought.
+
+👤 あなた [479s - 489s]
+Impressed as she noted Eaton's civility. He had taken to wearing nicer clothing, not quite a full gentleman's suit like dogs in a breeze, but at least a woke up jacket and trousers.
+
+👤 あなた [490s - 500s]
+A buttoning shirt beneath, all kept free of I can't be helping. If you said. Unfortunately, Ham's doing well with the troops.
+
+👤 あなた [501s - 513s]
+I had a message from him just a few days ago. He's impressed with their progress. Freeze snorted. Be warned. Hammond does tend to be a bit optimistic about these kind of things.
+
+👤 あなた [514s - 522s]
+If the army were made up of one legged mutes, he would raise their balance and their listening skill. I should like to see the army.
+
+👤 あなた [522s - 534s]
+Said eagerly. Soon. Kelsey had promised. We should be able to get Marsh into the ministry within a month. Dachshund said, nodding to seize it, as the terrorist men passed their scent.
+
+🎤 SPEAKER_1 [638s - 639s]
+Just wanna go.
+
+🎤 SPEAKER_1 [643s - 655s]
+I just wanna go. That's all. Okay. Well, give give me your call because Like, I I truly don't.
+
+🎤 SPEAKER_2 [769s - 773s]
+Like, I stay and hold and feed an agent. 26,000,000 doesn't mean anything.
+
+🎤 SPEAKER_3 [774s - 778s]
+Some people might find it hard to understand how Delcia Bear can turn away a twenty During the break, I Getting a pump the machine Right.
+
+👤 あなた [954s - 958s]
+Anyway, come on. Focus. Thank you.
+
+👤 あなた [962s - 982s]
+For sake.
+
+
+---
+
