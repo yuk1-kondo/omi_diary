@@ -843,3 +843,170 @@ So for these Afghani guys, I don't know what that means. I don't know. They woul
 
 ---
 
+
+
+## 📝 Couple Reconciles Budget And Savings In Monzo - c9580e9e-d585-462e-b788-286443ebb93d
+
+**記録時間**: 2026-03-02 19:39:14
+
+### STT生テキスト
+
+👤 あなた [2s - 134s]
+But We haven't used first direct free just we only got it because of blinking I meant to get £200 referral, but
+
+🎤 SPEAKER_1 [135s - 138s]
+Your mom is gonna give us money then.
+
+👤 あなた [138s - 144s]
+She wants to see her. She said, know you've seen your dad, but can I see you before you go? Go? I have to come down for a couple or I can come up to you.
+
+👤 あなた [156s - 162s]
+So this is very instant coffee tasting, this one. It It is. Yeah. Which I like actually.
+
+👤 あなた [166s - 167s]
+No. Smells nice.
+
+🎤 SPEAKER_2 [168s - 169s]
+It's cheap.
+
+👤 あなた [170s - 178s]
+I mean, is it I mean, quite expensive to have tailors individually by them. We use them regularly. One of those other coffee bags we can get that are not
+
+👤 あなた [184s - 190s]
+I just just like the pods. I've never liked them. I have them because it gets me it makes me a bit more alert occasionally, but I don't really like.
+
+👤 あなた [194s - 212s]
+This light's literally doing nothing.
+
+🎤 SPEAKER_0 [237s - 245s]
+Need to do is so the money that went in into Monzo to go into our savings account Yeah.
+
+🎤 SPEAKER_1 [245s - 247s]
+I put back into debt. What have you? Sorry?
+
+🎤 SPEAKER_0 [248s - 250s]
+The money that goes into Monzo
+
+🎤 SPEAKER_1 [250s - 250s]
+For savings?
+
+🎤 SPEAKER_0 [251s - 251s]
+Savings.
+
+👤 あなた [252s - 253s]
+here.
+
+🎤 SPEAKER_1 [253s - 254s]
+I just put that back into Yeah.
+
+🎤 SPEAKER_0 [251s - 253s]
+It's like $300,100 quid.
+
+👤 あなた [256s - 257s]
+400 Because we're overdrawn?
+
+🎤 SPEAKER_1 [257s - 261s]
+Yes. Some silly having money in one account and paying fees on the Well I would have liked
+
+👤 あなた [263s - 273s]
+to I forgot I'm no time, but I wanted to see if there's any money left in regular pot at the end of the month. Yeah. Put them all together and put them into the account. Or maybe we can just put that in savings account.
+
+🎤 SPEAKER_1 [274s - 281s]
+I mean, part of the issue is that the overdraft, we had £200 on a higher car. Hadn't really budgeted for.
+
+👤 あなた [282s - 297s]
+No. That's gone onto the credit card. There is it? Yeah. I when I did the loan, I intentionally made that we had a bit more than we should have had in there. Just overspend it.
+
+👤 あなた [298s - 303s]
+We the problem is It's that it's hard to track what's I know it's hard I've got money. You you might need to start paying the £3 a month.
+
+👤 あなた [304s - 309s]
+On your Monzo and then you can have access to Can I just say podcast?
+
+🎤 SPEAKER_1 [309s - 316s]
+I've often gone through and realized that maybe not got something and you've moved you you've then bought something on No.
+
+👤 あなた [317s - 319s]
+Yeah. I'm not denying that. On it.
+
+🎤 SPEAKER_1 [319s - 324s]
+I then moved stuff over. So I don't think it's exclusive without me. We are going away, so we have had to get some Yeah.
+
+👤 あなた [325s - 336s]
+But also, can I just also can I just say, maybe pay for the £3 a month Monzo and then you'll have access to cards specifically for the pots?
+
+👤 あなた [337s - 340s]
+Well, that might be Whatever it is, we need to stop spending money on d because we have no control.
+
+🎤 SPEAKER_1 [340s - 346s]
+Can I be really clear to you? Yeah. You only get a card for it like petrol and No.
+
+👤 あなた [346s - 350s]
+It's many pots as you want. And you can color them and label them on your The problem is I just find one at the tip.
+
+🎤 SPEAKER_1 [350s - 361s]
+I don't got time just to go through and check. I need to report. But, no, but can I just point out to you, I think something I need to do is I haven't realized there was money going into Monso for savings?
+
+🎤 SPEAKER_1 [361s - 370s]
+I can take some of that money out because there's some stuff I had to buy. I've just done a d as savings, and I can move some of savings over to cover some of that.
+
+👤 あなた [371s - 371s]
+Yeah.
+
+🎤 SPEAKER_1 [371s - 382s]
+So we do probably spend more than needed. There's a few things that have come out that I haven't so, like, you've just been 20 good on the tire. Well, you've probably been in the game for that, have you?
+
+🎤 SPEAKER_1 [382s - 389s]
+That needs to come out from savings. I did have to get some hair stuff, so I need to move that over. I was waiting until this month's stuff.
+
+👤 あなた [391s - 398s]
+Was there Still got three 100. We still got four £100 in savings, but ideally, So that's where the money should come on for the tyre, for example. Is that what they say?
+
+🎤 SPEAKER_1 [399s - 411s]
+There's just a few a few things where I was just a little bit busy, I quite moved stuff over. So I need to get it from savings, and and put it over because, like, I've got your jeans on Saturday. We have a pot Like, that we didn't have enough money in the clothes budget for that app.
+
+🎤 SPEAKER_1 [412s - 425s]
+But then we will gather stuff because you won't buy any more clothes now probably in until whenever. And I've had to get, the boys swimming trunks and stuff. So the boys stuff comes out of savings. So I mean, I'll probably just take some money from savings and put it in.
+
+🎤 SPEAKER_1 [427s - 434s]
+Just to cover. But, like, KFC, well, there's did you £13.
+
+👤 あなた [437s - 438s]
+60 on Friday Did you transfer £13, like That's what that is, if you recall.
+
+🎤 SPEAKER_1 [439s - 442s]
+Okay. Well, either way, did you transfer that at Elliott?
+
+👤 あなた [442s - 445s]
+Well, due I took due to my demos on the Thursday.
+
+🎤 SPEAKER_2 [445s - 445s]
+Yeah.
+
+👤 あなた [446s - 454s]
+Eddie was like, we're waiting for dude, Elliott. What was going on on Friday? Me and Eddie were for some reason somewhere by ourselves. Where was dude down on Friday?
+
+🎤 SPEAKER_2 [456s - 457s]
+Illinois.
+
+🎤 SPEAKER_1 [457s - 457s]
+Picked him up.
+
+👤 あなた [458s - 465s]
+Yeah. But was he yeah. Either way, me and Elliott went to KFC on the Friday. Because Elliott Jude had McDonald's on the Thursday.
+
+🎤 SPEAKER_3 [467s - 467s]
+Where was it?
+
+👤 あなた [467s - 472s]
+Where did you go Friday with Jude? Well well, I picked a belly up from the school and went straight down.
+
+🎤 SPEAKER_1 [472s - 480s]
+No. I picked Elliot up. On Friday. My mum came over. Due to having incident. We saw my mom and her new car.
+
+👤 あなた [480s - 487s]
+You and idiots, me, no, me and idiot went to Kissing for it. I don't know how, why that happened, but it did it did ask Elliot then.
+
+
+---
+
