@@ -242,3 +242,467 @@ And that he will set you in praise and fame and in honor high above all nations.
 
 ---
 
+
+
+## 📝 Fiction Reading And Fast-Food Order Captured - f0a8f50f-0b1a-4bf4-a228-a2876fffad8f
+
+**記録時間**: 2026-03-24 21:21:02
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 11s]
+She coughed slightly, opening her eyes. She lay in a bed that was far too comfortable, and a lanky teenage boy sat on a beside her bed. Mister she thought.
+
+🎤 SPEAKER_0 [12s - 13s]
+That's his name.
+
+👤 あなた [20s - 29s]
+Mister Bone has jumped to his feet. You're awaking. She tried to speak, but just coughed again, a the boy heard they gave her a cup of water.
+
+👤 あなた [30s - 41s]
+Vin sifted thankfully, grimacing at the pain in her side. In fact, her entire body felt like it had been pulled soundly. She finally crooked.
+
+👤 あなた [42s - 57s]
+Nodding as the no, he said. Kelsey wasn't a hit with my name. Changed it to spook. Then asked. It How Long Have I Been Asleep, Two weeks?
+
+👤 あなた [58s - 71s]
+The voice said. Wait here. He scrambled away, and she could hear him calling out at a distance. Two weeks? She sifted the cup trying to organize her muddled memories.
+
+👤 あなた [72s - 81s]
+Reddish afternoon sunlight shone through the window, lighting the room. She set the cup aside checking her side where she found a large white bandage.
+
+👤 あなた [82s - 93s]
+That's where the inquisitor hit me, she thought. I should be dead. Her side was bruised and discolored from where she'd hit the roof after falling.
+
+👤 あなた [93s - 103s]
+Under bodyboard, a dozen other nicks bruises and scrapes. All in all, she felt absolutely terrible. Then Dachshund said, stepping into the room.
+
+👤 あなた [104s - 115s]
+You're awake. Barely. Minne said with a groan, lying back against her pillow. Dachshund chuckled, walking over and sitting on Lesterbornus's stool.
+
+👤 あなた [116s - 129s]
+How much do you remember? Almost everything I she said. We fought our way into the palace. But there were inquisitors. They chased us and fought.
+
+👤 あなた [129s - 140s]
+She stopped looking at doxxer. Kelsir, is he? Kel's fine. Daxson said. He came out of the incident in far better shape than you did.
+
+👤 あなた [140s - 153s]
+He knows the palace fairly well from the plans we made three years ago, and he been frowned as ducks and trailed off. What? He said the inquisitors didn't seem very focused on killing him.
+
+👤 あなた [154s - 166s]
+They left one to chase him and sent two after you. Why Then thought. Did they simply want to concentrate their energy on the weakest enemy first? Or is there another reason here?
+
+👤 あなた [167s - 182s]
+She sat back thoughtfully, working through the events of that night. Says it. Ben finally said. He saved me. The inquisitor was about to kill me, but what is he?
+
+👤 あなた [183s - 195s]
+Says it? That's probably a question I should at him answer. Is he here? Dachshund shook his head. He had to return to Felice.
+
+👤 あなた [195s - 205s]
+Breezing pelare out recruiting, Hamlet last week to inspect our army. He won't be back for another month at least. We're not at feeling growsy.
+
+👤 あなた [206s - 214s]
+Drink the rest of your water. Dachshund suggested. There's something in it to help with the pain. Bend down the rest of the drink.
+
+👤 あなた [215s - 217s]
+Then rolled over and let sleep take her again.
+
+👤 あなた [220s - 229s]
+Calcio was there when she awoke. He sat on the stool by her bed, hands clasped with his elbows on his knees. Watching her by the faint light of a lantern.
+
+👤 あなた [230s - 240s]
+He smiled when she opened her eyes. Welcome back. She immediately reached for the cup of water on the bed stand. How's the job going?
+
+👤 あなた [241s - 251s]
+He shrugged. The army is growing, and Renew begun to purchase weapons and supplies. Your suggestion regarding the ministry turned out to be a good one.
+
+👤 あなた [251s - 262s]
+We found Therin's contact, and we've nearly negotiated a deal that will let us place Marsh, Then asked. Will he do it himself?
+
+👤 あなた [263s - 274s]
+Kelsier nodded. He's always had a certain fascination with the ministry. If any skar can pull off imitating an obligator, it will be Marsh.
+
+👤 あなた [275s - 284s]
+Vin nodded, sipping her drink. There was something different about Kelsier. It was subtle. A slight alteration in his air and attitude.
+
+👤 あなた [285s - 299s]
+Things had changed during her sickness. Then said hesitantly, I owe you an apology. I nearly got you killed. Vince nodded quietly.
+
+👤 あなた [300s - 310s]
+It's not your fault. I need you take me. You shouldn't have been able to make me. Kelsey said. My original decision to send you away was the right one.
+
+👤 あなた [311s - 323s]
+Please accept the apology. Ben nodded quietly. What do you need me to do now? The job has to go forward, right? Kelsior smiled.
+
+👤 あなた [324s - 333s]
+Indeed, it does. As soon as you're up to it, I'd like you to move back to Feliz. We've created a cover story saying that Lady Valette has taken sick.
+
+👤 あなた [334s - 342s]
+But rumors are starting to appear. The sooner you can be seen in the flesh by visitors, the better. I can go tomorrow, Nint said.
+
+👤 あなた [343s - 356s]
+Calcio chuckled. I doubt it, but you can go soon. For now, just rest. He moving to leave. Kelce here? Then Austin. Causing him to pause.
+
+👤 あなた [357s - 369s]
+He turned looking at her. Vin struggled to formulate what she wanted to say. The the inquisitors, we're not invincible, are we?
+
+👤 あなた [370s - 379s]
+She flushed. It sounded stupid when she said it that way. Gelsier, however, just Still wrapped.
+
+🎤 SPEAKER_1 [387s - 388s]
+Toasted wrap Kentucky mayo.
+
+🎤 SPEAKER_2 [403s - 404s]
+Hiya. What can I get for you?
+
+🎤 SPEAKER_1 [404s - 406s]
+Hi. Yeah. Yeah. Can I have a toasted wrap, please?
+
+🎤 SPEAKER_3 [407s - 408s]
+Yeah. Is the meal or on its own?
+
+🎤 SPEAKER_1 [408s - 409s]
+Meal, please.
+
+🎤 SPEAKER_3 [410s - 411s]
+Yeah. No worries. What drink?
+
+🎤 SPEAKER_1 [412s - 414s]
+Can I have a a Diet Coke?
+
+🎤 SPEAKER_1 [421s - 425s]
+Doctor Pepsi. Wrap. Mayo, the milder one, please.
+
+🎤 SPEAKER_3 [426s - 428s]
+What was that? Sorry.
+
+🎤 SPEAKER_1 [428s - 433s]
+The milder sauce. Is that Kentucky mayo? Yeah. The Kentucky mayo. No worries. Anything else? That's it. Thank you. No worries.
+
+🎤 SPEAKER_3 [433s - 433s]
+Worries.
+
+🎤 SPEAKER_1 [435s - 437s]
+Alright. Thanks. Thank you.
+
+🎤 SPEAKER_2 [467s - 467s]
+Hi. Yeah.
+
+🎤 SPEAKER_1 [468s - 469s]
+Thank you.
+
+🎤 SPEAKER_1 [473s - 484s]
+Yeah. Of course. Yeah. Can I have some what they're called napkin, please?
+
+🎤 SPEAKER_2 [524s - 525s]
+Just smiled.
+
+👤 あなた [525s - 539s]
+He seemed to understand what she meant. No Vin, said quietly. We're far from it. Then watch the landscape pass outside her carriage window.
+
+👤 あなた [539s - 550s]
+The vehicle sent from mentioned Renew had supposedly taken lady Ballett for a ride through Lutedel. In reality, it hadn't picked up Ben until it had stopped briefly by clubs' street.
+
+👤 あなた [551s - 561s]
+Now, however, her window shades were open showing her again to the world. Assuming anyone care. The carriage made its way back toward Feliz.
+
+👤 あなた [562s - 575s]
+Elsier had been right. She'd have to rest three more days in Club's shop, before feeling strong enough to make the trip. In part, she'd waited simply because she had dreaded struggling into another woman's dress with her bruised arms and wounded side.
+
+👤 あなた [577s - 588s]
+Still, it felt good to be up again. There had been something wrong about simply recovering in bed. Such a lengthy period of rest wouldn't have been given to a regular thief.
+
+👤 あなた [589s - 597s]
+Thieves either got back to work quickly or were abandoned for dead. Those who couldn't bring in money for food couldn't be allowed to take up space in the lair.
+
+👤 あなた [599s - 612s]
+But that isn't the only way people live. Thought. She was still uncomfortable with that knowledge. It hadn't mattered to Kelsier and the others that she'd drained their resources They hadn't exploited her weakened state.
+
+👤 あなた [613s - 628s]
+But had cared for her, each one spending time at her bedside. Most notable among the vigilists had been the young Ben didn't even feel that she knew him very well, yet said that the boy had spent hours watching over her during her coma.
+
+👤 あなた [629s - 638s]
+What did one make of a world where a crew leader agonized over his people? In the underground, each person bore responsibility for what happened to them.
+
+👤 あなた [639s - 654s]
+A weaker segment of a crew had to be allowed to die. Thus they keep everyone else for hurting enough to survive. If a person got captured by the ministry, he left them to their fate and hoped You didn't worry about your own guilt of putting them in danger.
+
+👤 あなた [656s - 662s]
+They're fools, Reen's voice whispered. This entire plan will end in disaster.
+
+👤 あなた [667s - 675s]
+Rin had left when he could, Perhaps he'd known that the inquisitors would eventually hunt her down for the powers she unwittingly possessed.
+
+👤 あなた [676s - 683s]
+He always had known one to leave. It was no accident, she thought, that he hadn't ended up slaughtered with the rest of Caiman's crew.
+
+👤 あなた [684s - 694s]
+And yet she'd ignored Reen's promptings in her head, instead letting the carriage pull her toward fleece. It wasn't that she felt completely secure in her place with Calcier's crew.
+
+👤 あなた [695s - 704s]
+Indeed, in a way, her place with these people was making her even more apprehensive. What if they stopped needing her? What if she became useless to them?
+
+👤 あなた [705s - 714s]
+She had to prove to them that she could do what they needed her to. There were functions to attend, a society to infiltrate. She had so much work to do.
+
+👤 あなた [714s - 729s]
+She couldn't afford to spend any more of it sleeping. In addition, she needed to return to her alomantic practice sessions. It had only taken a few short months for her to grow dependent upon her powers, she longed for the freedom of leaping through the mists.
+
+👤 あなた [729s - 741s]
+Of pulling and pushing her way through the skies. Kritiksha had taught her that she wasn't invincible. But Kelsier's survival with barely a scratch proved that it was possible to be much better than she was.
+
+👤 あなた [742s - 753s]
+Vin needed to practice, to grow in strength until she too could have escape inquisitors like Kelsier had. The carriage turned a bend and rolled into fleece.
+
+👤 あなた [753s - 767s]
+The familiar pastoral suburb made Vin smile to herself. And she leaned against the open carriage window feeling the breeze. With locks, some street goers would gossip at lady Ballotte, been seen riding through the city.
+
+👤 あなた [767s - 775s]
+She arrived at Mansion Renew a few short turns later. A footman opened the door, and Ben was surprised to see if Lord will renew himself.
+
+👤 あなた [775s - 780s]
+Waiting outside the carriage to help her down. My lord, she said, giving him her
+
+🎤 SPEAKER_2 [794s - 795s]
+Sorry.
+
+🎤 SPEAKER_1 [796s - 796s]
+Thank you.
+
+🎤 SPEAKER_4 [884s - 889s]
+I'm sorry. Not seeing that.
+
+🎤 SPEAKER_3 [891s - 893s]
+I think that you are coming to do that are there at least digits and and that's you hold the line in a way that means you can live it through its full.
+
+🎤 SPEAKER_4 [913s - 926s]
+That is being a month or a pastor's wife or at work or at as a friend, which is so, so good. At being you in all different ways that you are.
+
+🎤 SPEAKER_4 [926s - 929s]
+And and I love you, and I will see you soon, and I look forward to
+
+🎤 SPEAKER_2 [934s - 944s]
+Bingham her hand.
+
+👤 あなた [945s - 956s]
+Surely you have more important things to attend to. Nonsense, he said. A lord must be allowed time to dote upon his favorite How was your ride?
+
+👤 あなた [957s - 968s]
+Does he ever break character? He didn't ask after the others in Lethodell. Or give any indication that he knew of her wound. It was refreshing, uncle, she said.
+
+👤 あなた [968s - 976s]
+They walked up the steps to the managing doors. Ben was thankful for the pewter burning lightly in her stomach to give strength to her still weak legs.
+
+👤 あなた [977s - 985s]
+Calcior had warned against using it too much, lest she grew dependent of but she saw a little alternative until she was healed.
+
+🎤 SPEAKER_2 [986s - 987s]
+That is wonderful.
+
+👤 あなた [988s - 1002s]
+Rinyu said. Perhaps once you are feeling better, we should take lunch. It has been warm lately despite the coming winter. That would be very pleasant, Vin said.
+
+👤 あなた [1003s - 1012s]
+Before, she'd found the impostor's noble bearing intimidating. Yet as she slipped into the persona of lady Violet, she experienced the same calmness as before.
+
+👤 あなた [1013s - 1024s]
+Then the thief was nothing to a man such as Renun. But Velette the socialite was another matter. Very good. Brendan said, pushing inside the entryway.
+
+👤 あなた [1024s - 1035s]
+However, let us attend to that on another day. For now, you would likely prefer to rest from your journey. Actually, my lord, I'd like to visit Caesar.
+
+👤 あなた [1036s - 1039s]
+I have some matters I must discuss with the steward.
+
+🎤 SPEAKER_2 [1039s - 1040s]
+Ah.
+
+👤 あなた [1040s - 1046s]
+Renew said. You will find him in the library. Working on one of my projects.
+
+🎤 SPEAKER_2 [1047s - 1047s]
+Thank you.
+
+👤 あなた [1048s - 1053s]
+Ben said. Brenu nodded, then walked away, his jewling king looking
+
+👤 あなた [1056s - 1067s]
+Vin frowned, trying to decide if he was completely sane. Could someone really adopt a persona that wholly? You do it. Reminded yourself.
+
+👤 あなた [1067s - 1077s]
+When you become Lady Violette. You show a completely different side of yourself. She turned, flaring pewter to help her climb the northern set of stairs.
+
+👤 あなた [1078s - 1087s]
+She let her flare lapse as she reached the top. Returning to a normal burn. As Calcior said, it was dangerous to flare metals for too extended a period.
+
+👤 あなた [1088s - 1096s]
+An allomancer could quickly make their body dependent. She took a few breaths. Climbing the stairs had been difficult even with pewter.
+
+👤 あなた [1096s - 1106s]
+Then walked down the corridor to the library. Sat at a desk beside a small coal stove on the far side of the small room. Writing on a pad of paper.
+
+👤 あなた [1107s - 1117s]
+He wore his standard steward's robes and a pair of thin spectacles sat at the end of his nose. Vin paused in the doorway regarding the man who had saved her life.
+
+👤 あなた [1118s - 1132s]
+Why is he wearing spectacles? I've seen him read before without them. He seemed completely absorbed by his work, periodically studying a large tome on a desk, then turning to scribble notes on his pad.
+
+👤 あなた [1133s - 1144s]
+You're an eleman, sir. Vin said quietly. Cesar paused, then sat down his pen and turned. What makes you say that, mister Swin?
+
+👤 あなた [1145s - 1153s]
+You got to Luther too quickly. Lord Renew keeps several swift messenger horses in his stables. I could have taken one of those.
+
+👤 あなた [1154s - 1166s]
+You found me at the palace. Vin said. Kelsier told me of his plans. And I correctly assumed that you had followed him. Locating you was a stroke of luck.
+
+👤 あなた [1167s - 1187s]
+One that nearly took me too long to achieve. Ben frowned. You killed the inquisitor. Killed? Says it asked. No mistress. It takes far more power than I possess to kill one of those monstrous I simply distracted him.
+
+👤 あなた [1188s - 1197s]
+Then stood in the doorway for a moment longer trying to figure out why Cezet was being so ambiguous. So are you an element, sir, or not?
+
+👤 あなた [1198s - 1210s]
+He smiled. Then he pulled the stool out from beside the desk. Please, sit down. Lynn did as requested, crossing the room and sitting on the stool. Her back to a massive bookshelf.
+
+👤 あなた [1212s - 1224s]
+What would you think? If I told you that I wasn't an elemencer? Sazor asked. I think that you were lying. Said. Have you known me to lie before?
+
+👤 あなた [1225s - 1234s]
+The best liars are those who tell the truth most of the time. Sacred smiled, regarding her through bespectacled eyes. That is true, I think.
+
+👤 あなた [1235s - 1247s]
+Still, what proof have you that I am an alarmancer? You did things that couldn't have been done without elemency. Oh? A missed bone for two months.
+
+👤 あなた [1247s - 1255s]
+Already you know all that is possible in the world? Then paused. Up until just recently, she hadn't even known much about alomancy.
+
+👤 あなた [1256s - 1272s]
+Perhaps there was more to the world than she had assumed. There's always another secret. Kelsier's words. So she said slowly, what exactly is a keeper?
+
+👤 あなた [1273s - 1289s]
+Says it smiled. Now that is a far more clever question, mistress. Keepers are storehouses. We remember things. So that they can be used in the future.
+
+👤 あなた [1290s - 1304s]
+Like religions, Vince said. Cesar nodded. Religious truths are my particular specialty. But you remember other things too? Says it, nodded.
+
+👤 あなた [1305s - 1316s]
+Like what? When said closing the tone he had been studying, languages, for instance. Then immediately recognized the glyph covered book.
+
+👤 あなた [1317s - 1329s]
+The book are found in the palace. How did you get it? I happened across it while searching for you. The terrace man said. It is written in a very old language.
+
+👤 あなた [1330s - 1340s]
+One that hasn't been spoken regularly in nearly a millennium. But you speak it? Ben asked. Says it nodded. Enough to translate this, I think.
+
+👤 あなた [1342s - 1358s]
+And how many languages do you know? A 172. Cezen said. Most of them such as are no longer spoken. The Lord Rulers Unity movement of the fifth century made certain of that.
+
+👤 あなた [1359s - 1370s]
+The language people now speak is actually a distant dialect of terrace. The language of my homeland. 172. Then thought with amazement.
+
+👤 あなた [1371s - 1387s]
+That sounds impossible. One man couldn't remember that much. Not one man. Seysud said. One keeper. What I do is similar to allomancy but not the same.
+
+👤 あなた [1388s - 1402s]
+You draw power from metals. I use them to create memories. How? Ben asked. Caesar shook his head. Perhaps another time, mistress.
+
+👤 あなた [1404s - 1415s]
+My kind, we prefer to maintain our secrets. The lord ruler hunts us with a remarkable, confusing passion. We are far less threatening than mistborn.
+
+👤 あなた [1416s - 1427s]
+Yet he ignores allomancers and seeks to destroy us. Hating the terrorist people because of us. Hating then asked. You're treated better than regular ska.
+
+👤 あなた [1428s - 1441s]
+You're given positions of respect. That is true, mistress. But in a way, the are more free. Most terrace men are raised from birth to be stewards.
+
+👤 あなた [1441s - 1451s]
+There are very few of us left. And the lord rulers breeders control our reproduction. No terrace man steward is allowed to have a family.
+
+👤 あなた [1451s - 1462s]
+Or even to bear children. Lynn snorted. That seems like it would be hard to enforce. Says it paused. Hand laying on the cover of the large book.
+
+👤 あなた [1463s - 1477s]
+Why, not at all. Said with a frown. All terrace men stewards are eunuchs, child. I assumed you knew that. Then froze, then she blushed furiously.
+
+👤 あなた [1479s - 1493s]
+I I'm sorry. Truly and surely, no apology is required. I was castrated soon after my birth, as is standard for those who will be stewards.
+
+👤 あなた [1494s - 1503s]
+Often I think I would have easily treated my life for that of a common ska. My people are less than slaves. They're fabricated automatons.
+
+👤 あなた [1503s - 1513s]
+Created by breeding programs trained from birth to fulfill the lord ruler's wishes. Vin continued to blush, cursing her lack of tact.
+
+👤 あなた [1514s - 1525s]
+Why anyone told her? Sezart, however, didn't seem offended. He never seemed to get angry about anything. Probably a function of his condition.
+
+👤 あなた [1526s - 1538s]
+Been thought. That's what the breeders must want. Dossil, even tempered stewards. But Vin said, frowning, you're a rebel says it.
+
+👤 あなた [1538s - 1550s]
+You're fighting the lord ruler. I am something of a deviant. Sezid said. And my people are not as completely subjugated as the lord ruler would believe, I think.
+
+👤 あなた [1551s - 1561s]
+We hide keepers beneath his very eyes. And some of us even gather the courage to break our training. He paused, then shook his head.
+
+👤 あなた [1562s - 1572s]
+It is not an easy thing, however. We are a weak people, mistress. We are eager to do as we are told. Quick to seek subjugation.
+
+👤 あなた [1574s - 1582s]
+Even I, whom you dub a rebel, immediately sought out a position of stewardship and subservience. We are not so brave as we would wish, I think.
+
+👤 あなた [1584s - 1598s]
+You are brave enough to save me, Vin said. Sage had smiled. Ah, but there was an element of obedience in that too. I promised master Kelsier that I would see to your safety.
+
+👤 あなた [1600s - 1608s]
+Ah, she thought. She had wondered if he'd had a reason for his actions. After all, who would risk their life simply to save Vin?
+
+👤 あなた [1609s - 1616s]
+She sat for a moment in thought and says it turns back to his book. Finally, she spoke again, drawing the terrorist man's attention.
+
+👤 あなた [1618s - 1634s]
+Says it. Yes, mistress. Three years ago. Says it paused, then set down his fountain pen. The facts are unclear, mistress. Most of the crew assumes it was mayor, I think.
+
+👤 あなた [1636s - 1650s]
+Mayor? Then asked. Calcius' wife? Says it about it. Apparently, was one of the only people who could have done it. In addition, the lord ruler himself implicated her.
+
+👤 あなた [1651s - 1667s]
+But wasn't she sent to the pits too? She died there. Sezod said. Master Cassia is reticent about the pits. But I sense that the scars he bears from that horrid place go much deeper than the ones you see on his arms.
+
+👤 あなた [1668s - 1676s]
+I don't think he ever knew if she was the traitor or not. My brother said that anyone would betray you if you had the right chance and a good enough motive.
+
+👤 あなた [1677s - 1688s]
+Says it frowned. Even if such a thing were true, I would not want to live believing it. It seems better than what happened to Kelsier.
+
+👤 あなた [1688s - 1698s]
+Being turned over to the lord ruler by one you thought you loved. Kelsey is different lately, Pin said. He seems more reserved.
+
+👤 あなた [1699s - 1715s]
+That because he feels guilty for what happened to me? I suspect that is part of it. Said. However, he is also coming to realize that there is a large difference between a small crew of thieves and organizing a large rebellion.
+
+👤 あなた [1716s - 1730s]
+He can't take the risks he once did. The process is changing him for the better, I think. Ben wasn't so certain. However, she remained silent, realizing with frustration how tired she was.
+
+👤 あなた [1731s - 1741s]
+Even sitting on a stool seemed strenuous to her now. Go and sleep, mistress. Said. Picking up his pen and relocating his place in the toes with his finger.
+
+👤 あなた [1743s - 1757s]
+You survived something that probably should have killed you. Give your body the thanks it deserves. Let it rest. Vin nodded tiredly, then climbed to her feet and left her scribbling quietly in the afternoon light.
+
+👤 あなた [1761s - 1769s]
+Sometimes I wonder what would have happened if I'd remained there. In that lazy village of my birth. I'd have become a smith.
+
+👤 あなた [1770s - 1779s]
+Like my father. Perhaps I'd have a family. Sons of my own. Perhaps someone else would have come to carry this terrible burden.
+
+👤 あなた [1780s - 1785s]
+Someone who could bear it far better than I. Someone who deserved to be a hero.
+
+🎤 SPEAKER_2 [1796s - 1796s]
+17.
+
+
+---
+
