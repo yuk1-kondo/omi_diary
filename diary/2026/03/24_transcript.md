@@ -1144,3 +1144,107 @@ Always go to Omi, but that's not why I love them. Go away. No.
 
 ---
 
+
+
+## 📝 School Poetry Event With Children Performing - 8250d565-3b56-4d74-8647-eace51f892dd
+
+**記録時間**: 2026-03-24 22:59:34
+
+### STT生テキスト
+
+👤 あなた [0s - 78s]
+Hi. Mister Peter.
+
+👤 あなた [82s - 85s]
+Oh, quite generous of you. Nice.
+
+👤 あなた [116s - 119s]
+Cool. Do you wet this yourself?
+
+👤 あなた [137s - 138s]
+Write the whole thing yourself to do?
+
+👤 あなた [186s - 201s]
+All the children got one.
+
+👤 あなた [205s - 212s]
+Make sure my phone's on quiet.
+
+👤 あなた [218s - 246s]
+Some pouchy sandwiches. No. A poetry stan.
+
+👤 あなた [255s - 266s]
+Oh, yeah. Is it not battles, is it? Rapper. Poetry battles? Thought you'd be having a battle with somebody else in their poetry.
+
+👤 あなた [270s - 273s]
+Okay. Oh, yeah. What's it done?
+
+👤 あなた [277s - 287s]
+Oh, alright. That's good. That's a good sign in it. That's a good sign, It'd be really cool when it grows out in the back. Cool.
+
+👤 あなた [320s - 321s]
+Yeah. Well, that's cool.
+
+👤 あなた [325s - 327s]
+There's been a few that's convinced, isn't it? Alright. Here we go.
+
+👤 あなた [341s - 343s]
+Of the children have such such a big audience.
+
+🎤 SPEAKER_2 [344s - 358s]
+I'm sure there's a couple of nerves people. See a bit nervous getting up to myself. But I know the children have been a lot of big yeah, their spoken word skills.
+
+🎤 SPEAKER_2 [359s - 367s]
+In terms of filming, it's absolutely fine to film your your own child or to film this. We just ask you don't put it on social media.
+
+🎤 SPEAKER_2 [369s - 381s]
+We're also we're going to do some individual videos. We've done some, not 36 others. Of the performances, which we'll go into then from the QR code I'm sure we can send that over to the children.
+
+🎤 SPEAKER_2 [382s - 399s]
+But if you would like to film the performance today, you're very welcome. Just, yeah, just open up on the socials. Also, because we've got such a fantastic turnout, at the end, if you're all in agreement, I'd love to get everyone's stood together upfront, parents and children, We'll get this banner of children for Maids.
+
+🎤 SPEAKER_2 [400s - 402s]
+And I know that this Bosnworth will appreciate the
+
+🎤 SPEAKER_2 [406s - 417s]
+Like you said, there's teas and coffees in the back for anyone who who needs it. And if you've got a lift for whether or you need to do, if you just this Williams or myself know, we'll we'll help out.
+
+🎤 SPEAKER_2 [418s - 423s]
+And now I'm gonna hand the event over to our competitors, and we will begin.
+
+🎤 SPEAKER_1 [441s - 448s]
+Say you hear right here, taking individuals. So first up, we have Erin.
+
+🎤 SPEAKER_1 [457s - 470s]
+Wake up, the sun gleans bright, so I get ready for a brilliant day outside. Which makes my heart glow. I glide on my roll escapes.
+
+🎤 SPEAKER_1 [470s - 473s]
+Round the block with my friends Olivia, and Brianna.
+
+🎤 SPEAKER_1 [478s - 491s]
+I fall over and hit my head. I went to the beach to have a picnic. For my main, I had a choice. Carl was my pick. Lunch with my family makes my heart skip.
+
+🎤 SPEAKER_2 [492s - 492s]
+It's a long time.
+
+🎤 SPEAKER_1 [513s - 513s]
+A day outside.
+
+🎤 SPEAKER_1 [615s - 628s]
+Five three. After I watched I hit my knee. I lay down for a while trying to smile. This ruined my day. Outside, there was a lot of rain. The rain, it hit me record my
+
+🎤 SPEAKER_1 [633s - 643s]
+Mounu, just like the rain, run all the way down the my day. If it didn't get worse, a friend called me. This year I found Welshie
+
+🎤 SPEAKER_1 [648s - 650s]
+But then didn't sunny.
+
+🎤 SPEAKER_1 [657s - 661s]
+Make a rainbow, and bits this made my day. Thank you.
+
+🎤 SPEAKER_1 [749s - 754s]
+Always go to Omi, but that's not why I love them. Go away. No.
+
+
+---
+
