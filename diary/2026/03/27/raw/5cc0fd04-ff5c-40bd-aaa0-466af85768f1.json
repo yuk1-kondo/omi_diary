@@ -1,0 +1,89 @@
+{
+  "id": "5cc0fd04-ff5c-40bd-aaa0-466af85768f1",
+  "created_at": "2026-03-26T23:37:15.072639+00:00",
+  "started_at": "2026-03-26T23:36:09.453541+00:00",
+  "finished_at": "2026-03-26T23:42:19.038462+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "Chromebook初期設定の段取り確認",
+    "overview": "話し手は、今後予定しているアップデートの前にChromebookの初期設定を済ませておいたほうがよいと考えている様子を述べている。また、外出時に鍵を相手宛に送る（預ける）ことになるだろうという見通しにも触れている。具体的な日程・タスクの締切や約束の時間などは示されていない。",
+    "emoji": "💻",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "bac97795-bfa0-46d6-8837-2eae6545c948",
+      "text": "またね アップデートしたら Chromeブックの初期設定をその前に やったほうがいいかなぁと思って 外外には 入れて はい 鍵は",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 0.0,
+      "end": 79.83099999999999,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    },
+    {
+      "id": "0c40723f-afc5-44f8-b514-8e69a5e6922b",
+      "text": "宛に来ると思う て",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 238.9804449081421,
+      "end": 259.0231949081421,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "cfc622a0-f033-46d1-bae0-42917f2bf5f4",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "5cc0fd04-ff5c-40bd-aaa0-466af85768f1",
+      "chunk_timestamps": [
+        1774568234.668,
+        1774568295.216,
+        1774568332.09,
+        1774568397.912,
+        1774568458.967,
+        1774568519.688
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-26T23:37:14.668000+00:00",
+      "duration": 322.662
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Chromebookの初期設定について\n- アップデート前に初期設定をしたほうが良さそう\n- 外で使う前提で準備を進めている様子\n\n## 鍵の受け取り\n- 鍵は外部宛に送られてくる予定"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
