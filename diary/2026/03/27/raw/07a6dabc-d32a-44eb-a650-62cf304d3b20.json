@@ -1,0 +1,96 @@
+{
+  "id": "07a6dabc-d32a-44eb-a650-62cf304d3b20",
+  "created_at": "2026-03-27T07:24:43.332441+00:00",
+  "started_at": "2026-03-27T07:18:14.418241+00:00",
+  "finished_at": "2026-03-27T07:26:55.739388+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "5月15日の梅田での飲み会予定確認",
+    "overview": "話し手は次回の集まりとして、5月15日金曜日18時から梅田でスペイン料理の店を予約している旨を共有し、参加者に日程を覚えておくよう伝えている。",
+    "emoji": "🍷",
+    "category": "social",
+    "action_items": [
+      {
+        "description": "5月15日の忘年会をカレンダーに登録する",
+        "completed": false,
+        "created_at": "2026-03-27T07:29:04.101992+00:00",
+        "updated_at": null,
+        "due_at": "2026-05-15T09:00:00+00:00",
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": [
+      {
+        "title": "梅田でスペイン料理の飲み会（忘年会メンバー）",
+        "description": "忘年会メンバーによる次回の集まり。梅田でスペイン料理を予定。",
+        "start": "2026-05-15T09:00:00+00:00",
+        "duration": 120,
+        "created": false
+      }
+    ]
+  },
+  "transcript_segments": [
+    {
+      "id": "13590a0b-02a4-4762-a423-66860a4bb817",
+      "text": "忘年会 次回も決まっております覚えといて 5月15日金曜日5月15日金曜日18時 梅田でスペイン料理を用意しておりますので 金曜日です",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.384185791015625e-07,
+      "end": 50.02687523841858,
+      "translations": [
+        {
+          "lang": "ja",
+          "text": "年末パーティー"
+        }
+      ],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "0f6f2a99-5288-40d6-97a3-703d0f36a292",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "07a6dabc-d32a-44eb-a650-62cf304d3b20",
+      "chunk_timestamps": [
+        1774596282.708,
+        1774596357.565,
+        1774596418.357
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T07:24:42.708000+00:00",
+      "duration": 256.251
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 次回の飲み会は「5月15日（金）18時」  \n- 場所は「梅田のスペイン料理店」  \n- 忘年会の次回日程として案内があった\n\n【決めたこと】\n- 未確認（参加可否などは会話内で明言されていない）\n\n【次の一歩】\n- カレンダーや手帳に「5月15日（金）18時／梅田でスペイン料理」とメモしておく"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed",
+  "call_id": null
+}
