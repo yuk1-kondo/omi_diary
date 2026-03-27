@@ -1,0 +1,73 @@
+{
+  "id": "a3c6ea12-493f-4d92-adde-2134c8c2357b",
+  "created_at": "2026-03-27T07:46:26.204721+00:00",
+  "started_at": "2026-03-27T07:36:57.271098+00:00",
+  "finished_at": "2026-03-27T07:48:04.263976+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "会議参加者の増減についての雑談",
+    "overview": "話者は、ここに来て3人いなくなるのでマイナスだと思っていたが、結果的にそれがプラスになってしまったと状況を振り返りつつ、椅子に座る位置などを確認する軽い雑談をしている。具体的な決定事項や次の行動は示されていない。",
+    "emoji": "💬",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "217e692e-751a-4776-87e1-a63d21bc62ad",
+      "text": "椅子上でいいか ここに来て3人いなくなるけどマイナスかと思ったけどあれ謝るプラスになってしまいましたね ツケ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 8.392333938900265e-08,
+      "end": 30.344125083923345,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "9a46087a-dca5-45ef-a133-e78a59dcb5cc",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "a3c6ea12-493f-4d92-adde-2134c8c2357b",
+      "chunk_timestamps": [
+        1774597585.214,
+        1774597646.011,
+        1774597706.74
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T07:46:25.214000+00:00",
+      "duration": 242.768
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「ここに来て3人いなくなる」と感じたが、結果としては「マイナスではなくプラスになった」と話していた内容\n- 詳しい状況や理由は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 「なぜプラスだと感じたのか」を、自分なりの言葉で一度ゆっくり思い返してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed",
+  "call_id": null
+}
