@@ -1,0 +1,84 @@
+{
+  "id": "8b6030ac-5086-40a6-993f-66c48af4aab1",
+  "created_at": "2026-03-27T09:54:54.596700+00:00",
+  "started_at": "2026-03-27T08:29:38.883072+00:00",
+  "finished_at": "2026-03-27T10:07:11.917834+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "学校アカウント削除時のデータ管理を相談",
+    "overview": "話し手たちは、先生の学校Googleアカウントがなくなった際のデータ消失リスクについて話し合っている。Canva ProやGoogleドライブ上のデータがアカウント削除とともに消えてしまう問題を懸念し、共有ドライブに入れておけば他校へ異動してもデータを残せる可能性があると確認している。また、学校側からは、退職・異動後はこの学校のアカウントは削除するよう求められており、半年から1年程度は残しておき、その年の12月頃に削除するといった運用を検討している様子がうかがえる。さらに、30日に来てもらってここで作業する案や、来週別の学校へ行けるかなどのスケジュール感にも触れているが、具体的な日時までは明言されていない。",
+    "emoji": "💾",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "4f3e8e22-b3a6-4db0-bc96-35a13fa2c9b1",
+      "text": "を返せばいいんですけど なくなる 大阪真奈美で作っていいですかそれを自分のGoogleアカウント作って 30日来てもらってここでやる キャンバプロプロ そもそも先生のアカウントがなくなった時点でキャンバのデータ消えてしまう ドライブケルン辛いなぁ 共有ドライブに入れとけば大丈夫 例えば他校に移動する場合はアカウントがそのまま移動 ここからいなくなる場合は そのここの学校アカウントで削除してくださいって言われてるんですよだから 半年間は1年間置いとってもいいみたいな形でその年の12月から消して 最初最初 消してくれへん ややこしい ほんまですか はい 鳥羽 大容量大容量です あぁ はい ややどんなやつ殺すか やりにくいで 阿呆 違う学校 はい 来週来週行ける 辺 が 赤ができる ます",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.149841513230058e-07,
+      "end": 309.76262551498405,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "ec18ad23-7a82-4ba3-8e0d-848c63ca937e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "8b6030ac-5086-40a6-993f-66c48af4aab1",
+      "chunk_timestamps": [
+        1774605293.665,
+        1774605356.312,
+        1774605416.815,
+        1774605477.052,
+        1774605537.323,
+        1774605597.705,
+        1774605658.012,
+        1774605718.429,
+        1774605778.934,
+        1774605839.222,
+        1774605900.362,
+        1774605960.646,
+        1774606020.688,
+        1774606094.3
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T09:54:53.665000+00:00",
+      "duration": 818.717
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## アカウントとCanvaデータ\n- 先生アカウント消えるとCanvaデータも消える\n- 新しく自分のGoogleアカウント作成の話が出る\n- Canva Proを新アカウントで使う案がある\n\n## データ保存と共有ドライブ\n- データは共有ドライブ保存なら削除回避できる\n- 共有ドライブに入れればアカウント削除後も安心\n- 大容量ドライブで保存余裕がある\n\n## 異動・退職時のアカウント扱い\n- 他校異動ならアカウント継続利用の可能性\n- 学校から完全離れる場合は削除依頼が必要\n- 半年〜1年は残して12月頃に削除予定\n\n## 次の予定・対応\n- 30日に来てもらい設定作業を行う\n- 来週また訪問して対応継続予定"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
