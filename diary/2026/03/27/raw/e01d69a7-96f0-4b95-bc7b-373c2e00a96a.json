@@ -1,0 +1,82 @@
+{
+  "id": "e01d69a7-96f0-4b95-bc7b-373c2e00a96a",
+  "created_at": "2026-03-27T11:47:34.507797+00:00",
+  "started_at": "2026-03-27T10:35:37.137755+00:00",
+  "finished_at": "2026-03-27T11:49:25.574974+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "料理の話題：筑前煮とパンの組み合わせ",
+    "overview": "短い独り言のような発話で、冒頭に強い言葉が出た後、「筑前煮あるやんか、あれにコッペパンやったらすごいやつ、なんかご飯レシピ」といった形で、筑前煮とコッペパン（またはご飯）を組み合わせたレシピアイデアについて雑談的に話している内容。具体的なレシピや手順、予定などは示されていない。",
+    "emoji": "🍱",
+    "category": "entertainment",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "7a27740d-c09d-45e7-9faa-a2b2869373e6",
+      "text": "死ね なんかさー筑前煮あるやんかあれに何かコッペパンやったらすごいやつなんかご飯 レシピ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.651214714433081e-07,
+      "end": 27.544124734878523,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "0241e26c-14e9-4614-b8b7-485a8bdcb7a7",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "e01d69a7-96f0-4b95-bc7b-373c2e00a96a",
+      "chunk_timestamps": [
+        1774612054.703
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T11:47:34.703000+00:00",
+      "duration": 121.722
+    },
+    {
+      "id": "817d2f74-f8cb-49ed-9b67-b294ae08a96d",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "e01d69a7-96f0-4b95-bc7b-373c2e00a96a",
+      "chunk_timestamps": [
+        1774612167.245
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T11:49:27.245000+00:00",
+      "duration": 121.402
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 筑前煮の話題\n- 筑前煮について言及  \n- 食べ合わせの話に展開  \n\n## コッペパンとの組み合わせ\n- 筑前煮とコッペパンを組み合わせる発想  \n- 「すごいやつ」として面白い組み合わせ  \n\n## ご飯レシピへの関心\n- ご飯向けレシピを探している様子  \n- 筑前煮を活かしたレシピに興味  \n\n## 次のステップ\n- 筑前煮とパンのレシピを調べる  \n- 筑前煮アレンジご飯レシピを検討する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
