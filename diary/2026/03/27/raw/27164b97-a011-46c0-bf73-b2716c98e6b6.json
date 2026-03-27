@@ -1,0 +1,64 @@
+{
+  "id": "27164b97-a011-46c0-bf73-b2716c98e6b6",
+  "created_at": "2026-03-27T02:58:31.995278+00:00",
+  "started_at": "2026-03-27T01:19:33.009068+00:00",
+  "finished_at": "2026-03-27T02:59:01.584705+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "Gmailが送信できない問題の報告",
+    "overview": "会話では、Gmailでメールが送信できないという技術的な問題が簡潔に報告されている。詳細な状況（エラーメッセージや発生条件など）や解決策の検討にはまだ至っておらず、現時点では「Gmailが送れない」という症状のみが共有されている段階である。",
+    "emoji": "📧",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "58168204-8902-4412-83eb-6fabe9c7e876",
+      "text": "問題 Gmail送れない",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.5667437714437256e-07,
+      "end": 20.002750356674483,
+      "translations": [
+        {
+          "lang": "ja",
+          "text": "質問"
+        }
+      ],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Gmail送信の問題発生\n- Gmailでメールが送信できない\n- 具体的なエラー内容はまだ不明\n\n## 次のステップ\n- エラー表示や状況を詳しく伝える\n- 使用端末・アプリかブラウザかを共有する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
