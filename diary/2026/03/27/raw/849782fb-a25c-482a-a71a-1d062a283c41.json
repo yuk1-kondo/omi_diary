@@ -1,0 +1,88 @@
+{
+  "id": "849782fb-a25c-482a-a71a-1d062a283c41",
+  "created_at": "2026-03-27T06:05:50.474807+00:00",
+  "started_at": "2026-03-27T06:00:27.680846+00:00",
+  "finished_at": "2026-03-27T06:12:42.768975+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "数学課題提出状況の振り返り",
+    "overview": "話し手は、全3回ある数学の課題提出のうち1回目の提出を忘れており、中身ができていないことを説明している。また、本日「数学関係2」など複数の数学課題を同時に提出したこと、それ以外の課題や態度面についても言及しており、全体として自分の課題提出状況と学習態度を振り返っている内容である。",
+    "emoji": "📚",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "771e119d-e95d-4870-915d-fba2387fb0a8",
+      "text": "けれども3回の課題提出と3階の確 1回目の課題提出はとても さえ忘れていたので中身はできていません 確認 本日の 数学関係2数学ちょっと同時にさせていただきます させていただきましたそれ以外の はい 2 課題 態度が張っていて います",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 9.536748279970197e-09,
+      "end": 117.65650000953676,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "8a42b595-3a94-40dc-82f1-2f066ab0bbbf",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "849782fb-a25c-482a-a71a-1d062a283c41",
+      "chunk_timestamps": [
+        1774591549.595,
+        1774591610.005,
+        1774591671.028,
+        1774591731.78,
+        1774591792.478
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T06:05:49.595000+00:00",
+      "duration": 363.40500000000003
+    },
+    {
+      "id": "3bf4cc07-4247-4e47-bbb9-3bae10f9463f",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "849782fb-a25c-482a-a71a-1d062a283c41",
+      "chunk_timestamps": [
+        1774591890.638,
+        1774591952.459,
+        1774592017.03
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T06:11:30.638000+00:00",
+      "duration": 247.954
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 課題提出状況  \n- 全部で課題提出は3回予定  \n- 1回目の課題は中身が未完成  \n- 提出そのものを忘れていた様子  \n\n## 本日の数学に関する内容  \n- 数学関係2と数学を同時に実施  \n- 本日分の確認は一応完了  \n\n## 課題への取り組み姿勢  \n- 課題への態度が張っていると自己認識  \n- 取り組み方に課題があると感じている  \n\n## 次のステップ  \n- 1回目課題の中身を完成させる  \n- 今後の課題提出を忘れない仕組み作り  \n- 数学2と他の数学内容を計画的に進める"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "b70d5aa8-3137-4190-b84f-83a1f0e7fe43",
+  "call_id": null
+}
