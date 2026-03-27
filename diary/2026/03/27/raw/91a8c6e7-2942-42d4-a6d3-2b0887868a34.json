@@ -1,0 +1,76 @@
+{
+  "id": "91a8c6e7-2942-42d4-a6d3-2b0887868a34",
+  "created_at": "2026-03-27T06:24:31.224322+00:00",
+  "started_at": "2026-03-27T06:03:14.824221+00:00",
+  "finished_at": "2026-03-27T06:30:07.507553+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "来年度の部活動参加の依頼",
+    "overview": "会話では、話し手が「来年度も部活をお願いします」と依頼しており、来年度も継続して部活動に参加・協力してほしいというお願いが簡潔に述べられている。具体的な日程やタスクの詳細には触れられていない。",
+    "emoji": "🏫",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "b489cb78-e8c9-4148-9278-ac140e466353",
+      "text": "来年度 はい 期間 部活 お願いします",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 8.96453968834976e-08,
+      "end": 49.8868750896454,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "dbf6a9fe-a8d7-47fa-a15f-5cc02180262a",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "91a8c6e7-2942-42d4-a6d3-2b0887868a34",
+      "chunk_timestamps": [
+        1774592670.802,
+        1774592731.391,
+        1774592791.675,
+        1774592852.166,
+        1774592912.658,
+        1774592972.998
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T06:24:30.802000+00:00",
+      "duration": 422.558
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 来年度の部活動について、何か依頼・お願いをした（詳細は未確認）\n\n【決めたこと】\n- 未確認\n\n【次の一歩】\n- 来年度の部活動について、誰に・何をお願いしたかを書き出して整理してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
