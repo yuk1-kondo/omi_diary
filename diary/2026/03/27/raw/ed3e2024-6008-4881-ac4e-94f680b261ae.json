@@ -1,0 +1,118 @@
+{
+  "id": "ed3e2024-6008-4881-ac4e-94f680b261ae",
+  "created_at": "2026-03-27T00:44:49.481803+00:00",
+  "started_at": "2026-03-27T00:17:40.899745+00:00",
+  "finished_at": "2026-03-27T00:55:18.868356+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "職員行動入力と賢者口座設定の依頼",
+    "overview": "会話では、職員の行動入力が行われないため、中途機能の選択時に職員情報が自動で入るようシステム設定を変更してほしいという要望が出されている。また、時間のあるときでよいので「賢者」の機種別メニューにある口座担当者の入力設定について、特定項目のチェックを外し、2組担当は松村先生となるようにし、さらに4月から追加設定をしてもらいたい、という具体的な依頼が伝えられている。",
+    "emoji": "🖥️",
+    "category": "work",
+    "action_items": [
+      {
+        "description": "賢者の口座担当者の入力をする",
+        "completed": false,
+        "created_at": "2026-03-27T00:57:31.123723+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      },
+      {
+        "description": "賢者の機種別メニューで2組担当を松村先生に設定する",
+        "completed": false,
+        "created_at": "2026-03-27T00:57:31.123723+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      },
+      {
+        "description": "賢者の機種別メニューで2組のチェックを外す設定を行う",
+        "completed": false,
+        "created_at": "2026-03-27T00:57:31.123723+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "4c663035-5517-4e5b-b1e4-baba807b123d",
+      "text": "た ね 番号合わせや 職員職員行動打たへんから 中途機能が何か選んだら職員勝手に入るようにしてくれたら はいはいありがとうございます 以上 データうまくいたら すいませ また時間ある時でいいので賢者の口座担当者の入力をしてほしいんです 賢者の 何 機種別メニューのところに お願いしたいのがなんで チェック外してもらって2組やったら松村先生 12 4月から追加するようにしてもらえたら",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.3923650499236828e-07,
+      "end": 168.42337486076343,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "60bb5528-b9a1-4217-a79f-6bd4ea6fda3a",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ed3e2024-6008-4881-ac4e-94f680b261ae",
+      "chunk_timestamps": [
+        1774572288.654,
+        1774572372.514,
+        1774572438.489
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T00:44:48.654000+00:00",
+      "duration": 269.357
+    },
+    {
+      "id": "b3cb7600-31bb-4656-a301-7cd6edb22df7",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ed3e2024-6008-4881-ac4e-94f680b261ae",
+      "chunk_timestamps": [
+        1774572559.173,
+        1774572623.854,
+        1774572687.562,
+        1774572768.423,
+        1774572830.323,
+        1774572900.495,
+        1774572914.407
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T00:49:19.173000+00:00",
+      "duration": 476.036
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 番号合わせ・職員行動の設定要望\n- 中途機能選択で職員が自動入力されるよう要望\n- 職員側でいちいち打たなくていい設定希望\n\n## 賢者の口座担当者入力依頼\n- 賢者の「機種別メニュー」での設定変更を依頼\n- 対象のチェックを外して設定変更してほしい\n\n## 担当者設定の具体内容\n- 2組担当を松村先生に設定してほしい\n- 適用開始は「4月12日から」で追加設定希望\n\n## 次のステップ\n- 時間あるときに賢者の口座担当者を入力\n- 機種別メニューでチェック外しと担当者追加を実施"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
