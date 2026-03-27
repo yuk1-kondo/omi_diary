@@ -1,0 +1,77 @@
+{
+  "id": "cdc3db02-a5a6-4521-a197-7cbbe41a339b",
+  "created_at": "2026-03-27T00:30:33.684809+00:00",
+  "started_at": "2026-03-27T00:14:41.974995+00:00",
+  "finished_at": "2026-03-27T00:36:18.978838+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "次年度講座情報の修正と担当者入力",
+    "overview": "よせ先生から次年度の講座情報データを受け取り、それを元に講座時間割システム上で口座情報を修正する作業について話している。2021年度1学期でログインし、口座作成画面を開いて、該当講座の情報をコピーしつつ、担当者を入力し直しておいてほしいという依頼内容が中心。週の設定は両方とも入力する必要があるが、一部データ（本来入れたい情報）は現時点ではシステム上入力できず、4月に別の良い方法で改めて登録する予定であることも確認している。最後に『口座担当職員データ』に関する操作が示唆されているが、詳細は言及されていない。",
+    "emoji": "📚",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "bf650421-50c3-4609-81d0-c6c1c48592db",
+      "text": "大丈夫 よせ先生お手 もらったんですけど次年度の口座情報を コピーでしょなんでそれに直して担当者を入力してもらえたらありがたいなと思ってちょっと待って はいそう開いていただきまして 2,020 1学期でログインしてもらいまして口座時間割システムの口座作成の どっちも週に入れといてもらうどっちも入れてもらう 無視 無視で本当は入れたらもうそれ入れたいんですけどちょっとそれは入れれないので4月にまた入れます 何か良い方法で 口座担当職員データ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.959106547630654e-08,
+      "end": 119.27649995040892,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "e2ceed22-34ab-4188-ae52-8b259f76f756",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "cdc3db02-a5a6-4521-a197-7cbbe41a339b",
+      "chunk_timestamps": [
+        1774571432.362,
+        1774571489.077,
+        1774571550.408,
+        1774571629.775,
+        1774571689.882,
+        1774571750.81,
+        1774571811.304
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T00:30:32.362000+00:00",
+      "duration": 500.544
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 口座情報修正依頼  \n- 次年度の口座情報をコピーで作成  \n- 内容を修正し担当者を入力する必要  \n\n## システムへのログイン・操作  \n- 2021年度1学期でシステムにログイン  \n- 口座時間割システムの「口座作成」を使用  \n- 対象は「どっちも週」に入力  \n\n## 入力制限と対応予定  \n- 本来入れたい情報は現時点で入力不可  \n- その情報は4月に再度入力予定  \n\n## 次のステップ  \n- 担当者入力を完了させておく  \n- 4月に不足情報をシステムへ追加入力"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
