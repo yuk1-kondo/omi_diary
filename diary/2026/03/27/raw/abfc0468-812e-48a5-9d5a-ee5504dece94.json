@@ -1,0 +1,83 @@
+{
+  "id": "abfc0468-812e-48a5-9d5a-ee5504dece94",
+  "created_at": "2026-03-27T08:08:06.861743+00:00",
+  "started_at": "2026-03-27T08:08:07.917519+00:00",
+  "finished_at": "2026-03-27T08:19:39.775644+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "年度末の授業変更と端末移行の打ち合わせ",
+    "overview": "参加者たちが年度末に向けた準備について短く確認している。授業の時間割変更や行事に伴う授業変更があった場合は、必ず自分たちの側から連絡（情報を投げる）する方針を共有している。また、スライド作成などの作業を最初は一緒に手伝いながら進めることや、2人で入り服装なども含めてサポートする形で動くことも話題となっている。さらに、新しい端末への移行が近く予定されていることにも触れているが、具体的な日程やタスクの締切は示されていない。",
+    "emoji": "📚",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "03c86cef-4d4c-4213-8e7d-2a9469ff126a",
+      "text": "79 あ 始まりますね 始まってしまうよ そう お疲れ様 やばいやばい時間が準備 やばい 何か知らないちょっとちょっと漏らしてくれですよね 投げたいなぁ投げたいもともとあそこあそこにあったからちょっとできる 始め年度末の 新23 できてるから後作ったりするのは一緒にちょっと最初手伝ってスライドして行けたら はいはい 投げたいなぁ 2人で入るんでまぁ服か何かに入ってサポートする感じで 一緒に 1番 やっぱ時間割変更行事とかで授業変更があったときは必ずこっちから 投げると やります 展開 また連絡しますねちょっとまたはい 新しい端末に変わるでしょう",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 237.7929997615814,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "b50ea70b-aa43-49f9-b3c4-9c6c73a41697",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "abfc0468-812e-48a5-9d5a-ee5504dece94",
+      "chunk_timestamps": [
+        1774598887.871,
+        1774598948.157,
+        1774599008.082,
+        1774599068.138,
+        1774599128.138,
+        1774599189.007,
+        1774599249.817,
+        1774599310.206,
+        1774599370.867,
+        1774599430.869,
+        1774599493.088,
+        1774599555.761,
+        1774599616.696
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T08:08:07.871000+00:00",
+      "duration": 849.7070000000001
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 年度末に向けて、スライド作成などを一緒に進める話が出た\n- 授業変更（時間割変更・行事など）があったときは、必ずこちらから連絡・共有する方針を確認した\n- 端末が新しいものに変わる予定であることが話題に出た（詳細は未確認）\n\n【決めたこと】\n- 授業変更があったときは、必ずこちらから連絡・共有する\n\n【次の一歩】\n- 新しい端末への切り替え時期や手順について、担当者または関係者に確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
