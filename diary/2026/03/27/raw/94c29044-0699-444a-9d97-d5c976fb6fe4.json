@@ -1,0 +1,74 @@
+{
+  "id": "94c29044-0699-444a-9d97-d5c976fb6fe4",
+  "created_at": "2026-03-27T04:03:48.591193+00:00",
+  "started_at": "2026-03-27T03:58:13.926748+00:00",
+  "finished_at": "2026-03-27T04:05:55.309307+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "課題テストの結果と対応の確認",
+    "overview": "話し手は「課題が出るテスト」として実施された評価について振り返っている。1回目の課題はすでに提出済みであり、そのうえで本人から「伝えた内容をしてください」との申し出があったため了承したことを述べている。結果として、テストでは得点が半分に満たなかったことが共有され、課題提出状況とテスト結果を踏まえた対応が検討されている様子がうかがえる。",
+    "emoji": "📘",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "584c1238-47ca-44eb-a3ed-723e7c8ed554",
+      "text": "課題が出るテスト と思っていま 1回目の課題は持ってきたんですが を伝えた してくださいって言うふうに本人が申し出たのでいいよ 半分は取れてなかったです",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.3651122660339752e-07,
+      "end": 60.04825023651122,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "5a4eecd5-7cf1-45e4-bfaf-87cc89c7a47e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "94c29044-0699-444a-9d97-d5c976fb6fe4",
+      "chunk_timestamps": [
+        1774584228.146,
+        1774584289.037,
+        1774584349.443,
+        1774584413.85
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T04:03:48.146000+00:00",
+      "duration": 305.786
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## テストと課題の状況\n- 課題が出るテストだと認識している  \n- 1回目の課題は提出済み  \n- 課題の得点は半分未満だった  \n\n## 本人の申し出\n- 本人から説明をお願いされた  \n- 教員は説明の申し出を了承した  \n\n## 次のステップ\n- 課題内容や解き方の説明を受ける  \n- 今後の課題で得点アップを目指す"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "b70d5aa8-3137-4190-b84f-83a1f0e7fe43",
+  "call_id": null
+}
