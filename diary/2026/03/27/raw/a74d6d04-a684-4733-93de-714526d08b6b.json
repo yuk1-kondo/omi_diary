@@ -1,0 +1,90 @@
+{
+  "id": "a74d6d04-a684-4733-93de-714526d08b6b",
+  "created_at": "2026-03-27T05:57:07.661626+00:00",
+  "started_at": "2026-03-27T05:39:12.878093+00:00",
+  "finished_at": "2026-03-27T06:03:47.674748+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "授業の提出と点数連絡についての会話",
+    "overview": "会話では、まずソフトウェア導入に関する制約（有料ソフトが使えないなど）について触れた後、事務用ならアカウント作成で対応可能といったやりとりがある。その後、話題は提出物と本日の点数に関する連絡へ移り、「続きは科学基礎の提出をよろしくお願いします」といった形で、科学基礎科目の課題提出を促して会話が締めくくられている。",
+    "emoji": "📚",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "5e13de01-f169-44e6-866b-32941f7c7623",
+      "text": "で作ってるんですけどソフト入れられへん 有料とか使えなかったですね任せる 事務やったらもうアカウント作ってもはいはい 移動される時は 行きましょう",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.0217896690155612e-07,
+      "end": 49.28687520217895,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    },
+    {
+      "id": "eab5ca6d-6bcc-4ee7-905a-68bfc2d1dc6b",
+      "text": "すいません 提出に関して 今日の点数ですけれども はい続き科学基礎よろしくお願いします お願いします",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1224.995877981186,
+      "end": 1274.802752981186,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "3b6e495d-81e8-492f-a2c1-1ada2b578cc9",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "a74d6d04-a684-4733-93de-714526d08b6b",
+      "chunk_timestamps": [
+        1774591027.057,
+        1774591088.661,
+        1774591174.743,
+        1774591235.254,
+        1774591296.08,
+        1774591356.189,
+        1774591416.204
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T05:57:07.057000+00:00",
+      "duration": 511.029
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 提出・点数について\n- 今日の提出物について言及\n- 今日の点数に関する案内あり\n\n## 科学基礎の連絡\n- 科学基礎の続きについて依頼\n- 今後も科学基礎をよろしくと締めくくり\n\n## 次のステップ\n- 科学基礎の提出物を準備・提出する\n- 今日の点数を確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "b70d5aa8-3137-4190-b84f-83a1f0e7fe43",
+  "call_id": null
+}
