@@ -1,0 +1,72 @@
+{
+  "id": "5626bb05-ead9-427f-8005-67d503ab74a7",
+  "created_at": "2026-03-27T01:35:17.084826+00:00",
+  "started_at": "2026-03-27T01:11:43.584443+00:00",
+  "finished_at": "2026-03-27T01:37:16.462380+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "寿司を食べに行く話",
+    "overview": "短いやり取りの中で、寿司を食べに行く・寿司に決めるといった文脈が示唆されているが、具体的な日時や約束事までは明確になっていない。",
+    "emoji": "🍣",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "b2ff70ad-fb50-4b2a-8834-5563383a01ae",
+      "text": "決まっ 寿司",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.765655580105886e-07,
+      "end": 20.10275027656556,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a60ce6aa-5e3a-4852-a50b-5d6ae88f7515",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "5626bb05-ead9-427f-8005-67d503ab74a7",
+      "chunk_timestamps": [
+        1774575316.825,
+        1774575376.762
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T01:35:16.825000+00:00",
+      "duration": 84.339
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「決まっ 寿司」という言葉が出ているが、文脈は未確認\n- どういう話題か（食事の予定なのか、別のことなのか）は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 「決まっ 寿司」が何を指しているか（予定・希望・メモなど）を、自分なりの言葉で少しだけ補足してメモに残しておく"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed",
+  "call_id": null
+}
