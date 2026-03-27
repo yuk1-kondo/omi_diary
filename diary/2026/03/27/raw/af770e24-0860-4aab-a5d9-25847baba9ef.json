@@ -1,0 +1,84 @@
+{
+  "id": "af770e24-0860-4aab-a5d9-25847baba9ef",
+  "created_at": "2026-03-27T04:17:39.053741+00:00",
+  "started_at": "2026-03-27T03:59:33.977748+00:00",
+  "finished_at": "2026-03-27T04:25:55.730518+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "エッセンス購入とアカウント登録方法の確認",
+    "overview": "話し手はスタディースタディー経由で購入したエッセンスがすでに届いているが、登録方法がよく分かっておらず、いったん登録するとそのアカウントに紐づき続ける仕様について確認している。現在、数学で購入処理がされているようで、登録方法を問い合わせており、それが分かり次第すぐにエッセンスを渡せる状態である。また、鍵や小演習の割当については問題ないとの認識が示されている。",
+    "emoji": "🧾",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "f4e44201-2e3e-4b50-b107-3c2d84094259",
+      "text": "スタディースタディー ぶりだけエッセンス購入したんで届いてるんですけど登録の仕方がちょっとちゃんとわかってなくて 1回登録するとそのアカウントにもずっと紐付くみたいなこと書かれててねぇどういう風にしたいのかなと思って今数学でサー 購入されてるらしいんでちょっと登録の仕方をちょっと聞いてるんでそれができたらすぐお渡しできるようになってるんで 鍵が もともと小演習を割当 全然問題ないと思います 引き出し ですけど",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.5667417819240654e-07,
+      "end": 89.87237535667416,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "76805909-3efe-4579-8104-ba5bbb76db07",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "af770e24-0860-4aab-a5d9-25847baba9ef",
+      "chunk_timestamps": [
+        1774585105.277,
+        1774585166.36,
+        1774585226.431,
+        1774585287.023,
+        1774585347.343,
+        1774585408.323,
+        1774585468.628,
+        1774585529.184,
+        1774585591.54
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-27T04:18:25.277000+00:00",
+      "duration": 606.265
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## エッセンス購入状況  \n- 「ぶりだけエッセンス」をすでに購入済み  \n- 商品自体はすでに手元に届いている  \n\n## アカウント登録の疑問点  \n- 一度登録するとアカウントに永久紐付けと記載あり  \n- 具体的な登録方法がよく分かっていない  \n\n## 数学用アカウントとの関係  \n- 既に数学で何かを購入済みらしい  \n- そのアカウントへの紐付け方法を確認中  \n\n## 受け渡しと利用条件  \n- 登録方法が分かり次第すぐ受け渡し可能  \n- 元々の小演習割り当てでも問題なしとの認識  \n\n## 次のステップ  \n- 正しい登録手順を確認する  \n- 購入済みアカウントにエッセンスを紐付ける  \n- 紐付け後、利用者へすぐ渡せるよう準備する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [
+    {
+      "plugin_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## エッセンス購入状況  \n- ぶりだけエッセンスを既に購入済み  \n- 商品自体は手元に届いている  \n\n## アカウント登録の疑問点  \n- 一度登録するとアカウントに永久紐づく説明あり  \n- 紐づき方・登録方法の具体的手順が不明  \n\n## 数学関連の利用状況  \n- 数学で既に購入・利用予定がある様子  \n- 登録完了次第すぐ受け渡し可能な状態  \n\n## 割り当て・利用に関する補足  \n- もともと小演習への割り当てを想定  \n- 小演習への割り当て自体は問題なしとの認識  \n\n## 次のステップ  \n- 正しい登録手順を確認・問い合わせる  \n- 登録完了後、エッセンスを即受け渡しする"
+    }
+  ],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
