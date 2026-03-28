@@ -281,3 +281,209 @@ Yep. I got on to that in a minute. I'm just doing something. Thank you. Oh, yeah
 
 ---
 
+
+
+## 📝 Family Plans Camping Trip And Gear Purchases - 678d42b4-6c89-4779-b947-480ced1a0838
+
+**記録時間**: 2026-03-28 21:36:24
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 1s]
+It's all booked.
+
+🎤 SPEAKER_2 [1s - 2s]
+Nice. So thank fine.
+
+🎤 SPEAKER_1 [2s - 17s]
+I've got login details. 50 pound now, and then 100 and whatever later. The good thing is they have so the the the they have a tank museum there, but this is like well known across The UK as being an amazing museum.
+
+🎤 SPEAKER_1 [17s - 18s]
+Right? This is not just a
+
+🎤 SPEAKER_2 [18s - 19s]
+Yeah.
+
+🎤 SPEAKER_1 [19s - 26s]
+It's indoor. So good for not nice weather. And it would be about it's not that cheap to get into No.
+
+🎤 SPEAKER_3 [26s - 27s]
+Unless you're in a universal credit.
+
+🎤 SPEAKER_1 [28s - 32s]
+Show proof of your investment credit, and you get, like, like, £5 each of them to go in.
+
+👤 あなた [34s - 35s]
+So around £60 at class How do we prove that?
+
+🎤 SPEAKER_1 [35s - 44s]
+Just You just have to show something like that. Okay. I don't know. I'll double check it. So that's quite good. But there's loads to do around there. We're literally walking distance to Corv Castle.
+
+🎤 SPEAKER_1 [44s - 47s]
+Might be nice one day to think let's not jump in the car. Let's
+
+🎤 SPEAKER_2 [47s - 48s]
+walk.
+
+🎤 SPEAKER_1 [49s - 56s]
+I hope it'd be okay. I put a request on there for sheltered. I think what's likely the case is that we won't be right by where the boys play football.
+
+🎤 SPEAKER_1 [57s - 64s]
+But they're bit older now to to go. They have kind of fields that have lots of out stuff on. Yeah. We'll see. You know, really know, do you?
+
+👤 あなた [65s - 77s]
+Yeah. I imagine they could end up making some friends and then we won't see much of them It does say you need 25 meter cable for I'm blimey.
+
+🎤 SPEAKER_1 [77s - 81s]
+For electricity. So we might need to go and get an extension. I know how long ours is.
+
+👤 あなた [82s - 86s]
+Yeah. We'll on the we'll sell on it, but that's isn't it? 25 meters?
+
+🎤 SPEAKER_1 [86s - 93s]
+Well, I think what they do is it means you're more spread out. Have a poll, and it will have four things on. Blimey.
+
+👤 あなた [94s - 95s]
+This room is what?
+
+🎤 SPEAKER_2 [96s - 96s]
+Seven.
+
+👤 あなた [97s - 98s]
+Seven meters long, is it? This room?
+
+🎤 SPEAKER_2 [98s - 98s]
+Mhmm.
+
+👤 あなた [99s - 104s]
+So they want us to run a cable to that house over there.
+
+🎤 SPEAKER_1 [105s - 106s]
+Well, the point is they're saying make sure you've got that because
+
+🎤 SPEAKER_2 [107s - 108s]
+Apply me.
+
+🎤 SPEAKER_1 [108s - 112s]
+Electricity bollard will be within within reach up to twenty five meters.
+
+👤 あなた [113s - 116s]
+Point is That's quite that's a lot, isn't it?
+
+🎤 SPEAKER_1 [116s - 120s]
+I don't know. Because if you look at the hold on. If I look at the it's like that.
+
+🎤 SPEAKER_1 [131s - 134s]
+Our arrival time is one. I said that we could have the other slot.
+
+🎤 SPEAKER_1 [139s - 140s]
+Pockets are loud.
+
+🎤 SPEAKER_1 [157s - 200s]
+Site layout. You can see they've got like one electric, two electric points, so one two three four five six. So like sometimes it might be that you're a bit spread out. Don't know. It just it just means that you they know they're not gonna need it. I'm going, oh, I got it long enough. It might be that we don't need one that long, but actually it's probably worth worthwhile investment.
+
+👤 あなた [200s - 201s]
+Investment.
+
+🎤 SPEAKER_1 [201s - 205s]
+Have an extension, it? Because we obviously had to use thingies last year, didn't Yeah.
+
+👤 あなた [205s - 209s]
+That's true. Well, we'll see.
+
+🎤 SPEAKER_1 [211s - 218s]
+I mean, Oh, do you know what? Something else I saw this is another thing. Was tempted to buy them. These have got amazing review Right?
+
+🎤 SPEAKER_1 [222s - 230s]
+They are air beds, but they're ones that fold up into tiny little things. They're like yourself. You just do it for, like, a moment of time.
+
+🎤 SPEAKER_1 [231s - 240s]
+Sleep on your side. You don't dig through, but they're much smaller. They're just like small things. They don't pop. You can drive over them. They're not gonna be any major. They don't deflate. You can have them up for months.
+
+🎤 SPEAKER_1 [241s - 252s]
+For you and me, what happens is you you you can get a couple bundle you you pin them to you pop them together You put them together.
+
+🎤 SPEAKER_1 [253s - 255s]
+Nice. So it's like that.
+
+🎤 SPEAKER_2 [256s - 257s]
+That's cool.
+
+🎤 SPEAKER_1 [257s - 263s]
+They're supposed to be really good for carrying around, they're also good for when I've come to the do seem really like I think we won't won't wobble around as much.
+
+🎤 SPEAKER_1 [265s - 265s]
+I know.
+
+🎤 SPEAKER_2 [266s - 266s]
+Yeah.
+
+🎤 SPEAKER_1 [267s - 270s]
+Tempting. And they're small as well. Yeah.
+
+🎤 SPEAKER_2 [272s - 273s]
+Yeah.
+
+🎤 SPEAKER_1 [275s - 280s]
+They fold up pretty much. Yeah. I think it's 70 pounds by end of it.
+
+🎤 SPEAKER_2 [281s - 282s]
+Like, you they're riding over it in a motorbike and a car.
+
+👤 あなた [284s - 285s]
+That's a lot of money, though, isn't it?
+
+🎤 SPEAKER_2 [285s - 286s]
+Well, it's much cheaper than any other
+
+🎤 SPEAKER_1 [287s - 295s]
+I see. And you can have it for ninety days. No guarantee. The reviews are amazing.
+
+🎤 SPEAKER_2 [296s - 298s]
+So anyway, I've probably got that on.
+
+👤 あなた [298s - 298s]
+Nice.
+
+🎤 SPEAKER_1 [304s - 307s]
+Potential I need to eat So what's everyone what's everyone doing?
+
+🎤 SPEAKER_1 [310s - 310s]
+Thinking?
+
+🎤 SPEAKER_2 [310s - 311s]
+Yeah.
+
+👤 あなた [311s - 312s]
+Are you thinking?
+
+🎤 SPEAKER_2 [312s - 314s]
+Yeah. Alright. Is she not?
+
+🎤 SPEAKER_1 [317s - 318s]
+Bagel?
+
+🎤 SPEAKER_1 [324s - 333s]
+Cheese. Jude? Would you like a bagel for lunch? Bacon bagel? Or egg one?
+
+👤 あなた [336s - 337s]
+Bacon please.
+
+🎤 SPEAKER_1 [338s - 340s]
+Alright. We're gonna we're now
+
+🎤 SPEAKER_2 [341s - 341s]
+I'm sorry, babe.
+
+🎤 SPEAKER_1 [345s - 348s]
+Just give me she needs it to before I was trying to find a definite dimensions of our tenth.
+
+👤 あなた [349s - 349s]
+Yeah.
+
+👤 あなた [366s - 368s]
+Sorry, babe. I'm just sorry about that.
+
+
+---
+
