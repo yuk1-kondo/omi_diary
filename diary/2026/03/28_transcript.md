@@ -804,3 +804,320 @@ You were trying to show the boys stuff, Omi. What's your original motivation, I 
 
 ---
 
+
+
+## 📝 Family Plans Camping And France Holidays - 3053ca03-595c-4ed6-be93-c13f3d6e7d8b
+
+**記録時間**: 2026-03-28 21:59:38
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 5s]
+Lunch off now. No. It was from a video.
+
+👤 あなた [8s - 9s]
+Right.
+
+🎤 SPEAKER_2 [9s - 11s]
+Alright. That's fine then.
+
+👤 あなた [11s - 17s]
+Come on and class some lunch, please. Elliot. Lunch ready. Oh, mami, well done.
+
+🎤 SPEAKER_2 [17s - 20s]
+Right. Yep. Fair dues. Fair enough.
+
+🎤 SPEAKER_1 [21s - 22s]
+Bits of bacon.
+
+👤 あなた [23s - 23s]
+Looks tasty.
+
+🎤 SPEAKER_1 [23s - 24s]
+Yeah.
+
+👤 あなた [26s - 28s]
+That does look tasty indeed.
+
+👤 あなた [32s - 38s]
+Should we set the table, guys? So should we set actually, this one's in the conservatory. Should we?
+
+🎤 SPEAKER_1 [39s - 41s]
+Do you a you did want a cut in there.
+
+🎤 SPEAKER_2 [44s - 44s]
+Do it or no?
+
+👤 あなた [48s - 53s]
+Enjoy the sun a bit. Judge, you need a bit of time off screen, so I'm about to come watch your films now.
+
+🎤 SPEAKER_4 [54s - 57s]
+I wanted to go on screen, did I? No. No.
+
+👤 あなた [57s - 58s]
+True. True.
+
+🎤 SPEAKER_2 [59s - 60s]
+Fair point. Fair point.
+
+👤 あなた [61s - 65s]
+HP are yet. Mommy, I'll do you want some HP?
+
+🎤 SPEAKER_2 [66s - 66s]
+No.
+
+👤 あなた [80s - 82s]
+Dish, warm ish.
+
+👤 あなた [109s - 110s]
+Watch my food. You don't knock it off the top.
+
+🎤 SPEAKER_2 [116s - 129s]
+Rachel.
+
+🎤 SPEAKER_4 [130s - 130s]
+On the third week.
+
+🎤 SPEAKER_1 [130s - 135s]
+Oh, yeah. The July 31.
+
+🎤 SPEAKER_1 [139s - 143s]
+Well, listen. You don't wanna go anywhere.
+
+👤 あなた [143s - 144s]
+Listen. This is come Devin.
+
+🎤 SPEAKER_1 [145s - 157s]
+No. We're not going to Devon. We don't have to this is a bit like hey. If you wanna Hold on. You wanna go on the beach, you can go on the beach. If you don't wanna go on the beach, have a load of other stuff to do.
+
+🎤 SPEAKER_1 [159s - 168s]
+There's there's a really cool place that's called the tank museum, which makes it sound really boring. But, like, people from all over The UK go there because it's cool really, really good place.
+
+🎤 SPEAKER_1 [169s - 177s]
+And it's indoors, that's handy if it's not. No. It's not a museum. Not like a museum. It's like a you know the aircraft one we've got up here with the Winnatty? No.
+
+🎤 SPEAKER_1 [177s - 189s]
+It's it's like for me. No. Let's stop. Stop. Stop. It's not like that. But it's like it's it's like the difference between a whole rows and a round of dread.
+
+🎤 SPEAKER_1 [190s - 194s]
+Let's say that one there is Holton Road, and we're gonna go to the Ray Al Madrid version.
+
+👤 あなた [195s - 197s]
+Also, guys, can I just remind yourself something?
+
+🎤 SPEAKER_4 [197s - 207s]
+Seen that's the best one in the hawn tyre wood It's the best museum in the world. Muncie's okay. Okay. Okay. Okay. Okay.
+
+🎤 SPEAKER_1 [211s - 214s]
+In the world. Jude, what I'm trying to do is I've just talked about holiday.
+
+🎤 SPEAKER_4 [214s - 218s]
+It's more like Holton and, like, Cardiff City.
+
+🎤 SPEAKER_1 [218s - 223s]
+So what I'm trying to do is I've come in and just say we put your holidays in. I've already got you molding about something. I'm just trying to bring some positivity.
+
+🎤 SPEAKER_2 [224s - 225s]
+So Right.
+
+👤 あなた [225s - 226s]
+Can I can I chimp in now?
+
+🎤 SPEAKER_4 [226s - 227s]
+No.
+
+👤 あなた [227s - 228s]
+Thank you,
+
+🎤 SPEAKER_2 [228s - 228s]
+Elliot.
+
+👤 あなた [230s - 240s]
+May I remind you guys that camping holiday is a different kind of fun to funds you can have in you know, going to watch football, going to a theme park.
+
+🎤 SPEAKER_1 [240s - 245s]
+Go to a France holiday. With a site that's got a million slides and a pool It's different kind of fun.
+
+👤 あなた [245s - 251s]
+So if we think of it in those ways, don't try and compare it to different kinds of fun to each other. Then we'll have lots of fun.
+
+🎤 SPEAKER_1 [252s - 265s]
+Can't say one night a week. They have, like, a live music set up. They're a room with barns and loads of hailways that it was And they have they set the band up, and they have, a takeaway pizza joint in there.
+
+🎤 SPEAKER_1 [265s - 267s]
+Everybody from the sipes all goes and hands out.
+
+👤 あなた [269s - 275s]
+I mean, this is super exciting, Omi, but let's not forget, we've got a very exciting holiday in May. I I don't know about anybody else, but I'm really excited about it.
+
+🎤 SPEAKER_2 [276s - 277s]
+May per se.
+
+🎤 SPEAKER_1 [278s - 278s]
+Main game.
+
+🎤 SPEAKER_2 [279s - 279s]
+What?
+
+🎤 SPEAKER_2 [283s - 283s]
+Yeah.
+
+👤 あなた [284s - 285s]
+Are we looking forward to it, boys? Yeah?
+
+🎤 SPEAKER_1 [285s - 290s]
+The boys go. Over the beach. Or maybe maybe the boys should share and mummy and daddy get their own.
+
+👤 あなた [291s - 291s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [293s - 299s]
+So that'd be nice. You know, fixed it. And the the the lodges that were really good, and we're all one right by Bannon and RJK.
+
+🎤 SPEAKER_2 [300s - 301s]
+Are you guys gonna go on all the slides?
+
+👤 あなた [301s - 310s]
+What slides? No. Apart from the baby rooms, mean. Or the grun. You're gonna go on the old grun upsides?
+
+🎤 SPEAKER_2 [313s - 314s]
+Why?
+
+👤 あなた [315s - 317s]
+So fast, I guess. Come out.
+
+🎤 SPEAKER_4 [323s - 326s]
+No way you're gonna go and just like so fast and you Yeah.
+
+👤 あなた [329s - 337s]
+Mami, there's no way he's coming out into concrete. There's more to do with probably that you're slipping inside and down. Don't need bang your head on the side.
+
+👤 あなた [343s - 344s]
+I wonder if it's saltwater though.
+
+👤 あなた [350s - 352s]
+Hey, can you leave Judy's toy alarm, please? Yeah.
+
+🎤 SPEAKER_2 [354s - 355s]
+My toy So Yes.
+
+🎤 SPEAKER_1 [355s - 356s]
+It's gonna be hard to keep an eye
+
+🎤 SPEAKER_4 [357s - 358s]
+weather, which is based on light.
+
+🎤 SPEAKER_1 [359s - 374s]
+It's a The weather for when we're going on holiday, France, is a different weather system to here. So The UK could have really bad weather, and they could have really nice weather because they're the med we're going on holiday to the Mediterranean. So the same as Spain, the same weather system as Spain gets.
+
+🎤 SPEAKER_1 [375s - 382s]
+South Of France. Yeah. It's not like before. So we just got to wait until Mhmm.
+
+🎤 SPEAKER_4 [382s - 382s]
+AM.
+
+🎤 SPEAKER_2 [383s - 384s]
+Let's see.
+
+🎤 SPEAKER_1 [384s - 385s]
+I have a question.
+
+🎤 SPEAKER_4 [385s - 387s]
+What does the hemisphere mean?
+
+👤 あなた [390s - 392s]
+Get your foot off that Elliot. Can you please take your foot off? You're literally
+
+🎤 SPEAKER_5 [392s - 393s]
+just gonna break I even hear it.
+
+🎤 SPEAKER_4 [395s - 398s]
+And what is the hemisphere? What's the
+
+🎤 SPEAKER_2 [401s - 401s]
+Yeah.
+
+🎤 SPEAKER_4 [402s - 404s]
+What does some mistake you?
+
+🎤 SPEAKER_2 [405s - 411s]
+I know I'm expanding It's like like, I'm not having of, like, north of the the softer.
+
+🎤 SPEAKER_1 [422s - 431s]
+Morpellier which is morpedia, which is closer to Sanjapai.
+
+🎤 SPEAKER_4 [432s - 433s]
+Are they still?
+
+👤 あなた [434s - 436s]
+Oh, is this the first time we've all had lunch together in this room?
+
+👤 あなた [443s - 448s]
+What's that? Yeah. It's quite a good place to come this time. Spring and autumn is tends to be a good time to come.
+
+🎤 SPEAKER_4 [478s - 478s]
+Dus you.
+
+🎤 SPEAKER_1 [482s - 490s]
+So the weather this week is already eighteen nineteen. Full sun. Well, there's 19 degrees.
+
+🎤 SPEAKER_2 [491s - 495s]
+Oh, Oh, so I just so hard on you.
+
+🎤 SPEAKER_1 [495s - 495s]
+Okay.
+
+🎤 SPEAKER_2 [498s - 498s]
+Not Wow.
+
+🎤 SPEAKER_4 [499s - 500s]
+It's been my stupid tongue.
+
+👤 あなた [501s - 503s]
+Oh, do you be careful?
+
+🎤 SPEAKER_2 [503s - 507s]
+Juice tongue. Stop it.
+
+👤 あなた [508s - 512s]
+Right. You can leave the room now at it. You finish it. Put your book pay in the dishwasher, please.
+
+🎤 SPEAKER_1 [520s - 530s]
+Sorted. What we Turn around. What do you mean sat on? We take your chance down, have a look, and you're looking at Mugby's mirror. You've got you've got where they're mirror. There's, like, a whole big thing.
+
+🎤 SPEAKER_1 [533s - 533s]
+Come here.
+
+🎤 SPEAKER_6 [541s - 541s]
+Bit.
+
+🎤 SPEAKER_1 [552s - 555s]
+Good for that. So I don't know whether if it's school or I didn't know yesterday.
+
+🎤 SPEAKER_1 [559s - 560s]
+Midway,
+
+🎤 SPEAKER_1 [564s - 567s]
+Thank you, Jude. And he was laughing at me.
+
+🎤 SPEAKER_2 [579s - 580s]
+It's okay.
+
+🎤 SPEAKER_6 [619s - 620s]
+That was tasty right, like you.
+
+🎤 SPEAKER_1 [629s - 632s]
+What are you trying to do with my sweet something for the South Of France, which should I find place this?
+
+👤 あなた [632s - 633s]
+They're gone, though.
+
+👤 あなた [634s - 634s]
+The crew The boys have left the room.
+
+🎤 SPEAKER_6 [637s - 642s]
+You were trying to show the boys stuff, Omi. What's your original motivation, I thought?
+
+
+---
+
