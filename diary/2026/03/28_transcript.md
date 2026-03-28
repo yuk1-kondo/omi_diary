@@ -1121,3 +1121,89 @@ You were trying to show the boys stuff, Omi. What's your original motivation, I 
 
 ---
 
+
+
+## 📝 Friends Coordinate Holiday Time Off - 5546d4f8-269b-4e61-b4cb-77edd099b861
+
+**記録時間**: 2026-03-28 22:14:40
+
+### STT生テキスト
+
+🎤 SPEAKER_6 [0s - 0s]
+Yeah.
+
+🎤 SPEAKER_6 [325s - 327s]
+Well, let's get going then, is it?
+
+🎤 SPEAKER_6 [331s - 335s]
+We need to cut the grass at some point.
+
+🎤 SPEAKER_6 [362s - 363s]
+What is this?
+
+🎤 SPEAKER_1 [363s - 365s]
+That the beach that's the closest to us.
+
+🎤 SPEAKER_2 [365s - 365s]
+Nice.
+
+🎤 SPEAKER_6 [366s - 368s]
+Yeah. That does look nice, doesn't it?
+
+🎤 SPEAKER_2 [368s - 368s]
+Yeah.
+
+🎤 SPEAKER_6 [373s - 381s]
+So, Rich, if can I just say something? If James just gets back and says, oh, sorry. It's not gonna work. Yeah. I am open maybe now based on where I'm at with things.
+
+🎤 SPEAKER_6 [382s - 391s]
+For us to go the follow oh, no. You've booked you've booked and you leave now, haven't you? If you could change it, we could I could then do the following week instead if that makes hotels.
+
+🎤 SPEAKER_6 [392s - 399s]
+Cheap cheap hotels more available again. Depends on how bit of a pain in the ass that is to swap it.
+
+🎤 SPEAKER_6 [403s - 404s]
+We could talk as we go, I guess.
+
+🎤 SPEAKER_1 [405s - 410s]
+Get six days off in a row. Because I have the four of the bank holiday and then I get the extra two.
+
+🎤 SPEAKER_6 [410s - 411s]
+What if you book when?
+
+🎤 SPEAKER_1 [412s - 417s]
+The dates that I booked. You're already because it's Wednesday, Thursday, Friday, Saturday, Sunday, Monday. I get off in a
+
+👤 あなた [418s - 419s]
+Oh, I see.
+
+🎤 SPEAKER_1 [419s - 424s]
+And then the following week, then there's then I That's fine. Then all I work is Tuesday, Wednesday, Thursday.
+
+🎤 SPEAKER_4 [425s - 425s]
+Yeah.
+
+👤 あなた [435s - 440s]
+Alright. That's fine. It was just because I was thinking about hotel prices, but yeah, they're that makes sense.
+
+🎤 SPEAKER_2 [454s - 455s]
+No.
+
+🎤 SPEAKER_4 [457s - 457s]
+Okay. No?
+
+🎤 SPEAKER_1 [457s - 460s]
+No submissions. There's no nothing.
+
+🎤 SPEAKER_6 [463s - 464s]
+Whereas Well, lads, we're going out.
+
+🎤 SPEAKER_2 [467s - 468s]
+Jews, we're going. We're going.
+
+🎤 SPEAKER_6 [469s - 470s]
+Let's grab some fun.
+
+
+---
+
