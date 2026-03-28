@@ -96,3 +96,188 @@ Correct.
 
 ---
 
+
+
+## 📝 Family Books Summer Camping Trip - ddd8ad25-ef08-4b78-8dfe-4fa6f7aba113
+
+**記録時間**: 2026-03-28 20:57:50
+
+### STT生テキスト
+
+👤 あなた [0s - 8s]
+Okay. Yeah. I've added my appendix. It's gonna take up quite a few pages extra, but 10 to 50 something.
+
+🎤 SPEAKER_1 [8s - 10s]
+Do you have to print it out or just email it?
+
+👤 あなた [10s - 11s]
+Upload it.
+
+👤 あなた [15s - 19s]
+Binder. Each of these are the individual, did it?
+
+🎤 SPEAKER_1 [19s - 22s]
+To go and take it to some stationary shop. Get them to find it for you.
+
+👤 あなた [22s - 26s]
+Old school. Yeah. It's amazing how times change.
+
+🎤 SPEAKER_1 [27s - 29s]
+It's quite satisfying because you've like got a full on thick like You got something to prove your work.
+
+👤 あなた [29s - 32s]
+Yeah. You okay?
+
+🎤 SPEAKER_1 [32s - 35s]
+Yeah. We do need to book that campsite probably.
+
+👤 あなた [35s - 38s]
+She heard back from your brother, by the way, or your cousin Omi?
+
+🎤 SPEAKER_1 [38s - 41s]
+No. He has seen the message but Right. Okay.
+
+👤 あなた [45s - 46s]
+Okay.
+
+🎤 SPEAKER_1 [46s - 59s]
+So know if we just go ahead and book that campsite, whether you want to have a little look at it. Or whatever. It hasn't got extra large pictures. It's only got the large pictures, but extra large is up to 8.3 meters. Large pictures is seven meter tent.
+
+👤 あなた [60s - 60s]
+Which is what art is.
+
+🎤 SPEAKER_1 [60s - 70s]
+Isn't it? But it also says awning is or gazebos also kind of included as extra. So I'm wondering if it's, like, to 10, but then there's more space as well, I'm guessing. No.
+
+🎤 SPEAKER_1 [71s - 75s]
+Some people have mega tents, don't they? Ours is not one of the massive ones, is it?
+
+👤 あなた [75s - 77s]
+No. But with a portray though, obviously. Yeah.
+
+👤 あなた [78s - 81s]
+A space for everything else in The happy with trailers being on-site and everything. Listen.
+
+🎤 SPEAKER_1 [81s - 85s]
+Yeah. Yeah. So I think it looks like a decent like, little place.
+
+👤 あなた [85s - 86s]
+You bucket then?
+
+🎤 SPEAKER_1 [86s - 95s]
+It does look like it. Not If it's really windy weather, it might be a little bit exposed maybe, but a lot of these places are all just kind of like field y type things.
+
+👤 あなた [96s - 104s]
+It's all quite Well, we are outside. You know, it's very difficult not to we're quite low down. We're not high up out in terms of above sea level.
+
+🎤 SPEAKER_1 [105s - 112s]
+In hard to try and find the right kind of place. I mean, Stoford was such a lovely type of campsite. I kind of spoiled when we started.
+
+👤 あなた [112s - 113s]
+But I really like Stowford.
+
+🎤 SPEAKER_1 [116s - 117s]
+Why not?
+
+👤 あなた [117s - 123s]
+Just maybe I was new to camping. Didn't like just didn't like it.
+
+🎤 SPEAKER_1 [125s - 129s]
+I think that's seven. Or do you meet or you think you're in one in West Wales?
+
+👤 あなた [129s - 131s]
+I'm probably thinking West Wales. What was Stauford today?
+
+🎤 SPEAKER_1 [131s - 134s]
+Stauford's one of the kids on the scooters where they're really long the speed bumps and Oh, that was too for Was it?
+
+👤 あなた [135s - 142s]
+Yeah. Oh, yeah. That was good. No. I like that one. Yeah. It's the first one we went with with a pig and everything and the windmill.
+
+🎤 SPEAKER_1 [143s - 146s]
+Really like that really did really like that one. But Yeah.
+
+👤 あなた [147s - 150s]
+But you have a smaller one. Appreciate a bigger setup.
+
+🎤 SPEAKER_1 [150s - 157s]
+Yeah. Well, the boys need running around space in football, so thankfully, we can kind of trust them to Yeah. That a little bit more than themselves this time.
+
+👤 あなた [160s - 164s]
+But okay then, babe. Puck it. Yeah.
+
+🎤 SPEAKER_1 [164s - 167s]
+Cool.
+
+👤 あなた [167s - 170s]
+That'll be the Friday Friday, then on Monday, I'll need to turn Can we do we only pay a deposit presumably at this point, do we?
+
+👤 あなた [174s - 177s]
+Have you got the magic fiery tree on your phone yet?
+
+🎤 SPEAKER_1 [177s - 183s]
+Yeah. You have. So Friday to Friday. Mean, Thursday Thursday would've been but, equally, Friday to Friday, only use four days of ag relief from work.
+
+🎤 SPEAKER_1 [184s - 194s]
+Yeah. And in their head, I'm just missing a week. I'm not, like Yeah. Be busy because I'll be working and then am I gonna pack up everything to get ready to go on a Friday?
+
+🎤 SPEAKER_1 [195s - 210s]
+Well, it just is what it is. But and and also, Reese, it means that what the way it works out just quickly is the kids have one week, two weeks, and we go the second end of the second week.
+
+👤 あなた [211s - 213s]
+We go away. They finish on the seventeenth today?
+
+🎤 SPEAKER_1 [213s - 222s]
+They finish on the seventeenth. Have your graduation then. So one week then a second week and then and then we're away and then there's one two three weeks after that.
+
+🎤 SPEAKER_1 [223s - 230s]
+So but because I because I'm taking that full week then, there's only a ing one week. It won't seem as much for people, so I think I can do that.
+
+👤 あなた [232s - 235s]
+And then some other Especially early on for you because obviously August is mayhem. Yeah.
+
+🎤 SPEAKER_1 [235s - 242s]
+But with August being mayhem, I can still take like two days off. Just not a full week. I could still maybe not be in on the Wednesday, Thursday.
+
+🎤 SPEAKER_1 [242s - 244s]
+Of the week or the Monday, Tuesday
+
+👤 あなた [244s - 244s]
+Yeah.
+
+🎤 SPEAKER_1 [245s - 247s]
+And have something going on.
+
+🎤 SPEAKER_2 [248s - 249s]
+It's just having a full week off because of the release time.
+
+🎤 SPEAKER_1 [249s - 253s]
+So we're happy to I mean, Thursday would have been better. It's like whether we go to their camps, like, because we want another one.
+
+🎤 SPEAKER_1 [255s - 260s]
+Friday traffic. But if we just go up and leave really early
+
+🎤 SPEAKER_2 [261s - 261s]
+Yeah.
+
+🎤 SPEAKER_1 [262s - 265s]
+It's a bit easy. And think yeah.
+
+🎤 SPEAKER_2 [265s - 265s]
+Yeah.
+
+👤 あなた [267s - 269s]
+Yeah. Well done, babe. Yeah. Come give it a go.
+
+🎤 SPEAKER_1 [273s - 277s]
+So you can Fables.
+
+🎤 SPEAKER_2 [278s - 278s]
+Yep.
+
+👤 あなた [278s - 282s]
+Yep. I got on to that in a minute. I'm just doing something. Thank you. Oh, yeah.
+
+
+---
+
