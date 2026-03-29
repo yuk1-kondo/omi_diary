@@ -2149,3 +2149,1106 @@ Oh, go on. Yeah. Yeah. I'll be done in a sec. I'll if it
 
 ---
 
+
+
+## 📝 Lewis Leads Palm Sunday Church Service - ebae3f60-f8d3-4049-9817-1016ae2d5f1e
+
+**記録時間**: 2026-03-29 18:27:24
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 4s]
+Sam, that's amazing.
+
+🎤 SPEAKER_2 [8s - 9s]
+Hey, Sam. What a legend.
+
+🎤 SPEAKER_4 [13s - 79s]
+Yeah, Sarah.
+
+🎤 SPEAKER_1 [83s - 85s]
+The land of the living or whoever. Okay.
+
+🎤 SPEAKER_2 [85s - 87s]
+Yeah. Are you okay? How how is Daniel?
+
+🎤 SPEAKER_0 [88s - 88s]
+Yes.
+
+🎤 SPEAKER_1 [88s - 89s]
+Fine. Fine. Good. And then
+
+🎤 SPEAKER_4 [90s - 90s]
+Good.
+
+🎤 SPEAKER_0 [90s - 91s]
+Yeah. We're probably still slightly
+
+🎤 SPEAKER_4 [92s - 93s]
+Yes.
+
+🎤 SPEAKER_1 [92s - 95s]
+Slightly. Well, this I think everyone else is actually interfering degrees.
+
+🎤 SPEAKER_2 [95s - 96s]
+Yeah.
+
+🎤 SPEAKER_7 [102s - 103s]
+Yeah.
+
+🎤 SPEAKER_1 [106s - 110s]
+Cynthia. Dave and Cynthia. Yeah. I'll go and Yeah. Good. Good. Everything alright?
+
+🎤 SPEAKER_3 [114s - 115s]
+Yes.
+
+🎤 SPEAKER_1 [117s - 119s]
+Perfect timing for half to as as soon as half to.
+
+🎤 SPEAKER_2 [121s - 122s]
+I Just just Ryan get time?
+
+🎤 SPEAKER_1 [124s - 128s]
+Yeah. Okay. Alright. Well done.
+
+🎤 SPEAKER_2 [129s - 129s]
+Can I help you with these boxes coming in?
+
+🎤 SPEAKER_2 [133s - 145s]
+On Brian. Come on mate. Hello Daniel. Good to see you. Yeah. Any guys Yeah. Good. Mate, preaching a sermon, wash your children in hospital. That was hilarious.
+
+🎤 SPEAKER_2 [152s - 158s]
+No. It was mad it it was madness that I spent a whole day writing the Zoom in that I should if I only check this if I only check the router
+
+🎤 SPEAKER_2 [162s - 163s]
+Morning, Paula. How are you?
+
+🎤 SPEAKER_1 [164s - 170s]
+Good. Did you have a night for Omi? We had a great time. Thank you. We had a lovely time. We had a great how are you?
+
+🎤 SPEAKER_3 [170s - 171s]
+Alright.
+
+🎤 SPEAKER_1 [171s - 173s]
+Yeah? Good.
+
+🎤 SPEAKER_4 [173s - 175s]
+You might not see me next week.
+
+🎤 SPEAKER_1 [175s - 179s]
+Oh, yeah? What's what's happened? Yeah.
+
+🎤 SPEAKER_7 [179s - 180s]
+You see that up there?
+
+🎤 SPEAKER_1 [180s - 180s]
+Yeah.
+
+🎤 SPEAKER_3 [181s - 183s]
+I'm going to the hospital tomorrow. Are you?
+
+🎤 SPEAKER_1 [183s - 186s]
+Are they gonna try and give you some exercises for it?
+
+🎤 SPEAKER_7 [186s - 187s]
+Oh, I do exercise now.
+
+🎤 SPEAKER_1 [187s - 189s]
+Yeah. Do. Oh, yeah. Yeah.
+
+🎤 SPEAKER_3 [189s - 191s]
+I don't suffer.
+
+🎤 SPEAKER_2 [201s - 202s]
+But Well done, Paula. Good to see you.
+
+🎤 SPEAKER_3 [202s - 204s]
+Comparing the mate tea.
+
+🎤 SPEAKER_1 [204s - 206s]
+Yeah. Well, that is impressive. Yeah.
+
+🎤 SPEAKER_2 [207s - 207s]
+That is impressive.
+
+🎤 SPEAKER_7 [208s - 209s]
+I do it.
+
+🎤 SPEAKER_4 [209s - 209s]
+I think that's Yeah.
+
+🎤 SPEAKER_2 [210s - 213s]
+Yeah. You're very you're very up and about, aren't you? You walk to church?
+
+🎤 SPEAKER_8 [214s - 216s]
+Do you walk to church or do get left? You walk.
+
+🎤 SPEAKER_4 [217s - 217s]
+Yeah.
+
+🎤 SPEAKER_7 [217s - 218s]
+I've got a lift. I walk with it.
+
+🎤 SPEAKER_4 [218s - 219s]
+Yeah.
+
+🎤 SPEAKER_7 [223s - 223s]
+How are you?
+
+🎤 SPEAKER_4 [225s - 226s]
+No.
+
+🎤 SPEAKER_3 [226s - 226s]
+No.
+
+🎤 SPEAKER_4 [226s - 227s]
+True.
+
+🎤 SPEAKER_1 [227s - 229s]
+That's true. Omi, Deb.
+
+🎤 SPEAKER_2 [230s - 232s]
+Morning, Morning. You okay?
+
+🎤 SPEAKER_4 [232s - 233s]
+I can feel it.
+
+🎤 SPEAKER_1 [234s - 238s]
+Perfectly fine now. Praise god. Oh, well, there you go. Yeah. Rachel's a bit behind me, but she's getting there.
+
+🎤 SPEAKER_2 [238s - 241s]
+She's She's here? Yeah. We're we're we're fine.
+
+🎤 SPEAKER_1 [241s - 243s]
+It's just low energy and Yeah. I know that.
+
+🎤 SPEAKER_4 [244s - 244s]
+We're we're everything.
+
+🎤 SPEAKER_1 [244s - 245s]
+Yeah.
+
+🎤 SPEAKER_8 [245s - 246s]
+But that's I was gonna say that may not be anything to do with it.
+
+🎤 SPEAKER_1 [249s - 255s]
+How are you? Yeah? Half term now? Two weeks? Lions?
+
+🎤 SPEAKER_2 [266s - 267s]
+Wanna UK?
+
+🎤 SPEAKER_4 [269s - 269s]
+Yeah.
+
+🎤 SPEAKER_2 [270s - 270s]
+Yeah.
+
+🎤 SPEAKER_1 [272s - 274s]
+Dave's on annual leave, so they're built, unfortunately.
+
+🎤 SPEAKER_5 [300s - 300s]
+Hallo.
+
+🎤 SPEAKER_2 [301s - 302s]
+Dave. Hello. Hello, mate.
+
+🎤 SPEAKER_4 [302s - 303s]
+You're up. You've served up again. Yeah?
+
+🎤 SPEAKER_2 [303s - 309s]
+Yeah. We had a great time. We had a great time. Apart from the Apart from apart from the E. Coli. Yeah. Which is better.
+
+🎤 SPEAKER_1 [309s - 310s]
+Bit of a shame.
+
+🎤 SPEAKER_8 [310s - 311s]
+But we had it we had it Yeah.
+
+🎤 SPEAKER_2 [311s - 315s]
+Fine. I've been Have a day.
+
+🎤 SPEAKER_4 [320s - 323s]
+There was a train on weekends somewhere. No. Yeah.
+
+🎤 SPEAKER_1 [328s - 329s]
+Well, it's it's Good night.
+
+🎤 SPEAKER_2 [329s - 331s]
+It was the hot the whole conference.
+
+🎤 SPEAKER_1 [331s - 337s]
+Seven hundred plus people got there. Got the same thing. Really? Which is a major public health outbreak. One on one. Should know.
+
+🎤 SPEAKER_1 [338s - 340s]
+Yeah. It was it was a shame.
+
+🎤 SPEAKER_2 [341s - 349s]
+But haven't got on. Everyone was most people made it most days. So that was good. But trip to the pharmacy. Get some ammodium. Yeah.
+
+🎤 SPEAKER_2 [350s - 356s]
+And we're thinking, we didn't come away to Cape Town just to sit in a broom and be miserable. So we cracked on and then the flight home then.
+
+🎤 SPEAKER_1 [357s - 357s]
+Flight.
+
+🎤 SPEAKER_2 [358s - 366s]
+A bit difficult but it was fine. Yeah, we're okay. A great time. We had a great time. Well, other than that, I've been service given the link on YouTube the speakers.
+
+🎤 SPEAKER_2 [367s - 368s]
+Oh, yeah?
+
+🎤 SPEAKER_2 [368s - 369s]
+So Very good, Sonia and
+
+🎤 SPEAKER_4 [369s - 370s]
+Omar.
+
+🎤 SPEAKER_2 [370s - 375s]
+Great. Yeah. It was it was some really good really good teaching. Gonna share the link on the on the church WhatsApp actually.
+
+🎤 SPEAKER_2 [377s - 383s]
+Thank yeah, Ryan's for the Monty was he or Sarah? Where'd you pop 74 do you the the links did you see?
+
+🎤 SPEAKER_2 [388s - 393s]
+Just on YouTube? Yeah. Think it's on yeah. Look for advanced movement and your honest.
+
+🎤 SPEAKER_3 [393s - 394s]
+Their own website now.
+
+🎤 SPEAKER_4 [394s - 398s]
+Yeah. But so, yeah. But I think you livestreamed it, didn't you? Any Yeah.
+
+🎤 SPEAKER_8 [398s - 400s]
+Yeah. That means you can didn't Great.
+
+🎤 SPEAKER_1 [401s - 404s]
+Yeah. It was it's it's well worth it as well.
+
+🎤 SPEAKER_2 [404s - 413s]
+The one on prayer was excellent. The guy he I can't remember the guy's name because I've not seen him before, but he's one of the leaders and in the Africa region.
+
+🎤 SPEAKER_2 [414s - 420s]
+And he kind of did this dramatic retelling of Daniel Daniel five I think it was. Alright.
+
+🎤 SPEAKER_1 [420s - 421s]
+From memory.
+
+🎤 SPEAKER_2 [421s - 423s]
+And it went it was almost like watching a one one.
+
+🎤 SPEAKER_4 [423s - 424s]
+One of these yeah.
+
+🎤 SPEAKER_4 [425s - 426s]
+Like a kind sort of walk. Yeah.
+
+🎤 SPEAKER_2 [427s - 433s]
+Like a one one man West End production or something? Thought this is bit strange, but then he got into excess or preaching after that, he did a really good job.
+
+🎤 SPEAKER_2 [434s - 435s]
+On prayer. So that was great.
+
+🎤 SPEAKER_8 [436s - 439s]
+Of sort of like storytelling Yes.
+
+🎤 SPEAKER_4 [439s - 441s]
+Is big. Is it was it an guy?
+
+🎤 SPEAKER_1 [441s - 442s]
+Yeah.
+
+🎤 SPEAKER_4 [442s - 442s]
+Yeah.
+
+🎤 SPEAKER_2 [443s - 454s]
+And I think I think that's a good show. If the if the bible is if you're preaching from a bit of narrative, use the genre. Than going, you know, point one, justification but, you know, use the story. Yeah. Yeah.
+
+🎤 SPEAKER_8 [454s - 455s]
+Just like you said.
+
+🎤 SPEAKER_4 [455s - 456s]
+I can remember her PJ Smy's church.
+
+👤 あなた [457s - 460s]
+Yeah. Dave Devonish.
+
+🎤 SPEAKER_7 [460s - 461s]
+Yeah.
+
+👤 あなた [461s - 463s]
+Doing doing a similar like
+
+🎤 SPEAKER_2 [463s - 464s]
+Told you to see.
+
+👤 あなた [464s - 465s]
+To have a doing revelation type.
+
+🎤 SPEAKER_4 [465s - 467s]
+Yeah.
+
+👤 あなた [468s - 474s]
+Like, major point, like like a storytelling kind of thing. And you still remember it? After yeah. 2007. The best time I ever heard.
+
+🎤 SPEAKER_8 [478s - 479s]
+When you know him. Yeah.
+
+🎤 SPEAKER_2 [479s - 480s]
+Yeah. I know the name.
+
+👤 あなた [482s - 490s]
+He worked in the East. Yeah. And he he figured it out. Storytelling was a way forward till they Yeah. The concerts. Yes.
+
+🎤 SPEAKER_1 [490s - 490s]
+Yes.
+
+👤 あなた [490s - 496s]
+Okay. You know? Yes. What you're doing with the sort of like Yes.
+
+🎤 SPEAKER_1 [496s - 499s]
+Like that. The the catechism. Yeah. That's right. Yeah.
+
+🎤 SPEAKER_8 [500s - 501s]
+Q and A is actually Freedom and Christ as well.
+
+👤 あなた [501s - 510s]
+Did they? Yeah. Changed it. Changed it for the better. So Oh, yeah. Very good. It like you know, in the objects, not just repetition and Yeah.
+
+🎤 SPEAKER_1 [510s - 511s]
+Mind ly.
+
+👤 あなた [511s - 515s]
+Mhmm. But you you also you're speaking it out Yes.
+
+🎤 SPEAKER_1 [515s - 517s]
+Very good. Very good. Yeah.
+
+👤 あなた [517s - 520s]
+And across with all the traditions and stuff. Yeah. They never had anything written down.
+
+🎤 SPEAKER_1 [520s - 521s]
+Yep.
+
+👤 あなた [522s - 523s]
+No. So it's quite often.
+
+🎤 SPEAKER_2 [523s - 524s]
+That's the way to do it, faithfully.
+
+👤 あなた [524s - 526s]
+All the cultures. Yeah. Just African cultures.
+
+🎤 SPEAKER_4 [527s - 527s]
+Yeah.
+
+🎤 SPEAKER_2 [528s - 541s]
+I think as well is that I think it was the in in kind of all tradition cultures from my end from my gather. Between the the leaders of that community that would do the storytelling everyone would hear it so much that there'd be correction if it was told slightly wrong.
+
+🎤 SPEAKER_2 [542s - 547s]
+There'd be a correction. No. No. That's not right. That's so it's it's actually really reliable. And I I should build it in Korean.
+
+👤 あなた [547s - 551s]
+Traditional, like, how small groups. Used to have them.
+
+🎤 SPEAKER_4 [551s - 551s]
+Yeah.
+
+👤 あなた [551s - 555s]
+The the fridge from the previous Sunday. I was like, you know
+
+🎤 SPEAKER_8 [555s - 555s]
+Yeah.
+
+👤 あなた [555s - 561s]
+Sort of written down in other ways. Yeah. So the people at the time Yeah. They do. They're good. You know what I mean?
+
+🎤 SPEAKER_8 [561s - 561s]
+Yeah.
+
+🎤 SPEAKER_2 [562s - 567s]
+Very good. You know? Very good. Yeah. Very good. Great to see you, Dave. Yeah.
+
+🎤 SPEAKER_1 [567s - 570s]
+And thanks for coming again. Good The coffee will be out soon, I think.
+
+🎤 SPEAKER_8 [570s - 570s]
+Yeah.
+
+🎤 SPEAKER_2 [570s - 576s]
+In a few minutes. I just gotta sort a few things out, but I could see you. Cynthia's here. Good to you. Cynthia's somewhere. She she's in.
+
+🎤 SPEAKER_4 [578s - 579s]
+Okay.
+
+🎤 SPEAKER_4 [596s - 635s]
+Hello, Karen. How are you? You're good. How are you? How's things? Okay. Yeah. Yeah? Honey.
+
+🎤 SPEAKER_4 [637s - 639s]
+Honey, difference? No.
+
+🎤 SPEAKER_3 [641s - 643s]
+It comes back again.
+
+🎤 SPEAKER_8 [643s - 644s]
+Oh, I'm sorry. It's okay.
+
+🎤 SPEAKER_4 [646s - 648s]
+Yeah. I'll go crying.
+
+🎤 SPEAKER_2 [649s - 659s]
+I'll Oh, I see. Yeah. Well, hey, you're in church. You're with with your family in Christ. And I'll be praying that you just the presence of God today and just be refreshed and Good to see you.
+
+🎤 SPEAKER_2 [661s - 662s]
+Right. Come on in.
+
+🎤 SPEAKER_8 [663s - 664s]
+Good to be back.
+
+🎤 SPEAKER_5 [664s - 665s]
+Good to back.
+
+🎤 SPEAKER_7 [665s - 667s]
+It's you've lost a bit of weight.
+
+🎤 SPEAKER_4 [667s - 668s]
+I have. I have. Yeah.
+
+🎤 SPEAKER_4 [672s - 672s]
+No.
+
+🎤 SPEAKER_2 [672s - 676s]
+I have. I I lost, like, six kilograms. About a stone. Yeah.
+
+🎤 SPEAKER_4 [677s - 679s]
+And then some of it was water since it's gone back on again.
+
+🎤 SPEAKER_4 [680s - 681s]
+So Okay.
+
+🎤 SPEAKER_2 [681s - 682s]
+Great.
+
+🎤 SPEAKER_4 [682s - 682s]
+And they just prove all the thing.
+
+🎤 SPEAKER_2 [682s - 684s]
+Oh, yes. Yes. She mentioned it. Yeah.
+
+🎤 SPEAKER_1 [684s - 685s]
+Thank you, Emma.
+
+🎤 SPEAKER_7 [685s - 688s]
+So everything works for both the others.
+
+🎤 SPEAKER_2 [688s - 699s]
+Well, I praising God. I'm praising God. Keeps telling me, that's not the way to do it, Reese. Well, hey. What was intended? What god what you intended for evil? God used for goods.
+
+🎤 SPEAKER_8 [702s - 703s]
+Are you, mate?
+
+🎤 SPEAKER_4 [703s - 703s]
+Yes.
+
+🎤 SPEAKER_1 [724s - 725s]
+Okay?
+
+🎤 SPEAKER_3 [725s - 725s]
+Yeah.
+
+🎤 SPEAKER_4 [730s - 734s]
+Hello.
+
+🎤 SPEAKER_4 [738s - 830s]
+Hello.
+
+🎤 SPEAKER_2 [833s - 833s]
+How are you then, Debbie?
+
+🎤 SPEAKER_1 [833s - 836s]
+Yeah. What's the latest in your world?
+
+🎤 SPEAKER_7 [839s - 840s]
+Not so much, to be honest.
+
+🎤 SPEAKER_4 [840s - 841s]
+No? No,
+
+🎤 SPEAKER_4 [845s - 845s]
+Same old thing.
+
+🎤 SPEAKER_1 [845s - 847s]
+Same old Tim.
+
+🎤 SPEAKER_2 [847s - 849s]
+Have you got your camping plans sorted for the summer?
+
+🎤 SPEAKER_0 [850s - 853s]
+I know. We went we went away last day. We've got a camping.
+
+🎤 SPEAKER_4 [853s - 855s]
+We went away last April, didn't we?
+
+🎤 SPEAKER_2 [856s - 862s]
+But it was I find the best I only go camping June onwards because, frankly, can be the wind because it'd been nightmare. Can't it?
+
+🎤 SPEAKER_4 [862s - 863s]
+Yeah. The week is
+
+🎤 SPEAKER_0 [864s - 866s]
+the wind is been picking up, I thought, no. I'm not gonna go camping.
+
+🎤 SPEAKER_1 [866s - 867s]
+We're gonna go always been really nice there.
+
+🎤 SPEAKER_0 [868s - 870s]
+Yeah. It's been nice with camping and putting a tent in the wind.
+
+🎤 SPEAKER_2 [872s - 875s]
+It is a it's not miserable.
+
+🎤 SPEAKER_1 [877s - 881s]
+Can be it can be but it can also unless the weather forecast is very clear we're hitting a hate wave or something in May or something.
+
+🎤 SPEAKER_0 [881s - 882s]
+You might get we're good when it may You might be at the lastminute.
+
+🎤 SPEAKER_1 [882s - 885s]
+com. Might be able to get I remember when I'm going in a last year, the old high wind.
+
+🎤 SPEAKER_0 [885s - 888s]
+Yeah.
+
+🎤 SPEAKER_4 [888s - 888s]
+Try wind.
+
+🎤 SPEAKER_1 [888s - 892s]
+Yeah. Was a storm, wasn't it? One of those storms. One bit cold. Yeah.
+
+🎤 SPEAKER_2 [892s - 893s]
+That's right. That's right. Yeah.
+
+🎤 SPEAKER_1 [894s - 896s]
+It was I believe it though. We leave it though.
+
+🎤 SPEAKER_1 [896s - 898s]
+I Just even though it's freezing.
+
+🎤 SPEAKER_4 [898s - 898s]
+Yeah.
+
+🎤 SPEAKER_2 [900s - 905s]
+Just yeah. It would I remember that. That was not fun for you. Was that in the middle of the night it broke as well?
+
+🎤 SPEAKER_0 [905s - 909s]
+Yeah. It was up in there. I was up in the middle of the night holding my tinter.
+
+🎤 SPEAKER_2 [910s - 912s]
+Hello, Denise.
+
+🎤 SPEAKER_0 [912s - 913s]
+I'm trying to stop it from my side while away.
+
+🎤 SPEAKER_1 [914s - 915s]
+Intriguing. Intriguing.
+
+🎤 SPEAKER_4 [916s - 917s]
+Cake? Yeah.
+
+🎤 SPEAKER_7 [917s - 918s]
+And quiche.
+
+🎤 SPEAKER_1 [918s - 919s]
+Quiche. Oh, very good.
+
+🎤 SPEAKER_7 [919s - 921s]
+Broadway, quiche, and, oh, curly quiche.
+
+🎤 SPEAKER_2 [922s - 923s]
+Oh, did you make it?
+
+🎤 SPEAKER_4 [924s - 924s]
+Jamadi.
+
+🎤 SPEAKER_2 [924s - 926s]
+Oh, very good. Very good.
+
+🎤 SPEAKER_6 [926s - 926s]
+Well.
+
+🎤 SPEAKER_6 [935s - 936s]
+Was Quiche.
+
+🎤 SPEAKER_0 [940s - 942s]
+It's like a I have like a flan.
+
+🎤 SPEAKER_2 [943s - 945s]
+You have a do you like omelettes?
+
+🎤 SPEAKER_10 [945s - 946s]
+Yeah. It's bit like an omelette only.
+
+🎤 SPEAKER_2 [946s - 947s]
+But slightly different Yeah.
+
+🎤 SPEAKER_1 [948s - 952s]
+Or whatever. It's a similar thing. You should try it. Similar things with an omelet.
+
+🎤 SPEAKER_10 [952s - 953s]
+I'd love to see t shocks on menu at home.
+
+🎤 SPEAKER_1 [954s - 955s]
+Yeah. You sell it on quiche.
+
+🎤 SPEAKER_2 [955s - 957s]
+Oh, well, yeah. Do it.
+
+🎤 SPEAKER_11 [964s - 971s]
+She slept through it, and all I was on the mattress, and the mattress was chewing up. Oh, float me. Yeah. That's it's made me a lot of boats.
+
+🎤 SPEAKER_2 [971s - 972s]
+It's not it's not fun, is it, though, So not fun.
+
+🎤 SPEAKER_11 [972s - 974s]
+When we stuck it out, we did stay.
+
+🎤 SPEAKER_2 [975s - 976s]
+I'm sure you did.
+
+🎤 SPEAKER_1 [976s - 978s]
+Yeah. You're sure. Thank you.
+
+🎤 SPEAKER_4 [978s - 978s]
+No.
+
+👤 あなた [978s - 981s]
+Thank you. Oh, well done, John. Who's there? Service with you.
+
+🎤 SPEAKER_1 [981s - 984s]
+Service with the smile. Yeah. John, that's John's that's John's forte.
+
+🎤 SPEAKER_3 [985s - 985s]
+Got legs.
+
+🎤 SPEAKER_11 [987s - 988s]
+Yeah. You could've got legs for me.
+
+🎤 SPEAKER_6 [989s - 991s]
+Yeah. But I didn't know who you bought.
+
+🎤 SPEAKER_4 [991s - 992s]
+It's a mask.
+
+🎤 SPEAKER_0 [1023s - 1031s]
+Be quite silly. So you may need to just keep your eyes open. I'm not here. Just keep an eye open for the back. You're keeping things quiet about a few weeks break.
+
+🎤 SPEAKER_0 [1031s - 1036s]
+Just make sure he goes and sits down. Yeah. Do you know what I mean? A few others just speak to way of that.
+
+🎤 SPEAKER_5 [1053s - 1054s]
+How are you?
+
+🎤 SPEAKER_4 [1054s - 1057s]
+Alright. How are you? How are you?
+
+🎤 SPEAKER_2 [1058s - 1059s]
+Well, we're well now. Praise god.
+
+🎤 SPEAKER_1 [1060s - 1064s]
+Yeah. But a good week now of So that's helped a great deal.
+
+🎤 SPEAKER_2 [1069s - 1077s]
+Well, we had a great time. Spiritually refreshed, should we say? If bodily weakens, That's fine. It's better that way around.
+
+🎤 SPEAKER_2 [1077s - 1086s]
+It's better to be refreshed virtually and bodily broken rather than You know what I mean? You get what it comes in. How's this little bit of doing?
+
+🎤 SPEAKER_4 [1086s - 1089s]
+Good. Good.
+
+🎤 SPEAKER_2 [1091s - 1093s]
+Excellent. Good. It's good to see you.
+
+🎤 SPEAKER_4 [1103s - 1104s]
+William?
+
+🎤 SPEAKER_2 [1104s - 1106s]
+I'm just seeing to all the children.
+
+🎤 SPEAKER_2 [1108s - 1110s]
+The worship you sit with your mum? No running around at the back.
+
+🎤 SPEAKER_1 [1110s - 1110s]
+Okay?
+
+🎤 SPEAKER_2 [1111s - 1112s]
+Man.
+
+🎤 SPEAKER_4 [1137s - 1233s]
+Was a scary When it sounds description.
+
+🎤 SPEAKER_1 [1310s - 1311s]
+Thank you, mate.
+
+🎤 SPEAKER_8 [1312s - 1312s]
+It's okay.
+
+🎤 SPEAKER_2 [1314s - 1316s]
+My tee god who forgives all who truly repents.
+
+🎤 SPEAKER_7 [1317s - 1318s]
+I've mercy upon you.
+
+🎤 SPEAKER_2 [1319s - 1321s]
+Pardon me from all my sins.
+
+🎤 SPEAKER_12 [1322s - 1327s]
+Confirm and strengthen me in all goodness. Bring me into our fire. Life. Through Jesus Christ, I know it. Amen.
+
+🎤 SPEAKER_12 [1331s - 1343s]
+I love the law because he hath heard my voice and my supplications. Because he has inclined his ear unto me. Therefore, I will will I call upon him as long as I live?
+
+🎤 SPEAKER_12 [1343s - 1357s]
+The snares of death compass, near round about. I'm a pains of hell again hold upon me. I found trouble and heaviness. Then I called upon the name of Lord. O Lord, I beseech thee deliver my soul.
+
+🎤 SPEAKER_12 [1358s - 1367s]
+Gracious is the Lord and yea, our God is merciful. And in the sixth month, the angel Gabriel was sent from God unto a city of Galilee.
+
+🎤 SPEAKER_12 [1368s - 1381s]
+Named Nazareth to a virgin espoused to a man whose name was Joseph of the house of David, and the virgin's name was Mary. And the angel called came in and said, hail though thou art highly favored, the Lord is with you.
+
+🎤 SPEAKER_11 [1383s - 1384s]
+Beste jo, mung mumene.
+
+🎤 SPEAKER_12 [1385s - 1394s]
+I speak to god for your holy word. Our father always have a polyisure name. Your kingdom come, your will be done. All earth as it is in heaven.
+
+🎤 SPEAKER_12 [1394s - 1403s]
+Give us today our daily bread, give us our sins, so we forgive those who trespass against you. And these uncertainties, but those are not.
+
+🎤 SPEAKER_1 [1408s - 1409s]
+I safely brought Alright.
+
+🎤 SPEAKER_12 [1421s - 1445s]
+Let's do a we're into any kind of danger, but I said, all my doing is maybe ordered. By the commands to do that is righteousness. Grace of our Lord Jesus Christ.
+
+🎤 SPEAKER_12 [1554s - 1556s]
+The question that the world sometimes has.
+
+🎤 SPEAKER_12 [1559s - 1568s]
+Why just let it go? Let it go, man. Why don't you say it doesn't matter? Why do you cross one? Suffering? Why? Need for death?
+
+🎤 SPEAKER_5 [1576s - 1577s]
+If f Sorry, guys.
+
+🎤 SPEAKER_1 [1577s - 1578s]
+It's okay?
+
+🎤 SPEAKER_12 [1585s - 1588s]
+Why do you have to die? What was so serious? So real.
+
+🎤 SPEAKER_12 [1594s - 1604s]
+Christ also suffered for once for sins. The righteous for the unmatches to bring He's got this first house. That's why Jesus had today. I'll convey terms, not in general ideas, but generally, but clearly.
+
+🎤 SPEAKER_12 [1606s - 1615s]
+If we understand this, really understand this, it will change the way you see your in. To where you see across. So the first, please.
+
+🎤 SPEAKER_12 [1616s - 1628s]
+Also suffered. Once for sins. Just sit with her for a moment for sins. Servant ones for sins. Not a long sight, I'd say, not near sin, not an example about sin.
+
+🎤 SPEAKER_12 [1628s - 1631s]
+But four sins. What word mat the word format is.
+
+🎤 SPEAKER_12 [1635s - 1686s]
+We just sinned his death. Why? Because let's see. Why can't he just forgive? Why makes such a big dinner too? I'm just letting him come in.
+
+🎤 SPEAKER_1 [1705s - 1706s]
+Oh, that's definitely not under the table.
+
+🎤 SPEAKER_0 [1706s - 1708s]
+They're definitely not alone.
+
+🎤 SPEAKER_1 [1708s - 1709s]
+Hello.
+
+🎤 SPEAKER_3 [1720s - 1721s]
+It's so inspiring to watch.
+
+🎤 SPEAKER_2 [1729s - 1734s]
+Absolutely fine. Omi been fine? Good. Good. That's good. Rachel is on the way. Yeah.
+
+🎤 SPEAKER_4 [1734s - 1735s]
+She's still touching Or best of?
+
+🎤 SPEAKER_1 [1736s - 1736s]
+How are you, my friends?
+
+🎤 SPEAKER_2 [1736s - 1737s]
+Good to see you.
+
+🎤 SPEAKER_1 [1738s - 1739s]
+You bet. When did you get back?
+
+🎤 SPEAKER_8 [1740s - 1741s]
+But you didn't go? No. No.
+
+🎤 SPEAKER_4 [1742s - 1742s]
+I know.
+
+🎤 SPEAKER_2 [1742s - 1753s]
+It was only Right, own taboo do. Yeah. Vegas. We had a great time. Wonderful time. Beautiful part of the world.
+
+🎤 SPEAKER_2 [1759s - 1762s]
+Oh, we had a great time. Had a great time. It's good to be back.
+
+👤 あなた [1762s - 1762s]
+Yeah.
+
+🎤 SPEAKER_2 [1764s - 1767s]
+But but it was it was the hottest day on record in Cape Town.
+
+🎤 SPEAKER_1 [1767s - 1768s]
+They haven't had a a day.
+
+🎤 SPEAKER_2 [1769s - 1779s]
+44 degrees. Wow. And it's normally 21, 22 degrees there. So that's on me. So it was hot. We had a great time. Yeah. Thank you, bro. It's great to see you.
+
+🎤 SPEAKER_4 [1779s - 1779s]
+Yeah.
+
+🎤 SPEAKER_2 [1780s - 1782s]
+Great to see you too. I'm gonna put some music on. I'll be back in a sec.
+
+🎤 SPEAKER_8 [1784s - 1785s]
+Jonathan, I've got something for you.
+
+🎤 SPEAKER_2 [1787s - 1788s]
+Right buddy let me just put some music on a sec.
+
+🎤 SPEAKER_1 [1792s - 1802s]
+Now the send bits are gonna be a bit complicated after the songs. Okay? Which I'll come and help you with.
+
+🎤 SPEAKER_6 [1802s - 1802s]
+Right? Okay.
+
+🎤 SPEAKER_3 [1816s - 1820s]
+Let's see if you got something. Oh, yes.
+
+🎤 SPEAKER_4 [1820s - 1820s]
+You found a way.
+
+🎤 SPEAKER_8 [1822s - 1822s]
+So That's for Ethan.
+
+🎤 SPEAKER_1 [1822s - 1823s]
+That's my one.
+
+🎤 SPEAKER_2 [1824s - 1827s]
+This is the one that I ordered first of all and then realized I was not coming before weeks.
+
+🎤 SPEAKER_3 [1827s - 1828s]
+So Well, don't.
+
+🎤 SPEAKER_2 [1829s - 1834s]
+Sorry. It's a gift. But I don't I haven't opened it. So as to the quality, I'm not sure how good it will be to the other ones.
+
+🎤 SPEAKER_2 [1834s - 1836s]
+It might be better. It might be worse.
+
+🎤 SPEAKER_4 [1836s - 1837s]
+Don't Oh, amazing. Thank you so much.
+
+🎤 SPEAKER_1 [1837s - 1839s]
+That's alright.
+
+🎤 SPEAKER_3 [1840s - 1841s]
+And I the holes tonight.
+
+🎤 SPEAKER_2 [1841s - 1843s]
+It is Dafahida's own center.
+
+🎤 SPEAKER_4 [1843s - 1844s]
+Yeah.
+
+👤 あなた [1844s - 1848s]
+So she's wearing a Dafahida's Vader helmet and and using Daniel's lightsaber, so we're going long time.
+
+🎤 SPEAKER_2 [1848s - 1850s]
+That sounds legendary.
+
+🎤 SPEAKER_1 [1850s - 1851s]
+It sounds amazing.
+
+🎤 SPEAKER_4 [1894s - 1894s]
+Right.
+
+🎤 SPEAKER_6 [1897s - 1899s]
+You bet even it? What I even know.
+
+🎤 SPEAKER_2 [1909s - 1915s]
+Right. Sorry, Elijah. One second, mate. I just need you to shuffle one second. Thank you, mate. Good job.
+
+🎤 SPEAKER_4 [1919s - 1919s]
+Yeah.
+
+🎤 SPEAKER_2 [1937s - 1943s]
+Yeah. We're having that same issue. Do you remember it was coming through there? It's the same thing again. So I've just it again.
+
+🎤 SPEAKER_1 [1943s - 1944s]
+It's fixed it.
+
+🎤 SPEAKER_2 [1944s - 1946s]
+So there must be something wrong with this. Yeah. That's all.
+
+🎤 SPEAKER_4 [1947s - 1948s]
+Oh.
+
+🎤 SPEAKER_11 [1954s - 1954s]
+It's Okay.
+
+🎤 SPEAKER_4 [1956s - 1960s]
+Okay. Can I encourage you all, please? Seat so we can
+
+🎤 SPEAKER_11 [1960s - 1961s]
+start on these
+
+🎤 SPEAKER_7 [1962s - 1976s]
+Sunday. Welcome. It's lovely to see you all. I'm so glad that Lisa have made it despite the clock. I sure the drawer bell will go again later as more realized.
+
+🎤 SPEAKER_7 [1977s - 1988s]
+The time has changed. You know it doesn't matter how many times you put out a message about the clocks, it gets people every time. But doesn't I have got here?
+
+🎤 SPEAKER_7 [1989s - 2001s]
+And that's what's important. And we're here. So we're here to celebrate. This morning. I just wanted to say welcome. I'm Lewis. If you don't know me, and I've got background.
+
+🎤 SPEAKER_7 [2003s - 2004s]
+That's the lanes.
+
+🎤 SPEAKER_4 [2004s - 2005s]
+I can't have dancing.
+
+🎤 SPEAKER_7 [2008s - 2015s]
+So we're gonna have a time of worship in a minute with the children song, and then we will have our
+
+🎤 SPEAKER_1 [2017s - 2018s]
+Thanks, Sam.
+
+🎤 SPEAKER_4 [2019s - 2019s]
+Catchisms.
+
+🎤 SPEAKER_7 [2020s - 2029s]
+Going away. It's gone this morning and a time of communion where we celebrate and remember our saviors. And resurrection.
+
+🎤 SPEAKER_8 [2029s - 2029s]
+K.
+
+🎤 SPEAKER_7 [2031s - 2040s]
+Mister And then the children will be going downstairs. Can I remind parents downstairs? Please, that you book them in? Don't just shut them out at all.
+
+🎤 SPEAKER_7 [2041s - 2057s]
+And then go and get them at the end, please, and make sure they do not take any food downstairs. Because we do have to tidy up afterwards. So all food and drink to be kept upstairs and then we'll tidy up.
+
+🎤 SPEAKER_7 [2058s - 2071s]
+Just remind you too, we are starting to recycle the cups and everything. So there's a bag at the back We have to take all the rubbish away now, so we're doing our bit for the as well. So please tip out your drinks.
+
+🎤 SPEAKER_7 [2074s - 2085s]
+In food, and and everything else in the bark do. We'll put something out for you to everything into, and there's a food waste as well for you. So that'd be brilliant.
+
+🎤 SPEAKER_7 [2086s - 2108s]
+Okay. Palm's Palm Sunday. Just gonna read from Matthew 21 just because of what the day is. And as he approached Jerusalem and came to portray on the Mount Of Omi, Jesus sent two disciples saying to them, go to the village ahead of you.
+
+🎤 SPEAKER_7 [2108s - 2124s]
+At once you will find a donkey tied there with her colt by her. And tidher bring them to me. If anyone says anything to you, say, the Lord needs them, and he will send them right away.
+
+🎤 SPEAKER_7 [2125s - 2135s]
+He took place to fulfill what was spoken through the prophet. Say to daughter Zion, see your king comes to you, gentle and riding on a donkey.
+
+🎤 SPEAKER_7 [2136s - 2148s]
+And on a coat the foal of the donkey. The disciples went and did as Jesus had instructed them. They brought the donkey and the comb to place their cloaks on them for to sit on.
+
+🎤 SPEAKER_7 [2149s - 2153s]
+A very large spread their cloaks on the room while others cut
+
+🎤 SPEAKER_7 [2157s - 2169s]
+The crowds that went ahead of him and those who followed shouting, hosanna to the son of David. Blessed is he who came in the name of the Lord. Hosanna in the highest heavens.
+
+🎤 SPEAKER_7 [2170s - 2175s]
+When Jesus entered Jerusalem, the whole city was stood in house.
+
+🎤 SPEAKER_4 [2175s - 2176s]
+Who?
+
+🎤 SPEAKER_7 [2178s - 2194s]
+The crowds answered, is Jesus, the prophet from Lazarus in Calvary. Father God, we just want to thank you for this powers We want to thank you for Jesus writing in just as the prophets atoned.
+
+🎤 SPEAKER_7 [2195s - 2204s]
+But Lord we want to thank you more that he is, we know he more than the prophet from know that he is the savior of the world.
+
+🎤 SPEAKER_7 [2205s - 2217s]
+And, Lord, we come this morning and we just want to worship. We just want to lift up the name of Jesus. We wanna say thank you, father. God, you've left us that much that you have bound your son to walk amongst us.
+
+🎤 SPEAKER_7 [2218s - 2227s]
+Knowing he would take him to the cross. Father, thank you for the cross. Thank you for some part Sandi that just led up to it.
+
+🎤 SPEAKER_7 [2230s - 2255s]
+Throughout Jesus' life. And we know that when you speak, your word is truth. We know that we can stand on your promises, and we know that Jesus will come again for those who him and are part of your family. So, father god, we just see who has everything in control.
+
+🎤 SPEAKER_7 [2255s - 2267s]
+The God of creation, the one who keeps the planet spinning the universe. And yet has time for us. Thank you that you were here this morning.
+
+🎤 SPEAKER_7 [2268s - 2281s]
+Come move amongst us, Lord. Come, Holy Spirit, breathe afresh in this place this morning. That we would just experience you in a different way.
+
+🎤 SPEAKER_7 [2282s - 2285s]
+We would go out we would be deeper in love with you.
+
+🎤 SPEAKER_4 [2285s - 2286s]
+Mhmm.
+
+🎤 SPEAKER_7 [2287s - 2295s]
+That our lies would reflect you throughout the week, And those that don't know you, Lord, yet, I pray that they would hear you speaking to them this morning.
+
+🎤 SPEAKER_13 [2296s - 2297s]
+In Jesus name.
+
+🎤 SPEAKER_1 [2298s - 2299s]
+Amen. Amen.
+
+🎤 SPEAKER_7 [2300s - 2306s]
+K. I'm gonna fight the lovely Rachel back up. Come and jig around.
+
+🎤 SPEAKER_0 [2312s - 2318s]
+Thanks, Thanks. This is doing on the cross. So we can take this one. Does anybody know what the word means? I can have a guess of what hosanna means.
+
+🎤 SPEAKER_0 [2321s - 2328s]
+Saves. That's the word. Saves. Save. Save us. That's all the people say.
+
+🎤 SPEAKER_6 [2328s - 2339s]
+Save us. I'm not even gonna say save us. They'll say salvation is here. So we're gonna sing a song, singing hosanna. Should we stand? And when we sing hosanna, we're declaring salvation is here.
+
+🎤 SPEAKER_6 [2339s - 2351s]
+Jesus is our salvation. So as he walked into Jerusalem, and everyone was waving their trials, they were waving their rhythm, and they whatever they could, they could throw it down on the road in front of Jesus. He comes in.
+
+🎤 SPEAKER_6 [2352s - 2360s]
+And they were shouting, Hosanna. They were saying, I'll save you is here. Come and save us. Deliver us. Deliver us. Didn't quite know what he was saving them from.
+
+🎤 SPEAKER_6 [2361s - 2377s]
+But we know now, don't we? We know what saved us. So we're gonna praise Jesus. We're gonna sing hosanna We're gonna wave our hands. We're gonna wave our hands, clap our hands, stand our feet, and and praise a lot this morning. So there's lots of ribbons out here. This is a ribbon type of sole.
+
+🎤 SPEAKER_4 [2380s - 2380s]
+And then this turn on that afterwards. To your shakers.
+
+🎤 SPEAKER_6 [2382s - 2384s]
+Is anyone gonna join me down the front?
+
+🎤 SPEAKER_1 [2388s - 2390s]
+We haven't done this whole Wait for signal.
+
+🎤 SPEAKER_0 [2390s - 2392s]
+You ready? We're ready. Yes.
+
+🎤 SPEAKER_4 [2392s - 2392s]
+We
+
+
+---
+
