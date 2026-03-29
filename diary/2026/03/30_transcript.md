@@ -414,3 +414,251 @@ Back to focus on how the theology
 
 ---
 
+
+
+## 📝 Theological Essay Draft on Women’s Church Roles - 62c451ff-ec9e-4e6f-83d0-1a15c03fd9e3
+
+**記録時間**: 2026-03-30 03:47:02
+
+### STT生テキスト
+
+👤 あなた [0s - 2s]
+scholarship is not monolithic in this.
+
+👤 あなた [5s - 20s]
+There's a wide bandwidth of weights and emphasis in this application.
+
+👤 あなた [24s - 40s]
+There is a wide bandwidth.
+
+👤 あなた [44s - 46s]
+Sublo works on the heart.
+
+🎤 SPEAKER_4 [72s - 78s]
+The precious. Sorry.
+
+🎤 SPEAKER_2 [79s - 85s]
+We got that's that. Good. I'm so fast.
+
+🎤 SPEAKER_0 [88s - 90s]
+Well, I fixed that parking as well now.
+
+🎤 SPEAKER_4 [93s - 93s]
+So hold on, babe.
+
+🎤 SPEAKER_4 [197s - 198s]
+Subloof.
+
+👤 あなた [202s - 207s]
+Those who board accept the boundary of metal chip.
+
+🎤 SPEAKER_4 [210s - 214s]
+Emphasize emphasize.
+
+👤 あなた [223s - 226s]
+Talk to me then, bitch. Yeah. Think it's actually What's What's there? What's there?
+
+🎤 SPEAKER_4 [227s - 227s]
+Come.
+
+👤 あなた [227s - 233s]
+Music helps me lock in for some reason. Go on. No. No. Don't worry. No. I've taken her time to pause now. Thank you.
+
+🎤 SPEAKER_0 [233s - 235s]
+It's just confusing because it says it's here.
+
+🎤 SPEAKER_4 [236s - 237s]
+Yeah.
+
+🎤 SPEAKER_0 [238s - 239s]
+It looks like there.
+
+🎤 SPEAKER_4 [239s - 240s]
+Yeah.
+
+🎤 SPEAKER_0 [242s - 249s]
+But then then it's saying it's three five five on on the address, Hatten Road.
+
+👤 あなた [249s - 250s]
+Right. So it looks slightly different.
+
+👤 あなた [254s - 256s]
+That's three five three Next one down is 355 then.
+
+🎤 SPEAKER_2 [256s - 257s]
+What do you think is that one there then?
+
+🎤 SPEAKER_0 [259s - 260s]
+Assume it then. 355. Yeah.
+
+🎤 SPEAKER_2 [260s - 261s]
+Okay.
+
+🎤 SPEAKER_0 [261s - 261s]
+It's on with the van.
+
+🎤 SPEAKER_2 [262s - 263s]
+That one there.
+
+👤 あなた [263s - 265s]
+Yeah. That's the one that's per the picture. Was it? Yeah.
+
+👤 あなた [271s - 300s]
+This several works represent those who pull into the book.
+
+👤 あなた [419s - 445s]
+Then Thomas trying to shup him.
+
+👤 あなた [451s - 461s]
+Claims at this. However, this chapter an example of a restriction in very few words are reserved for passive
+
+👤 あなた [485s - 492s]
+This is a good representation of how we're Finally, positive space for women's leadership will then come and ask.
+
+👤 あなた [496s - 508s]
+Cannot be achieved by relieving restrictions. An exclusivity pro ambition vision vision vision of of gums. There is women's ministry being defined primarily by what's
+
+👤 あなた [511s - 530s]
+True complementary does eventually have to include However, if complementary means to be a pathology, restrictions cannot be a standpoint.
+
+👤 あなた [533s - 541s]
+Therefore, the methodological approach to this section of this session, will be intentionally Tension to start.
+
+👤 あなた [552s - 555s]
+Rather than start with it to find the function. By roads.
+
+👤 あなた [559s - 579s]
+The biblical, my I have one whole page on that. Biblical standpoint of human equality begins in both women are men and they're to be created in god's image and are given authority over creation.
+
+👤 あなた [582s - 585s]
+The creation of women in Genesis two as they Ezoken.
+
+🎤 SPEAKER_4 [586s - 586s]
+Helper.
+
+👤 あなた [587s - 601s]
+Adam does not imply in total transformation, but rather someone that completes the man. Matthew. Matthew writes, James. Piper writes. Matthew writes, without her, Adam's condition was not good.
+
+👤 あなた [603s - 619s]
+He needed a Alright? One who'd complain and say, cool. Why do do for him what he cannot himself? People language has other words helper that do have the idea of subordination, but none of them are used.
+
+👤 あなた [623s - 634s]
+Scripture affirms the quality and redemption.
+
+👤 あなた [638s - 647s]
+For example, in jazzy, this passage, the apostle Paul declares that there is no advantage or disadvantage.
+
+👤 あなた [655s - 660s]
+Men and women are like a coastal crisis and both have mediated. Access to God.
+
+👤 あなた [664s - 679s]
+Importantly, for church practice, this ontological sociological equality also extends to the dis not disruption, distribution.
+
+👤 あなた [683s - 701s]
+Of the spiritual gifts. The Holy Spirit just boots these gifts for the building of the church without regard to sex. Asson writes that men and women alike are given the gift of leading, teaching, exhausting, faith giving, prophecy, speaking in tongues, the rest for the coming good.
+
+👤 あなた [702s - 710s]
+The easiest reality of the priesthood of all believers includes the women and indeed presupposes the standing and priestly privileges of men and women.
+
+👤 あなた [722s - 728s]
+So then So then any sense of gender superiority superiority is simply not reflected in any adjustment. And must be ruled out.
+
+👤 あなた [729s - 736s]
+Biblical ontological equality and creation of redemption also extends the distribution of spiritual gifts for the building of the church.
+
+👤 あなた [737s - 752s]
+In short, and that's a functional role is explicitly restricted by scripture. Such as the office of elder, then the default posture of the church should be broad participation by both men and women in all kinds of gospel work, according to the spirit giving gifting.
+
+👤 あなた [767s - 774s]
+With a grateful heart The New Testament expects women to be highly visible, vocal, and influential in the life of the church.
+
+👤 あなた [775s - 786s]
+There is substantial evidence from across the New Testament of women. Serving in vital gospel ministry roles. Number 16, Paul recognizes several women as partners in gospel industry.
+
+👤 あなた [786s - 798s]
+Historial in Beth historian Beth Allison Bar notes the surprisingly high volume of women mentioned in this chapter. Several women are recognized by their ministry, Phoebe Merry Junior.
+
+👤 あなた [799s - 811s]
+Triphenia Triphosa and Persis. Pain writes that pull, the user paused. Describes each of these four women with a word that specifically denotes work in the gospel and in the church.
+
+👤 あなた [812s - 826s]
+Indeed, the degree of support from Paul for these women does indicate that whilst the office holder was rested, the actual work of ensures overwhelming the can see that in evangelism, church, planting, and puppet river.
+
+👤 あなた [829s - 833s]
+Beyond general core labor and Paul Cummins, Phoebe deacon of the church in
+
+👤 あなた [837s - 839s]
+For playing the Greek indicates more than being a server.
+
+👤 あなた [844s - 844s]
+But
+
+👤 あなた [848s - 859s]
+Most of for pain, the Greek indicates more than being a civilian concreter, but more sevens. It's qualifier.
+
+👤 あなた [863s - 882s]
+For pain, the Greek indicates more than for pain. The Greek indicates
+
+👤 あなた [886s - 897s]
+The Greek indicates more than being a servant of chancreus.
+
+👤 あなた [910s - 911s]
+But it's qualifier.
+
+👤 あなた [919s - 922s]
+It's qualifier. It is qualifier. It's qualifier.
+
+👤 あなた [930s - 1008s]
+It does seem Teacher mentioned pursuing along with her husband, Quelo, reveals that at least one this one woman was involved in non sinful high theology.
+
+👤 あなた [1012s - 1022s]
+Apollo's was a permanent male teacher.
+
+🎤 SPEAKER_4 [1026s - 1028s]
+Apollos.
+
+👤 あなた [1048s - 1063s]
+Should not be minimized to look. The orthodox does not condemn Persedo but praises them for that Persedo teaching. Within the gathered church, scripture affirms women's participation.
+
+👤 あなた [1064s - 1070s]
+It's clear from one fifty seven that Paul not only permit women to pram prophesy, but fully expect them to do so.
+
+👤 あなた [1073s - 1090s]
+Poor weight swung continues fourteen seventy six that when you have raise a degree of tension in terms of
+
+👤 あなた [1101s - 1102s]
+All the rushes.
+
+👤 あなた [1106s - 1139s]
+Some scholars such as going through the tension leads. To the conclusion that must be a later nonpolian interpolation. However, within a charismatic competitor context, tension can be resolved but it's under context.
+
+👤 あなた [1157s - 1160s]
+Verring preferred words. Seems one's got in sounding.
+
+👤 あなた [1163s - 1170s]
+So the wait and establishing a broad picture of Eagleton. Nature of gospel.
+
+🎤 SPEAKER_2 [1170s - 1172s]
+I tried to get the celestial pegasus.
+
+👤 あなた [1174s - 1176s]
+Of course, we're working both new.
+
+👤 あなた [1184s - 1185s]
+It's right to consider.
+
+👤 あなた [1189s - 1200s]
+That's right to consider boundaries.
+
+👤 あなた [1207s - 1208s]
+Wanna establish a broad picture of the other.
+
+👤 あなた [1212s - 1226s]
+This is right to consider.
+
+👤 あなた [1230s - 1241s]
+Which means she should find its definitional prohibitions clearly established in the biblical boundaries.
+
+
+---
+
