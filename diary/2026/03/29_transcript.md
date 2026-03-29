@@ -3406,3 +3406,26 @@ I think so. Yeah.
 
 ---
 
+
+
+## 📝 Church Communion Service Reflection - db922b0e-406b-452f-bc93-a585cb55096b
+
+**記録時間**: 2026-03-29 19:31:04
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [297s - 325s]
+We thank you the person of me to all many. I've been just playing it that fault. We thank you that through the cross, we can
+
+🎤 SPEAKER_1 [336s - 345s]
+Meet us where we're at, Lord, no matter at what stage of life journey we are. Of touch lives this morning?
+
+🎤 SPEAKER_1 [410s - 435s]
+That we can live a life that is full. So we come this morning do what we've been asked to do, to lift up the name of Jesus, Remember, what he is and accomplished on the cross. So I invite you that know the Lord is your saviour to come, take some bread and some wine and then we will read from God's word together.
+
+🎤 SPEAKER_1 [436s - 453s]
+And then take it together as a family as we remember that we also celebrate what Jesus did for us on the cross. So please come either side and then take it back to your seats and then I will read from the word of seats, before we
+
+
+---
+
