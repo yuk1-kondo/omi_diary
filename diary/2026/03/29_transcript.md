@@ -3530,3 +3530,758 @@ We concentrate chance for us to kind of get to know global advance
 
 ---
 
+
+
+## 📝 Sermon on Why Jesus Had to Die - 4bbdd5c1-85fd-40aa-893c-d3674fd3e330
+
+**記録時間**: 2026-03-29 19:47:03
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 1s]
+Growth this year there.
+
+🎤 SPEAKER_2 [7s - 19s]
+Mesopotam, Tanzania, UK, Madagascar, Ghana, USA, Brazil, Philippines, Zimbabwe, loads of countries that would have missed.
+
+🎤 SPEAKER_2 [23s - 28s]
+This all over the globe who prayed for each other and scored each other. Yes.
+
+🎤 SPEAKER_0 [41s - 47s]
+We were just we were just there's something that Ben said I messaged Ben about. Know, our troubles with the food and everything.
+
+🎤 SPEAKER_0 [48s - 60s]
+I said I'm feeling spiritually refreshed but physically weak. And Ben said that's the right way around, he said. You did that was you, it Ben? They said that. Yes. He was. He doesn't he doesn't remember, but he did.
+
+🎤 SPEAKER_0 [61s - 77s]
+Said it's better to be spiritually refreshed and physically weakens rather than physically strengthened and spiritually weakened. And so we can give glory for that. That was great. And it was just amazing to see how rapidly expanding is the kingdom of god.
+
+🎤 SPEAKER_0 [77s - 97s]
+Across the world. We are laboring here in Barrie it's tough soil. A lot of the time, it's tough, tough ground. But across the world, God is building his church, and the the the gospel is advancing faster than we're able to keep up. And that's not and that's true of advance, but that's true, of course, of the global church.
+
+🎤 SPEAKER_0 [97s - 105s]
+So it was so encouraging to hear some incredible stories of of of of the gospel spread into countries that that that there is no gospel.
+
+🎤 SPEAKER_0 [107s - 114s]
+What's the country called, Rachel? Atreia. Atreia. Atreia. We is a country in Africa, which is known as the North Korea of Africa.
+
+🎤 SPEAKER_0 [115s - 126s]
+A sense, it's very similar, mini miniaturistic kind of really repressive place. And the the church to become a church pastor there, you you you simply wait for the previous pastor to be taken off to prison.
+
+🎤 SPEAKER_0 [127s - 136s]
+Then you're the only person left. And this guy who was there didn't film it because for safety reasons, but he was locked in a shipping container in the desert, 40 degrees.
+
+🎤 SPEAKER_0 [136s - 148s]
+Were told we're gonna tomorrow you're gonna gonna die. I'm gonna kill you. And then war broke out and they were at to release all the prisoners, all the Christians. It's some incredible stuff. This guy is so full of the joy of the Lord. He's not afraid.
+
+🎤 SPEAKER_0 [149s - 158s]
+He's he's excited to be part of what God's doing. So that was so encouraging to see. Just how rapidly the the kingdom of God is building. It's growing.
+
+🎤 SPEAKER_2 [158s - 176s]
+Yeah. And, obviously, we you know, we've been blessed to have conferences like that. You know, back when they're in Indonesia and then the their ponds in Wairaia don't get things like this.
+
+🎤 SPEAKER_2 [213s - 216s]
+You know, we're we're doing what we're doing here, but they're doing what they're doing there.
+
+🎤 SPEAKER_0 [230s - 239s]
+Right. Kids. Back in the eighties and nineties, a family member went on holiday, they'd come back with a slideshow. You have to sit through their family photos.
+
+🎤 SPEAKER_0 [240s - 248s]
+And you have to be really interested. Who anyone here experience that? So because time's going, we've got a couple of photos we're gonna quickly show you.
+
+🎤 SPEAKER_0 [248s - 258s]
+It's about four photos. That's the top of Table Mountain. That was the day before the food poisoning. So we're were full of joy. It was great. We had a wonderful time.
+
+🎤 SPEAKER_0 [259s - 269s]
+This was an incredible quote. Now, the sermon the all the all the sermons are actually online. I encourage you to watch them, but the word on prayer was incredible. Listen to this quote.
+
+🎤 SPEAKER_0 [270s - 280s]
+Kneeding in prayer not a matter of indifference. It reminds you of your true position. It's as if you say, I'm a servant. Here is the king.
+
+🎤 SPEAKER_0 [280s - 291s]
+I do not live in a democracy but under a monarchy. He is not my errand boy. I never present my demands. I'm always a beggar at the throne of grace.
+
+🎤 SPEAKER_0 [292s - 301s]
+And though it is a throne of grace, I never something forget it is a phone. You you need to hear this this talk and prayer is incredible.
+
+🎤 SPEAKER_0 [303s - 325s]
+That now, Rich, you wanna say something about that? So we stayed in this beautiful beautiful I would like to say mansion but it is a massive house and that's that's my theme. We had a great time but the the most shocking thing for anybody who's been to South Africa will agree got houses like this that have got electric fences and armed guards that you can call any moments.
+
+🎤 SPEAKER_0 [326s - 345s]
+Then across the road, there are, townships that go on for miles made of metal sheets. And it's just a constant contrast there of the rich and the poor. It it it's it's for that reason, I found it quite uncomfortable that it was beautiful, but it was it was heartbreaking at the same time.
+
+🎤 SPEAKER_0 [349s - 362s]
+We stayed with a couple of people from Margra Margaret. I always say Margaret. Markets harbor church. H e c church. They're the ones that have paid for Rachel's job for two weeks. They paid for our flights and accommodation to go to this place.
+
+🎤 SPEAKER_0 [362s - 371s]
+Two years. We've got to build some really good friends with them. We had a wonderful time encouraging each other, so that was wonderful.
+
+🎤 SPEAKER_0 [372s - 380s]
+And that was Penguin Boulder's Bay, Boulder's Beach with penguins, African penguins kind of sit there and ask humans, we all look at them.
+
+🎤 SPEAKER_0 [381s - 389s]
+It was it was it was a great time us as a couple as well. So thank you for releasing us to go Rachel, want to say anything else very quickly?
+
+🎤 SPEAKER_2 [390s - 435s]
+Or Yeah. It was great. So thank you thank you, mum, for having the kids as well. That was a advance as we go on this year. But we have less time. It just worshipped around people from across the globe, many people being persecuted and have real challenges. We felt pretty flimsy and empathetic.
+
+🎤 SPEAKER_2 [436s - 439s]
+Coming with the things that maybe we find challenging into So thank you anyway.
+
+🎤 SPEAKER_0 [445s - 451s]
+Thanks for letting us go. We've we've super encouraged. Let's talk to all us us to do more than that.
+
+🎤 SPEAKER_1 [490s - 503s]
+Brian, let's just have you did a fab service. We don't know a week. If you haven't heard it, please listen to it. So this one, we didn't actually go through altogether, so we'll just do it now.
+
+🎤 SPEAKER_1 [503s - 517s]
+So question three. Why did the redeemer need to be truly god? Come on, folks. To make his obedience, and sacrifice perfect and effective.
+
+🎤 SPEAKER_1 [519s - 530s]
+So even though we didn't do it last week, remember it. It's really it's one of the coriology points, isn't it? To make his obedience and sacrifice perfect and effective.
+
+🎤 SPEAKER_1 [531s - 544s]
+Okay. So we've got a redeemer god. We have a redeemer god. That's something we're celebrating. Okay. For this week, why was it necessary for Jesus?
+
+🎤 SPEAKER_1 [545s - 550s]
+Our redeemer, to die? Did we need it?
+
+🎤 SPEAKER_0 [551s - 552s]
+Ensure it.
+
+🎤 SPEAKER_1 [553s - 558s]
+I think we did. Well, I did. I can't answer that. But I'd still need a redeemer.
+
+🎤 SPEAKER_1 [563s - 575s]
+Why was it necessary for Jesus and the redeemer to die? Come on, folks. Jesus willingly died in our place. Free us from sin's power and penalty.
+
+🎤 SPEAKER_1 [576s - 593s]
+To restore us to scripture are. So they're not just words made up. They're not just happy with things. Are from God's word. So they are living words.
+
+🎤 SPEAKER_1 [595s - 599s]
+Music, Mainstream. So another song you to learn.
+
+🎤 SPEAKER_1 [712s - 720s]
+So why did he die? He died, lost the are out there that need them.
+
+🎤 SPEAKER_1 [732s - 736s]
+Please you've got nothing else to hang on to. Please, we will We're trying.
+
+🎤 SPEAKER_0 [737s - 739s]
+Yeah. Two minutes.
+
+🎤 SPEAKER_1 [740s - 741s]
+Two minutes?
+
+🎤 SPEAKER_0 [741s - 741s]
+Yeah.
+
+🎤 SPEAKER_1 [741s - 743s]
+Sorry.
+
+🎤 SPEAKER_0 [743s - 744s]
+I preempted your wrong question.
+
+🎤 SPEAKER_1 [746s - 759s]
+Children will be going down Sim, exatamente, make sure that you pick them up afterwards. Thank you, Rachel, and the tea. We're gonna pray for them. We are only gonna have a very short break.
+
+🎤 SPEAKER_1 [759s - 770s]
+Because we have run over a little bit this morning. Minutes. Two minutes. Okay? So area. Okay, we're just gonna pray over the children first and then don't fight.
+
+🎤 SPEAKER_1 [771s - 789s]
+The coffee table, please. Father god, we just thank you we can come and worship a redeemer, the savior the world. We thank you for the cross for the empty grape. Lord, we as we look into Easter and and everything ahead of us, Lord, we just thank you that we are not my other religion.
+
+🎤 SPEAKER_1 [790s - 801s]
+We don't worship someone who is dead. We wish someone who is very much alive. And is with us here and walks with us and talks with us and wants share our love.
+
+🎤 SPEAKER_1 [801s - 808s]
+And share his with us. So, father, we thank you for that May I just praise the children go downstairs if you would just bless them.
+
+🎤 SPEAKER_1 [809s - 823s]
+Father God, the seeds of your word would go into them. They too would know you as their friends and savior. Lord, we just look forward to the day where we can look back and say, see how our child knows Jesus.
+
+🎤 SPEAKER_1 [823s - 837s]
+Because of what he was taught from an early age. Lord, we claim every child that is in this building, this morning for the kingdom of God, they would know from an early age Jesus as the savior and Lord.
+
+🎤 SPEAKER_1 [841s - 843s]
+In Jesus name. Amen.
+
+🎤 SPEAKER_0 [843s - 844s]
+Amen.
+
+🎤 SPEAKER_0 [849s - 851s]
+We need to short him. Well done. Good job today.
+
+🎤 SPEAKER_0 [858s - 861s]
+Good. Good. Very good.
+
+🎤 SPEAKER_0 [865s - 897s]
+It's playing time in it.
+
+🎤 SPEAKER_1 [898s - 901s]
+I'm just wondering if it's an idea to post the
+
+🎤 SPEAKER_0 [903s - 904s]
+Yes.
+
+🎤 SPEAKER_1 [904s - 904s]
+For the eighteenth of Yes.
+
+🎤 SPEAKER_0 [906s - 916s]
+Yes. So that we've it. I do need to update the app and everything as well. I'm just in peak peak business, but I I will definitely get through it though. Yeah.
+
+🎤 SPEAKER_0 [975s - 977s]
+Hello, Hey, you're you're drumming was a big blessed boy. Thank you.
+
+🎤 SPEAKER_0 [981s - 994s]
+Okay. Two minutes for now.
+
+🎤 SPEAKER_1 [1048s - 1052s]
+Show us your nerve grace
+
+🎤 SPEAKER_0 [1096s - 1106s]
+Thank you, Louis. So it was meant to be Steve today preaching, but poor Steve, as you know, is is not very well. He's been quite a while now.
+
+🎤 SPEAKER_0 [1107s - 1132s]
+Do remember him in your prayers. And and last week, we canceled church because so many people were out. And rowing was Ryan was preaching but god's providence, he he he he recorded the sermon from home whilst Daniel was sorry, was still in the hospital.
+
+🎤 SPEAKER_0 [1132s - 1138s]
+He wouldn't have been able to preach live anyway. Okay. Oh, you thought you're looking at me then?
+
+🎤 SPEAKER_0 [1144s - 1165s]
+So anyway, I want to encourage you to honour Ryan, because Ryan has put a lot of effort into that sermon. And whilst Theo was in hospital, he went home and recorded it. So if you're not normally listening to the to the sermons let's honor Ryan and the time he put into it.
+
+🎤 SPEAKER_0 [1166s - 1176s]
+And listen back. It's a really good one. It's a important one. So do take do take the time. Once we upload it to the the the that's pending launch sometime very shortly.
+
+🎤 SPEAKER_0 [1177s - 1201s]
+Do listen to it. Gonna record this one as well. Good. Okay. That being said, there's a moment in the film the movie Titanic. Now how many of you guys have and ladies here are familiar with the film Titanic? There's a there's a really bizarre moment in the film I think in pretty short, it's like meant to be alright, Jonathan. I've got it on my phone. Thank you, mate.
+
+🎤 SPEAKER_0 [1203s - 1211s]
+It's a bizarre moment in the film where where Jack and Rose are trying to escape the lower decks. They've been on the lower decks. The ship is sinking.
+
+🎤 SPEAKER_0 [1212s - 1219s]
+And they they kind of have to escape at this point in the film, they break through the door. To get back into the main
+
+🎤 SPEAKER_1 [1220s - 1221s]
+Yeah.
+
+🎤 SPEAKER_0 [1222s - 1224s]
+Is that is that echoing back?
+
+🎤 SPEAKER_1 [1224s - 1224s]
+Yeah.
+
+🎤 SPEAKER_0 [1226s - 1235s]
+Yeah. Thank you. There's a moment where they have to break through door. Watch this now. Hello. Hello. I thought it was music, know? It sounded like music, didn't it?
+
+🎤 SPEAKER_0 [1238s - 1243s]
+Is the laptop still playing music? Okay. Okay. Well, check this out anyway.
+
+🎤 SPEAKER_0 [1259s - 1269s]
+They boost through this door. Right? The ship is sinking. They burst through this door, and they they run past an a steward chat to them, Omi, what do you think you're doing?
+
+🎤 SPEAKER_0 [1269s - 1279s]
+You have to pay for that. That's why it's star line property. And you you you you're thinking, mate, read the room. The the ship is sinking. Hello?
+
+🎤 SPEAKER_0 [1280s - 1298s]
+One's gonna be worrying about that door. And it's a it's a funny moment. It sticks in the memory because it's silly. Right? It's a silly moment. Everything else is falling apart in the middle of chaos There's this sense of justice at this broken door that needs that needs to be paid for somehow.
+
+🎤 SPEAKER_0 [1299s - 1324s]
+And it's kind of like the feeling that someone has to pay for that. Soon has to pay for that. And it's we we know that feeling well. Do know when you go to those shops, you go on holiday and it's kind of like you look for things to buy for people and there's little signs around all these little ornaments saying, if this item is damaged, You need to if you break it, you need to pay for it.
+
+🎤 SPEAKER_0 [1325s - 1338s]
+And that's generally true. Right? If so, is broken, something's damaged, someone has to cover the cost It's not something that we're either. It's kind of like something that we just already know.
+
+🎤 SPEAKER_0 [1339s - 1351s]
+When something breaks, someone has to fix it. We get into a car crash, the party responsible or more likely the insurers have to pay for their repairs. Right?
+
+🎤 SPEAKER_0 [1352s - 1363s]
+It's not just physical damage that this is true for. It's also true in relationships if trust is broken. In a relationship, somebody has to carry the cost of that.
+
+🎤 SPEAKER_0 [1365s - 1384s]
+It may be financial. If you work up a debt it has to be paid back. Deep down, we all know this. When something is truly wrong it doesn't just disappear It has to be dealt with And now this is where it gets a little uncomfortable.
+
+🎤 SPEAKER_0 [1385s - 1396s]
+We understand the principle that when it comes to money and we understand the principle when it comes to justice. But when it comes to God, we start to think a bit differently perhaps.
+
+🎤 SPEAKER_0 [1397s - 1409s]
+We start to say things like, god is loving, God forgives, God understands, And all that is true. Okay? That's that's completely true. But here is the question that the world sometimes asks.
+
+🎤 SPEAKER_0 [1412s - 1421s]
+If God is loving why doesn't he just overlook sin? Why does what's the deal man? Let it go. Let it go man. Let it go. You know that kind of thing.
+
+🎤 SPEAKER_0 [1421s - 1433s]
+Why can't he just let it go? It's not that big a deal Why the cross? Why didn't he the cross? Why the need for suffering Why the need for a death?
+
+🎤 SPEAKER_0 [1434s - 1445s]
+And then this there was this whole controversial thing that broke out in the evangelical church. Ten, twenty years ago where this whole idea of cosmic child abuse Have you heard this? Where, why would a father send his son?
+
+🎤 SPEAKER_0 [1445s - 1448s]
+To die? That doesn't sound like god to me.
+
+🎤 SPEAKER_0 [1452s - 1473s]
+And even more than that, if Jesus came to save us, why didn't he just simply teach us to live in a better way? If somebody could write a manual that would enable humanity to live harmony together who better qualified than the son of god Jesus?
+
+🎤 SPEAKER_0 [1474s - 1483s]
+Why not just show us a better way to live? Why not just give us really really clear instructions that will solve the problems in the world.
+
+🎤 SPEAKER_0 [1485s - 1494s]
+In fact, that's how most of the world understand what we think the bottled is, a manual for better living Then they look her in and think, no. This not for me.
+
+🎤 SPEAKER_0 [1495s - 1506s]
+They look at the example set by Christians, supposed Christians, who have confused the gospel with nationalism, and they think this is not for me.
+
+🎤 SPEAKER_0 [1507s - 1516s]
+Why not? Why didn't Jesus come down, set us an example, follow me, follow the way that I'm setting you and then there will be a better place.
+
+🎤 SPEAKER_0 [1516s - 1529s]
+That the gospel? Why did he have to die? What was so serious, so so real, so costly that nothing less than his death would do.
+
+🎤 SPEAKER_0 [1532s - 1542s]
+So that's a question we're gonna answer today. If if have your bible with you, turn to one Peter three One Peter three verse 18. It's towards the back.
+
+🎤 SPEAKER_0 [1542s - 1543s]
+Of the pew bible
+
+🎤 SPEAKER_0 [1547s - 1558s]
+Shout out the page number for the whoever gets there first. Twelve nineteen. Twelve nineteen. Twelve nineteen. One Peter. Chapter three verse 18.
+
+🎤 SPEAKER_0 [1560s - 1568s]
+And for don't normally like to do this, but we're doing this today. We're looking at one verse. I believe, by the way, that the bible is meant to be read in chunks.
+
+🎤 SPEAKER_0 [1569s - 1578s]
+You meant, in fact, lots of the New Testament letters you can read in one go. They're designed to do that because if we just take one verse, can sometimes misunderstand the wider points.
+
+🎤 SPEAKER_0 [1579s - 1593s]
+But we are gonna look at one verse a day. And it's a verse that carries the full weights of the gospel. It explains very carefully Listen to what it says. I'm gonna put up on the screen.
+
+🎤 SPEAKER_0 [1593s - 1609s]
+One Peter chapter three verse 18. It says this, for Christ also suffered once for sins, The righteous for the unrighteous, to bring you to god.
+
+🎤 SPEAKER_0 [1613s - 1633s]
+This verse tells us why Jesus had to die. Not in kind of vague terms, but really clearly. And if we understand this, if we understand this first well, I'll part this verse, it will change the way you see your sin It will change the way that you understand the cross.
+
+🎤 SPEAKER_0 [1633s - 1644s]
+The way you relate to god. So why did Jesus have to die? Let's look at the first part of that verse. Christ also suffered once for sins.
+
+🎤 SPEAKER_0 [1646s - 1671s]
+Let's just sit with that full moment. Christ also suffered once four sins. Not alongside sin, not near sin, not an example. Of action, Four sins. And that word for means a lot. It means well, you tell me, what does the word for means in this check up some ideas. What what does the word for mean in this sentence?
+
+🎤 SPEAKER_0 [1674s - 1678s]
+In In place of. Excellent.
+
+🎤 SPEAKER_0 [1686s - 1705s]
+The reason. Yes. Yes, the reason stretching your brains a bit, It means because of, doesn't it? It means in response to. It means on the account of.
+
+🎤 SPEAKER_0 [1707s - 1724s]
+Jesus did not die randomly He did not die as a tragic accident. It wasn't that the Roman Empire got him. It because he was some sort of leftist rebel he did not die simply to inspire us.
+
+🎤 SPEAKER_0 [1726s - 1743s]
+He suffered suffered because because of sin. Now in our fall in hearing addition, something of our sinful nature makes us want to treat sin lightly.
+
+🎤 SPEAKER_0 [1745s - 1759s]
+We often reduce our sin down to simply a mistake I made. We soften it simply into being our weakness and it is a weakness. Part of our fallen human nature.
+
+🎤 SPEAKER_0 [1760s - 1779s]
+Our nature causes us to sin. It's true. And we explain it away then. As a result of our upbringing or our personality flaws. We say things like I'm not perfect, no one no one is perfect, I'm doing my best. I'm doing my best.
+
+🎤 SPEAKER_0 [1779s - 1792s]
+And all that sounds reasonable. Right? But the bible does not sin as a minor flaw. It describes it as a serious offense against God.
+
+🎤 SPEAKER_0 [1793s - 1808s]
+A serious offense against god. Not just brick and rule, but rejecting a relationship. Not just doing wrong things, but turning away from the one who made you.
+
+🎤 SPEAKER_0 [1810s - 1819s]
+And syn is not just horizontal. It's not I offended Johnny, and John and Johnny's upset, and I've hoped Johnny. It's not horizontal. It's actually primarily vertical.
+
+🎤 SPEAKER_0 [1822s - 1839s]
+It's a sin against god himself. That's why David says in Psalm 51, he says, against you you only have I sinned. Remember? So even though it was because David hurt others, he recognized that it was actually against god alone that he had sinned.
+
+🎤 SPEAKER_0 [1840s - 1854s]
+Because all sin and its cause is actually against god. God is holy, truly holy. He's perfect good, completely pure. And because that's true, our sin is not small.
+
+🎤 SPEAKER_0 [1855s - 1862s]
+It is serious. And so when you think about Good Friday, if you come to the temporary service, Jonathan led us through that accidentally last year.
+
+🎤 SPEAKER_0 [1862s - 1888s]
+If your view of sin is small, it hit you. The same way it should. If your view of your sin is huge, then the kind of your view of Christ's work on the cross will be magnified, made huge in your mind too. You'll deepen your worship, Sin is serious, not because I say so.
+
+🎤 SPEAKER_0 [1888s - 1899s]
+Not because Ri says so, It's serious because of who it's against. So if I lie to Rachel that I hadn't been to KFC, I really had been to KFC.
+
+🎤 SPEAKER_0 [1900s - 1911s]
+That is a serious lie. I would need to repent of it and say, sorry, Rich. I lied to you. I did actually go and get three really tasty hot wings and an original piece of chicken.
+
+🎤 SPEAKER_0 [1912s - 1914s]
+And this sour cream chive sauce.
+
+🎤 SPEAKER_0 [1918s - 1923s]
+It's it's a serious thing. Right? I make joke of it. It's serious. If were to do that, I would I'd be in sinner. Need to repent.
+
+🎤 SPEAKER_0 [1924s - 1938s]
+But if I were to lie to a judge in a courtroom, that matters even more. Why? It matters because of who is against. The greater the authority, the greater the weight.
+
+🎤 SPEAKER_0 [1939s - 1940s]
+And sin is against god.
+
+🎤 SPEAKER_0 [1944s - 1951s]
+With this real wrongdoing, there's real consequence. We know this instinctively. We've already said it. When something is wrong, someone has to pay.
+
+🎤 SPEAKER_0 [1953s - 1967s]
+And the bible says the same thing. Your sin has created a debt. Not a financial one. But a real guilt, a real moral one against a real god. And that guilt does not disappear.
+
+🎤 SPEAKER_0 [1968s - 1981s]
+By itself. It doesn't fade with time. It doesn't get cancelled out by being good. It's impossible to pay it off. It does it doesn't balance itself. Guilt is it like a real thing.
+
+🎤 SPEAKER_0 [1982s - 1989s]
+Guilt is not sometimes we think of guilt as an emotion. I feel guilty. But is actually a real thing.
+
+🎤 SPEAKER_0 [1991s - 2001s]
+It's you can feel guilty when you're not actually guilty of doing something. Right? Right. But and you can feel fine when you are guilty. Guilty is a status thing.
+
+🎤 SPEAKER_0 [2002s - 2013s]
+Not just an emotion. You can feel guilty, you can feel not guilty when you are guilty. So it's not just an emotion, it's a reality. And before god, sin creates real guilt.
+
+🎤 SPEAKER_0 [2014s - 2021s]
+And guilt carries a penalty, and the bible speaks to this clearly. We'd spent a lot of time talking about this in part one. The wages of sin is death.
+
+🎤 SPEAKER_0 [2022s - 2037s]
+The Bible says, death, wow. Why? Because sin separates us from god, the source of life. So this is where people often put push back.
+
+🎤 SPEAKER_0 [2037s - 2048s]
+Why is God so serious about sin? Why can't he just forgive? Why he just let go? Why make such a big deal about this? Church would be so much more popular if you got religious judgments.
+
+🎤 SPEAKER_0 [2048s - 2059s]
+Stuff. And just people that god loves them. And hey live like the way Jesus told us to live, and your life's gonna be good. That's not the gospel.
+
+🎤 SPEAKER_0 [2060s - 2067s]
+This is a really important part. The good news is just boring news without the bad news first.
+
+🎤 SPEAKER_0 [2070s - 2081s]
+Just let it go, man. But think about it. If god simply overlooks sin, what's that say about him? If evil doesn't matter to him, is he still a good god?
+
+🎤 SPEAKER_0 [2083s - 2097s]
+If injustice is ignored, is he still a just god? If wrongdoing has no consequence, he still a righteous god? I don't know about you, but I don't want to worship a god like that who ignores evil.
+
+🎤 SPEAKER_0 [2098s - 2110s]
+Let's set the video off. We respect a judge who just lets everybody go. Who was clearly guilty, In fact, those sort of cases make the news, don't they?
+
+🎤 SPEAKER_0 [2110s - 2121s]
+Somebody runs over who's drunk and they run over a child, and then the judge says, community service or something like that. There's a deep sense of injustice We trust a system like that.
+
+🎤 SPEAKER_0 [2123s - 2133s]
+We want things to be made right. And yet when it comes to our own sin, we want an exception. We want god to be just but not with us necessarily.
+
+🎤 SPEAKER_0 [2135s - 2149s]
+But god doesn't change. He is consistent. He is good. He's just. He does what is right. Which means sin must be dealt with. Not ignored, not dismissed, but dealt with.
+
+🎤 SPEAKER_0 [2151s - 2162s]
+And that brings us back to this verse. Christ also suffered once since. Why did Jesus have to die and suffer? Because sin has penalty, a real one, and if that penalty is not dealt with, it remains.
+
+🎤 SPEAKER_0 [2162s - 2176s]
+And if it remains, we still stand under it. So the question becomes, if our sin must be paid for, who should pay for it? Who should pay for it? If our if our sins must be paid for, who should pay for it?
+
+🎤 SPEAKER_0 [2177s - 2188s]
+Surely the answer to that question is we should pay for it. We should pay for it. Right? Our debts, our sin, we should pay for it.
+
+🎤 SPEAKER_0 [2190s - 2202s]
+The punishment for our sin against the holy perfect god is death, an eternal separation from god and hell. The god is not just a righteous church, he is loved creator.
+
+🎤 SPEAKER_0 [2203s - 2211s]
+Two Peter three nine says this, god is patient with you, not wanting anyone to perish, but for everyone to come to repentance.
+
+🎤 SPEAKER_0 [2213s - 2226s]
+He's a patient god. Let's look at this verse again. The righteous for the unrighteous. For Christ also suffered once for the for sins, the righteous for the unrighteous to bring you to God.
+
+🎤 SPEAKER_0 [2227s - 2228s]
+And this is the center of it.
+
+🎤 SPEAKER_0 [2232s - 2241s]
+The righteous for the unrighteous. Every word in that verse in that those words matter. So let's start with the righteous. Who is the righteous one?
+
+🎤 SPEAKER_0 [2244s - 2257s]
+It's Jesus, right? Not mostly righteous, not trying to be righteous, not better than most, but perfect righteous. Like we've seen in these past few weeks and this catechism so far.
+
+🎤 SPEAKER_0 [2258s - 2273s]
+Jesus has obeyed we failed. He honored God where we didn't. He loved fully. He lived purely. He followed the law perfectly. He spoke truthfully. He had no sin in him. He was not guilty. He had no debt.
+
+🎤 SPEAKER_0 [2273s - 2283s]
+Nothing in him deserved judgment. And then the other side of that is the unrighteous. The unrighteous. That's us. That's me. That's you. That's every human.
+
+🎤 SPEAKER_0 [2286s - 2301s]
+We all fall short. Not just occasionally wrong, not just imperfect, but unrighteous. We fall short. We turn away. We choose ourselves over god. Not once, not occasionally, but over and over again consistently.
+
+🎤 SPEAKER_0 [2302s - 2316s]
+So this first sets up a contrast, the righteous the unrighteous, Jesus, us, And then comes the important words in the middle, for The righteous for the unrighteous. What does the word for mean here?
+
+🎤 SPEAKER_0 [2322s - 2333s]
+In place of, instead of, on behalf of, So we're talking about a substitution here. Jesus does not just stand near us. He stands in our place.
+
+🎤 SPEAKER_0 [2334s - 2338s]
+Why? Why would Jesus do that?
+
+🎤 SPEAKER_0 [2342s - 2353s]
+Jesus on the cross. Is not just suffering, He's not just showing love. He's not just giving us an example. He's taking our place.
+
+🎤 SPEAKER_0 [2359s - 2379s]
+What belongs to us is given to him. Our guilt, RC, our judgement, placed on him. And what belongs to him is given to us. His righteousness, his acceptance, his standing before God, himself. He gives us himself.
+
+🎤 SPEAKER_0 [2380s - 2382s]
+And this is the great exchange as many of you know.
+
+👤 あなた [2384s - 2395s]
+This is why Jesus had to die. Because if sin has a penalty, and god is just then that penalty must be paid And here's the problem.
+
+👤 あなた [2396s - 2408s]
+We can't pay for it in a sense to cover it ourselves. Not fully, not finally, if you spent the rest of your old days living following the law of god perfectly.
+
+👤 あなた [2410s - 2427s]
+Now Not enough. We can try to do better. Can try to improve We can try to make up fit for things. But you cannot undo guilt. You cannot raise sin effort. You cannot balance the scales like Islam would tell you you can.
+
+👤 あなた [2432s - 2440s]
+The issue is not behavior. It's not your behavior, it's the issue. It's your nature and your standing before god.
+
+👤 あなた [2444s - 2456s]
+So if we cannot pay and god will not ignore it, what happens? Then? And this is where the gospel steps in. God provides what we cannot.
+
+👤 あなた [2457s - 2476s]
+And he's pleased to do so. Pleased to do so. A substitute. Someone who can stand in our place. Someone who's righteous so he doesn't not deserve judgment, and someone who is human so he can stand for us.
+
+👤 あなた [2477s - 2485s]
+That's why Jesus who he is. That's what we've talked about these last few weeks. Fully god, fully man, able to represent us able to save us.
+
+👤 あなた [2486s - 2496s]
+On the cross. And there's not a symbolic thing on the cross, is it? Actually he bears fully the wheat of Asin. The cross is violent.
+
+👤 あなた [2497s - 2511s]
+It is heavy. It is costly. Because sin is heavy. And violent. Jesus steps into it for us in our place this is very personal. Okay? This is this this is for you.
+
+🎤 SPEAKER_1 [2512s - 2512s]
+Debbie.
+
+👤 あなた [2513s - 2522s]
+You for everyone in this room. I can't I can't go wrong in everyone's name. I've picked on you though, Debbie. This is for you.
+
+👤 あなた [2523s - 2524s]
+This is for you.
+
+👤 あなた [2527s - 2536s]
+Jesus steps in your place. Really personal. This is about your sin. This is about my sin. Not just sin in general, not sin out there.
+
+👤 あなた [2537s - 2550s]
+Out in the bad world. It's yours, your sin, your guilt, your failure, your hidden things, your repeated sinful patterns. Your moments you regret, all of them were laid on him.
+
+👤 あなた [2553s - 2567s]
+And he does not step back, does he? He does not refuse, does he? He takes it. Winningly. Pleased to do so. I'm getting goosebumps talking about this.
+
+👤 あなた [2569s - 2584s]
+That's what your catechism says. Right? Your answer to this question is, Jesus willingly died in our place. Not forced. He trapped he chose to do this, Why?
+
+👤 あなた [2586s - 2599s]
+Because this is the only way. If someone has to pay, to either you or it's him And on the cross, he chose to stand in your place.
+
+👤 あなた [2601s - 2604s]
+So the question really does Sin matter? What's the deal now?
+
+👤 あなた [2614s - 2635s]
+So what's the deal? That's that's not the question, is it? It's more to do with will you carry your sin before God? Or will you trust the one who carried it for you?
+
+👤 あなた [2638s - 2641s]
+Finally, because time is really going. I'll be quick on this one.
+
+👤 あなた [2645s - 2656s]
+For Christ also suffered once for the righteous for the unrighteous to what? To bring you to God. And that's where we've been heading This is the purpose.
+
+👤 あなた [2657s - 2666s]
+Why does Jesus do this? Why would God make a way? What's the reason for going to the cross? To bring you to God.
+
+👤 あなた [2669s - 2681s]
+You who have trusted in Christ, That's the goal. Not just forgiveness. It's not just a clean slate. It's not just escaping punishment.
+
+👤 あなた [2681s - 2694s]
+Actually god himself. We talked about this at Christmas. God is pleased to dwell. The whole story of the Bible is about God making a way to dwell with his people again.
+
+👤 あなた [2697s - 2703s]
+It's not like, it's not like you've got a speeding ticket and he comes along and he pays it you, and then you're back to as though you've never sinned.
+
+👤 あなた [2704s - 2715s]
+That's awesome. God does do that. He wipes you debt. But more than that, he welcomes you as a child. He adopts you. He you belong to him. He brings you to himself.
+
+👤 あなた [2716s - 2729s]
+So when we talk about salvation, we say my sins are forgiven. I going to heaven. Yes. Okay. But that's not what it is. It's actually your sins are forgiven so that you can be brought to God.
+
+👤 あなた [2730s - 2742s]
+You belong to him. It's all always been about relationship. It's always been about nearness. It's always been about peace with him. It's always been about adoption. It's always been about becoming his child.
+
+👤 あなた [2743s - 2758s]
+That's what this is all about. And so think that the very god we sinned against the very god we turned away from, the God whose holiness we offend, is the same God who brings us back.
+
+👤 あなた [2760s - 2773s]
+Brings us near. Welcomed, And that's what the cross achieved. Not just removal of that guilt. Gone forever as far as the East, is from the West.
+
+👤 あなた [2774s - 2792s]
+It's not just that It's about a restoration of relationship. So let me finish by saying this. The next time you sin, let's be honest, that will probably be today, That's me too.
+
+👤 あなた [2792s - 2809s]
+The next time you sin, be a thought, a word, a reaction, something you know is not right. What would you do in that moment? Because most of us do one or two things. We either minimise it minimise it Oh, it's not that bad.
+
+👤 あなた [2811s - 2816s]
+Or we carry it, and so we pull away from God. Sorry, God. I can't talk to you right now.
+
+🎤 SPEAKER_0 [2818s - 2820s]
+I've just sinned and but in that moment, you need to remember this.
+
+👤 あなた [2821s - 2838s]
+It has already been paid for. Not excused, not ignored. God doesn't just hide it away. It's paid for. Past, future, and your past present and future sin has been paid for. It's gone.
+
+👤 あなた [2844s - 2855s]
+So go to him. Go to him, don't run away from him, That does not give us a license to sin by the way. Okay? No. We are to live lives in gratitude.
+
+👤 あなた [2857s - 2869s]
+For what god's done. Are to try and live in a way that pleases him, but our status with God is paid. It's done. Are a child. If you're in Christ, you're a child of God. If you're outside of Christ, you're not a child of God.
+
+👤 あなた [2871s - 2881s]
+You need to come to him. So when you do sin, and that will be today probably, say sorry, God, I'm sorry, and it's the right thing to do.
+
+👤 あなた [2882s - 2893s]
+When we make mistakes. But your status hasn't changed. You are still a forgiven, adopted child of god. Not because you've earned it, but because of god himself who has brought you near.
+
+👤 あなた [2896s - 2903s]
+So how does this help us when someone sins against you? Has somebody sinned against you and you're just finding it hard to let go of it?
+
+👤 あなた [2904s - 2915s]
+When you're hurt and you misunderstood your and something inside of you says, they should pay for that. They should pay for that. What they've done That instinct isn't wrong.
+
+👤 あなた [2917s - 2926s]
+It's kind of an inbuilt in us. We said at the start someone has to pay here's what you need to remember. Either they carry it or Christ carries it.
+
+👤 あなた [2927s - 2939s]
+And if Christ has paid for your sin, how can you demand payment for this? This is where forgiveness becomes real. It's not about pretending it doesn't matter.
+
+👤 あなた [2940s - 2951s]
+It's not saying it didn't hurt. But realizing the right way to make them pay actually is to trust it to god. Who is the righteous and fair judge of all?
+
+👤 あなた [2953s - 2963s]
+How about you when you feel distant from God? Are you feeling distant from God today? And if you're honest, you kind of feel a bit cold, you feel a bit flat, you feel a bit disconnected.
+
+👤 あなた [2964s - 2978s]
+And if you actually trace it back, often it's not him it's you Prayer has The word has been closed. You've not opened the word You've not your worship has become occasional, and sin has crept in quietly into your life.
+
+🎤 SPEAKER_0 [2980s - 2983s]
+Those moments, remember this. You are already near to God.
+
+👤 あなた [2984s - 3006s]
+God is not distant from you. He's brought you near. The way is open. Come before him, repent again of your sin, not to change your status, but to to to to say sorry and to to spend time with him.
+
+👤 あなた [3007s - 3018s]
+Spend time with him, and I promise you, your heart will be warmed. Don't stay distant, don't settle into the distance draw near to God.
+
+👤 あなた [3019s - 3029s]
+That's why Jesus died on the cross. Commit to spending time with him not for legalism, not for practicing, but to enjoy him. Enjoy him.
+
+👤 あなた [3030s - 3047s]
+Christ didn't die to keep you at arm's length. He died to bring you near to God. And finally, if you're a Christian today and you feel like you've heard this message, a thousand times, Every Easter, plus more.
+
+👤 あなた [3048s - 3056s]
+And you know the language, you know the cross, you know forgiveness, you know grace, and if you're honest, doesn't move you like it used to move you.
+
+👤 あなた [3057s - 3065s]
+I want you ask for a show of hands, but perhaps you'll not sure this morning. Let me say this really plainly. The problem is not the message.
+
+👤 あなた [3067s - 3069s]
+The problem is that you stop seeing the cost.
+
+👤 あなた [3072s - 3088s]
+You've made your sins smaller. So the cross has become smaller. But if you see your sin clearly, not generally but personal sin You'll see the cross clearly again.
+
+👤 あなた [3090s - 3091s]
+You'll see what it took.
+
+👤 あなた [3095s - 3104s]
+And it's not just a head thing, a knowledge thing, it's a heart thing, it's an infections thing. You'll you'll feel it and it'll lead you back to worship.
+
+👤 あなた [3106s - 3115s]
+One last thing. I've said that three times now. But if you're here today, and you know you're on the fence, I can't preach a sermon like this and not do this. Okay?
+
+👤 あなた [3116s - 3131s]
+If you're on the fence, you're not fully in, you're not fully out, you need to hear this today. You need to understand. You've never actually doubt with your sin before god. You're still standing guilty before him.
+
+👤 あなた [3133s - 3146s]
+And let me just ask a really plain question. Why? Why? Why would you sit on the fence? What are you waiting for? You already know this. Sin is real. It has a cost.
+
+👤 あなた [3148s - 3157s]
+Someone has to pay. And the question is not if it will be paid. The question is will you pay for it or will you trust Christ who pays it for you?
+
+👤 あなた [3158s - 3170s]
+Because this is not something to delay friends, Today is the day Not when life settles down, not when you feel ready, today. And the invitation is open.
+
+👤 あなた [3170s - 3181s]
+Christ has suffered. Once for sins. The righteous for the unrighteous. Why? To bring you to god. To stand, we're gonna pray.
+
+🎤 SPEAKER_1 [3190s - 3192s]
+Richard, Thank you father,
+
+👤 あなた [3193s - 3194s]
+for sending your son Jesus
+
+👤 あなた [3198s - 3206s]
+And it was not cosmic child abuse. Jesus, you came willingly You did not despise the cross.
+
+👤 あなた [3211s - 3232s]
+He emptied yourself by adding on humanity to yourself. Truly human, truly god, so that you could stand in our place, my place, take the punishment that I deserve, so that we could be reconciled, but we could come to your father.
+
+👤 あなた [3233s - 3244s]
+We love you, Jesus. Lord, I pray for us in this room this morning that have heard this so many times that the power of it is is kind of waned a little bit.
+
+👤 あなた [3244s - 3255s]
+This is the greatest news ever preached to mankind. That God loves us so much that he wants to dwell with us, and he has made a way to do that.
+
+👤 あなた [3255s - 3267s]
+All who will come. For all who will believe. And trust in Jesus And by believe, I mean believe him when he says, I have paid it all.
+
+👤 あなた [3268s - 3272s]
+It is finished, Abide in me. Jesus says.
+
+👤 あなた [3276s - 3286s]
+So, Jesus, as I as we sat in your word today and we recognize the way of our sin, we recognize the the weight of your grace. And your love.
+
+👤 あなた [3287s - 3296s]
+We thank you, Jesus. I pray this week as we start to think about remembering the cross on Friday, that we would just be reminded again.
+
+👤 あなた [3297s - 3315s]
+Of just how incredible grace is debt, we should pay for it, but no, you did. Thank you Jesus. And I pray for anyone in this room this morning who's on the fence Holy spirit, I pray you convict their hearts.
+
+👤 あなた [3316s - 3324s]
+Of their need for you. I pray, god, that you would do something today that would bring about new life. Only you, holy spirit, can do that.
+
+👤 あなた [3325s - 3328s]
+Bring new life, I pray. Convict our hearts.
+
+👤 あなた [3331s - 3333s]
+Conflict our hearts. May we recognize our need for you.
+
+👤 あなた [3337s - 3340s]
+And that we cry out for mercy, and you are a merciful God.
+
+👤 あなた [3349s - 3367s]
+And Jesus may we who have been Christians for some time may we never get over the cross. May we never forget our standing before your father is purely and fully on what you've done for us on that day.
+
+🎤 SPEAKER_1 [3371s - 3371s]
+Amen.
+
+👤 あなた [3372s - 3380s]
+We're gonna finish with one worship song. You want prayer for anything I've talked about, or anything else, feel free to come down the front and I'll pray with you.
+
+👤 あなた [3382s - 3385s]
+And there'll be others too who who are willing to pray if you want to as well.
+
+🎤 SPEAKER_0 [3386s - 3391s]
+Come down anytime in this song, and we'll pray together. Or stand, in fact, together.
+
+👤 あなた [3392s - 3394s]
+And we'll just come to Christ together.
+
+
+---
+
