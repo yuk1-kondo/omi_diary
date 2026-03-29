@@ -774,3 +774,80 @@ Provided that the teaching takes place within the structure by for provided for 
 
 ---
 
+
+
+## 📝 Phone App Connectivity Issues Discussed - 29fc4512-1e2f-4564-bb20-b2f08c0f29af
+
+**記録時間**: 2026-03-30 04:54:41
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 3s]
+Wait I'm not saying now.
+
+🎤 SPEAKER_0 [3s - 5s]
+I'm not saying now. I'm saying I'm now.
+
+🎤 SPEAKER_2 [9s - 12s]
+It's Why?
+
+🎤 SPEAKER_4 [13s - 15s]
+Don't know, Jim. Have to have a look at the Internet. I don't know.
+
+🎤 SPEAKER_0 [17s - 19s]
+I have to come off the Internet to be able to book on just the Alright.
+
+👤 あなた [22s - 23s]
+Because it do need to sort it.
+
+🎤 SPEAKER_0 [24s - 26s]
+It it won't let me do a search on that. She's weird.
+
+👤 あなた [27s - 31s]
+It's weird. It's the apps. It's it's a it's a phone it's things getting confused.
+
+🎤 SPEAKER_4 [31s - 32s]
+Phones particularly.
+
+🎤 SPEAKER_0 [33s - 35s]
+App, like it's phone on the Internet. No problem at all.
+
+🎤 SPEAKER_2 [35s - 40s]
+When I go on an app, it's like half functionality. So I can do stuff on the app.
+
+🎤 SPEAKER_0 [40s - 45s]
+As soon as I have to search places, it was saying places like Hounslow didn't exist.
+
+🎤 SPEAKER_0 [45s - 49s]
+As soon as I come off WiFi, type in Hounslow, it comes up you know when it comes out a list of all the places.
+
+👤 あなた [49s - 60s]
+There's something weird going on. I shared with you a chat JBT conversation I had. Yeah. Maybe you can carry on that conversation and just say, give it some examples. They might be able to tell us what to do.
+
+🎤 SPEAKER_4 [61s - 63s]
+But I I I will get around to have a look at the Yeah.
+
+👤 あなた [64s - 66s]
+But at the moment, I'm just doing this.
+
+🎤 SPEAKER_4 [70s - 101s]
+I don't know why Judy, you're pissed off not doing that math. Yeah. You're best off not doing that math for now.
+
+🎤 SPEAKER_4 [107s - 110s]
+I know it. Nothing I can do about it. You gotta stop saying it.
+
+🎤 SPEAKER_0 [110s - 115s]
+Dude, what we're saying is we know it's laggy. You can choose to keep playing it or come off it, but there's nothing we can do.
+
+🎤 SPEAKER_0 [116s - 121s]
+We don't know why it's laggy. There's nothing we can do about it. It's up to you what you want to do about it.
+
+🎤 SPEAKER_2 [122s - 123s]
+I'm gonna say.
+
+🎤 SPEAKER_4 [124s - 127s]
+Yeah. We're going. TV. Alright.
+
+
+---
+
