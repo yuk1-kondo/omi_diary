@@ -3329,3 +3329,80 @@ I think so. Yeah.
 
 ---
 
+
+
+## 📝 Pastor Leads Congregation in Confession and Assurance - 6659e227-11eb-471a-9531-9a381bea2c19
+
+**記録時間**: 2026-03-29 19:21:14
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 1s]
+shadows battle nothing can stand
+
+🎤 SPEAKER_0 [6s - 20s]
+Almighty fortress, we can stand power shadows.
+
+🎤 SPEAKER_0 [32s - 72s]
+Just as we were worshiping, I I just felt in the spirit that there's there's some folk here today who come with a guilty heart.
+
+🎤 SPEAKER_0 [73s - 86s]
+Who come out feeling down by their sin, And I just we're gonna carry on worshiping in a moment. But I just really felt needs to lead us all through confession together.
+
+🎤 SPEAKER_0 [87s - 98s]
+Now if you're in Christ, you're already forgiven. Your sins have been paid for. They're singing. But you can still feel down by by your sins. So I'm gonna the band are gonna keep on playing. I'm just gonna lead us in quick prayer.
+
+🎤 SPEAKER_0 [99s - 107s]
+If that's you, if you've if you're here today and you're finding it hard, to really worship full heartedly because you know of your guilts, before god.
+
+🎤 SPEAKER_0 [109s - 115s]
+And say this prayer with me, and know that if you're in Christ, you already forgiven. But it's good to say sorry to your father.
+
+🎤 SPEAKER_0 [116s - 124s]
+When you've done something wrong. Isn't that right? It doesn't you don't stop being a child of god. Let me just if I'm gonna pray this prayer and then join in with me if you like.
+
+🎤 SPEAKER_0 [128s - 143s]
+Almighty father, you are so merciful. We have eared, we have strayed from your way like lost sheep. We have followed the desires of our hearts and our flesh.
+
+🎤 SPEAKER_0 [144s - 154s]
+And we have offended against your holy laws. We have done things that we should not have done We have not done things that we should have done.
+
+🎤 SPEAKER_0 [156s - 172s]
+And we recognize there's no goodness in us, oh god. But you are merciful. You look upon us miserable sinners, and you us those who confess their sin you are merciful.
+
+🎤 SPEAKER_0 [174s - 182s]
+And we as your children, we come before you this morning and if we're heavy of heart we say thank you for your mercy we are sorry Lord that we have offended you.
+
+🎤 SPEAKER_0 [183s - 185s]
+But we know of your great love for us.
+
+🎤 SPEAKER_0 [190s - 196s]
+Help us, Lord, to live in a way that glorifies your name. Thank you for your mercy.
+
+🎤 SPEAKER_0 [200s - 211s]
+All those who've truly repented of their sin God has had mercy upon your soul. He's pardoned you, he's delivered you, from your sin.
+
+🎤 SPEAKER_0 [212s - 227s]
+And so you can boldly approach the throne of Christ this morning. Do not come timidly before your father in heaven, Do not come and sit at the back as though you're not worthy to be there. Now you're a son, you're a daughter of the king.
+
+🎤 SPEAKER_0 [227s - 237s]
+He welcomes you. Welcomes you. So we encourage you live in that truth that you are forgiven. Have we have repented. We have become children of God.
+
+🎤 SPEAKER_0 [238s - 245s]
+Give all your cast all your cares upon him because he cares for you and come and worship him Come and worship him as a child.
+
+🎤 SPEAKER_0 [246s - 254s]
+Do not be afraid to approach your confidence. So we're gonna carry on worshiping for a little bit longer. And I just wanna encourage you just just come boldly in your worship.
+
+🎤 SPEAKER_0 [255s - 262s]
+Come boldly in your worship and assurance. You are given. So let's stand if you're able to, let's just worship with all we've got.
+
+🎤 SPEAKER_0 [263s - 269s]
+Because our king is worthy. Our father is loving. And merciful. Thank you, father.
+
+🎤 SPEAKER_0 [273s - 279s]
+I think so. Yeah.
+
+
+---
+
