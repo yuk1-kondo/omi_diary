@@ -745,3 +745,32 @@ I'm like, the sanction between
 
 ---
 
+
+
+## 📝 User Reflects On Teaching, Authority, And Scripture - c4b93184-4173-408b-b77d-ac9d33391833
+
+**記録時間**: 2026-03-30 04:20:54
+
+### STT生テキスト
+
+👤 あなた [0s - 34s]
+It's the big t t shing fair in the prom barrel in the pastel. So teaching a sporty teaching is a also uses the illustration of an orchestra.
+
+👤 あなた [44s - 49s]
+It is the conductor in terms of music and carries ultimate. It's the former operator.
+
+👤 あなた [63s - 72s]
+This narrow view can't be human specified through what a joint sort of caused. So it's that we have discern in scripture between god's essential revelation,
+
+👤 あなた [77s - 100s]
+It's cultural expression which is changeable. I'm gonna translate the letter. In other words, there should be a distinction between the Thomas Principle In the context of one two fifty two twelve, the timers principle grounded in the credit Is that in god's purposes? Is that it's normative for women to be submission to male authority.
+
+👤 あなた [104s - 114s]
+However, was of the the authority or headship remains male. Activity of teaching does not inherently usurp authority.
+
+👤 あなた [118s - 126s]
+Provided that the teaching takes place within the structure by for provided for by the elders. Ultimately, whilst the practice got working, so they're at times within the church.
+
+
+---
+
