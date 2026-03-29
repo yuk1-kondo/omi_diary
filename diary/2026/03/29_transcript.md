@@ -8503,3 +8503,110 @@ Quite lot of good news UK. Cause you get lots of just good news stories.
 
 ---
 
+
+
+## 📝 Friends Chat While Internet Misbehaves - f28a66da-a39d-4753-810e-52446660eee3
+
+**記録時間**: 2026-03-29 21:55:53
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 2s]
+Jude, the Internet is just struggling a minute.
+
+🎤 SPEAKER_0 [8s - 11s]
+Dude, try something else for ten minutes since the Internet sort itself out then.
+
+🎤 SPEAKER_0 [14s - 16s]
+Yeah. Play a different game for a bit.
+
+🎤 SPEAKER_0 [60s - 69s]
+Tertiary told you know, point to the picture he wants to go to Cape Town. He's like, I wanna go there. There.
+
+🎤 SPEAKER_1 [69s - 72s]
+Oh, do they have Yeah.
+
+🎤 SPEAKER_0 [76s - 191s]
+Bonnie got me a bracelet.
+
+🎤 SPEAKER_1 [191s - 192s]
+Nice.
+
+🎤 SPEAKER_0 [192s - 200s]
+Like a special one. I'm not really into jewellery, so I don't really know these things, but it's like people get collect them and they have lots of different like child type ones.
+
+🎤 SPEAKER_0 [201s - 204s]
+It's one which just got four things on for one per decade.
+
+🎤 SPEAKER_1 [205s - 206s]
+Oh, lovely. Yes. I see.
+
+🎤 SPEAKER_0 [206s - 207s]
+Around forty.
+
+🎤 SPEAKER_1 [208s - 208s]
+That's kind.
+
+🎤 SPEAKER_0 [218s - 226s]
+So, yeah, people buy have lot of these and you get lots of bracelets and you gather them together up your arms. So it's not really I've ever really done, but it's quite cute.
+
+🎤 SPEAKER_0 [226s - 228s]
+Yeah. Sweet. Yeah. It was just a nice thoughtful present.
+
+🎤 SPEAKER_1 [228s - 231s]
+Do you occasionally wear used to wear pearly things?
+
+🎤 SPEAKER_0 [231s - 233s]
+It's not pearl. It's metal.
+
+🎤 SPEAKER_1 [234s - 235s]
+Alright. Metal.
+
+🎤 SPEAKER_0 [235s - 241s]
+It's just clean. It's stainless steel. No. Not stainless steel. Sterling silver. It's quite light and tally cut.
+
+🎤 SPEAKER_1 [242s - 246s]
+Yeah. It's a bit light. Tally cut. I can never say that word.
+
+🎤 SPEAKER_0 [246s - 250s]
+It's could you say deli? It's not delicate. Delicate.
+
+🎤 SPEAKER_1 [250s - 255s]
+Delicate. Yeah.
+
+🎤 SPEAKER_0 [257s - 261s]
+I I get the word in That's what you get when you go to deli and you eat dodgy food. No.
+
+🎤 SPEAKER_1 [261s - 261s]
+What if you're a delicate of a comp Comcast?
+
+🎤 SPEAKER_0 [261s - 267s]
+That's still Deli. A delicate. Just say dela, dela both.
+
+🎤 SPEAKER_1 [267s - 272s]
+I always get those words. I can't say them Deli cut.
+
+🎤 SPEAKER_0 [272s - 273s]
+Della cut.
+
+🎤 SPEAKER_1 [276s - 280s]
+Well, I thought you're going for You're butt bum is seeping a little.
+
+🎤 SPEAKER_2 [281s - 300s]
+Sorry. Cool.
+
+🎤 SPEAKER_3 [418s - 454s]
+Also, it was gonna be This is Penny Lane. Fifty and I kinda take that creativity into trying to do cool things that house my family. Yeah. Get on up here. It's fun house.
+
+🎤 SPEAKER_0 [476s - 482s]
+Internet's not really working, is it? But it's what's going wrong with it? Mine's not even telling WhatsApp messages right now.
+
+🎤 SPEAKER_1 [483s - 487s]
+No. I have to mine's working, but
+
+🎤 SPEAKER_1 [491s - 493s]
+Yeah. I'll try and sort it.
+
+
+---
+
