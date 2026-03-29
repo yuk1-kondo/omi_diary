@@ -8315,3 +8315,191 @@ Probably steal the wool cup itself.
 
 ---
 
+
+
+## 📝 Family Decides On Pizza Order - 5ffd377e-de85-4304-a059-46f88f3480d7
+
+**記録時間**: 2026-03-29 21:44:32
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 5s]
+Rachel, would you like a plain cheese pizza or no.
+
+🎤 SPEAKER_0 [11s - 11s]
+Okay.
+
+🎤 SPEAKER_0 [18s - 24s]
+Well, so far, I've picked I'm just gonna be prepared. Prepared to poo. Picked instead of the meteor, I've picked the mighty meaty.
+
+🎤 SPEAKER_1 [26s - 29s]
+Which is slightly less It's not barbecue though, is it? No. That one.
+
+🎤 SPEAKER_0 [29s - 37s]
+I'm just gonna eat I picked ham and pineapple Yeah. And also farmhouse.
+
+🎤 SPEAKER_1 [37s - 40s]
+Okay. That's probably we don't need other one.
+
+🎤 SPEAKER_0 [40s - 42s]
+You probably want four pieces, don't we?
+
+🎤 SPEAKER_1 [42s - 43s]
+Four large?
+
+🎤 SPEAKER_0 [44s - 45s]
+No. They're large. They are. Yeah.
+
+🎤 SPEAKER_1 [48s - 55s]
+One large piece serves three to four. So I think two is Yeah. Well Three. Because then we got left leftovers.
+
+🎤 SPEAKER_0 [56s - 58s]
+Do you wanna get some sides?
+
+🎤 SPEAKER_1 [58s - 60s]
+What's the what have you gone for? Have you sort of have you spent there's three offers.
+
+🎤 SPEAKER_0 [61s - 65s]
+So I I'm wonder can't quite forget which is the best one.
+
+🎤 SPEAKER_1 [65s - 66s]
+Percent is usually the best one.
+
+🎤 SPEAKER_0 [66s - 69s]
+You got 10 pound off when you spend 30. That's not just pizzas. No.
+
+🎤 SPEAKER_1 [69s - 70s]
+That's not fish.
+
+🎤 SPEAKER_0 [70s - 77s]
+Or 40% off with no minimum spend. So I've gone for I would be of the minimum spend anyway, probably. I went for that one.
+
+🎤 SPEAKER_1 [77s - 82s]
+So you wanna spend too much on sides basically because they cost No. Price.
+
+🎤 SPEAKER_0 [82s - 85s]
+I mean, the sides are not great, are they? I don't think we need anything pizza y and bready.
+
+🎤 SPEAKER_1 [87s - 96s]
+The chips were awful. The only thing that people like is the chicken, it? That's always expensive ones. I think whenever we have sides, as much as it's nice, they're not great. It's a bit complicated isn't it?
+
+🎤 SPEAKER_0 [97s - 98s]
+Nachos go down well, don't they?
+
+🎤 SPEAKER_1 [100s - 103s]
+Maybe. I know. Fijalapenos is good for me, maybe.
+
+🎤 SPEAKER_0 [103s - 108s]
+Don't know. They got jalapeno, they got non jalapeno. Or should we just not have any?
+
+🎤 SPEAKER_1 [108s - 113s]
+Maybe not. Maybe just get some chicken. Everyone likes the the boys love the chicken strippers, don't they?
+
+🎤 SPEAKER_0 [116s - 117s]
+Fries are the worst.
+
+🎤 SPEAKER_1 [121s - 124s]
+Chicken Strippist. Seven.
+
+🎤 SPEAKER_1 [129s - 134s]
+Four. I have one and the rest of you have two. Wasting money it?
+
+🎤 SPEAKER_0 [134s - 138s]
+It's not that much for what you get, is it?
+
+🎤 SPEAKER_1 [138s - 138s]
+No.
+
+🎤 SPEAKER_0 [138s - 144s]
+Of Mac and cheese. We'll get a garlic bread then. That'd be fine.
+
+🎤 SPEAKER_1 [147s - 153s]
+What's the point there? Because you can't get 50% off that. You'd be better off getting another pizza. Wouldn't you?
+
+🎤 SPEAKER_0 [154s - 158s]
+Just so. So I'm thinking we don't need any sides then.
+
+🎤 SPEAKER_1 [159s - 162s]
+Maybe don't get sides. It comes up enough dip with all the pizzas anyway.
+
+🎤 SPEAKER_0 [165s - 169s]
+Chicken dip. No. So three pizzas, hon.
+
+🎤 SPEAKER_1 [170s - 171s]
+Fair enough. Three pizzas.
+
+🎤 SPEAKER_0 [183s - 185s]
+I don't know. I'd rather get a four maybe.
+
+🎤 SPEAKER_1 [186s - 189s]
+I think that could be excessive, but then we would have leftovers, wouldn't we then?
+
+🎤 SPEAKER_0 [189s - 190s]
+Probably eaten.
+
+🎤 SPEAKER_1 [191s - 201s]
+Maybe get a full for a full large pizza. We're mad. Judo needs that two slices. Three slices. How many slices do you get in a large?
+
+🎤 SPEAKER_0 [201s - 203s]
+Let's leave it at three then. Let's leave it at three then.
+
+🎤 SPEAKER_1 [203s - 204s]
+I do crazy money.
+
+🎤 SPEAKER_0 [205s - 206s]
+$39.98.
+
+🎤 SPEAKER_1 [207s - 209s]
+So it's 50% off, is it? Oh, blimey.
+
+🎤 SPEAKER_0 [210s - 212s]
+Which is 10 grill is still cheaper than
+
+🎤 SPEAKER_1 [212s - 213s]
+Okay.
+
+🎤 SPEAKER_0 [213s - 214s]
+Still cheaper than weather spoons.
+
+🎤 SPEAKER_1 [214s - 215s]
+Okay.
+
+🎤 SPEAKER_1 [219s - 229s]
+The probiotics are of Melon. You wait till you see them They look like full on impressive.
+
+🎤 SPEAKER_0 [229s - 230s]
+They're selling dates.
+
+🎤 SPEAKER_1 [231s - 235s]
+Yeah. I'm gonna double check it, which said they got me in October, they should be in the date for another six to twelve months.
+
+🎤 SPEAKER_0 [237s - 237s]
+Alright.
+
+🎤 SPEAKER_0 [241s - 245s]
+I can't not donate two peds 10 inch counts of choice.
+
+🎤 SPEAKER_1 [245s - 246s]
+I always say no on everything.
+
+🎤 SPEAKER_0 [248s - 253s]
+It's just easy to It's two pens. I mean Yeah. It's more like anything. Right.
+
+🎤 SPEAKER_0 [272s - 274s]
+Which card should I put it on, Rachel?
+
+🎤 SPEAKER_1 [275s - 277s]
+The decode.
+
+🎤 SPEAKER_0 [284s - 286s]
+Bradley slept better last night. Yeah.
+
+🎤 SPEAKER_1 [286s - 286s]
+Me too.
+
+🎤 SPEAKER_0 [289s - 337s]
+Quite lot of good news UK. Cause you get lots of just good news stories.
+
+
+---
+
