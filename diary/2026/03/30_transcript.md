@@ -662,3 +662,86 @@ Which means she should find its definitional prohibitions clearly established in
 
 ---
 
+
+
+## 📝 User Reflects On Biblical Authority And Teaching - 1efa003d-40da-4043-b4dc-896dbf7791db
+
+**記録時間**: 2026-03-30 04:09:53
+
+### STT生テキスト
+
+👤 あなた [0s - 10s]
+Vacations of one seventy two twelve for functions of an elder.
+
+👤 あなた [13s - 15s]
+Ik zal het weer discussen verder.
+
+👤 あなた [19s - 32s]
+Regard stationsinvusionaal, da.
+
+👤 あなた [35s - 36s]
+This verse is helpful.
+
+👤 あなた [44s - 46s]
+Preestablishes the goddess men's whole authority.
+
+👤 あなた [50s - 54s]
+And she's actually the authority give him to the office.
+
+👤 あなた [58s - 69s]
+Data Shepherd Direct.
+
+👤 あなた [73s - 81s]
+The possible portal charges their fusion orders. Be careful attention to She tells until the fucking rich her spirit mesmer you're seest.
+
+👤 あなた [83s - 85s]
+The apostle Peter exhaust.
+
+👤 あなた [194s - 201s]
+For the board consensus.
+
+👤 あなた [233s - 328s]
+The specific extractomy in this passage when one function or two functions for a minute. Apted from authority on the authority of a man.
+
+👤 あなた [331s - 335s]
+Always pull permitting one function for which is authority teaching the assembled church.
+
+👤 あなた [339s - 355s]
+To look at this passage as a part of Jew. To the Whirlpool users for authority. Chooses here not to use the standard New Testament word for authority.
+
+👤 あなた [359s - 378s]
+So it uses a thin chair, which is the early time the squid is using the adjustment. In the scholarly works, I've been produced, examined in their grower in this first.
+
+🎤 SPEAKER_4 [382s - 383s]
+Cording.
+
+👤 あなた [386s - 404s]
+According to George the meaning of authenticity here is not simply a warning by Paul aimed at
+
+👤 あなた [409s - 415s]
+Poor rides. No. Contrary to this gesture. The use of the word shows no inherent negative sense.
+
+👤 あなた [420s - 437s]
+Fulltima's observation is at this prohibition on teaching of the to the preservation, man. Authority in view here then is that of the authority of teaching that takes place within the assembled church.
+
+👤 あなた [441s - 456s]
+Forward complementarians. I give that any extra substitution of the bubble is in in a mix. Constitutes the exercise authority and is therefore suited to men.
+
+👤 あなた [457s - 462s]
+Kevin De Young uses this passage as the basis of his conviction that we should not teach males of any age.
+
+👤 あなた [496s - 503s]
+He writes, distinguish between the authority of establishing a doctrine of definitions. And the mutual instruction of that established doctrine.
+
+👤 あなた [506s - 507s]
+Expected of
+
+👤 あなた [511s - 517s]
+The series predominantly, I definitely do think.
+
+👤 あなた [521s - 523s]
+I'm like, the sanction between
+
+
+---
+
