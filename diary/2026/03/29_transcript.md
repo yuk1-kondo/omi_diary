@@ -8610,3 +8610,119 @@ Yeah. I'll try and sort it.
 
 ---
 
+
+
+## 📝 Family Plans Dorset Holiday And Doctor Call - a73fe4da-41c8-4877-8faf-bc2f7f1fc29f
+
+**記録時間**: 2026-03-29 22:08:21
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 15s]
+So, Reese, if you're talking about where we're going on holiday, the summer with anyone and you want to not sound, you know, like you don't know what you're talking about, It's called so we're right by Corfe Castle. That's how it be. It's the Purbeck area of Dorset. Because Dorset is actually quite big and as we know, you kind of got the Balmer Pool.
+
+🎤 SPEAKER_1 [15s - 17s]
+The bank area.
+
+🎤 SPEAKER_0 [17s - 30s]
+Herbeck. Look. This bit here is because this actually Dorset spreads all the way over to Devon. Like here. Dorset goes all the way. Right.
+
+🎤 SPEAKER_0 [30s - 39s]
+Goes to the new forest around here. If I can Dorset, so we're although we're going to Dorset, which we are, that's Dorset. Right?
+
+🎤 SPEAKER_1 [39s - 41s]
+Oh, your hands are freezing. Sorry. That's Dorset.
+
+🎤 SPEAKER_2 [41s - 41s]
+Mhmm.
+
+🎤 SPEAKER_0 [45s - 49s]
+But we're doing purbeck. Nice. Basically holiday part.
+
+🎤 SPEAKER_1 [50s - 50s]
+Nice.
+
+🎤 SPEAKER_0 [51s - 53s]
+But then it's also still only twenty five minutes round to pull.
+
+🎤 SPEAKER_1 [53s - 55s]
+I don't see anywhere where it says Purbeck.
+
+🎤 SPEAKER_0 [56s - 62s]
+Okay. But it's just that's what the the area even on the address, I like address on here.
+
+🎤 SPEAKER_2 [66s - 68s]
+It is Purbeck.
+
+🎤 SPEAKER_1 [69s - 69s]
+Are you sure you didn't Purbeck.
+
+🎤 SPEAKER_2 [73s - 84s]
+No. The Norcover shop has Purbeck Dorset.
+
+🎤 SPEAKER_1 [86s - 86s]
+Mhmm.
+
+🎤 SPEAKER_2 [87s - 91s]
+The Jurassic Coast. Why is it not showing? It?
+
+🎤 SPEAKER_2 [115s - 119s]
+I got a message from the doctor saying this is a reminder of your appointment tomorrow at ten past ten with doctor Dan at Highlope Park.
+
+🎤 SPEAKER_1 [121s - 123s]
+We have an appointment now, you?
+
+🎤 SPEAKER_2 [123s - 124s]
+Well, they said phone call.
+
+🎤 SPEAKER_1 [126s - 127s]
+They tell you they're gonna call her that time.
+
+🎤 SPEAKER_2 [128s - 130s]
+She didn't even tell me the time. She just said phone call.
+
+🎤 SPEAKER_1 [131s - 132s]
+Right.
+
+🎤 SPEAKER_1 [137s - 142s]
+So it's the first time I've ever seen a notification about an appointment. You'd normally same day kinda thing.
+
+🎤 SPEAKER_2 [146s - 147s]
+I'm assuming it's still a phone call.
+
+🎤 SPEAKER_2 [156s - 163s]
+I definitely suddenly realised, Rhys, Yeah. This is a whole new thing. Like, health anxiety.
+
+🎤 SPEAKER_0 [164s - 171s]
+Yeah. I've always been like, well, all of these things, it's not likely to be that because it's not common in your thirties.
+
+🎤 SPEAKER_1 [171s - 171s]
+No.
+
+🎤 SPEAKER_0 [171s - 173s]
+Where suddenly, now I've gone into my 40 I'm like, oh, I know if I can use that excuse anymore.
+
+🎤 SPEAKER_2 [178s - 191s]
+Things are covered in your four tees. Then I was like, why do they not just have him on the phone? Is he gonna Why is he gonna call me? Maybe I've got like bowel cancer or something and they found it in my Maybe that's why he wants to call me to talk to me.
+
+🎤 SPEAKER_2 [192s - 199s]
+Then I'll say, they wouldn't be on the phone. I'd go in in person. And it was just about Ecoly because I said, if it's Ecoly, I'd like to talk to a doctor.
+
+🎤 SPEAKER_1 [200s - 201s]
+You alright,
+
+🎤 SPEAKER_1 [207s - 210s]
+Hopefully, he's not broken his controller. By dropping it.
+
+🎤 SPEAKER_1 [231s - 232s]
+Pass it. Pass it.
+
+🎤 SPEAKER_2 [232s - 234s]
+On the floor, then I was like, Do you Yeah.
+
+🎤 SPEAKER_1 [237s - 240s]
+Was it an accident? It an accident, dude?
+
+
+---
+
