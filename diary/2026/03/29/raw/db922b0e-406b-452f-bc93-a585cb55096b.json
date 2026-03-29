@@ -1,0 +1,139 @@
+{
+  "id": "db922b0e-406b-452f-bc93-a585cb55096b",
+  "created_at": "2026-03-29T10:31:04.113150+00:00",
+  "started_at": "2026-03-29T10:27:01.860154+00:00",
+  "finished_at": "2026-03-29T10:35:07.099968+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Church Communion Service Reflection",
+    "overview": "The speaker leads a Christian communion moment, thanking God for the work of Jesus on the cross and emphasizing that God meets people at every stage of life. They invite those who know Jesus as their saviour to come forward to take bread and wine, return to their seats, and then share in the elements together as a church family while reading from the Bible and remembering and celebrating Jesus’ sacrifice.",
+    "emoji": "✝️",
+    "category": "spiritual",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "ff6ad12c-1cdc-4d1e-8c56-7968bd4a695c",
+      "text": "We thank you the person of me to all many. I've been just playing it that fault. We thank you that through the cross, we can",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 297.24770373342585,
+      "end": 325.81555589673803,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "56c58044-1558-4a7c-8fa2-927ea990459c",
+      "text": "Meet us where we're at, Lord, no matter at what stage of life journey we are. Of touch lives this morning?",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 336.69555589673814,
+      "end": 345.77552589673815,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "338fe1aa-9a5b-4873-9227-4a3c78cb6f26",
+      "text": "That we can live a life that is full. So we come this morning do what we've been asked to do, to lift up the name of Jesus, Remember, what he is and accomplished on the cross. So I invite you that know the Lord is your saviour to come, take some bread and some wine and then we will read from God's word together.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 410.7685042776885,
+      "end": 435.3284842776885,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e9d46b0a-b5af-48e6-93b2-ab84cc7a3365",
+      "text": "And then take it together as a family as we remember that we also celebrate what Jesus did for us on the cross. So please come either side and then take it back to your seats and then I will read from the word of seats, before we",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 436.0884842776885,
+      "end": 453.6184842776885,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJhdXDo-wFbkgRrXIC384jZfo",
+    "latitude": 51.4052194,
+    "longitude": -3.2670365,
+    "address": "The Sigh Shop, Merthyr St, Barry CF63 4LD, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "fbdcb6ed-0197-4dcd-8ea7-7db333c90ae8",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "db922b0e-406b-452f-bc93-a585cb55096b",
+      "chunk_timestamps": [
+        1774780262.987
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-29T10:31:02.987000+00:00",
+      "duration": 120.082
+    },
+    {
+      "id": "249296ff-e743-45e7-8c93-6c8c899c3488",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "db922b0e-406b-452f-bc93-a585cb55096b",
+      "chunk_timestamps": [
+        1774780387.091
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-29T10:33:07.091000+00:00",
+      "duration": 120.442
+    },
+    {
+      "id": "4f5ef498-2486-46f5-933c-8f78b323a9c5",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "db922b0e-406b-452f-bc93-a585cb55096b",
+      "chunk_timestamps": [
+        1774780485.612,
+        1774780546.41
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-29T10:34:45.612000+00:00",
+      "duration": 182.36
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Worship focus  \n- Thanksgiving for Jesus' work on the cross  \n- Prayer for God to meet people in every life stage  \n- Desire to live a full, meaningful life  \n\n## Communion invitation  \n- Gather to lift up the name of Jesus  \n- Remember what Jesus accomplished on the cross  \n- Invitation to believers to take bread and wine  \n\n## Communion instructions  \n- People come forward to receive bread and wine  \n- Return to seats and wait together as a family  \n- Scripture will be read before taking communion  \n\n## Next steps  \n- Participants collect communion elements  \n- Listen to God's word being read  \n- Take bread and wine together in remembrance"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
