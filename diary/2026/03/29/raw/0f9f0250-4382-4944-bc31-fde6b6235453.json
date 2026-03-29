@@ -1,0 +1,222 @@
+{
+  "id": "0f9f0250-4382-4944-bc31-fde6b6235453",
+  "created_at": "2026-03-29T07:48:42.101011+00:00",
+  "started_at": "2026-03-29T07:49:14.520823+00:00",
+  "finished_at": "2026-03-29T07:50:07.916844+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Personal background, work, and goals discussion",
+    "overview": "The user shares personal background details, including being 41 years old and living in Barry, South Wales. They work as a pastor at God First Church Barry. Their long-term goal is to build a healthy church that plants other churches, and their main goal for the current month is to finish their degree. For today, they plan to lead a church service and preach.",
+    "emoji": "⛪",
+    "category": "spiritual",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "882f853d-12a2-4810-b064-2bf99523727a",
+      "text": "How old are you?",
+      "speaker": "SPEAKER_99",
+      "speaker_id": 99,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": -2.384185791015625e-07,
+      "end": 1.599999761581421,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d92d7e99-73f6-47cf-afdb-3ad63de2f5a4",
+      "text": "I am 41 years old.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 2.672539958953857,
+      "end": 4.192539958953857,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "cb438ad4-cb6e-4106-ae7f-b56a38f38d1f",
+      "text": "Where do you live?",
+      "speaker": "SPEAKER_99",
+      "speaker_id": 99,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 4.692539720535278,
+      "end": 6.292539720535277,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "41f19642-2bc3-4495-91f1-13d3816669c5",
+      "text": "I live in Barrie, a town in South Wales.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 11.128238515853877,
+      "end": 13.368238515853879,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c18e24bc-7f3a-48cc-ad8d-468be9504a0d",
+      "text": "What do you do for work?",
+      "speaker": "SPEAKER_99",
+      "speaker_id": 99,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 13.8682382774353,
+      "end": 16.268238277435298,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7b04a13c-a954-4564-87b1-fadc901b931d",
+      "text": "I'm a pastor of the church called God First Church Barry.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 17.438238015853877,
+      "end": 23.72789065361031,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9234484c-0e08-4e70-8dab-52a492d00ed3",
+      "text": "What is your long-term goal?",
+      "speaker": "SPEAKER_99",
+      "speaker_id": 99,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 24.22789041519173,
+      "end": 26.22789041519173,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "081018c0-cbb2-4cec-8668-1dce95f73509",
+      "text": "To build a healthy church that plants churches.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 34.29233078956628,
+      "end": 36.69233078956628,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "bfa723d6-951a-4f61-9b65-edfe48aba745",
+      "text": "What are your goals this month?",
+      "speaker": "SPEAKER_99",
+      "speaker_id": 99,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 37.1923305511477,
+      "end": 39.5923305511477,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "83a2255b-bc56-46c8-a106-21ac307c3a4a",
+      "text": "To finish my degree.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 40.75232878956628,
+      "end": 44.69970334188879,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "492504f5-c7ba-4e0a-bda3-79dbdd39876e",
+      "text": "What do you have planned for today?",
+      "speaker": "SPEAKER_99",
+      "speaker_id": 99,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 45.19970310347021,
+      "end": 47.99970310347021,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "033ddb30-66cd-41d7-8a38-bf30f7c285be",
+      "text": "Lead in a church service and preaching.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 50.84028165817308,
+      "end": 52.60028165817309,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156362,
+    "longitude": -3.2755108,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a446f537-26ff-411b-92d7-d60472209403",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "0f9f0250-4382-4944-bc31-fde6b6235453",
+      "chunk_timestamps": [
+        1774770521.35,
+        1774770553.7
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-29T07:48:41.350000+00:00",
+      "duration": 146.352
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Personal details  \n- Age: 41 years  \n- Lives in Barrie, South Wales  \n\n## Work and role  \n- Pastor at God First Church Barry  \n- Leads and serves in local church  \n\n## Long-term vision  \n- Build a healthy church  \n- Develop a church that plants other churches  \n\n## Short-term/monthly goals  \n- Finish current degree this month  \n\n## Today’s plans  \n- Lead a church service  \n- Preach during the service  \n\n## Next steps  \n- Complete degree requirements  \n- Continue church leadership and church-planting vision"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "66c1f6ee-d299-4332-9cbb-6adfb3f8462b",
+  "call_id": null
+}
