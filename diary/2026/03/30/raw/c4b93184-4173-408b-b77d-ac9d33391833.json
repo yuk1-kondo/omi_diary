@@ -1,0 +1,140 @@
+{
+  "id": "c4b93184-4173-408b-b77d-ac9d33391833",
+  "created_at": "2026-03-29T19:20:54.504216+00:00",
+  "started_at": "2026-03-29T19:21:13.922664+00:00",
+  "finished_at": "2026-03-29T19:23:21.915349+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User Reflects On Teaching, Authority, And Scripture",
+    "overview": "The user reflects on theological ideas about teaching, authority, and gender roles in the church. They liken teaching to conducting an orchestra, suggest that God’s essential revelation must be distinguished from its changing cultural expressions, and reference a \"Thomas Principle\" grounded in creation and passages like 1 Timothy 2:12. They argue that while male headship or authority remains, the activity of teaching by women does not inherently usurp that authority if it occurs under structures provided by church elders, noting that actual church practice can vary.",
+    "emoji": "⛪",
+    "category": "spiritual",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "c8a93200-db45-4427-b655-361a55bdfa65",
+      "text": "It's the big t t shing fair in the prom barrel in the pastel. So teaching a sporty teaching is a also uses the illustration of an orchestra.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 4.874200385529548e-07,
+      "end": 34.3680469142073,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "ef1169fd-f0a2-4904-af4b-8626ecd3bae6",
+      "text": "It is the conductor in terms of music and carries ultimate. It's the former operator.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 44.766868678204446,
+      "end": 49.4868686782047,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9b73ac24-768e-496b-8415-a4f99db1b8d4",
+      "text": "This narrow view can't be human specified through what a joint sort of caused. So it's that we have discern in scripture between god's essential revelation,",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 63.51959544289821,
+      "end": 72.90563607324293,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "cd2cf556-be06-47e7-b2c3-52440049f634",
+      "text": "It's cultural expression which is changeable. I'm gonna translate the letter. In other words, there should be a distinction between the Thomas Principle In the context of one two fifty two twelve, the timers principle grounded in the credit Is that in god's purposes? Is that it's normative for women to be submission to male authority.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 77.03563607324304,
+      "end": 100.59265649180361,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "1d2f97f6-18ed-4973-ada4-42633aed63ad",
+      "text": "However, was of the the authority or headship remains male. Activity of teaching does not inherently usurp authority.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 104.5227564918032,
+      "end": 114.34745267980088,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "025f87bc-f295-4862-b629-dfdad3f141fb",
+      "text": "Provided that the teaching takes place within the structure by for provided for by the elders. Ultimately, whilst the practice got working, so they're at times within the church.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 118.80220270994914,
+      "end": 126.82210270994892,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "fb98acca-bc1c-413a-b9b3-8c8b9b2470e2",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "c4b93184-4173-408b-b77d-ac9d33391833",
+      "chunk_timestamps": [
+        1774812054.291,
+        1774812114.941,
+        1774812175.077,
+        1774812236.074,
+        1774812296.946
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-29T19:20:54.291000+00:00",
+      "duration": 256.817
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Teaching as Illustration\n- Teaching compared to orchestra at a “prom” setting  \n- Teacher likened to conductor with ultimate musical oversight  \n\n## Role and Authority Imagery\n- Conductor image used for leadership and coordination  \n- “Former operator” suggests primary controller of proceedings  \n\n## Scripture and Cultural Distinction\n- Need to discern God’s essential revelation vs culture  \n- Cultural expressions seen as changeable over time  \n\n## “Timeless Principle” on Gender Roles\n- Principle: women normatively submit to male authority  \n- Grounded in God’s purposes, from texts like 1 Timothy 2:12  \n\n## Teaching and Headship in Church\n- Male headship/authority remains normative  \n- Teaching by women doesn’t inherently usurp authority  \n- Valid if under elder-approved structure and oversight  \n\n## Next Steps\n- Further clarify what counts as cultural vs timeless  \n- Define practical boundaries for teaching under eldership"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
