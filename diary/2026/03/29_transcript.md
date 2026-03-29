@@ -8980,3 +8980,257 @@ Oh, Well, we miss a lot of the series, though.
 
 ---
 
+
+
+## 📝 Family Pizza Night and TV Chat - 6ffd0f3b-e21e-49ce-8f98-c98241e4485c
+
+**記録時間**: 2026-03-29 22:16:08
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 7s]
+Brilliant normality to it. To thinking those things. Your health anxiety about about this appointment.
+
+🎤 SPEAKER_0 [14s - 22s]
+Things. Oh, no. It's just like when I've always thought, well, like, these things are so with her. And I try to realize, oh, yeah. When you get older, that's not a thing.
+
+🎤 SPEAKER_1 [22s - 25s]
+Shut the door. It might be the door.
+
+🎤 SPEAKER_3 [26s - 26s]
+Joop hand.
+
+🎤 SPEAKER_1 [29s - 33s]
+Oh, I'm I'm kinda run. I got money. Got money.
+
+🎤 SPEAKER_2 [38s - 46s]
+Sorry, mate.
+
+🎤 SPEAKER_1 [46s - 47s]
+You okay?
+
+🎤 SPEAKER_3 [47s - 48s]
+Yeah. I'm fine.
+
+🎤 SPEAKER_1 [50s - 53s]
+Steaming harsh just the way it's meant to be. I'll put chop it on there.
+
+🎤 SPEAKER_5 [53s - 54s]
+Yeah. Bobby.
+
+🎤 SPEAKER_1 [55s - 55s]
+Nice for you, mate.
+
+🎤 SPEAKER_4 [56s - 58s]
+Oh, that's me. Appreciate that. It's alright. It's a bit of a Cheers, mate.
+
+🎤 SPEAKER_1 [58s - 59s]
+You too. Cheers.
+
+🎤 SPEAKER_1 [67s - 71s]
+You got look. You're not gonna be able to finish this particular round, Jude. Okay.
+
+🎤 SPEAKER_1 [83s - 91s]
+You're not gonna finish this one, son. Okay. You're not gonna be able to finish this game. You got to turn off now.
+
+🎤 SPEAKER_2 [92s - 93s]
+No.
+
+🎤 SPEAKER_1 [97s - 100s]
+I've got like salon Mouth.
+
+🎤 SPEAKER_0 [100s - 102s]
+Things like this. So this is like a daily shot.
+
+🎤 SPEAKER_2 [102s - 103s]
+Yeah.
+
+🎤 SPEAKER_0 [103s - 105s]
+Here. Or you've got like the big ones.
+
+🎤 SPEAKER_1 [106s - 110s]
+You checked the dates on it, did you? So I'm drinking then, so you've checked it.
+
+🎤 SPEAKER_1 [113s - 123s]
+I'm cold. August. Alright. It's not very long then, it? Elliot, you hungry for Peter or not?
+
+🎤 SPEAKER_1 [129s - 132s]
+Right. Come on then. This What's it taste like?
+
+🎤 SPEAKER_1 [136s - 141s]
+I'm of orange juice. Yeah.
+
+🎤 SPEAKER_0 [141s - 142s]
+It's like the sour taste.
+
+🎤 SPEAKER_2 [146s - 149s]
+Proven by scientists and chemicals and the
+
+🎤 SPEAKER_1 [157s - 162s]
+I'll have to do this later. The pizza is best hot. So
+
+🎤 SPEAKER_1 [166s - 168s]
+So Right, Konan, how you coming?
+
+🎤 SPEAKER_1 [172s - 172s]
+Two new headphones are
+
+🎤 SPEAKER_1 [180s - 185s]
+We just have another dinner now.
+
+🎤 SPEAKER_3 [193s - 194s]
+Was in the middle of a game.
+
+🎤 SPEAKER_0 [194s - 196s]
+If I just left it like that, Right.
+
+🎤 SPEAKER_1 [198s - 211s]
+I'm sure. Right. To make it up to you, get to do first dibs then. Go on. Do first dibs. Sorry, I thought you left on. First steps. Go on. Grab a plate. Grab some pizza.
+
+🎤 SPEAKER_2 [233s - 234s]
+Done? Yeah.
+
+🎤 SPEAKER_4 [237s - 237s]
+Right.
+
+🎤 SPEAKER_1 [238s - 243s]
+Chance to do first steps. I'm in there now. Going to go and do the first dips then quick.
+
+🎤 SPEAKER_1 [252s - 254s]
+Right, you may Yes.
+
+🎤 SPEAKER_1 [257s - 258s]
+Hashtag harvest.
+
+🎤 SPEAKER_2 [259s - 260s]
+That's Can I slice it?
+
+🎤 SPEAKER_4 [260s - 260s]
+Oh.
+
+🎤 SPEAKER_1 [262s - 263s]
+Just half of these pizzas left in the
+
+🎤 SPEAKER_0 [265s - 265s]
+Really?
+
+🎤 SPEAKER_1 [317s - 319s]
+Yeah. But I need a big source in my life.
+
+🎤 SPEAKER_1 [329s - 334s]
+I do. I'm not gonna lie. I can't deny it. Danny does love it.
+
+🎤 SPEAKER_7 [334s - 339s]
+Dad, if it was life or death, basically
+
+🎤 SPEAKER_6 [339s - 341s]
+Yeah. Untudy.
+
+🎤 SPEAKER_7 [342s - 354s]
+And and so you would You might wanna get might wanna So you have to stop eating eating that for the rest of your life. Otherwise, you're gonna die if you eat it drink. Eat it when we're time. If you stop eating it, you look down.
+
+🎤 SPEAKER_1 [354s - 355s]
+Aw.
+
+🎤 SPEAKER_1 [361s - 363s]
+Yeah. What would you tell I would eat it.
+
+🎤 SPEAKER_1 [368s - 369s]
+I have Peter in heaven then.
+
+🎤 SPEAKER_7 [383s - 384s]
+This is my one.
+
+🎤 SPEAKER_7 [394s - 395s]
+Ah, yes.
+
+🎤 SPEAKER_1 [400s - 401s]
+Yeah. Everyone knows Peter.
+
+🎤 SPEAKER_6 [401s - 402s]
+Wait.
+
+🎤 SPEAKER_7 [402s - 405s]
+How many much slices does Elliot have?
+
+🎤 SPEAKER_0 [405s - 408s]
+What Jude, you can eat many slices as you your tummy can cope with, which is all good.
+
+🎤 SPEAKER_6 [408s - 411s]
+With x actually it will take 5,000 pizzas.
+
+🎤 SPEAKER_7 [413s - 416s]
+They crazy?
+
+🎤 SPEAKER_7 [416s - 417s]
+So to make my belly burns.
+
+🎤 SPEAKER_0 [417s - 421s]
+We'll likely have some pizza left because that can do us snack later or lunch tomorrow.
+
+🎤 SPEAKER_7 [421s - 423s]
+I'm going all in today.
+
+🎤 SPEAKER_0 [423s - 425s]
+I'm going all in here now.
+
+🎤 SPEAKER_1 [425s - 426s]
+All in?
+
+🎤 SPEAKER_7 [426s - 427s]
+Yeah. Because we have new stuff.
+
+🎤 SPEAKER_8 [427s - 434s]
+Hanging, but I'm known not from everything. I I can, like, come into the tongue chain. Oh, I have, like, 10 sessions for them.
+
+🎤 SPEAKER_1 [434s - 434s]
+Yeah.
+
+🎤 SPEAKER_0 [434s - 436s]
+Don't forget how tasty pizza will be tomorrow.
+
+🎤 SPEAKER_8 [437s - 437s]
+Yeah.
+
+🎤 SPEAKER_6 [439s - 439s]
+Yeah.
+
+🎤 SPEAKER_8 [440s - 441s]
+Right. Who's got the following meeting?
+
+🎤 SPEAKER_6 [441s - 442s]
+She's wanting to do.
+
+🎤 SPEAKER_8 [442s - 443s]
+Alright.
+
+🎤 SPEAKER_1 [450s - 451s]
+The best of the best now.
+
+🎤 SPEAKER_1 [455s - 487s]
+Back in the nineties when this was on area. The winners would win a Jeep.
+
+🎤 SPEAKER_5 [488s - 488s]
+Yeah.
+
+🎤 SPEAKER_6 [489s - 492s]
+Yeah. But what were they with?
+
+🎤 SPEAKER_1 [492s - 492s]
+A Jeep.
+
+🎤 SPEAKER_6 [492s - 493s]
+A Jeep.
+
+🎤 SPEAKER_1 [493s - 496s]
+Four by four. These days, it's just got a trophy.
+
+🎤 SPEAKER_6 [496s - 497s]
+But, yeah.
+
+🎤 SPEAKER_1 [509s - 510s]
+Oh, Well, we miss a lot of the series, though.
+
+
+---
+
