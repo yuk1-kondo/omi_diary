@@ -9234,3 +9234,236 @@ Oh, Well, we miss a lot of the series, though.
 
 ---
 
+
+
+## 📝 Friends Watch Gladiators and Chat Over Food - 0241affe-5d60-45c7-85ff-0089e7f667b8
+
+**記録時間**: 2026-03-29 22:27:01
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [122s - 125s]
+So so in mummy's age versus somebody six.
+
+🎤 SPEAKER_1 [137s - 149s]
+Now this female. When you get to 40, you've you you feel but Evan starts treating you like you're old. Not really. Nine years old.
+
+🎤 SPEAKER_1 [150s - 151s]
+40 is nowhere near old.
+
+🎤 SPEAKER_6 [223s - 224s]
+Wow. Seconds.
+
+🎤 SPEAKER_1 [227s - 228s]
+Right. So basically no wins measures.
+
+🎤 SPEAKER_1 [233s - 262s]
+Your steps are tricky.
+
+🎤 SPEAKER_6 [268s - 268s]
+Oh, nitty.
+
+🎤 SPEAKER_8 [269s - 270s]
+She did that.
+
+🎤 SPEAKER_1 [274s - 316s]
+A 40, not gonna do it.
+
+🎤 SPEAKER_1 [330s - 359s]
+Well, maybe the roar has changed a lot, he can leap.
+
+🎤 SPEAKER_6 [363s - 419s]
+Stopping. All round fell.
+
+🎤 SPEAKER_1 [423s - 440s]
+Good tap for the girls there.
+
+🎤 SPEAKER_3 [440s - 441s]
+Second.
+
+🎤 SPEAKER_1 [459s - 461s]
+Don't know any of those too. Oh, yeah. Do.
+
+🎤 SPEAKER_8 [461s - 461s]
+Yeah.
+
+🎤 SPEAKER_6 [463s - 481s]
+Jobs. We started with 10 meal containers.
+
+🎤 SPEAKER_1 [481s - 484s]
+Is that a a size size four and five?
+
+🎤 SPEAKER_1 [499s - 500s]
+That's three I'm on four sides and I'm full.
+
+🎤 SPEAKER_1 [588s - 590s]
+I'm thinking a mustache like that, guys. What's your second?
+
+🎤 SPEAKER_5 [590s - 592s]
+2026. Sounds good.
+
+🎤 SPEAKER_6 [592s - 594s]
+Yeah. Now?
+
+🎤 SPEAKER_1 [611s - 619s]
+You I wanted to go all in as well, dude, but I'm defeated at four. Not defeated. I could eat more, but I'm gonna save it for for dinner tomorrow or something.
+
+🎤 SPEAKER_1 [621s - 622s]
+Or maybe I'll have some more later on tonight.
+
+🎤 SPEAKER_1 [630s - 631s]
+Meanwhile, that it smashed it back seven slices.
+
+🎤 SPEAKER_1 [639s - 654s]
+You've got up for six here. Seven as well?
+
+🎤 SPEAKER_1 [659s - 663s]
+Meet thorough joe jagin good company with me. I'm the fatty and I'm the one who needs least least big portions.
+
+🎤 SPEAKER_1 [680s - 681s]
+Come on, Brian.
+
+🎤 SPEAKER_5 [682s - 682s]
+Joshua.
+
+🎤 SPEAKER_1 [689s - 692s]
+Right. I'm going blue. Blue for both.
+
+🎤 SPEAKER_1 [722s - 728s]
+Oh, yeah. He's not gonna Nitro is an Olympic runner. So it's been theater I've been ready.
+
+🎤 SPEAKER_1 [738s - 741s]
+I find Nitro a bit annoying. He's gonna go up there and do a little dance now.
+
+🎤 SPEAKER_1 [755s - 756s]
+He just loves himself a bit too much.
+
+🎤 SPEAKER_6 [786s - 786s]
+Right.
+
+🎤 SPEAKER_1 [799s - 801s]
+Give him phantom then that's also difficult.
+
+🎤 SPEAKER_1 [815s - 816s]
+He's now, is he?
+
+🎤 SPEAKER_1 [824s - 825s]
+You know, it's phantoms.
+
+🎤 SPEAKER_6 [826s - 826s]
+Gassed.
+
+🎤 SPEAKER_1 [835s - 841s]
+So give the one guy Olympian Olympian runner. And then the other guy with a limp.
+
+🎤 SPEAKER_5 [863s - 864s]
+Brutal.
+
+🎤 SPEAKER_4 [885s - 886s]
+Traumatic.
+
+🎤 SPEAKER_6 [903s - 903s]
+But Yeah.
+
+🎤 SPEAKER_1 [922s - 927s]
+Babe, you you you are a little bit you do think people like poo talking about poo more than you realise, or it's just you know,
+
+🎤 SPEAKER_1 [937s - 938s]
+Keep the poo guessing the who.
+
+🎤 SPEAKER_7 [938s - 941s]
+Reach it. I can't reach it.
+
+🎤 SPEAKER_1 [973s - 978s]
+Miss that. No one's harvest. Oh, that one's so hard to do, that one.
+
+🎤 SPEAKER_0 [992s - 992s]
+I think it was one.
+
+🎤 SPEAKER_1 [994s - 996s]
+Cyclone should have just smashed it earlier.
+
+🎤 SPEAKER_1 [1001s - 1007s]
+Oh, She's cycling got it.
+
+🎤 SPEAKER_6 [1009s - 1009s]
+Elbow.
+
+🎤 SPEAKER_5 [1009s - 1010s]
+We have the results.
+
+🎤 SPEAKER_1 [1051s - 1052s]
+First time she said to me, nice.
+
+🎤 SPEAKER_1 [1066s - 1070s]
+Yeah. They did it. Handled her introduction well. She did a double duel the first time she's on.
+
+🎤 SPEAKER_1 [1075s - 1089s]
+Can leg press 700 kilograms?
+
+🎤 SPEAKER_6 [1090s - 1090s]
+Wow.
+
+🎤 SPEAKER_1 [1100s - 1101s]
+Yep.
+
+🎤 SPEAKER_1 [1106s - 1110s]
+Right. I'm calling it now. Trying or maybe my my main man, the blue guy.
+
+🎤 SPEAKER_1 [1115s - 1132s]
+That's what realized. Just go low. And crawl through.
+
+🎤 SPEAKER_6 [1148s - 1149s]
+Well done, Tyler.
+
+🎤 SPEAKER_1 [1149s - 1153s]
+This is gonna be my play close or Oh, blimey. Took it out.
+
+🎤 SPEAKER_1 [1164s - 1166s]
+Oh, não é de badez, Oh, well done, Tyler. Fair playthrough. Give himself a concussion.
+
+🎤 SPEAKER_8 [1167s - 1168s]
+I think Tyler Tyler's
+
+🎤 SPEAKER_1 [1171s - 1191s]
+Giant. Was it Tyler went all the game. No. That was a put.
+
+🎤 SPEAKER_1 [1197s - 1203s]
+That's it. Fair play, John was pretty rubbish on that end.
+
+🎤 SPEAKER_1 [1233s - 1239s]
+There is a little bit David Glass that's gonna You got you meant to come up against the beasts and occasionally will.
+
+🎤 SPEAKER_5 [1240s - 1240s]
+They
+
+🎤 SPEAKER_6 [1240s - 1240s]
+can.
+
+🎤 SPEAKER_1 [1248s - 1249s]
+Oh, Not this one.
+
+🎤 SPEAKER_1 [1254s - 1264s]
+I'm glad Powerball seems to be done. Did it once this season. It's the first episode, apparently. A bit of a boring one. The baskets, they've got to put the balls in the basket.
+
+🎤 SPEAKER_1 [1271s - 1274s]
+Oh, yeah. The metal balls. Yeah. At this balls.
+
+🎤 SPEAKER_1 [1278s - 1279s]
+Practicing their routines.
+
+🎤 SPEAKER_1 [1291s - 1293s]
+I need a poo, but
+
+🎤 SPEAKER_1 [1299s - 1301s]
+Mommy's delicate, Stude. Delicate.
+
+🎤 SPEAKER_1 [1305s - 1311s]
+I need to go put really sorry, everyone. You carry on with that meat. Hope you don't. Hopefully.
+
+🎤 SPEAKER_6 [1314s - 1314s]
+Finally.
+
+
+---
+
