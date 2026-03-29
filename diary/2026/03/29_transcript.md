@@ -3429,3 +3429,104 @@ And then take it together as a family as we remember that we also celebrate what
 
 ---
 
+
+
+## 📝 Good Friday Reflection and Easter Celebration Plans - fa529726-5962-4ec0-aff5-535e4efb96b8
+
+**記録時間**: 2026-03-29 19:37:12
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 217s]
+From the On the night when he was betrayed, the Lord Jesus took some bread and gave thanks to God for then he broke it into pieces and said, this is my body which is given for you.
+
+🎤 SPEAKER_1 [217s - 229s]
+Do this in remembrance of me. In the same way, he took the cup of wine after supper saying, this is the cup of the new covenant between God and his people.
+
+🎤 SPEAKER_1 [230s - 245s]
+Agreement confirmed with my blood. Do this. In remembrance of me for as often as you drink it. For every time you eat this bread and drink this cup, you are announcing the Lord's death.
+
+🎤 SPEAKER_1 [246s - 260s]
+Until he comes again. Father God, we just thank you for your body that was broken for us. For the body that our pain and our suffering so that we may be held on hold.
+
+🎤 SPEAKER_1 [261s - 263s]
+Father, just thank you for that body you broke up.
+
+🎤 SPEAKER_1 [268s - 280s]
+Jesus, we thank you for the shared account of On that crops, it was poured out so that we might be washed fresh and be clothed in unique teasers.
+
+🎤 SPEAKER_1 [281s - 290s]
+Thank you that the blood can cleanse us of our sins. And, Lord, we just thank you, father, this morning, we take the cup in remembrance of all you did for us.
+
+🎤 SPEAKER_1 [291s - 293s]
+On the cross. In Jesus name.
+
+🎤 SPEAKER_0 [295s - 295s]
+Okay.
+
+🎤 SPEAKER_1 [297s - 314s]
+But father we also remember that it is until you come. We thank you that we worship our living God. A saviour who will come for this And we look forward to that, Lord, when we celebrate. Until then, the work at the cross.
+
+🎤 SPEAKER_1 [315s - 316s]
+In Jesus name.
+
+🎤 SPEAKER_0 [317s - 318s]
+Amen. Amen.
+
+🎤 SPEAKER_1 [319s - 319s]
+Okay.
+
+🎤 SPEAKER_1 [327s - 332s]
+Thank Okay. So if we just stay in this place, wish Are you seven o'clock? Gonna have some announcements.
+
+🎤 SPEAKER_1 [339s - 358s]
+We have the men's breakfast on Tuesday. Alright. To Johnny. Ladies, don't worry. We haven't forgotten. We've got two dates coming up. I've just website.
+
+🎤 SPEAKER_0 [369s - 369s]
+They'll Tap it to click.
+
+🎤 SPEAKER_1 [369s - 370s]
+And then on Tuesday,
+
+🎤 SPEAKER_1 [380s - 389s]
+We can We then have because it's a special week this weekend that we've got Easter coming up. It flies by so quick, doesn't it?
+
+🎤 SPEAKER_1 [390s - 408s]
+On Friday, Good Friday, we have our special Tenderbread soup at 07:45 here. Now has put out on the WhatsApp explanation of the It is not a usual service.
+
+🎤 SPEAKER_1 [408s - 431s]
+It's really not children suitable, probably because of the time well. But it's a quiet service. There's no interaction from us. No singing, The room will be in semi darkness. I will get darker as the time goes on. It gives a time of your flexion We will listen to Jonathan. Yeah?
+
+🎤 SPEAKER_1 [432s - 457s]
+All three. The in a darker. So we'll be, like, out in the hallway. What we do ask is that as you arrive, you come in in silence.
+
+🎤 SPEAKER_1 [458s - 466s]
+So that those that are already in here and starting to reflect enjoy with the atmosphere. And then, again, as we leave Thank you.
+
+🎤 SPEAKER_1 [474s - 485s]
+Quiet in the building if you need to we leave way till we're outside just so that we keep that atmosphere of reflection and reverence.
+
+🎤 SPEAKER_1 [486s - 499s]
+Expect to be touched That's all I'll say. Expect to be touched. It is powerful. But don't we won't leave it there because we know our saviours arrive. They're on Sunday.
+
+🎤 SPEAKER_1 [500s - 506s]
+We have got our celebration suit. Service. Children why do we celebrate on Easter Sunday? What happens?
+
+🎤 SPEAKER_1 [510s - 532s]
+He rose from the dead. That's right. We, he worship him. He living savior. One who knows our needs and has suffered us some of us suffered, but talking to stage one, he knows we will celebrate again. So that's next Sunday.
+
+🎤 SPEAKER_1 [533s - 566s]
+Now I'm just gonna imply to strangers that the front who swammed off hardly across the Uh-huh. Just as this next spell.
+
+🎤 SPEAKER_2 [568s - 575s]
+A little bit of more hanging, and we so I So Ruth and I were really blessed to go to the Advanced Global Conference in South Africa a couple of weeks ago.
+
+🎤 SPEAKER_2 [601s - 607s]
+Church and now strengthening us, and it's us praying for other churches that are that god
+
+🎤 SPEAKER_2 [617s - 620s]
+We concentrate chance for us to kind of get to know global advance
+
+
+---
+
