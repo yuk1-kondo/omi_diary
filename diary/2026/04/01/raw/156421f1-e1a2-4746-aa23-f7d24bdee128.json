@@ -1,0 +1,73 @@
+{
+  "id": "156421f1-e1a2-4746-aa23-f7d24bdee128",
+  "created_at": "2026-03-31T23:50:25.750872+00:00",
+  "started_at": "2026-03-31T23:44:58.393467+00:00",
+  "finished_at": "2026-03-31T23:52:25.031967+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "作業手順の移動確認",
+    "overview": "話し手が、3段階の移動操作を行うことで次の位置へ移動できることを確認し、相手に依頼を受け入れてもらえたことへの感謝を述べている。作業や設定変更を手伝ってもらい「大変助かります」と礼を伝える短いやりとり。",
+    "emoji": "⚙️",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "c0ba93d4-83d2-42fc-a309-657f1dfcc060",
+      "text": "3段 移動してくれたらその次のとこにね移動できますね はい いいですかありがとうございますも大変助かりますあれからありがとうございます",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.754760745598105e-07,
+      "end": 36.74549982452392,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "81d45066-f3ec-4cca-9a8a-e8baa63c8836",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "156421f1-e1a2-4746-aa23-f7d24bdee128",
+      "chunk_timestamps": [
+        1775001025.156,
+        1775001087.397,
+        1775001150.66
+      ],
+      "provider": "gcp",
+      "started_at": "2026-03-31T23:50:25.156000+00:00",
+      "duration": 247.346
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「3段移動」して、その次の場所へ移動できることを確認した\n- 説明を聞いて「大変助かります」と感謝を伝えた\n\n【決めたこと】\n- 特になし（内容は未確認）\n\n【次の一歩】\n- 「3段移動」のやり方や順番を、もう一度ゆっくり確認したいときは、近くの人に説明をお願いしてみる"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
