@@ -1,0 +1,107 @@
+{
+  "id": "f6e0eb2d-f850-4248-9689-f2f9a82b4c28",
+  "created_at": "2026-04-01T00:08:41.240002+00:00",
+  "started_at": "2026-03-31T23:58:59.192397+00:00",
+  "finished_at": "2026-04-01T00:26:18.635103+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "職員集会での連絡事項と学年会案内",
+    "overview": "教員向けの職員集会で、日本史専門の太田先生の異動（東高校への提出・着任）や、英語の辻本先生をはじめとする先生方がお世話になった学校・退職の連絡が共有された。また、河内高校や大手前高校から来る信一郎先生、松村久幸先生、実習教員の高野先生など人事・実習関連の紹介が行われた。事務連絡として、本日13時30分から学年会が開催されることが告知され、その後の予定確認を促して職員集会は終了した。",
+    "emoji": "🏫",
+    "category": "work",
+    "action_items": [],
+    "events": [
+      {
+        "title": "学年会",
+        "description": "職員集会後に行われる学年会。人事や学年運営に関する打ち合わせ。",
+        "start": "2026-03-31T04:30:00+00:00",
+        "duration": 60,
+        "created": false
+      }
+    ]
+  },
+  "transcript_segments": [
+    {
+      "id": "bcbee56d-9456-4afc-9b96-48fb56dafed9",
+      "text": "メキメキ 可能性ある 日本史専門の太田先生ですけれども東高校へ提出されましたそれから2 辻本先生お世話にな など以外でお世話になりました先生はご退職 英語 お願いいたします 連絡させていただきます 選抜 おります 先生河内高校 信一郎先生大手前高校から 松村久幸先生 実習教員高野 ますので 腹筋 と言う 本日よりこれから させていただきたいと思います 事務 後ほど 1時半より学年会1時半より学年会ですその後 お願いいたします よろしくお願いいたします それでは職員集会及び以上となりますそれでは今から ご確認ください ありがとう します",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -5.874633792757322e-07,
+      "end": 280.0584994125366,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    },
+    {
+      "id": "4e118a3a-1520-4ded-a32a-a74ba7be957b",
+      "text": "持っていって オッケー",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1578.0413482189178,
+      "end": 1597.9640982189178,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "ec1d3a83-629f-4851-a230-375272beb6d1",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "f6e0eb2d-f850-4248-9689-f2f9a82b4c28",
+      "chunk_timestamps": [
+        1775002210.439,
+        1775002299.533,
+        1775002360.262,
+        1775002421.189,
+        1775002482.292,
+        1775002542.84,
+        1775002603.839,
+        1775002664.326,
+        1775002725.406,
+        1775002785.483,
+        1775002845.832,
+        1775002906.123,
+        1775002966.584,
+        1775003026.898,
+        1775003116.537,
+        1775003177.184
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T00:10:10.439000+00:00",
+      "duration": 1059.987
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 職員人事・異動\n- 日本史専門の太田先生が東高校へ提出・異動\n- 辻本先生らが退職・お世話になった旨の共有\n- 河内高校、大手前高校などから新任・実習教員着任\n\n## 今後の予定・連絡\n- 本日より新体制で業務開始\n- 事務連絡は後ほど実施\n- 13:30から学年会、その後も引き続き連絡\n\n## 次のステップ\n- 学年会への出席・内容確認\n- 新任・実習教員との連携開始"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
