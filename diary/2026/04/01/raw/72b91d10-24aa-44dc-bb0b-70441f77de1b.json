@@ -1,0 +1,76 @@
+{
+  "id": "72b91d10-24aa-44dc-bb0b-70441f77de1b",
+  "created_at": "2026-04-01T02:10:06.605202+00:00",
+  "started_at": "2026-04-01T01:48:48.130217+00:00",
+  "finished_at": "2026-04-01T02:14:51.529667+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "Googleアカウント年度処理の引き継ぎ方針共有",
+    "overview": "話し手は、これまで自分が担当してきた粘土処理・年度末年度始めのGoogle関連処理を、今後のために他のメンバーにもできるようになってほしいと説明している。現在は新入生のGoogleアカウント作成、2・3年生のGoogleアカウント準備、新入生への配布、担任ごとの配布、Classroomの一括作成などで多忙だが、今年度は自分ともう1人で一緒に作業しながら手順を引き継ぎ、次年度に活かせる形でスタートしたいと依頼している。",
+    "emoji": "🖥️",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "339bfc6c-9f56-4e65-bf1b-2690388cf13f",
+      "text": "いただいた でも続けてやっていただきたい よろしくお願いします助けて 粘土処理は一応僕の準備はしてるんですけどまぁ多分他の人もできるになったほうが今後のためでいいかなと思うんで一緒にやってもら Googleでシフトして行けたらいいかなぁと思っています年度処理年度末年度始めの処理は 直近忙しいのは今新入生のGoogleアカウントを作ってて次の23年生のGoogle にする準備と新入生に配布する 担任と配布 Classroomを一括で作成して その処理が結構時間がかかるかなぁと思ってるんでその部屋ちょっと 今年度は僕ともう1人一緒にやりながらその手順を引き継いでもらって次年度に生かせるようにって言う形 スタートできたらいいかなぁとは準備はある程度できてるのでそんな感じで行けますかも忙しい お願いします",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.890991422395018e-07,
+      "end": 130.19787461090084,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "43050a57-6196-44bf-9062-fd3bd2a28a88",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "72b91d10-24aa-44dc-bb0b-70441f77de1b",
+      "chunk_timestamps": [
+        1775009406.101,
+        1775009466.5,
+        1775009527.287,
+        1775009587.32,
+        1775009647.875,
+        1775009708.119
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T02:10:06.101000+00:00",
+      "duration": 422.05999999999995
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Googleアカウント関連作業の現状\n- 新入生のGoogleアカウントを現在作成中  \n- 2・3年生用Google環境への移行準備も同時進行  \n- 作業量が多く、直近は特に多忙  \n\n## Classroom・配布準備\n- 新入生向けClassroomを一括作成予定  \n- 担任経由でアカウントや情報を配布予定  \n- この一連の処理が特に時間がかかる見込み  \n\n## 年度末・年度始め処理の引き継ぎ\n- 粘土処理（年度処理）の準備は一応完了済み  \n- 今年度は本人＋もう1人で共同作業しながら実施  \n- 手順を共有し、次年度に活かせる形で引き継ぐ  \n\n## 体制づくりと今後の方針\n- 他の人も処理できるようにする方針  \n- Google周りのシフト分散で負担軽減を目指す  \n- 今年度から引き継ぎ体制でスタートしたい意向  \n\n## 次のステップ\n- 共同作業しながら具体的な手順をマニュアル化  \n- 新入生アカウント・Classroom一括作成を優先実施  \n- 次年度を見据えた人員シフトと役割分担を調整"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
