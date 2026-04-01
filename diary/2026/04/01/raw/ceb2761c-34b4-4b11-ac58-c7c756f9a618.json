@@ -1,0 +1,83 @@
+{
+  "id": "ceb2761c-34b4-4b11-ac58-c7c756f9a618",
+  "created_at": "2026-04-01T07:49:46.996088+00:00",
+  "started_at": "2026-04-01T07:44:39.706796+00:00",
+  "finished_at": "2026-04-01T07:53:52.307082+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "4月10日配布スケジュール確認",
+    "overview": "話者は「10時半でお願いします」と時間指定を行い、4月10日の配布に関する予定・時間調整をしている。具体的には4月10日に行う配布作業（資料やチラシなど）の開始時刻を10時30分にしてほしいという依頼内容と考えられる。",
+    "emoji": "📅",
+    "category": "work",
+    "action_items": [],
+    "events": [
+      {
+        "title": "4月10日の配布",
+        "description": "配布作業を10:30開始で実施する",
+        "start": "2026-04-10T01:30:00+00:00",
+        "duration": 60,
+        "created": false
+      }
+    ]
+  },
+  "transcript_segments": [
+    {
+      "id": "a5942002-7bfa-4285-a21d-4e812a622dc8",
+      "text": "10時半でお願いします 4月10日の配布 8",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.577636758540393e-08,
+      "end": 28.064124954223637,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "319f670d-f99c-4c40-bbf9-aea836973750",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ceb2761c-34b4-4b11-ac58-c7c756f9a618",
+      "chunk_timestamps": [
+        1775029786.679,
+        1775029847.587,
+        1775029924.164,
+        1775029993.304,
+        1775030053.422
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T07:49:46.679000+00:00",
+      "duration": 387.745
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 配布日時の希望\n- 4月10日に配布を希望  \n- 時間は10時半で指定  \n\n## 次のステップ\n- 4月10日10時半で予定を確定する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
