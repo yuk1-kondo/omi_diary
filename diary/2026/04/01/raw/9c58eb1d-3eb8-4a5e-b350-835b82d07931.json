@@ -1,0 +1,92 @@
+{
+  "id": "9c58eb1d-3eb8-4a5e-b350-835b82d07931",
+  "created_at": "2026-04-01T02:46:28.170164+00:00",
+  "started_at": "2026-04-01T02:40:17.033670+00:00",
+  "finished_at": "2026-04-01T02:58:26.575247+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "来年度教科書手配と実習生受け入れ調整",
+    "overview": "教員同士の打ち合わせで、来年度に使用する教科書について本屋とのやり取りを依頼し、教科・強化担当ごとの教科書手配の段取りを確認している。また、チャイムや備品の引き継ぎについても触れつつ、今年度の教育実習が6月から始まるため、5月上旬に来る実習生の検査登録や授業参観に関する日程・会議の共有方法を確認している。関係者にはCCで情報共有し、集約は話し手側で行う方針が示されている。",
+    "emoji": "🏫",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "975ec407-b64f-4332-9e60-362c15e7004d",
+      "text": "保管用の問題回収 欠席 4番 今日来年度使う教科 本屋さんとのやりとりというのをお願いしたいです 強化強化担当の教科書 5番の チャイム 品 引継ぎと言うところです4月 今年の教育が6月からあるので5月上旬に実習生来て はい 検査登録 授業参観の あってますか ところに 会議 共有 CCを知りたい はい された方は しばし 入れてもらってこっちで 作ります",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 7.057191453441192e-08,
+      "end": 239.89300007057187,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "55418f72-e654-484b-a1ff-4bcd66e087b4",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "9c58eb1d-3eb8-4a5e-b350-835b82d07931",
+      "chunk_timestamps": [
+        1775011587.559,
+        1775011648.182,
+        1775011708.991,
+        1775011769.631,
+        1775011830.303,
+        1775011890.433,
+        1775011950.602,
+        1775012010.775,
+        1775012071.288
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T02:46:27.559000+00:00",
+      "duration": 726.0509999999999
+    },
+    {
+      "id": "784b1e5e-fbd1-43dc-845c-6fad02a156f7",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "9c58eb1d-3eb8-4a5e-b350-835b82d07931",
+      "chunk_timestamps": [
+        1775012192.497,
+        1775012253.496,
+        1775012313.834
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T02:56:32.497000+00:00",
+      "duration": 241.619
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 教科書・教材関連\n- 来年度使用教科書を本屋とやりとり依頼\n- 教科ごとに担当者が教科書対応\n- 保管用の問題回収や欠席分の対応あり\n\n## 引き継ぎ・準備\n- チャイム・備品などの引き継ぎ必要\n- 4月から新年度準備開始\n- 今年の教育活動は6月開始予定\n\n## 実習生対応・スケジュール\n- 実習生は5月上旬に来校\n- 検査登録・授業参観など実施予定\n- 日程や内容を事前に整理・共有\n\n## 会議・情報共有\n- 会議内容を関係者間で共有したい\n- CCに入れるメンバーを確認したい\n- 共有された情報を基に資料作成予定\n\n## 次のステップ\n- 本屋との教科書連絡担当を決定\n- 実習生受け入れスケジュールを確定\n- 会議CCメンバーを提示し、資料作成依頼"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
