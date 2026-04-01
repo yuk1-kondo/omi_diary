@@ -1,0 +1,85 @@
+{
+  "id": "921d4b1f-3b9c-464a-a027-7e7a0aaea11b",
+  "created_at": "2026-04-01T07:24:19.253108+00:00",
+  "started_at": "2026-04-01T07:19:04.290560+00:00",
+  "finished_at": "2026-04-01T07:27:59.970568+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "明日の初期設定予定の簡易メモ",
+    "overview": "話者が「明日午前中はもう終わったので、明日に初期設定を…」と予定を口頭で確認している断片的な内容。具体的な日時や作業対象、相手の名前などは不明で、詳細なタスク内容までは特定できない。",
+    "emoji": "📅",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "fb7378e6-7f28-403e-98a6-0cf7edffb72c",
+      "text": "明日午前中もう終わったんで明日初期設定を今日の先生 3日の",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.681182860759691e-07,
+      "end": 20.08275036811829,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "35422ea3-9cff-4c99-bd42-36f600d69482",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "921d4b1f-3b9c-464a-a027-7e7a0aaea11b",
+      "chunk_timestamps": [
+        1775028258.79,
+        1775028319.488,
+        1775028380.256
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T07:24:18.790000+00:00",
+      "duration": 133.78799999999998
+    },
+    {
+      "id": "7737d1bd-d842-42eb-b7b0-5cd6ee0bdf58",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "921d4b1f-3b9c-464a-a027-7e7a0aaea11b",
+      "chunk_timestamps": [
+        1775028479.809,
+        1775028540.616
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T07:27:59.809000+00:00",
+      "duration": 184.809
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「明日午前中」はすでに予定が終わっている様子\n- 「初期設定」を明日に行う予定のように聞こえる\n- 具体的な内容や相手（先生など）は未確認\n\n【決めたこと】\n- 特になし（内容・詳細は未確認）\n\n【次の一歩】\n- 明日の「初期設定」で何をするか、時間や場所・持ち物をメモなどに整理しておいてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
