@@ -1,0 +1,77 @@
+{
+  "id": "ef6e3f0c-23e4-4ced-aec8-e3f4cd9b3fe4",
+  "created_at": "2026-04-01T05:39:34.399284+00:00",
+  "started_at": "2026-04-01T05:36:28.659204+00:00",
+  "finished_at": "2026-04-01T05:45:33.466326+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "法要カメラのデータ共有方法の相談",
+    "overview": "話し手は法要を撮影したと思われる「法要カメラ」のデータ共有について説明している。疲れた様子のある録画データがSDカードに入っており、それを先生に見せる／伝えることで利用できるらしいと述べている。SDカードをカードリーダーに挿し、それをパソコンに接続してデータを扱う手順に言及しているが、詳細な手順や今後の予定までは語られていない。",
+    "emoji": "📹",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "7c968cff-5c46-4f82-8029-ae2d190e6c7f",
+      "text": "アドレス ですか 法用カメラって言う形で 疲れたやつがあるらしくてこれを先生に言うことでお伝えすることで使える借り SDカードなんですけどここにこのカードリーダーがある 大 パソコンしてこれさして 日",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.384185791015625e-07,
+      "end": 80.33100023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "18c13458-c47e-460d-b487-e230c1acee9d",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ef6e3f0c-23e4-4ced-aec8-e3f4cd9b3fe4",
+      "chunk_timestamps": [
+        1775021974.12,
+        1775022035.045,
+        1775022095.93,
+        1775022156.612,
+        1775022217.573,
+        1775022278.496,
+        1775022343.915
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T05:39:34.120000+00:00",
+      "duration": 490.717
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 法要カメラの存在確認\n- 法要カメラという機材があると説明  \n- 先生に伝えることで使用できる想定  \n\n## SDカードとカードリーダー\n- 法要カメラはSDカードで記録  \n- SDカードをカードリーダーに挿して利用  \n- パソコンにカードリーダーを接続してデータ確認  \n\n## 今後の進め方\n- 先生に法要カメラ利用を相談する  \n- パソコンで映像データ確認・活用を想定"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
