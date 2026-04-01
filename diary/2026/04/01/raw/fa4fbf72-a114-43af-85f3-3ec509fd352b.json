@@ -1,0 +1,82 @@
+{
+  "id": "fa4fbf72-a114-43af-85f3-3ec509fd352b",
+  "created_at": "2026-04-01T07:38:12.668176+00:00",
+  "started_at": "2026-04-01T07:19:24.373310+00:00",
+  "finished_at": "2026-04-01T07:39:00.472090+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "非常勤講師への連絡段取り確認",
+    "overview": "会話では、午前中に非常勤の先生へ連絡を入れるようにする、という段取りについて触れられている。具体的な日時や担当者、用件の詳細は示されていないが、午前中のうちに連絡する必要があることが確認されている。",
+    "emoji": "📞",
+    "category": "work",
+    "action_items": [
+      {
+        "description": "非常勤の先生に午前中に連絡を入れる",
+        "completed": false,
+        "created_at": "2026-04-01T07:41:07.356433+00:00",
+        "updated_at": null,
+        "due_at": "2026-04-01T02:59:00+00:00",
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "06a15453-cf0d-4365-964f-4f1d64eb3f00",
+      "text": "午前中に非常勤の先生に一緒に連絡を入れるように",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.861022991851314e-07,
+      "end": 9.981375286102299,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a1d5c44c-a6de-4e5a-af9c-e8ab982f7822",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "fa4fbf72-a114-43af-85f3-3ec509fd352b",
+      "chunk_timestamps": [
+        1775029091.609,
+        1775029151.641
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T07:38:11.609000+00:00",
+      "duration": 180.474
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 午前中に、非常勤の先生に一緒に連絡を入れる予定がある\n- 誰と一緒に連絡するか、具体的な相手は未確認\n- 連絡の内容や目的も未確認\n\n【決めたこと】\n- 午前中に非常勤の先生へ連絡すること（詳細は未確認）\n\n【次の一歩】\n- 非常勤の先生に何を相談・連絡したいのか、簡単なメモを事前に書いておく"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
