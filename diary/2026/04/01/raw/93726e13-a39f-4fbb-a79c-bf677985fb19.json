@@ -1,0 +1,72 @@
+{
+  "id": "93726e13-a39f-4fbb-a79c-bf677985fb19",
+  "created_at": "2026-04-01T10:40:05.428290+00:00",
+  "started_at": "2026-04-01T10:40:02.806943+00:00",
+  "finished_at": "2026-04-01T10:41:10.755843+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "教室予約の進路確保についての相談",
+    "overview": "話し手は教室予約に関して、まずは“進路を少し空けておいてほしい”と依頼しており、具体的な予約確定前にスペースや時間帯を仮押さえしておきたい意向が示されている。",
+    "emoji": "📚",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "08c19f3a-1d71-48a4-bc54-c087b65250b3",
+      "text": "教室予約は とりあえず進路をちょっと開けて欲しい と はい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.384185791015625e-07,
+      "end": 34.48550023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "cdeb9954-c765-4b64-b310-f911808cc2a0",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "93726e13-a39f-4fbb-a79c-bf677985fb19",
+      "chunk_timestamps": [
+        1775040004.665,
+        1775040077.543
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T10:40:04.665000+00:00",
+      "duration": 194.92000000000002
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 教室の予約について話があった\n- 進路を少し空けておいてほしい、という希望があった\n- 具体的な日時や内容は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 教室予約の具体的な日時や内容を、関係する人と確認してメモに残す"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
