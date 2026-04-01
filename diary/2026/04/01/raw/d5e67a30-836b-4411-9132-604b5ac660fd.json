@@ -1,0 +1,87 @@
+{
+  "id": "d5e67a30-836b-4411-9132-604b5ac660fd",
+  "created_at": "2026-04-01T03:10:53.398016+00:00",
+  "started_at": "2026-04-01T02:46:05.541795+00:00",
+  "finished_at": "2026-04-01T03:16:21.261199+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "寺町先生の公務アカウント作成依頼",
+    "overview": "話し手が京都先生に対し、新任の寺町先生のために公務システムにログインするためのアカウントを、京都先生の権限で作成してほしいと依頼している。後ほど対応をお願いしつつ、Googleアカウントの確認が必要であることにも触れている。会話の終わりには、相手に食事を取るよう軽く声かけをしている。",
+    "emoji": "💻",
+    "category": "work",
+    "action_items": [
+      {
+        "description": "寺町先生の公務システム用アカウントを作成する",
+        "completed": false,
+        "created_at": "2026-04-01T03:18:28.433288+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "67341e0c-0419-45be-b58e-989a9a7672ef",
+      "text": "京都先生すいません新任の寺町先生ですねこの公務にログインするためのアカウント 先生の権限でアカウントの作成をしてもらわないといけないと思う ですのではいまた後ほどはいよろしくお願いいたしますしばらくお待ち下さい はい Googleアカウント聞きますほんとにはい ご飯食べてくださいよご飯食べてませんよ お勧めです",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.814648152911104e-09,
+      "end": 68.18962500381463,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "79141677-4a83-4ea8-a739-17d960c0c246",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "d5e67a30-836b-4411-9132-604b5ac660fd",
+      "chunk_timestamps": [
+        1775013052.513,
+        1775013112.522,
+        1775013176.343,
+        1775013237.356,
+        1775013297.882,
+        1775013358.802,
+        1775013419.762
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T03:10:52.513000+00:00",
+      "duration": 488.25100000000003
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 新任教員アカウント作成依頼\n- 新任の寺町先生の公務アカウント作成が必要  \n- 京都先生の権限でアカウント作成を依頼  \n- 後ほど対応をお願いする旨を伝達  \n\n## ログイン情報・Googleアカウント\n- 公務ログイン用アカウントと権限設定が前提  \n- Googleアカウントを確認・ヒアリングする必要あり  \n\n## 次の対応・連絡\n- 京都先生が寺町先生のアカウントを作成  \n- 必要なGoogleアカウント情報を後ほど聞き取り  \n- 対応完了までしばらく待機すると共有"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
