@@ -1,0 +1,79 @@
+{
+  "id": "e8461a7b-5660-4737-ab62-0d3076f3c9b7",
+  "created_at": "2026-04-01T02:27:56.040497+00:00",
+  "started_at": "2026-04-01T01:52:28.740467+00:00",
+  "finished_at": "2026-04-01T02:34:53.411158+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "Chromeブック更新と教室予約システムの確認",
+    "overview": "話し手は、Chromeブックの更新作業を進めたい意向を述べ、時間がある先生に対して今日もう一度チェックを依頼している。ほとんどの端末はすでに対応済みであることが示唆されている。また、教室予約システムに「図書」を追加したことが共有され、その図書部分のみパスワード入力で削除可能な仕様にしたと説明している。そのパスワードは図書担当の先生に共有予定であり、予約や削除運用についても「しっかり対応してもらって構わない」という方針が伝えられている。",
+    "emoji": "💻",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "d6213339-2bd3-44a6-8b56-6564f4e19061",
+      "text": "布 これぐらいやりたいなと思ってましてもし可能であればChromeブックの更新の充電を 時間ない先生ちょっと 会 今日もう一回ちょっとチェックしてほぼほぼ入ってるんでどういう形で 何かありますか 教室予約システムは図書を追加しましたはい追加して 図書の部分だけパスワード入れたら削除できるにしてるんですよそのパスワードはまた図書の先生方にはお伝えするんで何か 行 もうちゃんとって言ってしまうのも全然オッケーだと思います",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.852844088214624e-07,
+      "end": 100.1537496147156,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "e4fa3e2e-fe96-4039-b525-f826c83766b4",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "e8461a7b-5660-4737-ab62-0d3076f3c9b7",
+      "chunk_timestamps": [
+        1775010474.993,
+        1775010552.249,
+        1775010612.935,
+        1775010673.497,
+        1775010734.421,
+        1775010795.148,
+        1775010855.811,
+        1775010894.058,
+        1775010954.408
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T02:27:54.993000+00:00",
+      "duration": 598.217
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Chromebook関連\n- Chromebookの更新作業を進めたい意向\n- 時間ある先生に本日中の充電と更新確認を依頼\n- ほぼ全ての端末は既に更新済みとの認識\n\n## 教室予約システム\n- 教室予約システムに「図書」を新たに追加\n- 図書部分のみパスワード入力で削除可能な仕様\n- パスワードは図書担当の先生に共有予定\n\n## Next steps\n- 先生方にChromebook充電と更新状況の再チェック依頼\n- 図書担当の先生へパスワード情報を伝達"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
