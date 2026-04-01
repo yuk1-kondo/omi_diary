@@ -1,0 +1,76 @@
+{
+  "id": "5f503c0a-ba5a-43aa-a820-a9c3702cf192",
+  "created_at": "2026-04-01T03:35:04.226154+00:00",
+  "started_at": "2026-04-01T03:24:23.568344+00:00",
+  "finished_at": "2026-04-01T03:39:33.802602+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "Teamsでの文章コラボ相談",
+    "overview": "話し手が先生に対し、Microsoft Teams上で同じ文章を共同編集（コラボレーション）したい旨を簡潔に伝えている場面。詳細な目的や日時、タスク分担などは言及されていない。",
+    "emoji": "💬",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "5cbe6d3d-be4a-4408-a08a-c6c46cb8e064",
+      "text": "先生Teamsで 同じ 文章 コラボ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -5.760192607340286e-07,
+      "end": 39.92549942398074,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1588218e-919c-464f-871e-2862bdc40c64",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "5f503c0a-ba5a-43aa-a820-a9c3702cf192",
+      "chunk_timestamps": [
+        1775014503.279,
+        1775014564.292,
+        1775014624.089,
+        1775014686.085,
+        1775014745.566,
+        1775014805.659
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-01T03:35:03.279000+00:00",
+      "duration": 423.622
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Teamsでの要望\n- Teams上で同じ文章を共有したい  \n- 一つの文章を共同編集したい  \n\n## 次のステップ\n- Teamsの共同編集機能（Word/OneNoteなど）を使う  \n- 先生に具体的な操作方法を確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
