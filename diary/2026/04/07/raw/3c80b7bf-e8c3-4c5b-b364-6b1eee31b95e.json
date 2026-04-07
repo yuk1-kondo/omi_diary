@@ -1,0 +1,94 @@
+{
+  "id": "3c80b7bf-e8c3-4c5b-b364-6b1eee31b95e",
+  "created_at": "2026-04-07T08:31:49.243969+00:00",
+  "started_at": "2026-04-07T08:33:44.160058+00:00",
+  "finished_at": "2026-04-07T08:34:08.357419+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Planning Break Before Football With Jude",
+    "overview": "The speaker sets a 25-minute timer using a Google device and tells Juice to get dressed. They mention planning to send Jude (or \"you and Jude\") out to play football a bit later, implying a short break or preparation period before going out.",
+    "emoji": "🏈",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "d5b6d9ae-1f0b-4b71-bdf7-22b4050c1fc6",
+      "text": "Hey, Juice. Offshorts Twenty five minutes. Go and get dressed. Okay? Gonna set a timer. Hey, Google. Set a timer for twenty five minutes.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 2.479553273815327e-07,
+      "end": 13.300000247955325,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d5e4aea1-7a89-41bd-a7d5-d87fae4ee725",
+      "text": "I'm gonna send you an edit I'm gonna send Jude I'll send you an idiot out to play football a bit later. Can you come",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 15.48000074795533,
+      "end": 23.080000247955326,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156938,
+    "longitude": -3.2755417,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "13083f09-d3a4-4c05-bf08-e8beee45d733",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "3c80b7bf-e8c3-4c5b-b364-6b1eee31b95e",
+      "chunk_timestamps": [
+        1775550709.815,
+        1775550783.795,
+        1775550844.466,
+        1775550905.189
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-07T08:31:49.815000+00:00",
+      "duration": 315.656
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Setting a timer\n- Person instructs Juice to get dressed\n- Timer set for 25 minutes using Google\n\n## Future football plans\n- Person mentions sending an edit to Jude\n- Plans to send Juice out to play football later"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
