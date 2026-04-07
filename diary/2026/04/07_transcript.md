@@ -136,3 +136,98 @@ Can you turn your phone off silent, please?
 
 ---
 
+
+
+## 📝 Parent and Child Discuss Pocket Money for Football - 1a972a16-e62c-42fb-b4de-6c17c7a3f93a
+
+**記録時間**: 2026-04-07 18:39:01
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 3s]
+Yeah. No?
+
+🎤 SPEAKER_2 [12s - 15s]
+I think you probably spent some of your money and mommies mommy's taken it.
+
+🎤 SPEAKER_4 [16s - 17s]
+Happened?
+
+🎤 SPEAKER_1 [17s - 17s]
+I told you.
+
+🎤 SPEAKER_2 [18s - 20s]
+Well, mommy's kept on top of it. We'll ask her when she gets home.
+
+🎤 SPEAKER_4 [21s - 28s]
+I did 20 I had a 20 band note I like I think you bought I like more of these $10.
+
+🎤 SPEAKER_2 [28s - 31s]
+Do you not buy your rollers and everything? Mommy's had a look at it.
+
+🎤 SPEAKER_4 [31s - 33s]
+Then I had two fibers.
+
+🎤 SPEAKER_2 [34s - 40s]
+Right, anyway, you got less a lot of money football your age. So you're not gonna take all that. Oh, you don't want it? No. I'll have it then. Fine.
+
+👤 あなた [41s - 43s]
+Thank you. Exactly.
+
+🎤 SPEAKER_2 [44s - 48s]
+Hang on. Hang on. Hang on. You're not taking 30 pounds out. Know.
+
+🎤 SPEAKER_4 [48s - 50s]
+It's just that this is all I've got.
+
+🎤 SPEAKER_2 [50s - 52s]
+Right. Let me see what I can do, son.
+
+🎤 SPEAKER_4 [52s - 54s]
+I should have, like, sixty thousand there.
+
+🎤 SPEAKER_2 [54s - 57s]
+You've spent 30 of it on bowlies.
+
+🎤 SPEAKER_4 [58s - 59s]
+Yeah. Oh my god.
+
+🎤 SPEAKER_2 [61s - 73s]
+Well, don't panic. We'll speak to my mom about it later. Okay? Right. What sort of many have you got, son? Corrupts, corruption.
+
+🎤 SPEAKER_2 [74s - 76s]
+Have you got any fibers and things?
+
+🎤 SPEAKER_2 [83s - 85s]
+Alright. Tube's only got a £10 note. That's all.
+
+🎤 SPEAKER_2 [88s - 91s]
+Now I mean, you've got £10 too much to take out really.
+
+🎤 SPEAKER_2 [100s - 110s]
+I can't see I can't see you. I was in installed only mumkin. Alright. Take that. Take the 5. Keep this. Would you was it living you?
+
+🎤 SPEAKER_2 [112s - 122s]
+You're not taking your wall that, though, out of I'm not taking my Oy. Oy. Try that again. You're not taking your wallet out, obviously.
+
+🎤 SPEAKER_2 [122s - 135s]
+Thank you. Don't be rude. I've just given you £5. And you're not spending all of it either. Be kind. Don't be rude to daddy. Right. Are you ready, Elliot?
+
+🎤 SPEAKER_1 [143s - 144s]
+Right.
+
+🎤 SPEAKER_2 [145s - 146s]
+We're right now. Yeah.
+
+🎤 SPEAKER_2 [151s - 153s]
+Let me just try off this SOS Super.
+
+👤 あなた [154s - 157s]
+Super thing's working now. It wasn't working every day.
+
+🎤 SPEAKER_2 [159s - 160s]
+Have actually only 62% of it.
+
+
+---
+
