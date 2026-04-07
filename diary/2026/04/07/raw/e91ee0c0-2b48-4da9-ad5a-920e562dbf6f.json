@@ -1,0 +1,131 @@
+{
+  "id": "e91ee0c0-2b48-4da9-ad5a-920e562dbf6f",
+  "created_at": "2026-04-07T13:08:39.497164+00:00",
+  "started_at": "2026-04-07T13:09:42.003660+00:00",
+  "finished_at": "2026-04-07T13:10:00.273015+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Short Conversation About Leaving Soon",
+    "overview": "The brief exchange captures someone, likely addressing Jude, reminding them that they will be going to Jenny Michelle's in five minutes. Another person (Omi) is acknowledged, and the speaker reassures that the current video can be finished later, emphasizing the need to leave shortly.",
+    "emoji": "⏰",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "ac8eae2f-8dfe-464d-aaa9-9a47d78f810d",
+      "text": "Jude. Judo.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 2.8610338631551713e-07,
+      "end": 3.840000286103532,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7a4bbbf6-8e92-4f4b-bd62-4c1034a33f34",
+      "text": "You've been going you've been going to Jenny Michelle's in five minutes.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 5.360000286103514,
+      "end": 8.000000286103386,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "06e964bc-b2c4-46fa-bbe9-222e2bc46142",
+      "text": "Omi. Yep.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 8.959990286103675,
+      "end": 10.310000286103332,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "da594874-db81-4778-be9e-13d80b01400f",
+      "text": "You can you can finish your video later.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 12.509990286103402,
+      "end": 14.429990286103475,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "81c53e92-6aca-4f0d-8dde-ca9876d73886",
+      "text": "You can finish that video later.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 14.960000286103423,
+      "end": 17.360000286103514,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156938,
+    "longitude": -3.2755417,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "65786e0b-03c0-4a96-929b-bd06392b117c",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "e91ee0c0-2b48-4da9-ad5a-920e562dbf6f",
+      "chunk_timestamps": [
+        1775567318.868,
+        1775567379.15,
+        1775567439.372
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-07T13:08:38.868000+00:00",
+      "duration": 241.306
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Going to Jenny Michelle's\n- Person is going to Jenny Michelle's\n- Departure time is in five minutes\n\n## Pausing Current Activity\n- Someone is watching or making a video\n- Video can be finished later, not urgent\n\n## Next steps\n- Leave for Jenny Michelle's within five minutes\n- Resume video after returning"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
