@@ -869,3 +869,554 @@ You can finish that video later.
 
 ---
 
+
+
+## 📝 Family Visit To John And Michelle’s Home - 159d80b2-c7d2-4b70-9a89-f4c1c2c05445
+
+**記録時間**: 2026-04-07 22:18:08
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [1s - 2s]
+Why does it take so long for you to say something after an incident?
+
+🎤 SPEAKER_0 [4s - 7s]
+I'm trying to put my phone on speaker. Oh, you see.
+
+🎤 SPEAKER_0 [8s - 11s]
+Anyway in about five minutes less than that, we're leaving for Johnny Michelle's.
+
+🎤 SPEAKER_1 [12s - 26s]
+So if you wanna wrap up what you're doing then come on down, It's twenty past two. Yeah. But, like, so I meant to be there Yep.
+
+🎤 SPEAKER_1 [26s - 30s]
+Well, that's what you told me. No.
+
+🎤 SPEAKER_0 [30s - 32s]
+I do not. That's a guess, is it?
+
+🎤 SPEAKER_1 [33s - 44s]
+Yeah. Oh, thanks a lot, Elliot. You could have just said I don't know rather than tell me it's 02:30. Right. Anyway, come on. I'm gonna I'll just confirm with them now. Alright?
+
+🎤 SPEAKER_1 [44s - 45s]
+Come on down. Right?
+
+🎤 SPEAKER_1 [80s - 88s]
+Hecho. You're not too bad at UK? It's okay. I'm okay. Yeah. So am I to understand that you're gonna be having the boys now for a little bit?
+
+🎤 SPEAKER_1 [88s - 90s]
+That something that's been Yeah.
+
+🎤 SPEAKER_0 [91s - 93s]
+It's supposed to be a two bed anyway.
+
+🎤 SPEAKER_1 [94s - 107s]
+Oh, and it had told me it's 02:30. No. No. It was two. But there we are. That's fine. John, I'm sorry, man. No, Eddie. Eddie. I said Eddie, what time are going to Michelle today? Said 02:30.
+
+🎤 SPEAKER_1 [108s - 116s]
+And so he said it so confidently that I didn't even check. Oh, yeah. I'm sorry, mate. But that's fine.
+
+🎤 SPEAKER_2 [116s - 118s]
+I apologize. That's fine. It's okay.
+
+🎤 SPEAKER_1 [118s - 123s]
+Well, we'll be if it's if it's still okay, then we'll head we'll head down for head down for 02:30.
+
+🎤 SPEAKER_2 [124s - 125s]
+Okay.
+
+🎤 SPEAKER_1 [125s - 138s]
+So what what time was so two until four or something, was it John? Four five. Yeah. Alright. Well, thank you. Sorry you've been sitting around. I'll be we'll be down in ten minutes then.
+
+🎤 SPEAKER_2 [139s - 139s]
+Alright then.
+
+🎤 SPEAKER_1 [139s - 140s]
+Thank you, John.
+
+🎤 SPEAKER_2 [141s - 141s]
+Alright.
+
+🎤 SPEAKER_2 [146s - 147s]
+Good grief.
+
+🎤 SPEAKER_1 [149s - 150s]
+Right, you, we gotta go.
+
+🎤 SPEAKER_1 [192s - 193s]
+Elliott.
+
+🎤 SPEAKER_1 [197s - 329s]
+Come on, dude. Let's go. Elliott. Well, we're meant to be there. Come on. It's meant to be two o'clock Johnny said it's meant to be 02:00. Now it's now we're late.
+
+🎤 SPEAKER_0 [333s - 355s]
+You did now.
+
+🎤 SPEAKER_1 [356s - 361s]
+Jude, I off now quick. Let's go. Let's go. We're gonna be late.
+
+🎤 SPEAKER_0 [367s - 374s]
+Makes me think, Eddie, you said it on purpose because you didn't wanna go. Alright. You have then. Or you should have told me it was a guess.
+
+🎤 SPEAKER_1 [375s - 376s]
+One to two.
+
+🎤 SPEAKER_1 [381s - 386s]
+When I ask you a question, you say it's it's this time.
+
+🎤 SPEAKER_1 [389s - 391s]
+Then I'm gonna believe you,
+
+🎤 SPEAKER_2 [391s - 391s]
+I?
+
+🎤 SPEAKER_1 [392s - 401s]
+But if you say I'm not sure, dad, it it may be I I'm not really sure, then would have messaged from me. Where's my blinking keys?
+
+🎤 SPEAKER_1 [402s - 403s]
+Oh, I know where they are.
+
+🎤 SPEAKER_2 [411s - 411s]
+Right. In the car.
+
+🎤 SPEAKER_1 [412s - 412s]
+Guys. Quick.
+
+🎤 SPEAKER_1 [425s - 460s]
+Nice seat belt nice and quick.
+
+🎤 SPEAKER_0 [516s - 517s]
+You guys are half four. Okay?
+
+🎤 SPEAKER_1 [521s - 682s]
+What do mean plunge today, Elliott. FC is there? I thought you taking a break from that one. You didn't see any of the kids there.
+
+🎤 SPEAKER_1 [682s - 683s]
+Up at Corcote, did you?
+
+🎤 SPEAKER_1 [690s - 696s]
+You alright? Travel sec. You're a little bit. No. How strong are you then?
+
+🎤 SPEAKER_0 [700s - 701s]
+You wanna be void in him in it?
+
+🎤 SPEAKER_1 [705s - 716s]
+Watch much YouTube brain kind of squashing YouTube for hours and hours makes people dumber.
+
+🎤 SPEAKER_1 [721s - 732s]
+But you've been this morning playing football. Got some scratch, On to Joan Michel's now. We're gonna walk Bruce later. Again. Yeah.
+
+🎤 SPEAKER_1 [733s - 744s]
+Because you you know what's happened to Grant's knee. But probably Why? Not till much later. Alright? So just rice. No. Just a quick walk.
+
+🎤 SPEAKER_1 [745s - 756s]
+Cheers. You know? Down to Oh, just over to again. Omi joking. Around the probably and then back.
+
+🎤 SPEAKER_1 [762s - 770s]
+Who's serving today. Well, listen. Grand's has been an operation. It would be really helpful for my mom and dad if we could do it.
+
+🎤 SPEAKER_1 [770s - 776s]
+Because they can't do it themselves. You able to step up and help or not? For this week?
+
+🎤 SPEAKER_1 [779s - 781s]
+Why did why did they get Because they didn't realize Gram was gonna have a knee up.
+
+🎤 SPEAKER_2 [783s - 785s]
+Why would they get a dog that wouldn't listen?
+
+🎤 SPEAKER_1 [786s - 795s]
+Ah, poods. Right. It's kinda thing positive change. Keep your foot. This is a general good rule for you to learn, actually. You've got nothing good to say. Just don't say it. Keep it yourself.
+
+🎤 SPEAKER_1 [795s - 801s]
+Just just makes everyone else a bit unhappy with you. You know what she was there, isn't it?
+
+🎤 SPEAKER_2 [803s - 803s]
+Is it that one?
+
+🎤 SPEAKER_1 [806s - 806s]
+No.
+
+🎤 SPEAKER_1 [820s - 825s]
+What's that? Pick it up quick? Not there. Not there.
+
+🎤 SPEAKER_2 [825s - 826s]
+Okay.
+
+🎤 SPEAKER_1 [831s - 837s]
+I Jack?
+
+🎤 SPEAKER_2 [851s - 852s]
+Hello.
+
+🎤 SPEAKER_1 [855s - 866s]
+Sorry, John. Bit of a mix up on the old start time here. Okay. How are you doing, bro? Yeah. Kiss. Get there. Get in there. How are you?
+
+🎤 SPEAKER_0 [866s - 868s]
+Yeah. Good. You guys alright?
+
+🎤 SPEAKER_1 [868s - 872s]
+Good. Well, you say boys?
+
+🎤 SPEAKER_2 [872s - 872s]
+Thanks, Scott.
+
+🎤 SPEAKER_1 [873s - 875s]
+Thanks, John.
+
+🎤 SPEAKER_0 [876s - 878s]
+Misha just get us all sort of upset as she's up there doing
+
+🎤 SPEAKER_1 [879s - 885s]
+Good. Thank you, mate. Yeah. How are you? Dissertation's in. Dissertation's in. Exams now. That's one from
+
+🎤 SPEAKER_0 [885s - 886s]
+Yeah.
+
+🎤 SPEAKER_1 [886s - 898s]
+Okay. You have it done then? After that? Well, tell me. Just two exams now, early May. By about May 12, done forever. No more Reese can't come to this. Reese can't come to it.
+
+🎤 SPEAKER_1 [900s - 913s]
+That'd be worth it. Just one last push. What are you being able to today? Seeing Chris? No. Well, I did. I took it because bank holiday. Took it was taking his laundry, so I picked it up this morning. Oh, yeah.
+
+🎤 SPEAKER_0 [923s - 926s]
+So Alright. Yeah.
+
+🎤 SPEAKER_1 [926s - 926s]
+What's happened to him?
+
+🎤 SPEAKER_3 [929s - 930s]
+Hasn't been brilliant.
+
+🎤 SPEAKER_1 [930s - 934s]
+No. I said to him, I said, listen.
+
+🎤 SPEAKER_3 [934s - 940s]
+I said, we shall allow a look at it for you. On Sunday.
+
+🎤 SPEAKER_0 [940s - 940s]
+Yeah.
+
+🎤 SPEAKER_3 [941s - 953s]
+So in the meantime, on Friday, talked to the waterfall. Right. And they said it needs resetting. Ah. Factory reset. Alright. But they do them.
+
+🎤 SPEAKER_3 [954s - 967s]
+Right. Fair do's on the guy. He said, the reason we do him is because I went back there this morning. He said the reason we don't do them is that we can't be held responsible for losing them.
+
+🎤 SPEAKER_1 [967s - 972s]
+All the data, the numbers, everything. Elliot, Elliot, Bill Hudson.
+
+🎤 SPEAKER_3 [972s - 973s]
+Don't we don't do it.
+
+🎤 SPEAKER_1 [974s - 974s]
+No.
+
+🎤 SPEAKER_3 [974s - 981s]
+And I said that's that's better Yeah. Than what they did across the road. I connect to what they're called.
+
+🎤 SPEAKER_1 [981s - 981s]
+Right.
+
+🎤 SPEAKER_3 [982s - 985s]
+Calls them I rip off.
+
+🎤 SPEAKER_1 [985s - 986s]
+That's what he calls them. Alright.
+
+🎤 SPEAKER_3 [986s - 987s]
+Yeah.
+
+🎤 SPEAKER_0 [987s - 988s]
+So what do you do with him then?
+
+🎤 SPEAKER_3 [988s - 996s]
+Well, basically, Tim then went to the repair shop Saturday morning They had to look at it Said it was fixed and it wasn't.
+
+🎤 SPEAKER_1 [996s - 997s]
+Right.
+
+🎤 SPEAKER_3 [998s - 1001s]
+So Sunday morning, he bring it with him.
+
+🎤 SPEAKER_3 [1005s - 1007s]
+Yeah. And then he disappeared.
+
+🎤 SPEAKER_0 [1008s - 1010s]
+Right. On the way from church or after church thing?
+
+🎤 SPEAKER_3 [1011s - 1012s]
+Well, halfway through.
+
+🎤 SPEAKER_3 [1016s - 1023s]
+You need to be back. I can give you till I past twelve, but after that I will do it.
+
+🎤 SPEAKER_4 [1023s - 1023s]
+Right.
+
+🎤 SPEAKER_3 [1024s - 1034s]
+So we thought, right, I need to get home for I past twelve. So just before twelve, when we broke, Yeah. Went. Just went. Alright.
+
+🎤 SPEAKER_3 [1035s - 1044s]
+But he rushed home. Yeah. Then the cater told him off because and said, listen. If you fall over, you're going straight back to hospital.
+
+🎤 SPEAKER_3 [1045s - 1047s]
+There's no way I could get to know him.
+
+🎤 SPEAKER_0 [1047s - 1048s]
+Yeah. And he had no he'd have his phone on him?
+
+🎤 SPEAKER_3 [1048s - 1055s]
+No. And then he go home. That day.
+
+🎤 SPEAKER_3 [1061s - 1071s]
+He then decides yesterday I need my phone for a ticket As I said to him, I said, listen, if you'd allow me to take you home once
+
+🎤 SPEAKER_4 [1071s - 1071s]
+Sunday Yeah.
+
+🎤 SPEAKER_3 [1072s - 1075s]
+I said it might have been gone on past twelve. I said, okay.
+
+🎤 SPEAKER_3 [1078s - 1079s]
+He shown us gonna come with me.
+
+🎤 SPEAKER_1 [1080s - 1081s]
+I sort your phone out. Yeah.
+
+🎤 SPEAKER_0 [1081s - 1081s]
+Yeah.
+
+🎤 SPEAKER_3 [1082s - 1083s]
+So you missed out
+
+🎤 SPEAKER_1 [1088s - 1088s]
+Yeah.
+
+🎤 SPEAKER_3 [1089s - 1094s]
+Went in there. And the guy I just had a big family with the guy this
+
+🎤 SPEAKER_1 [1101s - 1104s]
+The only thing I told you Yeah.
+
+🎤 SPEAKER_3 [1104s - 1107s]
+He said yes to you. Right. I said, dad, he will.
+
+🎤 SPEAKER_1 [1112s - 1113s]
+Aliás, too loud son.
+
+🎤 SPEAKER_0 [1113s - 1114s]
+Sorry. You sound too shal.
+
+🎤 SPEAKER_3 [1114s - 1118s]
+It's over 70 years old. I said, so you should be looking at that.
+
+🎤 SPEAKER_0 [1120s - 1120s]
+I've been social.
+
+🎤 SPEAKER_3 [1121s - 1123s]
+Right. So I'm not gonna do anything.
+
+🎤 SPEAKER_4 [1127s - 1132s]
+Refuse. I said, if they're on their own, I would say so.
+
+🎤 SPEAKER_4 [1135s - 1138s]
+I said, because you're in a worse state than when he come in? No.
+
+🎤 SPEAKER_3 [1138s - 1140s]
+I said, because when he come in, he couldn't get into his phone.
+
+🎤 SPEAKER_4 [1140s - 1144s]
+No. You're sending him out with nothing on his phone.
+
+🎤 SPEAKER_1 [1144s - 1146s]
+So they completely wok their charged him twenty quick.
+
+🎤 SPEAKER_2 [1147s - 1147s]
+Wow.
+
+🎤 SPEAKER_4 [1148s - 1151s]
+So, yeah, like Oh, wow.
+
+🎤 SPEAKER_1 [1151s - 1156s]
+So I had a bad idea with him. Well done, John. So I'm looking out for him, it's a bit of the whole thing's bit frustrating really, ain't it? Yeah.
+
+🎤 SPEAKER_0 [1156s - 1157s]
+Yeah. Every angle.
+
+🎤 SPEAKER_4 [1157s - 1167s]
+I had to go get the phone last night. Brought it up here. Yeah. Michelle, I took she got WhatsApp on there, only through her WhatsApp.
+
+🎤 SPEAKER_0 [1167s - 1167s]
+Right.
+
+🎤 SPEAKER_4 [1167s - 1172s]
+So then she had to go through her WhatsApp to get WhatsApp on his phone, then take her WhatsApp off.
+
+🎤 SPEAKER_0 [1173s - 1173s]
+Alright.
+
+🎤 SPEAKER_3 [1175s - 1179s]
+My phone number, her phone number, and Omi's.
+
+🎤 SPEAKER_0 [1179s - 1179s]
+Yeah.
+
+🎤 SPEAKER_1 [1181s - 1185s]
+No This whole thing's been wiped, yeah. We're going down tomorrow now.
+
+🎤 SPEAKER_4 [1185s - 1199s]
+You shall have a look at it. Yeah. To see whether there is anything on his laptop or his yeah. On his laptop. If there is stuff on his laptop, she can Right. Yeah.
+
+🎤 SPEAKER_1 [1200s - 1213s]
+Or to a start re putting stuff on his phone. Oh, dear. So it'd have to be a case of if that's the worst case, then Heather and all those lot will just have to send him a text or something within number or something.
+
+🎤 SPEAKER_0 [1213s - 1221s]
+Say, hey hey, this is Heather or Yeah. And then this oh, that's a bit of a nightmare, innit?
+
+🎤 SPEAKER_4 [1222s - 1222s]
+It is a nightmare.
+
+🎤 SPEAKER_3 [1223s - 1226s]
+Need to understand, but they don't know.
+
+🎤 SPEAKER_4 [1226s - 1233s]
+It's it's something you know, and then this morning, was two buses that didn't come. And he said, Brick me.
+
+🎤 SPEAKER_0 [1234s - 1236s]
+So he couldn't For breakfast.
+
+🎤 SPEAKER_3 [1236s - 1237s]
+He didn't come to breakfast.
+
+🎤 SPEAKER_0 [1237s - 1238s]
+Yeah.
+
+🎤 SPEAKER_4 [1239s - 1243s]
+So yeah, we had a chat with him yesterday, basically.
+
+🎤 SPEAKER_3 [1243s - 1243s]
+I said this.
+
+🎤 SPEAKER_4 [1243s - 1251s]
+And I said, everybody's trying to take care of you. K. I said, do you mind think you could do things. Yeah. Some of you can't.
+
+🎤 SPEAKER_4 [1252s - 1253s]
+Yeah.
+
+🎤 SPEAKER_3 [1253s - 1255s]
+I said you can't brush on the church Yeah.
+
+🎤 SPEAKER_4 [1255s - 1260s]
+To brush on without telling somebody that's that's not on.
+
+🎤 SPEAKER_4 [1262s - 1266s]
+I said the only way we can get from that is if we come to choose well, the John, you've taken that on massively and
+
+🎤 SPEAKER_4 [1284s - 1286s]
+It's it's just ridiculous. Yeah.
+
+🎤 SPEAKER_3 [1288s - 1289s]
+Yeah, he looks okay.
+
+🎤 SPEAKER_4 [1295s - 1306s]
+Thinks he can do things. Yeah. And he forgets listen. You are the conversation for that for twenty minutes.
+
+🎤 SPEAKER_4 [1310s - 1316s]
+No. I said, but the only thing he was he would do in a a reset. Right.
+
+🎤 SPEAKER_4 [1328s - 1330s]
+About that when you were taking it.
+
+🎤 SPEAKER_0 [1330s - 1331s]
+Well then, John, okay.
+
+🎤 SPEAKER_4 [1332s - 1332s]
+Basically, it's survival his phone.
+
+🎤 SPEAKER_0 [1336s - 1338s]
+Charge him for the privilege. Yeah.
+
+🎤 SPEAKER_4 [1339s - 1348s]
+And then I said he charged him as well. Yeah. He said what he tried to say? Then I just did it for the money. I said, well, you need to So I don't know. Yeah.
+
+🎤 SPEAKER_3 [1349s - 1350s]
+So there we are.
+
+🎤 SPEAKER_0 [1350s - 1350s]
+John, man. That
+
+🎤 SPEAKER_3 [1351s - 1351s]
+He's
+
+🎤 SPEAKER_0 [1352s - 1355s]
+just Right. So just an extra headache. An extra headache.
+
+🎤 SPEAKER_3 [1356s - 1366s]
+But, yeah, it's just know? And the and the sad part about it all is that the only way things will change is if you face Yeah.
+
+🎤 SPEAKER_4 [1371s - 1374s]
+Is him falling so much.
+
+🎤 SPEAKER_3 [1374s - 1379s]
+Yeah. A bit in the back of the hospital.
+
+🎤 SPEAKER_4 [1379s - 1384s]
+Yeah. It's a sad patch. Yeah. And you don't want to turn around to tip and see it's not working.
+
+🎤 SPEAKER_0 [1386s - 1386s]
+No.
+
+🎤 SPEAKER_0 [1395s - 1398s]
+You can't turn around to the the authorities and see Because he's got a massive support network around there. That's why. Yeah.
+
+🎤 SPEAKER_0 [1399s - 1400s]
+But but he's a bit rural, can he?
+
+🎤 SPEAKER_1 [1400s - 1401s]
+Yeah.
+
+🎤 SPEAKER_4 [1402s - 1402s]
+That's the problem.
+
+🎤 SPEAKER_3 [1404s - 1407s]
+Because once the four times it, four times a day is five minutes restricted for loop.
+
+🎤 SPEAKER_4 [1408s - 1410s]
+No. Because he can't do anything.
+
+🎤 SPEAKER_0 [1413s - 1415s]
+And he's just anxious about being there when they're there he goes out, he realizes, oh, I gotta be back.
+
+🎤 SPEAKER_1 [1421s - 1424s]
+Yeah. So then he push So they got three more weeks today?
+
+🎤 SPEAKER_4 [1425s - 1426s]
+Three more weeks in the morning.
+
+🎤 SPEAKER_0 [1426s - 1429s]
+Hopefully, won't have a fall over.
+
+🎤 SPEAKER_1 [1437s - 1442s]
+John, thank you, mate. Man. I appreciate it. No. Right.
+
+🎤 SPEAKER_0 [1442s - 1444s]
+I'll be back back up past four then. Is that alright? Yeah. That's fine.
+
+🎤 SPEAKER_1 [1446s - 1447s]
+Alright, boys.
+
+🎤 SPEAKER_3 [1448s - 1448s]
+Be fun.
+
+🎤 SPEAKER_1 [1454s - 1456s]
+Oh, I can hear some music upstairs.
+
+🎤 SPEAKER_4 [1457s - 1458s]
+You alright, Mish?
+
+🎤 SPEAKER_1 [1459s - 1472s]
+Sounds like you're having fun with the drums. Elliot? Michelle's on the drums, guys. Thank you, Millers. I'll see you later. See you later guys.
+
+
+---
+
