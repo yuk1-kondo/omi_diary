@@ -83,3 +83,56 @@ What do you think?
 
 ---
 
+
+
+## 📝 Family Coordinates With Elliot Before Class - 4fa7d4a9-7044-47a8-9bfa-6f3efbea5805
+
+**記録時間**: 2026-04-07 18:32:22
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 9s]
+How you? How are you getting on? Yeah. You getting dressed or what? Have you spoken to Jude Jack?
+
+🎤 SPEAKER_1 [13s - 13s]
+Elliot?
+
+🎤 SPEAKER_2 [14s - 21s]
+Have you spoken to Jude yet? No. Come on come on down and do it now so I can get start getting chewed ready as well.
+
+🎤 SPEAKER_2 [29s - 30s]
+Just just come down quick, then.
+
+🎤 SPEAKER_2 [50s - 51s]
+Elliot, just come down quick.
+
+🎤 SPEAKER_2 [69s - 70s]
+Wait, Chad.
+
+🎤 SPEAKER_1 [74s - 78s]
+Adiós.
+
+🎤 SPEAKER_2 [79s - 80s]
+Come on.
+
+🎤 SPEAKER_2 [83s - 85s]
+Just you can get change a sec.
+
+🎤 SPEAKER_2 [89s - 136s]
+Oh, slinky go. Slinky, slinky. K. Because Judy doesn't know yet, because it it could it sounds more fun coming from you. What are gonna say?
+
+🎤 SPEAKER_2 [140s - 165s]
+Seven e mini, dude? You're, like, sixty pounds.
+
+🎤 SPEAKER_2 [166s - 171s]
+I took 10 off won't turn off. I'm just gonna save you battery on your head, friends. Judith, are you ready? So you go and get yourself ready for class and group.
+
+🎤 SPEAKER_1 [176s - 250s]
+Elliott?
+
+🎤 SPEAKER_2 [250s - 252s]
+Can you turn your phone off silent, please?
+
+
+---
+
