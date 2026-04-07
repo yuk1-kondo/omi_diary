@@ -18,3 +18,68 @@ I'm gonna send you an edit I'm gonna send Jude I'll send you an idiot out to pla
 
 ---
 
+
+
+## 📝 Family Plans Morning Football With Jude - b8b6c4d0-1d94-415e-8243-23a739fc9332
+
+**記録時間**: 2026-04-07 18:02:37
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [3s - 13s]
+Ellias, quite like you to wait to whatever you finish, you gave, whatever you're doing, I like you to get dressed and come downstairs and say to Jude, hey, Jude, you wanna complete some football?
+
+🎤 SPEAKER_0 [14s - 21s]
+And then go up to the Colcut area to do that. You guys can pop in the shop you can pop in the shop for some sweets on the way home if you want.
+
+🎤 SPEAKER_2 [22s - 25s]
+Well, it's quite difficult. Do you know when I woke up?
+
+🎤 SPEAKER_1 [25s - 26s]
+No.
+
+🎤 SPEAKER_2 [27s - 29s]
+Like, fifteen minutes ago.
+
+🎤 SPEAKER_1 [29s - 30s]
+Oh, yeah.
+
+🎤 SPEAKER_2 [31s - 33s]
+So, I mean, if she's got I know.
+
+🎤 SPEAKER_0 [37s - 46s]
+But mom told me to do this at 10:00. So it's about five past. So you'd have to you'd have to be out very long. You could just be off an hour.
+
+🎤 SPEAKER_2 [47s - 48s]
+Fifteen minutes.
+
+🎤 SPEAKER_1 [48s - 48s]
+What?
+
+🎤 SPEAKER_0 [58s - 63s]
+Yeah. What time do you want it what time do you want it to be then, then? What times do you recommend?
+
+🎤 SPEAKER_0 [69s - 76s]
+Half ten. That's twenty five minutes in there, bro. Alright. Well, why don't you why don't you, at half past ten, come down ready dressed then?
+
+🎤 SPEAKER_1 [76s - 76s]
+Alright.
+
+🎤 SPEAKER_0 [80s - 83s]
+Come down half past ten then. Alright? Come since you woke up late, come down half past ten.
+
+🎤 SPEAKER_0 [86s - 87s]
+Alright.
+
+🎤 SPEAKER_1 [88s - 90s]
+Bye bye.
+
+🎤 SPEAKER_0 [94s - 142s]
+I guess I'll need to go down to Steven Rhonda's house. Knock on the door and just remind them. I feel like a text message is a bit impersonal.
+
+🎤 SPEAKER_0 [142s - 143s]
+What do you think?
+
+
+---
+
