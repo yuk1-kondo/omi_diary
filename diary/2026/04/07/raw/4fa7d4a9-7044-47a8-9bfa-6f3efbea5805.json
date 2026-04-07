@@ -1,0 +1,251 @@
+{
+  "id": "4fa7d4a9-7044-47a8-9bfa-6f3efbea5805",
+  "created_at": "2026-04-07T09:32:22.683482+00:00",
+  "started_at": "2026-04-07T09:32:47.143830+00:00",
+  "finished_at": "2026-04-07T09:37:01.243530+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Family Coordinates With Elliot Before Class",
+    "overview": "A caregiver (likely a parent) talks with Elliot about coming downstairs to get dressed and ready, encouraging him to speak to Jude because it will sound more fun coming from him. They discuss weight briefly, mention saving battery on headphones, and remind both Judith and Elliot to get ready for class or group and to turn Elliot’s phone off silent.",
+    "emoji": "👨‍👩‍👧‍👦",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "01acb4bc-66d4-47eb-943f-ccc8db2454c3",
+      "text": "How you? How are you getting on? Yeah. You getting dressed or what? Have you spoken to Jude Jack?",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 2.098086042678915e-07,
+      "end": 9.080000209808645,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "5c35b7d0-c4e3-441f-85da-6fe3158ae854",
+      "text": "Elliot?",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 13.03999720980869,
+      "end": 13.612814970017098,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "6682f179-b2b9-4533-b2b2-13501190c800",
+      "text": "Have you spoken to Jude yet? No. Come on come on down and do it now so I can get start getting chewed ready as well.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 14.092814970017002,
+      "end": 21.722814970016998,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "ee183211-8ab4-44a4-ac3b-2c28fb2e8cbb",
+      "text": "Just just come down quick, then.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 29.178785867691886,
+      "end": 30.85878586769195,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c035f7d6-f4bf-401f-8c0f-601a95321d8e",
+      "text": "Elliot, just come down quick.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 50.58824387278855,
+      "end": 51.94824187278857,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3ffd6a61-9fbe-43f1-9a8e-75bbd29af813",
+      "text": "Wait, Chad.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 69.87092643737867,
+      "end": 70.51092643737866,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "49fb2064-4ca2-4c23-b997-84afd547f905",
+      "text": "Adiós.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 74.77091643737867,
+      "end": 78.83305983132936,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b2f90c81-7cf2-4613-8286-d196d4da6236",
+      "text": "Come on.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 79.99306383132932,
+      "end": 80.55306383132938,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "19794a59-61b9-42da-b381-2af45b236e09",
+      "text": "Just you can get change a sec.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 83.83305983132936,
+      "end": 85.83306383132935,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "942df08d-a1d6-4846-a3ff-5ced427dc2bb",
+      "text": "Oh, slinky go. Slinky, slinky. K. Because Judy doesn't know yet, because it it could it sounds more fun coming from you. What are gonna say?",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 89.71305383132938,
+      "end": 136.672122877638,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7f23b16a-5584-4063-98b6-61b046db6979",
+      "text": "Seven e mini, dude? You're, like, sixty pounds.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 140.55212887763798,
+      "end": 165.3314045524554,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "14e26e3e-b46d-409c-a418-efa0c3698396",
+      "text": "I took 10 off won't turn off. I'm just gonna save you battery on your head, friends. Judith, are you ready? So you go and get yourself ready for class and group.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 166.93140455245543,
+      "end": 171.67140455245544,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c30e51b5-a532-45ed-9f2f-eef09b996c60",
+      "text": "Elliott?",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 176.29140455245545,
+      "end": 250.03360063552225,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "220e1d94-81c3-49db-8f8b-0834ee259dee",
+      "text": "Can you turn your phone off silent, please?",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 250.91360063552224,
+      "end": 252.75360063552216,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156938,
+    "longitude": -3.2755417,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "7fe40ca4-648d-44ad-94a3-ea954b8a6d5d",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "4fa7d4a9-7044-47a8-9bfa-6f3efbea5805",
+      "chunk_timestamps": [
+        1775554342.356,
+        1775554404.105,
+        1775554464.927,
+        1775554525.863,
+        1775554586.129,
+        1775554646.99
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-07T09:32:22.356000+00:00",
+      "duration": 425.516
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Checking in and getting ready\n- Asking how the other person is doing  \n- Urging them to come downstairs quickly  \n- Mentioning getting dressed and changed\n\n## Talking about Jude/Judith\n- Asking if they’ve spoken to Jude yet  \n- Wants news to come from them, sounds more fun  \n- Calling Judith to get ready for class and group\n\n## Miscellaneous comments and instructions\n- Mentions “you’re like sixty pounds”  \n- Talks about saving battery on headphones  \n- Asks to turn phone off silent\n\n## Next steps\n- Come downstairs quickly  \n- Get changed and ready for class/group  \n- Turn phone sound on and prepare to talk to Jude"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
