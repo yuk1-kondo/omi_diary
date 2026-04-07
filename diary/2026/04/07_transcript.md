@@ -843,3 +843,29 @@ Good. But we're von dadi beri. Might some might say. Yes. Oh, there's might sayi
 
 ---
 
+
+
+## 📝 Short Conversation About Leaving Soon - e91ee0c0-2b48-4da9-ad5a-920e562dbf6f
+
+**記録時間**: 2026-04-07 22:08:39
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 3s]
+Jude. Judo.
+
+🎤 SPEAKER_0 [5s - 8s]
+You've been going you've been going to Jenny Michelle's in five minutes.
+
+🎤 SPEAKER_1 [8s - 10s]
+Omi. Yep.
+
+🎤 SPEAKER_0 [12s - 14s]
+You can you can finish your video later.
+
+🎤 SPEAKER_1 [14s - 17s]
+You can finish that video later.
+
+
+---
+
