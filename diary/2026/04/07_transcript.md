@@ -745,3 +745,101 @@ You guys could walk to Johnny's if you want.
 
 ---
 
+
+
+## 📝 Family Prepares Lunch Wraps for Jude - 9a3ce41a-ed87-4bfc-a291-402cfe4c5f51
+
+**記録時間**: 2026-04-07 20:58:32
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [127s - 133s]
+Should I get your ham sandwich okay? Ham sandwich? Or garlic sausage sandwich?
+
+👤 あなた [140s - 141s]
+What you want in the wrap?
+
+🎤 SPEAKER_2 [144s - 152s]
+Garlic sausage ham... Mate. Come in here, son.
+
+👤 あなた [152s - 160s]
+What you like? I'm making Jude Jude wants a wrap. Your wrap is up to you.
+
+🎤 SPEAKER_5 [161s - 163s]
+I got Cheese and half calf cheese and ham wrap.
+
+👤 あなた [164s - 165s]
+Cheese and ham wrap, you say?
+
+🎤 SPEAKER_2 [169s - 173s]
+You get a pack of See which ones he wants.
+
+👤 あなた [176s - 181s]
+Well, either That one's open. That Or Hulu Hoops. See if he wants Hulu Hoops.
+
+👤 あなた [185s - 186s]
+Just to see which ones he wants.
+
+🎤 SPEAKER_2 [188s - 190s]
+Just go and see which one he wants,
+
+🎤 SPEAKER_2 [234s - 238s]
+Joan cheese in yours,
+
+🎤 SPEAKER_1 [238s - 238s]
+Jude.
+
+🎤 SPEAKER_2 [242s - 273s]
+Jude, you want cheese in yours?
+
+🎤 SPEAKER_8 [273s - 275s]
+No. Really don't like cheese.
+
+👤 あなた [275s - 276s]
+Okay.
+
+🎤 SPEAKER_1 [277s - 277s]
+Yeah.
+
+🎤 SPEAKER_2 [304s - 309s]
+Does need that out, innit? Yeah. No. No. Doesn't.
+
+🎤 SPEAKER_1 [310s - 311s]
+No.
+
+🎤 SPEAKER_0 [401s - 402s]
+Drop me over here
+
+🎤 SPEAKER_0 [406s - 472s]
+And then some cocktail sausages.
+
+🎤 SPEAKER_0 [477s - 494s]
+This is a little bitter now in.
+
+🎤 SPEAKER_0 [595s - 597s]
+Now idea. We did.
+
+🎤 SPEAKER_0 [657s - 658s]
+क्या आ गई जुनकी ना?
+
+🎤 SPEAKER_0 [661s - 665s]
+Hi. Can I get yourself a drink What? Get yourself a drink.
+
+🎤 SPEAKER_0 [678s - 683s]
+Hi. I'm doing drink. Drink now. I'll make you a drink fine.
+
+🎤 SPEAKER_0 [687s - 693s]
+Why don't you use your Elliott's glass? The kind of glass.
+
+🎤 SPEAKER_0 [697s - 707s]
+Sounds like a photo of the wrap I made so I can show mommy. Hold it up so I can see the
+
+🎤 SPEAKER_0 [711s - 717s]
+Yeah. We can look a bit more appetizing idiots now. Yeah. Like that.
+
+🎤 SPEAKER_0 [721s - 733s]
+Good. But we're von dadi beri. Might some might say. Yes. Oh, there's might saying that. There you go. Thank you. Oeh.
+
+
+---
+
