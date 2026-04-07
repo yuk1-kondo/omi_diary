@@ -1420,3 +1420,230 @@ Sounds like you're having fun with the drums. Elliot? Michelle's on the drums, g
 
 ---
 
+
+
+## 📝 Rebel Army Tested By Public Duel - b05bed92-9e30-44e5-9dfd-dd1e6c437952
+
+**記録時間**: 2026-04-07 22:46:11
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 4s]
+Anyone in particular? Asked. Men who wanted to leave?
+
+🎤 SPEAKER_6 [5s - 15s]
+I need someone outspoken in their opposition to what we're doing. There are a couple in the brig right now, sighted. Anyone here?
+
+🎤 SPEAKER_6 [16s - 31s]
+Asked. Preferably someone sitting at a table we can see. Anne thought for a moment scanning the crowd. And then sitting at the second table, He was caught trying to escape a couple weeks ago.
+
+🎤 SPEAKER_6 [33s - 44s]
+The man in question was scrawny and twitchy. He sat at his table with a hunched solitary posture. Calcior shook his head. I need someone a bit more charismatic.
+
+🎤 SPEAKER_6 [46s - 56s]
+Ham rub his chin in thought. Then he paused and nodded toward another table. Bilg, the big guy. Sitting at the fourth table over on the right.
+
+🎤 SPEAKER_6 [57s - 68s]
+I see him. Kelsier said. Bilg was a brawny man wearing a vest and a full beard. He's too clever to be insubordinate, Ham said.
+
+🎤 SPEAKER_6 [68s - 78s]
+But he's been making trouble quietly. He doesn't think we have a chance against the final empire. I'd lock him up, but I can't really punish a man for expressing fear.
+
+🎤 SPEAKER_6 [78s - 87s]
+Or at least if I did, I'd have to do the same for half the army. Besides, he's too good a warrior to discard idly. He's perfect.
+
+🎤 SPEAKER_6 [88s - 102s]
+Said. He burned zinc then looked toward While zinc wouldn't let him read the man's emotions, it was possible, burning the metal, to isolate just a single individual for soothing or rioting.
+
+🎤 SPEAKER_6 [102s - 111s]
+Much as one was able to isolate a single bit of metal from hundreds to pull on. Even still, it was difficult to single bilg out from such a large crowd.
+
+🎤 SPEAKER_6 [111s - 123s]
+So Calcio just focused on the entire table full of men, keeping their emotions in hand for later use. When he Slowly, the cavern quieted.
+
+🎤 SPEAKER_6 [124s - 141s]
+Men, before I leave, I wish to express one last time how much I was impressed by this visit. His words rang through the room amplified by the cavern's natural acoustic You are becoming a fine army, Kelsier said.
+
+🎤 SPEAKER_6 [142s - 159s]
+I apologize for stealing general but I leave a very confident man in his place. Many of you know general Eden, You know of his many years serving as rebellion leader, I have confidence in his ability to train you even further in the ways of soldiers.
+
+🎤 SPEAKER_6 [161s - 168s]
+He began to riot Bill and his companions, inflaming their emotions. Counting on the fact that they'd be feeling disagreeable.
+
+🎤 SPEAKER_6 [170s - 183s]
+It is a great task, I ask of you, Kelsier said, not looking at Bill. Those ska outside of indeed, most ska every have no idea what you are about to do for them.
+
+🎤 SPEAKER_6 [184s - 196s]
+They aren't aware of the training you endure. Or the battles you prepare to fight. However, they will reap the rewards. Someday they will call you heroes.
+
+🎤 SPEAKER_6 [197s - 209s]
+You're right at Bilg's emotions even harder. The garrison of Luthadel is strong. Said. But we can defeat it. Especially if we take the city walls quickly.
+
+🎤 SPEAKER_6 [210s - 220s]
+Do not forget why you came here. This isn't simply about learning to swing a sword or wear a helm. This is about a revolution such as the world has never seen.
+
+🎤 SPEAKER_6 [220s - 231s]
+It is about taking the government for ourselves. About ousting the lord ruler. Do not lose sight of your goal. Helsier paused.
+
+🎤 SPEAKER_6 [232s - 245s]
+From the corner of his eye, he could see dark expressions from the man at Bilb's Finally, in the silence, Calcier heard a moderate comment from the table, carried by cavern acoustics to many ears.
+
+🎤 SPEAKER_6 [246s - 257s]
+Gelsier frowned, turning toward Bilk. The entire cavern seemed to grow even more still. Did you say something? Gelsier asked.
+
+🎤 SPEAKER_6 [258s - 275s]
+Now, the moment of decision. Will he resist? Or will it be cowed? Milk looked back, Helsier hit the man with a flared riot. His reward came as Bilge stood from his table, face red.
+
+🎤 SPEAKER_1 [277s - 277s]
+Yes, sir.
+
+🎤 SPEAKER_6 [278s - 289s]
+Boy man snapped. I did say something. I said that some of us haven't lost sight of our goal. We think about it every day. And why is that?
+
+🎤 SPEAKER_6 [290s - 300s]
+Asked. Rumbling whispers began to sound at the back of the cavern as soldiers passed the news to those too far away to hear. Took a deep breath.
+
+🎤 SPEAKER_6 [301s - 309s]
+Because, sir, we think that this is suicide you're sending us to. The final empire's armies are bigger than just one garrison.
+
+🎤 SPEAKER_6 [310s - 317s]
+It won't matter if we take the walls. We'll get slaughtered eventually anyway. You don't overthrow an empire with a couple thousand soldiers.
+
+🎤 SPEAKER_6 [319s - 334s]
+Perfect. Kelsier thought. I'm sorry, Bill, but someone needed to say it, and it's I see we have a disagreement. Said loudly. I believe in these men.
+
+🎤 SPEAKER_6 [334s - 343s]
+In their purpose. I believe that you are a deluded fool. Bill bellowed. And I was a bigger fool for coming to these bloody caves.
+
+🎤 SPEAKER_6 [344s - 353s]
+If you're so certain about our chances, then why can't anyone leave? We're trapped here until you send us to die. You insult me.
+
+🎤 SPEAKER_6 [353s - 363s]
+Calcio snapped. You know very well why men aren't allowed to leave. Where do you wanna go, soldier? Are you that eager to sell out your companions to the lord ruler?
+
+🎤 SPEAKER_6 [363s - 373s]
+A few quick boxings in exchange for 4,000 lives? Bill's face grew redder. I would never do such a thing. But I'm certain Hi, Not too bad.
+
+🎤 SPEAKER_1 [484s - 486s]
+Not too bad.
+
+🎤 SPEAKER_0 [488s - 489s]
+Just those two, please.
+
+🎤 SPEAKER_2 [493s - 502s]
+Three pounds, please. Thank you.
+
+🎤 SPEAKER_2 [509s - 510s]
+Cheers. Thanks.
+
+🎤 SPEAKER_6 [558s - 574s]
+I'm certainly not going to lift This army is a waste. You speak treason. Calcio said. He turned, scanning the crowd. It is not fitting for a general to fight a man beneath his command.
+
+🎤 SPEAKER_6 [575s - 584s]
+Is there a soldier here who is willing to defend the honor of this rebellion? Immediately, a couple dozen men stood up. Kelsier noticed one in particular.
+
+🎤 SPEAKER_6 [585s - 590s]
+He was smaller than the rest, but he had the simple earnest earnestness that Calcier had noticed earlier.
+
+🎤 SPEAKER_6 [593s - 600s]
+Captain Immediately, the young captain jumped forward. Calcia reached over, grabbing his own sword and tossing it down to the man.
+
+🎤 SPEAKER_6 [602s - 614s]
+You can use a sword, lad. Yes, sir. Someone fetch a weapon for build and a pair of studded vests. Kelcia turned toward Noblemen have a tradition.
+
+🎤 SPEAKER_6 [614s - 624s]
+When two men have a dispute, they settle it with a duel. Defeat my champion, and you are free to leave. And if he defeats me, Bill Gat,
+
+🎤 SPEAKER_6 [631s - 642s]
+Then you'll be dead. Kelsier said. I'm dead if I stay. Bilg said. Accepting a sword from a nearby soldier. I accept the terms.
+
+🎤 SPEAKER_6 [643s - 652s]
+Kelsier nodded, waiting for some men to pull aside tables and make an open space before the high table. Men began to stand, crowding around to watch the contest.
+
+🎤 SPEAKER_6 [654s - 665s]
+Cal, what are you doing? Pam hissed at his side. Something that needs to be done. Needs to be Kelsey, that boy is no match for Bilg.
+
+🎤 SPEAKER_6 [666s - 677s]
+I trust him, that's why I promoted him. But he's not that great a warrior. Bilg's one of the finest swordsman in the army. The men know this? Kelsier asked.
+
+🎤 SPEAKER_6 [677s - 687s]
+Of course, Ham said. Call this off. The moon is nearly half billed size. Set a disadvantage in reach, strength, and skill. He'll get slaughtered.
+
+🎤 SPEAKER_6 [689s - 702s]
+Causier ignored their request. He said quietly as Belgium de Moo hefted their weapons, a pair of soldiers to When they were done, Calcior waved a hand motioning for the battle to be begin.
+
+🎤 SPEAKER_6 [703s - 717s]
+Ham groaned. It would be a short fight. Both men had long swords and little armor. Bill stepped forward with confidence, making a few testing swings toward the The boy was at least confident.
+
+🎤 SPEAKER_6 [717s - 726s]
+He blocked the blows, but he revealed a great deal about his abilities as he did so. Taking a deep breath, Kelsier burned steel and iron.
+
+🎤 SPEAKER_6 [727s - 735s]
+Bilg swung and Kelsier nudged the blade to the side, giving room to escape. The boy tried to thrust, but Bill easily knocked it away.
+
+🎤 SPEAKER_6 [736s - 744s]
+The larger warrior then attacked with a barrage. Sending Demus stumbling backward. Damus tried to jump out of the way of the last swing, but he was too slow.
+
+🎤 SPEAKER_6 [744s - 752s]
+The blade fell with awful inevitability. Kelsir flared iron. Stabilizing himself by pulling against a lantern bracket behind.
+
+🎤 SPEAKER_6 [753s - 761s]
+Grabbed the iron studs under Nuh's vest. Kelsier pulled as Damu jumped. Yanking the boy backward in a small park away from Bilg.
+
+🎤 SPEAKER_6 [762s - 771s]
+Dumou landed with a maladroit stumble as Bilg's sword smashed into the stone ground. Bilg looked up with surprise, and a low rumble of amazement moved through the crowd.
+
+🎤 SPEAKER_6 [772s - 780s]
+Bill growled, running forward with weapon held high, Dumou blocked the powerful swing, but Bill knocked the boy's weapon aside with a careless sweep.
+
+🎤 SPEAKER_6 [781s - 794s]
+Bill struck again, and Damu raised a hand in reflexive defense. Kelsier pushed, freezing Bilg's sword in mid swing. Demus stood, hand forward, as if he had stopped the attacking weapon with a thought.
+
+🎤 SPEAKER_6 [795s - 805s]
+The two stood like that for a moment, Bill trying to force the sword forward, the move staring in awe at his hand. Standing up a bit straighter, Damu tentatively forced his hand forward.
+
+🎤 SPEAKER_6 [806s - 817s]
+Kelsier pushed, throwing Bill backward. The large warrior tumbled to the ground with a cry of surprise. When he rose a moment later, Calcio didn't have to riot his emotions to make him angry.
+
+🎤 SPEAKER_6 [818s - 827s]
+He bellowed in rage, grabbing his sword in two hands and rushing toward the Some men don't know when to quit, Kelsier thought as Bilg swung.
+
+🎤 SPEAKER_6 [828s - 837s]
+The moon began to dodge. Shoved the boy to the side, getting him out of the way. Then Damout turned, gripping his own weapon in two hands and swinging at Bilg.
+
+🎤 SPEAKER_6 [837s - 843s]
+Kelsier grabbed him whose weapon in mid arc and pulled against it forcefully. Ripping the steel forward with a mighty flare of iron.
+
+🎤 SPEAKER_6 [844s - 846s]
+The swords smashed together,
+
+🎤 SPEAKER_0 [867s - 878s]
+He stopped. Kelsey burned iron, reaching out to grab the weapon and pull it down. Force the killing blow. But Damu resisted. Kelsier paused.
+
+🎤 SPEAKER_0 [879s - 890s]
+This man should die, he thought angrily. On the ground, Bill groaned quietly. Kelsior could just barely see his twisted arm. He bones shattered by the powerful strike.
+
+🎤 SPEAKER_0 [891s - 907s]
+It was bleeding. No. Thought. This is enough. He released Damu's weapon. Dumou lowered his sword, staring down at Bilge. Then Demou raised his hands, regarding them with wonder.
+
+🎤 SPEAKER_0 [907s - 918s]
+His arms quivering slightly. Kelsier stood, and the crowd fell to a hush once again. Do you think I would send you against the lord ruler unprepared?
+
+🎤 SPEAKER_0 [918s - 927s]
+Kelcia demanded in a loud voice. Do you think I will just send you off to die? You fight for what is just, men. You fight for me.
+
+🎤 SPEAKER_0 [928s - 938s]
+I will not leave you unaided when you go against the soldiers of the final empire. Kelsier thrust his hand into the air, holding aloft a tiny bar of metal.
+
+🎤 SPEAKER_0 [939s - 950s]
+You've heard of this, haven't you? You know the rumors of the eleventh medal? Well, I have it. And I will use it. The lord ruler will die.
+
+🎤 SPEAKER_0 [951s - 964s]
+The men began to cheer. This is not our only tool. You soldiers have power untold inside of you. You have heard of the arcane magics that the Lord Ruler uses?
+
+🎤 SPEAKER_0 [965s - 976s]
+Or we have some of our own. Feast, my and don't fear the battle to come. Look forward to it. The room erupted in a ride of cheers.
+
+
+---
+
