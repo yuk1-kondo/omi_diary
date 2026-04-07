@@ -231,3 +231,65 @@ Have actually only 62% of it.
 
 ---
 
+
+
+## 📝 Family Chat About Internet And Kids’ Plans - 3d054d0e-a632-46a0-861e-7fcd1ef204cf
+
+**記録時間**: 2026-04-07 18:43:57
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 127s]
+Yeah.
+
+👤 あなた [130s - 133s]
+It wasn't working very well, so I put the old one back. How much did it cost you to go though?
+
+🎤 SPEAKER_2 [133s - 134s]
+It is free.
+
+👤 あなた [135s - 136s]
+Well, we pay monthly.
+
+🎤 SPEAKER_2 [136s - 138s]
+We pay $29. 99 a month for our Internet.
+
+🎤 SPEAKER_2 [142s - 157s]
+You get a weighing gloves?
+
+👤 あなた [160s - 160s]
+Straight away.
+
+🎤 SPEAKER_2 [165s - 182s]
+My lads, listen. Edit. Remember how it's sending an SOS or whatever? There's a button on your Pingu. If you don't want to if there's if there's kids coming around causing you a chip and you don't want a phone, call me, you just press that button, I'll come up.
+
+👤 あなた [183s - 185s]
+This be the case, but Well, you go that Listen,
+
+🎤 SPEAKER_2 [259s - 262s]
+What time is it now? Quarter to quarter to eleven.
+
+🎤 SPEAKER_1 [264s - 265s]
+Elliot?
+
+🎤 SPEAKER_2 [266s - 270s]
+Yeah. It'll be back by half to by half past twelve.
+
+🎤 SPEAKER_1 [272s - 272s]
+K?
+
+🎤 SPEAKER_2 [273s - 280s]
+If you guys want a bit longer, you can phone me and see. See, suddenly nowhere and all that turn up for a game of football, haven't you wanna stay out longer?
+
+🎤 SPEAKER_2 [284s - 287s]
+Hey, come on in. She's waiting.
+
+🎤 SPEAKER_1 [296s - 296s]
+Yeah.
+
+👤 あなた [300s - 302s]
+Chew it first. Swallow it.
+
+
+---
+
