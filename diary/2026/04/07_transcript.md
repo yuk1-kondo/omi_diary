@@ -469,3 +469,104 @@ Thinking annoying.
 
 ---
 
+
+
+## 📝 Wrestling Promo Targets Roman Reigns And Pat McAfee - 0b9383f6-51d2-45e9-86c3-91175d7511d8
+
+**記録時間**: 2026-04-07 19:16:59
+
+### STT生テキスト
+
+🎤 SPEAKER_6 [0s - 4s]
+Go. Come. On. Get in. Let Let's go. They came one right after another.
+
+🎤 SPEAKER_2 [5s - 5s]
+Same time.
+
+🎤 SPEAKER_6 [6s - 13s]
+They don't wanna come at the same time. They had to come right after each other. They didn't have any room. They came in so fast and so hard, and these guys knew exactly
+
+🎤 SPEAKER_1 [17s - 58s]
+This is WrestleMania.
+
+🎤 SPEAKER_6 [62s - 69s]
+The granddaddy of them all. Roman, we both have the tools. To climb the ladder and make it to the pinnacle of the
+
+🎤 SPEAKER_0 [71s - 85s]
+The difference is my tools are self made. And they're sharp into a deadly point. Through years of self belief and your tools well, they're store bought.
+
+🎤 SPEAKER_0 [86s - 112s]
+They're hand delivered and they're like you. They're plastic. See, back in the day, I was two weeks. To really understand. But now I'm rich too old to give a damn, but I understand why this company why TKO sends you, your beltless ass, to Jimmy Fallon. It's because you're safe.
+
+🎤 SPEAKER_0 [113s - 125s]
+And you're boring. And you're plastic and your and you're manufactured and me, I'm dangerous because you never know what I'm going to do or what I'm gonna say.
+
+🎤 SPEAKER_0 [132s - 144s]
+Film half dozen television shows and movies and never miss a but you. You use it as a crutch to not show up and some these people are gonna boo
+
+🎤 SPEAKER_0 [151s - 152s]
+You know I'm right.
+
+🎤 SPEAKER_0 [155s - 163s]
+And when you two ball to show up, you show up late. You gleefully leave early, and you puff your chest around in the back.
+
+🎤 SPEAKER_0 [164s - 165s]
+Like you're the rock.
+
+🎤 SPEAKER_0 [172s - 183s]
+At least the rock is a Hollywood superstar. Oh, I'm sorry. Was a Hollywood superstar.
+
+🎤 SPEAKER_0 [187s - 193s]
+A champion, but that fairy tale is long over. Because this is pro wrestling and not cinema.
+
+🎤 SPEAKER_0 [200s - 210s]
+See, Michael cousin isn't on the board of directors. I don't surround myself with wise men and advocates and yes men who wanna protect myself from the truth.
+
+🎤 SPEAKER_0 [210s - 210s]
+No.
+
+🎤 SPEAKER_0 [216s - 216s]
+No.
+
+🎤 SPEAKER_1 [219s - 221s]
+I have my tubes.
+
+🎤 SPEAKER_0 [221s - 223s]
+And I have and deserved
+
+🎤 SPEAKER_0 [268s - 273s]
+What you control your cousins in family. They can't control me.
+
+🎤 SPEAKER_0 [309s - 310s]
+What you wish This is what you get.
+
+🎤 SPEAKER_0 [321s - 324s]
+Or anybody else, afforded as many opportunities
+
+🎤 SPEAKER_0 [329s - 338s]
+We'd be fired and fall, but you can't black fall me. They can't fall me. And listen up.
+
+🎤 SPEAKER_0 [340s - 345s]
+I can blinkly stand up. And blow it up just bitch I know how to swim.
+
+🎤 SPEAKER_0 [349s - 366s]
+I'm done, but I'm not. Because everybody's getting it tonight. Ted McAfee. Hubby, we're done.
+
+🎤 SPEAKER_0 [370s - 379s]
+You you can come here to the business, my business of pro wrestling, and run your mouth while you just wrote a check that your narrow ass
+
+🎤 SPEAKER_0 [384s - 396s]
+You wanna talk about ticket sales? Do me a favor. Up that agent. That was foolish enough to shoehorn you in into this business and this show and tell him to lower the ticket prices
+
+🎤 SPEAKER_0 [400s - 412s]
+You kicked the fuck a living? Come to my
+
+🎤 SPEAKER_0 [417s - 418s]
+You a receipt coming to you.
+
+🎤 SPEAKER_0 [427s - 432s]
+These families to come and watch me stand on Roman range growth at WrestleMania.
+
+
+---
+
