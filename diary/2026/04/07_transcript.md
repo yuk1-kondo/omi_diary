@@ -293,3 +293,179 @@ Chew it first. Swallow it.
 
 ---
 
+
+
+## 📝 Family Prepares Kids For Outing With Money Talk - eb4dc142-e82c-46ef-87b8-c84b3e74a779
+
+**記録時間**: 2026-04-07 18:49:34
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 150s]
+You stop kicking the ball inside, Jude, please. Come on, Elliot. Yep. Yeah. Alright. Well, you've done it now. You've been going for, like, longer than two minutes.
+
+🎤 SPEAKER_2 [150s - 152s]
+Yep.
+
+🎤 SPEAKER_1 [152s - 153s]
+We'll finish then.
+
+🎤 SPEAKER_2 [153s - 154s]
+Well, open the door then,
+
+🎤 SPEAKER_1 [154s - 154s]
+Quick.
+
+🎤 SPEAKER_2 [158s - 162s]
+Go in something in the sense. Tell me what the temperatures are like.
+
+🎤 SPEAKER_4 [163s - 164s]
+Can you drop the coffee?
+
+🎤 SPEAKER_2 [165s - 165s]
+No.
+
+🎤 SPEAKER_2 [168s - 176s]
+If I'll to if I'll to Do you wanna jack it to us?
+
+👤 あなた [176s - 177s]
+No. You want one actually?
+
+🎤 SPEAKER_2 [181s - 183s]
+Well, you have a zipper, you can take it off.
+
+🎤 SPEAKER_2 [191s - 201s]
+Right. Come on, Elliot. What are you taking so long for? For goodness sake, man. Slow ass. Come on out. I haven't got anything to mine. Bye.
+
+🎤 SPEAKER_2 [202s - 209s]
+This is getting a bit annoying. You're taking so long. I asked you to come down Oh my god. Ready half ten. It's now twenty minutes later.
+
+🎤 SPEAKER_2 [210s - 210s]
+Quick.
+
+🎤 SPEAKER_1 [213s - 214s]
+Yes.
+
+🎤 SPEAKER_2 [215s - 218s]
+What's wrong with you? Come on. Up, son.
+
+🎤 SPEAKER_2 [221s - 234s]
+Snap into gear. What's the rush? Time is flying. You need need back by lunchtime. And you're out after that. I need to get my work and I can't until you get out.
+
+🎤 SPEAKER_1 [236s - 236s]
+Yeah?
+
+🎤 SPEAKER_4 [236s - 240s]
+We're not gonna be out for like an hour, can we?
+
+👤 あなた [243s - 245s]
+We might be Well, you you can go you might find people out there you might wanna play with.
+
+🎤 SPEAKER_4 [247s - 248s]
+What?
+
+🎤 SPEAKER_1 [267s - 269s]
+Jude.
+
+🎤 SPEAKER_1 [273s - 274s]
+Where's your money?
+
+🎤 SPEAKER_4 [277s - 282s]
+I'm thinking. But I'm not sure if I wanna keep it in there cause No.
+
+👤 あなた [282s - 284s]
+Come out. Give it to Edit.
+
+🎤 SPEAKER_2 [284s - 289s]
+Edit's got well, have you got Edit? Where are you putting your money? Have you got a zips Yeah. Put it in there then. It to you.
+
+🎤 SPEAKER_4 [290s - 291s]
+£5
+
+🎤 SPEAKER_4 [294s - 300s]
+on Oh, no. £5 is enough for both of us. Yeah. I'll just wait. Do you have £5?
+
+🎤 SPEAKER_2 [300s - 304s]
+Mhmm. Oh, so Yeah. You just take one five pound note there. Yeah.
+
+🎤 SPEAKER_5 [305s - 308s]
+So you can just And we'll sort out what I have cash to pay you back, but I don't think do you have cash to pay me back?
+
+👤 あなた [308s - 309s]
+We'll sort it. No.
+
+🎤 SPEAKER_5 [310s - 315s]
+Yes. I pay I pay have it for you for your Fiverr then, because I have cash. No. No. No.
+
+🎤 SPEAKER_4 [315s - 320s]
+To pay basically I had I had I've run life five pounder.
+
+🎤 SPEAKER_1 [320s - 320s]
+Yeah.
+
+🎤 SPEAKER_4 [320s - 323s]
+I paid for mine. I paid for yours.
+
+🎤 SPEAKER_2 [323s - 325s]
+No. I paid you back. Did you? Yeah.
+
+🎤 SPEAKER_4 [325s - 325s]
+No. Didn't.
+
+🎤 SPEAKER_5 [325s - 332s]
+Yep. I did. Yeah. You? I'll be my I got cash change and put in this thing.
+
+🎤 SPEAKER_4 [332s - 334s]
+No, you never.
+
+🎤 SPEAKER_5 [334s - 334s]
+How'd you know?
+
+🎤 SPEAKER_2 [335s - 339s]
+Because I don't have any coins He just he just and it just just just just get him this time.
+
+🎤 SPEAKER_4 [343s - 347s]
+He got you, like, time, and that's how When you pay we don't pay anything back any because it's actually yours paid to me.
+
+🎤 SPEAKER_2 [348s - 357s]
+Yeah. We'll sort it out. Anyway, we'll when you come back, if there's any any unevens, we'll sort it out. Come on. You you clocking what's going on here?
+
+🎤 SPEAKER_2 [358s - 361s]
+She just got you last time you're getting in this time. That's how things work, son.
+
+🎤 SPEAKER_4 [361s - 361s]
+Yeah.
+
+🎤 SPEAKER_4 [365s - 366s]
+Why?
+
+🎤 SPEAKER_2 [366s - 373s]
+Because you I got you I got you I got you this time. You're getting my sweets time.
+
+🎤 SPEAKER_1 [374s - 376s]
+You did, Elliot. No.
+
+🎤 SPEAKER_2 [376s - 378s]
+I did. But you don't have I've got my five pounds. Out.
+
+🎤 SPEAKER_1 [378s - 379s]
+Come here.
+
+👤 あなた [380s - 381s]
+Sort you out right here. Alright.
+
+🎤 SPEAKER_2 [381s - 387s]
+Just listen. Listen. Look at me. Just deal with it this time and when you get back, we'll sort out. Make sure you're not out of pocket. Alright?
+
+🎤 SPEAKER_2 [388s - 390s]
+Make sure you're not Elliot, you're responsible and charged. K?
+
+🎤 SPEAKER_2 [395s - 404s]
+Come here. Did you hear what I just said? What did I just say? I said I'll sort it out, stop being a big baby. Off you go.
+
+🎤 SPEAKER_1 [424s - 425s]
+Thinking annoying.
+
+
+---
+
