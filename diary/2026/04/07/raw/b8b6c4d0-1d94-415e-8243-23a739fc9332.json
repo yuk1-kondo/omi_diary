@@ -1,0 +1,312 @@
+{
+  "id": "b8b6c4d0-1d94-415e-8243-23a739fc9332",
+  "created_at": "2026-04-07T09:02:37.678547+00:00",
+  "started_at": "2026-04-07T09:03:56.222865+00:00",
+  "finished_at": "2026-04-07T09:06:20.646910+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Family Plans Morning Football With Jude",
+    "overview": "A parent asks Ellias to get dressed and go downstairs to invite Jude to play football at the Colcut area, with the option of stopping at a shop for sweets on the way home. Ellias has only just woken up and negotiates the timing, so they agree he will come downstairs ready at 10:30. Afterwards, the parent considers visiting Steven and Rhonda’s house in person, feeling that a text reminder would be too impersonal, and asks for an opinion on this approach.",
+    "emoji": "⚽",
+    "category": "family",
+    "action_items": [
+      {
+        "description": "Go to Steven and Rhonda's house and remind them in person",
+        "completed": false,
+        "created_at": "2026-04-07T09:08:24.020852+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "451c07df-213c-43eb-b0ae-20938fbcf811",
+      "text": "Ellias, quite like you to wait to whatever you finish, you gave, whatever you're doing, I like you to get dressed and come downstairs and say to Jude, hey, Jude, you wanna complete some football?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 3.6500030762945244,
+      "end": 13.920000076294627,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "1a5e58de-ac75-4043-92c5-2d0e18328a21",
+      "text": "And then go up to the Colcut area to do that. You guys can pop in the shop you can pop in the shop for some sweets on the way home if you want.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 14.570000076294491,
+      "end": 21.970002076294577,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d2baf163-f3ac-4dba-a1f0-f549d045291a",
+      "text": "Well, it's quite difficult. Do you know when I woke up?",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 22.85000007629469,
+      "end": 25.010000076294546,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "1ef311b6-95a3-476a-9beb-1ff8278582bd",
+      "text": "No.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 25.880000076294664,
+      "end": 26.360000076294682,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "2c3eda3b-7f00-4aa2-a9bc-948c9ea27e13",
+      "text": "Like, fifteen minutes ago.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 27.570005076294592,
+      "end": 29.010000076294546,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7ec8234f-4ba3-419d-8a1a-6b7e3e6d1ed9",
+      "text": "Oh, yeah.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 29.699994076294615,
+      "end": 30.339990076294725,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "a7730c98-057d-40fa-9809-c6807488045f",
+      "text": "So, I mean, if she's got I know.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 31.650000076294646,
+      "end": 33.250005076294656,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "5d98c924-83b4-4a82-a416-73c678557ddf",
+      "text": "But mom told me to do this at 10:00. So it's about five past. So you'd have to you'd have to be out very long. You could just be off an hour.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 37.23783400535535,
+      "end": 46.41783400535519,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f08d42e4-d26d-4636-b7ee-37281a3bb54a",
+      "text": "Fifteen minutes.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 47.57783400535527,
+      "end": 48.21783400535537,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9b67eedd-a775-4b5f-84b5-0fe0b3280af0",
+      "text": "What?",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 48.377834005355226,
+      "end": 48.617834005355235,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "2c9525d8-0589-49b6-9f8b-dc6d1deab8cd",
+      "text": "Yeah. What time do you want it what time do you want it to be then, then? What times do you recommend?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 58.61098704337792,
+      "end": 63.08098704337772,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "bfe2a243-6628-4bde-a84c-6f15273abd09",
+      "text": "Half ten. That's twenty five minutes in there, bro. Alright. Well, why don't you why don't you, at half past ten, come down ready dressed then?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 69.39440400123158,
+      "end": 76.41440800123178,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "623284aa-67f4-4102-9014-649e614b922c",
+      "text": "Alright.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 76.41440800123178,
+      "end": 76.6544040012318,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7ea2b48d-61c4-4c1d-860e-5a58f72bec6d",
+      "text": "Come down half past ten then. Alright? Come since you woke up late, come down half past ten.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 80.03440400123168,
+      "end": 83.79439800123168,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "801519f0-6132-4811-bf7c-e0f61a903f36",
+      "text": "Alright.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 86.89440400123158,
+      "end": 87.45440400123175,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f36c8bbd-07c7-4f85-9759-56f6c85217e6",
+      "text": "Bye bye.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 88.57440400123164,
+      "end": 90.0143990012316,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "a5cce255-3360-4954-b898-efbe80df9f8d",
+      "text": "I guess I'll need to go down to Steven Rhonda's house. Knock on the door and just remind them. I feel like a text message is a bit impersonal.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 94.04440400123167,
+      "end": 142.03446671485062,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d22174b2-08e2-4013-b614-9f9a780e8192",
+      "text": "What do you think?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 142.87446671485077,
+      "end": 143.59446671485057,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156938,
+    "longitude": -3.2755417,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "0cee9e3a-86d3-4f5a-b7a1-cb06c2f1a37a",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "b8b6c4d0-1d94-415e-8243-23a739fc9332",
+      "chunk_timestamps": [
+        1775552556.772,
+        1775552617.997,
+        1775552678.745,
+        1775552738.8,
+        1775552799.219
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-07T09:02:36.772000+00:00",
+      "duration": 364.049
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Planning football outing\n- Ask Jude to play football at local Colcut area  \n- Allowed to stop at shop for sweets on way back  \n- Intended outing duration about 1 hour  \n\n## Timing discussion\n- Mom asked for this at 10:00; now 10:05  \n- Elias woke up only 15 minutes earlier  \n- New agreed time: come downstairs dressed at 10:30  \n\n## Follow-up with neighbors\n- Plan to go to Steven and Rhonda's house  \n- Will knock on door instead of sending text  \n\n## Next steps\n- Elias gets dressed and comes down at 10:30  \n- Invite Jude and head to Colcut for football  \n- Visit Steven and Rhonda to remind them in person"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
