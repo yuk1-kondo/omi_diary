@@ -626,3 +626,122 @@ Yeah. And cool.
 
 ---
 
+
+
+## 📝 Family Car Ride and Sweets Chat - 0b215751-ac44-4fd5-ade7-8fed55c40836
+
+**記録時間**: 2026-04-07 20:03:49
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+Yo, yo, yo.
+
+🎤 SPEAKER_2 [2s - 6s]
+Who's got sweets for daddy then? Aw. Can I have one of your sweets?
+
+🎤 SPEAKER_1 [6s - 6s]
+No.
+
+🎤 SPEAKER_5 [8s - 9s]
+Bro. I'll give him a sweet last one.
+
+🎤 SPEAKER_4 [9s - 11s]
+No. I gave a sweet last time as well.
+
+🎤 SPEAKER_2 [15s - 21s]
+Guys, like I have a Swiss you got. Would would it be nice to share one with your daddy? Okay.
+
+🎤 SPEAKER_4 [22s - 23s]
+Go on.
+
+🎤 SPEAKER_1 [23s - 23s]
+Both give them one.
+
+🎤 SPEAKER_5 [24s - 25s]
+I have, like, two left, but go.
+
+🎤 SPEAKER_2 [27s - 29s]
+How come you've only got two left?
+
+👤 あなた [30s - 32s]
+Guys, look at that. They're both the same.
+
+🎤 SPEAKER_2 [32s - 33s]
+It's pretty cool.
+
+🎤 SPEAKER_1 [33s - 33s]
+Right.
+
+🎤 SPEAKER_2 [34s - 41s]
+They're all too much. Was anyone was anyone there? No. No. How did go then? Alright?
+
+🎤 SPEAKER_5 [42s - 44s]
+Was I got my new F on K here, please. Yeah.
+
+🎤 SPEAKER_4 [44s - 49s]
+You've got six eight inch. 66. Yeah. Well Oh, you could have got 66.
+
+🎤 SPEAKER_2 [50s - 51s]
+How did yours come?
+
+🎤 SPEAKER_4 [53s - 67s]
+Dad, to be honest, I would've would've would've would've enjoyed it way more if it was like like three or four hours later because Yeah. I I was was I was half asleep there.
+
+👤 あなた [67s - 67s]
+Yeah.
+
+🎤 SPEAKER_1 [67s - 68s]
+I was sleeping.
+
+🎤 SPEAKER_4 [70s - 72s]
+No because it was literally like 10:00 that was there.
+
+👤 あなた [73s - 73s]
+Well, it wasn't actually.
+
+👤 あなた [81s - 86s]
+Right. If you need time for lunch anyway. Thanks for the sweets guys. They're really tasty, they? Let's be fair.
+
+👤 あなた [89s - 93s]
+Just keep on top of them.
+
+👤 あなた [115s - 118s]
+Oh, they're read. Really get really tasty.
+
+🎤 SPEAKER_2 [123s - 124s]
+Well, it's only gone to Jean Michel's salé.
+
+🎤 SPEAKER_1 [126s - 126s]
+Two.
+
+🎤 SPEAKER_2 [128s - 128s]
+Half two?
+
+👤 あなた [129s - 131s]
+Do you know my musk burritos by the way?
+
+👤 あなた [138s - 140s]
+No. I'm so medium luncheon. Yeah.
+
+🎤 SPEAKER_1 [146s - 149s]
+No. Why?
+
+👤 あなた [153s - 154s]
+Is it hot out there by the way?
+
+🎤 SPEAKER_2 [155s - 157s]
+Yes. Is it?
+
+🎤 SPEAKER_1 [157s - 157s]
+Yeah.
+
+👤 あなた [162s - 176s]
+I want a bag of sweets now. They're lush.
+
+🎤 SPEAKER_2 [187s - 188s]
+You guys could walk to Johnny's if you want.
+
+
+---
+
