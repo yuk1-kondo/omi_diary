@@ -570,3 +570,59 @@ These families to come and watch me stand on Roman range growth at WrestleMania.
 
 ---
 
+
+
+## 📝 Explaining General Relativity and PC Graphics - 7b6bd7c8-c27f-45a4-bbe3-0a26c119fce3
+
+**記録時間**: 2026-04-07 19:41:22
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 1s]
+Okay. So I'm back too much.
+
+🎤 SPEAKER_5 [31s - 32s]
+Back to I was born with.
+
+🎤 SPEAKER_2 [47s - 48s]
+But, you know, computer video games keep it improving.
+
+🎤 SPEAKER_7 [49s - 97s]
+They keep getting faster. They keep having better graphics, and your seems to have an awfully hard time keeping up with what's out there. A lot of times, pick pick up a game off the shelf, you bring it home and your computer doesn't seem to run properly. What can you do? You can buy a new graphics card. This is one that's made by three d FX. It's called the Voodoo five fifty five hundred. This is a high performance graphics card that fits in the AGP slot in your computer, which is specially designed to handle a card like this. It knows how to accept all the instructions that this card delivers, and it will allow you to play games like you won't believe. What it does is it incorporates two different working together in tandem. They help do all the proper information number crunching, everything so that your graphics are fast and crisp on the screen. And it allows you to do all of interesting things. Even when you're playing the game, sometimes you have jagged edges because the the computer just isn't keeping up with what's happening. This is called anti aliasing technology.
+
+🎤 SPEAKER_7 [98s - 125s]
+The solution for this problem, and this incorporates it on this board. And it allows everything top of that, it incorporates 64 megabytes of RAM on the back of the card These are the RAM chips right here. They're quite small. Each one is 16 megabytes. It makes a total of 64 megabytes. You've got a lot of memory to keep things going, and it's taking a lot of the important jobs and tasks that maybe the processor on your computer was doing before onto this card, which makes your computer run faster as a whole.
+
+🎤 SPEAKER_1 [237s - 237s]
+I Always.
+
+🎤 SPEAKER_5 [238s - 266s]
+General relativity for babies. This is a ball. This ball has mass. More mass, less mass. This is flat space. That's to go here.
+
+🎤 SPEAKER_8 [268s - 268s]
+But it
+
+🎤 SPEAKER_1 [268s - 269s]
+can't.
+
+🎤 SPEAKER_8 [270s - 291s]
+The shortest path through the curved space. This ball is spinning. Mass drags space. Is flat space from a different angle. C mass warps space from this angle.
+
+🎤 SPEAKER_8 [293s - 308s]
+Shrink a large mass enough, and it becomes a black hole. A black hole is a large amount of mass in a relatively small area. A black hole has so much mass that not even light can escape its work.
+
+🎤 SPEAKER_8 [309s - 320s]
+The center of a black hole is called singularity. Two black holes can spin around each other. They send ripples through space called gravitational waves.
+
+🎤 SPEAKER_8 [322s - 327s]
+These waves stretch and squish space throughout the universe. Now you No.
+
+🎤 SPEAKER_2 [375s - 377s]
+Yeah. Anyway, sucker.
+
+🎤 SPEAKER_1 [381s - 386s]
+Yeah. And cool.
+
+
+---
+
