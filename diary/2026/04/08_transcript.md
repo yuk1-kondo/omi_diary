@@ -912,3 +912,365 @@ I bet you can wait.
 
 ---
 
+
+
+## 📝 Family Breakfast Chat About Money And Football Kits - 120e448e-75db-4ab8-8826-ca0dd404eba6
+
+**記録時間**: 2026-04-08 18:44:27
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 93s]
+Thank you.
+
+🎤 SPEAKER_1 [97s - 118s]
+You're welcome. Breakfast, Jude.
+
+🎤 SPEAKER_2 [124s - 124s]
+Yeah.
+
+🎤 SPEAKER_1 [125s - 126s]
+For me. Just for me now.
+
+🎤 SPEAKER_2 [126s - 126s]
+Yeah.
+
+🎤 SPEAKER_1 [126s - 128s]
+Ik zie je had breakfast already.
+
+🎤 SPEAKER_2 [131s - 132s]
+Thank you.
+
+🎤 SPEAKER_4 [133s - 133s]
+You're welcome.
+
+🎤 SPEAKER_0 [153s - 155s]
+You always get extra hunch brown.
+
+🎤 SPEAKER_1 [156s - 156s]
+Sorry.
+
+🎤 SPEAKER_0 [160s - 162s]
+Extra 59p on it.
+
+🎤 SPEAKER_1 [163s - 164s]
+Bit more than that, but yeah.
+
+🎤 SPEAKER_0 [165s - 166s]
+A pound.
+
+🎤 SPEAKER_0 [170s - 173s]
+Two pounds. A pound 51.
+
+🎤 SPEAKER_3 [174s - 177s]
+A pound Fifty $5.90 nine. 5.
+
+🎤 SPEAKER_0 [180s - 186s]
+A pound 65.
+
+🎤 SPEAKER_1 [190s - 192s]
+A pound sixty six, pound sixty nine, After all, I think it's actually $1.79 in there.
+
+🎤 SPEAKER_1 [197s - 201s]
+Most expensive hash brown ever, but one of the most tasty, so I might say.
+
+🎤 SPEAKER_2 [210s - 211s]
+Don't do that, honey.
+
+🎤 SPEAKER_1 [219s - 220s]
+Ja, staat nou?
+
+🎤 SPEAKER_1 [226s - 228s]
+'s the cheesy bacon flatbread, Judith? It is the best. No?
+
+🎤 SPEAKER_0 [231s - 232s]
+My ball.
+
+🎤 SPEAKER_1 [236s - 237s]
+Je hands jezelf.
+
+🎤 SPEAKER_1 [242s - 246s]
+Right. Who we get who we who would we bare minimum photos with today?
+
+🎤 SPEAKER_0 [255s - 256s]
+Like, Maybe one two?
+
+🎤 SPEAKER_1 [256s - 257s]
+Big fish. Yeah.
+
+🎤 SPEAKER_2 [258s - 259s]
+Alright. Big fish. Yeah.
+
+🎤 SPEAKER_1 [260s - 269s]
+How you doing, please? Also, mummy tells me that today, aye, is that a junior top you got on?
+
+🎤 SPEAKER_2 [270s - 270s]
+No.
+
+🎤 SPEAKER_1 [271s - 272s]
+Just sat on Sebastian.
+
+🎤 SPEAKER_1 [276s - 283s]
+I think it is. Does it fit okay? It's not That's not no old one, is it?
+
+🎤 SPEAKER_3 [283s - 283s]
+I think you must.
+
+🎤 SPEAKER_1 [283s - 284s]
+No. It's not.
+
+🎤 SPEAKER_1 [290s - 292s]
+This is youth extra large.
+
+🎤 SPEAKER_2 [293s - 293s]
+Thanks so much.
+
+🎤 SPEAKER_1 [296s - 308s]
+There's an opportunity if you could today. Just for today, if you want either of you pick up the orange, blue, or green kit, for 7 about £14, but mummy and daddy will pay half.
+
+🎤 SPEAKER_2 [309s - 309s]
+Yeah.
+
+🎤 SPEAKER_0 [311s - 314s]
+Pretty much the end of the season. We've just taken that. I'll take the oven's from.
+
+🎤 SPEAKER_2 [321s - 322s]
+Orange one is nice.
+
+🎤 SPEAKER_1 [322s - 325s]
+Yeah. That's good to have loaded, isn't it?
+
+🎤 SPEAKER_0 [326s - 328s]
+What about black one? Leave them try.
+
+🎤 SPEAKER_2 [329s - 331s]
+No. Nine.
+
+🎤 SPEAKER_1 [335s - 337s]
+I think it's just the home away in third camp.
+
+🎤 SPEAKER_0 [337s - 339s]
+I'll make sure you have no money left.
+
+🎤 SPEAKER_0 [342s - 343s]
+Someone stole all my money.
+
+🎤 SPEAKER_1 [345s - 347s]
+Jetzt £310 notes.
+
+🎤 SPEAKER_0 [350s - 354s]
+I'm like, I like a £20 note. Like $5.
+
+🎤 SPEAKER_3 [354s - 354s]
+05 Speaking of money.
+
+🎤 SPEAKER_1 [354s - 357s]
+As she'd been robbed in his own home, in his very own room.
+
+🎤 SPEAKER_2 [365s - 366s]
+Woah.
+
+🎤 SPEAKER_0 [366s - 369s]
+I only have one 10,000 credit card now.
+
+🎤 SPEAKER_1 [369s - 376s]
+And Yeah. But listen. Remember we were doing that because you would've spent it. Miss this happening about this is the thing about spending with card.
+
+🎤 SPEAKER_1 [377s - 382s]
+Doesn't feel like you're spending real money? But you are. It's not the same as handing cash back.
+
+🎤 SPEAKER_1 [387s - 394s]
+No. If you don't have a conference mummy about today, see you come. Mommy is not mommy doesn't steal anything.
+
+🎤 SPEAKER_1 [398s - 399s]
+My motion money have come from mummy, do they?
+
+🎤 SPEAKER_1 [407s - 409s]
+You put pocket money in your cart every month as well.
+
+🎤 SPEAKER_2 [409s - 412s]
+No. I didn't No. Have a mixed. The beef one.
+
+🎤 SPEAKER_0 [412s - 416s]
+The one. I also had my 50 pound though. From Margaret Harbor.
+
+🎤 SPEAKER_1 [417s - 418s]
+50 pound note?
+
+🎤 SPEAKER_0 [418s - 419s]
+That 50 pound now.
+
+🎤 SPEAKER_3 [419s - 420s]
+Yeah. It's Venice, remember?
+
+🎤 SPEAKER_2 [421s - 424s]
+What? Come on.
+
+🎤 SPEAKER_1 [424s - 427s]
+It's the problem. Forget you spend it, and you get sad when it's not learning more.
+
+🎤 SPEAKER_1 [429s - 430s]
+Who who Sounds like you sound like me when I was your age.
+
+🎤 SPEAKER_3 [431s - 434s]
+I think we spent it on the tickets to the the w w.
+
+🎤 SPEAKER_0 [436s - 436s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [440s - 441s]
+That's too much food in your mouth.
+
+🎤 SPEAKER_1 [450s - 457s]
+So no one's interested in getting a shirt for £7 a day? I You have to buy two. You can't it's only basically it's two for £28.
+
+🎤 SPEAKER_1 [462s - 467s]
+Don't about what I'm saying, Sam. Think carefully about what I'm saying.
+
+🎤 SPEAKER_1 [479s - 487s]
+If it's two for £28, that's one each, £14 each. However, said to me that Omi and daddy will pay half if you want to do it.
+
+🎤 SPEAKER_1 [492s - 494s]
+If you don't want it, that's fine.
+
+🎤 SPEAKER_3 [494s - 495s]
+Only because I want it.
+
+🎤 SPEAKER_2 [498s - 499s]
+Only inside the times.
+
+🎤 SPEAKER_1 [500s - 501s]
+If there's no takers, then like charloughnet.
+
+🎤 SPEAKER_1 [512s - 513s]
+Eggshell's the worst.
+
+🎤 SPEAKER_2 [513s - 514s]
+Have you ever had eggshell by accident? Yeah.
+
+🎤 SPEAKER_1 [518s - 519s]
+This crunchy and arbore.
+
+🎤 SPEAKER_2 [539s - 539s]
+Right.
+
+🎤 SPEAKER_1 [540s - 542s]
+In my rucksack in the cart. I've got jackets.
+
+🎤 SPEAKER_2 [544s - 545s]
+I think. I'm not sure.
+
+🎤 SPEAKER_1 [545s - 548s]
+I've definitely got baseball caps. So if it's a bit sunny.
+
+🎤 SPEAKER_2 [551s - 552s]
+There like my dish.
+
+🎤 SPEAKER_1 [552s - 554s]
+Okay. It's a bit sunny and you're doing this because it's bit of boring.
+
+🎤 SPEAKER_2 [555s - 556s]
+I don't like my dish.
+
+🎤 SPEAKER_1 [557s - 560s]
+I'd have to like it. You just gotta let just gotta do the job and don't care what I When I'm thinking put it, I'm not
+
+🎤 SPEAKER_2 [565s - 568s]
+No way. What? Let's just keep this out of your eyes.
+
+🎤 SPEAKER_1 [573s - 624s]
+Look forward to seeing you molestarte.
+
+🎤 SPEAKER_1 [629s - 633s]
+So, we're in Canada. Just needs another haircut.
+
+🎤 SPEAKER_3 [633s - 634s]
+You want it to, like, grow down a bit?
+
+🎤 SPEAKER_1 [635s - 638s]
+No. Out a bit. Out small and down?
+
+🎤 SPEAKER_0 [638s - 640s]
+Have a little like wood.
+
+🎤 SPEAKER_2 [655s - 657s]
+You want it to top of my That look that look good. It's a
+
+🎤 SPEAKER_2 [662s - 664s]
+What?
+
+🎤 SPEAKER_1 [668s - 671s]
+The En baseballcaps konden niet zo.
+
+🎤 SPEAKER_0 [672s - 673s]
+Nou, de one one with the blonde hair.
+
+🎤 SPEAKER_3 [673s - 674s]
+Yeah, he did not.
+
+🎤 SPEAKER_3 [675s - 676s]
+That's not me, He just got lump now.
+
+🎤 SPEAKER_0 [677s - 681s]
+Got long hair down here. But on here, there's no hair.
+
+🎤 SPEAKER_1 [682s - 685s]
+Thank you. Yep. I think it's just long overall.
+
+🎤 SPEAKER_2 [687s - 687s]
+Yeah.
+
+🎤 SPEAKER_3 [695s - 697s]
+Do this like that? That is that is not.
+
+🎤 SPEAKER_1 [710s - 711s]
+I think it's called the modern bullets.
+
+🎤 SPEAKER_0 [712s - 718s]
+Modern mullet is the one that I want.
+
+🎤 SPEAKER_1 [731s - 733s]
+And the melut is like your style of my Why is my watch not checked as my phone wait.
+
+🎤 SPEAKER_0 [764s - 765s]
+You.
+
+🎤 SPEAKER_3 [776s - 777s]
+Alright. No. He's like a Mister
+
+🎤 SPEAKER_0 [779s - 779s]
+Eliot.
+
+🎤 SPEAKER_3 [785s - 786s]
+He's like one of those, like, Wait.
+
+🎤 SPEAKER_0 [811s - 817s]
+How did you know that going from Jelab again? What's name? Sam's something?
+
+🎤 SPEAKER_3 [817s - 820s]
+No. It's just Sam Cellag. Oh my
+
+🎤 SPEAKER_3 [830s - 831s]
+What's the other guy's name?
+
+🎤 SPEAKER_0 [831s - 832s]
+Ben.
+
+🎤 SPEAKER_3 [833s - 833s]
+Ben.
+
+🎤 SPEAKER_2 [844s - 845s]
+Down.
+
+🎤 SPEAKER_2 [861s - 867s]
+Do. Do. Cheese.
+
+🎤 SPEAKER_3 [868s - 868s]
+And cheese.
+
+🎤 SPEAKER_0 [871s - 872s]
+No. Like them then.
+
+
+---
+
