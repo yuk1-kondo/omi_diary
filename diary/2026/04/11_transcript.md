@@ -102,3 +102,92 @@ Come away.
 
 ---
 
+
+
+## 📝 Family Helps Injured Relative After Fall - a59da9ee-72af-4936-9dcd-6a096f02689c
+
+**記録時間**: 2026-04-11 02:27:11
+
+### STT生テキスト
+
+👤 あなた [0s - 273s]
+Hey, Paul.
+
+👤 あなた [291s - 292s]
+Okay. Here we are.
+
+🎤 SPEAKER_1 [293s - 296s]
+Here he is. Pop's on his way, mate.
+
+👤 あなた [296s - 297s]
+Okay. Good.
+
+👤 あなた [301s - 313s]
+So, obviously, is a PT. Hello, Bruce. So there's some advice on how to get you
+
+🎤 SPEAKER_2 [314s - 315s]
+Up.
+
+👤 あなた [316s - 322s]
+Obviously, that's not very comfortable. You're using your foot to hold you up brake. Yeah. Right. Roll onto the side, then treat her like she's in a bed.
+
+👤 あなた [324s - 344s]
+Try to prop up gradually. So this is from Hannah who's PT. Yeah. Roll on to side. Treat like mums on a bed. Then slowly, gradually sit up. Not sure. Don't lift from the floor straight standing. Better to go from floor to low chair. There's something like a firm wall or safer back nearby.
+
+👤 あなた [344s - 351s]
+Move it closer to that. Use cushions to support knees slowly. Or you will fall left under the armpits and help Omi support the leg.
+
+👤 あなた [353s - 353s]
+Okay.
+
+🎤 SPEAKER_1 [355s - 362s]
+He's gonna be in about two minutes. Okay. Probably gonna be like a We've got a step there. So we've got him onto a step.
+
+👤 あなた [362s - 364s]
+We can look That's that's progress. To the
+
+🎤 SPEAKER_1 [364s - 367s]
+chair. Somebody's caught in the leg.
+
+🎤 SPEAKER_3 [367s - 370s]
+Did not let him be a gross Cross. Yeah. Quite.
+
+👤 あなた [370s - 373s]
+So what happened then? Do you just just lost your stitch?
+
+🎤 SPEAKER_1 [374s - 375s]
+Lost his bearings on the On the road.
+
+👤 あなた [376s - 379s]
+On the mat. Yeah. Oh, well, then you know, dad would be getting put out away, wouldn't he?
+
+👤 あなた [382s - 384s]
+Did you twist your knees you landed, We've we've done a bit of damage on other ribs, elbow, Right.
+
+🎤 SPEAKER_1 [389s - 398s]
+But we didn't land on the I wasn't here. Didn't land on the knee. Right. Knees gone straight into the coffey deal that was there at the time.
+
+👤 あなた [398s - 405s]
+So you you've damaged various parts of your body essentially? On the left side. Yeah. Which is the same side as your knee.
+
+🎤 SPEAKER_3 [406s - 410s]
+My knee slid into the coffee table. Right. And the corner of the leg.
+
+👤 あなた [410s - 411s]
+Yeah.
+
+🎤 SPEAKER_3 [411s - 415s]
+Rammed into my knee and and stopped me from going further.
+
+👤 あなた [416s - 419s]
+Coffee table rambling to your to stop you falling further? Yeah.
+
+🎤 SPEAKER_1 [419s - 420s]
+So it's taking the foot the full The force.
+
+👤 あなた [420s - 423s]
+And the where did the coffee table hit you?
+
+
+---
+
