@@ -1,0 +1,79 @@
+{
+  "id": "a052ae7e-0213-4564-a084-2855880683bd",
+  "created_at": "2026-04-11T15:36:37.904753+00:00",
+  "started_at": "2026-04-11T15:37:55.133883+00:00",
+  "finished_at": "2026-04-11T15:38:03.367647+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Quick Reminder To Charge Device",
+    "overview": "A brief exchange where one person reminds another that their device battery is at 1% and directs them to use the charger located downstairs by the TV.",
+    "emoji": "🔋",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "da91ef89-0309-4e46-a2e2-5d4397cc8869",
+      "text": "Okay. You got a charger downstairs by the TV member. It is on 1%. Go and use the charge key we don't see as well. Hold on.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": -2.1934465621598065e-07,
+      "end": 7.669999780655189,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156754,
+    "longitude": -3.2755666,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "f8e3488c-d3fb-47df-b821-f7953ce79620",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "a052ae7e-0213-4564-a084-2855880683bd",
+      "chunk_timestamps": [
+        1775921796.848,
+        1775921857.117,
+        1775921918.189
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-11T15:36:36.848000+00:00",
+      "duration": 242.543
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Phone battery issue\n- Phone battery is at 1%  \n- Charger is located downstairs by the TV  \n\n## Instruction given\n- Told to go downstairs and use charger  \n- Asked to wait or hold on briefly  \n\n## Next steps\n- Go downstairs to plug phone into charger  \n- Keep phone charging to avoid shutdown"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
