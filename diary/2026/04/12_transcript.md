@@ -482,3 +482,101 @@ Receive what he is already scared. And if you're unsure, what you send and take 
 
 ---
 
+
+
+## 📝 Forgiveness, Sin, And The Christian Life - af2a3b1b-4705-4837-8e18-177c2bcc7b55
+
+**記録時間**: 2026-04-12 03:03:43
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 239s]
+The question underneath that is if forgiveness
+
+🎤 SPEAKER_0 [243s - 261s]
+We need to be very clear here because this is where the gospel is often misunderstood. We have said
+
+🎤 SPEAKER_0 [274s - 289s]
+Christ's death has fully paid for sin. And that that means your forgiveness is real, it is complete, and is available to all who believe.
+
+🎤 SPEAKER_0 [292s - 300s]
+But if we take that truth on its own, without understanding what is meant to produce, in us.
+
+🎤 SPEAKER_0 [303s - 320s]
+We can begin to draw the wrong conclusion. We can start to think, well, if well, if everything is already paid for, then sure ly it does not really matter how they've
+
+🎤 SPEAKER_2 [324s - 325s]
+I'm forgiven.
+
+🎤 SPEAKER_0 [331s - 335s]
+So maybe this this this simple
+
+🎤 SPEAKER_2 [340s - 341s]
+Doesn't matter.
+
+🎤 SPEAKER_0 [345s - 348s]
+Well, the bible addresses
+
+🎤 SPEAKER_0 [352s - 387s]
+Roman six, Paul asks, shall we go on sinning so that grace may increase? In other words, if I'm forgiven, and the workers were not
+
+🎤 SPEAKER_0 [432s - 435s]
+This answer is immediate, and it's decisive by no means, he says.
+
+🎤 SPEAKER_0 [441s - 452s]
+Because forgiveness is not simply about removing guilt. No. Isn't the gospel That isn't the goal.
+
+🎤 SPEAKER_0 [468s - 479s]
+Forgiveness It's not about being let off. It's probably been brought back back to garden back. To the life we were created to live with him.
+
+🎤 SPEAKER_0 [481s - 537s]
+So when we understand that, it should change
+
+🎤 SPEAKER_0 [541s - 543s]
+We see it.
+
+🎤 SPEAKER_0 [546s - 548s]
+The very thing that once felt
+
+🎤 SPEAKER_0 [556s - 561s]
+Christian is not someone this is this is really important.
+
+🎤 SPEAKER_0 [566s - 574s]
+Christian is not someone who no longer sends. That is not is not what I'm saying.
+
+🎤 SPEAKER_0 [578s - 586s]
+Christian is not but someone who can no longer be at peace with it.
+
+🎤 SPEAKER_0 [590s - 597s]
+There's a real and important difference between struggling with the sin and settling and being at peace.
+
+🎤 SPEAKER_0 [601s - 611s]
+Struggle says, I know this is wrong, and I want it gone. Even if I keep failing,
+
+🎤 SPEAKER_0 [614s - 619s]
+I know it's not right. But
+
+🎤 SPEAKER_0 [623s - 627s]
+I've accepted it. I'm not really intending to change.
+
+🎤 SPEAKER_0 [632s - 658s]
+So once you begin to see what symbony is and once you begin
+
+🎤 SPEAKER_0 [667s - 668s]
+This is his plan.
+
+🎤 SPEAKER_0 [676s - 680s]
+G Jesus had to die, Jesus had to die, to deal with your sin.
+
+🎤 SPEAKER_0 [687s - 691s]
+And your sin is not something to make peace with.
+
+🎤 SPEAKER_3 [707s - 707s]
+Christians will never make peace.
+
+🎤 SPEAKER_0 [725s - 726s]
+Sin.
+
+
+---
+
