@@ -369,3 +369,116 @@ I put my sunglasses in that basket. When I came in, Rachel.
 
 ---
 
+
+
+## 📝 Sermon on Forgiveness and Coming to Christ - 49ee48d0-31f1-4743-91b2-163b6ba9261e
+
+**記録時間**: 2026-04-12 02:53:09
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 13s]
+So if you're a Christian here this morning and you're asking, have I gone too far? The answer is no. Not because you have not sinned deeply, but because Christ has dealt with sin fully.
+
+🎤 SPEAKER_0 [13s - 25s]
+And this means there is no place for you to live under ongoing condemnation. There may be conviction, there may be repentance, there may be a call to change, but there is no condemnation left to carry.
+
+🎤 SPEAKER_0 [27s - 40s]
+We also need to see something else just as clearly if you're not if you're not trusting if you're here and you're not trusting Christ, if you're come to him, you're still living independently of him, that forgive us is not something that you can you can assume is all yours.
+
+🎤 SPEAKER_0 [42s - 52s]
+Not because it's in it, not because it's unavailable to you, but because it's not yet been received. The cross Hello?
+
+🎤 SPEAKER_1 [53s - 61s]
+Do you want to eat any food? If I were to eat some pizza in, would you eat any of that? Because that's your family or something. Know?
+
+🎤 SPEAKER_1 [61s - 64s]
+I'm hungry. I I only have Cheetos burgers. That's not my Yeah.
+
+🎤 SPEAKER_0 [66s - 73s]
+Well, if you're happy to do a pizza. Do have a pizza or What pizzas have you have you got pepperoni? Yeah.
+
+🎤 SPEAKER_1 [73s - 77s]
+Think so.
+
+🎤 SPEAKER_0 [78s - 82s]
+I think I've got I've had a little Well, if there's enough for everyone to have a pizza, then I could have, you know, up to a whole pizza
+
+🎤 SPEAKER_1 [83s - 84s]
+There are four pizzas.
+
+🎤 SPEAKER_2 [84s - 85s]
+Yeah.
+
+🎤 SPEAKER_0 [85s - 88s]
+What are you thinking? For yourself?
+
+🎤 SPEAKER_1 [89s - 95s]
+Thinks he can have three no four slices, but whoever a couple of And maybe Elliott has well. Elliot thinks he can do a whole one.
+
+🎤 SPEAKER_0 [96s - 100s]
+Well, whatever doesn't eat, then that could be Tomorrow's stuff.
+
+🎤 SPEAKER_2 [100s - 100s]
+Okay.
+
+🎤 SPEAKER_0 [100s - 102s]
+It's cold. Yeah. Yeah. It is cold.
+
+🎤 SPEAKER_0 [108s - 115s]
+The question is I've already done it now, so it's your input, I love your input, isn't it? Do you wanna know what it is, though?
+
+🎤 SPEAKER_0 [119s - 150s]
+It's actually what I come to him. Because the invitation of the gospel is not restricted. God does not say come, but only if you Since we're not eating to I'll be just cooking a four in two part.
+
+🎤 SPEAKER_0 [154s - 155s]
+That's fine.
+
+🎤 SPEAKER_3 [156s - 156s]
+Yeah.
+
+🎤 SPEAKER_0 [156s - 158s]
+That's absolutely fine. Thanks, babe.
+
+🎤 SPEAKER_3 [165s - 165s]
+It's the first cut, but
+
+🎤 SPEAKER_0 [166s - 171s]
+I was thinking that. I think this is probably the best year for about three years. The lawns looks like a lawn.
+
+🎤 SPEAKER_1 [172s - 173s]
+Like, half a year.
+
+🎤 SPEAKER_0 [174s - 180s]
+So Yeah. I mean, we we did a good job getting those gray jackets, what are they called.
+
+🎤 SPEAKER_2 [183s - 186s]
+It's come.
+
+🎤 SPEAKER_0 [186s - 201s]
+But is but it is you it is as you come That is as you turn to him in faith, as you trust in what Christ has done, that. But it is as you come, that that forgiveness.
+
+🎤 SPEAKER_0 [202s - 211s]
+Comes yours. For the one who is in Christ, there is no sin beyond his grace. For the one who is not yet in Christ, there is no sin.
+
+🎤 SPEAKER_0 [211s - 221s]
+Beyond his grace, but you must come to him. That brings us back to the feeling many people carry. I know god forgives, but I'm not sure he forgives me. Oh, I can't forgive myself.
+
+🎤 SPEAKER_0 [223s - 232s]
+And here we need to come back to the same foundation. Forgiveness does not rest, in your ability to feel it. It rests on what Christ has done.
+
+🎤 SPEAKER_0 [233s - 244s]
+The question is not, do I feel forgiven? The question is has it been paid for? And if you're in Christ, the answer is yes. If you're not in yet in Christ, then the invitation stands open to you today.
+
+🎤 SPEAKER_0 [247s - 257s]
+So if you're here today as a Christian, you're carrying guilt or shame, from it, then bring it back to the cross again. Don't carry what Christ has already dealt with.
+
+🎤 SPEAKER_0 [262s - 274s]
+Turn confess it, turn from it, and rest again in what you've done. Even if your feelings take time. If you're not gonna get a Christian, they don't stand at a distance on this. Don't assume forgiveness and don't dismiss it either. Come to Christ.
+
+🎤 SPEAKER_0 [277s - 285s]
+Receive what he is already scared. And if you're unsure, what you send and take that seriously, speak to someone and ask questions.
+
+
+---
+
