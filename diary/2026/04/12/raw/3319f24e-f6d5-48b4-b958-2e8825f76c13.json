@@ -1,0 +1,98 @@
+{
+  "id": "3319f24e-f6d5-48b4-b958-2e8825f76c13",
+  "created_at": "2026-04-11T16:32:16.171156+00:00",
+  "started_at": "2026-04-11T16:32:43.273883+00:00",
+  "finished_at": "2026-04-11T16:34:46.633280+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Brief Exchange About Misplaced Sunglasses",
+    "overview": "The user greets Rachel in Spanish and mentions having placed their sunglasses in a basket when they came in, seemingly indicating where the item was left or implying it may now be missing.",
+    "emoji": "🕶️",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "a3eff27a-e746-474b-a412-67da74a766de",
+      "text": "Buen día, Rachel.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": true,
+      "person_id": null,
+      "start": 7.642756827408448e-08,
+      "end": 0.7200400764268124,
+      "translations": [
+        {
+          "lang": "en",
+          "text": "Good morning, Rachel."
+        }
+      ],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "13b1a945-f74a-4970-a9a5-fa43b827bb38",
+      "text": "I put my sunglasses in that basket. When I came in, Rachel.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": true,
+      "person_id": null,
+      "start": 117.08809777274018,
+      "end": 122.07809777273997,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156754,
+    "longitude": -3.2755666,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "4ae3bdb9-3b92-4cbe-ab0b-89f4ef352dcd",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "3319f24e-f6d5-48b4-b958-2e8825f76c13",
+      "chunk_timestamps": [
+        1775925135.417,
+        1775925195.572,
+        1775925256.298,
+        1775925317.701
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-11T16:32:15.417000+00:00",
+      "duration": 304.086
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## context\n- User greets someone named Rachel\n- User states sunglasses placed in a basket\n- Placement occurred when user came in\n\n## implied concern\n- User likely cannot find sunglasses now\n- Basket location or contents may be in question\n\n## next steps\n- Check the mentioned basket thoroughly\n- Ask Rachel if sunglasses were moved"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
