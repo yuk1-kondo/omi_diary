@@ -1,0 +1,240 @@
+{
+  "id": "e308c5a7-fe61-4b0a-b4c3-aede5ff26901",
+  "created_at": "2026-04-11T15:46:11.266961+00:00",
+  "started_at": "2026-04-11T15:46:49.942749+00:00",
+  "finished_at": "2026-04-11T15:52:21.577391+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Planning a Pastoral Sermon on Forgiveness",
+    "overview": "The speaker reflects on how to preach a catechism question about forgiveness, exploring different teaching approaches. They consider breaking the question and answer into sections and explaining them exegetically, but also want a fresh angle that addresses real questions in the congregation's minds. They describe specific pastoral concerns: a non‑Christian attendee who does not see themselves as a sinner and feels no need for forgiveness, and a couple who seem to be making peace with ongoing sin rather than fighting it. The speaker notes that previous sermons from Romans about universal sin and sinful nature are not connecting for some, and concludes that more concrete examples and pastoral application may be needed. They also want to address listeners burdened by guilt and shame. While an anchor biblical text would be helpful, they see this sermon as leaning more pastoral than strictly exegetical.",
+    "emoji": "⛪",
+    "category": "spiritual",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "78674c31-955a-4741-ba01-26bcfcb84de0",
+      "text": "Okay, great. That is certainly one approach we could take to tackling this catechism question.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": -1.144403540820349e-07,
+      "end": 5.479999885559664,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "eb081d95-7da5-423b-9e98-844a812e425b",
+      "text": "I guess the other way of doing it is to break the question and answer down into sections and teach what they mean.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 11.40143421173184,
+      "end": 23.62143421173164,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "07a4168a-f69e-475c-955c-974c6f0a8088",
+      "text": "Exegetically. I guess if you think about the previous questions we've just answered in the catechism, I don't wanna sound a bit like a broken record.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 45.14672372818109,
+      "end": 54.64672372818109,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "00a775c3-2016-4934-8e3d-f2578b8c11f6",
+      "text": "So it's a matter of finding a fresh take. And finding the question to ask in the introduction that the big idea is the answer to.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 55.126723728181105,
+      "end": 67.24671372818102,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b3975514-6377-4d54-a4f7-76dfa2203c09",
+      "text": "Let's think of about let's think about a few of the approaches we could take then to answer in this catechism question.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 68.8867237281811,
+      "end": 76.76672872818108,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "ec78fdcc-9795-4764-b79e-7dd24fe16bdb",
+      "text": "Yes. I quite like approach three. We could do that. I'm also aware of at least one person in the church. Is not a Christian, who doesn't feel like they're a bad person. They don't feel like they need forgiveness.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 80.8767237281811,
+      "end": 204.05129744529313,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4f8ec320-a1de-4220-b2d8-c4170294c440",
+      "text": "They've not done anything wrong. As far as they're concerned. They don't consider themselves sinners. Essentially. And although I've preached from Romans or have sinned in full and short, and I've explained that it is not just the things we do, but our very nature That's just not connecting with this person.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 204.11129744529308,
+      "end": 225.3712874452931,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "96955e37-727f-4958-8c7d-6e16ddc377d1",
+      "text": "So it's like they need some examples. I'm not sure how to convince them. That they're sinners. So maybe I need to talk a bit into that There's also a couple in the church who I feel like they're making peace with sin in their life.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 226.3312974452931,
+      "end": 255.45128744529302,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "6e9a16b8-95be-401e-9954-e66779b6062a",
+      "text": "Rather than fighting against it. Or having no peace with it. So back to the original question and answer about forgiveness. The different questions that people people may be thinking in the congregation.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 259.5813074452931,
+      "end": 275.17128744529305,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "97fca2f8-2565-41bd-a0b2-bef81552805a",
+      "text": "There'll be people also thinking that carrying guilt. And shame.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 277.3312974452931,
+      "end": 285.7312974452932,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f7a1077d-cdd5-454f-b711-c9ef4a3f1868",
+      "text": "And so we need to speak into that But, yeah, I mean, I feel like for this particular sermon, I need to be thinking about the sort of questions people have got in their head whilst they hear this q and a.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 290.9712974452932,
+      "end": 310.3313074452931,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c70d9b53-a83d-44dd-857d-5c7201af6891",
+      "text": "And mainly, address it around that It would be good to have a anchor text for this. But maybe this is more pastoral this time.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 311.13129744529306,
+      "end": 324.691297445293,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "5882eddc-8002-4726-b7da-48f8891c344d",
+      "text": "Those are some of my thoughts anyway.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 329.01129744529317,
+      "end": 330.77129744529293,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156754,
+    "longitude": -3.2755666,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "044c9f58-3527-4482-bc7f-37f8dbd01581",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "e308c5a7-fe61-4b0a-b4c3-aede5ff26901",
+      "chunk_timestamps": [
+        1775922370.473,
+        1775922430.868,
+        1775922490.968,
+        1775922552.045,
+        1775922612.94,
+        1775922673.776,
+        1775922734.565,
+        1775922794.627
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-11T15:46:10.473000+00:00",
+      "duration": 545.556
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Considering teaching approaches\n- Discusses breaking catechism Q&A into sections  \n- Wants a fresh angle, not repeating previous sermons  \n- Big idea should clearly answer a key intro question  \n\n## Pastoral concerns about sin and forgiveness\n- Mentions a non-Christian who feels not bad, no guilt  \n- Romans \"all have sinned\" teaching not connecting with them  \n- Another couple seems at peace with sin, not fighting it  \n\n## Addressing different heart responses\n- Some in church don't see themselves as sinners  \n- Others are making peace with ongoing sin  \n- Others carry heavy guilt and shame  \n\n## Shaping the sermon focus\n- Sermon should engage real questions in listeners' minds  \n- Feels this sermon may be more pastoral than exegetical  \n- Would like an anchor text, but application is central  \n\n## Next steps\n- Choose an anchor text on sin and forgiveness  \n- Frame sermon around specific, lived questions  \n- Use concrete examples to reveal sin and offer grace"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
