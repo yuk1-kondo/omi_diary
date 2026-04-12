@@ -6987,3 +6987,1424 @@ Make sure it doesn't sound like you're Well, I don't I would like to come, but a
 
 ---
 
+
+
+## 📝 Family Sunday Lunch, Church Talk, And Routines - fd43d4b4-138b-4423-8ff3-91dd21a50e5b
+
+**記録時間**: 2026-04-12 22:47:42
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 262s]
+Alright. Just having a quick poo.
+
+🎤 SPEAKER_2 [329s - 330s]
+Yeah. It should come here.
+
+🎤 SPEAKER_0 [330s - 335s]
+I'm just finished on the toilet, babe. No. I'm coming now, I just said.
+
+🎤 SPEAKER_0 [416s - 417s]
+Get Save me.
+
+🎤 SPEAKER_0 [424s - 434s]
+Buiten Elliott. Come down for lunch. Jude, Jude, come through for lunch please. No.
+
+🎤 SPEAKER_2 [434s - 436s]
+Start that now. Crack.
+
+🎤 SPEAKER_0 [438s - 441s]
+Don't let me ask again, sir. Anybody else have to put you on the dude's rules.
+
+🎤 SPEAKER_2 [445s - 447s]
+Goodbye.
+
+🎤 SPEAKER_0 [449s - 457s]
+Do your plenty of time later. You coming, daddy? Smells lovely. What's that? It smells like pancakes. Oh, is that? Yeah.
+
+🎤 SPEAKER_3 [458s - 458s]
+No.
+
+🎤 SPEAKER_2 [459s - 461s]
+It was hammy. Alright.
+
+🎤 SPEAKER_0 [465s - 467s]
+We put this camera on the thing?
+
+🎤 SPEAKER_0 [475s - 476s]
+Is that what you mean?
+
+🎤 SPEAKER_2 [476s - 477s]
+No.
+
+🎤 SPEAKER_3 [478s - 480s]
+Getting a cash. Because I can't
+
+🎤 SPEAKER_0 [482s - 490s]
+Sorry, Ale. Another classic from Elliot. I'm getting a can because I can. Do you really need to take your jumper off then you look a bit hot?
+
+🎤 SPEAKER_2 [495s - 496s]
+Might.
+
+🎤 SPEAKER_0 [496s - 500s]
+Was about to come in and give you your first huge rule of the day then, Drew, not listening.
+
+🎤 SPEAKER_0 [508s - 509s]
+It does, but it's not.
+
+🎤 SPEAKER_2 [515s - 516s]
+Oh, alright.
+
+🎤 SPEAKER_0 [516s - 518s]
+It's not alright. Where are you sitting, Jude? Which this one or that one?
+
+🎤 SPEAKER_2 [518s - 519s]
+I'm having a
+
+🎤 SPEAKER_3 [519s - 519s]
+No.
+
+🎤 SPEAKER_2 [522s - 523s]
+Yeah.
+
+🎤 SPEAKER_0 [530s - 534s]
+I like Mommy today, guess what, everyone? She put eggs on your gammon.
+
+🎤 SPEAKER_0 [538s - 540s]
+You keep your I don't like this out, please.
+
+🎤 SPEAKER_3 [540s - 541s]
+Because I can.
+
+🎤 SPEAKER_0 [542s - 544s]
+Because I And everyone's here.
+
+🎤 SPEAKER_2 [544s - 544s]
+I like So and this sweet potatoes.
+
+🎤 SPEAKER_0 [553s - 556s]
+Do you do you wanna try your egg anyway?
+
+🎤 SPEAKER_0 [562s - 565s]
+Right. Mommy, is anyone of those anxious practice?
+
+🎤 SPEAKER_3 [565s - 565s]
+Go talk with the so Alright.
+
+🎤 SPEAKER_0 [566s - 568s]
+We'll do the egg at the end of that.
+
+🎤 SPEAKER_0 [570s - 573s]
+Was Alright. Alright. Excuse me, please. Too too much noise.
+
+🎤 SPEAKER_0 [580s - 586s]
+Isn't it nice that mummies cook a gum in everyone? No. That goes on top of your gammon tree, one. Do they eat glass?
+
+🎤 SPEAKER_0 [592s - 595s]
+Daddy doesn't often do it. Daddy often doesn't do an egg.
+
+🎤 SPEAKER_3 [597s - 598s]
+No. Just don't put them.
+
+🎤 SPEAKER_0 [598s - 601s]
+Just don't pop them. No. No. Leave it. Leave it. Don't pop them. Leave them. Put it down.
+
+🎤 SPEAKER_2 [615s - 615s]
+Carrot.
+
+🎤 SPEAKER_0 [616s - 617s]
+No. They're everyone's carrots.
+
+🎤 SPEAKER_2 [618s - 618s]
+Really?
+
+🎤 SPEAKER_0 [623s - 626s]
+Cousin gamini. What's your fingers?
+
+🎤 SPEAKER_2 [628s - 630s]
+I can have the pen because I can't
+
+🎤 SPEAKER_0 [631s - 632s]
+Hey.
+
+🎤 SPEAKER_1 [634s - 635s]
+I I guess how much keys I have in roadblocks.
+
+🎤 SPEAKER_5 [636s - 637s]
+Arrivals.
+
+🎤 SPEAKER_2 [637s - 641s]
+For that one. No.
+
+🎤 SPEAKER_5 [642s - 645s]
+They're not keys Each key is worth, like, five rooms.
+
+🎤 SPEAKER_3 [645s - 646s]
+And yet no. Can I test if I want more?
+
+🎤 SPEAKER_2 [647s - 647s]
+Mhmm.
+
+🎤 SPEAKER_5 [648s - 651s]
+And each kid costs five rooms.
+
+🎤 SPEAKER_2 [652s - 653s]
+No.
+
+🎤 SPEAKER_3 [662s - 665s]
+Well, Elliot? Elliot? Can you ask Mike? Can you check that to me?
+
+🎤 SPEAKER_5 [668s - 669s]
+One fifty Right.
+
+🎤 SPEAKER_0 [678s - 684s]
+Mommy's actually talking to your idiot. Can you actually just be respectful reply? A bit rude to completely blank someone.
+
+🎤 SPEAKER_3 [684s - 685s]
+Serve your food up, Elliot.
+
+🎤 SPEAKER_2 [685s - 686s]
+Oh, I don't want him.
+
+🎤 SPEAKER_3 [687s - 688s]
+Want some more? Yeah.
+
+🎤 SPEAKER_5 [688s - 689s]
+For then? Yeah.
+
+🎤 SPEAKER_3 [691s - 694s]
+Feel like I failed as a mother. Come on. I've got children that don't talk to me when I'm talking to you.
+
+🎤 SPEAKER_0 [696s - 699s]
+Bit bit of politeness, please, Ed. Goes a long way. Because you know? No.
+
+🎤 SPEAKER_0 [709s - 709s]
+Where that came from.
+
+🎤 SPEAKER_5 [714s - 715s]
+It always like much croissant.
+
+🎤 SPEAKER_0 [715s - 717s]
+You've all got six croissants.
+
+🎤 SPEAKER_3 [717s - 719s]
+I dropped it. On your five.
+
+🎤 SPEAKER_0 [721s - 721s]
+Jude has
+
+🎤 SPEAKER_2 [722s - 722s]
+Six.
+
+🎤 SPEAKER_3 [723s - 727s]
+So Doesn't matter. Yeah. We're not worried what was the two Give them. I didn't Why is it bother me?
+
+🎤 SPEAKER_0 [728s - 729s]
+Oh, No.
+
+🎤 SPEAKER_2 [729s - 730s]
+Eddie. Evan. Dad.
+
+🎤 SPEAKER_3 [730s - 732s]
+Dad miscounted Eddie. No.
+
+🎤 SPEAKER_0 [732s - 735s]
+You had five. Mommy had five. Six. Alright?
+
+🎤 SPEAKER_3 [735s - 736s]
+It was just until I was sitting down.
+
+🎤 SPEAKER_2 [736s - 737s]
+Why did you last night?
+
+🎤 SPEAKER_3 [738s - 741s]
+Do How's your more crowds in it? Because I've got, like, five carrots. There's not many there's not many carrots.
+
+🎤 SPEAKER_0 [741s - 742s]
+There's what?
+
+🎤 SPEAKER_3 [742s - 750s]
+It's funny. Every time I cook just you boys don't want don't want all. And so they want to cook the veg. Interesting. The host.
+
+🎤 SPEAKER_3 [750s - 755s]
+I'm in cooking daddy in the boys. Thing there as well.
+
+🎤 SPEAKER_0 [756s - 760s]
+Well, I can explain myself, is I need more vegetables in my life.
+
+🎤 SPEAKER_2 [760s - 761s]
+Oh, you can't take all of the soup.
+
+🎤 SPEAKER_0 [761s - 767s]
+Have you not had them yet? No. Right. Go on. Move your knife then. Meant to be serving yourself really soon.
+
+🎤 SPEAKER_3 [767s - 773s]
+Yeah. It's all there. That's why I said I I would I'd plate it up over there if I was gonna. Just do it for you. I've got gravy over here or something.
+
+🎤 SPEAKER_0 [775s - 778s]
+Alright. Cheese ones. What do want? Which one? You want sweet potato ones. Yeah?
+
+🎤 SPEAKER_2 [778s - 779s]
+No.
+
+🎤 SPEAKER_1 [780s - 781s]
+I hate
+
+🎤 SPEAKER_2 [781s - 782s]
+spots.
+
+🎤 SPEAKER_0 [782s - 789s]
+No. No. You don't need to say that second part. I don't care. I don't want to hear about what you hate. Thank you. I just wanna hear the nice things. We don't need negative things.
+
+🎤 SPEAKER_3 [793s - 794s]
+I like to say I like I I will have more potatoes when it comes to it.
+
+🎤 SPEAKER_6 [796s - 796s]
+You have some as well, I know.
+
+🎤 SPEAKER_0 [796s - 799s]
+I got I got plenty of it. Merry Merry Christmas.
+
+🎤 SPEAKER_0 [803s - 807s]
+No I ain't trying a few more tears. A gravy. I'll have some gravy.
+
+🎤 SPEAKER_2 [807s - 809s]
+Yeah. I'm sure Eddie would have some gravy on anything?
+
+🎤 SPEAKER_3 [810s - 831s]
+A bit of a mix on you stuff when you've got the egg. But be because to be honest, I called him on so many times.
+
+🎤 SPEAKER_0 [832s - 848s]
+You know what guys? Can I make a real crack? Sorry. I was talking. Was rude. Can I make a request for this lunch? I'd like no I would like quieter voices and I'd like one person talking at a time. If you want to talk, you wait for your purse your turn turn essentially.
+
+🎤 SPEAKER_2 [849s - 849s]
+Okay?
+
+🎤 SPEAKER_0 [850s - 862s]
+Have a nice calm church. Church is busy for everybody. And so it's nice to have a nice relaxing time afterwards. I might get some salt and pepper. Should I do some salt and pepper?
+
+🎤 SPEAKER_2 [866s - 868s]
+Let me you alright?
+
+🎤 SPEAKER_5 [868s - 868s]
+I'm yeah.
+
+🎤 SPEAKER_5 [871s - 871s]
+Do you say Grace?
+
+🎤 SPEAKER_0 [873s - 879s]
+No. Father God, thank you that we're all that we're all So everybody everybody saying But we are actually talking We are talking to God to Christ. Okay?
+
+🎤 SPEAKER_0 [880s - 889s]
+Father God, thank you for today. We thank you that we're able to join. With Christians, and this happens all over the world. To worship you and to enjoy you. Thank you for this food. Thank you that we're all well and healthy.
+
+🎤 SPEAKER_0 [890s - 891s]
+And we just we just love you. Amen.
+
+🎤 SPEAKER_0 [895s - 897s]
+You can't take health for for granted, guys.
+
+🎤 SPEAKER_1 [898s - 905s]
+No. Do you? Got your piano. Timetable before I forget. Hang on.
+
+🎤 SPEAKER_5 [905s - 905s]
+Hang on.
+
+🎤 SPEAKER_1 [909s - 911s]
+Hang 11, 12, 12:45.
+
+🎤 SPEAKER_2 [911s - 911s]
+01:55.
+
+🎤 SPEAKER_0 [911s - 914s]
+You respect the daddy's rule of one person chocolate time?
+
+🎤 SPEAKER_1 [916s - 919s]
+Nine 09:30 ten. 09:45.
+
+🎤 SPEAKER_3 [925s - 930s]
+She obviously got more people. Looks like this is longer. Elia. Who's we when's AJ?
+
+🎤 SPEAKER_2 [930s - 930s]
+Who's new?
+
+🎤 SPEAKER_3 [932s - 934s]
+That person Sophie, I is new.
+
+🎤 SPEAKER_2 [937s - 938s]
+Yeah.
+
+🎤 SPEAKER_0 [938s - 939s]
+So I guess you have to put
+
+🎤 SPEAKER_1 [941s - 942s]
+Gummin's tasty.
+
+🎤 SPEAKER_0 [945s - 946s]
+It's covered in sweets stuff.
+
+🎤 SPEAKER_1 [964s - 965s]
+They're the new they're the new person on.
+
+🎤 SPEAKER_0 [967s - 968s]
+Right. Yes, guys.
+
+🎤 SPEAKER_7 [968s - 970s]
+Actually, he's he's start with his sleeves on.
+
+🎤 SPEAKER_0 [972s - 974s]
+Screen time finishes at 08:40 today.
+
+🎤 SPEAKER_5 [974s - 974s]
+08:40.
+
+🎤 SPEAKER_0 [976s - 977s]
+I mean 07:40.
+
+🎤 SPEAKER_2 [982s - 982s]
+We wedder Yeah.
+
+🎤 SPEAKER_0 [983s - 991s]
+But listen for tonight Yeah. I'd like you to a bit more time off screen just to calm yourself down and ready for because you haven't been scrubbed to it.
+
+🎤 SPEAKER_3 [991s - 1007s]
+You will go to the shower Okay? We're gonna be going back to it's the summer term now, Jude. It's the summer term now. I heard it's summer term. You gonna be sweaty more. You're gonna be playing. It may be needed to have a shower every day, but we're gonna start with three times a week.
+
+🎤 SPEAKER_3 [1007s - 1010s]
+At minimum. Only three times. You both pick it.
+
+🎤 SPEAKER_0 [1010s - 1011s]
+You can walk. You know?
+
+🎤 SPEAKER_3 [1011s - 1021s]
+Elliot you dude, we're all getting older now. You're year five summer term You you you're getting BOE. Puberty. A good thing. Turning getting closer to BOE.
+
+🎤 SPEAKER_5 [1021s - 1023s]
+I was laughing at me because I'm in year five.
+
+🎤 SPEAKER_2 [1024s - 1024s]
+Who?
+
+🎤 SPEAKER_5 [1026s - 1027s]
+Lexington made Oh.
+
+🎤 SPEAKER_2 [1027s - 1027s]
+Pranking.
+
+🎤 SPEAKER_3 [1027s - 1029s]
+Well, don't see with them then. Don't sit them.
+
+🎤 SPEAKER_5 [1030s - 1034s]
+They come into the they come into the room that I was sitting.
+
+🎤 SPEAKER_1 [1035s - 1036s]
+Well, don't don't don't sit with them if they're not gonna be kind.
+
+🎤 SPEAKER_3 [1037s - 1040s]
+Oh, wait, June. So showers for June on Tuesdays, Thursdays, Saturdays.
+
+🎤 SPEAKER_7 [1043s - 1044s]
+For shower for me.
+
+🎤 SPEAKER_3 [1044s - 1045s]
+Tuesdays, Thursdays.
+
+🎤 SPEAKER_7 [1046s - 1053s]
+It'll be Tuesdays, Wednesdays, Thursdays, Saturdays, Sundays. Sundays in preparation for school.
+
+🎤 SPEAKER_3 [1054s - 1055s]
+Shower every day is not a bad thing, to be honest with you.
+
+🎤 SPEAKER_7 [1055s - 1057s]
+That's what you I mean, that's what I used to doing.
+
+🎤 SPEAKER_1 [1057s - 1059s]
+I quit shower.
+
+🎤 SPEAKER_3 [1059s - 1061s]
+I can't afford to pay for really long showers but yes.
+
+🎤 SPEAKER_0 [1063s - 1070s]
+A good Do you want these recommend that you that you can have a show in four minutes? You set a four minute timer. You should be able to have a full body wash.
+
+🎤 SPEAKER_0 [1070s - 1071s]
+Clean in that time.
+
+🎤 SPEAKER_2 [1071s - 1072s]
+Yeah.
+
+🎤 SPEAKER_0 [1073s - 1075s]
+And I think I have that for as well, certainly true for boys.
+
+🎤 SPEAKER_2 [1075s - 1076s]
+Definitely not for girls.
+
+🎤 SPEAKER_5 [1076s - 1079s]
+Girls take five years. No. They don't. No.
+
+🎤 SPEAKER_2 [1079s - 1081s]
+Any They've got longer hair, do No.
+
+🎤 SPEAKER_5 [1081s - 1088s]
+Elliott takes three, four minutes in the shower. Take five hours to get out of the bathroom.
+
+🎤 SPEAKER_3 [1088s - 1089s]
+The difference is That's Jude.
+
+🎤 SPEAKER_1 [1090s - 1092s]
+Yeah. Woah. Come.
+
+🎤 SPEAKER_0 [1092s - 1094s]
+1% sign. Mommy talking. Oh, you guys talking? Didn't it? Jude.
+
+🎤 SPEAKER_3 [1095s - 1102s]
+Difference is whether you want to because you enjoyed that playing being in the showerboard. Or whether you I've gotta go in. I've gotta do this. Then I'm gonna get out. Is this warm?
+
+🎤 SPEAKER_2 [1103s - 1104s]
+Yeah.
+
+🎤 SPEAKER_0 [1104s - 1110s]
+Yeah. This is a good tip actually. Once you're out of the shine, you've dragged yourself a bit, wrap a towel around and go into the rest of your bedroom.
+
+🎤 SPEAKER_0 [1110s - 1111s]
+You don't need to type.
+
+🎤 SPEAKER_3 [1115s - 1120s]
+It depends what time it is. If it's so you've gotta get in and you've gotta get out because it's bedtime someone else needs to go in. Yeah.
+
+🎤 SPEAKER_1 [1122s - 1124s]
+But I I don't have the water running for longer because we have to heat it with water, but you can, you know, prune yourself.
+
+🎤 SPEAKER_2 [1133s - 1142s]
+Tasty. Omi going out today. Yeah. They welcome fish. I think it was a short walk.
+
+🎤 SPEAKER_1 [1142s - 1145s]
+A short walk of Bruce, the short one.
+
+🎤 SPEAKER_0 [1146s - 1159s]
+Mommy, do tell me wrong. Which one did you decided? And, actually, that was a director at Mommy probably earlier the questions me. Said Mummy would have probably put it slightly more gently or delicately And, yeah, bruise.
+
+🎤 SPEAKER_3 [1161s - 1165s]
+What I was thinking we're going to Romilly pub I'll walk around Romilly pub.
+
+🎤 SPEAKER_2 [1165s - 1165s]
+Have a bigger football.
+
+🎤 SPEAKER_1 [1167s - 1170s]
+Finish my speaking. It's rude. Yes.
+
+🎤 SPEAKER_3 [1170s - 1171s]
+You can bring it I was going to say that, but it was rude.
+
+🎤 SPEAKER_2 [1172s - 1172s]
+Yes.
+
+🎤 SPEAKER_3 [1177s - 1181s]
+Yes. Can be a football. I'll do laps of Romney Park. Okay?
+
+🎤 SPEAKER_0 [1192s - 1193s]
+When you mix them you're doing a mixer. You ready?
+
+🎤 SPEAKER_1 [1194s - 1196s]
+Please do wipe your foot up in your jumper.
+
+🎤 SPEAKER_0 [1202s - 1205s]
+So what you're learning what you're learning in kids today, Jude?
+
+🎤 SPEAKER_5 [1211s - 1214s]
+Shush. So what we learned Yep.
+
+🎤 SPEAKER_5 [1216s - 1218s]
+Was that we did a recap on we've done
+
+🎤 SPEAKER_5 [1228s - 1240s]
+We were talking about he was walking. No. He had a Jacob had a dream while I will run away from from Easter because he was angry at Jacob.
+
+🎤 SPEAKER_5 [1240s - 1264s]
+Jacob went to sleep on a rock and let him draw on a rock, and that dream was relied on some heaven mallow, and then the next day, the pillar was gone.
+
+🎤 SPEAKER_2 [1264s - 1264s]
+Yeah.
+
+🎤 SPEAKER_1 [1264s - 1266s]
+That was the jokey thing. Wow. Yeah.
+
+🎤 SPEAKER_5 [1268s - 1270s]
+That was what the pillow that's what the dream I'm going to I'm going to school with no drones on.
+
+🎤 SPEAKER_1 [1271s - 1271s]
+Yeah.
+
+🎤 SPEAKER_3 [1272s - 1275s]
+What we what was the point? Why is that story in the bible?
+
+🎤 SPEAKER_1 [1276s - 1278s]
+Was it helping us understand about God and
+
+🎤 SPEAKER_2 [1278s - 1279s]
+I don't know.
+
+🎤 SPEAKER_5 [1281s - 1282s]
+Doing No.
+
+🎤 SPEAKER_2 [1282s - 1282s]
+Big truth?
+
+🎤 SPEAKER_3 [1283s - 1286s]
+We don't need to know off by heart, but what was roughly the truth?
+
+🎤 SPEAKER_5 [1286s - 1291s]
+I don't know. How you doing? I don't know.
+
+🎤 SPEAKER_1 [1298s - 1300s]
+Jacob was What did the name Jacob mean?
+
+🎤 SPEAKER_5 [1300s - 1301s]
+Not him.
+
+🎤 SPEAKER_1 [1303s - 1304s]
+Cheat. Cheat.
+
+🎤 SPEAKER_2 [1304s - 1305s]
+Oh, cheat.
+
+🎤 SPEAKER_3 [1306s - 1313s]
+So then what happened? God just go, no. You messed up. I'm not interested in you. Sorry. I'm I'm done now.
+
+🎤 SPEAKER_2 [1320s - 1325s]
+No. I've been Jacob had not hairy arms and Esau had very hairy.
+
+🎤 SPEAKER_3 [1330s - 1339s]
+Yeah. That was the other week, wasn't it? This one. What happened in the in the night as well after this dream about the ladder?
+
+🎤 SPEAKER_3 [1340s - 1342s]
+What was there? What happened in the night?
+
+🎤 SPEAKER_1 [1342s - 1344s]
+All night long. Jacob didn't give up.
+
+🎤 SPEAKER_3 [1351s - 1355s]
+The mysterious figure who was wrestling him. Bless him. Noonei.
+
+🎤 SPEAKER_0 [1356s - 1357s]
+Was that Jesus?
+
+🎤 SPEAKER_2 [1358s - 1359s]
+Well. No.
+
+🎤 SPEAKER_3 [1359s - 1368s]
+Didn't say. No. Didn't say. We didn't get too much into that daddy we'd we'd got into lots of other things, so we couldn't unpack the whole preach in the pledge.
+
+🎤 SPEAKER_3 [1371s - 1378s]
+We're focused on the fact that Jacob really cheat And yet still,
+
+🎤 SPEAKER_3 [1382s - 1386s]
+God had promised Abraham his children's children's children's children's children's children's children's promised would would redeem them the snake crusher
+
+🎤 SPEAKER_3 [1390s - 1402s]
+And so Jacob everything up, but god didn't go, sorry that's the end of that. God actually said I will be with you Yeah.
+
+🎤 SPEAKER_1 [1402s - 1403s]
+Wherever you go.
+
+🎤 SPEAKER_2 [1403s - 1404s]
+No.
+
+🎤 SPEAKER_3 [1404s - 1406s]
+I will keep a promise.
+
+🎤 SPEAKER_0 [1406s - 1407s]
+That's faithful, isn't he? Yeah.
+
+🎤 SPEAKER_3 [1407s - 1415s]
+So believe though we all because we was he deserving of god's promise? Are we deserving of God's promise? No.
+
+🎤 SPEAKER_1 [1416s - 1421s]
+But God it anyway. No. That's what we're talking about today, don't you? No. Very good.
+
+🎤 SPEAKER_7 [1422s - 1422s]
+Are you happy?
+
+🎤 SPEAKER_3 [1423s - 1426s]
+No more at your church. No more taught such great things?
+
+🎤 SPEAKER_6 [1427s - 1427s]
+No?
+
+🎤 SPEAKER_2 [1427s - 1428s]
+Very good.
+
+🎤 SPEAKER_0 [1430s - 1430s]
+Very good.
+
+🎤 SPEAKER_3 [1430s - 1442s]
+It's really getting drugged in that we're not really good enough that we and faithful, and he his promises, and he's promising to make things new.
+
+🎤 SPEAKER_3 [1442s - 1444s]
+I'll talk about how aren't we blessed now that Yeah.
+
+🎤 SPEAKER_3 [1445s - 1453s]
+All these people didn't know. They were told that this sponsor was coming. They didn't really know what that meant. Suddenly, they didn't see that happen. Yeah.
+
+🎤 SPEAKER_3 [1454s - 1456s]
+We're blessed that we've come after
+
+🎤 SPEAKER_2 [1457s - 1458s]
+Mhmm. Has happened.
+
+🎤 SPEAKER_6 [1458s - 1459s]
+We know.
+
+🎤 SPEAKER_2 [1459s - 1459s]
+We see the story.
+
+🎤 SPEAKER_3 [1461s - 1462s]
+We see Jesus, and we know that. So it's
+
+🎤 SPEAKER_2 [1463s - 1463s]
+Yeah.
+
+🎤 SPEAKER_3 [1464s - 1465s]
+But then they have to trust in God within the By faith.
+
+🎤 SPEAKER_1 [1466s - 1467s]
+Yeah, it's good.
+
+🎤 SPEAKER_0 [1467s - 1468s]
+Very good.
+
+🎤 SPEAKER_3 [1469s - 1470s]
+And Julie was chatting the whole time in her table about god.
+
+🎤 SPEAKER_0 [1471s - 1473s]
+Was she was she helpful?
+
+🎤 SPEAKER_2 [1473s - 1473s]
+Mhmm. Yeah.
+
+🎤 SPEAKER_0 [1475s - 1478s]
+So, Elliot, do you remember anything about daddy's talk today?
+
+🎤 SPEAKER_7 [1479s - 1483s]
+Know it was quite I remember something. Forgives and
+
+🎤 SPEAKER_2 [1483s - 1484s]
+I know.
+
+🎤 SPEAKER_2 [1495s - 1496s]
+Number vingt.
+
+🎤 SPEAKER_2 [1500s - 1503s]
+Go on.
+
+🎤 SPEAKER_5 [1504s - 1517s]
+So I had my last squishy with me. And William was pretending he was gonna cut him. He's like, do you look? He had the in his hands, he had the scissors, he was like, He scissors it broke.
+
+🎤 SPEAKER_3 [1519s - 1522s]
+There was a William that cut it.
+
+🎤 SPEAKER_0 [1528s - 1529s]
+La soie.
+
+🎤 SPEAKER_2 [1537s - 1538s]
+Unfortunately.
+
+🎤 SPEAKER_5 [1541s - 1547s]
+And then and the no. Not in the Bible. In the story
+
+🎤 SPEAKER_4 [1547s - 1547s]
+Mhmm.
+
+🎤 SPEAKER_5 [1549s - 1558s]
+This over Vicky. At the start, it was, like, older brothers in the way, young brothers, and young brothers in the way, in older quadras.
+
+🎤 SPEAKER_0 [1558s - 1561s]
+Boah. Don't know about that. We don't see that in our house.
+
+🎤 SPEAKER_5 [1562s - 1569s]
+Sometimes older brothers take stuff from young brothers and tiny brothers sometimes takes yeah, too.
+
+🎤 SPEAKER_0 [1576s - 1582s]
+Right. So I thought you were to tell me something interesting about the story, but instead you were just using it to have a moment about William. Right?
+
+🎤 SPEAKER_2 [1582s - 1583s]
+I see.
+
+🎤 SPEAKER_0 [1588s - 1591s]
+You must remember something. Were you not listening baby? Because it's
+
+🎤 SPEAKER_7 [1591s - 1594s]
+No. I wasn't. It is. Ask me some questions. Know what I'm saying?
+
+🎤 SPEAKER_0 [1599s - 1603s]
+I remember A had a monkey It's not I really know that you were gonna be in there today. But either way I wouldn't necessarily I remember the one thing.
+
+🎤 SPEAKER_7 [1605s - 1611s]
+Questions, I'm not people that say anymore. They're like become peace with it. Don't know.
+
+🎤 SPEAKER_0 [1611s - 1612s]
+Oh, maybe? Yeah.
+
+🎤 SPEAKER_2 [1612s - 1613s]
+So I don't
+
+🎤 SPEAKER_5 [1613s - 1613s]
+want them.
+
+🎤 SPEAKER_0 [1614s - 1628s]
+You're Christian, mean that you live perfectly. You you will still make mistakes over everybody else. The difference is, because you've got the Holy living inside of you, you won't be at peace with your sin. That means you don't you won't be happy about it.
+
+🎤 SPEAKER_0 [1628s - 1637s]
+You'll be uncomfortable with it, and you'll hate it. And you don't want to sin, but you do. And that's a sign that you're a Christian because you got the holy spirit living inside of you.
+
+🎤 SPEAKER_2 [1637s - 1638s]
+Yeah.
+
+🎤 SPEAKER_0 [1642s - 1644s]
+We did upon you today, upon him today. Jude, do you sing that one?
+
+🎤 SPEAKER_0 [1649s - 1653s]
+No. The Wonderful That was and bended at a 40 which is their actual tempo.
+
+🎤 SPEAKER_2 [1666s - 1667s]
+But they're not.
+
+🎤 SPEAKER_3 [1668s - 1670s]
+Very worshipful in terms of No.
+
+🎤 SPEAKER_0 [1671s - 1680s]
+I know. And we've got quite a lot of them at the moment. Item 99 on my list that I want to sort out when I I'm planning as soon as I finish and have to have a little pause, a bit of break.
+
+🎤 SPEAKER_0 [1680s - 1690s]
+I'm gonna get a time schedule a time with wishbbleeders, schedule a time with the service leaders, schedule time with this that and the other and get things Just a little nudge here, a little reminder there.
+
+🎤 SPEAKER_0 [1691s - 1693s]
+A little thank you here, thank you there.
+
+🎤 SPEAKER_2 [1695s - 1698s]
+321. 123. No.
+
+🎤 SPEAKER_0 [1713s - 1719s]
+Not spend three years learning a kasakism. Let's just learn the lyrics of that song. That's just as good. The nice and greet.
+
+🎤 SPEAKER_6 [1732s - 1733s]
+No. Not continually, oh, yeah.
+
+🎤 SPEAKER_9 [1734s - 1735s]
+Take us through your syllabus.
+
+🎤 SPEAKER_0 [1737s - 1739s]
+What it means is we're having a break in the sun. Ow. Stop it.
+
+🎤 SPEAKER_2 [1740s - 1742s]
+You speak a book in the summer, don't you?
+
+🎤 SPEAKER_3 [1742s - 1743s]
+You do Psalms or something.
+
+🎤 SPEAKER_0 [1744s - 1748s]
+We're taking a break in the summer and at Christmas. A few other times throughout the year.
+
+🎤 SPEAKER_1 [1749s - 1751s]
+I'm seeing the summer you're putting to do it on a well, the Sams is too long.
+
+🎤 SPEAKER_3 [1752s - 1754s]
+No. It doesn't pick.
+
+🎤 SPEAKER_0 [1754s - 1756s]
+How many Sams are they ready at chicken?
+
+🎤 SPEAKER_7 [1757s - 1759s]
+I know there's, like, a 150 something pee.
+
+🎤 SPEAKER_2 [1760s - 1761s]
+$150?
+
+🎤 SPEAKER_0 [1761s - 1763s]
+Yeah. Saruman. Yeah. Correct. Hold on. Yeah. Wait.
+
+🎤 SPEAKER_2 [1764s - 1764s]
+Yeah.
+
+🎤 SPEAKER_0 [1764s - 1765s]
+Spit into $5.
+
+🎤 SPEAKER_3 [1766s - 1768s]
+Judy, you're gonna eat those sweatches.
+
+🎤 SPEAKER_2 [1768s - 1768s]
+No.
+
+🎤 SPEAKER_0 [1769s - 1771s]
+Thousands of years? No.
+
+🎤 SPEAKER_7 [1771s - 1775s]
+I'll read them my godly. Well, you know? What's in? I thought I'd know how many Met's
+
+🎤 SPEAKER_2 [1784s - 1785s]
+Goodbye.
+
+🎤 SPEAKER_2 [1789s - 1790s]
+No
+
+🎤 SPEAKER_2 [1793s - 1795s]
+12. That's it.
+
+🎤 SPEAKER_7 [1804s - 1806s]
+Batholamoo. Batholamoo.
+
+🎤 SPEAKER_3 [1806s - 1807s]
+No, I don't.
+
+🎤 SPEAKER_5 [1807s - 1807s]
+I like a oak.
+
+🎤 SPEAKER_0 [1807s - 1812s]
+Yeah. Bath on a mute. Do know what nickname of that is? That's a bath. You could be a Bart groaning.
+
+🎤 SPEAKER_5 [1813s - 1814s]
+Bart.
+
+🎤 SPEAKER_0 [1815s - 1816s]
+I'm so Oh, yeah. It looks like a Hey.
+
+🎤 SPEAKER_5 [1816s - 1818s]
+You're I'm a Simpson.
+
+🎤 SPEAKER_2 [1818s - 1819s]
+Yeah.
+
+🎤 SPEAKER_5 [1819s - 1820s]
+Yum yum yum.
+
+🎤 SPEAKER_7 [1821s - 1822s]
+You have been a scan.
+
+🎤 SPEAKER_5 [1822s - 1824s]
+I'm a Simpson.
+
+🎤 SPEAKER_0 [1839s - 1841s]
+Do you have any of those dairy do you have any of those dairy tablets for me?
+
+🎤 SPEAKER_1 [1842s - 1843s]
+Might hurt.
+
+🎤 SPEAKER_3 [1844s - 1845s]
+I don't know where. Because I ate my like gummin.
+
+🎤 SPEAKER_5 [1859s - 1862s]
+I thought you said look at Ana legs on toast.
+
+🎤 SPEAKER_2 [1862s - 1862s]
+What?
+
+🎤 SPEAKER_0 [1863s - 1868s]
+Again, for the third time. Keep negative comments to yourself. Thank you. Nobody wants to hear it.
+
+🎤 SPEAKER_2 [1868s - 1870s]
+No. That is a negative comment.
+
+🎤 SPEAKER_0 [1870s - 1871s]
+It is a bit.
+
+🎤 SPEAKER_5 [1872s - 1874s]
+Egg thingy. I don't like the eggs.
+
+🎤 SPEAKER_2 [1875s - 1875s]
+That's what negative.
+
+🎤 SPEAKER_5 [1875s - 1877s]
+We're gonna have eggs.
+
+🎤 SPEAKER_0 [1877s - 1879s]
+I don't You said you You said that. Juice.
+
+🎤 SPEAKER_2 [1879s - 1880s]
+You? Yeah. Yeah.
+
+🎤 SPEAKER_0 [1882s - 1885s]
+Remind you I remind you what you just said? You said? I don't like garmin.
+
+🎤 SPEAKER_2 [1885s - 1885s]
+I thought we have an egg on toast.
+
+🎤 SPEAKER_3 [1888s - 1892s]
+I did say after London, we're gonna have on toast every day, but then I really realized, because we didn't have clubs, actually.
+
+🎤 SPEAKER_3 [1895s - 1899s]
+This week was a good week to have a beer. So then next week will be a good week to have you
+
+🎤 SPEAKER_2 [1899s - 1900s]
+Which is this week?
+
+🎤 SPEAKER_3 [1901s - 1907s]
+Beans on toast eggs. Need to get daddy to learn how to do fried eggs or scrambled eggs.
+
+🎤 SPEAKER_0 [1909s - 1910s]
+Yeah. Come over.
+
+🎤 SPEAKER_3 [1911s - 1912s]
+Yeah. It's still very helpful.
+
+🎤 SPEAKER_2 [1912s - 1912s]
+It?
+
+🎤 SPEAKER_7 [1912s - 1913s]
+Because I want finish.
+
+🎤 SPEAKER_2 [1914s - 1915s]
+How they get I don't know.
+
+🎤 SPEAKER_3 [1916s - 1919s]
+You should set there are fish rings in there, but you'd set your world off life, and you're still thinking Friday.
+
+🎤 SPEAKER_3 [1923s - 1924s]
+It's pretty That's the only thing that I do.
+
+🎤 SPEAKER_7 [1924s - 1925s]
+That's the thing that can't when
+
+🎤 SPEAKER_2 [1930s - 1931s]
+Five.
+
+🎤 SPEAKER_3 [1931s - 1931s]
+Seven and a half.
+
+🎤 SPEAKER_7 [1931s - 1934s]
+I'm four. No. Yeah. No.
+
+🎤 SPEAKER_4 [1934s - 1934s]
+I'm four, seven and a half.
+
+🎤 SPEAKER_3 [1935s - 1936s]
+Two with it. No.
+
+🎤 SPEAKER_7 [1936s - 1937s]
+I'm five I I still I'm 5.
+
+🎤 SPEAKER_3 [1937s - 1939s]
+758. No.
+
+🎤 SPEAKER_5 [1939s - 1940s]
+I'm I'm four eleven.
+
+🎤 SPEAKER_0 [1942s - 1946s]
+We don't let's try and get out of mind the idea of feet. We don't do that more. We do centimeters.
+
+🎤 SPEAKER_7 [1946s - 1950s]
+I'm a hundred and seventy three centimetres. Is that? Why's a hundred seventy three?
+
+🎤 SPEAKER_2 [1951s - 1952s]
+No. Yeah?
+
+🎤 SPEAKER_5 [1952s - 1954s]
+I'm a hundred and fifty six.
+
+🎤 SPEAKER_7 [1954s - 1957s]
+I think a hundred and seventy. Mumma done a hundred and seventy on, like, one seven.
+
+🎤 SPEAKER_0 [1960s - 1962s]
+No. I'm one seventy three. You're one seventy two. Wait.
+
+🎤 SPEAKER_2 [1963s - 1965s]
+Wait. You're eighty two of them. Why are you five eight?
+
+🎤 SPEAKER_7 [1965s - 1968s]
+No. I'm 5 I'm five seven.
+
+🎤 SPEAKER_2 [1970s - 1970s]
+I'm seven.
+
+🎤 SPEAKER_7 [1971s - 1976s]
+Eight No. 57585. What is it now? Like that.
+
+🎤 SPEAKER_0 [1978s - 1983s]
+She not talking about about me just my searings, guys. Looks like What's that remind you of this?
+
+🎤 SPEAKER_6 [1983s - 1984s]
+The metal.
+
+🎤 SPEAKER_2 [1984s - 1985s]
+No. No. No.
+
+🎤 SPEAKER_7 [1985s - 1989s]
+You never a nan got from me for my birthday? Is that a big Mhmm. Like like the the metal.
+
+🎤 SPEAKER_2 [1989s - 1991s]
+Mom, do you have a type of piece in
+
+🎤 SPEAKER_5 [1993s - 1998s]
+You know that one up there. Stay there forever. Do you ever take it out?
+
+🎤 SPEAKER_0 [1999s - 2002s]
+Mommy used to have two up there, but she'd only got one at the minute. Alright.
+
+🎤 SPEAKER_1 [2002s - 2003s]
+We've all closed up.
+
+🎤 SPEAKER_0 [2005s - 2011s]
+She did have a trouble It would be really nice if you got a little ring. A little ring there. Look really really it looked really good on you.
+
+🎤 SPEAKER_2 [2011s - 2011s]
+Was there? No.
+
+🎤 SPEAKER_0 [2013s - 2013s]
+No.
+
+🎤 SPEAKER_2 [2013s - 2016s]
+I can't. Look to the ones you got.
+
+🎤 SPEAKER_7 [2016s - 2019s]
+One of my friends have has it tears in like yeah. Keep me too. No.
+
+🎤 SPEAKER_3 [2019s - 2020s]
+No. Like, like Yeah.
+
+🎤 SPEAKER_0 [2020s - 2023s]
+I know. But that bit The be that bit, a I would say.
+
+🎤 SPEAKER_7 [2023s - 2023s]
+That bit.
+
+🎤 SPEAKER_2 [2023s - 2026s]
+He got all sorts of things. He just flap the things. No.
+
+🎤 SPEAKER_7 [2026s - 2027s]
+No. No. No.
+
+🎤 SPEAKER_5 [2028s - 2028s]
+The Oh, that bit.
+
+🎤 SPEAKER_7 [2028s - 2031s]
+Oh, no. No. Wait. It's it's like the bit that goes that way.
+
+🎤 SPEAKER_3 [2031s - 2033s]
+Can can I a bit, please? Nope.
+
+🎤 SPEAKER_7 [2033s - 2036s]
+It's it's that way. Bit here? No. The the below that bit.
+
+🎤 SPEAKER_3 [2037s - 2040s]
+This bit? No. The the the that that bit there.
+
+🎤 SPEAKER_2 [2040s - 2041s]
+Yeah.
+
+🎤 SPEAKER_3 [2041s - 2042s]
+That bit there. Yeah.
+
+🎤 SPEAKER_7 [2044s - 2046s]
+You're looking Like, or like it's like a pass.
+
+🎤 SPEAKER_3 [2046s - 2046s]
+It was cool.
+
+🎤 SPEAKER_7 [2046s - 2047s]
+Didn't. Mom was fast.
+
+🎤 SPEAKER_2 [2048s - 2049s]
+None.
+
+🎤 SPEAKER_5 [2052s - 2056s]
+Called if you have a big ring? They call over your spaces.
+
+🎤 SPEAKER_0 [2058s - 2063s]
+Spaces or No. Really damage your ear doing that. Yeah. Once you've done that, you're committed to it forever and it's
+
+🎤 SPEAKER_0 [2067s - 2071s]
+Well, there's there's some parts of the Easter mall that do that, but other most people in the country do it for fashion.
+
+🎤 SPEAKER_3 [2073s - 2079s]
+Anyway, we're gonna have a little bit of time
+
+🎤 SPEAKER_2 [2080s - 2080s]
+No.
+
+🎤 SPEAKER_3 [2081s - 2083s]
+Before we go, because Omi needs to sit down.
+
+🎤 SPEAKER_2 [2083s - 2083s]
+Just gonna tidy.
+
+🎤 SPEAKER_3 [2084s - 2085s]
+Next. I've got Nuggets.
+
+🎤 SPEAKER_5 [2086s - 2087s]
+I'm gonna get changed after this.
+
+🎤 SPEAKER_2 [2088s - 2089s]
+Dinner.
+
+🎤 SPEAKER_0 [2089s - 2090s]
+Into what?
+
+🎤 SPEAKER_2 [2090s - 2090s]
+What?
+
+🎤 SPEAKER_5 [2090s - 2094s]
+To sports clothes because If you know about me, Yeah.
+
+🎤 SPEAKER_0 [2095s - 2103s]
+And jeans. Done for putting jeans on for today though, Jude. It was nice to see. And then you can get your sport shorts on, is it?
+
+🎤 SPEAKER_0 [2105s - 2106s]
+What's up to you?
+
+🎤 SPEAKER_2 [2106s - 2106s]
+What's up?
+
+🎤 SPEAKER_7 [2125s - 2127s]
+Most opposite thing like And Chris Poisson, like, over, like, anyone who's like three six, that's like an uncrash thing.
+
+🎤 SPEAKER_0 [2127s - 2134s]
+Yeah. Yeah. Call me I am he. You know, I am him. He is I. Call me Yunk. That's what I like to say.
+
+🎤 SPEAKER_2 [2134s - 2135s]
+Now guess what?
+
+🎤 SPEAKER_5 [2135s - 2140s]
+I got three subscribers. What? Me, my and I.
+
+🎤 SPEAKER_4 [2140s - 2141s]
+Nice.
+
+🎤 SPEAKER_2 [2141s - 2141s]
+Getting in my channel.
+
+🎤 SPEAKER_0 [2143s - 2144s]
+Right.
+
+🎤 SPEAKER_7 [2144s - 2147s]
+I've I've known to subscribe with them from new videos. 90? 90.
+
+🎤 SPEAKER_5 [2148s - 2150s]
+Oh. I thought you had 13.
+
+🎤 SPEAKER_7 [2150s - 2154s]
+Michael has, 1,500 You know I think he's, like, almost is is he?
+
+🎤 SPEAKER_7 [2156s - 2158s]
+Nick, do Is it like eight is it like 800,000 views?
+
+🎤 SPEAKER_0 [2159s - 2162s]
+And it gave up. You shouldn't ever launch that channel either if you're not gonna follow through on it.
+
+🎤 SPEAKER_7 [2162s - 2171s]
+No. The thing is is offers I've got a few real subscribers that are not like 've got like this guy called Enderman or something.
+
+🎤 SPEAKER_0 [2172s - 2178s]
+But you only done two videos then, though. It's I I I one of the videos is like I think you did it, you take them off of you. Yeah.
+
+🎤 SPEAKER_5 [2179s - 2181s]
+Hey, guess what. I am subscribed to you.
+
+🎤 SPEAKER_7 [2181s - 2182s]
+No, because I only did it.
+
+🎤 SPEAKER_7 [2186s - 2189s]
+Don't I was thinking it's I couldn't it's too much.
+
+🎤 SPEAKER_0 [2190s - 2194s]
+It's not like Do you know what would be nice right now would be a Mars ice cream. We're not at Lush. Had that the other day. Mummy had one as well.
+
+🎤 SPEAKER_7 [2196s - 2202s]
+You like it? It's for me now. Keep your native pants to yourself. If if I if I had a full jug I saw I'd call you now.
+
+🎤 SPEAKER_0 [2205s - 2205s]
+Yeah.
+
+🎤 SPEAKER_7 [2205s - 2225s]
+And I'm thinking of not not thinking of it's really like guys have conversion for the month? Like, $4.
+
+🎤 SPEAKER_0 [2227s - 2234s]
+That's a lot of money, you know. Right Eliot can you help me clear the table? Mommy can go and sit down now.
+
+🎤 SPEAKER_0 [2238s - 2244s]
+Come on, let's let's do this. Mean you.
+
+🎤 SPEAKER_0 [2260s - 2271s]
+So Chloe, we took Jacob's swimming, Rich, yesterday. And he was sick and he was sick eight times yesterday. It's like and so that's why they're not there today.
+
+🎤 SPEAKER_0 [2272s - 2280s]
+The flooding men She was like Not for the Yeah. She called Steve and say, Steve, can you bring over dad, can you over some baby grows? We've we've ruined all ours.
+
+🎤 SPEAKER_0 [2281s - 2283s]
+And seems like I would, but I've had a bit to drink. I'm now over
+
+🎤 SPEAKER_0 [2289s - 2291s]
+Eddie, you're you, though. You haven't me tidy yet.
+
+🎤 SPEAKER_0 [2308s - 2313s]
+Alright, Can you no, mommy. Not you. Not you. Not you. Come on,
+
+🎤 SPEAKER_6 [2313s - 2313s]
+Elliot.
+
+🎤 SPEAKER_7 [2313s - 2315s]
+Put the can you I'm putting the Elliot, Elliot, stop.
+
+🎤 SPEAKER_0 [2315s - 2318s]
+Listen, Tom tell you to do. No. I'm doing that.
+
+🎤 SPEAKER_3 [2319s - 2320s]
+Want you to put the cutlery in.
+
+🎤 SPEAKER_0 [2321s - 2322s]
+And then the in please.
+
+🎤 SPEAKER_0 [2331s - 2337s]
+Just do the cutlery And never look. Is there anything anything big on the plate? Yeah. Needs to on the food then. Yeah.
+
+🎤 SPEAKER_6 [2342s - 2342s]
+Alright.
+
+🎤 SPEAKER_2 [2351s - 2352s]
+Yeah.
+
+🎤 SPEAKER_7 [2413s - 2416s]
+The like as a result, they drink a All the all the stuff passed through on the No.
+
+🎤 SPEAKER_0 [2416s - 2420s]
+The rest of the come on. That and that can go in. That can go in.
+
+🎤 SPEAKER_0 [2453s - 2455s]
+That worked really well as well with chocolate.
+
+🎤 SPEAKER_2 [2455s - 2456s]
+Got it.
+
+🎤 SPEAKER_0 [2457s - 2458s]
+Your meal plan.
+
+🎤 SPEAKER_3 [2460s - 2463s]
+I think it was handy because no one's going to clubs. Yeah.
+
+🎤 SPEAKER_0 [2466s - 2467s]
+That does make it harder.
+
+🎤 SPEAKER_0 [2476s - 2477s]
+That was very necessary, isn't it?
+
+🎤 SPEAKER_2 [2477s - 2478s]
+Like
+
+🎤 SPEAKER_0 [2501s - 2514s]
+so I Is that matching dragons? Shoot?
+
+🎤 SPEAKER_2 [2514s - 2517s]
+Yeah. Nice.
+
+🎤 SPEAKER_3 [2539s - 2542s]
+And he's in Cadixton, but it's five thirty is a bit better.
+
+🎤 SPEAKER_2 [2543s - 2543s]
+Yeah.
+
+🎤 SPEAKER_0 [2545s - 2546s]
+Is it for an hour or forty five?
+
+🎤 SPEAKER_4 [2556s - 2557s]
+Yeah.
+
+🎤 SPEAKER_0 [2557s - 2569s]
+Well, if you could also just do the basketball just for a few more weeks until until I get my exams done. I know it's a lot but not really that much.
+
+🎤 SPEAKER_0 [2580s - 2582s]
+Let's see if the da, so that's my usual duties for a lot of it.
+
+🎤 SPEAKER_0 [2586s - 2657s]
+He's very good mister Greenough in terms of keeping track on kids who's I asked.
+
+🎤 SPEAKER_2 [2658s - 2658s]
+Said that
+
+🎤 SPEAKER_6 [2662s - 2662s]
+Yeah.
+
+🎤 SPEAKER_0 [2663s - 2666s]
+They won't the walkers go until he's clocked that they've gone individually.
+
+🎤 SPEAKER_2 [2666s - 2666s]
+Yeah.
+
+🎤 SPEAKER_0 [2670s - 2678s]
+So what are trying to do with this? How how do we dispose of this? Is it just going general rubbish? Juices.
+
+🎤 SPEAKER_6 [2678s - 2679s]
+Yeah.
+
+🎤 SPEAKER_2 [2679s - 2680s]
+I need sugar with it.
+
+🎤 SPEAKER_0 [2684s - 2686s]
+I'm sure you're gonna get ones cooking cookies.
+
+🎤 SPEAKER_11 [2692s - 2739s]
+Hi.
+
+🎤 SPEAKER_0 [2739s - 2743s]
+Do you know where Olivia's mom and dad wait for her? Done there.
+
+🎤 SPEAKER_2 [2743s - 2746s]
+Wait. Why can't I just play for her?
+
+🎤 SPEAKER_0 [2746s - 2752s]
+Well, listen. If you get out before me and Harry and all that are playing football you can play football for bit. Don't mind you doing that in the summer term and wait for Elliott to then.
+
+🎤 SPEAKER_5 [2753s - 2753s]
+I just
+
+🎤 SPEAKER_0 [2756s - 2756s]
+No.
+
+🎤 SPEAKER_7 [2756s - 2757s]
+I'm not. Thank you.
+
+🎤 SPEAKER_2 [2771s - 2772s]
+Oh, mate. Should we have food bit?
+
+🎤 SPEAKER_0 [2772s - 2773s]
+Know. Sorry.
+
+🎤 SPEAKER_2 [2775s - 2775s]
+Omi.
+
+🎤 SPEAKER_0 [2779s - 2780s]
+Fortunately, the food bin disintegrated.
+
+🎤 SPEAKER_2 [2788s - 2792s]
+Alright. Yeah. Well,
+
+🎤 SPEAKER_2 [2804s - 2805s]
+What?
+
+🎤 SPEAKER_5 [2805s - 2806s]
+Did you just make a pickle? Did you wear those
+
+🎤 SPEAKER_5 [2846s - 2847s]
+She's I think it's not short.
+
+🎤 SPEAKER_0 [2848s - 2849s]
+Right.
+
+🎤 SPEAKER_2 [2849s - 2849s]
+K.
+
+🎤 SPEAKER_1 [2850s - 2852s]
+Do you see the hole if that is?
+
+🎤 SPEAKER_0 [2852s - 2857s]
+Yeah. It is. Yeah. Sorry. I just need to go to the lumen. I'm back in a sec.
+
+🎤 SPEAKER_2 [2857s - 2858s]
+Yeah.
+
+🎤 SPEAKER_0 [2865s - 2875s]
+Yeah. Well, yeah. I'm mostly back to normal now, Rachel. I'm, like, 99% normal. Know where you are, where things, but
+
+🎤 SPEAKER_2 [2875s - 2876s]
+Yeah.
+
+
+---
+
