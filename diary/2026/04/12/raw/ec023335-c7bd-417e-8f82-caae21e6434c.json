@@ -1,0 +1,236 @@
+{
+  "id": "ec023335-c7bd-417e-8f82-caae21e6434c",
+  "created_at": "2026-04-12T13:32:24.778750+00:00",
+  "started_at": "2026-04-12T13:28:22.334167+00:00",
+  "finished_at": "2026-04-12T13:34:16.742007+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Family Picnic Plans and Inviting Mum",
+    "overview": "The speaker talks through plans for a small picnic gathering with kids and cake, likely organized by someone named Anna. They are torn because they previously promised to spend time with their mum that day. They consider asking their wife if their mum can join the picnic, wanting to phrase the request in a way that doesn’t sound presumptuous or as if they’re inviting themselves, but instead frames it as their mum loving to come and reassuring that Anna would be fine with it.",
+    "emoji": "🥪",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "365b2880-bf73-4f9f-b9be-2a63d04e59e9",
+      "text": "Yeah?",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": -5.040878932049964e-07,
+      "end": 0.479999495912125,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "21c5b372-4708-45a4-baa9-b8ba07dd7048",
+      "text": "She's gonna do a little poor picnicky thing.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 303.7991241182649,
+      "end": 306.2790241182647,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e6783fba-c54e-434f-a0ea-915267f21265",
+      "text": "Bring the little ones. Cake",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 307.0793241182646,
+      "end": 308.2791241182649,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4e4c3fea-dd8a-4748-8dff-16dfd96fd8a0",
+      "text": "Yeah. People.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 313.8791241182648,
+      "end": 314.35912411826484,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "530e79b1-c0ea-476e-8a31-5b626b412a8e",
+      "text": "But I promise I said to my mom I would do something with her.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 317.1191241182646,
+      "end": 319.4391241182648,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "95bd4770-7bbb-4468-baa4-513c6299fc85",
+      "text": "Yeah. I think it's cheeky to say Come on, mum.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 320.5291241182649,
+      "end": 322.20912411826475,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7f86e4ff-1ccb-43b9-bdc6-5a7c7fa56199",
+      "text": "Come. Yeah. No. Don't think so. Just say or just a thought, Alan.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 323.75912411826494,
+      "end": 328.199124118265,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "986d7814-cd2e-40f6-8b53-74a86074fdef",
+      "text": "Yeah. I'll just say, I'd I'd say to my wife, I'm day with her, you mind if she comes?",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 328.199124118265,
+      "end": 331.1591241182646,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8e409e1a-cde6-4ac3-8680-f18a23613045",
+      "text": "Would",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 331.679124118265,
+      "end": 332.7991241182649,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "1e65de92-dc6a-417b-bd77-05a2abf0b11f",
+      "text": "it is really cheap?",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 333.23912411826495,
+      "end": 334.1191241182646,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3ca1c2cc-21b7-4e70-a4f7-d4f3e6e83e57",
+      "text": "Ask if she could come? My mum would love it.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 334.4391241182648,
+      "end": 335.6391241182646,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8b312e7d-3634-4fbe-9943-17277e66b503",
+      "text": "She would. She'd be and Anna would be fine with that.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 336.1191241182646,
+      "end": 338.1191241182646,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c653e8d1-925b-4426-90de-d50ac0617e5f",
+      "text": "Make sure it doesn't sound like you're Well, I don't I would like to come, but a prosumer man",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 349.3874479498586,
+      "end": 353.4374479498588,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156754,
+    "longitude": -3.2755666,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "7b786b11-a0c3-4a87-a2a3-e60f0f3c07dc",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "ec023335-c7bd-417e-8f82-caae21e6434c",
+      "chunk_timestamps": [
+        1776000743.629,
+        1776000803.829,
+        1776000864.635
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-12T13:32:23.629000+00:00",
+      "duration": 241.40800000000002
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Planning the picnic\n- Small picnic planned with kids and cake  \n- Other people will be there at the picnic  \n\n## Conflict with prior commitment\n- Person already promised to spend the day with mum  \n- Unsure if inviting mum is appropriate or \"cheeky\"  \n\n## Suggested solution\n- Ask wife if mum can join the picnic  \n- Emphasize mum would love it and enjoy it  \n- Ensure request doesn’t sound reluctant or half‑hearted  \n\n## Next steps\n- Talk to wife and ask if mum can come  \n- Frame it positively, not like an obligation"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
