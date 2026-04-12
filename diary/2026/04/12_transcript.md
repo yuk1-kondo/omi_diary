@@ -580,3 +580,239 @@ Sin.
 
 ---
 
+
+
+## 📝 Family Prepares For Church Sunday Morning - a6b64f4a-39c6-4b93-8e58-2f374cfb47de
+
+**記録時間**: 2026-04-12 17:22:01
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 3s]
+Nice. I got it. Got the key card.
+
+🎤 SPEAKER_0 [10s - 11s]
+Start gathering stuff.
+
+🎤 SPEAKER_1 [59s - 70s]
+I would like some training for the boys on you, and I know why I'm accepting it when she was 10. 10. Like, you go this is all, like, sticky and nasty. Like, I understand Oscar.
+
+🎤 SPEAKER_1 [71s - 78s]
+But ours is generally just dust. So I don't mind that, but it's like orange and sticky.
+
+🎤 SPEAKER_0 [78s - 80s]
+No. It's a bit rough. What which one are you talking about?
+
+🎤 SPEAKER_1 [80s - 83s]
+The cord you're upstairs. But, yeah, it happens downstairs as well.
+
+🎤 SPEAKER_0 [84s - 86s]
+Mean, any of that more often Because they're grocers,
+
+🎤 SPEAKER_2 [86s - 87s]
+I don't think I'd use that one too much.
+
+🎤 SPEAKER_0 [88s - 89s]
+It doesn't do that.
+
+🎤 SPEAKER_1 [91s - 93s]
+It does. I can't imagine it's perfect.
+
+🎤 SPEAKER_0 [95s - 104s]
+What I mean is his preference is not to have to poo in that toilet. It's often found in the downstairs toilet. For a very long time.
+
+🎤 SPEAKER_0 [114s - 120s]
+Well, I know if it's a bad idea just to model that as well and just have a principal look. Maybe take a book in if you want.
+
+🎤 SPEAKER_1 [122s - 124s]
+Or I I don't really want to go in for a long appointment for teaching.
+
+🎤 SPEAKER_0 [125s - 212s]
+For the third and final time,
+
+🎤 SPEAKER_0 [217s - 223s]
+Elliot, no, don't leave it on. That's waste electricity. Can you just press the no. Not. I'm going now in a minute. Alright. Because I gotta get there early today.
+
+🎤 SPEAKER_3 [224s - 225s]
+You always go early.
+
+🎤 SPEAKER_0 [225s - 231s]
+It's like ten minutes early, Elliot. Come down. I'm hoping next week. It's ten minutes different, so you haven't got time to do anything in ten minutes. Just enough.
+
+🎤 SPEAKER_0 [237s - 239s]
+Well, son's mommy gets a a team sorted.
+
+🎤 SPEAKER_0 [243s - 256s]
+Week, we have been getting out. 10:30. You can't go 10:30. Saw kids church out, can you? Yes. Can.
+
+🎤 SPEAKER_1 [257s - 260s]
+Right. Twenty past ten. Yeah. I've got it doesn't take it's supposed to go organize doing our resources for free.
+
+🎤 SPEAKER_0 [260s - 263s]
+No. No. It's very long.
+
+🎤 SPEAKER_1 [263s - 268s]
+We come up every week to help So and it and for weeks now, it has been
+
+🎤 SPEAKER_4 [269s - 270s]
+Weeks.
+
+🎤 SPEAKER_1 [270s - 272s]
+There early every single time. Yeah.
+
+🎤 SPEAKER_4 [278s - 279s]
+I've been singing. Right.
+
+🎤 SPEAKER_1 [280s - 285s]
+It was always fashion. Like, this week, I'm not singing, but we need my help for setting up So Right.
+
+🎤 SPEAKER_0 [291s - 302s]
+Yeah. I need a minimal amount of stuff to take as possible.
+
+🎤 SPEAKER_2 [305s - 312s]
+I'll tell you why. Because there's three of you and there's one of me. No. So I end up doing three trips back and forth. Just you got Elliot and Jude?
+
+🎤 SPEAKER_2 [315s - 321s]
+No. I'm talking about from the car, Rachel. No. You got Elliot and Jude with you.
+
+🎤 SPEAKER_4 [321s - 322s]
+So come on.
+
+🎤 SPEAKER_0 [326s - 338s]
+So Sky Sportsman.
+
+🎤 SPEAKER_1 [340s - 342s]
+Engaged It's just you from channel.
+
+🎤 SPEAKER_0 [342s - 345s]
+Is it eleven minutes? I can't. I'm gonna talk to your chef.
+
+🎤 SPEAKER_2 [363s - 370s]
+No. You don't no. You haven't got loads of steak, and I do take a lot, Rachel. Anyway, why is it a competition anyway? Understand what's happening.
+
+🎤 SPEAKER_2 [375s - 388s]
+No. I'm not I'm just not really. You didn't really hear my reasons then. It's not entitled you didn't hear my reasons, did you then? If you're not really you haven't really been You didn't.
+
+🎤 SPEAKER_5 [389s - 390s]
+You've got any other dude, and I don't wanna be doing three trips back up.
+
+🎤 SPEAKER_2 [392s - 394s]
+Well, that's exactly it.
+
+🎤 SPEAKER_4 [394s - 395s]
+Saying, yeah.
+
+🎤 SPEAKER_2 [395s - 410s]
+Often, it takes me three or four minutes, and then I'm three or four minutes even later, and Steven Johnny upstairs going, so you got you got three p you got two three people in your car Stop. Three people in your car. One person in my car. Just get your boys to do your bits. I'll take my bits. Alright? Three? Yes.
+
+🎤 SPEAKER_1 [410s - 419s]
+I was only talking about the coffee. And I said, actually, I'll take But also, Louise, the reason Steve and Johnny a fit in the house are like, is you don't park up until ten two anyway.
+
+🎤 SPEAKER_2 [419s - 419s]
+Well, that's still doing
+
+🎤 SPEAKER_2 [424s - 426s]
+Well That's simple, isn't it?
+
+🎤 SPEAKER_1 [426s - 428s]
+That's not simple because you've got loads of stuff in the car.
+
+🎤 SPEAKER_2 [431s - 434s]
+That's the It adds three, four, five minutes on to the actual time that arrives.
+
+🎤 SPEAKER_0 [434s - 436s]
+Yeah.
+
+🎤 SPEAKER_2 [436s - 446s]
+So when there's three of it wait. Stop. Stop. Babe, you what are you starting to fight for? If you think about it logically, I'm logically correct.
+
+🎤 SPEAKER_2 [446s - 455s]
+There's three of you from the in the car, that means one trip each. Or me, Three trips. What which is the most logical?
+
+🎤 SPEAKER_1 [455s - 456s]
+Can I tell you what I would call?
+
+🎤 SPEAKER_2 [456s - 458s]
+Which is the most logical? And so me.
+
+🎤 SPEAKER_1 [458s - 458s]
+Please.
+
+🎤 SPEAKER_2 [458s - 460s]
+Answer me, woman.
+
+🎤 SPEAKER_5 [460s - 460s]
+No.
+
+🎤 SPEAKER_2 [462s - 462s]
+Answer me.
+
+🎤 SPEAKER_4 [462s - 463s]
+Race.
+
+🎤 SPEAKER_2 [467s - 471s]
+Honey, I would choose every week to get there Don't don't don't turn arguments now. We're about to go church.
+
+🎤 SPEAKER_1 [471s - 474s]
+You just said ask me, woman. For me, every single week, I would choose to get their early Come on, man.
+
+🎤 SPEAKER_2 [476s - 478s]
+That's what you say to me. Come on, babe. Don't don't make a variable.
+
+🎤 SPEAKER_1 [479s - 484s]
+I would choose to get there early. I'm the one who to get everyone out of the house.
+
+🎤 SPEAKER_3 [484s - 484s]
+Oh, wait.
+
+🎤 SPEAKER_4 [485s - 485s]
+Week.
+
+🎤 SPEAKER_2 [486s - 486s]
+You're not have it.
+
+🎤 SPEAKER_4 [486s - 490s]
+Babe. Stop it.
+
+🎤 SPEAKER_2 [490s - 493s]
+We go together for for been together every week for ages now. Stop it.
+
+🎤 SPEAKER_2 [496s - 500s]
+It's not really worth setting an argument just before we go to church.
+
+🎤 SPEAKER_2 [505s - 514s]
+Oh, babe. I told you. Wait. You asked me to take the coffee and I give you my reasons why I'd rather not. That's a fair legitimate reason.
+
+🎤 SPEAKER_2 [515s - 516s]
+Worth having a hour over.
+
+🎤 SPEAKER_4 [535s - 535s]
+Right.
+
+🎤 SPEAKER_2 [536s - 545s]
+Tjuice. Beast, get your I'm gonna bring your shoes to you. Want you to put mine. Okay? You brushed your teeth yet? Have you brushed your teeth yet?
+
+🎤 SPEAKER_2 [546s - 547s]
+Go and do that now quick.
+
+🎤 SPEAKER_2 [551s - 558s]
+Put these on. Put these on in Gumber Steve.
+
+🎤 SPEAKER_4 [580s - 582s]
+Quantitude Que baste tu?
+
+🎤 SPEAKER_2 [584s - 586s]
+Good push tooth quick. Give me cuddle and go in.
+
+🎤 SPEAKER_4 [586s - 587s]
+Jude.
+
+🎤 SPEAKER_2 [588s - 596s]
+Bye, Jude. Owie. Well, I'm gonna go then. Jude's come back to by now. Yeah. Jude's well, Jude's come back to Brush's Teeth now.
+
+🎤 SPEAKER_4 [613s - 614s]
+Meat is connected.
+
+
+---
+
