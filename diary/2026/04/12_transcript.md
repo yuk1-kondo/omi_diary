@@ -816,3 +816,818 @@ Meat is connected.
 
 ---
 
+
+
+## 📝 Church Team Sets Up Sunday Service - fb813953-1413-47f4-8362-33215906d633
+
+**記録時間**: 2026-04-12 17:39:51
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 135s]
+Omi hate my sin. A bit closer.
+
+🎤 SPEAKER_0 [139s - 146s]
+Just in touch more.
+
+🎤 SPEAKER_0 [150s - 161s]
+Keep going. You got by that much? Hey, John.
+
+🎤 SPEAKER_0 [164s - 175s]
+Morning, everyone. Thank you John. Morning. Just trying to maximize the space. Every week we have people moaning at me about lack of space. So thanks, John. How are you mate? Okay? Good. Yes. Morning, Mish.
+
+🎤 SPEAKER_0 [176s - 178s]
+On Tim. Hello Tim. Good to see you.
+
+🎤 SPEAKER_0 [181s - 184s]
+How are you, Mish? Are you okay? Good.
+
+🎤 SPEAKER_0 [192s - 196s]
+Song by the way. Very fun. Very fun. Very catchy.
+
+🎤 SPEAKER_1 [198s - 199s]
+Did you use the Latin version or the other one?
+
+🎤 SPEAKER_0 [199s - 208s]
+I I went for the other one in the end. Yeah. Only because trying to keep a coat a consistent sound overall Yeah. In genre wise.
+
+🎤 SPEAKER_0 [208s - 219s]
+But it was in in some ways, it was perfect length. Because we can't go on forever in church. But I can imagine that could go on for a good four or five minutes and good fun. But I did enjoy the Latin one as well.
+
+🎤 SPEAKER_0 [220s - 223s]
+I did enjoy the Latin version as well. Yeah.
+
+🎤 SPEAKER_1 [233s - 234s]
+You have on.
+
+🎤 SPEAKER_0 [243s - 250s]
+Could you refereed the football match overnight, John? Hold on. She said you did the it's good to see you kind of thing.
+
+🎤 SPEAKER_0 [253s - 255s]
+Oh, nice and clean in here.
+
+🎤 SPEAKER_0 [259s - 261s]
+Sure. Lift is back in use or not. Maybe.
+
+🎤 SPEAKER_1 [276s - 276s]
+I Denise.
+
+🎤 SPEAKER_0 [277s - 286s]
+How would you get in here? Dave, is it? How'd you get in the building? Dave let you in? Very good. So Ryan is not coming this morning? No.
+
+🎤 SPEAKER_0 [286s - 295s]
+No. You should probably not happy about that, but I told him to go and get a breakfast, go and have a coffee, have a lion, do something else.
+
+🎤 SPEAKER_0 [296s - 303s]
+Just to enjoy. You know? So it's a good example for the rest of the team as well. Sets a good example for the rest of the team.
+
+🎤 SPEAKER_0 [303s - 316s]
+About about the need to rest. Right. Many do you have normally? Two? Two. Yeah. Two long wings? No. And a small one? And a small one goes on the other end, is it? This end. Right.
+
+🎤 SPEAKER_0 [319s - 321s]
+Who's who's coming to help today in the hospital?
+
+🎤 SPEAKER_1 [322s - 323s]
+Debs.
+
+🎤 SPEAKER_0 [323s - 327s]
+Hopefully. Alright. Okay.
+
+🎤 SPEAKER_1 [328s - 329s]
+Very good.
+
+🎤 SPEAKER_0 [333s - 337s]
+Good. Good. Well, Ben Nurse is gonna come up and do the chasing a bit.
+
+🎤 SPEAKER_0 [351s - 352s]
+Sorry, John.
+
+🎤 SPEAKER_0 [356s - 366s]
+So it gets stacked. Is it, John? Yeah. Yeah. Alright. Two banners there?
+
+🎤 SPEAKER_1 [366s - 367s]
+No.
+
+🎤 SPEAKER_0 [367s - 368s]
+No. It's fine. You got him? Alrighty.
+
+🎤 SPEAKER_0 [376s - 378s]
+We choose use two little ones, we? Yeah.
+
+🎤 SPEAKER_1 [379s - 380s]
+Two little ones by year.
+
+🎤 SPEAKER_0 [381s - 381s]
+Yes.
+
+🎤 SPEAKER_0 [384s - 386s]
+Yeah. Alrighty.
+
+🎤 SPEAKER_0 [395s - 404s]
+That will be for communion that one, don't you? I think. Yeah. And it will, Denise, it'll go against the wall by where those chairs are now.
+
+🎤 SPEAKER_0 [404s - 408s]
+We've put the catechism boards where that is
+
+🎤 SPEAKER_0 [412s - 440s]
+Their nurse is gonna come down it goes a long way around. Okay.
+
+🎤 SPEAKER_1 [444s - 448s]
+Has the thing arrived?
+
+🎤 SPEAKER_0 [448s - 451s]
+Again, No. Spondon, is it? Gone forever.
+
+🎤 SPEAKER_0 [457s - 466s]
+So Yes. Right. It was a bit of a shambles, wasn't it? Right. Let me go and get that door. You're the door, Denise. See you? Yeah.
+
+🎤 SPEAKER_0 [467s - 467s]
+Excellent.
+
+🎤 SPEAKER_0 [474s - 530s]
+Hey, nice. Okay?
+
+🎤 SPEAKER_1 [530s - 530s]
+Yeah.
+
+🎤 SPEAKER_0 [531s - 539s]
+Good. Feeling good. Feeling good. Oh. Uh-oh. Okay. That's fine. Hello, Deb. You okay?
+
+🎤 SPEAKER_1 [540s - 541s]
+Good.
+
+🎤 SPEAKER_0 [542s - 546s]
+Alright. I'm gonna take a small table up there now. Put
+
+🎤 SPEAKER_0 [575s - 582s]
+Benders is gonna come and help Bend nurse is coming on his way down now. To help do the heavy lugging. So feel free to direct.
+
+🎤 SPEAKER_1 [582s - 583s]
+Right.
+
+🎤 SPEAKER_0 [583s - 592s]
+And there's no in some ways, as long as it's set up before twenty two, if he comes quarter pass, still doesn't matter in terms of getting the seats out on time.
+
+🎤 SPEAKER_0 [592s - 599s]
+So let's just not kill yourself often. Allow Ben to use his big muscles.
+
+🎤 SPEAKER_1 [599s - 599s]
+Yeah.
+
+🎤 SPEAKER_0 [599s - 608s]
+And so what we'll do, we'll just hold off on the chairs for this week until he arrives. Unless you got nothing unless you want I mean, the media needs setting up if that's something you interested in doing.
+
+🎤 SPEAKER_0 [609s - 616s]
+You don't have to. We might have to do what we did last week. Again, and stack the boxes. Yeah. Which is a bit of a bit of a shame.
+
+🎤 SPEAKER_1 [627s - 628s]
+Nice.
+
+🎤 SPEAKER_0 [629s - 632s]
+Are these ready to go upstairs, Shawn, these ones? Or do you want a second more?
+
+🎤 SPEAKER_1 [632s - 633s]
+Yeah.
+
+🎤 SPEAKER_0 [633s - 635s]
+Yeah. These are all for the kitchen, are they these ones?
+
+🎤 SPEAKER_0 [685s - 688s]
+I got them here now. Let's see, mate. They've had to go up the lift.
+
+🎤 SPEAKER_1 [688s - 689s]
+Come in there.
+
+🎤 SPEAKER_2 [689s - 693s]
+Well, I've got for you, Take me. Okay. It's decaf combo.
+
+🎤 SPEAKER_0 [701s - 711s]
+You're put that, Ejun? Yeah. Yeah. That's starving. Brave but daring. How many times that thing breaks? You wanna come and help for me for a little bit?
+
+🎤 SPEAKER_0 [712s - 714s]
+You're big and strong now.
+
+🎤 SPEAKER_0 [718s - 722s]
+How are you mate?
+
+🎤 SPEAKER_1 [722s - 723s]
+Good.
+
+🎤 SPEAKER_0 [723s - 732s]
+I'm good. How about you? Yeah. Get get yeah. Good. What can I say? I'm feeling I'm feeling I'm having stress dreams every night, but that's normal. Hello?
+
+🎤 SPEAKER_3 [733s - 734s]
+You need the coffee.
+
+🎤 SPEAKER_0 [735s - 738s]
+Which right? Okay. Coffee. These these things.
+
+🎤 SPEAKER_2 [739s - 740s]
+Okay.
+
+🎤 SPEAKER_0 [740s - 749s]
+Yeah. Tick. Alright then. Well, the knees go up anyway, so take those off because they're not the right thing. No. Par for court it is Ben and Sam here, mate.
+
+🎤 SPEAKER_1 [749s - 749s]
+Thank you.
+
+🎤 SPEAKER_0 [750s - 769s]
+And it's the same it's the same dream, past or all situation where I sit down with a certain We don't have pans today. It's just Oh, yes. Okay. Good. Who got in the team today? Me, you. That's Omi, you, Richard. Rickson, bass. Oh, hi. Cool. If you remember. Yes. I remember.
+
+🎤 SPEAKER_0 [769s - 786s]
+Yeah. Well, if he remembers. Yeah. Hopefully, he will. That's fun. Like a three piece from all that, innit? Yeah. Right. So what are looking for, my love? I wanna slot this back in then if I can. Oh. In fact, that needs to come out. So, actually, I'll just do that for a sec. Yeah.
+
+🎤 SPEAKER_2 [786s - 787s]
+Yeah.
+
+🎤 SPEAKER_0 [787s - 789s]
+These boxes are So is in the way now of what Ben's doing, which is Everything is.
+
+🎤 SPEAKER_2 [789s - 790s]
+Move it out.
+
+🎤 SPEAKER_1 [790s - 790s]
+Move it out.
+
+🎤 SPEAKER_0 [792s - 793s]
+No. Hang on. Hang on. That's fine.
+
+🎤 SPEAKER_0 [798s - 800s]
+Okay. I've got my own drawers, but that's fine. I can do that for you my suite.
+
+🎤 SPEAKER_1 [804s - 805s]
+Where's this go? With Troomson No.
+
+🎤 SPEAKER_0 [806s - 811s]
+I'm happy to. Happy to. Where's it going? It's treasury. But the big the big
+
+🎤 SPEAKER_0 [814s - 819s]
+No, That's alright. Is it the big room, Rich? Yeah. That is the kids room, I guess.
+
+🎤 SPEAKER_0 [823s - 827s]
+Thank you, buddy. You can help.
+
+🎤 SPEAKER_1 [833s - 834s]
+Excuse me.
+
+🎤 SPEAKER_0 [835s - 837s]
+Excuse me. Right. You carry on doing what you're doing.
+
+🎤 SPEAKER_2 [851s - 870s]
+Come back.
+
+🎤 SPEAKER_1 [907s - 908s]
+Excuse me.
+
+🎤 SPEAKER_2 [910s - 913s]
+You have to So I've asked you to help. He has help.
+
+🎤 SPEAKER_1 [913s - 914s]
+But this is when I'm in the Off off off that.
+
+🎤 SPEAKER_0 [916s - 922s]
+Juju, please don't do that in church. Turn it off now. Fifteen minutes of having turn off, please.
+
+🎤 SPEAKER_1 [930s - 935s]
+Just Okay. Okay. I don't know. I shouldn't have to ask. I should okay, Right.
+
+🎤 SPEAKER_0 [935s - 940s]
+You just you well done. You just avoided having your first due Good job. Don't treat it like that.
+
+🎤 SPEAKER_0 [950s - 955s]
+Oh, Sorry. I'll do it. Two tickets to the gun show there.
+
+🎤 SPEAKER_0 [964s - 966s]
+They got in the corridor, but they don't seem to be often used.
+
+🎤 SPEAKER_0 [970s - 972s]
+Let me get into this bit here, Rachel, if I can.
+
+🎤 SPEAKER_0 [985s - 990s]
+No keyboard today. No keyboard. Bass instead? Which would fun.
+
+🎤 SPEAKER_1 [995s - 1042s]
+Health down.
+
+🎤 SPEAKER_0 [1043s - 1045s]
+Before you get yourself into a due to rules.
+
+🎤 SPEAKER_1 [1047s - 1050s]
+Okay. Okay. I'll have a I I will have a chat with him.
+
+🎤 SPEAKER_2 [1051s - 1053s]
+Do you I think June, we're gonna start his think, helping my mummy say it, they would have a bit of Just just my voice is just crack on.
+
+🎤 SPEAKER_0 [1056s - 1058s]
+Can you carry out? Is that too early for you?
+
+🎤 SPEAKER_2 [1059s - 1063s]
+I you every single week. But Elliot does it.
+
+🎤 SPEAKER_0 [1064s - 1069s]
+Well, he is now. He's doing more than you. You'll do more than you because he's older than you. Go on. Is this too heavy for you? Yes or no?
+
+🎤 SPEAKER_0 [1070s - 1079s]
+You sure? Alright. Take this. Can you these break and snap very, very easily so they can't be hit walls or anything. Gonna put it gently by where the communion is from, Jesus.
+
+🎤 SPEAKER_0 [1083s - 1085s]
+They do snap and break. Yeah.
+
+🎤 SPEAKER_0 [1106s - 1109s]
+Rachel, are we these coming out then, these ones?
+
+🎤 SPEAKER_2 [1109s - 1110s]
+I'd say that I don't know. I'm gonna leave them there and then I'll ask her when she's here.
+
+🎤 SPEAKER_4 [1112s - 1112s]
+Okay.
+
+🎤 SPEAKER_2 [1112s - 1114s]
+Only because sometimes That's fine.
+
+🎤 SPEAKER_0 [1115s - 1117s]
+Maybe. They don't know. We don't know if they use any of these.
+
+🎤 SPEAKER_2 [1117s - 1124s]
+They are used. I didn't know whether Stair gonna check this out. But, actually, I'm just thinking, maybe because in here, his hemorrhoosy, bathing to go through.
+
+🎤 SPEAKER_1 [1135s - 1136s]
+Yeah.
+
+🎤 SPEAKER_0 [1149s - 1151s]
+Just said you I just said you had a loaner.
+
+🎤 SPEAKER_1 [1165s - 1178s]
+Forgot I was supposed to go bread. I would Yes.
+
+🎤 SPEAKER_0 [1179s - 1185s]
+He brought the bass. Here we are. Very good. Yeah. Good. Good to see you. How are you, mate? Yeah. Alright.
+
+🎤 SPEAKER_5 [1185s - 1185s]
+Thank you very much.
+
+🎤 SPEAKER_0 [1185s - 1186s]
+Kids.
+
+🎤 SPEAKER_1 [1216s - 1220s]
+Spin.
+
+🎤 SPEAKER_0 [1221s - 1228s]
+Yeah, good. Just yeah, just a pretty steady week. Just Just take Discitation.
+
+🎤 SPEAKER_5 [1228s - 1229s]
+Alright?
+
+🎤 SPEAKER_0 [1229s - 1230s]
+Discitation's in.
+
+🎤 SPEAKER_4 [1230s - 1230s]
+Okay.
+
+🎤 SPEAKER_6 [1230s - 1231s]
+Okay. Let's hold on.
+
+🎤 SPEAKER_0 [1231s - 1232s]
+Hello?
+
+🎤 SPEAKER_0 [1236s - 1239s]
+Rachel remembered that she was meant to be doing the bread. She's forgotten she's gonna go and get some.
+
+🎤 SPEAKER_0 [1253s - 1261s]
+Well, if we only put do we put four in a row here? So we have probably got a bit of space we? Just to just go touch more. Maybe this this line?
+
+🎤 SPEAKER_0 [1263s - 1263s]
+What do reckon?
+
+🎤 SPEAKER_4 [1264s - 1264s]
+Happy with that?
+
+🎤 SPEAKER_0 [1266s - 1268s]
+Yeah. Which is always aesthetically pleasing. Isn't it?
+
+🎤 SPEAKER_5 [1277s - 1278s]
+Yes. Yes.
+
+🎤 SPEAKER_0 [1280s - 1283s]
+With too flush, it's just uncomfortable viewing angle then.
+
+🎤 SPEAKER_0 [1311s - 1313s]
+That's too far from Castle Corps, is it? Or No.
+
+🎤 SPEAKER_4 [1314s - 1315s]
+Yeah. Now.
+
+🎤 SPEAKER_6 [1353s - 1353s]
+Mees.
+
+🎤 SPEAKER_0 [1354s - 1358s]
+Feel free to leave that to Ben when he gets here. Feel free to leave the rest to Ben if you want.
+
+🎤 SPEAKER_6 [1360s - 1361s]
+Yep.
+
+🎤 SPEAKER_0 [1363s - 1368s]
+He'll he'll have nothing to do when he gets here, boys. He's he's a bit late, to be fair. But but he's gonna have nothing left to do.
+
+🎤 SPEAKER_0 [1369s - 1371s]
+Whereas this needs setting up this
+
+🎤 SPEAKER_0 [1399s - 1404s]
+I know. Is that is that normally the bread person that's Yeah. Alright. Sure. One second.
+
+🎤 SPEAKER_2 [1416s - 1416s]
+I think when she arrives,
+
+🎤 SPEAKER_4 [1417s - 1417s]
+Yeah.
+
+🎤 SPEAKER_0 [1424s - 1428s]
+Yeah. As long as it's as long as it's you can set it can do it in the break if you want, the juice bit.
+
+🎤 SPEAKER_4 [1484s - 1485s]
+Well, a pen no.
+
+🎤 SPEAKER_0 [1485s - 1492s]
+Stop. Can you stop now? Because Ben Ben Ben nurse is coming to do them. And he'd have nothing left to do. So is there something else you can help them with?
+
+🎤 SPEAKER_0 [1494s - 1500s]
+Just leave him there for now. And if he doesn't if he come soon, we'll do it. But there's no rush on the cheers. There's no rush on the cheers.
+
+🎤 SPEAKER_0 [1500s - 1504s]
+This is more of a priority really, the media and the sound stuff.
+
+🎤 SPEAKER_0 [1527s - 1529s]
+William, hello mate. Cool car man.
+
+🎤 SPEAKER_1 [1531s - 1532s]
+Oh, begot it.
+
+🎤 SPEAKER_0 [1532s - 1533s]
+Oh, gotta show you that. You like that?
+
+🎤 SPEAKER_4 [1533s - 1534s]
+Yeah.
+
+🎤 SPEAKER_3 [1534s - 1534s]
+Cool.
+
+🎤 SPEAKER_0 [1542s - 1543s]
+I should get that's a good purchase, isn't it?
+
+🎤 SPEAKER_3 [1543s - 1544s]
+Yeah.
+
+🎤 SPEAKER_2 [1544s - 1545s]
+Yeah. And also.
+
+🎤 SPEAKER_4 [1545s - 1546s]
+Yeah?
+
+🎤 SPEAKER_0 [1548s - 1552s]
+The go on, do they? Oh, that's cool. Let's have a look then.
+
+🎤 SPEAKER_1 [1553s - 1553s]
+Oh, nice.
+
+🎤 SPEAKER_2 [1554s - 1556s]
+Anybody you go forward or when you go backwards, if that's all.
+
+🎤 SPEAKER_0 [1556s - 1560s]
+Well, yeah, that's fine. Now has it got reversed? It's got lights in the back or no?
+
+🎤 SPEAKER_2 [1560s - 1562s]
+No. Yeah. It doesn't.
+
+🎤 SPEAKER_0 [1562s - 1564s]
+No. No. They look pretty cool though. Yeah. Yeah.
+
+🎤 SPEAKER_2 [1564s - 1565s]
+Yeah. To be fair, it's Yeah.
+
+🎤 SPEAKER_4 [1565s - 1566s]
+Yeah.
+
+🎤 SPEAKER_0 [1566s - 1567s]
+Nice.
+
+🎤 SPEAKER_4 [1596s - 1597s]
+Then. Say again?
+
+🎤 SPEAKER_0 [1598s - 1609s]
+Yes. Trying to think well, it's been half term, so but sadly for the boys, I've just because it's crunch time for me. Yeah. We haven't really done we've we've gone on long walks every day. Right.
+
+🎤 SPEAKER_0 [1609s - 1618s]
+Today? Long the nap to Porthcarry and Bakuda and things like that. But we we went to London the previous week, so the Efterns and so we did the museums and everything. They loved that. They enjoyed that.
+
+🎤 SPEAKER_1 [1618s - 1619s]
+Yeah.
+
+🎤 SPEAKER_0 [1621s - 1630s]
+Really cool thing is they got one of Nehemiah's plates in which he would have served king What's his name? I skips my head now. What's the king?
+
+🎤 SPEAKER_0 [1631s - 1640s]
+Darius. Yes. Darius. Yes. He was the one at that time, wasn't he? So that was pretty cool. They got one of those in there. They've also got palace walls.
+
+🎤 SPEAKER_0 [1640s - 1657s]
+From Nineveh. Yes. In the Great British Museum. And they got So that's That was like, wow. This is quite an historic city. They were really, really bad people. Yeah. They used to flay people They should do horrible things. So when when Jonah was really to go there, you can understand why.
+
+🎤 SPEAKER_0 [1658s - 1673s]
+God's given him a message of of destruction and these people flay their enemies. You think, well, fair enough. But, anyway, they've got some of the wall the palace walls there. That's pretty cool. They've also got one of the bits of the palace that Esther would have been looking at walking past daily.
+
+🎤 SPEAKER_0 [1673s - 1675s]
+Painted beautifully.
+
+🎤 SPEAKER_4 [1675s - 1675s]
+Yeah.
+
+🎤 SPEAKER_0 [1675s - 1680s]
+Yeah. So that's pretty awesome. So it's really cool. We did the heritage tour there with one of the tour guys.
+
+🎤 SPEAKER_4 [1680s - 1681s]
+Yeah.
+
+🎤 SPEAKER_0 [1681s - 1696s]
+Christian guy, Ben Virgo. Jerry Terry Virgo, his son. He does these tours around London, but also the museums. Pointing out all the bits of our archeology and historical bits and pieces. They've got from biblical times, which is pretty good fun.
+
+🎤 SPEAKER_0 [1697s - 1705s]
+Yeah. Ali liked it. Jude was Jude not so much, but Yeah. But there we are. He's only 10.
+
+🎤 SPEAKER_6 [1709s - 1709s]
+So Yeah.
+
+🎤 SPEAKER_0 [1709s - 1720s]
+Just the tension wasn't there for him, you. That's fine. He's a bit young still, sir. So that was fun. Yeah. But now, yeah, just final push now for some exams.
+
+🎤 SPEAKER_0 [1721s - 1735s]
+I've really, really, really enjoyed getting to know the Psalms really well this this semester though. I think I might preach on it a little bit because for there's a there's a weird blip in history this last three hundred years where the church have completely misunderstood the sounds.
+
+🎤 SPEAKER_0 [1735s - 1736s]
+Yes.
+
+🎤 SPEAKER_6 [1736s - 1736s]
+They think it's just devotional songs.
+
+🎤 SPEAKER_0 [1739s - 1747s]
+But actually, the New Testament quotes from the new from the Psalms 400 times fact, 75% of the New Testament quotes Jesus says is Psalms.
+
+🎤 SPEAKER_0 [1749s - 1752s]
+And Carvin says it's the mini bible. You can get the whole second. Yeah.
+
+🎤 SPEAKER_4 [1761s - 1762s]
+Yes.
+
+🎤 SPEAKER_6 [1763s - 1764s]
+Hundred years with more genes
+
+🎤 SPEAKER_0 [1765s - 1770s]
+Right. And it quoting it on the was he was singing a Psalm on the cross.
+
+🎤 SPEAKER_4 [1770s - 1770s]
+That's right. Yeah.
+
+🎤 SPEAKER_0 [1771s - 1775s]
+And also, into your hands, I commit your spirit. Yeah. I commit my spirit as a song. There's well.
+
+🎤 SPEAKER_0 [1778s - 1783s]
+You've got the whole whole doctrine of the Christian faith that can be found in the Psalms. It's a theological book as well as as a devotional book.
+
+🎤 SPEAKER_0 [1784s - 1785s]
+Yes. Really fascinated. I really enjoyed it.
+
+🎤 SPEAKER_0 [1786s - 1796s]
+And I've really, really enjoyed learning the different genres as well. Because originality in the times, when we think of originality these days, we think of something completely new.
+
+🎤 SPEAKER_6 [1796s - 1796s]
+Yes.
+
+🎤 SPEAKER_0 [1797s - 1810s]
+Whereas in the Psalms, originality is there's different genres that not following up a pattern and the originality is to slight deviation or addition to that pattern that that the the readers will be expecting you to go somewhere and then it goes somewhere else.
+
+🎤 SPEAKER_0 [1811s - 1819s]
+Then that is originality. So so yeah. Anyway. Yeah. So really enjoyed that. Where are we at?
+
+🎤 SPEAKER_0 [1891s - 1897s]
+You think you've gone and got used Tesco finest meal deal, you could come back with Tesco value. Yeah. And it's the quality is just not the same, even though it's the same brands.
+
+🎤 SPEAKER_0 [1900s - 1913s]
+Yeah. My first car my first electric was a Fender Squire. I loved it, but then, you know, when when you first start drinking beer, you don't really know quality until first. Exactly.
+
+🎤 SPEAKER_0 [1935s - 1944s]
+And I will rejoice. Right. Am I looking for? I'm looking for things, plugs. Shouldn't be in here, but probably are.
+
+🎤 SPEAKER_0 [1950s - 1955s]
+One of the wonder if this is which one is this for the
+
+🎤 SPEAKER_4 [1955s - 1956s]
+No.
+
+🎤 SPEAKER_0 [1960s - 1986s]
+Has that got a power cable in the back of it? No. Has it? No. I've got because I've got it.
+
+🎤 SPEAKER_1 [1987s - 1988s]
+I've got a kettle cable in there.
+
+🎤 SPEAKER_0 [1990s - 1993s]
+It's just a weird one. I think this is a weird one anyway. Yeah.
+
+🎤 SPEAKER_0 [1997s - 2034s]
+How's your half turn been anyway? You've been up to you went for walks and things? You've Yeah. Been away with the kids and in a van and Very good.
+
+🎤 SPEAKER_6 [2034s - 2034s]
+Nice.
+
+🎤 SPEAKER_0 [2038s - 2038s]
+Very good.
+
+🎤 SPEAKER_6 [2039s - 2040s]
+It's been nice.
+
+🎤 SPEAKER_0 [2040s - 2041s]
+Excellent.
+
+🎤 SPEAKER_6 [2046s - 2047s]
+Very good.
+
+🎤 SPEAKER_0 [2059s - 2061s]
+Oh, these don't look very appetizing, do they?
+
+🎤 SPEAKER_6 [2065s - 2101s]
+So that's no good.
+
+🎤 SPEAKER_4 [2134s - 2154s]
+Right.
+
+🎤 SPEAKER_0 [2154s - 2155s]
+Just that needs to go higher.
+
+🎤 SPEAKER_0 [2159s - 2176s]
+I wonder if can go back a touch, Rich, this thing here. Yes. Because the projector stand has gone. Oh. So it's not ours. It was the center's, but the it's not longer been here for two weeks now.
+
+🎤 SPEAKER_0 [2177s - 2184s]
+Oh, okay. And so we've had to balance it in boxes, which is not ideal until we maybe buy one. Yes. Yeah. So it's a bit closer now. Okay.
+
+🎤 SPEAKER_6 [2184s - 2185s]
+Yeah.
+
+🎤 SPEAKER_0 [2189s - 2226s]
+Say again.
+
+🎤 SPEAKER_6 [2226s - 2228s]
+Yeah.
+
+🎤 SPEAKER_0 [2230s - 2233s]
+Well, yeah, We wanna get out as many every week we wanna get out as maximum amount.
+
+🎤 SPEAKER_0 [2237s - 2237s]
+I don't know why.
+
+🎤 SPEAKER_4 [2243s - 2248s]
+So yeah, we yeah.
+
+🎤 SPEAKER_0 [2252s - 2259s]
+Push comes to shove. Yeah. That's that's that's enough. That's enough. That's definitely we can go further back than that. Hello, mate. Good morning.
+
+🎤 SPEAKER_0 [2259s - 2260s]
+Morning. How are you?
+
+🎤 SPEAKER_6 [2260s - 2260s]
+How are you doing?
+
+🎤 SPEAKER_0 [2261s - 2265s]
+You're media today? Alright. Okay. Cool.
+
+🎤 SPEAKER_6 [2265s - 2266s]
+You alright?
+
+🎤 SPEAKER_0 [2270s - 2272s]
+Yeah. That's fine. That's good.
+
+🎤 SPEAKER_4 [2273s - 2274s]
+I feel like
+
+🎤 SPEAKER_0 [2276s - 2279s]
+I feel like yeah, for
+
+🎤 SPEAKER_4 [2280s - 2281s]
+Yeah.
+
+🎤 SPEAKER_0 [2281s - 2292s]
+Fucking yeah. Well, like, what we might do if we might speak to Steve about not immediately, but pushing the rows against the wall and having wider aisles.
+
+🎤 SPEAKER_0 [2292s - 2301s]
+That might give us a bit more space, but we'll see. We're not gonna do that today, obviously. And we were inter when I was in my intern year, I had to get the chairs out of Trinity Church.
+
+🎤 SPEAKER_0 [2301s - 2310s]
+Yeah. Did you ever come up to Trinity? Come in with you days in Chatham. No. Was the other so that was the church plant, that one. The Trinity, we had two and half thousand people in.
+
+🎤 SPEAKER_0 [2310s - 2318s]
+Right. And thankfully, it wasn't it wasn't two and a half thousand chairs because they had an upstairs balcony. Right. There's 500 chairs downstairs, and they were very like, you know, we got a line here. They were the same.
+
+🎤 SPEAKER_0 [2318s - 2324s]
+The way they managed it was minimal leg room, but right to the wall. Wider aisles, and it seemed to create more space.
+
+🎤 SPEAKER_4 [2325s - 2326s]
+But there we are.
+
+🎤 SPEAKER_0 [2329s - 2337s]
+Yeah. Well, it might do know what I might do though? It make people start praying more about we need a new building. We need the bigger That might encourage prayer, you know.
+
+🎤 SPEAKER_0 [2340s - 2348s]
+And I'll well, I'll tell him, don't moan, pray. That's all I'll say. Don't moan pray. Don't grumble,
+
+🎤 SPEAKER_6 [2348s - 2349s]
+Right.
+
+🎤 SPEAKER_0 [2350s - 2351s]
+That's gone missing. Where is that?
+
+🎤 SPEAKER_0 [2388s - 2392s]
+True. True. But we is going on here?
+
+🎤 SPEAKER_0 [2401s - 2410s]
+So you got microphone as well, have you Rich? Very good.
+
+🎤 SPEAKER_0 [2414s - 2418s]
+Why are you not showing up Up. Good.
+
+🎤 SPEAKER_0 [2450s - 2451s]
+Nanny with you guys.
+
+🎤 SPEAKER_6 [2453s - 2456s]
+Just get yeah.
+
+🎤 SPEAKER_0 [2464s - 2465s]
+Fantastic. Yeah. I'll be
+
+🎤 SPEAKER_0 [2469s - 2542s]
+Do want just to check your levels, Ben? Your I'm sure you'd I'm sure that one's flat lined so
+
+🎤 SPEAKER_0 [2557s - 2558s]
+Yeah, and your mug food?
+
+🎤 SPEAKER_1 [2559s - 2560s]
+Yeah. Tasting.
+
+🎤 SPEAKER_0 [2561s - 2562s]
+One two one two.
+
+🎤 SPEAKER_6 [2562s - 2563s]
+Testing. Testing. One two one.
+
+🎤 SPEAKER_0 [2563s - 2566s]
+Very good. Let me just make sure the audio is coming through in this and then Alright.
+
+🎤 SPEAKER_6 [2580s - 2581s]
+Good.
+
+🎤 SPEAKER_0 [2590s - 2592s]
+Once, two, one two, two.
+
+🎤 SPEAKER_4 [2592s - 2593s]
+Yeah.
+
+🎤 SPEAKER_0 [2598s - 2602s]
+Brill. Excellent. Excellent. Anything to anything to
+
+🎤 SPEAKER_6 [2602s - 2604s]
+Hang up. Minute. 6811.
+
+🎤 SPEAKER_7 [2605s - 2606s]
+I haven't let this one. I haven't listened to it.
+
+🎤 SPEAKER_6 [2606s - 2609s]
+It was on that same blatant. So so was you
+
+🎤 SPEAKER_4 [2609s - 2610s]
+Yes.
+
+🎤 SPEAKER_0 [2610s - 2610s]
+Yeah. Yeah.
+
+🎤 SPEAKER_6 [2611s - 2624s]
+The only thing I can't get at the beginning is on the first bit. Once I'm it's a very sequencing pattern. But it sounds very similar to two other songs. Yeah. One mum of the songs, one grand collected.
+
+🎤 SPEAKER_0 [2630s - 2631s]
+It's been a while.
+
+🎤 SPEAKER_4 [2631s - 2632s]
+That's it. Okay.
+
+🎤 SPEAKER_3 [2632s - 2632s]
+Yeah.
+
+🎤 SPEAKER_4 [2669s - 2681s]
+Great.
+
+🎤 SPEAKER_0 [2682s - 2683s]
+Happy with that tempo?
+
+🎤 SPEAKER_4 [2683s - 2683s]
+Yeah?
+
+🎤 SPEAKER_0 [2684s - 2684s]
+Sound good to me?
+
+
+---
+
