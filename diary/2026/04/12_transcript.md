@@ -1773,3 +1773,80 @@ So Lovely. Thanks.
 
 ---
 
+
+
+## 📝 Band Discusses Arrangement Options For Chorus and Bridge - b0aa45a5-c3c7-46c4-9472-ebad9bb8178b
+
+**記録時間**: 2026-04-12 18:39:35
+
+### STT生テキスト
+
+🎤 SPEAKER_3 [0s - 0s]
+Very good.
+
+🎤 SPEAKER_0 [3s - 8s]
+When you just something to think about, Ben. What's that sound like I'm saying?
+
+🎤 SPEAKER_4 [8s - 9s]
+What's No.
+
+🎤 SPEAKER_0 [9s - 18s]
+No. No. No. Just just an option. That's all. After the chorus or after the bridge, there's no reason if you want to whack it back into that bridge.
+
+🎤 SPEAKER_0 [19s - 19s]
+Full pelt.
+
+🎤 SPEAKER_5 [21s - 28s]
+Yeah. You know, you when you do the the the the crystal you know, you reach a peak sometimes it's great just to go back into the yeah.
+
+🎤 SPEAKER_0 [29s - 30s]
+But only if it feels right.
+
+🎤 SPEAKER_4 [31s - 32s]
+Yeah. Yeah.
+
+🎤 SPEAKER_1 [36s - 36s]
+Yeah.
+
+🎤 SPEAKER_3 [37s - 37s]
+Yeah.
+
+🎤 SPEAKER_6 [39s - 41s]
+Is in the recording in the last chorus he goes to you.
+
+🎤 SPEAKER_0 [41s - 43s]
+He does. Yeah.
+
+🎤 SPEAKER_0 [46s - 50s]
+And when he gets to he shall come again, only option is to go back to the back down that Nice, Mitch.
+
+🎤 SPEAKER_5 [52s - 53s]
+Really nice.
+
+🎤 SPEAKER_4 [53s - 54s]
+Yeah.
+
+🎤 SPEAKER_0 [56s - 56s]
+Yeah.
+
+🎤 SPEAKER_0 [82s - 87s]
+In the box underneath the projector. I might just hold it. It's fine.
+
+🎤 SPEAKER_4 [88s - 89s]
+Yeah.
+
+🎤 SPEAKER_0 [90s - 96s]
+Yeah. I know. But it's set up nice Love it. We'll see. We'll have a lot of luck in them. Thanks, Mish.
+
+🎤 SPEAKER_4 [100s - 112s]
+Oh, my.
+
+🎤 SPEAKER_0 [113s - 115s]
+Might have gone in the black box in the cupboard.
+
+🎤 SPEAKER_4 [161s - 162s]
+Yeah.
+
+
+---
+
