@@ -2626,3 +2626,1280 @@ But this I know what to do about that, to be honest with you.
 
 ---
 
+
+
+## 📝 Sunday Service Sermon On Forgiveness Through Christ - bc85ecd0-8633-4d10-87ed-ffa1e92706d7
+
+**記録時間**: 2026-04-12 19:27:47
+
+### STT生テキスト
+
+🎤 SPEAKER_4 [0s - 0s]
+Yes.
+
+🎤 SPEAKER_8 [7s - 20s]
+How and I'll tell him that the website and everywhere. That we can he's book music to the And music has been put to them. But this has has made different ways of moving these going up.
+
+🎤 SPEAKER_8 [22s - 28s]
+Look. Segue de and have a look at how easy it is to to randomize these Job.
+
+🎤 SPEAKER_0 [28s - 30s]
+To cases. Haven't done the dance yet, mate.
+
+🎤 SPEAKER_8 [51s - 61s]
+Guys, you take a seat easy to do this service. I'm telling you, we gotta do the dance. So you're all gonna be doing the dance. I'm telling you.
+
+🎤 SPEAKER_8 [63s - 80s]
+There we go. Let's let's read sweets. Or the last one we did why was it necessary for Jesus' committee meant to die? Jesus willingly died in all grace, free us from sins.
+
+🎤 SPEAKER_8 [89s - 93s]
+And yeah. Can you do the music for this week?
+
+🎤 SPEAKER_0 [93s - 95s]
+Or do you Yeah. We we haven't got the song yet.
+
+🎤 SPEAKER_0 [99s - 101s]
+It's a fun one this one.
+
+🎤 SPEAKER_8 [101s - 102s]
+Can all our sins be forgiven through Christ Sorry, John.
+
+🎤 SPEAKER_0 [108s - 111s]
+I thought you I thought you were asking for the song properly.
+
+🎤 SPEAKER_5 [114s - 118s]
+Alright. Okay. Sorry. This is the this is the a team on today, clearly on there.
+
+🎤 SPEAKER_0 [127s - 129s]
+Es para este rica.
+
+🎤 SPEAKER_8 [207s - 208s]
+This music is so good.
+
+🎤 SPEAKER_10 [212s - 212s]
+Yes.
+
+🎤 SPEAKER_8 [212s - 223s]
+That's what we do, though, just to give ourselves an extra bit in our minds, guys. Let's redo it all. Can all our sins be forgiven through Christ's death?
+
+🎤 SPEAKER_8 [223s - 245s]
+And the answer to that is yes. Because his debt fully paid for sin. God's prepared all who believe. It's that simple. There's no you know, they just spent years and years sending somebody to space for a week Alright?
+
+🎤 SPEAKER_8 [246s - 257s]
+That is as simple as it comes. He forgives our sins. Because he sent Jesus to the cross. You know that's fantastic.
+
+🎤 SPEAKER_8 [263s - 276s]
+Announcements we got now. Let's do the Please go on the website, have a look. There's a quiz on there as well. I'm going to get back onto that quiz because I was doing very well.
+
+🎤 SPEAKER_0 [277s - 277s]
+Stopped.
+
+🎤 SPEAKER_8 [284s - 296s]
+I'm definitely Roxanne Roxanne's not here today. Roxanne was top. Of the list. So yeah. She's very good. Just some announcements, guys. On Tuesday morning, the men.
+
+🎤 SPEAKER_8 [296s - 315s]
+For breakfast. Had a good number there last Tuesday. Please all men are welcome. Alright? We meet in the YMCA on Court Road. Between nine fifteen and about 10:45 is is normal time.
+
+🎤 SPEAKER_8 [316s - 323s]
+You can come you can come and have breakfast. You can come and have a cup of coffee. You can come and have just a chat. And we do talk about everything.
+
+🎤 SPEAKER_8 [324s - 342s]
+It's not just about church. It's not just about Christian things. About everything that's going on. And some interesting conversations. So you really wanna do that, please come and join us. Tuesdays in meet at Ben and Allen's for prayer.
+
+🎤 SPEAKER_8 [342s - 355s]
+If you don't know who Ben and Allen is, Beth was leading worship this morning. Have a word with him. We meet between we meet sort of our Paula two eight and then we start eight or nine.
+
+🎤 SPEAKER_8 [356s - 369s]
+And it really does. I know we all say this, but it goes so fast. But God is meeting with us on a Tuesday night. If you wanna spend some time with us, if you need a lift, guys, just speak to me.
+
+🎤 SPEAKER_8 [370s - 378s]
+We can arrange that. We can sort of lift out. We don't mind going out of our way to pick people up. If that's the way they they need to get there.
+
+🎤 SPEAKER_8 [380s - 381s]
+Do you have anything else?
+
+🎤 SPEAKER_0 [383s - 384s]
+Not this week?
+
+🎤 SPEAKER_8 [384s - 396s]
+Not this week. I know that Noah's was saying the ladies of our summit plant She hasn't given me any dates, so no eso, putting nada out, bueno, eso lo openáis, whatever it is.
+
+🎤 SPEAKER_8 [396s - 403s]
+So we don't do implement things here. We do do latency things as well. And the men are not to that.
+
+🎤 SPEAKER_11 [405s - 405s]
+So why you put the chair
+
+🎤 SPEAKER_8 [405s - 406s]
+Here we go.
+
+🎤 SPEAKER_1 [409s - 410s]
+Wow.
+
+🎤 SPEAKER_8 [415s - 428s]
+We got a little bit of time, guys, which is nice. What we haven't done for a while is our testimony spot. You know, for something that God might have done in your life this week.
+
+🎤 SPEAKER_8 [428s - 439s]
+You know, we know of years ago, but this week, there is changed that has had an effect on your life. That might be able to have an effect on somebody's life here today.
+
+🎤 SPEAKER_8 [439s - 449s]
+You know, we found that when somebody said something on a Sunday morning, somebody else has has turned around at the end and said, that was exactly what I needed to hear.
+
+🎤 SPEAKER_8 [450s - 458s]
+If you've got something that God has been doing in your life this week, and you wanna share it, please tell me. If you have it, that's great.
+
+🎤 SPEAKER_8 [461s - 467s]
+We're coming on. No. We're gonna go to the birthday girl first.
+
+🎤 SPEAKER_12 [477s - 480s]
+Bertjes de tijd.
+
+🎤 SPEAKER_8 [481s - 482s]
+And anyway,
+
+🎤 SPEAKER_12 [491s - 500s]
+2020. Since then, because my birthday is on the eleventh. After she stopped on 02/11, even fiftieth, which
+
+🎤 SPEAKER_12 [522s - 522s]
+Que é que vem a fa.
+
+🎤 SPEAKER_12 [533s - 536s]
+God's god limited. Brothers and sisters Omi.
+
+🎤 SPEAKER_5 [541s - 543s]
+Very nice,
+
+🎤 SPEAKER_11 [543s - 543s]
+Joan.
+
+🎤 SPEAKER_8 [550s - 553s]
+And we are we are saying that we're fast that you came to us as well.
+
+🎤 SPEAKER_4 [553s - 554s]
+Yeah.
+
+🎤 SPEAKER_8 [556s - 562s]
+Getsamil Cannon. She's a lovely person. She don't open up easy, but she is a lovely person.
+
+🎤 SPEAKER_6 [565s - 575s]
+Was just gonna say, I don't know if you were here last week. Last week there were eight students here from my college, I was able to bring a minibus and, I'm sure some of you spoke to them. They had a great time.
+
+🎤 SPEAKER_6 [576s - 584s]
+But three of them were Muslims and had never been to churches before. And came to a church, so hopefully, God will have worked something in them.
+
+🎤 SPEAKER_6 [585s - 588s]
+And at the very least, we can say that they've heard the gospel of Easter Sunday.
+
+🎤 SPEAKER_0 [589s - 589s]
+Very good.
+
+🎤 SPEAKER_8 [595s - 614s]
+You know, we were a few of the men here were away on a Men's Street Street last year. And rider was with us. One of Ryan's thoughts there when he came to us when he was selling the boys came to us was that he wanted to bring some in his students to church.
+
+🎤 SPEAKER_8 [615s - 630s]
+You know, and we've seen that And last week we thought we thought he was bringing one or two like he normally does. You know? And these guys what I yeah. These guys wanna come.
+
+🎤 SPEAKER_7 [630s - 631s]
+You know?
+
+🎤 SPEAKER_8 [631s - 638s]
+And and how suppressing. And, you know, we just want to love people as they walk through this store. We hope that we do that.
+
+🎤 SPEAKER_8 [639s - 640s]
+Anybody else?
+
+🎤 SPEAKER_11 [641s - 642s]
+Or watch it.
+
+🎤 SPEAKER_8 [644s - 646s]
+This is the quiet one in our fellowship.
+
+🎤 SPEAKER_3 [649s - 651s]
+Yesterday we my my mouth.
+
+🎤 SPEAKER_3 [654s - 656s]
+She's being quite bad recently.
+
+🎤 SPEAKER_2 [657s - 660s]
+But I really think that god's with mother and
+
+🎤 SPEAKER_2 [665s - 666s]
+Very good.
+
+🎤 SPEAKER_8 [669s - 678s]
+Thank you for that news. We've been praying for this, we we just thank you for news. That's great news. Maybe one day, we'll see you.
+
+🎤 SPEAKER_8 [678s - 695s]
+Sat on my front row as well. That'd be nice. Just to see the answer to prayer. Just like we got Tim at the back there, He's not just into me because he got his heads set on Anybody wants to know a miracle in operation, that's Tim.
+
+🎤 SPEAKER_8 [696s - 698s]
+Alright? So there we go.
+
+🎤 SPEAKER_0 [699s - 701s]
+Oh my wife to You're getting trouble here, Jonathan.
+
+🎤 SPEAKER_3 [707s - 712s]
+Well, you may or may not know that that past past three months four months.
+
+🎤 SPEAKER_12 [714s - 728s]
+I've been really battering with very bad cough not knowing what was causing it, and it was just really, really exhausting me.
+
+🎤 SPEAKER_12 [729s - 747s]
+And I've noticed over the past couple of weeks it has been getting much, much, much much better. It's I hardly coughed at all in this week, which is just so great. And I'm so thankful for all your prayers.
+
+🎤 SPEAKER_12 [748s - 751s]
+And I'm so thankful that God has answered
+
+🎤 SPEAKER_0 [752s - 753s]
+So Yeah.
+
+🎤 SPEAKER_7 [753s - 754s]
+Very good. Yeah.
+
+🎤 SPEAKER_8 [757s - 766s]
+That's true, guys. Let me tell you, when you did it at my house, And I don't get ail that often. Commit? Walking back to Sydney now.
+
+🎤 SPEAKER_8 [767s - 776s]
+So, yeah, what happens? My brother's in one room, and he's coughing. My wife is in that in our bedroom coughing, and it's like it's like music.
+
+🎤 SPEAKER_10 [780s - 787s]
+Thanks. Some of you may know that Sophie and I have been in the adoption process. Just about for a year now. It's harder at later.
+
+🎤 SPEAKER_10 [788s - 791s]
+And we met our twin boys on Wednesday for the first time,
+
+🎤 SPEAKER_13 [792s - 793s]
+Oliver and Finn.
+
+🎤 SPEAKER_10 [793s - 806s]
+So they're very We we high tell them apart. So we're looking at what dummies they have and who's different. We're trying to figure them out But we're very excited to know how people got their home in the June.
+
+🎤 SPEAKER_10 [810s - 811s]
+July.
+
+🎤 SPEAKER_11 [816s - 817s]
+Excited.
+
+🎤 SPEAKER_8 [826s - 828s]
+Thank He's a variety god. That's how I I
+
+🎤 SPEAKER_8 [839s - 847s]
+They're gonna go down with some lovely adults give up their time. I I say this, but they give up their time. They give up the word.
+
+🎤 SPEAKER_8 [847s - 858s]
+Can listen to the word later, But what we're up here enjoying what Reese is bringing us this morning, these guys are downstairs inputting these young lines.
+
+🎤 SPEAKER_8 [859s - 869s]
+And we just thank you, we thank each person gives up their time to do that and we thank you for that. A blessing to you too, us. A blessing to you for us.
+
+🎤 SPEAKER_8 [874s - 885s]
+Father God, just pray this morning. Pray for our children I thank you for our children. You know that they're here We just no. We're gonna bless them this morning.
+
+🎤 SPEAKER_8 [886s - 897s]
+We wanna make sure that the world that goes in, Lord, will just permeate in their lives and Lord that they will just grow with the name of Jesus on their lips.
+
+🎤 SPEAKER_8 [897s - 907s]
+And I pray for the leaders this morning that you given the strength and the enjoyment downstairs just to input these young In Jesus' name, Lord, for your glory.
+
+🎤 SPEAKER_8 [908s - 908s]
+Amen.
+
+🎤 SPEAKER_4 [908s - 909s]
+Amen.
+
+🎤 SPEAKER_8 [909s - 920s]
+Just a few things, guys. While the children are downstairs, they used to downstairs toilets for the adults. We can use the upstairs one, that'd be great. Also, there's no food outside room.
+
+🎤 SPEAKER_8 [921s - 943s]
+So no food upstairs. No food downstairs. Takes quite a while afterwards to clean the garments if we've got to do that. So please register the children. Make sure there's an down there in the room so you can register them. And please, as much as you might not want to pick your children up at the end and take them all.
+
+🎤 SPEAKER_2 [947s - 947s]
+Sorry?
+
+🎤 SPEAKER_8 [948s - 959s]
+Are you staying up with us today? That's another blessing for us. There you go. Yeah. So, really, thank you. That's a five minutes break and then we'll come back together. Thank you.
+
+🎤 SPEAKER_1 [971s - 971s]
+Here.
+
+🎤 SPEAKER_12 [972s - 974s]
+Rather than on here.
+
+🎤 SPEAKER_0 [974s - 975s]
+Alright.
+
+🎤 SPEAKER_5 [975s - 976s]
+Oh, yeah. Is this total here?
+
+🎤 SPEAKER_3 [976s - 976s]
+Right.
+
+🎤 SPEAKER_5 [977s - 981s]
+He didn't know that though. I couldn't get to him, but there we are. Yeah.
+
+🎤 SPEAKER_9 [981s - 982s]
+Yeah.
+
+🎤 SPEAKER_5 [982s - 984s]
+Oh god. You should you should do another little.
+
+🎤 SPEAKER_4 [990s - 990s]
+Yeah.
+
+🎤 SPEAKER_5 [995s - 996s]
+Very good. Oh, well, well done.
+
+🎤 SPEAKER_6 [997s - 998s]
+What was the volume like on the worship?
+
+🎤 SPEAKER_0 [998s - 999s]
+Was it bit quiet?
+
+🎤 SPEAKER_0 [1011s - 1013s]
+Yeah. Well done. Well done.
+
+🎤 SPEAKER_5 [1013s - 1021s]
+I know the master slider was down. Maybe so I wondered then. Oh, no. Was a bit quiet, but if it didn't if it wasn't, that's fine.
+
+🎤 SPEAKER_8 [1024s - 1040s]
+Okay? Yeah. We actually do piano with Michelle on Friday. Oh, We've got into conversation about different things. Hi, yeah. But she mentioned and was approached, I don't know when, over the last couple weeks by somebody.
+
+🎤 SPEAKER_8 [1043s - 1048s]
+Oh, yeah. And then they went into the thing about the this she bought a gang. Right.
+
+🎤 SPEAKER_9 [1048s - 1049s]
+Yeah.
+
+🎤 SPEAKER_8 [1049s - 1050s]
+In a very abrupt
+
+🎤 SPEAKER_0 [1050s - 1051s]
+Right.
+
+🎤 SPEAKER_5 [1052s - 1053s]
+So So not very pastorally sensitive.
+
+🎤 SPEAKER_8 [1053s - 1056s]
+And then and then Gay said to her, she she's a but she's a Christian.
+
+🎤 SPEAKER_0 [1058s - 1060s]
+Yeah.
+
+🎤 SPEAKER_12 [1060s - 1061s]
+You know, she's given her life to Jesus.
+
+🎤 SPEAKER_8 [1063s - 1066s]
+So I'm thinking that maybe that person missed that bit.
+
+🎤 SPEAKER_8 [1072s - 1073s]
+She's not going to heaven.
+
+🎤 SPEAKER_4 [1075s - 1076s]
+Does it does it mean a Catholic?
+
+🎤 SPEAKER_9 [1076s - 1076s]
+She's a Catholic.
+
+🎤 SPEAKER_5 [1077s - 1078s]
+Yeah. Okay.
+
+🎤 SPEAKER_8 [1078s - 1079s]
+I'm not upsetting me.
+
+🎤 SPEAKER_5 [1081s - 1083s]
+Thanks for letting me know about that. Yeah.
+
+🎤 SPEAKER_8 [1084s - 1085s]
+Said that they talk to that person now.
+
+🎤 SPEAKER_5 [1086s - 1090s]
+Think I know who we're talking about probably, I guess. Thank you, mate. Let me let me know. I'll I'll speak to her about her.
+
+🎤 SPEAKER_0 [1096s - 1097s]
+Alright. Let's get some water. Yeah.
+
+🎤 SPEAKER_5 [1099s - 1100s]
+Was. You you did well there.
+
+🎤 SPEAKER_6 [1103s - 1104s]
+Jopped that.
+
+🎤 SPEAKER_5 [1108s - 1141s]
+Okay, we check a drink? You you guys you're okay.
+
+🎤 SPEAKER_5 [1150s - 1151s]
+That was a lovely that was lovely story. Thank you for sharing.
+
+🎤 SPEAKER_14 [1154s - 1155s]
+Make sense? That was it.
+
+🎤 SPEAKER_4 [1155s - 1156s]
+Yeah. Okay.
+
+🎤 SPEAKER_5 [1156s - 1162s]
+Oh, it makes sense. Sometimes you really say something, don't realize you're gonna cry, but that was lovely. Thank you for sharing that.
+
+🎤 SPEAKER_0 [1163s - 1163s]
+Okay.
+
+🎤 SPEAKER_5 [1167s - 1169s]
+So I'm just gonna push in and get some water vessel.
+
+🎤 SPEAKER_1 [1170s - 1170s]
+Hello,
+
+🎤 SPEAKER_4 [1170s - 1172s]
+Paula. Hi. How are you?
+
+🎤 SPEAKER_8 [1173s - 1173s]
+Thank you.
+
+🎤 SPEAKER_0 [1174s - 1175s]
+Good to see you.
+
+🎤 SPEAKER_4 [1175s - 1175s]
+How you?
+
+🎤 SPEAKER_14 [1176s - 1178s]
+I'm well. I'm good to you.
+
+🎤 SPEAKER_1 [1178s - 1178s]
+Oh, thank you.
+
+🎤 SPEAKER_5 [1179s - 1180s]
+To see you too.
+
+🎤 SPEAKER_1 [1181s - 1182s]
+Hi, China.
+
+🎤 SPEAKER_5 [1186s - 1207s]
+I'm I'm not gonna bother with that today. Yeah.
+
+🎤 SPEAKER_0 [1208s - 1209s]
+I'll just use this. It's fine.
+
+🎤 SPEAKER_5 [1209s - 1213s]
+I feel a bit silly wearing that, to be honest with you. It's such a small room.
+
+🎤 SPEAKER_1 [1213s - 1214s]
+Maybe so.
+
+🎤 SPEAKER_5 [1216s - 1216s]
+Yeah.
+
+🎤 SPEAKER_4 [1221s - 1255s]
+And sorry.
+
+🎤 SPEAKER_0 [1258s - 1263s]
+A few you're quite lower numbers today. Right. Jews not coming down.
+
+🎤 SPEAKER_2 [1276s - 1282s]
+I've got you. We won't mind me any kids because you're having a Sunday off. You sneaked into communion, I noticed.
+
+🎤 SPEAKER_0 [1285s - 1289s]
+I was at naughty I'll give I'll give you a seven out of 10 for effort to 25 past 10.
+
+🎤 SPEAKER_2 [1289s - 1289s]
+You did pretty well.
+
+🎤 SPEAKER_14 [1301s - 1301s]
+Okay.
+
+🎤 SPEAKER_14 [1305s - 1323s]
+Okay.
+
+🎤 SPEAKER_4 [1327s - 1331s]
+Okay, mate.
+
+🎤 SPEAKER_5 [1332s - 1333s]
+You you cold?
+
+🎤 SPEAKER_8 [1333s - 1334s]
+I don't know.
+
+🎤 SPEAKER_8 [1343s - 1354s]
+University course six years now. He's just just over a month away from completion. Yeah. Keep praying for it.
+
+🎤 SPEAKER_8 [1363s - 1378s]
+Completion of his course. Just get it, you know, I'll be trying to I'll keep trying to get my head grounded. And it it's an amazing achievement. So we just God has blessed us with Rachel Angry's and we just thank God for that.
+
+🎤 SPEAKER_8 [1379s - 1388s]
+And we just thank him for what is in the future. Because once this goes, it's full time he's gonna be flying. You know that.
+
+🎤 SPEAKER_0 [1389s - 1390s]
+Thanks, John.
+
+🎤 SPEAKER_8 [1391s - 1401s]
+For Omi, I thank you. We thank you for this and Rachel and the boys We just thank you this morning, Lord, that as he brings your word, that it will just touch our hearts.
+
+🎤 SPEAKER_8 [1402s - 1409s]
+And it will change our lives, Lord. And we will go all over here today with the words you ringing in our ears. Just to minister.
+
+🎤 SPEAKER_8 [1410s - 1414s]
+Throughout the world that we live in Jesus' name. Amen. Amen.
+
+🎤 SPEAKER_4 [1415s - 1416s]
+You got yours? No.
+
+🎤 SPEAKER_0 [1416s - 1418s]
+I'm gonna I'm not doing the Barbie muck today.
+
+🎤 SPEAKER_5 [1419s - 1422s]
+I feel a bit silly wearing the Barbie muck sometimes in a room this small.
+
+🎤 SPEAKER_0 [1422s - 1431s]
+But I've been assured it's for audio quality purposes. But I've chosen to go with a lolly mic today.
+
+🎤 SPEAKER_5 [1434s - 1436s]
+I'm going to press record on my phone Holy Spirit, I do pray that you help me today.
+
+🎤 SPEAKER_0 [1438s - 1446s]
+It's it's pointless me saying what I think about things I need to faithfully present what you say and your word to us. So help me, I pray to do that today.
+
+🎤 SPEAKER_14 [1446s - 1447s]
+Amen.
+
+🎤 SPEAKER_5 [1448s - 1450s]
+Yes.
+
+🎤 SPEAKER_0 [1451s - 1453s]
+So as Johnny said, I'm weeks away from finishing this six year degree.
+
+🎤 SPEAKER_5 [1455s - 1462s]
+It's been wonderful and when I started there were six of us in the front room and it was easy to do a degree and to to to serve the Lord in church as well.
+
+🎤 SPEAKER_0 [1462s - 1474s]
+It's getting increasingly harder, so I I I want to thank you all for your patience with me. This last year, maybe longer, where I've not been as round and present as much.
+
+🎤 SPEAKER_0 [1474s - 1481s]
+But do know what? God's been gracious and good in that everyone is loved and served each other, and I believe that's the way the church should be anyway.
+
+🎤 SPEAKER_0 [1481s - 1495s]
+Don't have this minister congregation model here. We we love and serve each other. I've got I've just handed in my dissertation, which took a long time and essay as well on Ezekiel. And one of one of the world experts on Ezekiel is marking it.
+
+🎤 SPEAKER_0 [1495s - 1502s]
+So that was that was stressful and pressure pressurizing, but by Chris god, did alright on that one. And I've got two exams coming up.
+
+🎤 SPEAKER_0 [1503s - 1514s]
+In May, and it's like I've got about 350 index cards I'm trying to memorize. And so I'm nearly there. What that's meant though is that there's no slides to today. I'm really sorry. Just have time to do slides.
+
+🎤 SPEAKER_0 [1515s - 1516s]
+So guess what? You got your Bibles.
+
+🎤 SPEAKER_5 [1518s - 1520s]
+To make use of those.
+
+🎤 SPEAKER_0 [1522s - 1531s]
+And I'll try and kind of pick out the big big things. So for those of you who are visiting today, I'm wondering what this simple Christian catechism thing all about. Well, we've been doing this for the last year.
+
+🎤 SPEAKER_0 [1532s - 1544s]
+Part one, part two, and then part three. We'll finish part on 05/07/2027. So we are committed to this thing. The reason we're doing this is because we're trying to get to know our faith really, really well.
+
+🎤 SPEAKER_0 [1544s - 1551s]
+So that we can spot frauds and and and fakes, but also so we can pass on the good deposit faithfully to our children.
+
+🎤 SPEAKER_5 [1552s - 1556s]
+And a catechism is simply an old ancient learning technique of the church basically question and answer, question and answer learning, our faith really well so that we can share it with others.
+
+🎤 SPEAKER_0 [1562s - 1574s]
+And so, part one we went through, through who is God's did he do? Who are we? What what what's the law of god? What what's happened to us?
+
+🎤 SPEAKER_0 [1575s - 1580s]
+And now we're getting on to Christ and so on. Question five of part two. Little admission to make.
+
+🎤 SPEAKER_5 [1580s - 1583s]
+Johnny said, you know, the website and the app sort up today.
+
+🎤 SPEAKER_0 [1583s - 1588s]
+It's not. I've not added part two onto it.
+
+🎤 SPEAKER_5 [1589s - 1592s]
+So I'll be very surprised if you're really good with part two at the moment because I haven't put anything out there.
+
+🎤 SPEAKER_0 [1592s - 1599s]
+I'm really sorry. Soon as I finish the exams, they're gonna go up. Okay? So and I'm gonna create little booklets like we did last time.
+
+🎤 SPEAKER_0 [1599s - 1607s]
+So we are now on question five. Can all our sins be forgiven through Christ's death? Anyone who's been in church for a while will know the answer immediately. Yes.
+
+🎤 SPEAKER_0 [1608s - 1616s]
+Because his death fully paid for sin, god forgives all who believe. And here's a question to spend a few minutes thinking about as we start this.
+
+🎤 SPEAKER_0 [1617s - 1629s]
+How does god forgive? How does God forgive? Does he forgive in the same way that we are called to forgive? Have you ever spent much time thinking about that?
+
+🎤 SPEAKER_0 [1629s - 1643s]
+Holy god. Forgiving sins. Is forgiveness simply an attribute of god? Like love or holiness? Well, it's not. An attribute of God. So what is it? Is it a natural part of who he is?
+
+🎤 SPEAKER_0 [1645s - 1651s]
+Have you ever thought so you know, any time spent any time on that question? What what what does it look like for god to forgive?
+
+🎤 SPEAKER_1 [1651s - 1653s]
+How can he forgive?
+
+🎤 SPEAKER_0 [1655s - 1664s]
+Now we need to be very careful on this because the Christian message is often I think, misunderstood exactly at this point that we're looking at here today.
+
+🎤 SPEAKER_0 [1665s - 1674s]
+Sometimes the gospel is presented as though God for forgives simply because he is love. God is love so therefore he forgives.
+
+🎤 SPEAKER_0 [1674s - 1683s]
+As if forgiveness is just a natural extension of his kindness. Do you know what mean? So we might say something like this, god is love.
+
+🎤 SPEAKER_0 [1683s - 1693s]
+And because god is love, if you come to him and say sorry, he will forgive you. And that kind of sounds good. Next sounds kinda good.
+
+🎤 SPEAKER_0 [1696s - 1707s]
+But it sounds like god simply lets lets our sin go or forgets about it. Simply because he's loving and because he's kind. But that is not the Christian gospel.
+
+🎤 SPEAKER_0 [1708s - 1716s]
+That's not the Christian gospel. The Christian gospel isn't. God is loving so he forgives your sin. That's certainly part of it, but it's missing a really important bit.
+
+🎤 SPEAKER_0 [1718s - 1726s]
+It's missing something vital I think we're gonna get to scripture, which is god's word this isn't God's word. Okay? This is a simplified version of it to help us understand.
+
+🎤 SPEAKER_0 [1727s - 1744s]
+But the first part of this catechism answer really, really important. Because his death fully paid for sin Because his death fully paid for sin. Fact, if you have your Bibles, turn to Colossians. We're just gonna quickly go there. Colossians chapter two.
+
+🎤 SPEAKER_6 [1747s - 1748s]
+Colossians chapter two.
+
+🎤 SPEAKER_0 [1755s - 1769s]
+And if you've got the page number in the pew bibles, feel free to shout it out. Do you remember the little acronym I gave you a while ago to remember these four these four letter letters. Go on. Current, you say what it is?
+
+🎤 SPEAKER_4 [1770s - 1773s]
+There's one that's canny poop. Yep. The canny poop.
+
+🎤 SPEAKER_5 [1773s - 1774s]
+Alright. I've not heard that one.
+
+🎤 SPEAKER_0 [1775s - 1786s]
+Giant eating is the way I learn to memorize it. Galatians, Ephesians, Philippians, Colossians. Eat in popcorn, imagine a massive giant out the window there eating popcorn.
+
+🎤 SPEAKER_0 [1787s - 1794s]
+Anyway, that's just a little that's a little freebie. Where are we? At Kartian chapter two. What's the page number?
+
+🎤 SPEAKER_4 [1795s - 1797s]
+One one eight three.
+
+🎤 SPEAKER_8 [1797s - 1797s]
+One one eight three.
+
+🎤 SPEAKER_0 [1816s - 1823s]
+Verse thirteen and fourteen chapter two When you were dead in your sins, and in the uncircumcision of your flesh outside of God's covenant people, God made you alive with Christ.
+
+🎤 SPEAKER_0 [1824s - 1841s]
+That amazing? Isn't that amazing? When you were dead in your sins, god made you alive with forgave us, all our sins. Having cancelled the charge of our legal indebtedness, which stood against us and condemned us.
+
+🎤 SPEAKER_0 [1842s - 1850s]
+He has taken it away. He's not with us anymore. He's taken it away. Nailing it to the cross. Isn't that an incredible verse?
+
+🎤 SPEAKER_0 [1854s - 1855s]
+Chapter two verse 13.
+
+🎤 SPEAKER_5 [1856s - 1859s]
+14.
+
+🎤 SPEAKER_0 [1860s - 1870s]
+When you are dead in your sins and in this in the in circumcision of your flesh, God made you alive with Christ. Forgave us all our sins, having canceled the charge of our legal indebtedness, which stood against us and condemned us.
+
+🎤 SPEAKER_0 [1870s - 1882s]
+Has taken it away nailing it to the cross. So when we say because his death fully paid for our sin, yes, Because his death fully paid for our sin.
+
+🎤 SPEAKER_0 [1883s - 1896s]
+That is how god forgives. That is how God is able to forgive sin. The Christian message isn't that God overlooks sin. That God ignores it or simply chooses to forget about it.
+
+🎤 SPEAKER_0 [1896s - 1906s]
+By itself. Because God is love. The bible presents something far more serious, something far more beautiful, and something far more costly.
+
+🎤 SPEAKER_0 [1907s - 1907s]
+Than that.
+
+🎤 SPEAKER_1 [1908s - 1911s]
+God is indeed a god of love. He is love.
+
+🎤 SPEAKER_0 [1912s - 1925s]
+But he is also a holy god, and that means evil cannot be simply brushed aside. It can't be ignored. It has to be dealt with. I've really enjoyed, getting into the Psalms recently.
+
+🎤 SPEAKER_0 [1926s - 1932s]
+Really enjoyed reading them. And do you know what? Top tip that I've learned recently. Me and Helen were talking about us a a couple months back.
+
+🎤 SPEAKER_0 [1933s - 1942s]
+Psalms are not meant to be just red. They're meant to be sung. They're songs. They're poetry. And so the best way to engage with the Psalms listen to it to music.
+
+🎤 SPEAKER_0 [1945s - 1950s]
+And there's loads of great artists out there that has put the songs to music. I I tell you what, it comes to life comes to life if you do that.
+
+🎤 SPEAKER_0 [1952s - 1960s]
+But Psalm five Psalm five says something quite interesting about god. It says this is just I'm just gonna quickly paraphrase at the time.
+
+🎤 SPEAKER_0 [1961s - 1965s]
+It says, you are not a god who delights in wickedness.
+
+🎤 SPEAKER_7 [1966s - 1967s]
+No surprise there.
+
+🎤 SPEAKER_0 [1968s - 1974s]
+Evil may not dwell with you, You hate all evil doers.
+
+🎤 SPEAKER_8 [1975s - 1977s]
+The Lord abhors the bloodthirsty deceitful man.
+
+🎤 SPEAKER_0 [1980s - 1995s]
+What does that show us about God? That shows us that God is and he is not willing for evil to stand. So the real question before us today then is not simply this. It's not, is God loving enough to forgive?
+
+🎤 SPEAKER_0 [1996s - 2006s]
+Is it kinda like his love out balances it? His justice in some weird strange way? It's not that. The question really should be, how can a holy god forgive at all?
+
+🎤 SPEAKER_0 [2008s - 2016s]
+How can a holy god give at all? That is a mystery. That is kind of perplexing. If we didn't have the word of god.
+
+🎤 SPEAKER_4 [2017s - 2018s]
+And we'll get there.
+
+🎤 SPEAKER_0 [2018s - 2039s]
+But the bible answers that question directly in Romans three. Again, I'm gonna quickly skim this for time, but Romans three says this, god presented Christ as a sacrifice of atonement to demonstrate his righteousness so as to be just and the one who justifies those who have faith.
+
+🎤 SPEAKER_0 [2040s - 2054s]
+In Jesus. Now I was gonna put on the screen and say, do you see the answer here? And it's quite that's quite an dense verse to really see, but what's it saying? It's saying, how can god forgive and still be just?
+
+🎤 SPEAKER_0 [2055s - 2056s]
+It does so.
+
+🎤 SPEAKER_1 [2057s - 2057s]
+At the cross.
+
+🎤 SPEAKER_0 [2059s - 2070s]
+Because at the cross, sin is not overlooked. Your sin is not overlooked and forgotten. My sin is not overlooked and forgotten. It's dealt with fully.
+
+🎤 SPEAKER_0 [2074s - 2082s]
+Fully dealt with because of what Jesus has done, because his death has fully paid for sin, god is now satisfied in perfect justice.
+
+🎤 SPEAKER_0 [2084s - 2097s]
+And perfect love. To forgive all who believe in him. That is the gospel. Not that god ignores sin because he loves us. That's not that's not the god of the bible.
+
+🎤 SPEAKER_0 [2100s - 2115s]
+It's that god has dealt with sin completely. Not that he forgets about it, by itself, but that it's been paid for in full. And that's why both parts of this answer is actually really important.
+
+🎤 SPEAKER_0 [2115s - 2127s]
+If you split it into part a and part b. Because his death fully paid for sin, therefore, then god forgives all who believe. You need both bits.
+
+🎤 SPEAKER_0 [2127s - 2136s]
+Need both bits. Let's come back to the question for today. Can all our sins be forgiven through Christ's death? And answer is yes.
+
+🎤 SPEAKER_0 [2137s - 2139s]
+Yes. Because his death fully paid for sin, god forgives all who believes.
+
+🎤 SPEAKER_0 [2143s - 2144s]
+Isn't that incredible?
+
+🎤 SPEAKER_0 [2148s - 2153s]
+We spent a lot of time in these you know, first five questions of part two talking about this.
+
+🎤 SPEAKER_5 [2155s - 2157s]
+Feel like we've talked about sin a lot.
+
+🎤 SPEAKER_0 [2158s - 2162s]
+I thought I feel I feel like we talked about I mean, last week's question was incredible.
+
+🎤 SPEAKER_5 [2163s - 2166s]
+Talking why was it necessary for Jesus to die? Why why couldn't god just let it go?
+
+🎤 SPEAKER_0 [2167s - 2175s]
+Really didn't let me go and let it go, man, let it go. She said, don't do that again. Why couldn't God just let it go? And we talked about that last week.
+
+🎤 SPEAKER_4 [2176s - 2177s]
+Sorry, Karen.
+
+🎤 SPEAKER_0 [2180s - 2187s]
+Feel like we're talking about this a lot. So all these questions, they they kind of raise other questions that you may be thinking.
+
+🎤 SPEAKER_0 [2188s - 2191s]
+This morning. As I've been talking about this.
+
+🎤 SPEAKER_5 [2192s - 2194s]
+Perhaps you're sitting here and listening and thinking, well, what about me?
+
+🎤 SPEAKER_0 [2197s - 2211s]
+And I tried to some of the questions that this may raise. This morning. That's stuff I've just covered very quickly. And I'm gonna go through them a little bit. Perhaps you're sitting here this morning and thinking do I even need forgiveness?
+
+🎤 SPEAKER_0 [2212s - 2232s]
+Do I even need forgiveness? Perhaps some of you are sitting here and thinking that because it's entirely possible to sit through all this catechism hear words like sin and forgiveness, and we talk about those often here, And you might, know, you might you may not put it this way, but you might conclude that this doesn't really apply to me.
+
+🎤 SPEAKER_0 [2233s - 2240s]
+This doesn't really apply to me. You might be thinking, well, I've lived a decent life. I treat people really well. I'm not the kind of person who's done anything particularly bad.
+
+🎤 SPEAKER_0 [2241s - 2251s]
+Wouldn't have heard a flywheel's Surely this about me. And if that's you, well, you're not unusual. That's that's probably how most people think.
+
+🎤 SPEAKER_0 [2252s - 2266s]
+I need forgiveness. I'm not a bad person. I watch the news and they're bad people. They're the people that of that God talks about in Psalm five where you can't hear bore as the bloodthirsty man That's the type of person that that really needs forgiveness. Not me.
+
+🎤 SPEAKER_0 [2267s - 2269s]
+I'm not the kind of person that's done anything bad.
+
+🎤 SPEAKER_0 [2273s - 2279s]
+And you may think I'd that, and lots of people do. And the reason they do is, I think, it's quite simple.
+
+🎤 SPEAKER_5 [2281s - 2283s]
+We we tend to define sin in the way in the things that we do wrong.
+
+🎤 SPEAKER_0 [2284s - 2293s]
+We have this, like, kind of scale in our heads, in our minds. Where we think about specific actions that we've done or, obvious failures or moments we regret.
+
+🎤 SPEAKER_0 [2294s - 2300s]
+And we compare ourselves to others. We look and we watch the news, and and we reassure ourselves that we're not as bad as we could be.
+
+🎤 SPEAKER_0 [2302s - 2309s]
+I'm pretty good in comparison to Putin. I'm pretty good in comparison to the IDF. For example.
+
+🎤 SPEAKER_0 [2315s - 2318s]
+Cooper. What a legend. We love we love Cooper.
+
+🎤 SPEAKER_0 [2323s - 2335s]
+But here's a really important point. Okay? This isn't how the Bible defines sin. If your view of sin is a scale of wrongs and you're generally on the good end, I might occasionally lie, but I'm not really a bad person.
+
+🎤 SPEAKER_0 [2336s - 2338s]
+You're not using the bible's definition of sin.
+
+🎤 SPEAKER_0 [2342s - 2360s]
+The bible says that sin is not just what you do It's something deeper than that. It's your nature, your humanity. Your human nature following the floor, following the floor, following the full is fundamentally broken.
+
+🎤 SPEAKER_0 [2361s - 2378s]
+And because your human nature is broken, it shapes how you live and how you think and how you orient your life. And, yes, that does lead to wrong actions to being hurtful, to others, selfish, things we would wish we could undo.
+
+🎤 SPEAKER_0 [2379s - 2385s]
+But that's not really the The the deeper issue is not simply that things we do wrong.
+
+🎤 SPEAKER_0 [2387s - 2399s]
+It's that we live wrongly in relation to god. That's the nerve of it. That's the nub of the the the the the worst outcome, if you like, of our falling human nature is living wrongly in relation to our creator.
+
+🎤 SPEAKER_0 [2400s - 2408s]
+Our love and god. And this can be quite subtle. Okay? So let's think about it part one of the catechism. We learned the 10 commandments together, didn't we?
+
+🎤 SPEAKER_0 [2408s - 2413s]
+Who remembers the first two commandments? Go and sing it for me if you remember.
+
+🎤 SPEAKER_0 [2418s - 2424s]
+Yeah, go on. You you shall have nowhere the gods before me.
+
+🎤 SPEAKER_8 [2426s - 2429s]
+You not make for yourself an idol, that's number one and number two.
+
+🎤 SPEAKER_0 [2429s - 2434s]
+I sang that kind of badly on purpose because it's embarrassing to give my best voice, you know.
+
+🎤 SPEAKER_5 [2437s - 2440s]
+You shall have no other gods before me. You shall not make for yourself an idol.
+
+🎤 SPEAKER_0 [2440s - 2450s]
+That's the two first two commandments that God gives his people. What is God saying here? He is saying I am to be the center of your life.
+
+🎤 SPEAKER_0 [2452s - 2463s]
+I am to be the person you adore, the person you worship, the person you trust, So let me ask you plainly if you're sitting here feeling sinless this morning.
+
+🎤 SPEAKER_0 [2465s - 2467s]
+Have you lived your life with God at the center?
+
+🎤 SPEAKER_5 [2470s - 2476s]
+Or are you living independently of him not believing in him, or kind of believing in him but not really that interested in him?
+
+🎤 SPEAKER_0 [2478s - 2487s]
+The Bible's not neutral here. That is sin. You are a sinner. All of us are sinners. There's not one person alive today who is not a sinner.
+
+🎤 SPEAKER_0 [2487s - 2502s]
+All of us have fallen short of the glory of God. In fact, the bible goes further. It says that unbelief itself that is simply not trusting God, not wanting him, not being interested in him, is part of what is wrong.
+
+🎤 SPEAKER_0 [2503s - 2512s]
+With your nature. Rejecting the one who made you. So when we think I'm a good person, we might be right in comparison to others.
+
+🎤 SPEAKER_0 [2513s - 2519s]
+Especially those on TV. But that's not the real measure. That's not the real measure. The real question is this. Have I lived rightly before god?
+
+🎤 SPEAKER_0 [2520s - 2528s]
+Am I in rebellion against him through disbelief? The bible is very clear. If you're here today and you're human, then you are a sinner.
+
+🎤 SPEAKER_0 [2529s - 2532s]
+Is anyone here not a human? Here?
+
+🎤 SPEAKER_4 [2533s - 2533s]
+It won't be long.
+
+🎤 SPEAKER_5 [2534s - 2540s]
+Twenty, thirty years, don't have to ask that question seriously maybe. I don't know. Way robotics are going, that's another thing.
+
+🎤 SPEAKER_0 [2540s - 2555s]
+All of us here there's only been one human who is sinless, Jesus Christ, and everyone else including everyone in this room. Has a fallen human nature. Because of that fallen human nature, we are inclined to sin. We are inclined to rebellion.
+
+🎤 SPEAKER_0 [2555s - 2565s]
+By our human nature. In fact, Jesus makes this point in John 16. He's talking about when the Holy comes, He said, I have to go because I'm gonna send you the help of which.
+
+🎤 SPEAKER_5 [2565s - 2566s]
+Remember what he says?
+
+🎤 SPEAKER_0 [2567s - 2575s]
+He says, when he comes, he's done with the Holy Spirit. He says, when he comes, he'll prove to the world to be in the wrong about their sin that's a key role of the Holy Spirit.
+
+🎤 SPEAKER_0 [2576s - 2584s]
+Because people do not believe in me, The holy spirit is gonna convict them of this end because they not believe in me, Jesus says.
+
+🎤 SPEAKER_0 [2584s - 2595s]
+So the sin, part of the sin is that people do not believe in Jesus. So I encourage you, resist the instinct to think of sin in comparison with those.
+
+🎤 SPEAKER_0 [2597s - 2606s]
+Instead, think of the sin of sin the way the bible presents it, which is am I which isn't sorry I'm better than others. But have I lived rightly before god?
+
+🎤 SPEAKER_0 [2607s - 2624s]
+And once you begin to see that, once you recognize that you are a sinner and that you have sinned against God through unbelief, through living in rebellion against him as your creator. Once you start to realize that, the Holy Spirit what the Holy Spirit will do, because you can't get there yourself. The Holy will convict you.
+
+🎤 SPEAKER_0 [2626s - 2646s]
+He will do he will convict you. He will make you realize I am a sinner and you are holy god. And you realize that one day you're going to stand before this holy god And my hope would be that if you're here this morning and you're thinking I'm not a sinner, I'm hoping right now that the Holy Spirit's convicting your heart.
+
+🎤 SPEAKER_0 [2649s - 2662s]
+Holy Spirit, I invite you to move in this place this morning. No? I'd I'm fed up a preaching sermons like this, and and I'm just be honest with you. I'm fed up of us being preaching these and not seeing seeing seeing change and seeing growth.
+
+🎤 SPEAKER_0 [2663s - 2669s]
+I'm desperate, god, for the gospel to advance in this place, in this room. Holy Spirit convict hearts
+
+🎤 SPEAKER_0 [2672s - 2680s]
+And if you are feeling that way this morning, you're thinking, am maybe I'm a sinner after all. I encourage you to cry out to God for mercy. Forgive me, God.
+
+🎤 SPEAKER_0 [2681s - 2689s]
+I did not believe in you. I have lived my life ignoring you. I have against you. Save me. I believe in you. I believe in your son, Jesus.
+
+🎤 SPEAKER_1 [2691s - 2693s]
+I believe that he died on the cross.
+
+🎤 SPEAKER_0 [2694s - 2707s]
+In my place for my sin. Forgive me, God, make me new. Bring me back to you. That's the sort of prayer I'd love to love to to hear people pray in this room this morning or anyone who may listen to this recording.
+
+🎤 SPEAKER_0 [2711s - 2720s]
+Okay. The next the next preemptive question that I'm thinking that we may have in response to this is, well, what about the if I'm a okay.
+
+🎤 SPEAKER_1 [2720s - 2720s]
+So you've done that. Okay.
+
+🎤 SPEAKER_0 [2721s - 2728s]
+Are in Christ. You're saved. Okay? You belong to him. And you're sitting here thinking, well, what about the sin I keep choosing to do?
+
+🎤 SPEAKER_0 [2729s - 2744s]
+What about the sin I keep choosing to do? Perhaps some of you are here this morning and thinking, well, what about the things I know that are wrong but I keep choosing to do it anyway. And in fact, I don't particularly care about it.
+
+🎤 SPEAKER_0 [2744s - 2754s]
+I do, but I don't really. I'm not talking about past sins here. I'm not talking about things you've regretted and you wish you couldn't do. We'll get to that in a moment.
+
+🎤 SPEAKER_0 [2755s - 2771s]
+We're talking about the presence. Talking about the patterns that you're aware of, the the habits have justified yourself, the areas of a life where you know something is not right and yet you are quietly allowing it to remain.
+
+🎤 SPEAKER_0 [2772s - 2786s]
+Because of this. Because of this, And so the question underneath that question, if you like, is if god has forgiven me does that mean I'm okay?
+
+🎤 SPEAKER_4 [2786s - 2787s]
+Then?
+
+👤 あなた [2813s - 2823s]
+Think this is where the gospel is often misunderstood. And I have I have said here in this church, and we'll continue to say, that Christ's death has fully paid for sin, fully.
+
+👤 あなた [2824s - 2833s]
+And that means your forgiveness is real complete. And available to all who believe. That is true. We will preach it. That is the gospel.
+
+👤 あなた [2835s - 2843s]
+But if we take that truth on its own, without understanding what it's meant to produce in us, And this is where the letter James is really helpful for us.
+
+👤 あなた [2844s - 2856s]
+Without understanding what has meant to produce in this we can be begin to draw the wrong conclusions about the gospel. We start to think things like, well, if everything is already paid for, then doesn't it really matter how I live my life?
+
+👤 あなた [2857s - 2867s]
+Maybe this part of my life, I need to fully submit. I'm I can hear the Holy Spirit's voicing telling me that I should change this part of my life, and I I I just want to.
+
+👤 あなた [2868s - 2877s]
+Well, the bible directly addresses this exact question. Paul does in in his letter to the church in Romans. Romans chapter six verse one, I'm gonna read it quickly.
+
+👤 あなた [2879s - 2881s]
+Paul says this. He's just presented the glorious gospel
+
+🎤 SPEAKER_0 [2926s - 2940s]
+Have a parking fine and god peace it for you and that's the end of it. No. No. Forgiveness is about restoring relationship. Forgiveness is about restoring relationship. It's not just about being let off.
+
+🎤 SPEAKER_0 [2941s - 2948s]
+It's about being brought back back to god like we talked about last week. The whole point of this whole thing is to restore us to God.
+
+🎤 SPEAKER_0 [2949s - 2970s]
+That's what that's that's what God wants in desire We see it as a thread throughout scripture. God wants to dwell with his people. He did in the garden. He's he sent him he he sent his presence in the tabernacle, in the temple, in the incarnation, in the holy spirit, and then at the end of time, will dwell with his people. He belongs to dwell with us, to have a relationship with us.
+
+🎤 SPEAKER_0 [2971s - 2987s]
+That's what this is all about. So when someone truly understands the cross, like we talked about last week, when they understand why God sent his son it does not, it should not make us feel relaxed about us.
+
+🎤 SPEAKER_0 [2987s - 2995s]
+Sin. It should change the way that we see it. This is really important, and I think the kind of the world misunderstands this.
+
+🎤 SPEAKER_0 [2995s - 3012s]
+Christian is not someone who no longer sins. That is not what I'm saying. Can I'm not saying to us this morning, be sinless. In fact, often what the world does to the church when they see a a Christian leader fall.
+
+🎤 SPEAKER_0 [3012s - 3025s]
+They judge them by perfection. Hey. Isn't he meant to be a Christian? No. No. Christian is not someone who no longer sins. It's a Christian is someone who can no longer be at peace with their sin.
+
+🎤 SPEAKER_0 [3027s - 3042s]
+Ben did a wonderful talk on this a couple of years back. I've don't know if we've loaded it online. Was it last year? Anyway, there's a real difference between struggling with sin and being at peace with it.
+
+🎤 SPEAKER_0 [3043s - 3054s]
+Struggling with sin and being at peace with it. Struggle, if you struggle with your sin, it says I know this is wrong, want it gone. I hate it. I hate it. I hate it.
+
+🎤 SPEAKER_0 [3056s - 3066s]
+Even when you carry on That is with sinning. That's the holy spirit working in your life. Being at peace with sin, however, says, I know it's not right.
+
+🎤 SPEAKER_0 [3068s - 3079s]
+I hear the Holy Spirit speaking to me about this. But I've just accepted it, and I can't there's nothing I can do about it. And God's died died died, you know, my sins are forgiven.
+
+🎤 SPEAKER_0 [3079s - 3089s]
+I'm not really intending to change this at all. You've made peace with it. You're no longer fighting it. We are to fight our sin.
+
+🎤 SPEAKER_0 [3089s - 3093s]
+We are to fight it. If the Holy Spirit's convicting you of your sin, fight it.
+
+🎤 SPEAKER_0 [3096s - 3115s]
+Those two things are not the same. At peace with and struggling with sin. Because once you begin to see sin for what it really is, and once you see what it costs what it costs to deal with it, It becomes very difficult to treat it lightly.
+
+🎤 SPEAKER_0 [3115s - 3134s]
+So let me say this as plainly as I can. K? To help us understand this. If Jesus had to die if Jesus had to die to deal with your sin, my sin, then your sin is not something that you should be at peace with.
+
+🎤 SPEAKER_0 [3135s - 3145s]
+If Jesus had to die to deal with your then your sin is not something to make peace with. Christians you have the holy spirit of god living inside of you.
+
+🎤 SPEAKER_0 [3146s - 3161s]
+A a gift a gift, The holy spirit will not allow you make peace with your sin. Even if you try to. We are to fight We are to hate it.
+
+🎤 SPEAKER_0 [3162s - 3179s]
+Hate, hate your sin, and we are to repent of it. Even as forgiven children of god. We repent not to do in our status, We do it because we hate the wrong things we do and the way it affects enough for at least from our perspective.
+
+🎤 SPEAKER_0 [3179s - 3189s]
+Our relationship with our father. So we have to struggle with it So if there's something in your life that you know is not right, and you have learned to live with it,
+
+🎤 SPEAKER_0 [3193s - 3205s]
+If you've stopped hating it, and become a piece of it, Then what I'm seeing today here is not meant to reassure you. It's meant to wake you up.
+
+🎤 SPEAKER_0 [3206s - 3221s]
+I was so convicted right in this myself. It's meant to wake you up. Okay? Don't be at peace with your sin. I'm not intending either to push you away from God.
+
+🎤 SPEAKER_0 [3222s - 3233s]
+That our tendency then is to run away. No. No. No. Calling you to come to him again to submit your life to him again, knowing that he is faithful and he is merciful.
+
+🎤 SPEAKER_0 [3233s - 3243s]
+He is worthy. So much more worthy is God of your love and devotion. He's so much more worthy than the the sin we wanna hold on to.
+
+🎤 SPEAKER_0 [3244s - 3253s]
+So if again if you're here this morning and the Holy Spirit's convicting your heart you're aware that there's something in your life you've made peace with, don't I?
+
+🎤 SPEAKER_0 [3254s - 3265s]
+Then I urge you to repent. That means to turn away, to recognize your sin before god. Name it This is the only time I'm gonna say this in church. Name it. Renance it.
+
+🎤 SPEAKER_0 [3266s - 3275s]
+Okay? Because we don't that's got bad connotations, prosperity kind of stuff. But name your sin before god. Renounce it and turn away from it.
+
+🎤 SPEAKER_0 [3276s - 3281s]
+And I promise you, if it's costly for you, it 'll be worth it. It'll be worth it.
+
+🎤 SPEAKER_0 [3284s - 3292s]
+God will forgive you. In fact, already forgiven if you're in in Christ and he longs to be in relationship with you. He is the one you're gonna spend eternity adoring.
+
+🎤 SPEAKER_0 [3293s - 3303s]
+He is worthy, He will restore you. And perhaps you're sitting here then, this is the final one. There's so many, questions that come up on this.
+
+🎤 SPEAKER_0 [3304s - 3315s]
+What if I've gone too far? What if I've gone too far? What if I'm just weighed down by my guilt? I I tried to fight my sin. I struggle with it, but I've got too far and I've given up.
+
+🎤 SPEAKER_0 [3318s - 3334s]
+For you, the question is not do I need forgiveness? I'm not a sinner. For you, you know you are. Feel it. You know it. You struggle to believe sin in your life. You feel it every day, and you you're aware of the things in your life that you wish were not there.
+
+🎤 SPEAKER_0 [3334s - 3346s]
+Things you regret, things you wouldn't do. If you could, moments that you still return to, the moments that, sorry, that turns you uninvited, you're lying in bed and you think about those moments.
+
+🎤 SPEAKER_0 [3348s - 3355s]
+And even even as you try to move on with your life, something lingers like the the memory of the things you've done wrong weigh you down.
+
+🎤 SPEAKER_0 [3356s - 3363s]
+And so the question for you is not kind of a theoretical kind of theological question. It's more of a deeper deeper personal pastoral kind of question.
+
+🎤 SPEAKER_0 [3364s - 3373s]
+What if I gone too far? All I've got left is to cling on to this. What if I've done too much then? What if this doesn't cover me?
+
+🎤 SPEAKER_0 [3375s - 3388s]
+What if god gets fed up of me? Now before I answer that question, there's an important distinction to make. Because the answer this depends on your relationship to Christ.
+
+🎤 SPEAKER_0 [3389s - 3395s]
+For those of you who are here today and you're trusting in him, those of you who have come to him in faith, the answer is clear.
+
+🎤 SPEAKER_0 [3396s - 3408s]
+Answer is clear. It's wonderful wonderfully good news. There is no sin beyond what Christ has already paid for. Christ covered all sin on the cross.
+
+🎤 SPEAKER_0 [3409s - 3421s]
+Your past, your present, future sin, covered. Not because sin is a small issue, but because Christ's sacrifice is sufficient.
+
+🎤 SPEAKER_0 [3423s - 3434s]
+Sufficient. And as we saw earlier, his death fully paid for sin. And the bible speaks about this with remarkable clarity, and I'm gonna finish in a moment.
+
+🎤 SPEAKER_0 [3434s - 3448s]
+In Hebrews 10, says this, by one sacrifice, this is cross on the cross, by one sacrifice, he has perfected all time. Those who are being sanctified.
+
+🎤 SPEAKER_0 [3448s - 3460s]
+In the Catholic church, if you go to mass on a Sunday okay, battery's gone. That's fine. I'll shout. If you go to mass, on a Sunday, can somebody get me some batteries actually?
+
+🎤 SPEAKER_0 [3462s - 3469s]
+Your sins will not be covered until you go to mass the following week. You let there'd be some sort of purgatory elements to it.
+
+🎤 SPEAKER_0 [3469s - 3480s]
+You can have true assurance that you have peace of god. Thank you, mate. But we can say one sacrifice as perfected for all time all time.
+
+🎤 SPEAKER_0 [3481s - 3489s]
+Those who are being sanctified, those already in those who have been made more like Jesus. You are being because of that one sacrifice.
+
+🎤 SPEAKER_0 [3493s - 3502s]
+What that means for you if you're in Christ, your forgiveness then is not fragile. It's not kind of balancing on the edge if you like.
+
+🎤 SPEAKER_0 [3503s - 3519s]
+It's not It's full. It's complete. It's done. It's not dependent in any way on you. In fact, that? Amen. Yeah. Thank you. Thank you. Yeah. Isn't that a relief to know?
+
+🎤 SPEAKER_0 [3520s - 3536s]
+It's actually grounded in what Christ has already done on the cross. If you're here this morning, and you're asking yourself, and you're a Christian, thank you Richard. If you're Christian and you ask yourself and you find yourself saying, have I gone too far? The answer is no.
+
+🎤 SPEAKER_0 [3538s - 3550s]
+Not because your sin is not that important, but because because Christ had dealt with it fully. And that means there is no place for ongoing condemnation in the life of a Christian.
+
+🎤 SPEAKER_0 [3551s - 3562s]
+No place There is place for conviction There is place for repentance. Is place for a call to change. But there is no condemnation.
+
+🎤 SPEAKER_0 [3563s - 3566s]
+Left for you to carry. Christ has done it all.
+
+🎤 SPEAKER_0 [3570s - 3584s]
+But I must also say something else. This the second half of that is if you're not if you're here today, you've not trusted in Christ, if you have not come to him, then your forgiveness is not something that you can assume is yours.
+
+🎤 SPEAKER_0 [3585s - 3594s]
+Right now. Not because it's not available to you, not because it's not available to you, but because it's not yet been received.
+
+🎤 SPEAKER_0 [3596s - 3611s]
+A demonstration of faith in Christ is required of you. The cross is sufficient for all sin. For the sins of the world, in fact, the Bible says. But for forgiveness is secured for those who believe in Jesus Christ.
+
+🎤 SPEAKER_0 [3612s - 3621s]
+So the question for you then is not I gone too far? Is it's instead, will you come to him? The one who paid it all for you. Will you come to him?
+
+🎤 SPEAKER_0 [3625s - 3636s]
+The gospel invitation is not restricted in the sense as not like God's saying, come, but only if you sinned a little bit. Actually, have you tried to sort yourself out first? Then you can come.
+
+🎤 SPEAKER_0 [3636s - 3645s]
+No, he simply says come to me As you come, as you turn to him in faith and trust in what Christ has done, that forgiveness becomes yours.
+
+🎤 SPEAKER_0 [3647s - 3660s]
+So we must hold this together. For the one who is in Christ, there is no sin beyond what Christ has already paid. For the one who's not yet in Christ, There is no sin beyond this grace, but you must come.
+
+🎤 SPEAKER_0 [3660s - 3672s]
+You must come to him. The holy spirit must convict your heart. And I us back to what many people feel. I know God forgives, but I'm not sure he forgives me.
+
+🎤 SPEAKER_0 [3673s - 3685s]
+I can't forgive myself. Well, forgiveness does not rest on your ability to feel it. Not an emotion. It's a legal status. It rests on what Christ done.
+
+🎤 SPEAKER_0 [3689s - 3698s]
+If you're Christian and carry in guilt and shame this morning, bring it back to the cross. Don't carry what Christ has dealt with.
+
+🎤 SPEAKER_0 [3702s - 3714s]
+Confess it. Turn away from it. Christ is the greatest treasure. He's the greatest prize. He's the one who's worthy of your life, more than your desires. Seek him.
+
+🎤 SPEAKER_0 [3714s - 3726s]
+Follow him, treasure him, If you're not yet a Christian, again, don't assume forgiveness. Come to Christ. Turn to him. Out to God for mercy, and he will forgive you.
+
+🎤 SPEAKER_0 [3726s - 3734s]
+Will give you a new life. He will give you his holy spirit. He will bring you into relationship with him. He will adopt you as his own child.
+
+🎤 SPEAKER_0 [3735s - 3751s]
+You will get to enjoy eternity starting now. But for eternity, enjoying this relationship. Let me tell you something. If you're not a Christian here today, something incredible happens. The Holy Spirit comes and dwells in you, and then suddenly, your relationship with God is utterly different.
+
+🎤 SPEAKER_0 [3752s - 3759s]
+It's not God is no longer someone that you just know about, it's someone that you know, and the holy spirit speaks to you, and you feel this closeness with god.
+
+🎤 SPEAKER_0 [3760s - 3776s]
+That you can only experience once you have given yourself to Christ. You see this sometimes. There's some radical even in this room, there's some radical testimonies of life transformation They come to Christ and suddenly they're completely different people because they're pursuing Jesus. Oh, the Holy Spirit can do that.
+
+🎤 SPEAKER_0 [3778s - 3793s]
+So come and taste and see that the Lord is good. This morning. Be reconciled to God. In fact, that's how Paul finishes in the book of Acts. He's pleading with the with those who are anyone would hear. Be reconciled to god, he says.
+
+🎤 SPEAKER_0 [3797s - 3803s]
+I'm gonna finish with this. I'm gonna skip ahead because of time.
+
+🎤 SPEAKER_0 [3808s - 3819s]
+Anyone who comes to him in faith will be forgiven. Because sin has been fully dealt with on the cross. So wherever you are, there's someone in you're to come forward if you'd like to stand.
+
+🎤 SPEAKER_0 [3820s - 3822s]
+We're gonna finish with a bit of worship.
+
+🎤 SPEAKER_0 [3825s - 3839s]
+If you're able to stand, you can. No pressure to do so. So wherever you are this morning whether you've been a Christian for many years, or whether this is all new to you, the call is the same to you this morning.
+
+🎤 SPEAKER_0 [3839s - 3852s]
+Come to Christ. To Christ. Trust in him, rest in what he has done, There's no sin beyond what he has paid for, and no one who comes to him will be turned away.
+
+🎤 SPEAKER_0 [3853s - 3862s]
+Be reconciled to God. Be reconciled to God. Thank you, God, that I am reconciled to you. That you are the one who did it all.
+
+🎤 SPEAKER_0 [3863s - 3874s]
+You're the one who did it all. You you, you are the one who picked me up. I was dead. You picked me up, you convicted my heart and you made me new. You gave me new life.
+
+🎤 SPEAKER_0 [3875s - 3877s]
+Jesus says you described it. You made me born again.
+
+🎤 SPEAKER_0 [3880s - 3889s]
+I love how God himself extends this invitation. So I'm gonna let God himself from Isaiah 55 extend this invitation to you this morning.
+
+🎤 SPEAKER_0 [3890s - 3907s]
+He says this. Seek the Lord while he may be found. Call upon him while he is near. Let the wicked forsake his way. And let him return to the Lord.
+
+🎤 SPEAKER_0 [3909s - 3926s]
+That he may have compassion on him. For he will abundantly pardon. That the heart of God towards sinners. Not reluctant forgiveness, but abundant pardon.
+
+🎤 SPEAKER_0 [3930s - 3942s]
+So can all our sins be good be forgiven through Christ's death? Yes. Because his death fully paid for sin. God forgives all who believe.
+
+🎤 SPEAKER_0 [3944s - 3955s]
+So I we're gonna worship, we're gonna finish with a with a worship song in a moment, but I want to I don't want to miss this opportunity if the Holy Spirit wants to to to move and work amongst us.
+
+🎤 SPEAKER_0 [3957s - 3980s]
+So if you know that God wants to meet you this morning or if you want to meet with God, I just wanna encourage you. There's no one watching. No one no one paying any attention to you. They're all focusing on God. Encourage you just to put your hands out in front of you.
+
+🎤 SPEAKER_0 [3982s - 3990s]
+And there's nothing special about that. It's actually just a prayer posture. It's kind of like open hands saying, god, I wanna meet with you.
+
+🎤 SPEAKER_0 [3991s - 3993s]
+Holy Spirit, I'm done ignoring you.
+
+🎤 SPEAKER_0 [3996s - 3997s]
+I'm tan ignorant you.
+
+🎤 SPEAKER_0 [4005s - 4020s]
+The incredible thing is that when we confess our sin, we are met with overwhelming love. Overwhelming forgiveness. If you're here this morning and you realise you need to be reconciled with God, I Holy Spirit, I just pray that you move upon me now.
+
+🎤 SPEAKER_0 [4023s - 4033s]
+Move in this place. It's nothing that I'm gonna say that's gonna convince anybody here It has to be you, god.
+
+🎤 SPEAKER_0 [4037s - 4058s]
+Come, holy spirit. May you be our greatest treasure. May you be our greatest Or order price. May we treasure you more than we treasure anything.
+
+🎤 SPEAKER_0 [4061s - 4064s]
+May you be the one that we give up everything to chase after.
+
+🎤 SPEAKER_0 [4071s - 4074s]
+Work in this place is gonna make us a pure bride.
+
+🎤 SPEAKER_0 [4096s - 4104s]
+Invite the Holy Spirit to meet you. Don't ignore what the Lord may be saying you to to you today.
+
+🎤 SPEAKER_1 [4105s - 4113s]
+Come and meet with him. Come and join me at the front. If you want to just worship, from the front, come and join me. And let's just enjoy God together.
+
+🎤 SPEAKER_1 [4114s - 4123s]
+Remember that there's grace, there's forgiveness, there's overwhelming love for all those. Believe in the son. Isn't that good news?
+
+🎤 SPEAKER_1 [4124s - 4125s]
+Let's worship together.
+
+
+---
+
