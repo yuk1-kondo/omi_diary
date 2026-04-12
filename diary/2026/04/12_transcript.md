@@ -6937,3 +6937,53 @@ Yes. Go to shoes?
 
 ---
 
+
+
+## 📝 Family Picnic Plans and Inviting Mum - ec023335-c7bd-417e-8f82-caae21e6434c
+
+**記録時間**: 2026-04-12 22:32:24
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 0s]
+Yeah?
+
+🎤 SPEAKER_3 [303s - 306s]
+She's gonna do a little poor picnicky thing.
+
+🎤 SPEAKER_2 [307s - 308s]
+Bring the little ones. Cake
+
+🎤 SPEAKER_2 [313s - 314s]
+Yeah. People.
+
+🎤 SPEAKER_3 [317s - 319s]
+But I promise I said to my mom I would do something with her.
+
+🎤 SPEAKER_1 [320s - 322s]
+Yeah. I think it's cheeky to say Come on, mum.
+
+🎤 SPEAKER_0 [323s - 328s]
+Come. Yeah. No. Don't think so. Just say or just a thought, Alan.
+
+🎤 SPEAKER_3 [328s - 331s]
+Yeah. I'll just say, I'd I'd say to my wife, I'm day with her, you mind if she comes?
+
+🎤 SPEAKER_0 [331s - 332s]
+Would
+
+🎤 SPEAKER_3 [333s - 334s]
+it is really cheap?
+
+🎤 SPEAKER_1 [334s - 335s]
+Ask if she could come? My mum would love it.
+
+🎤 SPEAKER_0 [336s - 338s]
+She would. She'd be and Anna would be fine with that.
+
+🎤 SPEAKER_0 [349s - 353s]
+Make sure it doesn't sound like you're Well, I don't I would like to come, but a prosumer man
+
+
+---
+
