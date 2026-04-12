@@ -1631,3 +1631,74 @@ Sound good to me?
 
 ---
 
+
+
+## 📝 Band Rehearses Arrangement With Ben - fb168d8e-1d0a-4a6f-8735-c29c3f267863
+
+**記録時間**: 2026-04-12 18:24:38
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 128s]
+How'd you wanna do up there, Ben? Yeah. So how how is this all in or is it stripped back?
+
+🎤 SPEAKER_3 [131s - 131s]
+Sorry?
+
+🎤 SPEAKER_0 [133s - 134s]
+Right.
+
+🎤 SPEAKER_3 [134s - 134s]
+Okay. Sorry.
+
+🎤 SPEAKER_4 [134s - 135s]
+Yeah.
+
+🎤 SPEAKER_0 [138s - 237s]
+Yeah. Slightly distracted by a few things going on. So I will probably do the bridge slightly different rather than just a thumb.
+
+🎤 SPEAKER_1 [240s - 242s]
+But no. It's not nice.
+
+🎤 SPEAKER_0 [243s - 276s]
+Hello. Welcome back. Yeah. So you sorry. Again, distracted. Sorry,
+
+🎤 SPEAKER_5 [276s - 276s]
+Ben.
+
+🎤 SPEAKER_0 [277s - 281s]
+You doing the as recorded or you're adding the extra bars in? Taking the bars out or whichever?
+
+🎤 SPEAKER_4 [281s - 282s]
+No.
+
+🎤 SPEAKER_1 [282s - 283s]
+Just the one in half.
+
+🎤 SPEAKER_4 [283s - 284s]
+Keep it keep it easy.
+
+🎤 SPEAKER_0 [298s - 300s]
+It's jazz, man. You know? Let's just do it.
+
+🎤 SPEAKER_6 [312s - 314s]
+It's yeah. So I I just need to make sure I I don't
+
+🎤 SPEAKER_0 [326s - 327s]
+I am not meant to be in the kitchen.
+
+🎤 SPEAKER_3 [335s - 336s]
+Con.
+
+🎤 SPEAKER_0 [338s - 339s]
+Just spray the coats then.
+
+🎤 SPEAKER_0 [346s - 348s]
+Play play play the chords again without singing it.
+
+🎤 SPEAKER_0 [368s - 370s]
+Yeah. Yeah. What the
+
+
+---
+
