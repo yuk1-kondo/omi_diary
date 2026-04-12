@@ -1702,3 +1702,74 @@ Yeah. Yeah. What the
 
 ---
 
+
+
+## 📝 Team Debates Tempo For Christmas Song - 53daad4a-81ec-480a-8a4f-ad2e1d64f106
+
+**記録時間**: 2026-04-12 18:30:51
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 9s]
+You lose all momentum if you do it between the verse and chorus. What about tempo, Ben? Are happy with that? If I felt a touch slow to me, but that but I might be wrong.
+
+🎤 SPEAKER_6 [11s - 13s]
+Might Things are really slow because it is I mean, it's marked as Forty.
+
+🎤 SPEAKER_4 [13s - 13s]
+Yeah.
+
+🎤 SPEAKER_6 [15s - 17s]
+So it's that simple.
+
+🎤 SPEAKER_0 [19s - 21s]
+So Ben was pretty much there, was it?
+
+🎤 SPEAKER_6 [24s - 26s]
+Yeah. 40 piece.
+
+🎤 SPEAKER_6 [30s - 31s]
+Otherwise, it feels like a jig. Yeah.
+
+🎤 SPEAKER_6 [35s - 36s]
+And it's just so raw.
+
+🎤 SPEAKER_5 [37s - 39s]
+And the bells are ringing out for Christmas day.
+
+🎤 SPEAKER_6 [39s - 44s]
+That's exactly what it's gonna feel like. Is that sort of I Irish jig kind of feel in general.
+
+🎤 SPEAKER_5 [44s - 57s]
+Yeah.
+
+🎤 SPEAKER_4 [58s - 58s]
+Hold on, mate.
+
+🎤 SPEAKER_1 [67s - 164s]
+Yeah.
+
+🎤 SPEAKER_0 [173s - 177s]
+Lyrically, it's beautiful. Yeah. That's why I I tend to pick it but it's
+
+🎤 SPEAKER_4 [178s - 178s]
+Yeah.
+
+🎤 SPEAKER_0 [178s - 190s]
+You either do it like a dirge or you do it as as Richard said not to do it, but do it but do it intentionally because it is a bit well, maybe not that.
+
+🎤 SPEAKER_0 [191s - 192s]
+Maybe somewhere in the middle,
+
+🎤 SPEAKER_6 [196s - 197s]
+Oké.
+
+🎤 SPEAKER_0 [199s - 208s]
+No. No. No. No. I was looking at song choice last night thinking, fits it fits. Fits the fits the theme for today.
+
+🎤 SPEAKER_6 [209s - 209s]
+So Lovely. Thanks.
+
+
+---
+
