@@ -6863,3 +6863,77 @@ Yeah. But the the your legs are looking lovely.
 
 ---
 
+
+
+## 📝 Planning a Summer Mediterranean Holiday - f73fa72f-3f7e-4f66-a6b4-05df0001675a
+
+**記録時間**: 2026-04-12 22:24:31
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 294s]
+Oh, yeah.
+
+🎤 SPEAKER_0 [295s - 296s]
+Yeah. That'd be nice.
+
+🎤 SPEAKER_1 [298s - 299s]
+Do it Friday.
+
+🎤 SPEAKER_3 [299s - 304s]
+Saturday, and we'll do it after the football season's finished.
+
+🎤 SPEAKER_0 [306s - 312s]
+Maybe June time? Yeah. And book it around notch your period because it always seems to land unfortunately.
+
+🎤 SPEAKER_3 [313s - 330s]
+Well, the good thing is now completely avoid Apparently, I don't have like days obviously made quite a good difference to the predictions of the web period. I think I'll only be catching half of it anyways, but the problem is if you're catching a few days of it, you still want to take all the stuff with you.
+
+🎤 SPEAKER_0 [330s - 331s]
+Yeah.
+
+🎤 SPEAKER_2 [333s - 334s]
+Yeah.
+
+🎤 SPEAKER_1 [334s - 338s]
+That would be a lot less stuff I'll have to take with me. I hope then.
+
+🎤 SPEAKER_0 [338s - 342s]
+That's gonna be okay. Was it well, it should be.
+
+🎤 SPEAKER_1 [342s - 347s]
+I mean, it's all I do it's just the difference between kind of the Carreon or strap it off in shorts.
+
+🎤 SPEAKER_0 [351s - 352s]
+Well, that's the way they're like there at the minute.
+
+🎤 SPEAKER_2 [352s - 353s]
+Great.
+
+🎤 SPEAKER_3 [354s - 358s]
+It's a bit hit and miss, but it's not great here. But it's definitely though.
+
+🎤 SPEAKER_0 [359s - 363s]
+So we're hoping another month It is seven it is the Mediterranean, so it's not it's not North France, obviously.
+
+🎤 SPEAKER_3 [365s - 374s]
+Central it's hard because we're wearing than So it's like 17 or it's nine oh, shit. It's 19 all the next week. With full sun. You in South Tropech and on the coast.
+
+🎤 SPEAKER_1 [376s - 378s]
+And we are inland where our actual resort is Yeah.
+
+🎤 SPEAKER_3 [379s - 393s]
+We should couple of degrees warmer than that, three degrees. That's quite good. I'm just it would be so nice if it was actually gonna be reliably hot every day, and all I would need is, like, a couple of pairs of shorts.
+
+🎤 SPEAKER_3 [393s - 394s]
+Strappy tops,
+
+🎤 SPEAKER_2 [394s - 395s]
+Yeah.
+
+🎤 SPEAKER_2 [467s - 472s]
+Yes. Go to shoes?
+
+
+---
+
