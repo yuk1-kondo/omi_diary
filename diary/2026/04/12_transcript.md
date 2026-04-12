@@ -1850,3 +1850,779 @@ Yeah.
 
 ---
 
+
+
+## 📝 Sunday Service Conversations and Church Welcomes - 18cc1b32-aa54-4396-bae8-f486f12a589a
+
+**記録時間**: 2026-04-12 18:44:37
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 182s]
+Very good.
+
+🎤 SPEAKER_0 [186s - 186s]
+Yeah. That's Yeah.
+
+🎤 SPEAKER_5 [190s - 199s]
+Beautiful.
+
+🎤 SPEAKER_5 [202s - 203s]
+Apeia Very good.
+
+🎤 SPEAKER_0 [204s - 209s]
+Well done, guys. Good. Good job. Job. Oh, Yeah.
+
+🎤 SPEAKER_5 [209s - 211s]
+Man, you when you hit your foot, you're sitting on something like that.
+
+🎤 SPEAKER_0 [217s - 219s]
+No. You enjoy your thirties, brother.
+
+🎤 SPEAKER_0 [222s - 223s]
+You enjoy your thirties.
+
+🎤 SPEAKER_5 [226s - 234s]
+I thought we had a leave it there leave it there because no.
+
+🎤 SPEAKER_4 [234s - 237s]
+No. They've seen it. They've seen it. Right.
+
+🎤 SPEAKER_5 [237s - 245s]
+Unfortunately, No. This it's got it's got missing for two weeks now. So the center is not us. Oh, yeah? No.
+
+🎤 SPEAKER_0 [245s - 251s]
+I don't I a good look last week. Around the back and everything. And so know.
+
+🎤 SPEAKER_6 [253s - 254s]
+We must have we must have buy one.
+
+🎤 SPEAKER_0 [255s - 257s]
+It's probably gone in the cupboards unfortunately, it looks like.
+
+🎤 SPEAKER_5 [258s - 263s]
+This happens when I'm doing tune in. Probably gone probably gone into the black box. It's not in there.
+
+🎤 SPEAKER_6 [263s - 264s]
+The black box.
+
+🎤 SPEAKER_5 [264s - 269s]
+That's in the cupboards. But I'll just I'll just handheld it. It's fine.
+
+🎤 SPEAKER_6 [270s - 273s]
+So it's not the end of the world, but Michelle was asking me where it was, and I Oh, yeah.
+
+🎤 SPEAKER_8 [273s - 274s]
+I see.
+
+🎤 SPEAKER_0 [276s - 277s]
+Think it must be in there in there.
+
+🎤 SPEAKER_5 [280s - 286s]
+In the one in the cupboards? Oh, yeah. I'd love to do. Oh, it's not in there, Jonathan. I don't mind. Right.
+
+🎤 SPEAKER_0 [286s - 287s]
+I need something.
+
+🎤 SPEAKER_6 [291s - 291s]
+Yeah.
+
+🎤 SPEAKER_0 [291s - 293s]
+Yeah. Alright. Let's get some tunes going, is it?
+
+🎤 SPEAKER_1 [295s - 298s]
+Oh, yeah?
+
+🎤 SPEAKER_5 [301s - 302s]
+Oh, yeah?
+
+🎤 SPEAKER_4 [303s - 303s]
+Okay.
+
+🎤 SPEAKER_5 [306s - 308s]
+Is he hopefully, he'll be here today.
+
+🎤 SPEAKER_0 [312s - 315s]
+Not this week. Not this week, buddy. Unless unless Nico doesn't turn up.
+
+🎤 SPEAKER_4 [316s - 316s]
+Okay.
+
+🎤 SPEAKER_1 [327s - 408s]
+Welcome back.
+
+🎤 SPEAKER_0 [409s - 410s]
+Hello.
+
+🎤 SPEAKER_5 [410s - 413s]
+Thank you. Good to see you both. I'm so I've forgotten your names. I'm sorry.
+
+🎤 SPEAKER_4 [413s - 414s]
+Tim.
+
+🎤 SPEAKER_6 [414s - 414s]
+Karen.
+
+🎤 SPEAKER_5 [415s - 415s]
+Tim and Karen.
+
+🎤 SPEAKER_4 [415s - 415s]
+Yeah.
+
+🎤 SPEAKER_5 [416s - 424s]
+And you're down for the week the weekend or something? Yeah. Just a long weekend. Yeah. Allowing Brian and Sarah to go and collect rocks, am I? Yeah. Am I understand?
+
+🎤 SPEAKER_6 [424s - 425s]
+That's right. Yeah.
+
+🎤 SPEAKER_5 [425s - 430s]
+The the sort of date nights you have when when you live in a castle, I guess.
+
+🎤 SPEAKER_5 [434s - 440s]
+Yeah. Very good. Oh, very good. Yeah. And when you guys heading home?
+
+🎤 SPEAKER_1 [441s - 441s]
+Tomorrow.
+
+🎤 SPEAKER_5 [442s - 444s]
+Well, enjoy. Hopefully, the weather would be now.
+
+🎤 SPEAKER_0 [444s - 445s]
+Yeah. You found it.
+
+🎤 SPEAKER_5 [445s - 448s]
+Excellent. Thanks, Michelle.
+
+🎤 SPEAKER_4 [448s - 449s]
+Sorry.
+
+🎤 SPEAKER_5 [449s - 452s]
+The weather's improving. Oh, it's cold yesterday. Was wasn't it?
+
+🎤 SPEAKER_0 [453s - 453s]
+It was cold yesterday.
+
+🎤 SPEAKER_5 [453s - 455s]
+Well, good to see you both.
+
+🎤 SPEAKER_1 [455s - 455s]
+Yeah.
+
+🎤 SPEAKER_5 [456s - 461s]
+Hello. Hi. I'm I'm the I'm the pastor. Nice to meet you. Have we met before? No. No.
+
+🎤 SPEAKER_6 [461s - 462s]
+But we have communicated before.
+
+🎤 SPEAKER_0 [463s - 464s]
+Oh, have we?
+
+🎤 SPEAKER_5 [464s - 467s]
+Via message? Yeah. Yes.
+
+🎤 SPEAKER_0 [467s - 469s]
+Oh, your daughter. Yes. Your daughter. Yeah.
+
+🎤 SPEAKER_5 [469s - 470s]
+Moving to Bowring.
+
+🎤 SPEAKER_0 [472s - 472s]
+For work.
+
+🎤 SPEAKER_5 [472s - 473s]
+And it's does that happens?
+
+🎤 SPEAKER_8 [474s - 474s]
+Or Yes.
+
+🎤 SPEAKER_9 [474s - 476s]
+She's here. She's been here a couple years.
+
+🎤 SPEAKER_4 [476s - 476s]
+Oh, okay.
+
+🎤 SPEAKER_9 [476s - 481s]
+Great. Two years this summer, but it's been it's taking some nice time to get here. Sorry.
+
+🎤 SPEAKER_4 [481s - 482s]
+Yeah. Oh, no. No.
+
+🎤 SPEAKER_5 [482s - 483s]
+Not at all. John O, isn't it? That's right.
+
+🎤 SPEAKER_4 [484s - 485s]
+And Zero. Zero.
+
+🎤 SPEAKER_10 [487s - 488s]
+My name is a French name. It's
+
+🎤 SPEAKER_4 [488s - 489s]
+Omi.
+
+🎤 SPEAKER_0 [489s - 490s]
+Oh, very nice. So is very good.
+
+🎤 SPEAKER_8 [490s - 493s]
+And he remember, but you don't know and John and
+
+🎤 SPEAKER_5 [494s - 494s]
+That works.
+
+🎤 SPEAKER_0 [494s - 495s]
+That's absolutely fantastic.
+
+🎤 SPEAKER_5 [495s - 504s]
+We've got a lady here called Rana, and I have to call her for the first few months just for it to stick. Oh, very well. But very very welcome. And you guys are new frontiers.
+
+🎤 SPEAKER_5 [505s - 506s]
+What sphere is this? You met me?
+
+🎤 SPEAKER_0 [506s - 507s]
+Captain. Yes.
+
+🎤 SPEAKER_4 [508s - 508s]
+Cabinet.
+
+🎤 SPEAKER_5 [509s - 510s]
+And you're here for the weekend, essentially?
+
+🎤 SPEAKER_9 [510s - 512s]
+Yeah. We've been here for the weekend. Great.
+
+🎤 SPEAKER_0 [513s - 514s]
+Very good.
+
+🎤 SPEAKER_9 [514s - 515s]
+Finally managed to get you on.
+
+🎤 SPEAKER_0 [516s - 516s]
+So Oh, brilliant. Well, hey.
+
+🎤 SPEAKER_5 [516s - 519s]
+Difficult to get Sunday Sunday, obviously.
+
+🎤 SPEAKER_9 [519s - 519s]
+Yeah. It's done.
+
+🎤 SPEAKER_5 [520s - 521s]
+Brilliant.
+
+🎤 SPEAKER_0 [521s - 521s]
+Well, very welcome.
+
+🎤 SPEAKER_5 [522s - 530s]
+You could have dropped me a message. We could have given you a I think New Frontier is welcome, you know. And we're like that. You just enjoy being anonymous for a Sunday.
+
+🎤 SPEAKER_4 [532s - 533s]
+How things going?
+
+🎤 SPEAKER_11 [533s - 535s]
+Yeah.
+
+🎤 SPEAKER_9 [535s - 537s]
+I mean, I'm off work at the moment. I've got a bit of burn out.
+
+🎤 SPEAKER_4 [538s - 538s]
+So Yeah, man.
+
+🎤 SPEAKER_5 [539s - 540s]
+So easy. So easy to happen, isn't it?
+
+🎤 SPEAKER_0 [542s - 543s]
+Very good. Very good.
+
+🎤 SPEAKER_5 [544s - 545s]
+Sundays.
+
+🎤 SPEAKER_0 [545s - 545s]
+Very good.
+
+🎤 SPEAKER_5 [545s - 548s]
+Yeah.
+
+🎤 SPEAKER_9 [549s - 552s]
+So is it kind of a sabbatical or a bit more just just see how it goes and This I was signed up by the doctor. Right.
+
+🎤 SPEAKER_5 [552s - 553s]
+I see.
+
+🎤 SPEAKER_4 [553s - 553s]
+Yeah. Yeah.
+
+🎤 SPEAKER_9 [553s - 556s]
+So I'm going to go back into May.
+
+🎤 SPEAKER_0 [557s - 557s]
+Right.
+
+🎤 SPEAKER_4 [558s - 558s]
+Okay.
+
+🎤 SPEAKER_5 [560s - 569s]
+Yes. Okay. And so has it Everyone I speak to goes on sabbatical, a bit different. Feel like they should come back ready, but they they often don't. They often want want longer.
+
+🎤 SPEAKER_5 [570s - 570s]
+I don't know.
+
+🎤 SPEAKER_8 [578s - 580s]
+Yeah. Yeah.
+
+🎤 SPEAKER_4 [584s - 585s]
+Oh, wow. Yeah.
+
+🎤 SPEAKER_5 [585s - 586s]
+Yeah.
+
+🎤 SPEAKER_0 [586s - 587s]
+That is well done, guys.
+
+🎤 SPEAKER_5 [587s - 591s]
+You know. Just just the grits needed for ten years.
+
+🎤 SPEAKER_0 [592s - 595s]
+Do you need that dress? Well, not yet.
+
+🎤 SPEAKER_5 [595s - 609s]
+Not yet. So we planted this 2019. And it was in our lounge. There's only six of us at a time. So it was a bit easier. And so we are now seven years. So advanced churches tend to do cerbaticals on seven years, obviously.
+
+🎤 SPEAKER_5 [611s - 619s]
+Six of those, I've been part time studying at Union Bible College, so a part time student part time you know, church planter.
+
+🎤 SPEAKER_5 [620s - 626s]
+And so it feels like we've only really got going these last few years. It's just fine. It just takes longer than you anticipate sometimes.
+
+🎤 SPEAKER_5 [627s - 642s]
+But god's goodness, think, in terms of not going too fast or and burning out. It was so easy to do. Yeah. So we're we're doing well. We've still I still consider it a plant because we haven't got an established shell shipped yet. Yeah. We're working on that.
+
+🎤 SPEAKER_5 [643s - 645s]
+We've got a couple of couples where we're kinda tracking with.
+
+🎤 SPEAKER_0 [646s - 649s]
+But yeah. But we're still steady so steady progress. You know?
+
+🎤 SPEAKER_9 [649s - 650s]
+How many are you gathering?
+
+🎤 SPEAKER_4 [650s - 651s]
+Same.
+
+🎤 SPEAKER_5 [652s - 667s]
+Well, sixty seventy. Oh, really? Yeah. This one by you'll notice the doorbell downstairs. When when the when the welcome team finish now in about twenty minutes after the service starts, still ringing the doorbell, ding dong, ding dong. So you'll you'll hear that a few times. We can't turn the thing off.
+
+🎤 SPEAKER_5 [668s - 673s]
+So that so people arrive late essentially. But we are we are needing a new building.
+
+🎤 SPEAKER_5 [674s - 693s]
+We are know, maxing the space out. We have I say sixty five seventeen. Twenty twenty five of those are children. So so it's a it's a, you know, a bit big ministry. God's bless us with with kids. We three years ago, we had three or four kids and we prayed. God send us some families. Send us two families.
+
+🎤 SPEAKER_5 [694s - 701s]
+And he sent us loads. And so we've got we've got a bunch of kids. Yeah. So it's going it's going it's going. We're getting there. We're getting there.
+
+🎤 SPEAKER_5 [701s - 704s]
+How's your daughter? What's your daughter's name again? Remind me now.
+
+🎤 SPEAKER_8 [704s - 704s]
+Joy.
+
+🎤 SPEAKER_5 [704s - 706s]
+Joy. How's Joy settling in the area?
+
+🎤 SPEAKER_9 [707s - 707s]
+She loves it.
+
+🎤 SPEAKER_5 [707s - 709s]
+Does she? Yeah. She loves it.
+
+🎤 SPEAKER_0 [709s - 712s]
+This is culturally quite different for in subtle ways subtle ways.
+
+🎤 SPEAKER_9 [715s - 716s]
+Alright. Yes.
+
+🎤 SPEAKER_8 [717s - 717s]
+Just left it.
+
+🎤 SPEAKER_5 [717s - 720s]
+The shake. Yeah. Just left the whole area then.
+
+🎤 SPEAKER_8 [720s - 720s]
+Yeah. Yeah. Yeah.
+
+🎤 SPEAKER_12 [721s - 727s]
+And then when someone say it. Yeah. Right.
+
+🎤 SPEAKER_5 [728s - 730s]
+Cumbria. Yeah. So similar rural Yeah.
+
+🎤 SPEAKER_9 [730s - 732s]
+Exactly. Similar rural.
+
+🎤 SPEAKER_5 [733s - 737s]
+Yeah. And a bit more parochial and friendly as well up that way, is it? Yeah.
+
+🎤 SPEAKER_0 [737s - 737s]
+Yeah.
+
+🎤 SPEAKER_4 [737s - 739s]
+Yeah. Yeah. Okay.
+
+🎤 SPEAKER_5 [739s - 742s]
+Where are guys based now? You've told me this already. This is We're in Kroger.
+
+🎤 SPEAKER_0 [743s - 744s]
+Cobra.
+
+🎤 SPEAKER_4 [744s - 745s]
+Where is that again?
+
+🎤 SPEAKER_9 [745s - 747s]
+Near near near at Thomas Wells.
+
+🎤 SPEAKER_5 [747s - 756s]
+Right. Yes. Yes. I know that name. But Yeah. Right. Yeah. Yeah. Okay. That's a long way to come.
+
+🎤 SPEAKER_1 [759s - 760s]
+Four hours or more?
+
+🎤 SPEAKER_4 [762s - 762s]
+Yeah.
+
+🎤 SPEAKER_0 [763s - 763s]
+Yeah.
+
+🎤 SPEAKER_5 [764s - 768s]
+Hopefully, you've had a nice welcome so far from people saying hello and good. Good.
+
+🎤 SPEAKER_0 [768s - 771s]
+Well, hopefully, you just enjoy it and be refreshed and and anytime you're done, you're very welcome.
+
+🎤 SPEAKER_5 [771s - 773s]
+You know?
+
+🎤 SPEAKER_0 [774s - 776s]
+Have you have you got yourself a coffee and bacon?
+
+🎤 SPEAKER_5 [776s - 778s]
+You're fine. You're fine.
+
+🎤 SPEAKER_12 [778s - 778s]
+Alright.
+
+🎤 SPEAKER_5 [779s - 780s]
+Great to see you.
+
+🎤 SPEAKER_0 [783s - 783s]
+You should've been given a wealth bag.
+
+🎤 SPEAKER_5 [784s - 790s]
+So that's a bit of a that's a bit of a fail. But in there is some chocolate in there. I'll get I'll get you one anyway so she can
+
+🎤 SPEAKER_3 [794s - 794s]
+Hi, John.
+
+🎤 SPEAKER_4 [795s - 795s]
+Yeah.
+
+🎤 SPEAKER_0 [795s - 795s]
+Good.
+
+🎤 SPEAKER_6 [796s - 800s]
+I was gonna ask you to do communion with your with your wife and then Michelle reminding me, you know,
+
+🎤 SPEAKER_0 [801s - 801s]
+On the hon.
+
+🎤 SPEAKER_3 [801s - 803s]
+Oh, yeah. On the hon, Have you got who have you got?
+
+🎤 SPEAKER_9 [803s - 805s]
+That's fine. I got medium range.
+
+🎤 SPEAKER_6 [806s - 808s]
+And Steven Runner.
+
+🎤 SPEAKER_0 [808s - 812s]
+Okay. Great. So there we go. Good. Good. Thank you, John. Right.
+
+🎤 SPEAKER_8 [813s - 814s]
+Let me get Good to see you.
+
+🎤 SPEAKER_4 [814s - 815s]
+Hello. Welcome.
+
+🎤 SPEAKER_9 [833s - 833s]
+Good to see Better.
+
+🎤 SPEAKER_5 [833s - 837s]
+I'm feeling better. I'm feeling better. Better. Yeah. That's good. Yeah. Yeah. Yeah.
+
+🎤 SPEAKER_11 [838s - 839s]
+I think she's also
+
+🎤 SPEAKER_4 [842s - 843s]
+What a Mary.
+
+🎤 SPEAKER_5 [845s - 847s]
+This man my wonderful mother-in-law.
+
+🎤 SPEAKER_4 [848s - 848s]
+There we are. Thank you.
+
+🎤 SPEAKER_5 [849s - 856s]
+So my wife Rachel, you met her already? Have you? She's in the green party. I thought she said hello. Maybe not. She you'll see her at the front today.
+
+🎤 SPEAKER_3 [856s - 857s]
+Yeah.
+
+🎤 SPEAKER_3 [862s - 866s]
+Okay. Was that alright? Yes.
+
+🎤 SPEAKER_0 [866s - 867s]
+Good.
+
+🎤 SPEAKER_3 [868s - 868s]
+Good.
+
+🎤 SPEAKER_4 [869s - 869s]
+Excellent.
+
+🎤 SPEAKER_0 [886s - 887s]
+And then Hello, Harva. How are you?
+
+🎤 SPEAKER_3 [887s - 888s]
+Good to see you.
+
+🎤 SPEAKER_4 [888s - 889s]
+Hey, kids. How are you? Yeah.
+
+🎤 SPEAKER_5 [890s - 894s]
+What's the what's the latest in here? How's things going on in life? Okay?
+
+🎤 SPEAKER_8 [896s - 896s]
+Yeah?
+
+🎤 SPEAKER_4 [899s - 900s]
+Meaning to catch up with you and get to hear a bit more about your story and everything and
+
+🎤 SPEAKER_0 [903s - 904s]
+As much as you want to share?
+
+🎤 SPEAKER_2 [906s - 906s]
+I'll be more flexible from May.
+
+🎤 SPEAKER_4 [907s - 913s]
+Oh, yeah? So my lecture will the lecture will be finished in, two weeks time. Oh, yes.
+
+🎤 SPEAKER_2 [913s - 916s]
+So for May, almost I be flexible.
+
+🎤 SPEAKER_0 [916s - 920s]
+I could go around you or Rachel. Good. Fabian. And what where are you studying now?
+
+🎤 SPEAKER_5 [921s - 923s]
+Cardiac it's a PhD, is it? Masters?
+
+🎤 SPEAKER_12 [923s - 925s]
+At the moment, masters. Yes. And then PhD.
+
+🎤 SPEAKER_0 [926s - 928s]
+Very good. That's exciting.
+
+🎤 SPEAKER_2 [928s - 930s]
+That's Are you the YouTube like, writing essay as well?
+
+🎤 SPEAKER_0 [930s - 933s]
+Yeah. Cool. I'm I'm just finishing my degree BA, it is.
+
+🎤 SPEAKER_5 [934s - 937s]
+So six years I did that for part time. Yeah.
+
+🎤 SPEAKER_0 [937s - 938s]
+So we're not quite master's level, but it's my second Yeah.
+
+🎤 SPEAKER_5 [945s - 947s]
+Good to see you, Dan. Here we are.
+
+🎤 SPEAKER_0 [947s - 949s]
+My brain just broke for two seconds then.
+
+🎤 SPEAKER_5 [951s - 953s]
+Yeah. So that's finishing now. And so that's my I did a Sorry.
+
+🎤 SPEAKER_2 [956s - 958s]
+Just quick. Have you put kids so much?
+
+🎤 SPEAKER_5 [958s - 963s]
+Yeah. But you need to pick different one if want to. Oh my god. Sorry. That's not on there.
+
+🎤 SPEAKER_0 [965s - 968s]
+It's pre's party. Can't remember. Now you got to got that one.
+
+🎤 SPEAKER_5 [968s - 969s]
+Everyone praise the Lord.
+
+🎤 SPEAKER_4 [969s - 971s]
+Just that one.
+
+🎤 SPEAKER_0 [977s - 981s]
+That last And what Harry, also what's your what's your area of interest expertise there?
+
+🎤 SPEAKER_3 [984s - 990s]
+At the moment, social science Yeah. Are quite PhDs a different school, so I'll be in the school of more than not my background.
+
+🎤 SPEAKER_2 [999s - 1001s]
+No. That's why I'm doing social science now.
+
+🎤 SPEAKER_0 [1001s - 1003s]
+I see. Yeah. Very good.
+
+🎤 SPEAKER_3 [1004s - 1006s]
+Previously was translation studies and then literature.
+
+🎤 SPEAKER_5 [1008s - 1010s]
+Alright. Yeah. Brilliant.
+
+🎤 SPEAKER_0 [1010s - 1011s]
+Well, as soon as you finish then, may what is this now?
+
+🎤 SPEAKER_5 [1012s - 1014s]
+Are you doing the final bits of work over them?
+
+🎤 SPEAKER_3 [1014s - 1017s]
+I have some to do. Yeah.
+
+🎤 SPEAKER_12 [1018s - 1019s]
+Know, if you can catch up, catch up, because Great.
+
+🎤 SPEAKER_0 [1021s - 1026s]
+Well, yeah. I mean, I've got I've got two exams coming up, Old Testament, New Testament.
+
+🎤 SPEAKER_5 [1027s - 1030s]
+And so it could be anything on Ezekiel.
+
+🎤 SPEAKER_8 [1030s - 1031s]
+Which one do you prefer?
+
+🎤 SPEAKER_1 [1031s - 1031s]
+Often.
+
+🎤 SPEAKER_0 [1032s - 1042s]
+Well, the new session is easier because I'm more familiar with it. More familiar whereas we got in our in the union, it's a world as prestigious and it's called Union Bubble Cottage.
+
+🎤 SPEAKER_0 [1043s - 1053s]
+It's it's in Bridges, but strangely, got a global reach. It's kind of connected in with gospel coalition and a few others across the state. So we've, for example, we've got a world expert on Ezekiel there.
+
+🎤 SPEAKER_0 [1053s - 1062s]
+We've a world expert on the early church fathers. But they're American and they kind of started. So he's in Ezekiel. I'm being tested on it and it's stressful because he's so good.
+
+🎤 SPEAKER_0 [1063s - 1074s]
+But anyway, that's Maybe in June or late May June or something. That's fine. We'll take you for a coffee or something or drink and And just hear a bit more about what's going on.
+
+🎤 SPEAKER_1 [1074s - 1075s]
+Here's the It's starting out
+
+🎤 SPEAKER_7 [1105s - 1106s]
+Hi, Karen.
+
+🎤 SPEAKER_0 [1110s - 1114s]
+Two dais at Groner upstairs.
+
+🎤 SPEAKER_1 [1116s - 1117s]
+Started, come on.
+
+🎤 SPEAKER_1 [1121s - 1129s]
+Hey, Rubina.
+
+🎤 SPEAKER_0 [1129s - 1129s]
+Good to see you.
+
+🎤 SPEAKER_4 [1129s - 1130s]
+How are you?
+
+🎤 SPEAKER_12 [1130s - 1131s]
+Yeah. I'm good. How about you?
+
+🎤 SPEAKER_1 [1131s - 1132s]
+Very good.
+
+🎤 SPEAKER_0 [1136s - 1138s]
+Christine, hello, mate. I wanna interrupt. I'll just say hello.
+
+🎤 SPEAKER_8 [1138s - 1139s]
+Bye, bud.
+
+🎤 SPEAKER_4 [1142s - 1142s]
+Okay.
+
+🎤 SPEAKER_8 [1165s - 1174s]
+Just enjoy my presence for you. God this morning, the God that made, you know, they've talked about space for that last couple of weeks.
+
+🎤 SPEAKER_8 [1179s - 1190s]
+Now that's the most amazing thing, guys, that he wants to You know? So come and just spend time with him this morning and enjoy what's going on.
+
+🎤 SPEAKER_8 [1190s - 1198s]
+Enjoy what he's got to give us. In every way. You know, recent reading the word later, we're going to do the catechisms well.
+
+🎤 SPEAKER_8 [1199s - 1228s]
+And we're gonna do some we're gonna have some worship. The way it works is we're gonna we're gonna do a a family song. First off, and then we're gonna do some worship, then we'll fit everything else. If the capsic kissoms and the communion and everything they have they have a great time don't they? You don't have to tell the kids enjoy themselves because they have a good inside.
+
+🎤 SPEAKER_8 [1229s - 1239s]
+And then we're gonna hear the wounds, the and then we're gonna finish with some songs and prayer. If you need prayer this morning, just come and ask.
+
+🎤 SPEAKER_8 [1239s - 1250s]
+You know we're always willing to pray and God is willing to listen. Let's just pray a moment. Father, we just thank you this morning that we encourage you in your presence.
+
+🎤 SPEAKER_8 [1251s - 1265s]
+That we can come and just to spend time with you and just hear what you've got to say. Enjoy ourselves in your presence, And I pray for those who can't be with us for whatever reason, you would bless them where they are.
+
+🎤 SPEAKER_8 [1266s - 1275s]
+And Lord I pray this morning that we would just go out of this place with hearts full of what you've got planned for us throughout this next week.
+
+🎤 SPEAKER_8 [1276s - 1276s]
+In Jesus name.
+
+🎤 SPEAKER_1 [1277s - 1277s]
+Amen.
+
+🎤 SPEAKER_4 [1278s - 1278s]
+Amen.
+
+🎤 SPEAKER_12 [1279s - 1279s]
+Rachel.
+
+🎤 SPEAKER_2 [1295s - 1305s]
+Easter holidays. I think we've got a few people away, some of our kids away. But you are here and you would like a shaker or a ribbon I do. You can come and grab one, or you wanna use hands.
+
+🎤 SPEAKER_0 [1305s - 1306s]
+Hey, Ronald. Good morning.
+
+🎤 SPEAKER_2 [1307s - 1308s]
+Good to follow on the actions.
+
+🎤 SPEAKER_4 [1309s - 1310s]
+You okay, mate?
+
+🎤 SPEAKER_9 [1310s - 1311s]
+I'm ready. Ready?
+
+🎤 SPEAKER_2 [1311s - 1313s]
+We're gonna worship. I'm gonna pray very quickly.
+
+🎤 SPEAKER_3 [1314s - 1316s]
+I know Johnny just has.
+
+🎤 SPEAKER_10 [1316s - 1319s]
+I'll pray again that we up to case anyone's Right.
+
+🎤 SPEAKER_2 [1322s - 1330s]
+Lord, we're gonna worship you now. We're here. We're gonna lift our voices We're gonna shake our hands. We're gonna make your joyful sounds. We're gonna lean your heart ready?
+
+🎤 SPEAKER_0 [1349s - 1350s]
+Alright. No volume.
+
+🎤 SPEAKER_0 [1388s - 1390s]
+But this I know what to do about that, to be honest with you.
+
+
+---
+
