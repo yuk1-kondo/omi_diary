@@ -1,0 +1,74 @@
+{
+  "id": "d2001d47-799c-4a04-b217-6123fab629b6",
+  "created_at": "2026-04-13T06:02:58.627838+00:00",
+  "started_at": "2026-04-13T05:38:35.561893+00:00",
+  "finished_at": "2026-04-13T06:05:02.418031+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "業者によるシステムデータ移行の検討",
+    "overview": "会話では、前のシステムから新しいシステムへのデータ移行について触れられている。業者が対応する形でデータ移行（講座データなど）を実施することが話題の中心となっているが、具体的なスケジュールや担当者、詳細な手順までは明示されていない。",
+    "emoji": "💾",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "6bc80eb4-b358-4299-a9ca-55bbe0b0adc2",
+      "text": "行こう 業者がやったり データ移行を前のシステムからこっち側にデータ移行 講座",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.8610230629055877e-08,
+      "end": 38.62550002861025,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "0f1d217e-2b6a-46bf-945c-f85e102b893a",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "d2001d47-799c-4a04-b217-6123fab629b6",
+      "chunk_timestamps": [
+        1776060177.599,
+        1776060242.805,
+        1776060303.307,
+        1776060364.283
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-13T06:02:57.599000+00:00",
+      "duration": 306.686
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## データ移行の話題  \n- 業者がデータ移行を担当  \n- 旧システムから新システムへ移行  \n- 講座関連データの移行がテーマ  \n\n## 次のステップ  \n- データ移行の具体的範囲と項目を整理  \n- 業者との詳細な移行計画を確認"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
