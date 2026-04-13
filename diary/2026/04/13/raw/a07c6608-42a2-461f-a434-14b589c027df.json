@@ -1,0 +1,85 @@
+{
+  "id": "a07c6608-42a2-461f-a434-14b589c027df",
+  "created_at": "2026-04-13T07:19:48.193150+00:00",
+  "started_at": "2026-04-13T07:11:32.761749+00:00",
+  "finished_at": "2026-04-13T07:20:56.660000+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "トイレ清掃と備品補充のやり方共有",
+    "overview": "会話では、トイレ清掃と備品管理の方法が説明されている。便器はたわしに洗剤を付けてこすり、水に流せるウェットティッシュで便器周辺をきれいにする手順が示された。また、引き戸の中にトイレットペーパーなどの備品が常に補充されており、そこから自由に持ち出して補充してよいこと、生徒にも追加してよいことが伝えられている。トイレットペーパーがない場合には、その場所から取るように指示する想定の声かけ例も挙げられている。",
+    "emoji": "🧹",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "7b91197e-004a-4a40-8a90-215f70020ee6",
+      "text": "はい吐き拭き掃除 便器はこのたわしで洗剤つけて払うのと水に流せる ウェットティッシュされてるのでそのほうの便器をきれいにするっていうの",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.384185791015625e-07,
+      "end": 30.00412523841857,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    },
+    {
+      "id": "d1a8ab5f-f740-4595-80e1-683e3174e8a7",
+      "text": "引き 戸 本 の 中 に もろもろ を い つ も 補 充 し て く れ て る ん で 、ここ から 持っ て 行っ て も 全 然 オッケー 。 生 徒 に も 追 加 し た ら 全 然 オッケー な 。 トイレット ペーパー 無 い 場合 脅 威 に な て ます ね 。 トイレット ペーパー な い 場合 も 、ここ に トイレット ペーパー が ある の で 取り に で き な さ い みたい な - は い 、ありがとう ござい よろ し く 願 し ます 。",
+      "speaker": "SPEAKER_00",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 541.2382509708405,
+      "end": 563.8982509708404,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1facf40b-b450-463f-a840-02e9574e89a0",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "a07c6608-42a2-461f-a434-14b589c027df",
+      "chunk_timestamps": [
+        1776064787.084,
+        1776064873.533
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-13T07:19:47.084000+00:00",
+      "duration": 206.891
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## トイレ掃除のやり方\n- 便器はたわし＋洗剤でこすって洗う  \n- 水に流せるウェットティッシュでも便器をきれいにする  \n\n## 備品の保管と補充\n- 引き戸の中に掃除用具や備品が常に補充  \n- そこから自由に持ち出して使用してよい  \n- 生徒用に追加補充しても問題なし  \n\n## トイレットペーパー対応\n- トイレットペーパーがないときはここから補充  \n- 足りない場合は取りに来るよう案内する  \n\n## 今後の対応（Next steps）\n- 掃除時はたわしとウェットティッシュを適宜使用  \n- 足りない備品は引き戸の中から補充する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
