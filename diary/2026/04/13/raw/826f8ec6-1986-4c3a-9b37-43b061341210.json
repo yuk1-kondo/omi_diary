@@ -1,0 +1,74 @@
+{
+  "id": "826f8ec6-1986-4c3a-9b37-43b061341210",
+  "created_at": "2026-04-13T06:48:15.974036+00:00",
+  "started_at": "2026-04-13T06:45:43.664960+00:00",
+  "finished_at": "2026-04-13T06:51:14.657475+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "アカウント情報の受領と確認作業",
+    "overview": "発話者が、相手からアカウント情報を受け取り、そのままシステムへ流し込み、名前を確認しながら作業を進める旨を話している。作業場所または関係者として「川崎」という名前が言及されているが、会議参加者名や具体的なタスク期限・予定時刻などは示されていない。",
+    "emoji": "💻",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "21b98d71-5ba9-4004-8430-7c74c748c388",
+      "text": "はい はい ました アカウントもらっても流し込みますそのままそれで名前確認してしながらはい 川崎",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.692077641976766e-07,
+      "end": 49.88687546920776,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "21499cb2-1480-4d89-acea-573161a91f45",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "826f8ec6-1986-4c3a-9b37-43b061341210",
+      "chunk_timestamps": [
+        1776062895.872,
+        1776062956.495,
+        1776063018.246,
+        1776063101.86
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-13T06:48:15.872000+00:00",
+      "duration": 322.03
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## アカウント対応  \n- アカウントを受け取りデータを流し込み予定  \n- 流し込みながら名前を確認する手順を共有  \n\n## 次のステップ  \n- アカウント情報を受領後、即時流し込みと名前確認実施"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
