@@ -1,0 +1,153 @@
+{
+  "id": "75049b15-1952-416c-b46e-0c73b743eec2",
+  "created_at": "2026-04-13T07:39:14.387334+00:00",
+  "started_at": "2026-04-13T07:39:14.387335+00:00",
+  "finished_at": "2026-04-13T07:43:10.900000+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "体験入部の日程調整と打ち合わせ",
+    "overview": "会話では、毎週月曜日に行っている活動（写真関連の部活動やクラブと思われる）の体験入部について、今週は各種委員会があるため実施せず、今週木曜日の放課後に体験入部を行う提案がなされている。また、次の週の月曜日にも通常どおり体験入部を行う予定が示され、参加可能であれば来てほしいと確認している。その後、トレーシングペーパーなどの資材を早めに一緒に取りに行く話や、掃除場所が『LL』であること、そして『打ち合わせに行こう』『大地の方にしよう』といった形で、別室（大地）での打ち合わせに向かう段取りを話している。",
+    "emoji": "📅",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2e07a2bb-3d0c-4d9c-855d-e70dc884ff07",
+      "text": "ん です けど 、いつ も 基 本 的 に 写 真 っ 毎 週 月 曜 日 し て ん ね や ん か 、今日 は み ん な 各 種 委 員 会 と か が ある から 、今日 は 一 旦 体 験 留 分 な し に し て て 、体験 留 保 を 今 週 の 木 曜 日 の 放 課 後 に ちょっと し よう か な と 思っ て て 、どう です か?これ 、そう 、難しい?それ か 、また そ の 次 の 週 の 月 曜 日 に は 、また し よう と 思っ て ん ね ん けど 、もし それ で 日 程 が 合い ま し た ら 、また 来 て い た だ け た ら な と 思っ て ます けど も よろ し い?いい です か 。 し く お 願 い し ます 。はい 、以上 で ござい ます 。はい、 お 願 い し ます 。ごめ ん ね 。",
+      "speaker": "SPEAKER_00",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -44.38733506202698,
+      "end": -0.9473350620269798,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "1a91282f-c98b-441b-8a48-0b6d094e4ef0",
+      "text": "のやつ トレーシングペーパーを 資金資金 もうそろそろすぐ欲しいから一緒に 下 はい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.3052096366882324,
+      "end": 61.31345963668822,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    },
+    {
+      "id": "60a950b3-a817-4107-8604-e7706835c63d",
+      "text": "掃除 の 場 所 が ll だ っ た ん です けど",
+      "speaker": "SPEAKER_00",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 205.61266493797302,
+      "end": 208.01266493797303,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "ceacd6f2-db67-460e-849b-d3d088d4eea6",
+      "text": "は 分 か る な ちょっと ll で 開け て く れる オッケー 行 こう 。 打ち 合わせ",
+      "speaker": "SPEAKER_01",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 214.49266505241394,
+      "end": 219.70266505241395,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f44b09a9-b7ea-44f9-8b3e-71de6166a0a5",
+      "text": "、",
+      "speaker": "SPEAKER_00",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 219.70266485214233,
+      "end": 219.87266485214232,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "5199b109-40b1-4888-8421-fd70546383a1",
+      "text": "打ち 合わせ 。 行 こう 。 大 地 、あ ちょ 待っ て 大 地 の 方 が い か な 。 大 地 の 方 が い い ?どっち し て も た い 。どん な に 座 り た い 大 地 で しょ 覚 え た 話 。はい 大 地 い き ま しょう 。それ で 開け て す ぐ 行き ます",
+      "speaker": "SPEAKER_01",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 219.87266492843628,
+      "end": 235.31266492843628,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "df5b1471-968b-4f22-ad64-b622554c8246",
+      "text": "。",
+      "speaker": "SPEAKER_00",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 235.31266498565674,
+      "end": 236.51266498565673,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "84c85259-5694-400d-aa40-7ebbed97237f",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "75049b15-1952-416c-b46e-0c73b743eec2",
+      "chunk_timestamps": [
+        1776065955.691,
+        1776066017.212,
+        1776066086.961,
+        1776066162.766,
+        1776066203.719
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-13T07:39:15.691000+00:00",
+      "duration": 335.15
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 写真・体験入部の予定変更  \n- 毎週月曜に写真活動を実施している  \n- 各種委員会のため今日は体験入部なし  \n- 代わりに今週木曜放課後に体験予定  \n\n## 今後の体験入部候補日  \n- 次の週の月曜日にも体験実施予定  \n- 都合が合えば再度来てほしいと依頼  \n- 参加について了承を得ている  \n\n## 準備物・掃除場所の確認  \n- トレーシングペーパーを早めに必要としている  \n- 掃除場所は「LL」と説明あり  \n- 「LL」を開けるよう指示・確認あり  \n\n## 打ち合わせと移動  \n- 打ち合わせに一緒に行く段取り  \n- 「大地」側で実施する方針に決定  \n- 開けてすぐ移動する流れを確認  \n\n## 次のステップ  \n- 木曜放課後の体験入部に参加調整  \n- 次週月曜の体験参加も検討  \n- トレーシングペーパーと掃除場所LLを事前確認"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "b70d5aa8-3137-4190-b84f-83a1f0e7fe43",
+  "call_id": null
+}
