@@ -1,0 +1,95 @@
+{
+  "id": "0bbe1b06-95a5-4bef-8121-71c498703a1e",
+  "created_at": "2026-04-13T05:33:15.091918+00:00",
+  "started_at": "2026-04-13T04:49:44.606960+00:00",
+  "finished_at": "2026-04-13T05:36:20.080000+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "授業用出欠入力手順の確認",
+    "overview": "話し手が、先生の授業ごとの出欠入力方法を説明している。昨日追加された目的別メニューの方が分かりやすいかもしれないと述べつつ、まず「出欠入力」を選び、その日の授業（3番目の授業など）を指定する流れを案内している。既に出欠が入っている生徒を一人選び、その設定をほぼコピーする形で一つ丸を付け、下のネジ（設定）を使って他の生徒へ一括反映させるよう指示し、該当しない生徒だけ個別に変更することで並行して作業できると説明。最後に保存すれば完了であると締めくくり、作業を依頼している。",
+    "emoji": "📚",
+    "category": "education",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "34f60f8c-5397-4c35-90fb-0bd893610f25",
+      "text": "賢者の方法教えて",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 0.0,
+      "end": 11.741375,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    },
+    {
+      "id": "b7a3ae21-87f1-47ff-a6c8-65e8297a4682",
+      "text": "昨日 別 メ の 隣 に 目 的 別 メ ニュー っ な っ て る から 、そっち の 方 が 分 かり や い か も し れ ま ん 。 出 血 入 力 、出 血 入 力 っ て いう の を し て 、先生 の 今 日 の 授 業 、それ か 、その 3 の それ です ね 。 で 、出 血 運 が あっ て る 誰 か 一 人 い る 先 に ほ ぼ 真 似 だ と 思 から どっ か 一 個 丸 に し て もらっ て 、一 回 下 の の ネ ジ を 出 血 する よう に する に し て もらっ た ら 全 部 入 る から 、全て そう じゃ な い 子 だ け 変 え て もらっ た ら 並行 し て 、最後 保 存 し た ら ok か な 。はい、 お 願 い し ます 。",
+      "speaker": "SPEAKER_00",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2744.3930399417877,
+      "end": 2795.4730399417876,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "066907d9-1f4f-4d9d-a3f3-5024498492cc",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "0bbe1b06-95a5-4bef-8121-71c498703a1e",
+      "chunk_timestamps": [
+        1776058394.667
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-13T05:33:14.667000+00:00",
+      "duration": 108.842
+    },
+    {
+      "id": "0e6f175f-4a26-4b60-89d9-aed857b1fe1b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "0bbe1b06-95a5-4bef-8121-71c498703a1e",
+      "chunk_timestamps": [
+        1776058615.083
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-13T05:36:55.083000+00:00",
+      "duration": 121.602
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 授業の目的・概要  \n- 「賢者の方法」を教えてほしいと依頼  \n- 別メニューで目的別に画面が分かれている説明  \n\n## 出欠入力のやり方  \n- 「出欠入力」で今日の授業を選択  \n- 既に出欠入力済みの誰か一人を基準にする  \n- 一人の出欠を丸にして、他の生徒を調整  \n\n## 作業手順のポイント  \n- 下のネジを出欠できるように設定  \n- 共通する出欠は一括反映、違う子だけ変更  \n- 並行して入力し、最後に保存して完了  \n\n## 次のステップ  \n- 説明どおりに出欠入力を実行する  \n- 入力後に保存ボタンを押したか確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
