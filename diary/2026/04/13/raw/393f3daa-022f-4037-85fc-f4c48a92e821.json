@@ -1,0 +1,73 @@
+{
+  "id": "393f3daa-022f-4037-85fc-f4c48a92e821",
+  "created_at": "2026-04-13T04:20:08.629544+00:00",
+  "started_at": "2026-04-13T03:49:59.600794+00:00",
+  "finished_at": "2026-04-13T04:21:24.512739+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "写真送付の簡単なやり取り",
+    "overview": "会話では、話し手が「僕は撮った時は送りますので送ります」と述べており、写真か何らかのデータを撮影・取得したタイミングで相手に送付する意思を伝えている。具体的な日時や対象は語られておらず、今後必要に応じて送るというゆるい約束レベルの内容に留まっている。",
+    "emoji": "📷",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "9dc4f93a-32a9-48e4-8d5c-e5d2206c8689",
+      "text": "僕は撮った時は送りますので送ります",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.814693627646193e-08,
+      "end": 10.241375038146941,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "d5afeff6-e06d-422b-ba5a-c8e3bdf9f38b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "393f3daa-022f-4037-85fc-f4c48a92e821",
+      "chunk_timestamps": [
+        1776054007.808,
+        1776054069.657,
+        1776054142.049
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-13T04:20:07.808000+00:00",
+      "duration": 256.12300000000005
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「撮った時は送る」という話があった\n- 何かを撮影して共有する予定がある\n\n【決めたこと】\n- 撮影したら送る（詳細は未確認）\n\n【次の一歩】\n- 撮ったものを誰に・どの方法で送るかを、あらかじめ確認しておく"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed",
+  "call_id": null
+}
