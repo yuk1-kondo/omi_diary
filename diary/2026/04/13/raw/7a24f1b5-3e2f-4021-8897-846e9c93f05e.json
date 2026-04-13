@@ -1,0 +1,73 @@
+{
+  "id": "7a24f1b5-3e2f-4021-8897-846e9c93f05e",
+  "created_at": "2026-04-13T04:16:56.503532+00:00",
+  "started_at": "2026-04-13T03:49:39.618044+00:00",
+  "finished_at": "2026-04-13T04:18:03.656081+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "パスワード保護と印刷設定の確認",
+    "overview": "会話では、マクロが外されたことに伴い、パスワード保護を設定した点について言及されている。発言者は、今後の扱いや運用方針について何か考えているかを問いつつ、印刷に関する話題へと移ろうとしている状況がうかがえるが、詳細な文脈や結論は示されていない。",
+    "emoji": "🔐",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "145d1d11-63e8-475c-a26c-e9880c6cd546",
+      "text": "マクロも外されたんでパスワードをかけたことますけど何か考えてますか僕 印刷",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.1553037754529214e-07,
+      "end": 19.98275021553036,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "95d29133-707f-47b8-90b1-eb700bfaa884",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "7a24f1b5-3e2f-4021-8897-846e9c93f05e",
+      "chunk_timestamps": [
+        1776053816.288,
+        1776053876.612,
+        1776053942.969
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-13T04:16:56.288000+00:00",
+      "duration": 248.32299999999998
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- マクロが外されたファイルについて話があった\n- パスワードをかけることに触れていたが、詳細な意図は未確認\n- 印刷に関する話題も出たが、具体的な内容は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- ファイルの扱い（パスワード設定や印刷方法など）について、自分がどうしたいかを一度整理し、必要なら信頼できる人に確認してみる"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
