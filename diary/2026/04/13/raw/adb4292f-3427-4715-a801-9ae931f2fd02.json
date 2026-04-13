@@ -1,0 +1,80 @@
+{
+  "id": "adb4292f-3427-4715-a801-9ae931f2fd02",
+  "created_at": "2026-04-13T08:38:28.489267+00:00",
+  "started_at": "2026-04-13T08:34:54.046062+00:00",
+  "finished_at": "2026-04-13T08:47:09.619533+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "ネットワークセキュリティ対応の相談",
+    "overview": "話者は『先生』が扱う環境とパブリックなネットワークを分離し、先生側に影響が出ないようネットワークを切り分けるべきだと説明している。セキュリティ対策をしっかり行う必要性を伝えたが、それが難しいと判断したため、代替としてLINEの利用なども検討している様子がうかがえる。また、auひかり回線の移動やイベント対応などインフラ変更の話題も断片的に触れられている。",
+    "emoji": "🛡️",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "0f4aecc0-53a2-46a1-9deb-e721c3060fd8",
+      "text": "先生 先生 扱ってるところにパブ ネットワーク切りといたほうがいいよ 先生のほうに 入ったら困るからその辺のセキュリティーだけちゃんとやっちゃうって話をしたんですけどそれができないと思ったから LINEを使わ 伸ばし なり難しいと思います 担当 イベント Auの光の移動 ハウスられへん 早 大事がない それじゃない",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.2016296224715006e-07,
+      "end": 158.88200012016293,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "bee59080-adf5-48e7-8b44-962d99291023",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "adb4292f-3427-4715-a801-9ae931f2fd02",
+      "chunk_timestamps": [
+        1776069508.722,
+        1776069596.145,
+        1776069659.845,
+        1776069720.455,
+        1776069781.156,
+        1776069845.034,
+        1776069905.357,
+        1776069967.153,
+        1776070027.321,
+        1776070087.464
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-13T08:38:28.722000+00:00",
+      "duration": 700.544
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## ネットワーク切り離しの提案\n- 先生側へのアクセス防止でパブリック遮断提案  \n- セキュリティ対策を優先して実施すべきと発言  \n\n## LINE利用の難しさ\n- セキュリティ確保困難なためLINE利用は難しい認識  \n\n## 回線・環境の問題\n- auひかりの移動・変更がネックとの発言  \n- 現状では大きな支障は起きていない様子  \n\n## 今後の対応・Next steps\n- 先生側ネットワークとパブリックの分離検討継続  \n- auひかり環境変更の可否を再度確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
