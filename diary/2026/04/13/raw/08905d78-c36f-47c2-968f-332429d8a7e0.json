@@ -1,0 +1,75 @@
+{
+  "id": "08905d78-c36f-47c2-968f-332429d8a7e0",
+  "created_at": "2026-04-13T01:44:36.981363+00:00",
+  "started_at": "2026-04-13T01:26:50.481269+00:00",
+  "finished_at": "2026-04-13T01:48:32.215504+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "資料不備の差し替え対応について",
+    "overview": "話者は、池袋で8時40分表示の予定に関連する資料について言及し、自身が作成・送付した資料に不備があったため、送付し直す必要があると述べている。バーコードスキャンの差し替え資料との関係性や、資料内容を十分に理解できていなかった点が微妙な問題として挙げられており、資料の差し替えと再送付が今後の対応として示唆されている。",
+    "emoji": "📄",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "7a2e588f-a840-4e9f-8c5f-c9f8fa7c818a",
+      "text": "池袋はずなんですけどね8時40分表示 こ その後に私が撮った資料に不備があったので送付し直しますって じゃあ ちょっとちゃんと微妙なところですでも微妙なとこ その資料はわかってなかったって言うところもあるんでそのバーコードスキャンの差し替えの資料とはそこまで 資料表示 ドライブ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.177093515522756e-07,
+      "end": 80.01100041770937,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "893a787f-c9d1-401a-b657-35e4311da6f3",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "08905d78-c36f-47c2-968f-332429d8a7e0",
+      "chunk_timestamps": [
+        1776044676.454,
+        1776044736.565,
+        1776044797.95,
+        1776044858.197,
+        1776044918.633
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-13T01:44:36.454000+00:00",
+      "duration": 363.461
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 資料の不備発覚\n- 撮影した資料に不備が見つかる  \n- 不備内容は一部よく理解されていなかった  \n\n## 資料の再送・差し替え\n- 不備のある資料を送付し直す予定  \n- バーコードスキャン関連資料も差し替え対象  \n\n## 次の対応\n- 修正版資料を作成して再送付する  \n- バーコードスキャン資料の内容を再確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
