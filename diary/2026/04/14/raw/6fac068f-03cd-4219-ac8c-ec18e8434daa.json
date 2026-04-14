@@ -1,0 +1,78 @@
+{
+  "id": "6fac068f-03cd-4219-ac8c-ec18e8434daa",
+  "created_at": "2026-04-14T05:03:54.227181+00:00",
+  "started_at": "2026-04-14T05:01:23.708286+00:00",
+  "finished_at": "2026-04-14T05:10:04.636669+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "スマホ用枠と掲載制約についての短い会話",
+    "overview": "参加者が、何かを自由に載せられないという特別な制約について軽く確認し合い、その上で「お知らせが欲しい」と要望している。会話の中では、スマホ用の枠にするとサイズが合わず「はまらない」ため、表示・掲載ができないという技術的な制約にも触れている。全体として、掲載制約とスマホ対応の問題点を共有し、今後の通知を希望する内容となっている。",
+    "emoji": "📱",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "1d5b87fc-94fc-42ea-bdcc-f7a637825874",
+      "text": "私はです お願いしま はい 特別特別 科学 自由に載せない制約があるんですね はい はいお願いしますよろしくお願い それを まじで はい そうそう 多分このスマホのやつにするとここの枠がはまれへんから多分出されへん出され 絶対絶対お知らせ欲しい",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "ed1a5816-2109-441d-a8ae-6db26d4e56e4",
+      "start": 2.384185791015625e-07,
+      "end": 140.03925023841856,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "cffb462c-5717-4b04-9690-475bf157e15b",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "6fac068f-03cd-4219-ac8c-ec18e8434daa",
+      "chunk_timestamps": [
+        1776143033.173,
+        1776143093.456,
+        1776143153.77,
+        1776143214.012,
+        1776143274.872,
+        1776143335.781,
+        1776143396.567,
+        1776143456.576
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-14T05:03:53.173000+00:00",
+      "duration": 543.405
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 科学系コンテンツの制約  \n- 科学に関する投稿に制約がある話題  \n- 自由に載せられない点を確認している  \n\n## スマホと枠の問題  \n- スマホ用にすると枠がはまらない可能性  \n- 枠が合わず表示できない懸念がある  \n\n## 通知への強い希望  \n- 変更や不具合時に必ずお知らせが欲しい  \n- 通知が来ることを強く要望している  \n\n## 次のステップ  \n- スマホ表示時の枠の仕様を確認する  \n- 制約内容と通知方法を運営側に確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
