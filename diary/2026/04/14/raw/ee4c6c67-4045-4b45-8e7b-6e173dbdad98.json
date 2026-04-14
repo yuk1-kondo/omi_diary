@@ -1,0 +1,84 @@
+{
+  "id": "ee4c6c67-4045-4b45-8e7b-6e173dbdad98",
+  "created_at": "2026-04-14T06:59:52.324940+00:00",
+  "started_at": "2026-04-14T06:55:51.197288+00:00",
+  "finished_at": "2026-04-14T07:02:29.678134+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "県庁への書類持参時間の調整",
+    "overview": "話し手は県庁に書類などを「4時半」に持参する必要があると伝え、その時間でお願いしますと相手に依頼している。具体的な日付や詳細は出てこないが、16時30分に県庁へ行く予定であることが確認されている。",
+    "emoji": "📄",
+    "category": "other",
+    "action_items": [
+      {
+        "description": "県庁に書類を持って行く",
+        "completed": false,
+        "created_at": "2026-04-14T07:04:37.329036+00:00",
+        "updated_at": null,
+        "due_at": "2026-04-14T07:30:00+00:00",
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "40491307-6bea-48d9-8250-a1d645484994",
+      "text": "はい こんにちはどうも 4時半に県庁で持っていかなかんらしいんではいよろしくます4時半でお願いしますませあげます",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 30.16412476158142,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "dae16c5d-f607-418f-9e38-81912e40f98c",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "ee4c6c67-4045-4b45-8e7b-6e173dbdad98",
+      "chunk_timestamps": [
+        1776149991.741,
+        1776150075.435,
+        1776150135.638,
+        1776150195.788
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-14T06:59:51.741000+00:00",
+      "duration": 324.68899999999996
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 県庁に書類か何かを持っていく予定がある（詳細は未確認）\n- 時間は「4時半」を希望している\n\n【決めたこと】\n- 4時半に県庁へ行く（予定の内容や目的は未確認）\n\n【次の一歩】\n- 県庁で何を持っていくか・どこに提出するかをメモなどで確認しておく"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
