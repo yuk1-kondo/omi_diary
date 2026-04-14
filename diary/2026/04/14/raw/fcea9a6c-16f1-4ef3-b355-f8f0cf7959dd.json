@@ -1,0 +1,88 @@
+{
+  "id": "fcea9a6c-16f1-4ef3-b355-f8f0cf7959dd",
+  "created_at": "2026-04-14T04:25:57.953620+00:00",
+  "started_at": "2026-04-14T04:22:16.282357+00:00",
+  "finished_at": "2026-04-14T04:43:00.189209+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "AIページ改善に向けたCMSと導線の検討",
+    "overview": "話し手は、AIページの予算を確保するための資料作成を進めるにあたり、関連データの取得を依頼している。既存のCMS（原稿CMS）をいろいろ確認した結果、レイアウトがひな形頼みで要素が多く、ユーザーが必要な情報にたどり着かないまま離脱している状況を問題視している。また、現在のCMSでは柔軟な設定やレイアウト変更ができないことから、不要な要素を思い切って削るなどの構成見直しが必要だと述べている。ホームページの分析を通じてユーザー行動を把握することの重要性にも触れ、WordPress系のサイト（例として大阪DJのドメインらしきもの）やバナー設定、月2000円・1年契約程度の費用感にも言及しながら、今後の改善方針と予算化の方向性を整理しようとしている。",
+    "emoji": "💻",
+    "category": "business",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "b98f98b7-a7c9-44d3-a136-283b8e72f8af",
+      "text": "AI ページ 予算を取るための資料作成をしたい感じの関連データを取ってきてもらって ジェミ 原稿のCMSは僕もいろいろ見たんですけども中例えばレイアウト 雛雛 で ゴリめっちゃ多いと思う せっかく興味を持って見に来た人が必要な情報にたどり着かぬままに終わってるっていうのは絶対だと思う 事は どんだけ新規で今日は よく見るとこういうのかって言う風なのを分析でき そういう意味でもホームページをやるっていうのは重要なのかな みたいな感じ そういう風も今の現状のCNでは設定ができない帰れない 削ってしまって大体削ってしまったらいいかなぁ いや 行った カテゴリ はい 同じような ね はい そうですねこのWord 大阪DJのDD jp バナーとは 設定 ほんと 月2000円の1年間年後",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.2588500908350397e-07,
+      "end": 287.09987512588503,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "3b11e40d-dbce-4370-a0ea-d4c89ecf390f",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "fcea9a6c-16f1-4ef3-b355-f8f0cf7959dd",
+      "chunk_timestamps": [
+        1776140756.844,
+        1776140817.196,
+        1776140898.003,
+        1776140958.528,
+        1776141018.886,
+        1776141079.856,
+        1776141140.305,
+        1776141203.172,
+        1776141263.373,
+        1776141324.302,
+        1776141384.255,
+        1776141445.342,
+        1776141506.563,
+        1776141566.665,
+        1776141629.237,
+        1776141689.642,
+        1776141750.968,
+        1776141812.183
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-14T04:25:56.844000+00:00",
+      "duration": 1176.261
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## AIページ予算資料作成の目的\n- AIページ導入の予算確保用資料を作成したい  \n- 関連データを収集して説得力ある資料にしたい  \n\n## 現行CMSの課題\n- レイアウトや雛形が多すぎて複雑  \n- ユーザーが必要情報にたどり着けていない  \n- 今のCMSでは細かな設定変更・改善が難しい  \n\n## ホームページ改善の重要性\n- 訪問ユーザー行動を分析し改善に活かしたい  \n- 新規ユーザーが「よく見る」ポイントの可視化が必要  \n- 不要要素を削り重要情報へ誘導したい  \n\n## 現在の運用状況・コスト\n- WordPress系サイト（例：osaka djのドメイン言及）  \n- バナーなどの設定運用をしている状況  \n- 月2000円程度×1年間の費用感がある  \n\n## 次のステップ\n- 現行サイトの導線・レイアウトを詳細分析  \n- 不要カテゴリや要素を洗い出し削減案作成  \n- AIページ導入による改善効果と費用対効果を試算"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
