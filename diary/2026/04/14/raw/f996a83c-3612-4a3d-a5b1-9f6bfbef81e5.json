@@ -1,0 +1,79 @@
+{
+  "id": "f996a83c-3612-4a3d-a5b1-9f6bfbef81e5",
+  "created_at": "2026-04-14T03:54:47.475612+00:00",
+  "started_at": "2026-04-14T03:48:44.132744+00:00",
+  "finished_at": "2026-04-14T03:56:47.035651+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "先生へのデータ選択作業依頼",
+    "overview": "発言者が、データ選択に関わるアカウント部分の作業を先生に依頼し、その結果として形にしてもらう必要があることを述べている。具体的な手順や期限、対象となるデータの内容などはこの発話からは読み取れないが、先生側でアカウント関連の設定や選定を行い、それを基に成果物を整える流れが示唆されている。",
+    "emoji": "📊",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "ee8fba8f-85e9-4f7c-86b3-6c1e7163976e",
+      "text": "データ選択 アカウントだけ先生にやってもらって 形にして",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.76837158203125e-07,
+      "end": 28.20412452316284,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJx5mbSNDmAGARcJH9PTjmcv8",
+    "latitude": 34.69896953154033,
+    "longitude": 135.51752262366475,
+    "address": "1-38 Matsugaechō, Kita Ward, Osaka, 530-0037, Japan",
+    "location_type": "establishment"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "d713f49e-b437-44c5-b62d-6e6d82e70637",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "f996a83c-3612-4a3d-a5b1-9f6bfbef81e5",
+      "chunk_timestamps": [
+        1776138886.626,
+        1776138946.933,
+        1776139010.541
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-14T03:54:46.626000+00:00",
+      "duration": 244.317
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## データ選択とアカウント設定\n- データ選択は先生に任せる  \n- アカウント設定も先生が対応  \n- 先生主導で全体の形を整える  \n\n## Next steps\n- 先生がアカウント作成と設定を実施  \n- データ選択後、全体の形を具体化"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
