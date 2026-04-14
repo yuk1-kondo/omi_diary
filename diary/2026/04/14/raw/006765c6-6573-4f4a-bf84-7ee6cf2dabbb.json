@@ -1,0 +1,73 @@
+{
+  "id": "006765c6-6573-4f4a-bf84-7ee6cf2dabbb",
+  "created_at": "2026-04-14T08:43:50.980421+00:00",
+  "started_at": "2026-04-14T08:12:29.532837+00:00",
+  "finished_at": "2026-04-14T08:45:43.373055+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "作業用シールと費用の最終確認",
+    "overview": "話し手は、以前と同じシールを使う方針で進めるかどうかを検討している様子を話している。すでにお金を使って購入しているシールがまだ残っており、それを使い切ってから次の対応を考えたいという意向が示されている。「ラスト2〜6〜8」といった表現から、残数や最後のロットについて言及している可能性があるが、具体的な数量や期限などの詳細は不明である。",
+    "emoji": "🧾",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "df5ed957-97c6-44ff-9c7a-4f36fa983fae",
+      "text": "結果的に やったらやっぱりその前と同じシールで行きますか バット やって お金 使ってたやつなんですねまだ使い切ったらいいかなぁと ラスト 2 678",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.2424921414531127e-07,
+      "end": 89.87237532424916,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "a27d4d79-9299-4237-8740-87dd3d0c59b1",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "006765c6-6573-4f4a-bf84-7ee6cf2dabbb",
+      "chunk_timestamps": [
+        1776156230.484,
+        1776156290.713,
+        1776156351.146
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-14T08:43:50.484000+00:00",
+      "duration": 152.544
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## シールと費用について\n- 前回と同じシールを継続して使う方針  \n- 既に購入済みで、まだ使い切っていない  \n- 「ラスト2〜6、7枚」程度が残量の目安  \n\n## 今後の進め方（Next steps）\n- 残っているシールを使い切ってから次を検討"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
