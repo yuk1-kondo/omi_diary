@@ -1,0 +1,75 @@
+{
+  "id": "1f979e9f-1159-430f-a062-0321b2d6bb6a",
+  "created_at": "2026-04-14T06:43:17.212539+00:00",
+  "started_at": "2026-04-14T06:18:27.462110+00:00",
+  "finished_at": "2026-04-14T06:46:56.481988+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "サブカテゴリー設定と年度範囲の確認",
+    "overview": "話し手は「7時7時半 無理」と時間の予定が合わないことに触れつつ、システムか書類の分類作業と思われる文脈でサブカテゴリーについて言及している。また、過去年度のデータ表示に関して、令和4年から令和6年までがサブカテゴリーの画面に正しく表示されたことを確認しているようだ。",
+    "emoji": "📂",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "b460cae5-dd1b-4b19-a598-e0a58169d60b",
+      "text": "7時7時半 無理 サーブ サブカテゴリー サブカテゴリーにさっきの過去の年度のところで令和4年から令和6年までが出て来てくれた",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.3732983461522963e-07,
+      "end": 50.00687513732987,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "661b50c5-93e3-4537-8cdf-7c716694a3f2",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "1f979e9f-1159-430f-a062-0321b2d6bb6a",
+      "chunk_timestamps": [
+        1776148996.649,
+        1776149064.415,
+        1776149125.146,
+        1776149185.438,
+        1776149246.14
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-14T06:43:16.649000+00:00",
+      "duration": 371.613
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 過去年度データの確認\n- サブカテゴリー画面を操作  \n- 令和4年〜令和6年のデータを表示  \n\n## 時間に関する制約\n- 7時または7時半は都合が悪い  \n\n## 次のステップ\n- サブカテゴリー内の過去年度内容を詳細確認  \n- 別の時間帯での予定調整"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
