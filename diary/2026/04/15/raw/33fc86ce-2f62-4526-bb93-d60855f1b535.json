@@ -1,0 +1,85 @@
+{
+  "id": "33fc86ce-2f62-4526-bb93-d60855f1b535",
+  "created_at": "2026-04-15T10:47:58.964104+00:00",
+  "started_at": "2026-04-15T10:48:01.180911+00:00",
+  "finished_at": "2026-04-15T10:53:40.887393+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "AIによる女子生徒画像悪用の危険性を議論",
+    "overview": "話し手は、フロンテという人物が女子生徒の顔写真を使い、AIで服を脱がせるような動画を作成している疑いについて語っている。そうした行為は犯罪につながる可能性が高く、特にその動画を販売したり、本人に送付した場合にどのような法的問題になるかを懸念している。全体として、AIを用いた画像・動画の性的悪用とその違法性についての危機感が共有されている。",
+    "emoji": "⚠️",
+    "category": "real",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "98ea64ac-b413-476e-aee2-15ce4f4b591c",
+      "text": "から あれね なんかさーでもフロンテがさぁ ほんまにやな 交換 絶対言ってるよね 女子生徒の顔写真を使ってなんかAIでさぁなんか服脱がせる動画作って 犯罪者なる匂いがする それを打ったりとかなんかあれをすると犯罪なのかもしれんけど本人に送るだ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -4.76837158203125e-07,
+      "end": 84.79237452316285,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "b1374d4f-7636-4aff-a8e2-d71e46b30776",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "33fc86ce-2f62-4526-bb93-d60855f1b535",
+      "chunk_timestamps": [
+        1776250081.161
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-15T10:48:01.161000+00:00",
+      "duration": 122.002
+    },
+    {
+      "id": "f053914d-7f4e-42fe-b20e-d315eac88957",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "33fc86ce-2f62-4526-bb93-d60855f1b535",
+      "chunk_timestamps": [
+        1776250207.24,
+        1776250270.895,
+        1776250331.832,
+        1776250392.767
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-15T10:50:07.240000+00:00",
+      "duration": 288.409
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## フロンテに対する懸念\n- 女子生徒の顔写真が話題の中心  \n- AIで服を脱がせる動画作成を懸念  \n- その行為に犯罪性がある可能性を指摘  \n\n## 犯罪性についての認識\n- 作成・販売すると犯罪になりうると発言  \n- 本人に送る行為も問題視している  \n\n## 次のステップ\n- その行為の法的リスクを確認する  \n- 学校や大人に相談し注意喚起を検討する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
