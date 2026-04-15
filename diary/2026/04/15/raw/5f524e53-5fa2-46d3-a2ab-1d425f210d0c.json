@@ -1,0 +1,92 @@
+{
+  "id": "5f524e53-5fa2-46d3-a2ab-1d425f210d0c",
+  "created_at": "2026-04-15T09:20:20.862446+00:00",
+  "started_at": "2026-04-15T08:30:00.147221+00:00",
+  "finished_at": "2026-04-15T09:28:09.297900+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "理科実験用消耗品と年度予算の使い方検討",
+    "overview": "話し手は、理科の実験で使う消耗品などの購入について、年度ごとの予算配分を検討している。昨年度から今年度、来年度にかけてどれだけ購入するか、また三菱財団からのDX関連の資金が3年間付いていたことにも触れつつ、年度初めに20万円分をまとめ買いする案など、予算を早期に決めないと失敗しやすいという懸念を述べている。さらに、実験器具の故障や「来年も買ってください」といった要望、今年度は2割引きで買えることなどを考慮しながら、どのタイミングで何を買うかを考えている。",
+    "emoji": "🧪",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2c9a952f-3c38-4ce4-a94d-5636e7602509",
+      "text": "今日 百均売ってる 感じやねんけど 生書く文章とか書く側からこんだけ1年間の解体の昨年度に来年度こんだけこれを買おうと思ってるって 予算予算",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.433227391269611e-07,
+      "end": 50.08687534332273,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    },
+    {
+      "id": "6c503960-4a4b-41aa-9082-60de9e094437",
+      "text": "だからもしどうしてもじゃなか 専門学科である 普通やなあんまり 別で 今年までは三菱財団の中お金がついて3年間 DX そしたら予算をすぐ決め ないってなったら 全部いややっぱり 失敗 年度初めに買う200,000円分 それ以外で使うことないからそれでパッと買って終わりやけどパパの理科の実験やから消耗品もあるからさぁ 故障したとか 不 もうちょっとでありません来年も勝ってくださいって言われたからもう今年度はまた2割引の知ってんねんけど",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3156.2298913002014,
+      "end": 3304.5705163002012,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "c3d4d345-6f5f-4e0e-9418-6cc03aeebc7d",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "5f524e53-5fa2-46d3-a2ab-1d425f210d0c",
+      "chunk_timestamps": [
+        1776244820.113,
+        1776244886.215,
+        1776244956.293,
+        1776245016.801,
+        1776245077.555,
+        1776245138.466,
+        1776245198.806,
+        1776245259.461,
+        1776245320.049
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-15T09:20:20.113000+00:00",
+      "duration": 619.938
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 今年度の予算状況  \n- 昨年度の解体後、来年度の購入計画を検討  \n- 予算で約200,000円分を年度初めにまとめ買い予定  \n- それ以外の用途には基本的に予算を使わない方針  \n\n## 資金源と制約  \n- 三菱財団から3年間DX関連の資金がついていた  \n- 予算をすぐ決めないと全てが失敗扱いの懸念  \n- 専門学科としても特別扱いはあまりない様子  \n\n## 理科実験と消耗品の課題  \n- 理科実験のため消耗品の継続的な購入が必要  \n- 故障や不足が発生し「来年も買ってください」と要望  \n- 今年度は2割引で購入できる情報を把握  \n\n## 次のステップ  \n- 年度初めに200,000円分を一括購入する  \n- 割引（2割引）を活用した購入計画を立てる  \n- 消耗品・故障分を見込んだ来年度予算を再検討する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
