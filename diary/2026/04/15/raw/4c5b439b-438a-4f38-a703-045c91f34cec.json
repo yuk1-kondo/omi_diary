@@ -1,0 +1,75 @@
+{
+  "id": "4c5b439b-438a-4f38-a703-045c91f34cec",
+  "created_at": "2026-04-15T09:30:14.145435+00:00",
+  "started_at": "2026-04-15T09:25:04.717737+00:00",
+  "finished_at": "2026-04-15T09:33:46.809539+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "日程調整の連絡と今後への不安の共有",
+    "overview": "話し手は、今年来た寺町という人物から日程調整の連絡があったことに触れつつ、自分はすぐ電話に出られないため即答が難しいと述べている。また「どうしてもその時間じゃないとだめなのか」と負担を感じている様子があり、さらに「残り何年あるかわからない」「信任が苦労となり」といった言葉から、残りの人生の時間や信頼・責任が重荷になっている心情を吐露している。全体として、具体的な予定よりも、連絡への対応と将来への不安・疲れを語る独白となっている。",
+    "emoji": "🤔",
+    "category": "real",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "4d3ce0d6-67ed-49e4-b11b-04382fc377f6",
+      "text": "今年来た寺町さん 連絡 日程調整し 連絡を入れたらしいけどちょっとすぐに答えられへんかなぁちょっと別に電話すぐに答えられへんから どうしてもその時間じゃないとダメどうしても どう流 お前 残りもう何年あるかわからへんわ信任が苦労となりそんななったら",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.2915343101412873e-07,
+      "end": 80.11100042915339,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "d6e9f126-cc39-441d-a235-f056097d098c",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "4c5b439b-438a-4f38-a703-045c91f34cec",
+      "chunk_timestamps": [
+        1776245412.966,
+        1776245474.057,
+        1776245533.904,
+        1776245595.219,
+        1776245672.956
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-15T09:30:12.966000+00:00",
+      "duration": 298.392
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 寺町さんから日程調整の連絡があった\n- 電話にすぐ出るのが難しいと感じている\n- 残りの時間を大事にしたいという気持ちがある\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 電話にすぐ出られないことを、寺町さんにあらかじめ伝える方法（例：伝言や手紙など）を一つ考えてみる"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
