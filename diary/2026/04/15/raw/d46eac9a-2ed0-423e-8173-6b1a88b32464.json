@@ -1,0 +1,74 @@
+{
+  "id": "d46eac9a-2ed0-423e-8173-6b1a88b32464",
+  "created_at": "2026-04-15T10:59:13.767701+00:00",
+  "started_at": "2026-04-15T10:57:12.517091+00:00",
+  "finished_at": "2026-04-15T11:01:44.005583+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "明日の外出先の候補を相談",
+    "overview": "話し手は翌日の予定について話し、「須崎」や「綾川町」など行きたい場所の候補を挙げている。綾川町は高松から南方向に下る位置だと確認しており、明日のための準備と外出先の検討をしている様子がうかがえる。",
+    "emoji": "🗺️",
+    "category": "personal",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "71392331-9b63-4a7b-af47-253531d5721b",
+      "text": "いつも置いてるけどはい明日のためにありがと 行きたいとこある 須崎 綾川町って結構高松から下に下る感じかなぁ真下に下る感",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 1.735687256143592e-07,
+      "end": 38.32550017356873,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "890e2aa4-7440-4adc-9e9d-e8456ac92479",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "d46eac9a-2ed0-423e-8173-6b1a88b32464",
+      "chunk_timestamps": [
+        1776250745.391,
+        1776250807.054,
+        1776250867.054,
+        1776250926.993
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-15T10:59:05.391000+00:00",
+      "duration": 302.444
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 明日の予定について話していた\n- 「須崎」「綾川町」など、行きたい場所の候補が出ていた\n- 高松から南（下）に下るイメージの場所を考えている様子\n\n【決めたこと】\n- 未確認（具体的な行き先は決まっていない様子）\n\n【次の一歩】\n- 明日行く場所を、高松からの距離や行きやすさを確認しながら一つ選んでみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
