@@ -1,0 +1,72 @@
+{
+  "id": "b851b085-1fba-4ad0-9fd3-84499b73f92b",
+  "created_at": "2026-04-15T06:11:11.793554+00:00",
+  "started_at": "2026-04-15T05:01:42.502484+00:00",
+  "finished_at": "2026-04-15T06:12:18.719021+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "雨の中での差し入れの受け渡し",
+    "overview": "激しい雨の中、話し手が「差し入れ持ってきます」と言い、たいしたものではないと謙遜しながら同じものを渡し、「ありがとうございます」と感謝を伝える短いやりとりが行われている。内容はカジュアルな日常会話で、具体的な予定やタスクの合意は含まれていない。",
+    "emoji": "🌧️",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "c0fac9c1-5beb-4870-9e1d-a64185b95894",
+      "text": "雨雨が やばい持ってきます差し入れ持ってきてくださいたいしたもんじゃないたいしたもんじゃない 同じものをはい ありがとうございます",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.1444092251622351e-07,
+      "end": 40.00549988555906,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "8bfe8b1e-895f-4604-9187-c33761e48dc4",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "b851b085-1fba-4ad0-9fd3-84499b73f92b",
+      "chunk_timestamps": [
+        1776233470.541,
+        1776233530.981
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-15T06:11:10.541000+00:00",
+      "duration": 152.28199999999998
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 雨が強い中でのやりとりがあった（状況の詳細は未確認）\n- 「差し入れ」を持ってくる・受け取る場面があった（中身は未確認）\n\n【決めたこと】\n- 特になし（この会話からは確認できず）\n\n【次の一歩】\n- 雨の日は足元や持ち物に気をつけながら、必要な用事だけを無理のない範囲で行うように意識してみてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "adf3cab8-30dd-414d-97e4-1bb5b3fb05ed",
+  "call_id": null
+}
