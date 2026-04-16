@@ -1,0 +1,74 @@
+{
+  "id": "843b5357-de2c-4839-ad46-9a935f0ead34",
+  "created_at": "2026-04-16T03:18:08.546031+00:00",
+  "started_at": "2026-04-16T03:07:05.830842+00:00",
+  "finished_at": "2026-04-16T03:20:01.456989+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "ソフトウェアの自動アップデート運用メモ",
+    "overview": "話し手は、書く機能（角助機能）のアップデート方式について説明している。重要なタイミングでは自動的にアップデートが入る一方、それ以外の更新は手動で行う必要があり、ユーザーが自分でバージョン情報画面からアップデート操作を実行しなければならないという運用方針が述べられている。",
+    "emoji": "💻",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "35ba584b-1c88-45ed-9984-3e8e49a4789f",
+      "text": "書く機能もアップデートされるから 角助機能も自動アップデート ほんまに入れなあかんタイミングなったら自動で入るしそれ以外は手動やから自分でそのバージョン情報からアップデートせなあかんけど",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.9672851670502496e-07,
+      "end": 30.264125396728524,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "797e09d6-a906-423d-86b6-9f7744610ae2",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "843b5357-de2c-4839-ad46-9a935f0ead34",
+      "chunk_timestamps": [
+        1776309488.159,
+        1776309547.891,
+        1776309609.208,
+        1776309653.84
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-16T03:18:08.159000+00:00",
+      "duration": 255.64300000000003
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 機能アップデートの仕組み\n- 書く機能もアップデート対象  \n- 角助機能は自動アップデート対応  \n- 必要なタイミングでは自動的に更新される  \n\n## 手動アップデートの必要性\n- それ以外の更新は手動対応  \n- バージョン情報画面から自分でアップデート実行  \n\n## 次のステップ\n- バージョン情報の場所を確認する  \n- 必要に応じて手動アップデートを行う"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
