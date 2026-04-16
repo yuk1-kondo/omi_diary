@@ -1,0 +1,88 @@
+{
+  "id": "1dc0f7fe-5aac-41ae-8915-ed2948584bd2",
+  "created_at": "2026-04-16T03:24:51.070797+00:00",
+  "started_at": "2026-04-16T03:22:17.687471+00:00",
+  "finished_at": "2026-04-16T03:41:14.594554+00:00",
+  "source": "omi",
+  "language": "ja",
+  "structured": {
+    "title": "授業時間割データの教室予約システム連携検討",
+    "overview": "会話では、進学塾と思われる環境での教室予約と時間割管理について話している。最低保証人数（56人）など契約上の条件に触れつつ、行事予定をカレンダーに入れた上で、時間割CSVデータを教室予約システムに自動で流し込みたいというニーズが語られる。午前中の1週間分の授業・教室割りのデータを作成し、それを月〜金の予約として一括反映する運用を構想しているが、既存データ構造（「賢者」のデータ）との整合性や連携方法が課題となっている。雑談的なやりとりも混ざるが、中心は時間割と教室予約の効率化である。",
+    "emoji": "📅",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "019a40fc-704e-4cf9-90f4-82943506078f",
+      "text": "進展にオリエンテーションでは情報の ホーム店契約してるけど最低保証金っていうのがあるから それが最低人数が50 6人 松下先生 みたいな トマトおじさん メイトだけ 僕も欲しいと思ったんだけどトマト嫌いから博士が絶対出たかと思ったのに博士が出ちゃった 天神 ね 4 なんか 減らしていくねん 昨日夜中 もっと先まで予約取りたいって言ってるからちょっとうまくいけるように行事予定入れたらその行事予定ところはもう時間割CSVで流すようにして 午前中 1週間の授業教室役のデータ作って それをまぁとりあえず1週間も流し込んでるんでしょうなぁと思ってんけど流し込んだら月から金まで全部入るから アデルソン時間割データを教室予約に流し込みたいですけど賢者のデータ中当 回 じゃないの してもらって そうね ごちそうさまです 欲しい ほんとありますよねほんと ナップマン 今 TWICE",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.784728998506125e-07,
+      "end": 299.62125027847287,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": "onDeviceWhisper"
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "26efdaaf-c78d-43d2-b0d0-e57436c2c6a6",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "1dc0f7fe-5aac-41ae-8915-ed2948584bd2",
+      "chunk_timestamps": [
+        1776309890.217,
+        1776309950.198,
+        1776310010.42,
+        1776310086.205,
+        1776310146.592,
+        1776310209.341,
+        1776310270.193,
+        1776310331.749,
+        1776310395.478,
+        1776310453.731,
+        1776310519.684,
+        1776310589.61,
+        1776310647.648,
+        1776310710.202,
+        1776310757.009,
+        1776310817.708,
+        1776310878.325,
+        1776310938.907
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-16T03:24:50.217000+00:00",
+      "duration": 1100.732
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 最低保証人数と契約条件  \n- 店舗契約に最低保証金がある  \n- 最低人数は約56人と説明あり  \n\n## 予約・行事予定の管理方針  \n- もっと先まで予約を取りたい要望あり  \n- 行事予定を入れた時間は予約CSVで流す方針  \n\n## 授業・教室データの扱い  \n- 午前中に1週間分の授業・教室データ作成  \n- 1週間分を教室予約に流し込みテスト予定  \n- 月〜金すべて自動で入る仕様を想定  \n\n## システム連携の要望  \n- 時間割データを教室予約に自動連携したい  \n- 既存の「賢者」のデータ活用を検討  \n\n## 次のステップ  \n- 行事予定と時間割CSV連携の具体設計  \n- 1週間分データ流し込みの動作確認"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
