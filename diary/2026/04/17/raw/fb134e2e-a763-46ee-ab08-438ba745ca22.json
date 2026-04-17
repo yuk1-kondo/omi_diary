@@ -1,0 +1,226 @@
+{
+  "id": "fb134e2e-a763-46ee-ab08-438ba745ca22",
+  "created_at": "2026-04-17T14:42:40.108740+00:00",
+  "started_at": "2026-04-17T14:44:13.838019+00:00",
+  "finished_at": "2026-04-17T14:48:04.033498+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Family Chat About Psalm Memory Cards",
+    "overview": "The conversation appears to be a casual family chat where one person discusses having finished creating a large set of memory cards for the Book of Psalms—148 cards in total—with plans to photograph them upon arrival at a place called Cass Land. They mention expecting a similarly large volume for Ezekiel and an additional set for someone named Gary, estimating another 140+ cards. There is brief discussion about whether they are learning and memorizing as they create the cards, with the speaker deciding to first load everything up digitally so it can be taken anywhere. The tone is light and informal, with side comments about a Christmas-style jumper and expressions of trust in a method that has worked in previous years.",
+    "emoji": "📖",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "3b1b5b33-82f5-4e3f-9968-637e1cbbd934",
+      "text": "Hi, dudes. How are you, son?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 2.8610338631551713e-07,
+      "end": 4.570000286103095,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "2e2f5510-e2c6-433a-bc9f-931b83f82e01",
+      "text": "K? Don't you go in so fast? Why don't you come in so fast?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 109.82456615448064,
+      "end": 115.00456615448093,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3861e964-9a5f-4a54-8413-66f2deac3159",
+      "text": "Christmas jumper dance? It's not. It looks like one, but it's not.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 146.4681338405626,
+      "end": 149.02812984056254,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d569302e-666a-498a-91a8-e06dfed2f048",
+      "text": "Well, I've finished the the memory panels for Psalms. I'm gonna have to take photos of Cass Land when I arrive. Yeah. Because I I mean, a 148 cards. How many cards do you to do?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 186.25961677551277,
+      "end": 202.25961677551277,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "840898f9-a155-4e46-94c1-d84092367186",
+      "text": "300?",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 202.2796167755132,
+      "end": 203.1596167755133,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c439b801-d3b2-4501-86cf-b30b5bdd78b1",
+      "text": "A 148 just for the Psalms?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 204.019616775513,
+      "end": 205.7796167755132,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "276270c0-6110-4980-871e-3733695c6001",
+      "text": "Yeah.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 205.7796167755132,
+      "end": 206.019616775513,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "daf944a9-65a7-441e-8fa0-c77c7049a398",
+      "text": "I'm hoping Ezekiel's smaller than that. And it'd be another 140 plus for Gary's.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 207.17961677551284,
+      "end": 213.49961677551255,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8ef103c7-0163-4e50-b554-f90ef9e0d07b",
+      "text": "So Are you learning as you're doing this?",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 214.6596167755133,
+      "end": 216.8996167755131,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8fb2b18d-c45e-4584-b9fe-b57fc41b8a33",
+      "text": "Do you think I was going to I started to, and then I thought I've got so many. I'm just gonna load it up, and then I can take this anywhere.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 217.019616775513,
+      "end": 222.519616775513,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "dd868609-f53e-45c0-b582-395def60e93a",
+      "text": "How are gonna remember this? Easy. Okay. Easy. What do have?",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 222.57961677551248,
+      "end": 226.5396167755125,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "bc567d9c-dbc3-42ca-b769-6bb918b0a08a",
+      "text": "I trust you. Mel's worked previous years.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 226.5396167755125,
+      "end": 228.97961677551302,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156832,
+    "longitude": -3.2755852,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "0766343c-4947-402d-be12-2a52acf745fc",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "fb134e2e-a763-46ee-ab08-438ba745ca22",
+      "chunk_timestamps": [
+        1776436958.866,
+        1776437019.253,
+        1776437080.454,
+        1776437140.564,
+        1776437200.785,
+        1776437261.717,
+        1776437322.004
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-17T14:42:38.866000+00:00",
+      "duration": 483.94
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Memory card project progress\n- Finished memory panels for Psalms  \n- Created 148 cards just for Psalms  \n- Total target mentioned: around 300 cards  \n\n## Future sets and workload\n- Expecting Ezekiel to be smaller than Psalms  \n- Planning another ~140+ cards for Gary's material  \n\n## Learning and usage plan\n- Started learning while creating but stopped due to volume  \n- Intends to load all cards digitally and use anywhere  \n- Trust in previous methods working well  \n\n## Next steps\n- Take photos of Cass Land on arrival  \n- Continue creating Ezekiel and Gary’s memory cards"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
