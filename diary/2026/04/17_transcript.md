@@ -18,3 +18,104 @@
 
 ---
 
+
+
+## 📝 Couple Debates UK Election Voting Choices - b66cf318-d9ef-487c-a66e-8bf4b5240456
+
+**記録時間**: 2026-04-17 16:18:19
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+Yeah.
+
+👤 あなた [3s - 11s]
+Say again. Yes, doesn't say much. Doesn't Tell you any policies. No.
+
+🎤 SPEAKER_1 [11s - 14s]
+Have you Christmas. Hold on, babe.
+
+🎤 SPEAKER_1 [15s - 16s]
+Oh, is it is the warm?
+
+👤 あなた [16s - 17s]
+The last one we're in it.
+
+🎤 SPEAKER_1 [17s - 22s]
+Yeah. It's not too Christmas. It's still slightly winter. I mean, maybe next week onwards No.
+
+👤 あなた [22s - 27s]
+It's just for here, just to have something stungly on. Different. So it's mine.
+
+🎤 SPEAKER_1 [27s - 28s]
+It doesn't Something unfortunately tell us any of the No.
+
+👤 あなた [29s - 36s]
+That's not the reason that's not the purpose of that one. That's it's slightly misleading saying, hey. We need to be brief forms. Yeah.
+
+🎤 SPEAKER_1 [36s - 48s]
+Because it's not about that But equally, I think I'm I'm gonna vote for them. Because there's no other legitimate party that's got any experience of at all.
+
+🎤 SPEAKER_1 [49s - 69s]
+You can't like, it's fine voting for parties. So let's say green like, well, we want a change. We want some but I just don't think it's gonna happen. And the people they have gone, like, can they actually are they actually gonna carry the weight? This is a serious business role leading the country. No. It's not some community counselor thing of like I think there is a sense that we need to vote.
+
+👤 あなた [70s - 87s]
+On the one hand, if everyone who wanted to vote for Green voted for Green, they'd get people because it's And I know. It's representative. Yeah. However, we want to probably vote with the the biggest alternative to reform to ensure that reform are not the biggest grouping in the veil.
+
+🎤 SPEAKER_1 [87s - 98s]
+I mean, labor are not a bad option, but I just feel like I just and laborer, you know, struggling anyway. Not voting reform. I for me, okay.
+
+👤 あなた [104s - 113s]
+Yes, the more you vote a small party like Green, the more you get the not in some position to What you could do, Rachel, is Google plied Cumbery I I seventh manifesto. Yeah. I did And the no. No.
+
+👤 あなた [115s - 123s]
+Look at their PDF. The good thing about it is give you a one pager of all the things they want to in. Yeah. And then the rest of the document is expanded.
+
+🎤 SPEAKER_1 [124s - 127s]
+I did listen on radio to Yeah.
+
+👤 あなた [128s - 130s]
+But that's not that's not Is nothing out?
+
+🎤 SPEAKER_1 [130s - 132s]
+No.
+
+👤 あなた [132s - 136s]
+It's bit boring, but it's yeah. It is,
+
+👤 あなた [160s - 161s]
+Yeah.
+
+👤 あなた [165s - 180s]
+Yeah. It's not
+
+🎤 SPEAKER_1 [195s - 195s]
+Yeah.
+
+🎤 SPEAKER_1 [212s - 212s]
+Yeah.
+
+👤 あなた [228s - 229s]
+Yeah.
+
+🎤 SPEAKER_1 [231s - 231s]
+Yeah.
+
+👤 あなた [253s - 253s]
+No.
+
+🎤 SPEAKER_1 [264s - 265s]
+No.
+
+👤 あなた [266s - 279s]
+No. It's it's no. It's it it's built on people's, it's given people a voice for their frustration when actually not the immigrants. It's the the world, the way the world is, the the top 1%.
+
+👤 あなた [283s - 293s]
+I don't think I'm voting green.
+
+👤 あなた [402s - 406s]
+Jesus Christ, one lord of creation.
+
+
+---
+
