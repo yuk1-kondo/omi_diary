@@ -119,3 +119,50 @@ Jesus Christ, one lord of creation.
 
 ---
 
+
+
+## 📝 Family Chat About Psalm Memory Cards - fb134e2e-a763-46ee-ab08-438ba745ca22
+
+**記録時間**: 2026-04-17 23:42:40
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 4s]
+Hi, dudes. How are you, son?
+
+🎤 SPEAKER_0 [109s - 115s]
+K? Don't you go in so fast? Why don't you come in so fast?
+
+🎤 SPEAKER_0 [146s - 149s]
+Christmas jumper dance? It's not. It looks like one, but it's not.
+
+🎤 SPEAKER_0 [186s - 202s]
+Well, I've finished the the memory panels for Psalms. I'm gonna have to take photos of Cass Land when I arrive. Yeah. Because I I mean, a 148 cards. How many cards do you to do?
+
+🎤 SPEAKER_1 [202s - 203s]
+300?
+
+🎤 SPEAKER_0 [204s - 205s]
+A 148 just for the Psalms?
+
+🎤 SPEAKER_1 [205s - 206s]
+Yeah.
+
+🎤 SPEAKER_0 [207s - 213s]
+I'm hoping Ezekiel's smaller than that. And it'd be another 140 plus for Gary's.
+
+🎤 SPEAKER_1 [214s - 216s]
+So Are you learning as you're doing this?
+
+🎤 SPEAKER_0 [217s - 222s]
+Do you think I was going to I started to, and then I thought I've got so many. I'm just gonna load it up, and then I can take this anywhere.
+
+🎤 SPEAKER_1 [222s - 226s]
+How are gonna remember this? Easy. Okay. Easy. What do have?
+
+🎤 SPEAKER_0 [226s - 228s]
+I trust you. Mel's worked previous years.
+
+
+---
+
