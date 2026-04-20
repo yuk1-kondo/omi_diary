@@ -245,3 +245,290 @@ Yeah. Yeah. Maybe there were egg ones. They're like a You want to try
 
 ---
 
+
+
+## 📝 Bus Route Confusion Gets Resolved - 4a3b1bc2-f545-457e-a738-926a04981090
+
+**記録時間**: 2026-04-20 23:50:47
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 1s]
+try one of the snacks that we made?
+
+🎤 SPEAKER_0 [519s - 519s]
+Yeah.
+
+🎤 SPEAKER_1 [520s - 526s]
+He's messaged me this. He said, mom, he's he's asked us if anyone's getting off here. This is the way we go to the stadium.
+
+🎤 SPEAKER_0 [526s - 530s]
+No. Just want to message him now. He on the way down to flipping
+
+🎤 SPEAKER_0 [533s - 548s]
+He's gone the wrong way. Can you can you 사람 want to speak to. If he pulls over, tell him just to tell him my dad wants to speak to him.
+
+🎤 SPEAKER_0 [550s - 552s]
+He's got the wrong he's got the wrong route or something.
+
+🎤 SPEAKER_0 [556s - 557s]
+I'm gonna get them if needed.
+
+🎤 SPEAKER_0 [561s - 588s]
+Tell him and let me know when you're Well, I'd rather than what I asked you to do, which would say is that The drive driving the car, I'm not gonna ask What?
+
+🎤 SPEAKER_1 [589s - 596s]
+To speak to you. He's gonna pull over, is he? Well, he's pulled over. Right now, he wants to talk to you.
+
+🎤 SPEAKER_0 [599s - 600s]
+The blinking
+
+🎤 SPEAKER_0 [604s - 606s]
+They're down car to pay now.
+
+🎤 SPEAKER_1 [607s - 609s]
+He's down he's gone through the lanes, hasn't he?
+
+🎤 SPEAKER_0 [612s - 612s]
+I don't know.
+
+🎤 SPEAKER_1 [612s - 614s]
+Completely the wrong end of town.
+
+🎤 SPEAKER_2 [617s - 618s]
+Sound like a yoga He's gonna end up missing here, isn't he?
+
+🎤 SPEAKER_1 [618s - 622s]
+He's driving down to the bottom. He's thinking I'll go down the island.
+
+🎤 SPEAKER_0 [623s - 627s]
+I know. I might go and No.
+
+🎤 SPEAKER_1 [628s - 632s]
+Don't don't. Just leave him. He's fine. Don't want to stress him out.
+
+🎤 SPEAKER_0 [632s - 635s]
+I don't need to tell him. I'll just go down and I'm gonna eat this if I can.
+
+🎤 SPEAKER_1 [636s - 637s]
+Yeah. I beg. Don't do that.
+
+🎤 SPEAKER_0 [639s - 643s]
+Connect. You've got to limit yourself.
+
+🎤 SPEAKER_1 [645s - 646s]
+Okay.
+
+🎤 SPEAKER_0 [656s - 657s]
+I'm gonna go out to him, mate.
+
+🎤 SPEAKER_2 [657s - 657s]
+No.
+
+🎤 SPEAKER_1 [657s - 660s]
+Don't go out to him. There's There's no point.
+
+🎤 SPEAKER_0 [661s - 666s]
+You don't have to go When they're following? And when he gets to the next stop, I just thought it's get off. Wait.
+
+🎤 SPEAKER_1 [666s - 669s]
+She'll be out for hour. I'm just gonna do a food shop.
+
+🎤 SPEAKER_0 [669s - 670s]
+That's fine.
+
+🎤 SPEAKER_0 [671s - 674s]
+But Arson, going the wrong way. Yeah. What did she say? Yeah. Obviously, he told
+
+🎤 SPEAKER_0 [688s - 691s]
+Maybe you can call the the bush company in Salem Rachel.
+
+🎤 SPEAKER_0 [701s - 705s]
+What's the best route they're meant to be on? What's it called?
+
+🎤 SPEAKER_1 [707s - 709s]
+He didn't know. He thought we got a different route.
+
+🎤 SPEAKER_0 [709s - 721s]
+Right. So not as he late, he's obviously lastminute.com job. Should I call him then?
+
+🎤 SPEAKER_0 [730s - 730s]
+Yeah.
+
+🎤 SPEAKER_1 [731s - 732s]
+The thingy. Yeah.
+
+🎤 SPEAKER_0 [733s - 736s]
+Whoever whoever sent him out told him the wrong route or something wrong route number.
+
+🎤 SPEAKER_1 [739s - 739s]
+Say, look.
+
+🎤 SPEAKER_1 [741s - 742s]
+My son is in the canal.
+
+🎤 SPEAKER_0 [743s - 744s]
+Yeah.
+
+🎤 SPEAKER_1 [744s - 752s]
+Goes to bishop. He's supposed to be coming along along into Barry. And he's in Penal. And it he he should have been home fifteen minutes ago.
+
+🎤 SPEAKER_0 [752s - 760s]
+Well, I don't need to be aggravating. I just say, I don't know what Well, give me the number then. WhatsApp you the number. Because they're driving into Pinars now. Guy's got confused.
+
+🎤 SPEAKER_0 [766s - 767s]
+Oh bless him.
+
+🎤 SPEAKER_0 [770s - 772s]
+You're thinking why is nobody getting off the blinking bus?
+
+🎤 SPEAKER_0 [785s - 791s]
+That's not very good, is it? Hopefully, you're you don't hopefully, you're not saying that about the kids. No.
+
+🎤 SPEAKER_1 [791s - 794s]
+He's annoyed it. Whatever.
+
+🎤 SPEAKER_0 [794s - 797s]
+Is he ask him is I'm trying to find Ask him is he angry at the kids?
+
+🎤 SPEAKER_1 [801s - 807s]
+Right. Let me just find the police program.
+
+🎤 SPEAKER_0 [808s - 812s]
+This was already about the best was fifty minutes late five zero.
+
+🎤 SPEAKER_0 [816s - 818s]
+And then it's gone completely the wrong way.
+
+🎤 SPEAKER_1 [822s - 864s]
+Okay.
+
+🎤 SPEAKER_0 [868s - 872s]
+Looks like he's coming back through.
+
+🎤 SPEAKER_1 [875s - 885s]
+She knows the person that that the blinking cold cost stuff is the is the problem. So kind of all I just say, a different one.
+
+🎤 SPEAKER_2 [885s - 886s]
+Just say the shit or something.
+
+🎤 SPEAKER_1 [886s - 897s]
+No. She works. She'll be really arsy. Okay. Fine. O two nine two o Yep. Five seven five three three three.
+
+🎤 SPEAKER_0 [898s - 899s]
+I'm not gonna be arsy.
+
+🎤 SPEAKER_2 [899s - 900s]
+I know.
+
+🎤 SPEAKER_1 [900s - 901s]
+Just say, my son was picked up.
+
+🎤 SPEAKER_0 [901s - 908s]
+No. I don't need you to tell me. And I don't want you by the way, this is the worst thing you ever do. You start in and from your off.
+
+🎤 SPEAKER_0 [910s - 911s]
+I will be angry at you if you do that.
+
+🎤 SPEAKER_2 [911s - 912s]
+Bit confusing No.
+
+🎤 SPEAKER_0 [913s - 914s]
+I don't see it like that.
+
+🎤 SPEAKER_1 [914s - 915s]
+No.
+
+🎤 SPEAKER_0 [915s - 921s]
+That's arsy. What are gonna say? I'm gonna explain the situation. Don't get don't get involved.
+
+🎤 SPEAKER_2 [921s - 922s]
+Why are you calling them?
+
+🎤 SPEAKER_1 [922s - 925s]
+To complain or to ask why it's getting what's going on? Can someone speak to the driver?
+
+🎤 SPEAKER_0 [945s - 953s]
+Culver and that sort of stuff. It's from Bishop Orland Escal. He's gone there. It seems like the driver's got confused. I'm gonna hold.
+
+🎤 SPEAKER_0 [956s - 961s]
+Which is in those? You can say things nicely, you see. No.
+
+🎤 SPEAKER_0 [978s - 981s]
+Okay, excellent. Nipperm.
+
+🎤 SPEAKER_0 [985s - 986s]
+Just calling the driver.
+
+🎤 SPEAKER_0 [989s - 990s]
+Can you keep an eye on where he is, Rachel?
+
+🎤 SPEAKER_0 [993s - 995s]
+Yeah. Know that, but exactly.
+
+🎤 SPEAKER_0 [1013s - 1014s]
+Like, each Iman is gonna have to Yeah.
+
+🎤 SPEAKER_2 [1021s - 1025s]
+It was a different drive at the day. One of the children did tell him he was on the other run.
+
+🎤 SPEAKER_0 [1025s - 1026s]
+Right.
+
+🎤 SPEAKER_2 [1026s - 1033s]
+They're like, oh, no. We're supposed to be doing he's doing a different run Oh, yeah. The So it's literally gonna be diverted now.
+
+🎤 SPEAKER_1 [1033s - 1033s]
+Okay?
+
+🎤 SPEAKER_0 [1034s - 1038s]
+Knows where he's going. Yeah? Yes. Yeah. Alright. Well, that's fine. Alright. Thanks for letting us know.
+
+🎤 SPEAKER_2 [1038s - 1039s]
+Thank you.
+
+🎤 SPEAKER_0 [1039s - 1050s]
+Bye. Bye. Let's blame one of the other children for letting well, yeah. No. Well, it's fine. As long as the company are aware and they've told me a minute ago, it's fine.
+
+🎤 SPEAKER_0 [1051s - 1056s]
+Take my cutoff now. That's a bit of a waste of electricity, that strawberry ritual.
+
+🎤 SPEAKER_0 [1057s - 1061s]
+And how is get the privilege around one of these fine plugs here? Shouldn't really have one of those small.
+
+🎤 SPEAKER_0 [1064s - 1065s]
+Have you told Elliot?
+
+🎤 SPEAKER_1 [1067s - 1068s]
+Alright.
+
+🎤 SPEAKER_1 [1072s - 1072s]
+Alright.
+
+🎤 SPEAKER_2 [1072s - 1077s]
+I spoke to before seeing her.
+
+🎤 SPEAKER_0 [1077s - 1080s]
+Yeah. Probably has to deal with a lot of agar every single day. Oh,
+
+🎤 SPEAKER_1 [1080s - 1080s]
+no.
+
+🎤 SPEAKER_0 [1081s - 1082s]
+Probably probably annoyed at the staff and annoyed at she would get up.
+
+🎤 SPEAKER_2 [1084s - 1089s]
+Up and they haven't got the staff in the buses. No. Yeah.
+
+🎤 SPEAKER_0 [1093s - 1095s]
+You told earlier that we've called, Rachel, anything?
+
+🎤 SPEAKER_2 [1097s - 1098s]
+Alright.
+
+🎤 SPEAKER_1 [1106s - 1107s]
+Alright.
+
+
+---
+
