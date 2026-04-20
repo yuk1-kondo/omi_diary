@@ -182,3 +182,29 @@ What time do you say? Probably 07:00 till ten. Yeah. Just just just stay in your
 
 ---
 
+
+
+## 📝 Shopping Trip Gets Complicated - 791ab132-4437-43e8-b61e-7f46e33de878
+
+**記録時間**: 2026-04-21 01:33:15
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 12s]
+I filled up the trolley to the max, and then carried Coke in my hands. And then I realized, not the trolley, the basket, and then I realized once I fill my bags that I was gonna have to carry them to the car.
+
+🎤 SPEAKER_2 [13s - 29s]
+So I had three, like, seriously heavy big bags for life. And I had to carry them to the car. Because the basket, I've always saw the basket. There was a big queue, and he's like, pull the bath weedy baskets to the car.
+
+🎤 SPEAKER_2 [30s - 48s]
+Or trash them on the car tarmac. Anyway, I made it. I think I might have straightened my shoulder. But I did it. I'm on my way back. I managed to get most stuff. It turns out you can fit a lot in them trolleys, and I even managed to get pet Max and the cheap stuff. So happy days.
+
+🎤 SPEAKER_2 [49s - 57s]
+But I was under pressure at the tail, and I haven't transferred any money over from the food thing. I had to buy in bills. No.
+
+🎤 SPEAKER_2 [57s - 74s]
+I had to buy on the debt. I account, and then I immediately transferred it over from Monzo. So I'm really sorry I haven't done that yet, and I know we wanted to do it properly. But that I I couldn't manage I could manage it the other way because I was flustered at the and she was waiting for me, and I kept clicking on the wrong thing. So
+
+
+---
+
