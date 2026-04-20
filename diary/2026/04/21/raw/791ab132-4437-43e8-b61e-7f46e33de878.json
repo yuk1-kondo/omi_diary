@@ -1,0 +1,135 @@
+{
+  "id": "791ab132-4437-43e8-b61e-7f46e33de878",
+  "created_at": "2026-04-20T16:33:15.362144+00:00",
+  "started_at": "2026-04-20T16:34:57.660977+00:00",
+  "finished_at": "2026-04-20T16:36:14.360953+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Shopping Trip Gets Complicated",
+    "overview": "The speaker describes a stressful shopping run where they maxed out the trolley, ended up carrying multiple heavy bags to the car, and still managed to get most of what they needed, including pet food and cheaper items. They mention being rushed at the checkout, making a payment on the wrong account, then immediately transferring money from Monzo afterward. They apologize for not handling the money transfer the intended way because they were flustered and the cashier was waiting.",
+    "emoji": "🛒",
+    "category": "personal",
+    "action_items": [
+      {
+        "description": "Transfer money from the food account",
+        "completed": false,
+        "created_at": "2026-04-20T16:38:22.688730+00:00",
+        "updated_at": "2026-04-20T16:38:22.688730+00:00",
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "bbfe4d44-dc80-4701-8ea8-07a3144546ee",
+      "text": "I filled up the trolley to the max, and then carried Coke in my hands. And then I realized, not the trolley, the basket, and then I realized once I fill my bags that I was gonna have to carry them to the car.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": -3.337841008033138e-07,
+      "end": 12.720019666216103,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "da0b65b3-4873-4514-8c9b-e0341957c489",
+      "text": "So I had three, like, seriously heavy big bags for life. And I had to carry them to the car. Because the basket, I've always saw the basket. There was a big queue, and he's like, pull the bath weedy baskets to the car.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 13.759999666216117,
+      "end": 29.839999666216045,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "684bc145-a085-4f2d-80fa-7cb06ca854cf",
+      "text": "Or trash them on the car tarmac. Anyway, I made it. I think I might have straightened my shoulder. But I did it. I'm on my way back. I managed to get most stuff. It turns out you can fit a lot in them trolleys, and I even managed to get pet Max and the cheap stuff. So happy days.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 30.559979666215895,
+      "end": 48.4400196662159,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "41b3944d-d7e1-47a1-8202-4055afefd130",
+      "text": "But I was under pressure at the tail, and I haven't transferred any money over from the food thing. I had to buy in bills. No.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 49.969999666216154,
+      "end": 57.03999966621586,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c6942ee0-fa34-41e4-9719-07f5dbdfb603",
+      "text": "I had to buy on the debt. I account, and then I immediately transferred it over from Monzo. So I'm really sorry I haven't done that yet, and I know we wanted to do it properly. But that I I couldn't manage I could manage it the other way because I was flustered at the and she was waiting for me, and I kept clicking on the wrong thing. So",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 57.19999966621617,
+      "end": 74.87999966621601,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156893,
+    "longitude": -3.2755678,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "b10f38c8-7a6f-4774-adb0-2ad70350a966",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "791ab132-4437-43e8-b61e-7f46e33de878",
+      "chunk_timestamps": [
+        1776702794.053,
+        1776702854.107,
+        1776702914.416,
+        1776702974.556,
+        1776703036.069
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-20T16:33:14.053000+00:00",
+      "duration": 363.21799999999996
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [],
+  "suggested_summarization_apps": [],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": null,
+  "call_id": null
+}
