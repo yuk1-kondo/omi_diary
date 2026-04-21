@@ -189,3 +189,29 @@ Daddy gets in at court's Daddy gets in. Daddy at court to fall. He's not
 
 ---
 
+
+
+## 📝 Omi And Jude Argue At Dinner - d7186f13-8649-4b27-99e1-8d67b06e3afc
+
+**記録時間**: 2026-04-22 02:07:56
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 12s]
+Don't you dare. I not here at you. To come home and completely calm me straight away. That's unkind. I don't like it. How is it unkind? You're grassing Omi. I don't want it. Thank you.
+
+🎤 SPEAKER_0 [13s - 22s]
+You really be grassing on your friends. No. No. No. No. You don't come in and start grasping me like that. You're at you're at your dinner,
+
+🎤 SPEAKER_0 [26s - 27s]
+No, I'm not mean.
+
+🎤 SPEAKER_1 [27s - 34s]
+You're okay. Omi told me you were not rubbing, and I couldn't rubbing. I don't No.
+
+🎤 SPEAKER_0 [35s - 45s]
+Don't give that. You completely make that up, Jude. No. Were running fine. You you didn't mention a little thing about this, you got back. And cross because she's you worried that I'm gonna judge you. Show for some reason. I don't
+
+
+---
+
