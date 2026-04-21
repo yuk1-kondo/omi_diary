@@ -1,0 +1,307 @@
+{
+  "id": "d35a1941-609e-4b55-a5bd-9c8f34e54a5e",
+  "created_at": "2026-04-21T17:29:55.461363+00:00",
+  "started_at": "2026-04-21T17:31:48.128279+00:00",
+  "finished_at": "2026-04-21T17:34:05.626309+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Pay Increase Discussion Clarifies Monthly Take-Home",
+    "overview": "The user and Exactly discuss a pay change and try to work out the real amount before and after deductions. Exactly explains that the gross pay appears to have increased from about 1599 to 1680, which should work out to roughly 87 pounds extra per month after deductions. The user reacts that it feels like roughly an extra pound a day, and both note that the final effect may not be fully clear until the next month’s pay comes in.",
+    "emoji": "💷",
+    "category": "finance",
+    "action_items": [
+      {
+        "description": "Transfer money from the food account",
+        "completed": false,
+        "created_at": "2026-04-21T17:36:10.246200+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "f92a3544-6db0-43c5-aab2-92eb1faf4870",
+      "text": "So she paid me on the previous point because Oh, I see. She said she even though she's got it, she have just she's doing it with everybody. Just got up to me.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 2.384185791015625e-07,
+      "end": 9.59999923841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "844f6ca4-048b-4222-b5b2-32a81d87d044",
+      "text": "So how much more you're before tax and everything you're getting now? Are you getting a thousand or something? Or 500 or something?",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 9.59999923841858,
+      "end": 15.96000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9f3ce0d1-cada-4cb2-bd3f-00fc8d0512d7",
+      "text": "Before anything comes out, before Universal before everything, I've now Is that is that done right?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 18.20000023841858,
+      "end": 22.13000123841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "6faccc22-5d7e-4eff-b137-695c1ca1c9c3",
+      "text": "I'm hearing it sounds like a pressure cooker in there.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 23.400000238418578,
+      "end": 26.20000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "13fca4ed-a0f8-4d2c-a634-8b0c76b1db97",
+      "text": "I'm put that in. I'm supposed to put this in. Alright. Is it Mel? It's fine. That is fine.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 30.44000023841858,
+      "end": 36.88000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "bb55b177-374d-4a0e-a0ee-8b0e827ec36d",
+      "text": "Is the most is the most cooked? Already? Oh, okay.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 37.04000023841858,
+      "end": 40.76000223841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c28473e2-1271-4727-8cc5-902e8b20abd6",
+      "text": "Oh, wow. I suppose no. Yes. No. So I've yeah. As an extra one hundred and",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 40.76000223841858,
+      "end": 48.32000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "60d2915c-9074-4950-93f5-b7111f650d19",
+      "text": "Happy.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 49.04000023841858,
+      "end": 49.44000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9dd1e754-1856-47ad-aad0-9213b36af737",
+      "text": "Were ninety nothing gross of beanette a mum.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 49.52000023841858,
+      "end": 55.920002238418576,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9fee9f9e-519b-4a6b-b6f2-7bd128199baa",
+      "text": "It's That's like a day's That's like an extra day. That's a pound a day.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 61.68000023841858,
+      "end": 65.06000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "64d597c2-b09f-46b3-9903-58b59f4c1983",
+      "text": "Right. So a month. Yeah.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 67.15999623841859,
+      "end": 68.52000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "06df92d6-ed41-4cc7-82e5-4ab9c7771255",
+      "text": "I mean, that's An extra day a month. Yeah. Sorry.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 68.52000023841858,
+      "end": 70.84000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "5547a660-d414-4f7b-89b5-c9c907887254",
+      "text": "That so I've gone from one five nine nine to $1.06 $8.06. That's quite a big jump in a monthly pay. 7 I mean, eighty eighty eighty seven pounds a month extra.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 73.64000023841858,
+      "end": 86.15999623841859,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e11934ab-8a0e-46f5-8ea2-b198411ffb31",
+      "text": "See everything else I got, but that's healthy. If I do what Oh, that's perfect. That's it. Got, difficult to work out.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 86.64000023841858,
+      "end": 91.50000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8ed3cb91-efe7-4462-bd3d-9f666ae27c9e",
+      "text": "The sounds.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": true,
+      "person_id": null,
+      "start": 92.12000023841858,
+      "end": 92.68000023841859,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "fdaeec57-ce4c-49b4-aae9-da95f9326395",
+      "text": "So one of those I mean, I can't actually see it being any different to previously, but it it's probably not that much when it actually comes in, but well, I won't really be able next month.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 93.02000423841858,
+      "end": 107.04000023841859,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9ec0a990-b86a-49bb-83f4-6366e324a3e3",
+      "text": "That.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 108.52000423841858,
+      "end": 108.92000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156893,
+    "longitude": -3.2755678,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "b2bd09df-5fb2-49d4-b339-d578ca6ac968",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "d35a1941-609e-4b55-a5bd-9c8f34e54a5e",
+      "chunk_timestamps": [
+        1776792595.02
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-21T17:29:55.020000+00:00",
+      "duration": 1.122
+    },
+    {
+      "id": "ddabd09d-f8d1-4841-be25-8f87c3d00ea8",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "d35a1941-609e-4b55-a5bd-9c8f34e54a5e",
+      "chunk_timestamps": [
+        1776792708.011,
+        1776792780.503
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-21T17:31:48.011000+00:00",
+      "duration": 192.774
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Pay increase discussed\n- Before deductions, pay is higher now\n- Increased from 1599 to 1688 monthly\n- About 87 pounds extra per month\n\n## Extra income clarified\n- Roughly one extra pound per day\n- User compared it to one workday\n- Gross amount still needed checking\n\n## Current setup and confusion\n- Payment details were being adjusted\n- Some figures were hard to track\n- Final amount may differ after deductions\n\n## Next steps\n- Wait until next month\n- Confirm the actual take-home amount\n- Check if payments are correct"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": null,
+  "call_id": null
+}
