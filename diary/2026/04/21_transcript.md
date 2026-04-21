@@ -2011,3 +2011,74 @@ Bye.
 
 ---
 
+
+
+## 📝 Team Buys Auction Items For Charity - 65b5d03e-9af7-4bbb-a70c-f6548e541f0e
+
+**記録時間**: 2026-04-21 21:56:13
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 12s]
+He said happily, raising his cup. It seems like you've been gone forever. You're telling me? M said, his voice earnest. Kelce or chuckled, rising to refill his drink.
+
+🎤 SPEAKER_0 [13s - 23s]
+Ham's a bit of playing general. I had to wear a uniform and complain, stretching. He now wore his customary vest and trousers.
+
+🎤 SPEAKER_0 [24s - 32s]
+Even plantation skies don't have to deal with that kind of torture. Try wearing a formal gown sometime. Yes. Seating yourself.
+
+🎤 SPEAKER_0 [33s - 46s]
+She'd brushed off the front of her dress, and it didn't look half as bad as she'd feared. The blackish gray ash still showed up a bit against the dark fabric, and the fibrous rough where she'd rubbed against stone, but both were barely noticeable.
+
+🎤 SPEAKER_0 [47s - 56s]
+Ann laughed, Seems that you've turned into a proper young lady while I was gone. High pain. Then said as Kelsey or handed her a cup of wine.
+
+🎤 SPEAKER_0 [57s - 69s]
+She paused briefly, then took us in. Mistress Ving is being modest. Master Hammond, says it saying, taking a seat. She's growing quite proficient at courtly arts.
+
+🎤 SPEAKER_0 [70s - 80s]
+Better than many actual nobles that I have known. Vin flushed and ham laughed again. Humility, Vin? Would you ever learn a bad habit like that?
+
+🎤 SPEAKER_0 [81s - 94s]
+Not for me, Kelsey has said, offering sausage a cup of wine. Raised his hand in a respectful refusal. Of course, she get it from you, Hamsad.
+
+🎤 SPEAKER_0 [94s - 98s]
+Maybe it's pooped on her. He seems to be the only one in this
+
+🎤 SPEAKER_0 [101s - 115s]
+This flushed. Obviously trying to avoid nothing to I'll have to get with you sometime tonight. Kelsey is back and Ellen's not a murderer.
+
+🎤 SPEAKER_0 [115s - 127s]
+This is a night to relax. Footsteps sounded on the stairs, a moment later, dachshund strolled into the room. No party. And no one sent for me.
+
+🎤 SPEAKER_0 [128s - 137s]
+You seemed busy, Calcio said. Besides, Pam added, we know you're too responsible to sit around and get drunk with a bunch of miscreants like us.
+
+🎤 SPEAKER_0 [138s - 150s]
+Someone has to keep this new running? Dachshund said lightheartedly, pouring himself a drink. He paused, frowning at hand. That vest looks familiar.
+
+🎤 SPEAKER_0 [150s - 164s]
+Ham smiled. I ripped the arms off of my uniform coat. You didn't, Lynn said with a smile. Am nodded looking self satisfied. Dachshund sighed, continuing to fill his cup.
+
+🎤 SPEAKER_0 [165s - 176s]
+Ham, those things cost money. Everything costs money, Ham said. But what is money? A physical representation of the abstract concept of effort.
+
+🎤 SPEAKER_0 [180s - 223s]
+Might solve it by itself, let's see.
+
+🎤 SPEAKER_1 [283s - 295s]
+Have sixty minutes and £100 each to buy items that they will auction off themselves. Including one item that we'll be sending for professional upcycler to boost profit for their chosen charity.
+
+🎤 SPEAKER_1 [296s - 305s]
+And joining them today are Huckbug and Light expert, Peace and Love Now. Who given up their full time jobs to become full time directors.
+
+🎤 SPEAKER_1 [305s - 310s]
+Pink? You're gonna be teeming up with Carly today. I'll do, Bobby. Not too bad. Are okay,
+
+🎤 SPEAKER_1 [319s - 329s]
+I could go a £100 each for you. You've got sixty minutes. You ready? We're ready. Then let's get going.
+
+
+---
+
