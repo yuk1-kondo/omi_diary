@@ -215,3 +215,65 @@ Don't give that. You completely make that up, Jude. No. Were running fine. You y
 
 ---
 
+
+
+## 📝 Pay Increase Discussion Clarifies Monthly Take-Home - d35a1941-609e-4b55-a5bd-9c8f34e54a5e
+
+**記録時間**: 2026-04-22 02:29:55
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 9s]
+So she paid me on the previous point because Oh, I see. She said she even though she's got it, she have just she's doing it with everybody. Just got up to me.
+
+👤 あなた [9s - 15s]
+So how much more you're before tax and everything you're getting now? Are you getting a thousand or something? Or 500 or something?
+
+🎤 SPEAKER_0 [18s - 22s]
+Before anything comes out, before Universal before everything, I've now Is that is that done right?
+
+👤 あなた [23s - 26s]
+I'm hearing it sounds like a pressure cooker in there.
+
+🎤 SPEAKER_0 [30s - 36s]
+I'm put that in. I'm supposed to put this in. Alright. Is it Mel? It's fine. That is fine.
+
+👤 あなた [37s - 40s]
+Is the most is the most cooked? Already? Oh, okay.
+
+🎤 SPEAKER_0 [40s - 48s]
+Oh, wow. I suppose no. Yes. No. So I've yeah. As an extra one hundred and
+
+👤 あなた [49s - 49s]
+Happy.
+
+🎤 SPEAKER_0 [49s - 55s]
+Were ninety nothing gross of beanette a mum.
+
+👤 あなた [61s - 65s]
+It's That's like a day's That's like an extra day. That's a pound a day.
+
+🎤 SPEAKER_0 [67s - 68s]
+Right. So a month. Yeah.
+
+👤 あなた [68s - 70s]
+I mean, that's An extra day a month. Yeah. Sorry.
+
+🎤 SPEAKER_0 [73s - 86s]
+That so I've gone from one five nine nine to $1.06 $8.06. That's quite a big jump in a monthly pay. 7 I mean, eighty eighty eighty seven pounds a month extra.
+
+🎤 SPEAKER_0 [86s - 91s]
+See everything else I got, but that's healthy. If I do what Oh, that's perfect. That's it. Got, difficult to work out.
+
+👤 あなた [92s - 92s]
+The sounds.
+
+🎤 SPEAKER_0 [93s - 107s]
+So one of those I mean, I can't actually see it being any different to previously, but it it's probably not that much when it actually comes in, but well, I won't really be able next month.
+
+🎤 SPEAKER_0 [108s - 108s]
+That.
+
+
+---
+
