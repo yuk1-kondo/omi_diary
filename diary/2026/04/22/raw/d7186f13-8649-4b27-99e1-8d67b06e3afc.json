@@ -1,0 +1,130 @@
+{
+  "id": "d7186f13-8649-4b27-99e1-8d67b06e3afc",
+  "created_at": "2026-04-21T17:07:56.381001+00:00",
+  "started_at": "2026-04-21T17:08:13.910315+00:00",
+  "finished_at": "2026-04-21T17:09:11.625977+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Omi And Jude Argue At Dinner",
+    "overview": "Omi and Jude get into a tense, fragmented argument about one of them \"grassing\" on friends, being judged, and whether someone was rude after coming home. The exchange suggests a family or close-household conflict, with repeated denials, accusations of making things up, and frustration over how the issue was handled at dinner.",
+    "emoji": "🍽️",
+    "category": "family",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "4a00ca7b-975a-4ee9-b41d-c84a9983ce44",
+      "text": "Don't you dare. I not here at you. To come home and completely calm me straight away. That's unkind. I don't like it. How is it unkind? You're grassing Omi. I don't want it. Thank you.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 8.583069188716763e-08,
+      "end": 12.719999085830693,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "a5285c0a-136a-43ff-b68d-d4ee52b35cab",
+      "text": "You really be grassing on your friends. No. No. No. No. You don't come in and start grasping me like that. You're at you're at your dinner,",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 13.559999085830697,
+      "end": 22.679998085830704,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "ffd75115-90d5-440a-9222-2829158b1ecb",
+      "text": "No, I'm not mean.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 26.92000008583068,
+      "end": 27.400001085830695,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7dd66fe2-5148-48d2-bd52-fbd282dc67d1",
+      "text": "You're okay. Omi told me you were not rubbing, and I couldn't rubbing. I don't No.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 27.760000085830683,
+      "end": 34.69969557762201,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "09e5ca7b-29d4-4c83-939e-255be743b541",
+      "text": "Don't give that. You completely make that up, Jude. No. Were running fine. You you didn't mention a little thing about this, you got back. And cross because she's you worried that I'm gonna judge you. Show for some reason. I don't",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 35.09969757762201,
+      "end": 45.019695577622,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJe2mDe48FbkgRZGztydIziR4",
+    "latitude": 51.4163956,
+    "longitude": -3.2777675,
+    "address": "20 White Farm, Barry CF62 9EU, UK",
+    "location_type": "street_address"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "b96a4437-0722-45f5-9ff0-123d950c69a9",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "d7186f13-8649-4b27-99e1-8d67b06e3afc",
+      "chunk_timestamps": [
+        1776791275.68,
+        1776791342.063
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-21T17:07:55.680000+00:00",
+      "duration": 187.185
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+      "content": "I found one diary-style entry from the conversation:\n\n**Diary Entry**\n- A tense disagreement about being “grassed on” or judged.\n- Someone felt it was unkind to be confronted right after coming home and trying to calm down.\n- There was confusion and denial about accusations, with repeated back-and-forth about what was said and whether anyone was being mean.\n- The conversation ended still unresolved, with one person feeling worried about being judged.\n\n**Summary of the day**\n- Main theme: conflict, misunderstanding, and feeling judged.\n- Emotional tone: frustrated, defensive, and uneasy."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": null,
+  "call_id": null
+}
