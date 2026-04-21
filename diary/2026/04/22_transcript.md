@@ -1200,3 +1200,113 @@ Yeah. Well, well, maybe you could. I don't wanna do it tonight now.
 
 ---
 
+
+
+## 📝 Birthday Dinner Plans in Whitchurch - 5dca7153-04f1-42aa-a828-3a49d8754d9f
+
+**記録時間**: 2026-04-22 03:15:27
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [2s - 6s]
+Ja, Mom's taking it out on Friday. It's in Witchurch. She's booked somewhere.
+
+🎤 SPEAKER_6 [6s - 7s]
+Brook.
+
+🎤 SPEAKER_1 [7s - 13s]
+Some bistro that's posh. Is this, like, is this this is my birthday's fourteenth meal?
+
+🎤 SPEAKER_4 [13s - 16s]
+Omi and Kate are actually coming? It's a bit of a surprise because what do people not get?
+
+🎤 SPEAKER_1 [20s - 22s]
+That I don't like surprising?
+
+👤 あなた [22s - 23s]
+I think it is that.
+
+🎤 SPEAKER_1 [23s - 24s]
+Is it just minimum?
+
+👤 あなた [25s - 32s]
+Yeah. I don't know nothing about it if it is anything more than that. I doubt it very much Rachel. I think it's just my mom wants to take you out.
+
+🎤 SPEAKER_6 [33s - 34s]
+K?
+
+🎤 SPEAKER_1 [34s - 35s]
+Why we now always a blinking witch church?
+
+🎤 SPEAKER_4 [37s - 38s]
+Babe. Oh, no.
+
+🎤 SPEAKER_1 [38s - 39s]
+It's lovely. That's about a half glass empty.
+
+👤 あなた [39s - 40s]
+There's nowhere to park.
+
+🎤 SPEAKER_1 [41s - 50s]
+And so I'm gonna have to drop your mum outside and then it's fine, but it's on it's in like a it's right in Witchurch where it's like that, you know.
+
+🎤 SPEAKER_6 [50s - 51s]
+Right.
+
+🎤 SPEAKER_5 [51s - 54s]
+Have you spotted where the nearest Parkinsburg? No.
+
+🎤 SPEAKER_2 [54s - 54s]
+I'm looking.
+
+👤 あなた [55s - 56s]
+You park on the street?
+
+🎤 SPEAKER_3 [56s - 57s]
+No.
+
+👤 あなた [57s - 58s]
+Even down a bit?
+
+🎤 SPEAKER_1 [59s - 61s]
+Well, there's a Friday night with loads of restaurants.
+
+🎤 SPEAKER_3 [62s - 63s]
+So I don't know.
+
+🎤 SPEAKER_5 [64s - 66s]
+But if you zoom out a little bit in the satellite, you you might be able to see double yellow.
+
+🎤 SPEAKER_4 [67s - 70s]
+All around, so there must be something. Yeah.
+
+👤 あなた [71s - 72s]
+But you're mountain, see if you can see a car park.
+
+🎤 SPEAKER_3 [73s - 73s]
+Just no.
+
+🎤 SPEAKER_4 [75s - 76s]
+I I definitely can't see a car park.
+
+🎤 SPEAKER_3 [77s - 78s]
+Let's have a look.
+
+🎤 SPEAKER_4 [82s - 85s]
+Earth of road display car park. Right.
+
+🎤 SPEAKER_4 [85s - 99s]
+That's miles away so I can park there it's a three minute drive or three minute walk. Okay. So I can park there because I can cut through.
+
+🎤 SPEAKER_1 [105s - 113s]
+It's right by the glass of Bandol that I wanted to go to.
+
+🎤 SPEAKER_5 [116s - 118s]
+Well, that's good for you to assess out that area then, guess.
+
+🎤 SPEAKER_3 [118s - 121s]
+Yeah. I mean, it looks really good. So don't get me wrong.
+
+
+---
+
