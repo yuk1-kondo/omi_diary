@@ -1122,3 +1122,176 @@ Doing a Not particularly lean chips there.
 
 ---
 
+
+
+## 📝 Calls, Gala, and Fleet Plans - 591425eb-cd01-47bf-9a4d-3cc85c932191
+
+**記録時間**: 2026-04-23 17:37:55
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 193s]
+What time you showed up?
+
+🎤 SPEAKER_7 [193s - 195s]
+Alright. I wanna know what's going on.
+
+🎤 SPEAKER_8 [196s - 204s]
+I've been trying to get gutter's attention for, oh, I don't know. Three years now. And what do I get? Nothing but radio silence.
+
+🎤 SPEAKER_8 [205s - 212s]
+They're out of nowhere just when and on a huge score of our own, Delgado, orders me to help you out.
+
+🎤 SPEAKER_8 [216s - 240s]
+Oh, sure. Sure. First, a tour, followed by a formal dinner at the captain's table. Let's get one thing straight. You're here for Christmas, not for a vacation. So let's start by talking about because you only way to achieve a win is by agreeing to play the game in the first place.
+
+🎤 SPEAKER_8 [242s - 244s]
+Case scenario, I don't make the fleet couple thousand credits richer.
+
+🎤 SPEAKER_8 [248s - 250s]
+That's almost a a win win to pay.
+
+🎤 SPEAKER_0 [254s - 258s]
+Happy.
+
+🎤 SPEAKER_8 [258s - 267s]
+Oh, I'm thrilled. Still, this leads me with a lot of unknowns. In our line of So Neva's message said you were here for Demgost.
+
+🎤 SPEAKER_8 [269s - 275s]
+Was that all she sent you here to do? Or was there something else you were sent here to steal?
+
+🎤 SPEAKER_8 [280s - 290s]
+Don't play games with me. We both know pinging a message back and forth to the key. Is going to think. We're supposed to be working together on every part of this.
+
+🎤 SPEAKER_8 [291s - 293s]
+So gonna tell me what else you're here for or not.
+
+🎤 SPEAKER_5 [299s - 299s]
+Okay.
+
+🎤 SPEAKER_8 [300s - 308s]
+So why are you targeting a Gold Bank exec anyway? Not exactly your average crimson feet prey. Why the interest?
+
+🎤 SPEAKER_8 [312s - 325s]
+Merchant vessels transport supply going forward is mining settlement. You get that picture. But thinking of a that's a really big deal. Something the crimson fleet stayed away from past.
+
+🎤 SPEAKER_8 [327s - 343s]
+Sounds to me that that was either letting it safe. I know. But let's make one thing clear, that I'm gonna stick my neck out by hell you get near Dencrovsky.
+
+🎤 SPEAKER_8 [344s - 345s]
+I want something in return.
+
+🎤 SPEAKER_3 [346s - 350s]
+Like him or not, he's the Simon's captain, so his assistant is going to be invaluable.
+
+🎤 SPEAKER_9 [352s - 354s]
+Maybe we should hear what he has to say.
+
+🎤 SPEAKER_2 [365s - 366s]
+Well, well, it I don't want money.
+
+🎤 SPEAKER_8 [367s - 371s]
+I want back into the crimson fleet. It's as simple as that.
+
+🎤 SPEAKER_8 [375s - 394s]
+Of course, I do. But who wants to settle for a onetime payout? You see, getting my ass back into the fleet means I regain access to shinyables.
+
+🎤 SPEAKER_0 [398s - 399s]
+You better.
+
+🎤 SPEAKER_8 [400s - 405s]
+Or you're gonna have to find another Gal Bank executive. As long as the brook
+
+🎤 SPEAKER_0 [411s - 411s]
+Fine.
+
+🎤 SPEAKER_8 [412s - 422s]
+You wanna play it that way. Is a full timer about the siren of the stomach. Probably spends more time cruising the space lanes than actually would.
+
+🎤 SPEAKER_8 [422s - 433s]
+Fortunately. The is hosting the Tehran Preservation Society charity gather, Larry will be able to resist showing off his VIP Cloud.
+
+🎤 SPEAKER_8 [434s - 441s]
+To get what you need you're gonna have to attend the gala. Talk to a fellow philanthropist and dig ups of dirt.
+
+🎤 SPEAKER_9 [442s - 446s]
+Oh god. I'd rather hunt down Veroon's zealot than mingle with those that you could The advance had come complete sham.
+
+🎤 SPEAKER_8 [454s - 473s]
+Bunch of rich, small upskill. These people couldn't give a damn about terrain preservation or alien. Someone with enough disposable income to afford a permanent 6 figure cabin or Consider it similar to owning a luxury mobile vacation home.
+
+🎤 SPEAKER_8 [474s - 475s]
+Play a thing for the wealthy. You'll get it.
+
+🎤 SPEAKER_8 [480s - 490s]
+Yeah. Well, lucky for you, it's not black tie, so you'll be fine. This card will allow you to access the star of your book. If you need my help, I'll be relaxing.
+
+🎤 SPEAKER_8 [495s - 496s]
+They'll be more than happy dish.
+
+🎤 SPEAKER_8 [500s - 513s]
+He's a VIP executive, which means either worked or backstabbed, lightsheet, and betrayed his way up. Now you're speaking. All this one last thing.
+
+🎤 SPEAKER_8 [514s - 523s]
+Dryden equips all of their star liners with the latest acoustic threat detection. Meaning they could lose patience and kill anyone aboard the ship.
+
+🎤 SPEAKER_8 [523s - 526s]
+Suck you. Anyway. I suppose that's enough.
+
+🎤 SPEAKER_8 [533s - 538s]
+You seriously need to ask. First, gold bank remix their goal.
+
+🎤 SPEAKER_8 [545s - 556s]
+And second, you're up a Gal Bank employee in every single Gal Bank. I'm gonna guess that one held with Omi, while you're at the gala, avoid the gala days.
+
+🎤 SPEAKER_8 [557s - 557s]
+They're frozen.
+
+🎤 SPEAKER_0 [558s - 558s]
+Not fresh.
+
+🎤 SPEAKER_1 [561s - 580s]
+You're a guest of captain Rokoff. Right? Welcome aboard.
+
+🎤 SPEAKER_6 [580s - 582s]
+This is one I'm trying to tell.
+
+🎤 SPEAKER_5 [588s - 596s]
+Captain Rolkov is one of the most easy going o's I've ever worked. In fact, he doesn't pack much like a captain at all.
+
+🎤 SPEAKER_3 [606s - 610s]
+Tradents must have spent a fortune equipping the ship with triple redogings.
+
+🎤 SPEAKER_1 [614s - 621s]
+Captain said you're allowed in any other specific area. Just untouch anything, please.
+
+🎤 SPEAKER_0 [625s - 713s]
+Can you do
+
+🎤 SPEAKER_1 [749s - 831s]
+Traveling with a She I don't need to be getting revolution fucking emails every day.
+
+🎤 SPEAKER_1 [943s - 946s]
+So what I've done is I've created a script.
+
+🎤 SPEAKER_5 [948s - 955s]
+In Jippedin What this is gonna do is it's gonna call them back Right? It's gonna wait for them to answer.
+
+🎤 SPEAKER_0 [955s - 956s]
+Thank you for calling Express Score.
+
+🎤 SPEAKER_5 [956s - 965s]
+It's gonna interact with the prompts automatically. When they answer now. Call it's gonna play Rick Astley never gonna give you up.
+
+🎤 SPEAKER_5 [969s - 989s]
+See what you don't know about the script, though. Is that I have it on repeat It's a it's a zero loop integer I put in there.
+
+🎤 SPEAKER_5 [989s - 997s]
+So it's gonna keep calling them back over and over. It's gonna keep doing this forever. Until they're forced to block my phone number.
+
+🎤 SPEAKER_5 [1000s - 1004s]
+Eliminating them from Everspam calling me because they have my number clocked.
+
+
+---
+
