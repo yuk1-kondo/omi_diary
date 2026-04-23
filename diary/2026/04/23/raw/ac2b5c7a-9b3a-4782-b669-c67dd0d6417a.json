@@ -1,0 +1,237 @@
+{
+  "id": "ac2b5c7a-9b3a-4782-b669-c67dd0d6417a",
+  "created_at": "2026-04-23T10:54:19.008545+00:00",
+  "started_at": "2026-04-23T10:52:18.075589+00:00",
+  "finished_at": "2026-04-23T11:01:12.751394+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Debate Examines Theology And Accountability",
+    "overview": "The conversation appears to be an intense discussion about theology, authority, and interpretation, with points raised about rejecting a method as undermining Christ, the church, and the New Testament. The speakers also reference theological overlays, core doctrines such as kingship, repentance, suffering, and praise, and then shift into a separate topic about a business decision involving calling Terry to say they could not move forward. The transcript ends with references to a public statement about embracing people from all backgrounds and a remark about firing Terry Blaine rather than someone else.",
+    "emoji": "📚",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "beccd45e-1e67-4c46-bcb9-288ccb6bf02a",
+      "text": "So, yeah, so to reject the method is to is to undermine the authority of Christ and the church. And the New Testament.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 1.8248465494252741e-07,
+      "end": 221.30840931525745,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "32633fb2-a454-4ef8-853b-e1dd69e15cdc",
+      "text": "As well.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 227.25195815216648,
+      "end": 227.8119581521678,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "482b0eaf-6b32-4c11-bf47-9451cef277b3",
+      "text": "The debate is the connections in post.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 231.73205815216716,
+      "end": 236.83269821298018,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e6e8337d-9e73-4ffe-8fa0-fc2240fd1f05",
+      "text": "Would not be aware or intend to write patterns And so it's a theological overlay.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 242.7326982129798,
+      "end": 247.87269821297923,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "5ed48502-0ecc-4314-83de-58cd1e8bfdbf",
+      "text": "Sums aziológico.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 255.93269821297872,
+      "end": 272.71415783061457,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4e90fd84-7500-45c8-a882-dab61a97b3be",
+      "text": "Contain core doctrines, kingship, repentance, suffering praise, Good for all that. Don't necessarily need that one though to be fair.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 273.4043578306155,
+      "end": 282.6541578306151,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4eedbe7a-438d-4aeb-a6a9-9ad4305241ab",
+      "text": "You tagged also So when all the stuff came out, I'm the guy that had to call and say, we can't move forward here, Terry, so, you know, we're done.",
+      "speaker": "SPEAKER_8",
+      "speaker_id": 8,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 491.16155174390224,
+      "end": 495.7015517439013,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c27f8582-ec6a-491d-a8d3-c6fe3aa7e637",
+      "text": "The w w e saying in a statement, we are committed to embracing and celebrating individual from all backgrounds.",
+      "speaker": "SPEAKER_8",
+      "speaker_id": 8,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 501.251351743902,
+      "end": 506.91155174390224,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "33019498-38c2-4e40-aec9-fce7cc10857f",
+      "text": "Your image, your life Yeah.",
+      "speaker": "SPEAKER_3",
+      "speaker_id": 3,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 509.0015517439024,
+      "end": 510.2015517439013,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f88a021c-a97c-4a65-8760-200ea07ec34a",
+      "text": "I thought it never existed in my whole career, my whole life.",
+      "speaker": "SPEAKER_8",
+      "speaker_id": 8,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 512.3016517439028,
+      "end": 515.1815517439027,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3dbf5fd2-4b11-40cf-91f6-93291d122fa7",
+      "text": "Hokogan is one of the biggest legends in the history of this business. That's undeniable. But it didn't fire Al Cogan I fired Terry Blaine.",
+      "speaker": "SPEAKER_16",
+      "speaker_id": 16,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 518.4615517439015,
+      "end": 530.8215517439021,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e8a445fe-b1b5-41ed-b081-378729a21f9b",
+      "text": "At that point, there was",
+      "speaker": "SPEAKER_16",
+      "speaker_id": 16,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 533.5415517439014,
+      "end": 534.6615517439022,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156923,
+    "longitude": -3.2755164,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "97a724b2-0737-4148-a98e-a3d7599f93b3",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "ac2b5c7a-9b3a-4782-b669-c67dd0d6417a",
+      "chunk_timestamps": [
+        1776941657.928,
+        1776941718.21,
+        1776941780.262
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-23T10:54:17.928000+00:00",
+      "duration": 244.216
+    },
+    {
+      "id": "6fffbb10-65df-4e7e-8258-7813b4a26be9",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "ac2b5c7a-9b3a-4782-b669-c67dd0d6417a",
+      "chunk_timestamps": [
+        1776941883.178,
+        1776941944.1,
+        1776942004.436,
+        1776942065.283,
+        1776942125.395
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-23T10:58:03.178000+00:00",
+      "duration": 363.619
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Method and theology\n- Rejecting the method challenges Christ’s authority\n- Debate centered on post connections\n- Patterns seen as theological overlay\n\n## Core doctrines\n- Included kingship, repentance, suffering, praise\n- Core doctrines were present\n- One example deemed unnecessary\n\n## Calling it off\n- After issues surfaced, forward progress stopped\n- A call was made to Terry\n- They said they were done\n\n## Statement and legend claims\n- WWE said it embraced all backgrounds\n- Hogan called a major legend\n- Terry Blaine, not Al Cogan, was fired\n\n## Next steps\n- No clear next steps stated"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": null,
+  "call_id": null
+}
