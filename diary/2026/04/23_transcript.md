@@ -1701,3 +1701,77 @@ One family resemblances now. What's taking it so long?
 
 ---
 
+
+
+## 📝 Genesis Age Debate Continues - fc5eb6fc-98b3-4b10-a182-bb587d728d34
+
+**記録時間**: 2026-04-23 22:31:49
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [419s - 427s]
+And would you consider yourself, a young earth creationist in that you think Genesis was means that sorry. These are my words. Mhmm.
+
+🎤 SPEAKER_2 [427s - 435s]
+You say you believe that Genesis is literal and that God created the world in six literal days? Absolutely certain the universe is at least 64 years old.
+
+🎤 SPEAKER_2 [436s - 445s]
+Okay. I'm gonna throw my mom in there. It's at least 88 years old. Okay. Alright. Look. Christians are gonna argue both sides of this.
+
+🎤 SPEAKER_2 [446s - 451s]
+Here's what I think is true, and could I be wrong? Of course. What does the first verse of the Bible say?
+
+🎤 SPEAKER_3 [452s - 454s]
+The beginning, God created the heavens and the earth.
+
+🎤 SPEAKER_2 [454s - 457s]
+K. When did God create the heavens and the earth? The beginning. When was the beginning?
+
+🎤 SPEAKER_3 [459s - 460s]
+It say.
+
+🎤 SPEAKER_2 [460s - 462s]
+It say. What does the next verse say?
+
+🎤 SPEAKER_3 [462s - 464s]
+Says, and the earth was forming without void.
+
+🎤 SPEAKER_2 [464s - 471s]
+Yes. The earth was formless without void. So we've gone to create the whole universe in verse one, and now suddenly we're zooming in on the earth. How long did that take?
+
+🎤 SPEAKER_3 [472s - 472s]
+We don't know.
+
+🎤 SPEAKER_2 [472s - 481s]
+We don't know. This is why John Lennox at Oxford University in his book, Seven Days to Divide the World says, The Bible leaves the age of the universe indeterminate.
+
+🎤 SPEAKER_2 [482s - 492s]
+Could it be old? Could it be young? It could be either. The best data from the natural world, because God has written two books as you know. He's written the book of nature and the book of the bible.
+
+🎤 SPEAKER_2 [493s - 505s]
+The best data is that the universe is old. Could we be wrong about that? I'm sure it's possible. The problem is if you change the speed of light, which is one way we date how big the universe is and how So first I wanna ask you a question.
+
+🎤 SPEAKER_3 [510s - 517s]
+Would you consider we don't know. We don't know.
+
+🎤 SPEAKER_2 [517s - 529s]
+This is problem is if you change the speed of light, which is one way we is, you have to change all the other laws of physics with it.
+
+🎤 SPEAKER_2 [529s - 533s]
+Is is it possible that God could have done that? Of course it's possible. Did he do it?
+
+🎤 SPEAKER_1 [533s - 533s]
+I know.
+
+🎤 SPEAKER_2 [534s - 551s]
+But I don't think necessarily the the Genesis one is teaching how old the universe is. Fact, many scholars now are saying that Genesis one is a polemic against the You guys remember, the bible's not written to us. It's written for us. Who is it written to?
+
+🎤 SPEAKER_3 [552s - 553s]
+It was written to Israel.
+
+🎤 SPEAKER_2 [553s - 556s]
+Yeah. It was written to people who had just
+
+
+---
+
