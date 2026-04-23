@@ -1867,3 +1867,56 @@ Need to get to in by end of the day.
 
 ---
 
+
+
+## 📝 Transcript Fragment And Brief Scheduling Update - 418775d6-f91c-429a-81ed-449db175e277
+
+**記録時間**: 2026-04-23 23:13:50
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 10s]
+Not the only one who is disappointed by the local content. It didn't contain much that master could use. Certainly, was nothing about the eleventh metal.
+
+🎤 SPEAKER_0 [11s - 19s]
+I feel somewhat since I am the one who benefited most from the book. But it wasn't very much about the terrorist religion either.
+
+🎤 SPEAKER_0 [20s - 33s]
+Not much says a degree. But truly and regretfully, not much. Is far more than we knew previously. I am only worried that I will not have an opportunity to pass this information on.
+
+🎤 SPEAKER_0 [34s - 44s]
+I have sent a translated copy of the log book to a location where my brethren and sister It will be a pity if this new knowledge were to die with me.
+
+🎤 SPEAKER_0 [45s - 62s]
+It Ben said. Oh, has my the ceremony become an optimist? Has my terrace man suddenly become a smart mouth in which retorted. He always has been, I think, says it said with a slight smile.
+
+🎤 SPEAKER_0 [63s - 73s]
+Is one of the things that made him a poor steward. At least in the eyes of most of his masters. Then they must have been fools, been so honestly.
+
+🎤 SPEAKER_0 [74s - 93s]
+So I was inclined to think of mistress, says it Wish her the time to the mansion. We should not be seen out in the gardens when the mists arrive, I think. I I'm just going back out into them. There are many of the grounds set that do not know you are miss mistress.
+
+🎤 SPEAKER_0 [94s - 190s]
+Says it said. It would be a good secret to keep, I think. I know. Once I come, bag.
+
+🎤 SPEAKER_0 [194s - 204s]
+Hello? You okay?
+
+🎤 SPEAKER_1 [205s - 207s]
+Running a bit later, mate. No. Thanks.
+
+🎤 SPEAKER_0 [210s - 212s]
+Are we good? Are we good?
+
+👤 あなた [213s - 222s]
+Good. Well, dude's walk dude's a walking now. So he he walks now. So you I meet him at the bottom and he walks out. So part of his progress. See you in the queue
+
+🎤 SPEAKER_1 [222s - 222s]
+Linda?
+
+👤 あなた [222s - 226s]
+Yeah. And I mate, just these these mate.
+
+
+---
+
