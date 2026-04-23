@@ -749,3 +749,215 @@ Or at least when you talk about alomancy, Calcier chuckled. I tried to put it ou
 
 ---
 
+
+
+## 📝 Crew Plans Siren Starliner Heist - 3e778172-dda7-49b3-8779-a0bbed6dba3e
+
+**記録時間**: 2026-04-23 16:57:18
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+30%.
+
+🎤 SPEAKER_1 [4s - 41s]
+So go allegory. The method is just the allegory, but the true sense.
+
+🎤 SPEAKER_1 [46s - 47s]
+It's not override.
+
+🎤 SPEAKER_1 [51s - 52s]
+It's not bypass.
+
+🎤 SPEAKER_1 [70s - 72s]
+Interpretation is it grows from the text.
+
+🎤 SPEAKER_2 [112s - 251s]
+Hey Google, You said you found something. Hand it over. That's it? Just one After losing so much of our group, it better be a map with a big red egg. Legacy wasn't referring to Crook's fortune. It's the name of an actual ship.
+
+🎤 SPEAKER_2 [251s - 254s]
+A galvan transport probably loaded with grids.
+
+🎤 SPEAKER_3 [254s - 263s]
+Never heard any stories about a Galbank ship going down? And even if it had happened, it would have been picked clean years ago.
+
+🎤 SPEAKER_2 [264s - 275s]
+No neighbor. Think. If Galvan covered it up, and over time, the location was eventually for gotten. It wouldn't be on anyone's radar.
+
+🎤 SPEAKER_2 [276s - 282s]
+Okay. This changes things. Now that we know what we are looking for, have to narrow the search.
+
+🎤 SPEAKER_2 [287s - 297s]
+Because they would be rolling it so much cash. There is no way they could keep it quiet. Not to mention, they need someone with Xinya skills to keep the crypto tracing on the currency clean.
+
+🎤 SPEAKER_2 [298s - 306s]
+And as far as Galbanco's, I doubt they would bother. Their being counters would be two piece. No. The legacy is out there. Just play.
+
+🎤 SPEAKER_2 [312s - 321s]
+And the recording that you found proves that it is out there. All we have to do is find it. Let us start with what we know. It was a Galbag ship.
+
+🎤 SPEAKER_2 [321s - 329s]
+Which means they come weren't you working on a deal with Rogov? Something about a big, big charity event on one of Trident Starliners?
+
+🎤 SPEAKER_3 [330s - 336s]
+Are you serious? I've been working on that gig for three months. That's my score.
+
+🎤 SPEAKER_2 [338s - 350s]
+Will you shut up about your score and dig for a second? That star liner has a garbang VIP suite aboard. Which means come on, Eva. This isn't hard.
+
+🎤 SPEAKER_3 [351s - 362s]
+Which means a gal think exec will be a boy. We grab their credentials and get ourselves into the bank archive, Holy shit. That might actually work.
+
+🎤 SPEAKER_2 [362s - 371s]
+Pack your bags, Rook. And since you've it, this gun with you. Might come in handy. When Rokuv screws everything up as usual.
+
+🎤 SPEAKER_1 [373s - 374s]
+Oh, yes.
+
+🎤 SPEAKER_2 [385s - 397s]
+Not what you're thinking. It's more of it all. On your inside, you'll be able to gain access to one of it. Rock office. Well, he's broke off.
+
+🎤 SPEAKER_2 [397s - 407s]
+Lately. Has been using his long hauling skills to captain a starliner for trident. He has been trying to get his foot back in the door with us for years.
+
+🎤 SPEAKER_2 [408s - 408s]
+But I'm
+
+🎤 SPEAKER_2 [412s - 421s]
+Good. Because that is exactly what and I are too well known to walk around the star liner without being recognized. I need you to board that ship.
+
+🎤 SPEAKER_2 [422s - 423s]
+Make contact with Rokhov,
+
+🎤 SPEAKER_2 [427s - 432s]
+I see what you are getting. Just be sure to get those credentials. Anything else of value?
+
+🎤 SPEAKER_2 [436s - 441s]
+You know what? I'm gonna leave that entirely up to you. If you think he's come through for us, you can promise him he'll get paid.
+
+🎤 SPEAKER_2 [442s - 445s]
+But if he gets in your way, then you take him out.
+
+🎤 SPEAKER_2 [451s - 461s]
+You better. Oh, before you leave. Wanted you to know that I took what you said about math is into consideration. And had decided to cut him from the feet.
+
+🎤 SPEAKER_3 [462s - 466s]
+Honestly, I'm surprised he made it off super rob in one piece.
+
+🎤 SPEAKER_2 [476s - 488s]
+Because you're the one that finished the job. You followed orders, and you put your neck on the block to get that. As far as Matthew's goes, I'm sure you'll have to drive him through the dock and prevent him from doing something as stupid.
+
+🎤 SPEAKER_2 [489s - 495s]
+We'll see. That's it then. Next stop for you is Roku of Starliner.
+
+🎤 SPEAKER_2 [497s - 504s]
+Remember, Rokov does not need to know anything about Brick's legacy. For now, it's just between them.
+
+🎤 SPEAKER_3 [504s - 511s]
+Hey. We're before you head out, I need to have a word with you. Meet me at the last Nova after you wrap things up with Matt.
+
+🎤 SPEAKER_2 [516s - 519s]
+If you have any last questions about the job, ask them now.
+
+🎤 SPEAKER_2 [523s - 616s]
+Wanna talk to you. Thanks to you, Delgado's got me from the fleet.
+
+🎤 SPEAKER_4 [616s - 618s]
+Well, you know what? You better get your own fleet.
+
+🎤 SPEAKER_2 [619s - 620s]
+So I'm coming off
+
+🎤 SPEAKER_0 [623s - 629s]
+See.
+
+🎤 SPEAKER_4 [630s - 632s]
+You think you're some kind of big shot, is that it?
+
+🎤 SPEAKER_2 [633s - 637s]
+Gonna show poor Mathis a little mercy now. That you're Delgado's best body, yeah,
+
+🎤 SPEAKER_5 [637s - 638s]
+Well, guess what?
+
+🎤 SPEAKER_4 [639s - 645s]
+Your generosity is getting me kicked off the key. And that means you better watch your back.
+
+🎤 SPEAKER_4 [649s - 659s]
+I will. I can promise you that. Best part is, you now get the hell out of me.
+
+🎤 SPEAKER_1 [663s - 665s]
+Let's try this new
+
+🎤 SPEAKER_0 [669s - 675s]
+I'm joking.
+
+🎤 SPEAKER_3 [791s - 792s]
+Alright, look.
+
+🎤 SPEAKER_3 [793s - 800s]
+I've been up a score with that asshole roll call. On the siren of the stars for months. I'm not about to let a payday slip through my fingers.
+
+🎤 SPEAKER_3 [801s - 818s]
+So guess what? You're gonna finish the job for me. My score involves a one time event. Being held before the siren stops. If anyone finds out the Princeton fleets aboard that starliner, the event will be canceled, and I can kiss my eight day goodbye.
+
+🎤 SPEAKER_3 [819s - 821s]
+There's no way I'm gonna miss this window of opportunity.
+
+🎤 SPEAKER_0 [825s - 829s]
+Push your good account.
+
+🎤 SPEAKER_3 [829s - 840s]
+That's how everything works around here. Why would this be any different? Wu calls been chipping y'all about this Bullshit charity event that the siren of stars is hosted.
+
+🎤 SPEAKER_3 [840s - 850s]
+At the event, they're gonna give away something called Savior Award, which is worth tens of thousands of credits. So it's simple.
+
+🎤 SPEAKER_3 [851s - 858s]
+While you're on the side, swiping those gal-bade credentials, want you to grab that rapport and bring it to me.
+
+🎤 SPEAKER_3 [862s - 884s]
+Donbraska is only on board to use the Galvanc VIP suite. I'm sure he'll be there partying with the other spoiled brats. I guaranteed From the pictures I've seen, the obur is set with 12 blue diamond.
+
+🎤 SPEAKER_3 [885s - 891s]
+I get jazzed to take it apart, I can turn it into a hell of a lot of paint. And best of all, the company
+
+🎤 SPEAKER_3 [895s - 909s]
+At very funny. You're hilarious. You should stand up on the bar here and start telling more jokes. This crab would eat it up.
+
+🎤 SPEAKER_3 [910s - 919s]
+Look, you can make all the jokes and excuses you want. But if you don't come back with the ES, either way, I get my money. How much you walk away with?
+
+🎤 SPEAKER_3 [919s - 920s]
+Is it
+
+🎤 SPEAKER_3 [924s - 935s]
+All ROCOV does is feed me information. If I ask him to lift a finger, he gives me enough sob stories fill a freighter's car. If you want my advice, leave him completely out of the window.
+
+🎤 SPEAKER_0 [942s - 943s]
+Then it's seven. Good.
+
+🎤 SPEAKER_3 [944s - 947s]
+Alright. Work. We're done here.
+
+🎤 SPEAKER_3 [948s - 952s]
+Now get your ass to the siren. And bring me my boots.
+
+🎤 SPEAKER_3 [956s - 964s]
+Because that's exactly what you want. Beneath all of that inexperience, So get used to hearing that word. Until you earn this
+
+🎤 SPEAKER_3 [968s - 1026s]
+If you go ahead and skip. Right? So this is I'm everyone always take a look around you.
+
+🎤 SPEAKER_3 [1036s - 1055s]
+Good thing I'm not here too. I carry most of the standard hardware. Occasionally. I just don't screw me over or I'll We all have a little advice studying.
+
+🎤 SPEAKER_6 [1056s - 1059s]
+You bleed for the fleet, Anyone who says otherwise is either.
+
+🎤 SPEAKER_6 [1065s - 1069s]
+More speak with Kinetic. Look.
+
+
+---
+
