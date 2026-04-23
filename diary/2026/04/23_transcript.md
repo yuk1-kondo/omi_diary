@@ -1479,3 +1479,50 @@ I'm scanning progress.
 
 ---
 
+
+
+## 📝 Debate Examines Theology And Accountability - ac2b5c7a-9b3a-4782-b669-c67dd0d6417a
+
+**記録時間**: 2026-04-23 19:54:19
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 221s]
+So, yeah, so to reject the method is to is to undermine the authority of Christ and the church. And the New Testament.
+
+🎤 SPEAKER_1 [227s - 227s]
+As well.
+
+🎤 SPEAKER_1 [231s - 236s]
+The debate is the connections in post.
+
+🎤 SPEAKER_1 [242s - 247s]
+Would not be aware or intend to write patterns And so it's a theological overlay.
+
+🎤 SPEAKER_0 [255s - 272s]
+Sums aziológico.
+
+🎤 SPEAKER_1 [273s - 282s]
+Contain core doctrines, kingship, repentance, suffering praise, Good for all that. Don't necessarily need that one though to be fair.
+
+🎤 SPEAKER_8 [491s - 495s]
+You tagged also So when all the stuff came out, I'm the guy that had to call and say, we can't move forward here, Terry, so, you know, we're done.
+
+🎤 SPEAKER_8 [501s - 506s]
+The w w e saying in a statement, we are committed to embracing and celebrating individual from all backgrounds.
+
+🎤 SPEAKER_3 [509s - 510s]
+Your image, your life Yeah.
+
+🎤 SPEAKER_8 [512s - 515s]
+I thought it never existed in my whole career, my whole life.
+
+🎤 SPEAKER_16 [518s - 530s]
+Hokogan is one of the biggest legends in the history of this business. That's undeniable. But it didn't fire Al Cogan I fired Terry Blaine.
+
+🎤 SPEAKER_16 [533s - 534s]
+At that point, there was
+
+
+---
+
