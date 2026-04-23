@@ -1775,3 +1775,95 @@ Yeah. It was written to people who had just
 
 ---
 
+
+
+## 📝 Genre Shapes Psalm Interpretation - 276ee0c1-9c63-468f-88ac-2714317079ad
+
+**記録時間**: 2026-04-23 23:01:46
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 1s]
+No. It's all over the place.
+
+🎤 SPEAKER_0 [92s - 93s]
+Family with resemblances.
+
+🎤 SPEAKER_0 [97s - 120s]
+Okay. Some should be read through family resemblances where patterns shape expectations without helping interpret meaning accurately.
+
+🎤 SPEAKER_0 [124s - 185s]
+Instead of April, April 26. Rich Ben Reese. I'm playing playing guitar, mate.
+
+🎤 SPEAKER_0 [189s - 241s]
+I always tell you what to look for, same text, different meaning, and different genres. Missing genre, misreads meaning. Some types re recognizable patterns.
+
+🎤 SPEAKER_0 [244s - 259s]
+Some share common structure. Lament, please, thanks, given trust. Each type has expected autonomy. Helping help to identify what the son is doing at random but patent.
+
+🎤 SPEAKER_0 [259s - 266s]
+Ancient originality pattern was variation. Old writing works by imitation and variation.
+
+🎤 SPEAKER_0 [269s - 283s]
+Not totally new each time readers recognize patterns, variation because meaning within structure. Example, Sam 139 genre changes in interpretation not just theology but legal defense.
+
+🎤 SPEAKER_0 [286s - 292s]
+This one to 18 God sees everything. Verses nineteen twenty. The men therefore claim of innocence.
+
+🎤 SPEAKER_0 [300s - 304s]
+There we are, back in on to. That point.
+
+🎤 SPEAKER_0 [308s - 315s]
+We get to the end of that, and then we're there. We're there. Just need to get around the blinking kitchen. It's simple.
+
+🎤 SPEAKER_0 [322s - 324s]
+Me to get around the kitchen.
+
+🎤 SPEAKER_0 [328s - 328s]
+Let's go back.
+
+🎤 SPEAKER_0 [337s - 346s]
+Some should be read, through family resemblant.
+
+🎤 SPEAKER_0 [351s - 361s]
+Some should be read through family resemblance.
+
+🎤 SPEAKER_0 [364s - 392s]
+Blend. Resemblance. Some should be read through genre genre. Genre. The sums should be read through genre through genre. And family through genre, family resemblances.
+
+🎤 SPEAKER_0 [397s - 398s]
+New patterns,
+
+🎤 SPEAKER_0 [413s - 414s]
+Then cuts categories.
+
+🎤 SPEAKER_0 [419s - 427s]
+Where patterns shape exploitations, ex expectations.
+
+🎤 SPEAKER_0 [432s - 433s]
+I'm trying to do two birch there.
+
+🎤 SPEAKER_0 [450s - 482s]
+Sums should be should be read through genre family resemblances. Patterns where where where patterns patterns shape, expectations.
+
+🎤 SPEAKER_0 [484s - 484s]
+Expectations.
+
+🎤 SPEAKER_0 [487s - 497s]
+But without rigid without rigid, rigid
+
+🎤 SPEAKER_0 [502s - 523s]
+Open into the print menu. But they help interpret meaning accurately. So Psalms should be read through genre and family resemblances.
+
+🎤 SPEAKER_0 [526s - 535s]
+Where patterns help shape expectations And so some should not be read rigidly
+
+🎤 SPEAKER_0 [539s - 557s]
+Rigid categories that with patterns, with genre, helps interpretation helping interpret meaning meaning accurately. Okay. That'll do for now.
+
+🎤 SPEAKER_0 [562s - 564s]
+Need to get to in by end of the day.
+
+
+---
+
