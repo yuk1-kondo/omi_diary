@@ -123,3 +123,119 @@ And so she said I'm sorry to about you. That's twice in a row now she's not got 
 
 ---
 
+
+
+## 📝 Family Rushes To Football Training - e743a448-5f08-4eaf-9c10-819122473b50
+
+**記録時間**: 2026-04-24 01:28:44
+
+### STT生テキスト
+
+👤 あなた [0s - 0s]
+Can I have any?
+
+👤 あなた [5s - 8s]
+Is that rude? You seem like you've you've turned me off about the chip pan. Oh, honey.
+
+🎤 SPEAKER_1 [8s - 12s]
+That is come on. Honey, I will tell you off about that because it's dangerous.
+
+👤 あなた [12s - 22s]
+It wasn't the Rachel. And now you're having a about the fact, oh, I thought we'd all eat together. You really just got in? I'm gonna pop at me for not cooking a meal for us all.
+
+👤 あなた [24s - 25s]
+I just just It's twenty past five. Not gonna happen, is it?
+
+🎤 SPEAKER_3 [25s - 26s]
+No.
+
+🎤 SPEAKER_1 [26s - 32s]
+But if if you're projecting the to cook a cook a hot meal for the kids, you may as well and we all need it to eat.
+
+👤 あなた [32s - 36s]
+You may as well do it for We never do that on a Thursday. So I didn't know that. I would be happy to do that. Yeah.
+
+🎤 SPEAKER_1 [37s - 42s]
+But you didn't actually mention it. I'm gonna cook for myself now. Alright. I see. Because I'm gonna eat now. You're out of ten minutes.
+
+👤 あなた [44s - 47s]
+You're have damn meal for you, anyhow? Well, because it it it was ready Right now? You've only just come to the door two minutes ago.
+
+👤 あなた [48s - 51s]
+Yeah. But I can't. So you can eat. I can't eat. Yeah. Yeah. That's
+
+🎤 SPEAKER_2 [53s - 53s]
+Yeah.
+
+👤 あなた [56s - 63s]
+No. No. You could've There's no fault. There's no fault. It's just you're seeing that you come in and you haven't got me. Yeah. But what I'm saying I don't understand.
+
+🎤 SPEAKER_1 [81s - 81s]
+My fault.
+
+👤 あなた [81s - 97s]
+I'm not blaming you. I'm not I'm got no problem with that. It's just that nature of you It's you Judy, we we are going to you need to get ready now for football training.
+
+👤 あなた [98s - 99s]
+Since you finish this match. Okay?
+
+🎤 SPEAKER_1 [100s - 101s]
+K. Match boy.
+
+👤 あなた [127s - 134s]
+No. No. No. We we're going now. Another match. Right. Okay. I'll see a crazy trick shot for sure, but show right here.
+
+👤 あなた [147s - 147s]
+Connor,
+
+🎤 SPEAKER_2 [151s - 166s]
+¿Tijet? It says it would say a hundred and fifty Chicken stupid ledger in the way.
+
+🎤 SPEAKER_2 [171s - 172s]
+It right here.
+
+👤 あなた [174s - 176s]
+Bit close for a snapper rifle, innit?
+
+🎤 SPEAKER_2 [177s - 178s]
+Oh, for one.
+
+👤 あなた [180s - 182s]
+Last last go. Can you just go and get ready?
+
+👤 あなた [204s - 204s]
+Jude, come on.
+
+🎤 SPEAKER_1 [206s - 206s]
+Auto shoot.
+
+👤 あなた [206s - 209s]
+You're trying to do quite a tricky challenge. Are you not gonna have to do it?
+
+👤 あなた [212s - 215s]
+Nice. Right. Off you go then. And get yourself dressed, please.
+
+👤 あなた [219s - 227s]
+Go on. Go and get yourself dressed now. I'm gonna turn this off. Three two one There's no waiting. No waiting. I'm turning it off.
+
+🎤 SPEAKER_2 [230s - 231s]
+We doing?
+
+👤 あなた [233s - 236s]
+I did warn you. I did warn you, son. I did warn you.
+
+👤 あなた [244s - 246s]
+And there we are. That brought you back to life. Go and get changed quick.
+
+👤 あなた [250s - 253s]
+Go on, no please shoot, listen, can't get changed.
+
+👤 あなた [257s - 264s]
+Don't let me say it again. Three times in a row is a bit annoying, and Go and get changed, dude.
+
+👤 あなた [268s - 269s]
+Tophony, go and get changed.
+
+
+---
+
