@@ -1526,3 +1526,107 @@ At that point, there was
 
 ---
 
+
+
+## 📝 Reading Discussion On The Well Of Ascension - 05da25b8-36c3-45fb-8384-7d84c3b9ac29
+
+**記録時間**: 2026-04-23 20:18:44
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 20s]
+It's gonna be harder than Mark what that's gonna be. To be honest,
+
+🎤 SPEAKER_1 [24s - 74s]
+There we just need set.
+
+🎤 SPEAKER_1 [103s - 109s]
+Maybe I'll come into progress with that. Just do five. Pause. Five. Pause.
+
+🎤 SPEAKER_0 [114s - 132s]
+Back to you.
+
+🎤 SPEAKER_1 [134s - 136s]
+It's going quite nice now, that game, to be honest.
+
+🎤 SPEAKER_18 [140s - 263s]
+It was empty. She turned it over regarding the last few lines. Where was the next entry? Says it must not have finished part yet.
+
+🎤 SPEAKER_18 [265s - 283s]
+She stood at sighing as she stretched. She'd finished the text before her. The cultured pathways brought trees, and quiet stream.
+
+🎤 SPEAKER_18 [283s - 297s]
+Creating her favorite beating spot. The sun was low in the sky, was beginning to get get chilly. She wound her way up the path toward the mansion despite the chilly she could barely imagine a place like the the Lord Ruler described.
+
+🎤 SPEAKER_18 [298s - 352s]
+She had seen snow on some distant but she had rarely seen it fall. Uneven and it was usually just an icy slush. To experience that much snow. After day, to be in fall upon you great crushing avalanches. A part of her wish that she could mind with the dark creature that death?
+
+🎤 SPEAKER_18 [355s - 357s]
+What had occurred at the Well Of
+
+🎤 SPEAKER_0 [357s - 357s]
+Ascension?
+
+🎤 SPEAKER_18 [358s - 400s]
+What could have changed him so drastically? She says it wasn't inside. His small desk sat the laser and the main director to the main kitchen.
+
+🎤 SPEAKER_18 [401s - 418s]
+Fit from making her way down the back hall way. Getting himself to snap perhaps. And says it's standing amongst a small group pointing toward a list on the table and speaking in a low voice. He didn't notice me when she says it.
+
+🎤 SPEAKER_18 [419s - 434s]
+Then asked, interrupting him. He turned. He mister Sinex. He asked. Filing Sinek. What are you doing? The signs of assist you.
+
+🎤 SPEAKER_18 [435s - 444s]
+I am still his steward. And have duties to attend to when I am not otherwise occupied. Are you going to get back to the translation soon?
+
+🎤 SPEAKER_18 [445s - 457s]
+Cesar cocked his head. Translation mistress. It is finished. Where's the last part then? I gave it to you. Season said. United said.
+
+🎤 SPEAKER_18 [458s - 466s]
+This part ends the night before they go into the cavern. That is the end, mistress. That is as far as the log book went.
+
+🎤 SPEAKER_4 [467s - 467s]
+What?
+
+🎤 SPEAKER_18 [468s - 468s]
+She said.
+
+🎤 SPEAKER_18 [470s - 472s]
+But Says it plans to the other service.
+
+🎤 SPEAKER_14 [473s - 475s]
+We should speak of these things in private, I think.
+
+🎤 SPEAKER_18 [476s - 485s]
+He gave them a few more instructions pointing at the list. Then not a for vintage him as he made his way out the back kitchen exit and into the side gardens.
+
+🎤 SPEAKER_18 [486s - 494s]
+Vince stood dumbfounded for a moment. Hurried out to join him. Hey, and like that says, don't know what happened.
+
+🎤 SPEAKER_14 [495s - 505s]
+We can't sell I think. Season said. Walking down the garden path. The Eastern Gardens weren't as lavish as the ones been frequented.
+
+🎤 SPEAKER_14 [505s - 517s]
+And were instead made up of smooth brown grass and the occasional shrub. Surmise what? Then asked. Well, the lord ruler must have done what was necessary to save the world.
+
+🎤 SPEAKER_14 [518s - 531s]
+For we are still here. I suppose Vin said. But then he took the power for himself. That must have been what happened. He couldn't resist the temptation to use the power selfishly.
+
+🎤 SPEAKER_14 [533s - 541s]
+But what isn't there another entry? Why wouldn't he speak further of his accomplishments? Perhaps the power changed him too much.
+
+🎤 SPEAKER_14 [541s - 551s]
+Season said. Or maybe he simply didn't feel a need to record anymore. He had accomplished his goal, and had become immortal as a side benefit.
+
+🎤 SPEAKER_14 [552s - 562s]
+Keeping a channel for one's posterity becomes somewhat redundant when one is going to live forever, I think. That's just the ink ground her teeth in frustration.
+
+🎤 SPEAKER_14 [563s - 573s]
+It's a very unsatisfying end to a story, sakes it. He smiled in amusement. He Be careful, mistress. Become too fond of reading.
+
+🎤 SPEAKER_14 [574s - 583s]
+And you may just turn into a scholar. Ben her head. Not if all the books I read are going to end like this one. If it is of any comfort.
+
+
+---
+
