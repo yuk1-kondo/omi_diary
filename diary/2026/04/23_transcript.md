@@ -961,3 +961,164 @@ More speak with Kinetic. Look.
 
 ---
 
+
+
+## 📝 Crew Debates Crick's Legacy Lead - 0a354923-9bfa-4402-8c9d-057ee6d68056
+
+**記録時間**: 2026-04-23 17:25:09
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 253s]
+Ah, thank you. I'm changing
+
+🎤 SPEAKER_6 [257s - 286s]
+What is it?
+
+🎤 SPEAKER_0 [301s - 318s]
+Monday.
+
+🎤 SPEAKER_3 [319s - 323s]
+Runs a tight ship. So I suggest we be on our best behavior.
+
+🎤 SPEAKER_0 [327s - 339s]
+The key
+
+🎤 SPEAKER_0 [343s - 348s]
+Yo, back.
+
+🎤 SPEAKER_7 [349s - 350s]
+So how did it go?
+
+🎤 SPEAKER_7 [358s - 368s]
+As we've never gotten this the last agent I sent to infiltrate the crimson plea ended up in a mole conduit like
+
+🎤 SPEAKER_7 [372s - 391s]
+Even with our best intelligence equipment, we monitor very little from the digitized. We can pick up local communications chatter and use long range scans see where your truck But when we get too close, we not only expose ourselves to an attack, then things are moving forward.
+
+🎤 SPEAKER_0 [392s - 392s]
+Perfect.
+
+🎤 SPEAKER_3 [393s - 394s]
+Nice job,
+
+🎤 SPEAKER_6 [394s - 395s]
+Brooke.
+
+🎤 SPEAKER_7 [395s - 397s]
+I was certain we'd fool Delgado.
+
+🎤 SPEAKER_7 [399s - 406s]
+But She's a shocked one. Overcoming her scrutiny is no small matter. Did you discover anything worth reporting yet?
+
+🎤 SPEAKER_7 [410s - 429s]
+If the intelligence I've read is accurate, they'll is it good. That's why you want to stay on his good side. And stay away from She shrewd, and she sniffed out everything withdrawn away.
+
+🎤 SPEAKER_7 [434s - 443s]
+Understand your concern. But you can rest assured that every member of this group any information that you turn over will not be leaving this ship until it's fully app.
+
+🎤 SPEAKER_7 [444s - 452s]
+Let us Wait a moment. Are you telling me Delgado may have actually located Greek's legacy?
+
+🎤 SPEAKER_3 [453s - 465s]
+Excuse me, commander. Did you say Creek's legacy? Please tell me you aren't seriously going to give that any credence. I don't know, a myth.
+
+🎤 SPEAKER_7 [465s - 472s]
+I'm holding tangible confirmation of the word legacy attached to Crick's name. That's too much of a coincidence.
+
+🎤 SPEAKER_6 [472s - 474s]
+I suppose it's possible, sir.
+
+🎤 SPEAKER_3 [475s - 481s]
+Intelligence picked up a bit of chatter on that subject, Ruth. Assumed it was some sort of tall tale or a story to attract recruits to their cock.
+
+🎤 SPEAKER_3 [488s - 490s]
+Well, let's find out a Delgado's chasing goats.
+
+🎤 SPEAKER_6 [491s - 493s]
+Let me see what we have here. Nope.
+
+🎤 SPEAKER_3 [494s - 497s]
+There are no records of a Gal Bank transport named the legacy in the database.
+
+🎤 SPEAKER_6 [498s - 501s]
+I think Delgado's do you think, sir?
+
+🎤 SPEAKER_7 [501s - 512s]
+I think there's no record because the Gal Bank is heading something. Delgado's no fool. If he reached his own neck to get that information, he must be on to some.
+
+🎤 SPEAKER_7 [512s - 513s]
+What's your next move?
+
+🎤 SPEAKER_5 [517s - 518s]
+That one's simple.
+
+🎤 SPEAKER_7 [518s - 530s]
+We monitored your ships heading down to the surface of Subaru. In fact, when he returned to the key, and you didn't immediately follow, we almost thought our operation was stemming.
+
+🎤 SPEAKER_7 [533s - 541s]
+You imagine the amount of embarrassment Galvan would have to enjoy? Doesn't matter if that ship went down five or five hundred years ago.
+
+🎤 SPEAKER_7 [541s - 544s]
+If news gets out that a bank has misplaced money,
+
+🎤 SPEAKER_0 [548s - 549s]
+Clever Delgado.
+
+🎤 SPEAKER_7 [550s - 563s]
+Very clever. If I were in your place, I'd be trying to do the exact We can't let Delgado get his hands on what could potentially turn out to be the largest haul of credits the crimson ever seen.
+
+🎤 SPEAKER_6 [564s - 569s]
+Maybe I should head out to New Atlanta, sir. Could press the Gal Bank execs for information. Ahead of everything.
+
+🎤 SPEAKER_1 [570s - 570s]
+Yeah.
+
+🎤 SPEAKER_7 [570s - 580s]
+No. Let's allow this to run its course. We have our agent here feeding us information. There's more to this than just finding the location of the transport.
+
+🎤 SPEAKER_7 [580s - 582s]
+Jasper Creeks was clever.
+
+🎤 SPEAKER_7 [592s - 602s]
+Because the crimson fleet would be a totally different adversary. And creeks wouldn't have disappeared you. Even if they hid the money with that damn human computer shiny of us.
+
+🎤 SPEAKER_7 [602s - 605s]
+Our forensic accounting people would have found that data.
+
+🎤 SPEAKER_0 [605s - 606s]
+No.
+
+🎤 SPEAKER_7 [606s - 620s]
+The crimson fleet are in dire shape right now. They haven't seen that much current. And let Neva Mora take his place. O Shinya Vos, or anyone of the number of pirates already
+
+🎤 SPEAKER_0 [620s - 620s]
+No.
+
+🎤 SPEAKER_7 [621s - 634s]
+The solution is to stick to the undercover operation and determine how it's imperative that you do. If the crimson flea gets its hands on a transport full of current it would be disastrous for the settlements.
+
+🎤 SPEAKER_7 [635s - 639s]
+I need you to do whatever you can to bring us more information.
+
+🎤 SPEAKER_0 [640s - 641s]
+And forgot, both dismissed.
+
+🎤 SPEAKER_6 [661s - 662s]
+Remember Nice work.
+
+🎤 SPEAKER_3 [665s - 676s]
+Amazing that all this romantic nonsense about Cricks's legacy really just announced to a rumor Jasper Cricks picked up NJ. It just goes to show you how a tiny rumor can snowball.
+
+🎤 SPEAKER_6 [679s - 679s]
+Alright.
+
+🎤 SPEAKER_3 [683s - 683s]
+I'll be here if you have anyone questions.
+
+🎤 SPEAKER_1 [789s - 885s]
+Doing a Not particularly lean chips there.
+
+
+---
+
