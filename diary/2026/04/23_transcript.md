@@ -1295,3 +1295,95 @@ Eliminating them from Everspam calling me because they have my number clocked.
 
 ---
 
+
+
+## 📝 Mixed Clips Cover Politics, Weed, And Wildlife Rescue - 9dcfb565-b629-4749-af06-139133ec3eea
+
+**記録時間**: 2026-04-23 17:54:42
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 190s]
+Marty?
+
+🎤 SPEAKER_3 [191s - 203s]
+Wanted to start this. They did this in North Carolina. Three democratic regions in Texas.
+
+🎤 SPEAKER_11 [217s - 238s]
+What they're just mad at is that they have been accustomed to a democrat And we have been asking the democratic party to stand up and fight it and now the republican party doesn't like the fact that they are fighting against someone actually will stand up for the American people. So if Republicans decide that they would like to free visit, a ban on nonpartisan on nonpartisan a ban on partisan gerrymandering?
+
+🎤 SPEAKER_11 [239s - 255s]
+I welcome them. We have the bill right here. To end this all today. But they don't want to because they like pursuing and continuing to enact an unfair elect landscape. And so we have an obligation to defend Thank you.
+
+🎤 SPEAKER_0 [255s - 256s]
+Who are you talking to our this.
+
+🎤 SPEAKER_4 [280s - 281s]
+Get out of here.
+
+🎤 SPEAKER_1 [282s - 296s]
+You know what? I don't want no hangover. I don't know. I don't want no
+
+🎤 SPEAKER_12 [297s - 298s]
+overdose on it.
+
+🎤 SPEAKER_1 [298s - 299s]
+You can't OD on it.
+
+🎤 SPEAKER_7 [300s - 301s]
+Make me wanna have sex, isn't it?
+
+🎤 SPEAKER_0 [301s - 303s]
+It makes sex even better.
+
+🎤 SPEAKER_1 [304s - 307s]
+Sounds kind of serious.
+
+🎤 SPEAKER_12 [312s - 314s]
+You want it I think I kinda want it.
+
+🎤 SPEAKER_13 [315s - 316s]
+Okay. But just this once. Come on here.
+
+🎤 SPEAKER_8 [317s - 318s]
+What are y'all doing?
+
+🎤 SPEAKER_13 [319s - 320s]
+We're smoking re
+
+🎤 SPEAKER_4 [420s - 423s]
+And you don't This whale shark has a commercial fishing rope for a noose.
+
+🎤 SPEAKER_7 [423s - 425s]
+Cutting into its giant body.
+
+🎤 SPEAKER_4 [432s - 434s]
+A diver seizes the chance to cut the rope free.
+
+🎤 SPEAKER_1 [435s - 442s]
+And quickly descends to more than a 100 feet. The monster shark calmly cooperates.
+
+🎤 SPEAKER_14 [443s - 448s]
+It takes just thirty seconds to remove a rope that may have burdened this gentle giant for many years.
+
+🎤 SPEAKER_0 [453s - 466s]
+It's a moan Sent the This is my No.
+
+🎤 SPEAKER_15 [487s - 488s]
+Let me find it.
+
+🎤 SPEAKER_0 [493s - 523s]
+I I You saw what you saw?
+
+🎤 SPEAKER_4 [524s - 533s]
+It's not what you think. It literally took me three watches to notice that was a toy Honda.
+
+🎤 SPEAKER_8 [535s - 536s]
+It was a toy hot dog.
+
+🎤 SPEAKER_0 [537s - 537s]
+It was Yeah.
+
+
+---
+
