@@ -1310,3 +1310,62 @@ Yeah. I mean, it looks really good. So don't get me wrong.
 
 ---
 
+
+
+## 📝 Brock Lesnar's Retirement Future - c2023c07-bd9c-4352-af2a-fd65133c4927
+
+**記録時間**: 2026-04-22 03:45:30
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 14s]
+Just get the camera up. Yeah. I got it. Alright. What's your name? Lucas. Nice to meet you, man. Nice to meet you, man. Lucas, 18 years old.
+
+🎤 SPEAKER_0 [15s - 22s]
+As Brockus takes taking his boots off symbolizing he's done That's what wrestlers do.
+
+🎤 SPEAKER_1 [24s - 24s]
+That's a wild moment.
+
+🎤 SPEAKER_0 [24s - 33s]
+I love the fact that someone 18 years old watches and values and appreciates what we do. Thank you. Yes. That is a wild moment.
+
+🎤 SPEAKER_2 [36s - 37s]
+So you think this is it? The two last match?
+
+🎤 SPEAKER_0 [39s - 45s]
+At some point, it has to stop. At some point, the body just can't take anymore.
+
+🎤 SPEAKER_0 [49s - 68s]
+And brought did a good thing passing it towards the ova. Younger, big talent. But now the people are showing their appreciation to Whether it is or is it the last match, it's wrestling. Yes. Yeah. And that's the brutal part about wrestling.
+
+🎤 SPEAKER_1 [71s - 76s]
+It's weird, like, teeth drop and motion on I have raspberry wrap. Yeah.
+
+🎤 SPEAKER_1 [84s - 84s]
+I'm sorry. Right?
+
+🎤 SPEAKER_0 [87s - 102s]
+I know enough to know about wrestling that any retirement is never set in But in this case, we don't know how Brock's body's feeling. Maybe his body's done.
+
+🎤 SPEAKER_0 [103s - 116s]
+I'm happy he got the reaction he got from the crowd. Brock Lesnar was a big man in wrestling for twenty five years. And he did what you're supposed to do. He passed the torch.
+
+🎤 SPEAKER_0 [116s - 127s]
+In the right way to another big man. Head selfishly. A little bit of me that's happy knowing in the twenty five plus year run of Brock Lesnar's career.
+
+🎤 SPEAKER_0 [128s - 145s]
+I was a small small part. Brock Lesnar showed the world Showed the WWE, showed everyone the proper way to put someone over the proper way to bring in the next generation.
+
+🎤 SPEAKER_0 [146s - 157s]
+Don't know what's gonna happen with Omi Femi. But I know he has as of a runway. As anyone
+
+🎤 SPEAKER_1 [157s - 157s]
+can have.
+
+🎤 SPEAKER_0 [158s - 160s]
+Over the ball's in your court.
+
+
+---
+
