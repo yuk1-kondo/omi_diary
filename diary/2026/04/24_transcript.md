@@ -239,3 +239,107 @@ Tophony, go and get changed.
 
 ---
 
+
+
+## 📝 Family Juggles Training And Schedules - 71d3c425-6080-4656-8611-2e0447bdf64f
+
+**記録時間**: 2026-04-24 01:49:48
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 1s]
+On health care and on everything else.
+
+🎤 SPEAKER_2 [266s - 267s]
+Right.
+
+👤 あなた [267s - 275s]
+You ready, Jude? You ready to go, Judo? You oh, yeah.
+
+🎤 SPEAKER_3 [275s - 276s]
+Nice.
+
+👤 あなた [280s - 283s]
+That's some pepper, did you? Nice.
+
+🎤 SPEAKER_2 [286s - 286s]
+Nice.
+
+👤 あなた [288s - 291s]
+What's this? I'm gonna put on there. That's it.
+
+👤 あなた [295s - 299s]
+Are they not on the rack there?
+
+👤 あなた [303s - 390s]
+Do you want the exact same coat stand on, Rachel?
+
+👤 あなた [394s - 400s]
+Oh, the space is quite limited.
+
+🎤 SPEAKER_1 [401s - 402s]
+So Yeah.
+
+👤 あなた [405s - 413s]
+Not sure we can afford to go local, might love.
+
+🎤 SPEAKER_1 [414s - 414s]
+Yeah.
+
+👤 あなた [430s - 431s]
+Got my coat on.
+
+👤 あなた [469s - 469s]
+My time your mattress, Rachel?
+
+🎤 SPEAKER_1 [471s - 472s]
+Seven.
+
+👤 あなた [473s - 477s]
+Right. Training probably finished at 07:30.
+
+🎤 SPEAKER_2 [479s - 481s]
+Yeah? Why did you sign me up?
+
+👤 あなた [481s - 573s]
+Come on. Come on, Jude. Let's go. Training stats in four minutes. Where does this thing have a?
+
+🎤 SPEAKER_4 [573s - 574s]
+No. It's not.
+
+👤 あなた [574s - 575s]
+There's lots of
+
+👤 あなた [586s - 591s]
+Being a little dramatic.
+
+👤 あなた [610s - 616s]
+Think of a view for no reason. Daddy daddy's in the busiest time of his life at the minute. Yeah?
+
+🎤 SPEAKER_2 [627s - 629s]
+That.
+
+🎤 SPEAKER_4 [629s - 640s]
+And and pretty much You can sign it up to. Miss, are you always signing me up to the bathroom?
+
+👤 あなた [640s - 642s]
+I don't sign you up to anything, Judah. Don't you tongue up? Do you?
+
+🎤 SPEAKER_4 [643s - 651s]
+Don't Tuckle camp. I I would have told you for the sun. Well, I'm telling you to we haven't done that for ages, have we?
+
+🎤 SPEAKER_0 [683s - 692s]
+Courses. You do the whole thing. And there's lots of clearance that don't work. I'm working and I'm doing exams at the minute. So no I couldn't do that particular thing.
+
+🎤 SPEAKER_0 [695s - 697s]
+Wanna do ten weeks of betterns either.
+
+🎤 SPEAKER_0 [701s - 709s]
+Oh, yeah. If I don't do that for ten I got too many things going. Come on then.
+
+🎤 SPEAKER_1 [713s - 714s]
+Do you know micro bitters?
+
+
+---
+
