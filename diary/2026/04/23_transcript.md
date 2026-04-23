@@ -1630,3 +1630,74 @@ And you may just turn into a scholar. Ben her head. Not if all the books I read 
 
 ---
 
+
+
+## 📝 Debating Resurrection Typology - 59cb67f5-6970-4c4d-ad54-cfe5074ed8a3
+
+**記録時間**: 2026-04-23 21:31:56
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 51s]
+Let's do that again. We're talking about the cross transgression.
+
+🎤 SPEAKER_0 [55s - 69s]
+The resurrection fits real biblical patterns. It's not a false interpretation The opposing view is that there's no explicit third day resurrection prophecy in the old testament.
+
+🎤 SPEAKER_0 [69s - 72s]
+Therefore, the new testament is artificial.
+
+🎤 SPEAKER_0 [76s - 84s]
+Artificial.
+
+🎤 SPEAKER_0 [130s - 131s]
+Mhmm.
+
+🎤 SPEAKER_0 [135s - 164s]
+So this pattern cross scripture. Hamburger, Abraham.
+
+🎤 SPEAKER_0 [167s - 170s]
+Abraham in Genesis 22.
+
+🎤 SPEAKER_0 [174s - 288s]
+So it needs to be that bigger deal. Come on.
+
+🎤 SPEAKER_0 [292s - 314s]
+Abraham.
+
+🎤 SPEAKER_0 [318s - 324s]
+Abraham. 22.
+
+🎤 SPEAKER_0 [361s - 373s]
+Was there a six? Yes. We've got Abraham 22. We've got Jonah. Chapter one, and then we got Hosea chapter six.
+
+🎤 SPEAKER_0 [377s - 386s]
+So the resurrection fits the biblical text. Is not
+
+🎤 SPEAKER_0 [393s - 412s]
+The resurrection fits a biblical the resurrection the resurrection fits a real real biblical pattern in is not enforced interpretation.
+
+🎤 SPEAKER_0 [414s - 443s]
+The opposing view is that what's the person doing on the jug? And the person view the poison view is that there is no explicit explicit prophecy garden of third day resurrection in the old testament. So the new testament interpretation is incorrect.
+
+🎤 SPEAKER_0 [449s - 467s]
+Where there is pattern So pattern scriptures such as Genesis Genesis 22 with Abraham. We've got chapter one. We've got Hosea chapter six.
+
+🎤 SPEAKER_0 [476s - 478s]
+After all, Jesus expects this reading.
+
+🎤 SPEAKER_0 [481s - 484s]
+Luke 24.
+
+🎤 SPEAKER_0 [488s - 498s]
+Topology explains. This pattern.
+
+🎤 SPEAKER_0 [503s - 513s]
+Pathology explains. Just this meaning here. And then I can loop back to typology there.
+
+🎤 SPEAKER_0 [527s - 533s]
+One family resemblances now. What's taking it so long?
+
+
+---
+
