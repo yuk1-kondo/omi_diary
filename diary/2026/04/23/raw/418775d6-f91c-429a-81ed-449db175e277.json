@@ -1,0 +1,261 @@
+{
+  "id": "418775d6-f91c-429a-81ed-449db175e277",
+  "created_at": "2026-04-23T14:13:50.256776+00:00",
+  "started_at": "2026-04-23T14:13:56.697215+00:00",
+  "finished_at": "2026-04-23T14:18:02.787535+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Transcript Fragment And Brief Scheduling Update",
+    "overview": "The transcript is mostly a disjointed excerpt from a book-like conversation about lost local knowledge, a translated logbook, and concern that the information may be lost. Near the end, the conversation shifts to logistics: one person says they are running a bit late, the user confirms things are good, and then explains that someone is now walking so they will meet him at the bottom and join the queue. A name, Linda, is mentioned, but there is not enough clear context to identify a fuller meeting or action plan.",
+    "emoji": "📚",
+    "category": "other",
+    "action_items": [
+      {
+        "description": "Meet him at the bottom",
+        "completed": false,
+        "created_at": "2026-04-23T14:20:08.912340+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "6bfdeec4-0968-4ec7-b921-3c91d421cbeb",
+      "text": "Not the only one who is disappointed by the local content. It didn't contain much that master could use. Certainly, was nothing about the eleventh metal.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 2.384185791015625e-07,
+      "end": 10.200000238418578,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "1ab6557b-7429-46f8-a18f-51dc6797997e",
+      "text": "I feel somewhat since I am the one who benefited most from the book. But it wasn't very much about the terrorist religion either.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 11.160001238418578,
+      "end": 19.400000238418578,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "49107272-d28a-4d92-b0e2-cc65a362598b",
+      "text": "Not much says a degree. But truly and regretfully, not much. Is far more than we knew previously. I am only worried that I will not have an opportunity to pass this information on.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 20.199999238418577,
+      "end": 33.31000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "90f02369-1429-4230-bf55-d1640d17e800",
+      "text": "I have sent a translated copy of the log book to a location where my brethren and sister It will be a pity if this new knowledge were to die with me.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 34.120003238418576,
+      "end": 44.32000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4def3db8-384e-4b5c-b3ed-89ac2c3cfb13",
+      "text": "It Ben said. Oh, has my the ceremony become an optimist? Has my terrace man suddenly become a smart mouth in which retorted. He always has been, I think, says it said with a slight smile.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 45.800000238418576,
+      "end": 62.56000023841858,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d58a3f15-2232-4bc3-a73f-5b679652a1e9",
+      "text": "Is one of the things that made him a poor steward. At least in the eyes of most of his masters. Then they must have been fools, been so honestly.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 63.36000023841858,
+      "end": 73.60000023841857,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "6fb52310-4245-436f-a296-f05734560ea8",
+      "text": "So I was inclined to think of mistress, says it Wish her the time to the mansion. We should not be seen out in the gardens when the mists arrive, I think. I I'm just going back out into them. There are many of the grounds set that do not know you are miss mistress.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 74.60000623841857,
+      "end": 93.68000023841859,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3eff46b9-045e-4040-99d7-8a729396134c",
+      "text": "Says it said. It would be a good secret to keep, I think. I know. Once I come, bag.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 94.12000023841858,
+      "end": 190.73199771476123,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9448c0fd-1bda-4816-b01b-f5ee448b74f3",
+      "text": "Hello? You okay?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 194.68199171476124,
+      "end": 204.77830425261752,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "0682f52f-9954-48b5-9b45-d23b6e02ec74",
+      "text": "Running a bit later, mate. No. Thanks.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 205.17830425261752,
+      "end": 207.05830425261752,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c5bb9d6e-e726-4cde-a5b5-cc70da9a02cb",
+      "text": "Are we good? Are we good?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 210.3383102526175,
+      "end": 212.2583082526175,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "bcd0bb9f-c7f5-402d-ba34-7cb55d24cce0",
+      "text": "Good. Well, dude's walk dude's a walking now. So he he walks now. So you I meet him at the bottom and he walks out. So part of his progress. See you in the queue",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": true,
+      "person_id": null,
+      "start": 213.60830425261753,
+      "end": 222.3383042526175,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "203e75c5-42cf-4e4a-a384-733fb0f6bc89",
+      "text": "Linda?",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 222.3383042526175,
+      "end": 222.97830425261753,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "50f27912-12c9-438b-a3e8-308de1d16e00",
+      "text": "Yeah. And I mate, just these these mate.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": true,
+      "person_id": null,
+      "start": 222.97830425261753,
+      "end": 226.53830425261754,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJe2mDe48FbkgRZGztydIziR4",
+    "latitude": 51.4163956,
+    "longitude": -3.2777675,
+    "address": "20 White Farm, Barry CF62 9EU, UK",
+    "location_type": "street_address"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "9749607f-be66-4738-9826-6bf4c5627f21",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "418775d6-f91c-429a-81ed-449db175e277",
+      "chunk_timestamps": [
+        1776953636.337,
+        1776953696.772,
+        1776953757.55,
+        1776953818.325,
+        1776953878.421,
+        1776953938.466
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-23T14:13:56.337000+00:00",
+      "duration": 422.93100000000004
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+      "content": "Diary entry captured for today:\n\n- A conversation mentioned disappointment with local content and a lack of useful material, including nothing about the eleventh metal.\n- There was concern that important information may not be passed on, though a translated copy of a log book was sent to others.\n- The exchange also touched on a ceremony, stewardship, and someone being honest rather than clever.\n- A note about not being seen in the gardens when the mists arrive.\n- Later, there was a brief scheduling/update message: “Running a bit later, mate.”\n- Someone confirmed that “the dude’s walking now,” and that you’d meet him at the bottom so he could walk out as part of his progress.\n- The conversation ended with “Linda?” and a short confirmation reply."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": null,
+  "call_id": null
+}
