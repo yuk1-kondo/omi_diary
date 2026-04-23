@@ -1387,3 +1387,95 @@ It was Yeah.
 
 ---
 
+
+
+## 📝 Apostolic Scripture Reading Explained - ab2997b5-acf2-4aec-876a-8a7c29744519
+
+**記録時間**: 2026-04-23 19:44:26
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 10s]
+So we've got the apostolic method models how to read scripture, which is Christ centered and pattern based.
+
+🎤 SPEAKER_1 [19s - 32s]
+Prophesy predicts and predicts and is fulfilled. In time. Direct petition direct prediction care fulfillment. We feel that God controls history.
+
+🎤 SPEAKER_1 [34s - 53s]
+Topologically, is looking earlier patterns. And pointing to a greater fulfillment in Christ. And so the we have a type which is a shadow, a pattern, and the antitype, which is the greater fulfillment in Christ.
+
+🎤 SPEAKER_1 [55s - 60s]
+So the anti so the the apostolic method is not allegory.
+
+🎤 SPEAKER_1 [93s - 101s]
+Method is not allegory. But it's literal. Literal in a literal sense.
+
+🎤 SPEAKER_1 [105s - 137s]
+Oh, skip the window sill. John three fourteen fifteen. One Corinthians 10 verse six, One Peter three, nine. The allegory, keep the literal sense. That's what that's what the keeps for.
+
+🎤 SPEAKER_1 [138s - 153s]
+Keep keep the literal sense. So the method does not bypass the the the meaning, the original meaning, interpretation grows from the text.
+
+🎤 SPEAKER_1 [155s - 170s]
+So literal the literal meaning of the text is the foundation whereas allegory ignores the literal text. For context and so
+
+🎤 SPEAKER_1 [174s - 181s]
+Temples of this would be Matthew 21. And Colossians four.
+
+🎤 SPEAKER_1 [186s - 201s]
+The method also it's also the Quadrica method, the four ways of looking at scripture. Which is the literal literal literally just to look at the context.
+
+🎤 SPEAKER_1 [204s - 206s]
+Literal context and cultural
+
+🎤 SPEAKER_1 [213s - 217s]
+Topological to look for patterns and shadows that point to a greatest fulfillment.
+
+🎤 SPEAKER_0 [218s - 219s]
+Christ.
+
+🎤 SPEAKER_1 [228s - 231s]
+Moral, Christian living and also deep sleeping.
+
+🎤 SPEAKER_1 [238s - 241s]
+Yeah. Peaches, eschatological.
+
+🎤 SPEAKER_13 [244s - 246s]
+Or 啊 哋 哋 你 你 and
+
+🎤 SPEAKER_1 [251s - 252s]
+meaning is lost.
+
+🎤 SPEAKER_1 [256s - 270s]
+We see that God writes and shapes history. Right. History and scripture.
+
+🎤 SPEAKER_1 [275s - 284s]
+God writes, and shapes history and scripture. History and and scripture,
+
+🎤 SPEAKER_1 [290s - 297s]
+Patterns. Built. With patterns built into both.
+
+🎤 SPEAKER_1 [300s - 317s]
+So god and shapes both history and scripture, And so that means patterns are built into both. And because god authors history and scripture, that means typology works.
+
+🎤 SPEAKER_1 [323s - 333s]
+Abbott tree. Arrow tree. Yeah. So typology is not arbitrary but theological. Now we can skip that one.
+
+🎤 SPEAKER_1 [337s - 349s]
+Loop 24. Ruins five, 15. Sorry. Romans 15, and Luke one Peter one.
+
+🎤 SPEAKER_1 [365s - 367s]
+So this method is theological.
+
+🎤 SPEAKER_0 [369s - 370s]
+Not arbitrary.
+
+🎤 SPEAKER_1 [371s - 391s]
+But rooted in god's authorship of both history and scripture. Confidence. There we are. I need to see if I can do this without to reject this method undermines both authority of Christ and the New Testament.
+
+🎤 SPEAKER_0 [395s - 449s]
+I'm scanning progress.
+
+
+---
+
