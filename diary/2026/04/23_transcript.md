@@ -1920,3 +1920,476 @@ Yeah. And I mate, just these these mate.
 
 ---
 
+
+
+## 📝 Vin And Kelsier Discuss Change And Training - d66c3911-09c7-47b5-b991-d4ce1c76d910
+
+**記録時間**: 2026-04-23 23:20:07
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 163s]
+Eastern beauty. The grasses were kept care carefully trimmed. And they had been arranged in pleasant tears. The occasional shoppery can accent.
+
+🎤 SPEAKER_0 [164s - 172s]
+The southern guard was far more spectacular with its brook trees, and exotic plants. But the Eastern Garden had its own peace.
+
+🎤 SPEAKER_0 [173s - 188s]
+The serenity of simple city. Says it, said it quiet voice. Yes, mistress. It's all going to change, isn't it? What specifically do you mean?
+
+🎤 SPEAKER_0 [189s - 200s]
+Everything then said. Even if we aren't all dead in a year, the crew members will be off working on other projects. Ham will probably be back with his family.
+
+🎤 SPEAKER_0 [200s - 213s]
+Docs and Kelsey will be planning some new escapade. Clubs will be renting his shop to another crew. Even these gardens that we've spent so much money on, they'll belong to someone else.
+
+🎤 SPEAKER_0 [214s - 225s]
+Says it, not it. What you say is likely No. It things go well, perhaps the Scar Rebellion will be ruling with the Dell by this time next year.
+
+🎤 SPEAKER_0 [226s - 239s]
+Maybe, Vince Eddie, but even still, things will change. That is the nature of old life. Mistress, says itself. World must change.
+
+🎤 SPEAKER_0 [241s - 255s]
+I know, Vin said with a sigh. I just wish well, I actually like my life. Now says it. I like spending time with the and I like training with Calcium.
+
+🎤 SPEAKER_0 [256s - 270s]
+I love going to balls with Ellen on the weekends. Love walking in these gardens with you. I don't want these things to change. I don't want my life to go back to the It doesn't have to, mistress.
+
+🎤 SPEAKER_0 [271s - 284s]
+Says it said. It could change for the better. It won't. Vin said quietly. It's starting already. Calcira has entered that my training is almost finished.
+
+🎤 SPEAKER_0 [284s - 294s]
+When I practice in the future, I'll have to do it alone. Ask for Elend. He doesn't even know that I'm Scar. And it's my job to try and destroy his family.
+
+🎤 SPEAKER_0 [295s - 307s]
+Even if house venture doesn't fall by my hand, others will bring him down. I know Chanelaria was planning something. And I haven't been able to discover anything in her schemes. That's only the beginning, though.
+
+🎤 SPEAKER_0 [308s - 320s]
+We face the final empire. They'll probably fail To be honest, I don't see how things could possibly turn out otherwise. We'll fight. We'll do some good. We won't change much.
+
+🎤 SPEAKER_0 [321s - 328s]
+And those of us who survive will spend the rest of our lives running from the inquisitors. Everything's going to change, say Sid.
+
+🎤 SPEAKER_0 [329s - 343s]
+And I can't stop it. Saesut smiled fondly. Then, mistress, he said quietly, simply enjoy what you have. The future will surprise you, I think.
+
+🎤 SPEAKER_0 [344s - 365s]
+Maybe. Vince said I'm convinced. You just need to have hope Perhaps you've earned a little bit of good fortune. There were a group of people before the ascension known as the Aestalsi, They claimed that each person was born with a certain finite amount of ill luck.
+
+🎤 SPEAKER_0 [366s - 379s]
+And so, when an unfortunate event happened, Thereafter, their lives could only get better. Inrays Highbrow, sounds a bit simple minded to me.
+
+🎤 SPEAKER_0 [381s - 395s]
+I do not believe so. Says it simply. Why they are still sad. You are rather advanced. They mixed religion with science quite profoundly. They thought that different colors or indications of different kinds of fortune.
+
+🎤 SPEAKER_0 [396s - 406s]
+And were quite detailed in their descriptions of light and color. Why? It's from them that we get some of our best ideas as to what things might have looked like before the ascension.
+
+🎤 SPEAKER_0 [408s - 421s]
+Had a scale of colors and used it to describe the sky of the and various plants in their shades of green. Regardless, I find their philosophies regarding luck and fortune enlightenment.
+
+🎤 SPEAKER_0 [422s - 433s]
+To them, a poor life was only a sign of fortune to come. It might be a good fit for you, mistress. Could benefit from the knowledge that your luck cannot always be bad.
+
+🎤 SPEAKER_0 [435s - 441s]
+I don't know. Didn't said skeptically. I mean, if you're bad luck by limit
+
+🎤 SPEAKER_0 [445s - 455s]
+Every time something good happened, I'd be worried about using it all up. He says it's sent. I suppose that depends on your viewpoint, mistress.
+
+🎤 SPEAKER_0 [456s - 459s]
+How can you be so optimistic and insane?
+
+🎤 SPEAKER_0 [464s - 478s]
+Susan said. Perhaps our labs have been easier than yours. Or perhaps we are simply more foolish. Ben fell silent. They won't for a short time longer leaving their way.
+
+🎤 SPEAKER_0 [478s - 490s]
+Back toward the building without brushing the wall. Says it. She finally said. Night in the rain, you used ferrochimi, didn't you?
+
+🎤 SPEAKER_0 [491s - 501s]
+Says it nodded. Indeed. The inquisitor was very focused on you. And I was able to sneak up behind him. Then hit him with a stone.
+
+🎤 SPEAKER_0 [502s - 510s]
+I had grown many times stronger than a regular man. And my blow threw him into the wall breaking several of his bones, I suspect.
+
+🎤 SPEAKER_0 [512s - 524s]
+Is that it? Ben asked. You sound disappointed, mistress. Noted smiling. You expected something more spectacular, I suppose. Then nodded.
+
+🎤 SPEAKER_0 [525s - 538s]
+It's just you've been so quiet about ferrochimi. That makes it seem more mystical, I guess. Says inside. There is really little to hide from you, mistress.
+
+🎤 SPEAKER_0 [538s - 549s]
+The truly unique power of Ferrakemi. The ability to store and recover memories. You must truly The rest of the powers are not different, really.
+
+🎤 SPEAKER_0 [550s - 554s]
+From the powers granted to you by pewter and tin. A few
+
+🎤 SPEAKER_0 [568s - 577s]
+A few of them are a little more hard. Making a ferret chemist heavier or changing his age. But they offer little marshal application.
+
+🎤 SPEAKER_0 [579s - 592s]
+Age, instead working out. You could make yourself younger, Not really, mistress. Says instead. Remember, a ferrochemist must draw his powers from his own body.
+
+🎤 SPEAKER_0 [593s - 600s]
+He could, for instance, spend a few weeks with his body aged to the point that it felt and looked ten years older than he really was.
+
+🎤 SPEAKER_0 [601s - 611s]
+Then he could withdraw that age. To make himself seem ten years younger. An equal amount of time. However, in thyrochemy, there must be a balance.
+
+🎤 SPEAKER_0 [612s - 622s]
+Been thought about that for a moment. Does the metal you use matter? She asked. Like an almency. Most certainly. Seizard said.
+
+🎤 SPEAKER_0 [622s - 634s]
+The middle determines what can be stored. Vin nodded and continued to walk. Thinking over what he'd said. Says it? Can I have a bit of your medal?
+
+🎤 SPEAKER_0 [634s - 647s]
+She finally asked. My medal, mistress? Something you've used as a ferrochemical store. Said. I want to try burning it. Maybe that will let me use off its power.
+
+🎤 SPEAKER_0 [648s - 656s]
+Says it frowned curiously. Has anyone ever tried it before? I'm sure someone must have.
+
+🎤 SPEAKER_1 [656s - 656s]
+Said.
+
+🎤 SPEAKER_0 [657s - 666s]
+But I honestly can't think of a specific example. Perhaps if I were to go search my memory copper mines, Why not just let me try it now?
+
+🎤 SPEAKER_0 [667s - 681s]
+They asked. Do you have something made from one of the basic metals? Something you haven't stored anything too valuable in? Says it undid an earring much like the one Vin wore.
+
+🎤 SPEAKER_0 [682s - 693s]
+He handed the earrings tiny backing used to hold the earring in place to Vin. It is pure pewter, mistress. I have stored a moderate amount of strength in it.
+
+🎤 SPEAKER_0 [694s - 703s]
+Then nodded, swallowing the tiny stud. She felt at her aromatic reserve, the stud's metal didn't seem to do anything different.
+
+🎤 SPEAKER_0 [703s - 717s]
+She tentatively burned pewter. Anything Says it asked. Vin shook her head. No, don't. She trailed off. There was something there.
+
+🎤 SPEAKER_0 [719s - 731s]
+What is it, mistress? Says it asked. Uncharacteristic eagerness sounding in his voice. I can feel the power, says. It's faint.
+
+🎤 SPEAKER_0 [732s - 742s]
+Far beyond my grasp. But I swear that there's another reserve within me. One that only appears when I'm burning your metal. Says it frowned.
+
+🎤 SPEAKER_0 [742s - 754s]
+It's faint, you say? Like you can see a shadow of the reserve? But can't access the power itself. They're nodded. How do you know?
+
+🎤 SPEAKER_0 [755s - 765s]
+That's what it feels like when you try to use another chemist's Migel's mistress. Says it said sighing. I should have suspected this would be the result.
+
+🎤 SPEAKER_0 [766s - 770s]
+You cannot access the power. Because it does not belong to you.
+
+🎤 SPEAKER_0 [772s - 781s]
+Oh, Vince said. Do not be too disappointed, mistress. If Alan answers could steal strength from my people, it would already be known.
+
+🎤 SPEAKER_0 [782s - 793s]
+It was a clever thought, however. He turned pointing toward the mansion. The carriage has already arrived. We are late for the meeting, I think.
+
+🎤 SPEAKER_0 [794s - 798s]
+Finn nodded. And they hurried their pace toward the mansion.
+
+🎤 SPEAKER_0 [801s - 812s]
+Funny. Kelsey, I thought to himself as he slumped across the darkened courtyard before mentioning I have to sneak into my own house as if I were attacking some noble nuns keep.
+
+🎤 SPEAKER_0 [814s - 826s]
+There was no avoiding it, however. Not with his reputation. Kelsior, the thief, had been distinctive enough Celsier, the rebellion instigator and spiritual was even more infamous.
+
+🎤 SPEAKER_0 [827s - 839s]
+That didn't, of course, keep him from spreading his nightly chaos. He just had to be more careful. More and more families were pulling out of the city, and the powerful houses were growing increasingly paranoid.
+
+🎤 SPEAKER_0 [840s - 851s]
+In a way that made manipulating them easier. But sneaking around their keeps was getting very dangerous. In comparison, Majin Ranu was virtually unprotected.
+
+🎤 SPEAKER_0 [852s - 866s]
+There were guards, of course, but no mistings. Ranu had to keep a low profile. Too many alamancers would make him stand out. Kelsey kept to the shadows, carefully making his way around to east side of the building.
+
+🎤 SPEAKER_0 [866s - 876s]
+Then he pushed off a coin and guided himself up onto Renew's own balcony. Calcior landed lightly, then peeked through the glassy balcony doors.
+
+🎤 SPEAKER_0 [877s - 889s]
+The drapes were shut, but he could pick out dadsson, Vin, Sazed, Ham, and Breeze, standing around where news desk. Renu himself sighed in the far corner of the room, staying out of the proceedings.
+
+🎤 SPEAKER_0 [890s - 899s]
+His contract included playing the part of Lord Granu. But he didn't wish to be involved in the plan any more than he had to. Calcior shook his head.
+
+🎤 SPEAKER_0 [900s - 909s]
+It would be far too easy for an assassin to get in here. I'll have to make sure that Vin continues to sleep at Club's shop. He wasn't worried about Ranu.
+
+🎤 SPEAKER_0 [910s - 920s]
+The congress nature was such that he didn't need to fear an assassin's blade. Calcior tapped lightly on the door, thudson strawed open.
+
+🎤 SPEAKER_0 [922s - 930s]
+And he makes his stunning entry. Calciero announced to sweep into the room, throwing back his missing Dachshund snorted, shutting the doors.
+
+🎤 SPEAKER_0 [932s - 942s]
+You're truly a wonder to behold, Kel. Particularly the foot stains on your knees. I had to do some crawling tonight, Kelsey said, waving an indifferent hand.
+
+🎤 SPEAKER_0 [943s - 953s]
+There's an unused drainage ditch that passes right under Cape LeCal's defensive You'd think they'd get that patched up. I doubt they need worry.
+
+🎤 SPEAKER_0 [956s - 966s]
+Most of you, Mistborn, are probably too proud to crawl. I'm surprised you were willing to do so yourself. Too proud to crawl, Calcio said.
+
+🎤 SPEAKER_1 [966s - 967s]
+Nonsense.
+
+🎤 SPEAKER_0 [967s - 978s]
+Why, I'd say that we, Mistborn, are too proud not to be enough to go crawling about. In a dignified manner, of course. Dachshund frowned approaching the desk.
+
+🎤 SPEAKER_0 [980s - 994s]
+That doesn't make any sense. We, Mistborn, need not make sense, Calcio said hotly. What's this? From your brother. Said. Pointing at a large map laid across the desk.
+
+🎤 SPEAKER_0 [995s - 999s]
+It this afternoon in the hollow of a broken table leg that the
+
+🎤 SPEAKER_0 [1002s - 1019s]
+Interesting. Calcius scanning the map. It's a list of the soothing stations, I assume. Indeed. It's quite the discovery. I've never seen such a detailed, carefully drawn map of the city.
+
+🎤 SPEAKER_0 [1020s - 1026s]
+Why it not only shows every one of the 34 soothing stations, also locations of Inquisitor Act.
+
+🎤 SPEAKER_1 [1101s - 1101s]
+You alright, son?
+
+🎤 SPEAKER_1 [1105s - 1108s]
+How's your day being?
+
+🎤 SPEAKER_1 [1112s - 1116s]
+Just got binge juice all over you, Omi. Binge juice? What?
+
+🎤 SPEAKER_3 [1116s - 1117s]
+Oh, gross.
+
+🎤 SPEAKER_1 [1117s - 1117s]
+Do want a big top?
+
+🎤 SPEAKER_1 [1121s - 1124s]
+I smell some red sweet curlywilly.
+
+🎤 SPEAKER_1 [1128s - 1132s]
+What? You tell me about this bin juice then. Oh, we're doing a big tidy up.
+
+🎤 SPEAKER_0 [1134s - 1134s]
+Yeah?
+
+🎤 SPEAKER_4 [1137s - 1138s]
+And I'm also looking What's good on you?
+
+🎤 SPEAKER_1 [1140s - 1140s]
+The packing brakes on.
+
+🎤 SPEAKER_0 [1140s - 1141s]
+Right. I see.
+
+🎤 SPEAKER_4 [1143s - 1149s]
+Oh, there's one oh, there's a litter picker. We went around the school. Yeah. Alright.
+
+🎤 SPEAKER_4 [1152s - 1155s]
+And, also, my bag was Mooted connected. Because my Mooted connected.
+
+🎤 SPEAKER_0 [1160s - 1163s]
+Omi.
+
+👤 あなた [1167s - 1168s]
+It's not a good thing sometimes.
+
+🎤 SPEAKER_4 [1170s - 1171s]
+Yes.
+
+🎤 SPEAKER_3 [1171s - 1180s]
+Yes, sir. Mhmm.
+
+👤 あなた [1184s - 1186s]
+Football training tonight, dude?
+
+🎤 SPEAKER_3 [1187s - 1187s]
+Mhmm.
+
+👤 あなた [1189s - 1225s]
+Do you smell like a bit like bins?
+
+🎤 SPEAKER_4 [1228s - 1229s]
+Mister bins?
+
+🎤 SPEAKER_3 [1232s - 1233s]
+Excuse me.
+
+👤 あなた [1233s - 1236s]
+Pardon me. I mean, Really?
+
+🎤 SPEAKER_4 [1239s - 1241s]
+Today.
+
+🎤 SPEAKER_3 [1242s - 1243s]
+Well, I'm eating. Yeah?
+
+👤 あなた [1244s - 1255s]
+Every time I swim. Yeah. We're about like, in your throat.
+
+🎤 SPEAKER_3 [1255s - 1256s]
+Yeah.
+
+👤 あなた [1256s - 1264s]
+Like, in this here? More in your throat than it is in your chest. Yeah. So that's not your chest. It's your throat. Yeah. Just got a scratchy throat. I wouldn't wait till Have you drunk much today?
+
+🎤 SPEAKER_3 [1265s - 1266s]
+Yeah.
+
+🎤 SPEAKER_4 [1267s - 1269s]
+And I do have a bad relate.
+
+🎤 SPEAKER_1 [1269s - 1277s]
+Just a common just common burger seems attitudes.
+
+👤 あなた [1278s - 1279s]
+Just a common bug.
+
+🎤 SPEAKER_3 [1280s - 1281s]
+Unfortunately.
+
+👤 あなた [1285s - 1286s]
+It's not that far away. Away.
+
+👤 あなた [1290s - 1292s]
+Don't wanna play football today, did you?
+
+🎤 SPEAKER_0 [1297s - 1297s]
+Where was he?
+
+🎤 SPEAKER_4 [1300s - 1317s]
+Mine's my button. And What's that? I told you this last week. Every Thursday, you have to sign up for this thing. You get to go to the hall and do make Legos make like
+
+👤 あなた [1317s - 1317s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [1317s - 1318s]
+You take it in turns.
+
+👤 あなた [1319s - 1321s]
+So it's not yeah.
+
+🎤 SPEAKER_3 [1321s - 1321s]
+So With the hole.
+
+🎤 SPEAKER_4 [1322s - 1323s]
+Together.
+
+👤 あなた [1323s - 1323s]
+Oh, so you did it?
+
+🎤 SPEAKER_4 [1324s - 1326s]
+No. I didn't because you weren't there and you didn't sign up.
+
+👤 あなた [1327s - 1330s]
+Alright. I didn't know about it. I told you this last week.
+
+🎤 SPEAKER_1 [1331s - 1341s]
+I think I had a letter about it. Oh, the fan's blocking my view. How can I do the classic? How can I do the classic if a can't blink and see him?
+
+🎤 SPEAKER_1 [1341s - 1344s]
+Well, never mind. Go back to where I was then, I guess.
+
+👤 あなた [1351s - 1353s]
+No. It's not. It's just coming now.
+
+🎤 SPEAKER_1 [1354s - 1356s]
+So we'll just park here. It's fine.
+
+🎤 SPEAKER_3 [1370s - 1375s]
+Yeah.
+
+👤 あなた [1375s - 1383s]
+Oh, Is that his best now? He goes on the small bus these days. Oh, maybe. Maybe. Yeah.
+
+👤 あなた [1395s - 1396s]
+Adiós.
+
+🎤 SPEAKER_3 [1397s - 1398s]
+You right?
+
+👤 あなた [1418s - 1418s]
+Good to see you too.
+
+🎤 SPEAKER_3 [1421s - 1425s]
+Nice for you mister. Let's see. No.
+
+👤 あなた [1425s - 1435s]
+We guys. When I when I get home, I've done lots of tidying up in the house today. Okay. So what that means is I want the usual situation with your bag at it.
+
+👤 あなた [1437s - 1439s]
+Can you just take it straight to your room then?
+
+👤 あなた [1444s - 1446s]
+And the shoes got in the rack here. Let's not make any mess when we're getting them.
+
+🎤 SPEAKER_3 [1450s - 1456s]
+Yeah. Say again, yeah.
+
+👤 あなた [1456s - 1462s]
+That was that was that comment wasn't aimed The bad comment was, but the shoe comment was aimed at juice and daddy.
+
+🎤 SPEAKER_3 [1466s - 1470s]
+Will you guide you all short to the Judah as if it cold? Was it right in the end?
+
+👤 あなた [1471s - 1483s]
+Okay. Good. And it's not allowed to wear shorts yet. In school to in the summer tour, minute? It is, is it? I know if you had a half have you got a half term holiday?
+
+🎤 SPEAKER_1 [1484s - 1485s]
+Yeah. Tomorrow.
+
+🎤 SPEAKER_3 [1487s - 1488s]
+Right.
+
+👤 あなた [1488s - 1491s]
+So I thought it was after that that you were able to wear shorts.
+
+🎤 SPEAKER_3 [1493s - 1494s]
+Anyone wearing shorts already then?
+
+🎤 SPEAKER_3 [1501s - 1501s]
+Alright?
+
+👤 あなた [1528s - 1535s]
+Brushed it outside for me, sir. Use your foot up there. Shit. You know, I don't sugar inside the car, basically.
+
+🎤 SPEAKER_3 [1537s - 1538s]
+Cool. It's it's a shower.
+
+🎤 SPEAKER_4 [1539s - 1539s]
+Thing.
+
+🎤 SPEAKER_3 [1541s - 1541s]
+No sugar.
+
+👤 あなた [1545s - 1554s]
+So, the stuff that makes it shout. There's other stuff that makes it sour.
+
+👤 あなた [1567s - 1569s]
+Well, and was I tell you we bought your bags then?
+
+👤 あなた [1572s - 1578s]
+You need to go strip your room before you do anything else, really. And your shoes need to and they're accurate.
+
+🎤 SPEAKER_3 [1588s - 1588s]
+Thank you.
+
+🎤 SPEAKER_3 [1598s - 1599s]
+No, stop.
+
+👤 あなた [1600s - 1604s]
+The knees on the rack. There's no space on. Pull on top of her shoes.
+
+🎤 SPEAKER_4 [1608s - 1608s]
+I'll get to the
+
+👤 あなた [1648s - 1653s]
+No. Gonna say, this has finally died. It's collapsed.
+
+👤 あなた [1662s - 1665s]
+I'm tidied up everything. As well. Classic.
+
+
+---
+
