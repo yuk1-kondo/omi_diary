@@ -402,3 +402,44 @@ I'm feeling pretty clear. I I I just got a bad throat. I don't think that Unless
 
 ---
 
+
+
+## 📝 Discussing a Lightweight Bottle for France - 61a1ea87-a485-4969-992d-29a342562d19
+
+**記録時間**: 2026-04-24 16:43:54
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 328s]
+You may love to do a pollen, have they? It's in his bottle. It's a really nice bottle.
+
+🎤 SPEAKER_1 [333s - 342s]
+Actually mean, it doesn't if it doesn't keep drinks cold like by insulated ones, can just carry it like that. There's something nice about it. I find it's nice thickness.
+
+🎤 SPEAKER_0 [342s - 342s]
+Yeah.
+
+🎤 SPEAKER_1 [342s - 349s]
+It's it's it's light as well, so I'm definitely gonna take this one to France. Mhmm. It's really light, but empty whereas my other method was.
+
+🎤 SPEAKER_1 [349s - 350s]
+Are not. Yeah.
+
+🎤 SPEAKER_0 [351s - 354s]
+Yep. And it's thin. Yeah. Thicker ones are bit of a pain.
+
+🎤 SPEAKER_1 [354s - 358s]
+This is like this is fun. But there's a bit bigger
+
+🎤 SPEAKER_0 [358s - 359s]
+Yeah.
+
+🎤 SPEAKER_1 [361s - 362s]
+It does keep things cold in there.
+
+🎤 SPEAKER_0 [362s - 363s]
+It's quite a thick girth to it.
+
+
+---
+
