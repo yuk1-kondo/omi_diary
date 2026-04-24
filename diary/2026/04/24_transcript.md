@@ -343,3 +343,62 @@ Do you know micro bitters?
 
 ---
 
+
+
+## 📝 Breakfast Chat About Dano's Recovery - f5c8e050-8ecc-4460-81fb-b3b48f8ddcec
+
+**記録時間**: 2026-04-24 16:36:04
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 3s]
+Late April Friday morning breakfast.
+
+🎤 SPEAKER_3 [4s - 5s]
+Yeah.
+
+🎤 SPEAKER_0 [31s - 38s]
+Hopefully hopefully it'd be a good time. And Becky are not joined for the walk. Right.
+
+🎤 SPEAKER_1 [40s - 47s]
+So they've got Dano.
+
+🎤 SPEAKER_0 [48s - 51s]
+Major leg surgery last year.
+
+🎤 SPEAKER_3 [53s - 53s]
+Okay.
+
+🎤 SPEAKER_0 [54s - 58s]
+I wasn't sure if he's gonna be able to walk properly on it again, but it looks like he's done pretty well with it. Yeah.
+
+🎤 SPEAKER_1 [59s - 59s]
+Yeah.
+
+🎤 SPEAKER_1 [65s - 65s]
+Yeah.
+
+🎤 SPEAKER_0 [65s - 67s]
+Can I get one out, please?
+
+🎤 SPEAKER_2 [68s - 68s]
+Sorry.
+
+🎤 SPEAKER_0 [71s - 77s]
+My barely white voice today. It's been coming for a while now, last few days.
+
+🎤 SPEAKER_1 [78s - 96s]
+Think it's happy that or it's not I remember something about last year
+
+🎤 SPEAKER_0 [97s - 103s]
+I might be in black notice or something. You and you and Dee were trying to literally take antihistamines or something.
+
+🎤 SPEAKER_1 [103s - 112s]
+Yeah. And then you took them and then you were fine. No. Just some banana peritonkin. I think you've you've got eating it for halfs.
+
+🎤 SPEAKER_0 [121s - 128s]
+I'm feeling pretty clear. I I I just got a bad throat. I don't think that Unless you can show me then, but And she can show me how to do a pollen.
+
+
+---
+
