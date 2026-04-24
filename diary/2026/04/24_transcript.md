@@ -1880,3 +1880,557 @@ Yes.
 
 ---
 
+
+
+## 📝 Beach Walk And Theology Discussion - ba674e20-ffaa-4cd7-9270-a7ed8a85e994
+
+**記録時間**: 2026-04-24 18:45:39
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 601s]
+it's Yeah. Maybe. Irritated. Yes.
+
+🎤 SPEAKER_1 [601s - 602s]
+But from the upset end,
+
+🎤 SPEAKER_1 [606s - 671s]
+Yeah. It just keeps falling for me. I wonder if I can tighten it or something.
+
+🎤 SPEAKER_0 [671s - 673s]
+Yeah.
+
+🎤 SPEAKER_1 [673s - 674s]
+I just the two handles here. No. I mean, the no.
+
+🎤 SPEAKER_2 [674s - 675s]
+I don't mean that.
+
+🎤 SPEAKER_1 [676s - 679s]
+I mean the actual joint. Because the whole thing for
+
+🎤 SPEAKER_1 [683s - 685s]
+Just throw where the church is on.
+
+🎤 SPEAKER_2 [686s - 689s]
+Yeah.
+
+🎤 SPEAKER_1 [689s - 689s]
+It's on the left there.
+
+🎤 SPEAKER_0 [718s - 739s]
+Sounds nice. Does feel an element of further away from the bigger staff. Like, I like being close to Cardiff. Really? When you think about, like, the kids some of the things for them. Yeah.
+
+🎤 SPEAKER_1 [742s - 744s]
+But, yeah, honestly, like That's It's just taking me up the wrong end of the day.
+
+🎤 SPEAKER_2 [744s - 747s]
+But That's fine.
+
+🎤 SPEAKER_1 [748s - 772s]
+There's lots of greens isn't there Rich I guess?
+
+🎤 SPEAKER_1 [781s - 782s]
+Like This is our skits, sounds like? Yeah.
+
+🎤 SPEAKER_0 [783s - 784s]
+Like mutant area.
+
+🎤 SPEAKER_1 [784s - 787s]
+You can grab on the edge. Jolly Smith. Jack in the What's what you say there?
+
+🎤 SPEAKER_0 [787s - 792s]
+I'm mean, tracker base, actually. Just inside this, but, yeah, this is
+
+🎤 SPEAKER_0 [796s - 796s]
+Yeah.
+
+🎤 SPEAKER_2 [802s - 814s]
+Okay.
+
+🎤 SPEAKER_0 [844s - 848s]
+I'm gonna wave it. Straight ahead and go left. Done here. Right. Hang on. Go straight ahead. And go left.
+
+🎤 SPEAKER_1 [850s - 855s]
+There's a calmer person. Tom dropped her space specific. Yeah.
+
+🎤 SPEAKER_0 [855s - 861s]
+I know, but you took her own turn, I think. You need to go straight down there. Okay.
+
+🎤 SPEAKER_2 [861s - 861s]
+Now can relax.
+
+🎤 SPEAKER_1 [865s - 866s]
+It's taking me a weird way. Yeah.
+
+🎤 SPEAKER_2 [870s - 871s]
+Any reason for your person?
+
+🎤 SPEAKER_1 [872s - 875s]
+Because I'm not meant to be yeah. Just this can you see what's going on?
+
+🎤 SPEAKER_0 [875s - 876s]
+No. No. Yeah. No.
+
+🎤 SPEAKER_2 [876s - 876s]
+I know.
+
+🎤 SPEAKER_1 [879s - 880s]
+But Svan overtook me. Yeah.
+
+🎤 SPEAKER_2 [881s - 882s]
+Not realizing.
+
+🎤 SPEAKER_2 [887s - 890s]
+What are you doing? Moving out the way for the I know know that, but you seem like you're stopping Nixon.
+
+🎤 SPEAKER_1 [893s - 895s]
+I also need to move, I guess.
+
+🎤 SPEAKER_0 [906s - 910s]
+Oh, yeah. No. You can't go that way. Oh, it's really It says it can't go It's readjusted where you are now. You're not there.
+
+🎤 SPEAKER_0 [911s - 921s]
+You're here, and it's a dead end. So you need to come out. No. It's done it's done something weird. Come out, go down there, get back onto the road.
+
+🎤 SPEAKER_0 [922s - 928s]
+Keep going. I don't know whether it me long time or whether it took me or away. I don't know.
+
+🎤 SPEAKER_1 [928s - 930s]
+I I see it. I see it. Thank you.
+
+🎤 SPEAKER_1 [939s - 940s]
+Black and Fan, can't stop there, pal.
+
+🎤 SPEAKER_1 [944s - 945s]
+하서 것러다에.
+
+🎤 SPEAKER_1 [951s - 959s]
+Don't quite know what happened there. Did you notice the bike took out? I've reset the I've dropped pit. I've I've got the route now directly to I've Tom's pin. Yeah.
+
+🎤 SPEAKER_0 [963s - 965s]
+What I didn't seem to be wrong way, but I think it thought you and a different place here.
+
+🎤 SPEAKER_2 [966s - 966s]
+I don't know.
+
+🎤 SPEAKER_0 [966s - 969s]
+Once again, mine's now readjusted.
+
+🎤 SPEAKER_1 [969s - 971s]
+This take you this resin all.
+
+🎤 SPEAKER_0 [995s - 1002s]
+So I was looking for a beach road. Obviously, that wasn't concentrating. Came to it. Yeah.
+
+🎤 SPEAKER_1 [1022s - 1024s]
+Do you think my perspective was quite around in it?
+
+🎤 SPEAKER_1 [1030s - 1034s]
+So Most people park at you unlock here. If you pay for parking, I don't know, probably.
+
+🎤 SPEAKER_0 [1036s - 1037s]
+Paper parking.
+
+🎤 SPEAKER_1 [1058s - 1059s]
+People do parking all the way down.
+
+🎤 SPEAKER_2 [1060s - 1063s]
+Yeah. It's just parking the car park. Pay here.
+
+🎤 SPEAKER_1 [1064s - 1066s]
+Who's contactless? Because I haven't got my wallet.
+
+🎤 SPEAKER_2 [1066s - 1067s]
+Yeah.
+
+🎤 SPEAKER_0 [1068s - 1070s]
+I've I've got money. That helicopter changing up to the head.
+
+🎤 SPEAKER_1 [1076s - 1078s]
+Lots peel to Simbu Parkin and Double Yellows. Anytime, right?
+
+🎤 SPEAKER_0 [1079s - 1083s]
+Anytime between first and September 3. So no. Not yet.
+
+🎤 SPEAKER_1 [1083s - 1085s]
+Not the September 1. So I can park on here now?
+
+🎤 SPEAKER_2 [1085s - 1086s]
+No things.
+
+🎤 SPEAKER_1 [1086s - 1088s]
+Yeah. No. That's the when it's when it counts.
+
+🎤 SPEAKER_2 [1088s - 1088s]
+Oh, okay.
+
+🎤 SPEAKER_1 [1089s - 1091s]
+So we don't need to pay for parking. We'll just park on the shore. I'll give an asses.
+
+🎤 SPEAKER_1 [1097s - 1124s]
+That's why nobody's using the car park. Guess.
+
+🎤 SPEAKER_2 [1124s - 1124s]
+Mhmm.
+
+🎤 SPEAKER_2 [1142s - 1142s]
+Now I'm alright.
+
+🎤 SPEAKER_1 [1146s - 1150s]
+Closer than the van, so it's not like I'm sticking out. No. Well, no.
+
+🎤 SPEAKER_2 [1151s - 1152s]
+Hello, Clive.
+
+🎤 SPEAKER_2 [1165s - 1165s]
+It.
+
+🎤 SPEAKER_1 [1182s - 1183s]
+I'm sounding the same, actually.
+
+🎤 SPEAKER_2 [1183s - 1186s]
+Must send them. Full or something. Yeah.
+
+🎤 SPEAKER_0 [1187s - 1193s]
+We did we put the young guy in. She's not sure. But I think we'll get you on did Yeah.
+
+🎤 SPEAKER_1 [1194s - 1205s]
+I'm in shorts and I'm wondering now. Wondering if that was a right call. Let me just swap shoes a minute. Yeah. Great.
+
+🎤 SPEAKER_3 [1207s - 1209s]
+You recovered from the It takes a while to be honest.
+
+🎤 SPEAKER_3 [1210s - 1214s]
+Was completely three weeks until we felt like we were sort of fly.
+
+🎤 SPEAKER_1 [1220s - 1222s]
+Oh, man. He's do that. You're telling me.
+
+🎤 SPEAKER_3 [1223s - 1226s]
+Three days. Two and a half days have been wowed when you have a start.
+
+🎤 SPEAKER_1 [1226s - 1230s]
+Well,
+
+🎤 SPEAKER_1 [1231s - 1239s]
+after it was water. It's gone back on now. I'm hoping to try No. I'm not back to where I was. I'm a little bit I'm a little lighter than I was. There we are.
+
+🎤 SPEAKER_2 [1239s - 1241s]
+Anyone like really
+
+🎤 SPEAKER_2 [1253s - 1254s]
+Yeah.
+
+🎤 SPEAKER_0 [1254s - 1254s]
+Yeah.
+
+🎤 SPEAKER_1 [1256s - 1257s]
+I think there's Where else to park on here? Mean, listen.
+
+🎤 SPEAKER_3 [1258s - 1260s]
+Were staying with Steven and Jack and
+
+🎤 SPEAKER_2 [1260s - 1261s]
+Stop it.
+
+🎤 SPEAKER_3 [1262s - 1265s]
+I think the the night it happened, everyone started for Let me read this sign.
+
+🎤 SPEAKER_1 [1271s - 1273s]
+Yeah.
+
+🎤 SPEAKER_0 [1273s - 1273s]
+It's fine.
+
+🎤 SPEAKER_2 [1278s - 1279s]
+Hello, Katie.
+
+🎤 SPEAKER_2 [1287s - 1288s]
+I mean Yeah.
+
+🎤 SPEAKER_1 [1288s - 1291s]
+People are a bit more visual. Yeah.
+
+🎤 SPEAKER_0 [1291s - 1292s]
+And, like, you know, just announcing three things.
+
+🎤 SPEAKER_1 [1292s - 1293s]
+See you. Yeah.
+
+🎤 SPEAKER_2 [1293s - 1294s]
+Yeah.
+
+🎤 SPEAKER_1 [1295s - 1295s]
+Your sound talking.
+
+🎤 SPEAKER_4 [1295s - 1298s]
+Really nicely. I thought it'd nice to go to a bit more.
+
+🎤 SPEAKER_1 [1307s - 1317s]
+Pair of different shaped hooks. Right? They do. Do. Yeah. My hat's in the car. Gonna go and grab it quick. You know? He's handful, isn't he? Yeah. I'm just gonna get my hat from the car.
+
+🎤 SPEAKER_2 [1395s - 1398s]
+Oh, hello. Double yellow.
+
+🎤 SPEAKER_1 [1398s - 1403s]
+From first of me. Yeah. We can park on you. Do want me to see do you reckon you can fit in here?
+
+🎤 SPEAKER_1 [1406s - 1409s]
+Yeah. Yeah. So signs all good. Good to see you man.
+
+🎤 SPEAKER_1 [1444s - 1446s]
+It's it's a bit around the edge the the dent in that.
+
+🎤 SPEAKER_4 [1447s - 1449s]
+You've done that before.
+
+🎤 SPEAKER_2 [1450s - 1452s]
+You spotted that.
+
+🎤 SPEAKER_1 [1452s - 1456s]
+This is a this is a, you know, a gospel in some way. I'll figure figure out how in a sec.
+
+🎤 SPEAKER_4 [1458s - 1460s]
+Well, you Good on the inside and getting more battered today.
+
+🎤 SPEAKER_1 [1466s - 1470s]
+It's it's kinda like falling human condition somehow. I don't know. I put this on.
+
+🎤 SPEAKER_4 [1471s - 1474s]
+See again? Well, at home, it would really still an the whole Yeah.
+
+🎤 SPEAKER_1 [1482s - 1486s]
+Find that the legs are easier to freeze than the arms I find because Yeah.
+
+🎤 SPEAKER_1 [1494s - 1494s]
+Yeah.
+
+🎤 SPEAKER_3 [1503s - 1503s]
+The pharmacy.
+
+🎤 SPEAKER_1 [1504s - 1506s]
+I'm was that necessary information about my Insane.
+
+🎤 SPEAKER_2 [1507s - 1511s]
+I I I think I've just moved on from that.
+
+🎤 SPEAKER_1 [1512s - 1513s]
+It was bonding then. Don't go much.
+
+🎤 SPEAKER_4 [1513s - 1514s]
+Better though.
+
+🎤 SPEAKER_1 [1514s - 1529s]
+You're fine. We're fine. So do know about Steven's? Yeah. Nice. And I think we're at Saint this in. We guy who's got keep bringing it up all the time though, do we? Right. But I think people who had nothing to do with advance.
+
+🎤 SPEAKER_5 [1530s - 1535s]
+Come up to me and be like, have you seen this? Yeah. I know. It's Donna's little clip. Is it it?
+
+🎤 SPEAKER_2 [1535s - 1536s]
+We went to the See the cap.
+
+🎤 SPEAKER_1 [1536s - 1546s]
+So you were missed out. You missed out. I still think of a dealing going on from somebody within this this group that brought brought brought the goods that that fixed that fixed the league, so to speak.
+
+🎤 SPEAKER_2 [1547s - 1548s]
+Oh, a conference.
+
+🎤 SPEAKER_4 [1548s - 1549s]
+Was this being My brother's also.
+
+🎤 SPEAKER_1 [1576s - 1578s]
+Do we know if we're waiting for anyone else?
+
+🎤 SPEAKER_2 [1578s - 1579s]
+I think this is it.
+
+🎤 SPEAKER_5 [1587s - 1592s]
+So So should we I didn't know we could miss the walk.
+
+🎤 SPEAKER_5 [1598s - 1605s]
+So I reckon we if we head we head that way for about twenty minutes, Yep. And then we'll turn around and it'll Lovely. Give you plenty of time to get around to the cafe which is just Yeah. No worries.
+
+🎤 SPEAKER_5 [1605s - 1611s]
+Around the corner. No. We'll stand the beach. We'll stand the beach. It's alright. Laura goes faster than Jude.
+
+🎤 SPEAKER_1 [1611s - 1615s]
+Do they? I'm not this fun. It's like It's got my walking shoes on man.
+
+🎤 SPEAKER_1 [1618s - 1623s]
+Did you? An hour and a half. Blimey. We'll stick with the beach. Sprinting on the dunes that loaned us together. Aren't they?
+
+🎤 SPEAKER_1 [1630s - 1634s]
+Yeah. Yeah. That's our next meeting, is it? How are you doing mate?
+
+🎤 SPEAKER_5 [1634s - 1637s]
+But I'm doing well. Yeah. All good. All good. You doing? Very, very fast lecture at
+
+🎤 SPEAKER_0 [1638s - 1639s]
+Union forever.
+
+🎤 SPEAKER_5 [1639s - 1641s]
+On Tuesday last this week.
+
+🎤 SPEAKER_2 [1642s - 1643s]
+The sirs kids.
+
+🎤 SPEAKER_1 [1644s - 1658s]
+A good one to finish on. So now we've got two exams. It's a bit cheesy though because really three exams. One exam is half of John you know, the depth of his depth required knowledge of Ezekiel is in saying, and and then he's mine.
+
+🎤 SPEAKER_1 [1658s - 1662s]
+Just kinda goatee on these things a little bit because I my brain just work like everyone else's.
+
+🎤 SPEAKER_5 [1662s - 1663s]
+I have to memorize index cards.
+
+🎤 SPEAKER_1 [1664s - 1668s]
+I've got like 300 just for the old testament.
+
+🎤 SPEAKER_5 [1668s - 1671s]
+I've memorized 92. Long wait. I've 15 a day. Everything.
+
+🎤 SPEAKER_0 [1674s - 1676s]
+Well well, I can do it.
+
+🎤 SPEAKER_4 [1676s - 1681s]
+Is that I assume question. Remember right. You said I might be a bit when you're doing it.
+
+🎤 SPEAKER_5 [1693s - 1694s]
+Yeah.
+
+🎤 SPEAKER_1 [1694s - 1699s]
+If you're your own Yeah. If you're undergraduate, just yeah. Yeah.
+
+🎤 SPEAKER_5 [1703s - 1703s]
+Knows.
+
+🎤 SPEAKER_2 [1704s - 1705s]
+God poo?
+
+🎤 SPEAKER_4 [1705s - 1706s]
+Or Well, the most of no.
+
+🎤 SPEAKER_1 [1708s - 1710s]
+No. Well, no. This is I think.
+
+🎤 SPEAKER_1 [1710s - 1712s]
+But a to an end.
+
+🎤 SPEAKER_5 [1712s - 1712s]
+Okay.
+
+🎤 SPEAKER_1 [1716s - 1722s]
+Once of them with the and after that, I'll get ready. So I I'm not worried about it. Who who is what levers?
+
+🎤 SPEAKER_4 [1722s - 1723s]
+God knows. Yeah.
+
+🎤 SPEAKER_1 [1724s - 1731s]
+Yeah. We have to figure out I'm meeting with Ben James, who's a I mean, his wife sit down every someday and they they weekend.
+
+🎤 SPEAKER_2 [1732s - 1732s]
+Wow.
+
+🎤 SPEAKER_0 [1733s - 1733s]
+He's got that kind of easy a good guy.
+
+🎤 SPEAKER_1 [1734s - 1736s]
+So we're gonna have a day together.
+
+🎤 SPEAKER_1 [1738s - 1743s]
+He's in our He's just become trachisty soon and also like bookkeeper slash her for now because I don't give too much share.
+
+🎤 SPEAKER_2 [1744s - 1744s]
+So how many?
+
+🎤 SPEAKER_1 [1745s - 1748s]
+But he will make sure we're properly budgeted.
+
+🎤 SPEAKER_5 [1751s - 1753s]
+So maybe two more generous kids. Yes.
+
+🎤 SPEAKER_4 [1755s - 1756s]
+Well, yeah.
+
+🎤 SPEAKER_1 [1757s - 1759s]
+Don't know you guys, we I'm really talked about giving
+
+🎤 SPEAKER_5 [1777s - 1779s]
+Yes.
+
+🎤 SPEAKER_1 [1779s - 1787s]
+If I if I don't speak for it. Snap. I can I do? I'll get But It's kinda like one though. Yeah.
+
+🎤 SPEAKER_5 [1794s - 1795s]
+Right. Yeah.
+
+🎤 SPEAKER_4 [1798s - 1798s]
+Yeah.
+
+🎤 SPEAKER_1 [1802s - 1806s]
+But, yeah, I guess we got for a little bit. Yeah. But you, what's Rod was what's the latest?
+
+🎤 SPEAKER_1 [1811s - 1812s]
+I've got second. Yeah.
+
+🎤 SPEAKER_5 [1815s - 1821s]
+What's she really cheese, and I think so, was that he would come along time or less time because we all love to use them. That's fair. The born.
+
+🎤 SPEAKER_5 [1822s - 1825s]
+For catalyst of but, you know, I really am not comfortable.
+
+🎤 SPEAKER_1 [1825s - 1826s]
+Right.
+
+🎤 SPEAKER_5 [1826s - 1827s]
+Which you really have.
+
+🎤 SPEAKER_1 [1827s - 1828s]
+And George just decide to is the really Right.
+
+🎤 SPEAKER_5 [1831s - 1834s]
+I think what we can mean here because Yeah.
+
+🎤 SPEAKER_1 [1835s - 1840s]
+Yeah. That was a bit of a theological tension dangling in air, wasn't it? Yeah.
+
+🎤 SPEAKER_5 [1840s - 1841s]
+In every churches.
+
+🎤 SPEAKER_5 [1844s - 1848s]
+Evaluation of how do you wanna express our comfort Yeah.
+
+🎤 SPEAKER_5 [1848s - 1851s]
+Without thinking we're going to Yeah.
+
+🎤 SPEAKER_1 [1851s - 1852s]
+On this. So we ask for moment. Yes.
+
+🎤 SPEAKER_5 [1854s - 1854s]
+I did my dissertation on it, Roger.
+
+🎤 SPEAKER_1 [1854s - 1877s]
+You know? Oh, yeah, man. You Advance as a whole. Yeah. Very interesting. This has made me much more con We've got some few full on eagle in advance. Oh. Don't see any anymore. They support milders. That doesn't mean leadership can't be mixed at the highest level. It's very confusing, but then you have a then on the other you ever come both ends of the but the vast majority, would consider soft complementary Yeah. Yeah.
+
+🎤 SPEAKER_2 [1877s - 1878s]
+I mean, I'm I know the I know guys in the Sorry, I'm sorry.
+
+🎤 SPEAKER_1 [1878s - 1880s]
+Publicly, it's sort of complimentary.
+
+🎤 SPEAKER_5 [1880s - 1881s]
+At least
+
+🎤 SPEAKER_2 [1881s - 1881s]
+Yeah.
+
+🎤 SPEAKER_1 [1884s - 1887s]
+Right. So we're the that's it. And I think being a Yes.
+
+🎤 SPEAKER_2 [1887s - 1888s]
+Yes.
+
+
+---
+
