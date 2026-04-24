@@ -1,0 +1,192 @@
+{
+  "id": "61a1ea87-a485-4969-992d-29a342562d19",
+  "created_at": "2026-04-24T07:43:54.994029+00:00",
+  "started_at": "2026-04-24T07:39:51.129936+00:00",
+  "finished_at": "2026-04-24T07:45:55.978058+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Discussing a Lightweight Bottle for France",
+    "overview": "The conversation focuses on comparing drink bottles, especially their thickness, weight, insulation, and overall feel. The participants like the nicer bottle for its lightness and thin design, and one person says they will definitely take it to France. They also note that it does keep drinks cold, but thicker bottles are more cumbersome to carry.",
+    "emoji": "🍼",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "d2d09734-790e-4ca2-9544-e3c6170cb389",
+      "text": "You may love to do a pollen, have they? It's in his bottle. It's a really nice bottle.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": -2.970741661556531e-07,
+      "end": 328.9413645172208,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8bcf0c58-e031-4e2f-b00e-38981e427a78",
+      "text": "Actually mean, it doesn't if it doesn't keep drinks cold like by insulated ones, can just carry it like that. There's something nice about it. I find it's nice thickness.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 333.4813445172208,
+      "end": 342.2013445172206,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "15c0fd6b-6393-43b8-8acd-42757a201ccd",
+      "text": "Yeah.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 342.2013445172206,
+      "end": 342.4413645172208,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "1336fc92-e240-4cea-ab7d-5a27511ab46d",
+      "text": "It's it's it's light as well, so I'm definitely gonna take this one to France. Mhmm. It's really light, but empty whereas my other method was.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 342.8413645172209,
+      "end": 349.60136451722065,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c7a444cb-c222-415a-9275-1bd6381b498c",
+      "text": "Are not. Yeah.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 349.6413645172206,
+      "end": 350.52138451722067,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7b00f5e9-8c0b-4ecd-b6c3-d05609bf4ef1",
+      "text": "Yep. And it's thin. Yeah. Thicker ones are bit of a pain.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 351.00136451722074,
+      "end": 354.28136451722094,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "db44e940-5439-493c-bc87-af99304b83d6",
+      "text": "This is like this is fun. But there's a bit bigger",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 354.6413645172206,
+      "end": 358.08136451722066,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c17c2e2f-e5d4-4147-80a2-2bbe192a7cf5",
+      "text": "Yeah.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 358.7376164627003,
+      "end": 359.1376164627004,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d43ee5ef-f1be-4649-b531-11b856dd5367",
+      "text": "It does keep things cold in there.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 361.0176164627005,
+      "end": 362.2976164627007,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "fe0334a8-bb22-48d3-93db-d2c9ae709c97",
+      "text": "It's quite a thick girth to it.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 362.2976164627007,
+      "end": 363.97761646270055,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "f4b85a9d-243d-43c1-b0df-57860954528a",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "61a1ea87-a485-4969-992d-29a342562d19",
+      "chunk_timestamps": [
+        1777016633.971,
+        1777016694.219,
+        1777016755.124,
+        1777016815.966
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-24T07:43:53.971000+00:00",
+      "duration": 302.997
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Bottle feel and design\n- Nice bottle, pleasant thickness\n- Light and thin, easy to carry\n- Thicker bottles are more annoying\n\n## Insulation and use\n- Doesn’t need to keep drinks cold\n- Still keeps things cold\n- Good for carrying drinks casually\n\n## Travel choice\n- Definitely taking this one to France\n- Light weight was a deciding factor\n- Previous bottle was heavier"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": null,
+  "call_id": null
+}
