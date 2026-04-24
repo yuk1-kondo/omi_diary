@@ -1159,3 +1159,170 @@ No help for him.
 
 ---
 
+
+
+## 📝 Chat Discusses Psalms, Cards, And Travel - 82f83439-8772-47bc-a005-e3033c051277
+
+**記録時間**: 2026-04-24 18:16:39
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 9s]
+One five four in, Barry. Blimey, who would have thought? Look what I saw that. Sorry.
+
+🎤 SPEAKER_0 [11s - 12s]
+So it's pink club card on.
+
+🎤 SPEAKER_1 [13s - 13s]
+Yeah.
+
+🎤 SPEAKER_0 [16s - 20s]
+There's a central point here where everyone comes to and it's carved in the Faster go up, slow to go down.
+
+🎤 SPEAKER_1 [20s - 35s]
+Right? Yay. Yay. So Psalms now at Jack and Rich. Listen to him. Yeah. A little bit more. Bit more motive so you can get a sense of what David was getting at when he was writing it.
+
+🎤 SPEAKER_1 [35s - 39s]
+Versus just Yeah. Versus just listening to it.
+
+🎤 SPEAKER_0 [39s - 45s]
+See if you don't know it. It's hard to I couldn't tell you what any of them are about. Couldn't can't remember any of them.
+
+🎤 SPEAKER_2 [47s - 47s]
+No.
+
+🎤 SPEAKER_1 [49s - 51s]
+Maybe that's just But it's a way to engage you.
+
+🎤 SPEAKER_0 [51s - 51s]
+Tune a little little bit.
+
+🎤 SPEAKER_1 [51s - 58s]
+For someone like me who's never really really enjoyed the songs as such. Read it and just it's like reading it.
+
+🎤 SPEAKER_0 [58s - 65s]
+No. No. No. I said I I completely agree in terms of why having it sung is a good work for thing.
+
+🎤 SPEAKER_1 [66s - 71s]
+It's like reading the lyrics of like a love song. Yeah.
+
+🎤 SPEAKER_0 [71s - 72s]
+No. I agree.
+
+🎤 SPEAKER_1 [72s - 78s]
+And then you don't get it. Like, imagine you never heard I would always love you just by reading the words. It feels a bit like that. Yeah.
+
+🎤 SPEAKER_0 [79s - 80s]
+I appreciate that.
+
+🎤 SPEAKER_1 [93s - 122s]
+Oh, come on.
+
+🎤 SPEAKER_1 [126s - 138s]
+We got bank card, Rachel. They tap the contactless is not working for some reason.
+
+🎤 SPEAKER_1 [154s - 158s]
+It's not it's not presented as an option. It's just saying insert card. That's all it'll do. Take it.
+
+🎤 SPEAKER_0 [159s - 161s]
+Most places do do contactless. Right?
+
+🎤 SPEAKER_1 [161s - 165s]
+It's got a contactless icon. You might have to come and type this in, babe.
+
+🎤 SPEAKER_2 [177s - 185s]
+Please. Yep.
+
+🎤 SPEAKER_0 [285s - 348s]
+Then a little sun trap, is really warm. If you're not, there's not all we're gonna do.
+
+🎤 SPEAKER_1 [350s - 351s]
+Well, we're not, wey.
+
+🎤 SPEAKER_1 [359s - 361s]
+It says I'm in the wrong lane. No.
+
+🎤 SPEAKER_0 [361s - 364s]
+Yeah. We need to go on the motorway because it's six minutes quicker.
+
+🎤 SPEAKER_1 [366s - 367s]
+I can't a minute.
+
+🎤 SPEAKER_0 [392s - 392s]
+Like
+
+🎤 SPEAKER_0 [395s - 402s]
+We now have to go to instruction 37.
+
+🎤 SPEAKER_2 [402s - 403s]
+Okay. Okay.
+
+🎤 SPEAKER_1 [411s - 415s]
+It's worth it in the end with the prices, but there we are. Oh, yeah. 29.
+
+🎤 SPEAKER_0 [415s - 424s]
+Yeah. It was it was thirty nine minutes Alright. There for me. 8. Twenty nine minutes in this space.
+
+🎤 SPEAKER_1 [424s - 462s]
+We'll be there just Some photos and share with the church. On Sunday.
+
+🎤 SPEAKER_1 [509s - 515s]
+Bottom, it'll open up to that. No. No. Think I have to get back to the Amsterdam world there before. Yes. Mean, already open.
+
+🎤 SPEAKER_1 [515s - 519s]
+Yeah. Yeah. Pull up from the the bottom. I've done that. No. From the bottom.
+
+🎤 SPEAKER_0 [519s - 523s]
+Yeah. I've done that. Oh, okay.
+
+🎤 SPEAKER_1 [523s - 532s]
+There's two ways to pull it out. Phone. Gestuless. Oh, no. Gestuless. So instead of having buttons, you just use swipes instead.
+
+🎤 SPEAKER_1 [532s - 537s]
+Once you're used to it, in about one hour of use, you get used to it.
+
+🎤 SPEAKER_2 [538s - 582s]
+It's short term, sorry.
+
+🎤 SPEAKER_1 [584s - 589s]
+So short term benefit. I say sorry, but that's my excuse. That's my explanation of me.
+
+🎤 SPEAKER_0 [589s - 594s]
+All I don't understand short term use. If you get out of bed to eight today, you're at bed at normal time.
+
+🎤 SPEAKER_1 [598s - 599s]
+I had You picked it. Thanks.
+
+🎤 SPEAKER_0 [600s - 606s]
+Well, if you feel like you need to bred balls in the morning at half as ten. It's not like you're like, right, I've got to do it. So it's energy, Rachel.
+
+🎤 SPEAKER_1 [606s - 607s]
+It sharpens the brain.
+
+🎤 SPEAKER_0 [608s - 609s]
+Why do you need a brain now?
+
+🎤 SPEAKER_1 [610s - 614s]
+Well, I don't need I need So even if you're like, right, I've got an exam or I'm going into a meeting after work till 09:00, I'm probably on my game.
+
+🎤 SPEAKER_0 [615s - 628s]
+I'm actually shocked because I've done a whole day work. Okay. Bye. Little bursts, wanna drive back forever. But just a half as ten before we go meet friends for a war.
+
+🎤 SPEAKER_0 [629s - 633s]
+It's just a bit like, you've never drunk as much as Red Bull before.
+
+🎤 SPEAKER_1 [634s - 635s]
+I just don't Babe, I've talked people would think I've a caffeine
+
+🎤 SPEAKER_1 [638s - 648s]
+I just told you it's short term use for my exams. Today, I decided, maybe I could do it a physical or pick me up. As I go forward and I was walking along the beach for a depth of dunes.
+
+🎤 SPEAKER_0 [649s - 654s]
+I don't think that's healthy though for you to go if I need a Red Bull to have a physical Well, you know, I I see it as a legitimate weights kick stuff in my active.
+
+🎤 SPEAKER_2 [662s - 662s]
+So
+
+
+---
+
