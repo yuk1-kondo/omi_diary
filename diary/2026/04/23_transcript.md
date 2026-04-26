@@ -2393,3 +2393,29 @@ I'm tidied up everything. As well. Classic.
 
 ---
 
+
+
+## 📝 Confusing Percentage Debate Continues - ea371661-ef71-4b3b-a60c-e6f607468f87
+
+**記録時間**: 2026-04-23 22:39:07
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 0s]
+Okay.
+
+🎤 SPEAKER_1 [98s - 101s]
+A piece? Down the middle. No.
+
+🎤 SPEAKER_4 [101s - 109s]
+No. No. No. No. That enough. The fuck you mean that's not enough, man? I got a lifestyle to maintain here.
+
+🎤 SPEAKER_1 [110s - 127s]
+Do you know what it At the prem doesn't a tribe?
+
+🎤 SPEAKER_5 [127s - 138s]
+That's a different way of calculating it. There's two ways of calculating percentage. If you have a $600 charge and you reduce it to 10, that's a 600% reduction. That you know I own
+
+
+---
+
