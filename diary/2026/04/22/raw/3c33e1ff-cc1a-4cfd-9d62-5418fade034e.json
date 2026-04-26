@@ -1,0 +1,77 @@
+{
+  "id": "3c33e1ff-cc1a-4cfd-9d62-5418fade034e",
+  "created_at": "2026-04-21T17:15:50.037115+00:00",
+  "started_at": "2026-04-21T17:12:14.241702+00:00",
+  "finished_at": "2026-04-21T17:17:42.960286+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Storage Extensions Are Available",
+    "overview": "The speaker clarifies that storage extensions can be purchased, emphasizing that it is possible to buy additional storage rather than being unable to do so.",
+    "emoji": "💾",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "50a456f6-782e-4641-9c4c-55f387ea1151",
+      "text": "Never. You can actually buy you can actually buy you can buy storage extensions. Yeah.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": -2.765655509051612e-07,
+      "end": 5.499999723434449,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157036,
+    "longitude": -3.2755472,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "886220be-fda1-467d-a840-cde70caeba8a",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "3c33e1ff-cc1a-4cfd-9d62-5418fade034e",
+      "chunk_timestamps": [
+        1776791793.517
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-21T17:16:33.517000+00:00",
+      "duration": 13.442
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Storage extensions\n- Can be bought\n- Mentioned as purchasable extensions\n- No other details given"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "66c1f6ee-d299-4332-9cbb-6adfb3f8462b",
+  "call_id": null
+}
