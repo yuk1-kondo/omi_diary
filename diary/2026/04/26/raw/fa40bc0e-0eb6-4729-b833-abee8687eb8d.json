@@ -1,0 +1,124 @@
+{
+  "id": "fa40bc0e-0eb6-4729-b833-abee8687eb8d",
+  "created_at": "2026-04-26T08:37:58.856956+00:00",
+  "started_at": "2026-04-26T08:38:11.245635+00:00",
+  "finished_at": "2026-04-26T08:39:39.707425+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Family Plans Around Church Duties",
+    "overview": "The conversation centers on family logistics and church commitments. One speaker tells Reese to do whatever he wants for the time being, while noting that if the boys end up seeing mum, they will simply carry on independently. The discussion then shifts to a headache that is making things difficult, with a suggestion to play guitar if needed. Finally, the speaker mentions praying for daddy, who has a bad headache but is still supposed to preach at church this morning and at another church in the afternoon up in the valleys.",
+    "emoji": "🙏",
+    "category": "family",
+    "action_items": [],
+    "events": [
+      {
+        "title": "Daddy Preaches At Church This Morning",
+        "description": "Daddy is scheduled to preach at church this morning despite having a bad headache.",
+        "start": "2026-04-26T00:00:00+00:00",
+        "duration": 120,
+        "created": false
+      },
+      {
+        "title": "Daddy Preaches At Another Church In Valleys",
+        "description": "Daddy is scheduled to preach at another church in the afternoon up in the valleys.",
+        "start": "2026-04-26T13:00:00+00:00",
+        "duration": 120,
+        "created": false
+      }
+    ]
+  },
+  "transcript_segments": [
+    {
+      "id": "0fbd8f58-2709-4230-bcb2-00c4152a5805",
+      "text": "You should do whatever you wanna do then, Reese. If me and the boys end up seeing mum or something, we'll just Yeah. Go on. Have good independently in that time.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": -4.3869018995223996e-07,
+      "end": 42.782540950775214,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "2ec04bb8-ef47-4a18-9fc4-1d2c550f1470",
+      "text": "Shall I? Yeah. That's a bit of something to do, unfortunately. It's probably the Pretty bad. But Play guitar then. You? Is that comes to it, and pray.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 42.952540950775216,
+      "end": 76.49312770843552,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "000a6eb5-82f6-466f-b34d-f20a49949c9e",
+      "text": "Do you want to come pray for daddy? He's got bad headache, and he's supposed to be preaching at church this morning. Daddy? Morning playing guitar, and he's preaching at another church this afternoon.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 77.35312770843552,
+      "end": 84.52917532920897,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d97185e1-35ac-4feb-bfd8-8b348676c87d",
+      "text": "Another church where? Yeah. Up in the valleys.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 85.16917532920897,
+      "end": 87.56917832920897,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157036,
+    "longitude": -3.2755472,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "3defc28c-747d-4238-86f9-e2cc4793e065",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "fa40bc0e-0eb6-4729-b833-abee8687eb8d",
+      "chunk_timestamps": [
+        1777192677.765,
+        1777192738.378
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-26T08:37:57.765000+00:00",
+      "duration": 113.535
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [],
+  "suggested_summarization_apps": [],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
