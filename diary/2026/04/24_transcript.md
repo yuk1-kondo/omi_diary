@@ -6137,3 +6137,23 @@ Police won't
 
 ---
 
+
+
+## 📝 Quick Offer Of Help - 6f442062-b8a4-4664-b6dc-72032229a1ca
+
+**記録時間**: 2026-04-24 17:20:21
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 294s]
+I'll give you second. One moment. One second. I'll give you a hand with that now.
+
+🎤 SPEAKER_0 [302s - 311s]
+Can you fit for it?
+
+🎤 SPEAKER_0 [315s - 344s]
+You okay?
+
+
+---
+
