@@ -1,0 +1,73 @@
+{
+  "id": "39863bbf-d35e-4a09-b532-34a2aac9d2bb",
+  "created_at": "2026-04-23T08:10:48.917946+00:00",
+  "started_at": "2026-04-23T08:11:42.368254+00:00",
+  "finished_at": "2026-04-23T08:11:44.386884+00:00",
+  "source": "omi",
+  "language": "japanese",
+  "structured": {
+    "title": "短い相槌の会話",
+    "overview": "会話は非常に短く、話者の一人が「Oh, yeah.」と相槌を打っただけで、具体的な議題や予定は確認できませんでした。",
+    "emoji": "💬",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "28d9ac6e-959a-4100-ace4-adda3144718f",
+      "text": "Oh, yeah.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.4337904253334273e-07,
+      "end": 0.8799996566208392,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "4f59eea9-4e59-43b4-963e-246d089a588f",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "39863bbf-d35e-4a09-b532-34a2aac9d2bb",
+      "chunk_timestamps": [
+        1776931847.434,
+        1776931907.806,
+        1776931967.857
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-23T08:10:47.434000+00:00",
+      "duration": 234.345
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 反応\n- 「Oh, yeah.」と返答した\n- 具体的な内容はなし\n- 会話は非常に短い\n\n## 次のステップ\n- 次の発言待ち"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
