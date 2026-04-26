@@ -2082,3 +2082,17 @@ I could go a £100 each for you. You've got sixty minutes. You ready? We're read
 
 ---
 
+
+
+## 📝 Heating Fuel Mentioned - c56f0149-a098-42a5-85a7-4ab2f8726c2a
+
+**記録時間**: 2026-04-21 19:25:55
+
+### STT生テキスト
+
+🎤 SPEAKER_7 [0s - 0s]
+Heating fuel.
+
+
+---
+
