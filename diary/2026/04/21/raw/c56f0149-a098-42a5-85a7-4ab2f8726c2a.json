@@ -1,0 +1,79 @@
+{
+  "id": "c56f0149-a098-42a5-85a7-4ab2f8726c2a",
+  "created_at": "2026-04-21T10:25:55.545550+00:00",
+  "started_at": "2026-04-21T10:26:32.265029+00:00",
+  "finished_at": "2026-04-21T10:26:34.020915+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Heating Fuel Mentioned",
+    "overview": "A very brief transcript mentions heating fuel, but provides no additional context, decisions, or actionable details.",
+    "emoji": "🔥",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "11eaa2ae-9381-4214-b45d-13677fb22065",
+      "text": "Heating fuel.",
+      "speaker": "SPEAKER_7",
+      "speaker_id": 7,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 3.264922270318493e-07,
+      "end": 0.7200003264924817,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157036,
+    "longitude": -3.2755472,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "f2dd2481-c367-439d-83e0-8823955a2646",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "c56f0149-a098-42a5-85a7-4ab2f8726c2a",
+      "chunk_timestamps": [
+        1776767154.635,
+        1776767215.127,
+        1776767275.828
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-21T10:25:54.635000+00:00",
+      "duration": 202.39499999999998
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+      "content": "Noted: **Heating fuel**."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
