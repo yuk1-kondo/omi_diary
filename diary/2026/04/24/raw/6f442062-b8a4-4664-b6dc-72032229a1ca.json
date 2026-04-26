@@ -1,0 +1,107 @@
+{
+  "id": "6f442062-b8a4-4664-b6dc-72032229a1ca",
+  "created_at": "2026-04-24T08:20:21.624575+00:00",
+  "started_at": "2026-04-24T08:16:52.571249+00:00",
+  "finished_at": "2026-04-24T08:22:37.940453+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Quick Offer Of Help",
+    "overview": "The speaker offers immediate help, asks whether someone can fit for it, and checks if they are okay. The exchange is brief and informal, focused on assisting with something right away.",
+    "emoji": "🤝",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "b8a122c2-c670-4692-b739-6ab2b6489424",
+      "text": "I'll give you second. One moment. One second. I'll give you a hand with that now.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 1.8118316802429035e-07,
+      "end": 294.027671012861,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "74685057-26d6-4389-b41b-6facfd7e9c21",
+      "text": "Can you fit for it?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 302.1476710128609,
+      "end": 311.23640542981684,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "968ee3af-7bdc-436d-b4c4-edd5a450daba",
+      "text": "You okay?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 315.12640542981626,
+      "end": 344.3708937549336,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157036,
+    "longitude": -3.2755472,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "27c3bb7b-81c0-4469-8de8-ea418b96b236",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "6f442062-b8a4-4664-b6dc-72032229a1ca",
+      "chunk_timestamps": [
+        1777018820.662,
+        1777018880.967,
+        1777018941.616,
+        1777019001.651,
+        1777019061.947
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-24T08:20:20.662000+00:00",
+      "duration": 274.887
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+      "content": "I’m not sure what you want me to do with that transcript.\n\nIf you want, I can:\n- extract diary/journal entries from it,\n- summarize the day,\n- or help rewrite the dialogue.\n\nFrom the transcript, I can currently capture these possible entries:\n\n1. “I’ll give you a hand with that now.”\n2. “Can you fit for it?”\n3. “You okay?”\n\nIf you’d like, I can also turn this into a clean daily log summary."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
