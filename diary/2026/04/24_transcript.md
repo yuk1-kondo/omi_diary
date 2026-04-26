@@ -6157,3 +6157,26 @@ You okay?
 
 ---
 
+
+
+## 📝 Discuss Lyrics Timing And Video Loading - 9543ea37-0992-4540-9de0-18f90fb98731
+
+**記録時間**: 2026-04-24 16:29:15
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 69s]
+Ja, Skijvonia. The lyrics. They're almost not quite on time, but they do reverse at a time, and it's very easy to pick up. So I do think it matters quite as much.
+
+🎤 SPEAKER_0 [69s - 78s]
+Yeah. The reverse at the time, that's the biggest win there is. They do a whole verse at once. Yeah. So this So you can see ahead.
+
+🎤 SPEAKER_1 [78s - 92s]
+This isn't perfect on it. But it's not awful. And we would need frankly, I find it really hard to find a little bit of videos that are just loaded videos and doubly then loaded videos that are
+
+🎤 SPEAKER_0 [92s - 93s]
+Yeah.
+
+
+---
+
