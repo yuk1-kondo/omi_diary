@@ -2419,3 +2419,17 @@ That's a different way of calculating it. There's two ways of calculating percen
 
 ---
 
+
+
+## 📝 質問のみの短い発話 - 3fdab666-4333-4ebb-a488-4660004af8f5
+
+**記録時間**: 2026-04-23 15:08:03
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 1s]
+Question.
+
+
+---
+
