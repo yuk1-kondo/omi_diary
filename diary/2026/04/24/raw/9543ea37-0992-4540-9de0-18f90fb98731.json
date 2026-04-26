@@ -1,0 +1,120 @@
+{
+  "id": "9543ea37-0992-4540-9de0-18f90fb98731",
+  "created_at": "2026-04-24T07:29:15.393162+00:00",
+  "started_at": "2026-04-24T07:29:54.329647+00:00",
+  "finished_at": "2026-04-24T07:31:28.249577+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Discuss Lyrics Timing And Video Loading",
+    "overview": "The participants discussed how the lyrics and timing work, noting that the lyrics are almost but not quite on time, with the reverse timing being the biggest advantage because it makes the flow easier to follow. They also observed that the system can show a whole verse at once so users can see ahead, though it is not perfect. The conversation briefly shifted to video loading, with one participant saying it is hard to find small videos that are already loaded or doubly loaded.",
+    "emoji": "🎵",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "7b4154a9-3d5f-44a3-a866-1ba256b4078c",
+      "text": "Ja, Skijvonia. The lyrics. They're almost not quite on time, but they do reverse at a time, and it's very easy to pick up. So I do think it matters quite as much.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": -3.0517776394844986e-07,
+      "end": 69.52965831756296,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "612ee1ae-a08e-4a4f-ad5e-824113606e1d",
+      "text": "Yeah. The reverse at the time, that's the biggest win there is. They do a whole verse at once. Yeah. So this So you can see ahead.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 69.52965831756296,
+      "end": 78.16966431756305,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "dd58ed96-8ecf-482d-81df-ce4f40957553",
+      "text": "This isn't perfect on it. But it's not awful. And we would need frankly, I find it really hard to find a little bit of videos that are just loaded videos and doubly then loaded videos that are",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 78.64965831756308,
+      "end": 92.63965831756309,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7c563073-b504-4672-a319-c9a7465f96f5",
+      "text": "Yeah.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 92.96965831756302,
+      "end": 93.36965831756311,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157036,
+    "longitude": -3.2755472,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "e9d21fea-e001-496f-8f7b-6bb9e2038287",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "9543ea37-0992-4540-9de0-18f90fb98731",
+      "chunk_timestamps": [
+        1777015755.066,
+        1777015816.069,
+        1777015876.763,
+        1777015937.155,
+        1777015997.853
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-24T07:29:15.066000+00:00",
+      "duration": 270.789
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Timing and lyrics\n- Lyrics are slightly off-beat\n- Reverse timing is easy to follow\n- Timing still matters a lot\n\n## Biggest advantage\n- Reverse timing is the main win\n- Whole verse plays at once\n- Lets you see ahead\n\n## Quality concerns\n- Not perfect overall\n- Not awful either\n- Hard to find loaded videos\n\n## Next steps\n- No clear next steps mentioned"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
