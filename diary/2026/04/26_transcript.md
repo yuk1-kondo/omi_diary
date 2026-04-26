@@ -185,3 +185,26 @@ I was like,
 
 ---
 
+
+
+## 📝 Family Plans Around Church Duties - fa40bc0e-0eb6-4729-b833-abee8687eb8d
+
+**記録時間**: 2026-04-26 17:37:58
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 42s]
+You should do whatever you wanna do then, Reese. If me and the boys end up seeing mum or something, we'll just Yeah. Go on. Have good independently in that time.
+
+🎤 SPEAKER_0 [42s - 76s]
+Shall I? Yeah. That's a bit of something to do, unfortunately. It's probably the Pretty bad. But Play guitar then. You? Is that comes to it, and pray.
+
+🎤 SPEAKER_0 [77s - 84s]
+Do you want to come pray for daddy? He's got bad headache, and he's supposed to be preaching at church this morning. Daddy? Morning playing guitar, and he's preaching at another church this afternoon.
+
+🎤 SPEAKER_0 [85s - 87s]
+Another church where? Yeah. Up in the valleys.
+
+
+---
+
