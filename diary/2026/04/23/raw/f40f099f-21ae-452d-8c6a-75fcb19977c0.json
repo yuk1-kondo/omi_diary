@@ -1,0 +1,73 @@
+{
+  "id": "f40f099f-21ae-452d-8c6a-75fcb19977c0",
+  "created_at": "2026-04-23T07:41:01.054341+00:00",
+  "started_at": "2026-04-23T07:41:01.445774+00:00",
+  "finished_at": "2026-04-23T07:41:05.336168+00:00",
+  "source": "omi",
+  "language": "japanese",
+  "structured": {
+    "title": "短い確認発言",
+    "overview": "Speaker 0 が「Okay」「Alright」と短く応答しただけで、具体的な議題や決定事項は確認できませんでした。",
+    "emoji": "🗣️",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "8264d9d1-70f4-4d8d-b9d3-308707c74405",
+      "text": "Okay. Alright.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.518344561191043e-07,
+      "end": 2.560099848165464,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "16f1639d-ecab-48b0-8bd2-e93546abcca6",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "f40f099f-21ae-452d-8c6a-75fcb19977c0",
+      "chunk_timestamps": [
+        1776930060.631,
+        1776930121.894,
+        1776930182.744
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-23T07:41:00.631000+00:00",
+      "duration": 136.515
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 会話は短く、内容の詳細は未確認\n- 具体的な話題は未確認\n- 進展や確認事項は未確認\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- もし必要なら、今日の会話で気になった点を1つだけメモしてください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
