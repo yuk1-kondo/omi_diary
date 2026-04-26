@@ -1,0 +1,119 @@
+{
+  "id": "c833b79e-edda-4552-b4c5-224c2dc53319",
+  "created_at": "2026-04-24T07:09:17.086051+00:00",
+  "started_at": "2026-04-24T07:07:20.066469+00:00",
+  "finished_at": "2026-04-24T07:11:06.146623+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Rich Salvages Item Before Lunch",
+    "overview": "A brief conversation about salvaging an item by finding the bolts and nut, with mention that it was placed on the wicker chair. The speakers also discuss whether to send someone today for lunchtime depending on the sun and UV rating, then end by wishing Jude a good day.",
+    "emoji": "🔧",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2ee7cecb-88fc-420c-ac0c-b687c7e9900d",
+      "text": "I mean, that one might still be able to be salvaged, Rich. I found I put it on the wicker chair there. I found the bolts. And the nut for it so my baby will save it.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 9.536734069115482e-09,
+      "end": 150.8238635730744,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8684aca6-00be-4da5-9294-81e0ac122c18",
+      "text": "Do you wanna send her today for lunchtime? Depends on what the sun does. The UV rating.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 153.0538625730744,
+      "end": 172.719057312012,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b046bc51-00be-4aed-a127-5adc1196c0a7",
+      "text": "Have a good day, Jude.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 190.65273653302046,
+      "end": 218.7317308330543,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b3d1a01a-5d26-44a3-8acf-896d797b7ae2",
+      "text": "Have a good day.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 224.59422850608905,
+      "end": 225.2342285060891,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4157036,
+    "longitude": -3.2755472,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "f9eb5f33-e972-41a2-b10a-6df05f43e2b6",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "c833b79e-edda-4552-b4c5-224c2dc53319",
+      "chunk_timestamps": [
+        1777014555.962,
+        1777014615.952,
+        1777014676.349,
+        1777014736.468
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-24T07:09:15.962000+00:00",
+      "duration": 284.508
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+      "content": "Diary entry saved.\n\n**Entry:**\n“Exactly: I mean, that one might still be able to be salvaged, Rich. I found I put it on the wicker chair there. I found the bolts. And the nut for it so my baby will save it.\n\nExactly: Do you wanna send her today for lunchtime? Depends on what the sun does. The UV rating.\n\nExactly: Have a good day, Jude.\n\nExactly: Have a good day.”"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
