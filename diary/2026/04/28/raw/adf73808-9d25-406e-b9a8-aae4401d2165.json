@@ -1,0 +1,104 @@
+{
+  "id": "adf73808-9d25-406e-b9a8-aae4401d2165",
+  "created_at": "2026-04-28T09:47:18.332584+00:00",
+  "started_at": "2026-04-28T09:45:19.796017+00:00",
+  "finished_at": "2026-04-28T09:48:22.837483+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Rachel and Fed Discuss Isolation",
+    "overview": "Fed says they feel \"pretty alone, but not alone,\" and Rachel responds that Fed was with them. Rachel then expresses intense self-loathing and distress, saying they feel like a horrible surrogate and are not fighting against their sin, describing their life as something they hate and want to be rid of.",
+    "emoji": "😔",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "5941dc58-1110-43f6-a558-6e4b8a37fdb5",
+      "text": "Pretty alone, but not alone.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "c84eef88-21ed-41e4-b0b7-06bf8d519764",
+      "start": 5.10990503244102e-08,
+      "end": 166.36635767592088,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "91451d0a-ba26-4de8-8849-b37b10b6186a",
+      "text": "You were with me.",
+      "speaker": "SPEAKER_8",
+      "speaker_id": 8,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 168.04605767592057,
+      "end": 168.84605767592075,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "59fd04f2-f313-4c62-9c49-74b021d33baa",
+      "text": "No, I just feel like I horrible disgusting serogato. Not fighting against my sin. My life, I hate it. Don't want it. Be rid of it.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 171.16605767592137,
+      "end": 182.52645767592094,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJOYHT0LgFbkgRE5FxQ6XwBCY",
+    "latitude": 51.4084611,
+    "longitude": -3.2532453,
+    "address": "37 Hillary Rise, Barry CF63 3HZ, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "e3cab538-4b69-48a1-963c-72d8fef11eec",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "adf73808-9d25-406e-b9a8-aae4401d2165",
+      "chunk_timestamps": [
+        1777369637.299,
+        1777369697.735
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-28T09:47:17.299000+00:00",
+      "duration": 182.038
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+      "content": "Captured journal entry:\n\n**Fed:** “Pretty alone, but not alone.”\n\n**Rachel:** “You were with me.”\n\n**Rachel:** “No, I just feel like I horrible disgusting serogato. Not fighting against my sin. My life, I hate it. Don't want it. Be rid of it.”"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
