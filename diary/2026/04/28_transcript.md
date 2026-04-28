@@ -7148,3 +7148,62 @@ No. That's fine. Cheers. Thanks. Bye.
 
 ---
 
+
+
+## 📝 User and Steve Address Baby Shower Concerns - 0c0f1b04-23f1-46e6-ab76-f1242f7672e3
+
+**記録時間**: 2026-04-28 21:16:39
+
+### STT生テキスト
+
+👤 あなた [0s - 18s]
+Yes I met with steve It was a really helpful time together. As I expected it would be. Basically, the way I went into it with him was coming from the angle of Chloe's WhatsApp about the baby shower.
+
+👤 あなた [22s - 30s]
+And how that is now causing confusion in the church. About our view on everything to do with this.
+
+👤 あなた [33s - 46s]
+Kinda reiterated to him about how a warm welcome perhaps is starting to be seen as in as in as an endorsement
+
+👤 あなた [51s - 57s]
+Reconfirm to him that our marriage our view of marriage is between a man and woman.
+
+👤 あなた [60s - 72s]
+That are supportful Sarah and Sophie is pastoral, but doesn't mean that we're endorsing. Them.
+
+👤 あなた [75s - 93s]
+Steve completely understood. He himself is really struggling with it. He shared with me how he has to kinda leave the room now when they're talking about the the because he he is a dissenting voice in the family.
+
+👤 あなた [94s - 96s]
+And how he he struggles with it.
+
+👤 あなた [101s - 119s]
+He says that Chloe and Rhino very emotive. And it can cause issues. I talked to him about how I said to him that I'm talking to him as a leader first, but also because it involves his family.
+
+👤 あなた [120s - 143s]
+I told him that I'd need to speak to Chloe. About her message. Mainly essentially, it's it's that there needs to be a sensitivity to the fact that many will hold a different theological conviction to her on this issue In fact, the church itself does as well.
+
+👤 あなた [144s - 171s]
+So she just needs to be mindful and aware of that and kind of rein it back in. We talked it through. Steve's advice was, he said, it's up to you how you want to do it, but it might be worth me priming her and Sophie and Sarah Just kind of break the ice a little bit Just mention that's, uh, again, that that the church position is and to be sensitive to others and to kind of reign it in.
+
+👤 あなた [172s - 176s]
+And then once he's done that, he's gonna let me know so I can meet with them as well.
+
+👤 あなた [179s - 192s]
+And the goal really is to kind of reduce the fallout if we can. Kind of simply reminding them all of the church position and just to be sensitive to the fact that others are not gonna see it the same way as them.
+
+👤 あなた [196s - 208s]
+So, yeah, it was a useful meeting. So that's the plan. He's gonna speak to them over the day or two. Let me know how it goes and then I'm gonna go and speak to them.
+
+👤 あなた [209s - 218s]
+But if we can keep it as simple as that, this is the church position Please be mindful of of other people's positions. Theological conviction.
+
+👤 あなた [221s - 222s]
+That might be enough.
+
+👤 あなた [226s - 237s]
+Time together. As I expect
+
+
+---
+
