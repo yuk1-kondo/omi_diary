@@ -845,3 +845,2510 @@ IP V ロック しか 対応 しない
 
 ---
 
+
+
+## 📝 Rachel Leads Breakfast And Encourages Alex - b9086fae-c802-44b5-9493-11f3d15a5f6d
+
+**記録時間**: 2026-04-28 17:24:29
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 0s]
+Kids.
+
+🎤 SPEAKER_1 [1s - 4s]
+Oh, yeah. Classic. On the last one. Of the group.
+
+🎤 SPEAKER_0 [4s - 5s]
+Okay.
+
+🎤 SPEAKER_1 [5s - 10s]
+What do you have in the room? So I'm gonna have a I've been there. But medium breakfast, is it? What size is it?
+
+🎤 SPEAKER_0 [10s - 11s]
+Yeah.
+
+🎤 SPEAKER_1 [14s - 15s]
+Why not? Eight and a cup of tea, please.
+
+🎤 SPEAKER_1 [19s - 34s]
+Oh. Beans or tomatoes of both. Oh, yes. Can I have both? No black pudding, please. That's alright. I know they're being quite brave. You know, it's never ever been a thing that You've enjoyed here.
+
+🎤 SPEAKER_3 [34s - 35s]
+It's not my
+
+🎤 SPEAKER_1 [36s - 39s]
+Yeah. It is some others the way.
+
+🎤 SPEAKER_1 [43s - 51s]
+Yeah. Or those, I think. You either love it.
+
+🎤 SPEAKER_2 [51s - 53s]
+I think they textured and everything else.
+
+🎤 SPEAKER_1 [53s - 54s]
+That's right. Yeah.
+
+🎤 SPEAKER_0 [57s - 57s]
+Interesting.
+
+🎤 SPEAKER_0 [96s - 96s]
+Alright.
+
+🎤 SPEAKER_3 [99s - 100s]
+She walked in her Oh, no.
+
+🎤 SPEAKER_1 [100s - 101s]
+Thank you.
+
+🎤 SPEAKER_1 [107s - 108s]
+Great. Thank you.
+
+🎤 SPEAKER_1 [111s - 117s]
+I put There's six of us. Yep. And then a cup of tea. Shall I wait for that? Saw oh, it's there. Sorry.
+
+🎤 SPEAKER_0 [117s - 117s]
+Blind us about. Okay.
+
+🎤 SPEAKER_1 [117s - 118s]
+Just transfer many over and
+
+🎤 SPEAKER_1 [123s - 173s]
+Oh, there we are. Gentlemen, hello.
+
+🎤 SPEAKER_0 [173s - 176s]
+How are you? Morning, How are you?
+
+🎤 SPEAKER_1 [178s - 187s]
+Very good Windy, very good. Well, since I've been able to come so this is nice. This is nice. And and from fact, I'm going for a large breakfast just to celebrate the fact.
+
+🎤 SPEAKER_1 [189s - 200s]
+Not normally. When you're regular, you can't do it. Well, some people can do a large everyday. Oh, no. They're good. Yeah. Yeah. Well, how are you all doing?
+
+🎤 SPEAKER_0 [200s - 202s]
+Yeah. Yeah. Good. Thank you. Yeah?
+
+🎤 SPEAKER_4 [204s - 204s]
+Rolling with the Oh, yeah.
+
+🎤 SPEAKER_1 [208s - 210s]
+Rolling with the punches. Is it so that's a boxing thing.
+
+🎤 SPEAKER_2 [210s - 210s]
+Right?
+
+🎤 SPEAKER_4 [211s - 211s]
+Boxing turn.
+
+🎤 SPEAKER_1 [211s - 214s]
+So when you when punch you, you kinda go the same way.
+
+🎤 SPEAKER_0 [214s - 216s]
+You move. You do just Yeah.
+
+🎤 SPEAKER_1 [218s - 219s]
+Doesn't get Roll roll with the punches, so it takes the sting out of it.
+
+🎤 SPEAKER_0 [221s - 224s]
+It doesn't mean to say you're not gonna get punched. Yeah. Yeah.
+
+🎤 SPEAKER_1 [228s - 233s]
+You will get Ain't that right? Every now and then, have a we have a break in between.
+
+🎤 SPEAKER_0 [234s - 237s]
+Yeah. So Oh.
+
+🎤 SPEAKER_4 [237s - 239s]
+Got a ball with the something that I'm aware of.
+
+🎤 SPEAKER_1 [239s - 242s]
+A few you had quite a few guys here last Tuesday, was it? Tuesday before?
+
+🎤 SPEAKER_4 [242s - 243s]
+Tuesday before. Tuesday Yeah.
+
+🎤 SPEAKER_1 [243s - 245s]
+Who was that then?
+
+🎤 SPEAKER_0 [245s - 248s]
+Was that just but Well, yeah. Yeah. Eggs.
+
+🎤 SPEAKER_4 [249s - 250s]
+I soon. I've never heard of them.
+
+🎤 SPEAKER_0 [250s - 251s]
+Oh, yeah.
+
+🎤 SPEAKER_4 [252s - 252s]
+Dad was here this morning.
+
+🎤 SPEAKER_1 [253s - 255s]
+Oh, Eric was here. Christian.
+
+🎤 SPEAKER_4 [255s - 258s]
+Came in the Jonathan's. Yeah.
+
+🎤 SPEAKER_1 [258s - 259s]
+Oh, Christian came. Oh, good.
+
+🎤 SPEAKER_4 [259s - 259s]
+Christian. Yeah.
+
+🎤 SPEAKER_0 [260s - 260s]
+Yeah.
+
+🎤 SPEAKER_4 [260s - 262s]
+He's been a cup a few times.
+
+🎤 SPEAKER_0 [262s - 264s]
+He made shots Sunday. He was a bit late.
+
+🎤 SPEAKER_4 [264s - 266s]
+He said, I was running a bit late, which is nice. Yeah.
+
+🎤 SPEAKER_1 [266s - 268s]
+Because Sarah away wedding Yeah.
+
+🎤 SPEAKER_0 [269s - 272s]
+Abroad. Yeah. So he came with his
+
+🎤 SPEAKER_1 [272s - 273s]
+Yeah.
+
+🎤 SPEAKER_4 [273s - 277s]
+So Yeah. Sometimes if you're running late, I said to You're bother, do you?
+
+🎤 SPEAKER_1 [279s - 281s]
+I said to I was I was impressed what you said.
+
+🎤 SPEAKER_4 [281s - 293s]
+I said, it's just a matter of me, you know, you're here. I said, well, even if you're here for parts of service, So Yeah. It was nice because, yeah, I was putting the stuff away, he come up to me me again before he left and said, I haven't said hello to you. So he said, I gotta come and do it before I leave.
+
+🎤 SPEAKER_0 [293s - 294s]
+Oh, yeah?
+
+🎤 SPEAKER_1 [294s - 295s]
+Yeah. Ask it.
+
+🎤 SPEAKER_0 [295s - 297s]
+Yeah. Yes.
+
+🎤 SPEAKER_4 [297s - 298s]
+We've had some good conversations with him. Yeah.
+
+🎤 SPEAKER_1 [299s - 301s]
+Have you? All good. Yeah.
+
+🎤 SPEAKER_0 [301s - 302s]
+That's good.
+
+🎤 SPEAKER_4 [303s - 305s]
+And then they can move in there, move in there.
+
+🎤 SPEAKER_1 [305s - 307s]
+Too sunny. Yeah.
+
+🎤 SPEAKER_4 [307s - 309s]
+They they were talking about Sully or roost.
+
+🎤 SPEAKER_0 [309s - 310s]
+Yeah.
+
+🎤 SPEAKER_4 [310s - 313s]
+Oh, roost. Trying to push them towards Sully they've settled on.
+
+🎤 SPEAKER_1 [313s - 314s]
+Oh, that makes more sense than roost, doesn't it?
+
+🎤 SPEAKER_0 [315s - 319s]
+They put an offer in on the in Sulliya that's gonna accept it.
+
+🎤 SPEAKER_1 [320s - 321s]
+Okay. Great.
+
+🎤 SPEAKER_4 [321s - 329s]
+And then the people buying their house from what I understand. I'm not sure which way Catherine did say.
+
+🎤 SPEAKER_6 [329s - 339s]
+I I didn't I don't remember, but either the people that they're buying the bungalow from want a short completion date or the people buying one house. And I think it's No.
+
+🎤 SPEAKER_1 [339s - 341s]
+It's fine. Yeah.
+
+🎤 SPEAKER_6 [341s - 347s]
+Want a short completion date. Because I think Catherine said, well, if push comes to the shelf, we have to put the stuff in store
+
+🎤 SPEAKER_0 [348s - 349s]
+It's only like moving with us through Oh, yes.
+
+🎤 SPEAKER_1 [350s - 352s]
+Jonathan will enjoy that. I'm sure. I'm sure.
+
+🎤 SPEAKER_6 [356s - 364s]
+I don't I I think I think I think Catherine said Eric said, oh, yeah. That might be handy because that means then we could decorate all of the bundle before we move in.
+
+🎤 SPEAKER_0 [364s - 366s]
+Yeah. No.
+
+🎤 SPEAKER_6 [366s - 368s]
+You'll be moving in and then we'll do it as we go along.
+
+🎤 SPEAKER_1 [370s - 374s]
+John Johnathan often does in law jokes. I don't think he's saying them as a joke. Think he's just been serious.
+
+🎤 SPEAKER_0 [378s - 378s]
+Yeah.
+
+🎤 SPEAKER_4 [379s - 395s]
+They're moving they're moving out, Jonathan and Katherine, so they can have somebody to stay but not to live in. Yeah. Yeah. But I I went there at a position. Tried to put him off through I did tell him. I said, listen. Yeah. That's it. One way and one way out. Yeah.
+
+🎤 SPEAKER_4 [396s - 398s]
+If there's a crash, you ain't getting it.
+
+🎤 SPEAKER_1 [398s - 404s]
+No. Yeah. It just feels like even though it's not that far away, just like a little bit disconnected, doesn't it? We we looked at roofs when we moved down.
+
+🎤 SPEAKER_4 [406s - 407s]
+We could have bought a lovely lovely properties out there.
+
+🎤 SPEAKER_0 [408s - 409s]
+Yeah.
+
+🎤 SPEAKER_6 [409s - 414s]
+We could have heard like a bigger house out there with more rooms and space and lounge.
+
+🎤 SPEAKER_0 [414s - 415s]
+Yeah.
+
+🎤 SPEAKER_6 [415s - 417s]
+But it just didn't feel right.
+
+🎤 SPEAKER_4 [417s - 417s]
+No.
+
+🎤 SPEAKER_6 [417s - 420s]
+You know, when we went out, I was saying to Ronnie There's something about roofs here.
+
+🎤 SPEAKER_0 [420s - 421s]
+My spirit.
+
+🎤 SPEAKER_6 [421s - 438s]
+Doesn't feel connected. Yeah. At peace with it. Yeah. It was also it's like it's just a bit it's not far out of Barry, but it is out of Barry. And it's like whole point of us moving really is to be somewhere where we can walk Yeah.
+
+🎤 SPEAKER_4 [438s - 441s]
+And we don't necessarily need to cars. If you start there, you'd be like Yeah.
+
+🎤 SPEAKER_1 [442s - 443s]
+You'd be in the car the whole time.
+
+🎤 SPEAKER_6 [443s - 453s]
+Yeah. We stayed in the town. Even though we wanted to go and live a little bit on the in the of a country.
+
+🎤 SPEAKER_4 [455s - 456s]
+But we're like, we're just gonna be backwards and forth.
+
+🎤 SPEAKER_0 [478s - 479s]
+Yeah.
+
+🎤 SPEAKER_6 [479s - 482s]
+And then it was close enough that you could go for half an hour Yeah.
+
+🎤 SPEAKER_0 [482s - 484s]
+And then pick it up again. Yeah.
+
+🎤 SPEAKER_1 [485s - 486s]
+So Yeah. No.
+
+🎤 SPEAKER_4 [487s - 490s]
+It makes a difference. It's always been that way. It's it's this as you say, it's disconnected.
+
+🎤 SPEAKER_6 [490s - 492s]
+It is disconnected. Yeah.
+
+🎤 SPEAKER_4 [493s - 495s]
+Older as well Yeah.
+
+🎤 SPEAKER_6 [496s - 499s]
+You know, certainly now with the cost of fuel
+
+🎤 SPEAKER_4 [500s - 500s]
+I'm doing it.
+
+🎤 SPEAKER_6 [500s - 504s]
+It. Yeah. I mean, like, it's nice Yeah.
+
+🎤 SPEAKER_4 [512s - 527s]
+It's because he wanted to. Different. Yeah. He passed away very young, but he passed away. And she moved back. But, like, she moved back to Bali.
+
+🎤 SPEAKER_4 [528s - 530s]
+Yeah. Because all the family got in anyway. Yeah.
+
+🎤 SPEAKER_0 [530s - 530s]
+No.
+
+🎤 SPEAKER_1 [531s - 535s]
+But he wanted to live down his I can imagine if you don't know the area and you're looking to be the closest family like you guys.
+
+🎤 SPEAKER_1 [535s - 548s]
+Yeah. It can seem like a viable option. Oh, absolutely. But then once you've moved here for a while you were And you did move there, you think, oh, I'm glad I didn't move to Roosnack because it's it is it is that that road makes it feel completely in place. Yeah.
+
+🎤 SPEAKER_1 [549s - 551s]
+In a way that study doesn't, you know.
+
+🎤 SPEAKER_4 [552s - 553s]
+Study is study sees. Yeah.
+
+🎤 SPEAKER_6 [553s - 555s]
+The community. But it's also, you
+
+🎤 SPEAKER_4 [555s - 556s]
+know, the bus rig, is there with me.
+
+🎤 SPEAKER_6 [557s - 561s]
+Yeah. You know, it it goes straight through the heart of it.
+
+🎤 SPEAKER_4 [561s - 561s]
+Yeah.
+
+🎤 SPEAKER_6 [562s - 565s]
+So, you know, your midpoint of the battery is me.
+
+🎤 SPEAKER_4 [569s - 576s]
+No. Not the of any, but you can you can it's probably the same distance. But maybe that you could walk
+
+🎤 SPEAKER_4 [580s - 584s]
+But you got doubts about whether you could walk the route. Yeah.
+
+🎤 SPEAKER_6 [584s - 584s]
+Yeah.
+
+🎤 SPEAKER_1 [585s - 593s]
+Well, you got Puff in between, haven't you? So there's there's never gonna be any houses on there. I can imagine, you know, maybe a hundred years or something, housing going all the way up that road.
+
+🎤 SPEAKER_1 [594s - 596s]
+And then it kind of will get connected eventually, I imagine.
+
+🎤 SPEAKER_6 [597s - 603s]
+That's what happens with these these little villagers Yeah.
+
+🎤 SPEAKER_1 [607s - 611s]
+Just the city starts In fact, is intro have you ever done a study on the history of Barry?
+
+🎤 SPEAKER_0 [611s - 611s]
+No.
+
+🎤 SPEAKER_1 [612s - 614s]
+It's very I haven't I've yeah.
+
+🎤 SPEAKER_6 [614s - 615s]
+I've I've quite through some of the histories of
+
+🎤 SPEAKER_0 [616s - 616s]
+Yeah.
+
+🎤 SPEAKER_6 [617s - 619s]
+I've looked at a lot of the pictures, but I've not done it.
+
+🎤 SPEAKER_1 [619s - 629s]
+No. You'd enjoy that. Because that's exactly what happened here. Like, as everywhere else, little villages suddenly become one one big one. Palmer Palmer Stone was an own thing.
+
+🎤 SPEAKER_1 [630s - 638s]
+Mustafair Devon, where we are, White Farm, that hole here. You got a little church right at bottom of the the hill. Have you have you seen that one? Little a little Anglican church at the bottom of them.
+
+🎤 SPEAKER_1 [639s - 641s]
+That was a little village, wasn't it?
+
+🎤 SPEAKER_1 [642s - 650s]
+And then you think and then very, very quickly over a period of a decade or two, all became one big town. Can you imagine the change that we've been for
+
+🎤 SPEAKER_6 [650s - 652s]
+But it's also pictures.
+
+🎤 SPEAKER_6 [655s - 658s]
+And it's like they were just we're we're basically railway lines.
+
+🎤 SPEAKER_0 [658s - 659s]
+Yeah.
+
+🎤 SPEAKER_6 [659s - 660s]
+The railway lines are going down down, Yeah.
+
+🎤 SPEAKER_2 [661s - 662s]
+Yeah.
+
+🎤 SPEAKER_6 [663s - 664s]
+And it's just like Yeah.
+
+🎤 SPEAKER_4 [664s - 666s]
+Then, know, the dock offices.
+
+🎤 SPEAKER_0 [666s - 667s]
+Yeah. I see the picture.
+
+🎤 SPEAKER_6 [667s - 668s]
+It's like an island.
+
+🎤 SPEAKER_1 [672s - 673s]
+Is that right? Wow.
+
+🎤 SPEAKER_4 [673s - 674s]
+We to we to go to Buddy Island over those rear, like, not.
+
+🎤 SPEAKER_5 [674s - 677s]
+Did you? Yeah.
+
+🎤 SPEAKER_0 [677s - 678s]
+Oh, yeah.
+
+🎤 SPEAKER_4 [678s - 682s]
+My my father's mate. Was crying.
+
+🎤 SPEAKER_4 [686s - 691s]
+He was the he'd we'd be running away from him. Sure. But then he'd say, I know who you are.
+
+🎤 SPEAKER_0 [692s - 693s]
+Why are you running? Yeah. Classic.
+
+🎤 SPEAKER_1 [694s - 696s]
+And that's different time in it.
+
+🎤 SPEAKER_2 [697s - 698s]
+We you have the the railway police officer.
+
+🎤 SPEAKER_6 [702s - 703s]
+Yeah.
+
+🎤 SPEAKER_4 [715s - 718s]
+Touched the line when the train was coming, it was pretty fatal.
+
+🎤 SPEAKER_2 [718s - 720s]
+Yeah.
+
+🎤 SPEAKER_1 [722s - 724s]
+We just You did have things infomercials that I had in the eighties.
+
+🎤 SPEAKER_4 [724s - 725s]
+We had to get to the island. No.
+
+🎤 SPEAKER_1 [730s - 736s]
+Just went down there. Brilliant. I used to walk her down the line. But have you yeah.
+
+🎤 SPEAKER_4 [736s - 742s]
+It's when you go over here at 76. Yeah. I spoke to Cai. You knocked on your door earlier.
+
+🎤 SPEAKER_1 [746s - 757s]
+Oh, Oh, man. If you this there's something nostalgic about that kind of Yeah. That kind of era. Have you if you go in Google Maps on your computer, not on your phone, you can the time machine thing. Have you ever done that?
+
+🎤 SPEAKER_6 [757s - 757s]
+Yes.
+
+🎤 SPEAKER_1 [758s - 764s]
+So there's a little tab right at the top left corner Yeah. Little like, a little cog or something. And you can go back to their earlier street views.
+
+🎤 SPEAKER_6 [765s - 765s]
+Yes.
+
+🎤 SPEAKER_1 [765s - 767s]
+Yeah. And so you can go back to 2010 or something.
+
+🎤 SPEAKER_2 [767s - 768s]
+Right.
+
+🎤 SPEAKER_1 [768s - 776s]
+And you can drive around like you would on the street view anyway. And your area, very, very different. Where you live now. Yeah. And you can have a quite you can walk around it essentially.
+
+🎤 SPEAKER_1 [776s - 782s]
+Yeah. And it's worth it. It's it's interesting to have a look. You see the Good Sheds in absolute their and everything, it's And when Sarah's parents came over, from South Africa, he he loves history.
+
+🎤 SPEAKER_6 [789s - 793s]
+Smart. And he wanted to know a bit the time.
+
+🎤 SPEAKER_2 [794s - 795s]
+So I I had lens booked.
+
+🎤 SPEAKER_6 [796s - 798s]
+Oh, yeah. I gave them to
+
+🎤 SPEAKER_1 [798s - 798s]
+Lee.
+
+🎤 SPEAKER_0 [799s - 801s]
+Oh. Sorry, sir.
+
+🎤 SPEAKER_6 [801s - 802s]
+He really enjoyed flicking through the Oh, yeah.
+
+🎤 SPEAKER_0 [803s - 806s]
+Walking away and breathing or something. No.
+
+🎤 SPEAKER_6 [807s - 810s]
+So I I before I sent it back, I went through it as Oh, yeah.
+
+🎤 SPEAKER_0 [810s - 813s]
+And we found the accent. We might We're our hat house is.
+
+🎤 SPEAKER_6 [813s - 815s]
+And I was like, oh my god. Yeah.
+
+🎤 SPEAKER_1 [818s - 821s]
+It was I mean, the whole area really was Well, like, it was aerial shots or something. The docks. Yeah.
+
+🎤 SPEAKER_6 [821s - 832s]
+Yeah. But what what officers. Yeah. They they had railway lines, in Brunswick.
+
+🎤 SPEAKER_0 [833s - 834s]
+Railway lines behind of them. Yeah.
+
+🎤 SPEAKER_6 [834s - 838s]
+And then the only way to get to it was I can't remember it's an overpass or an underpass.
+
+🎤 SPEAKER_0 [839s - 839s]
+Yeah.
+
+🎤 SPEAKER_1 [840s - 848s]
+I wonder if that end up it should be in the pass right by the office now where you go in the It might might have been that. Yeah. Because And then you kind of got to go under to get to it.
+
+🎤 SPEAKER_6 [858s - 860s]
+There was a road where you can travel to compared to how it is now, you see it it was an island.
+
+🎤 SPEAKER_0 [860s - 865s]
+Yeah. Was literally an island in the in the middle of complex Yeah.
+
+🎤 SPEAKER_2 [875s - 878s]
+City Oh, really nice. Was just the cool wagon.
+
+🎤 SPEAKER_1 [878s - 883s]
+Yeah? All the time. The second bigger coal port in the world and briefly the first biggest for well.
+
+🎤 SPEAKER_6 [887s - 889s]
+Dongs got so busy. Yeah.
+
+🎤 SPEAKER_6 [891s - 896s]
+And they were also then owned privately. Yeah. And they kept putting up the feeds.
+
+🎤 SPEAKER_0 [896s - 897s]
+Yeah.
+
+🎤 SPEAKER_6 [898s - 898s]
+For ships to dock.
+
+🎤 SPEAKER_0 [898s - 899s]
+Oh, yeah.
+
+🎤 SPEAKER_5 [899s - 901s]
+Birth there. Yeah.
+
+🎤 SPEAKER_4 [907s - 911s]
+Because they had like it was something ridiculous. Shit is just queuing up out Wow.
+
+🎤 SPEAKER_6 [911s - 913s]
+Waiting to go.
+
+🎤 SPEAKER_0 [913s - 915s]
+Wow.
+
+🎤 SPEAKER_1 [915s - 918s]
+So the tides not to be messed around with. You're gonna be about there.
+
+🎤 SPEAKER_6 [921s - 925s]
+Gotta So they decide that they a few Welsh people and Coal People Are Like, Well, Some Of The Cold
+
+🎤 SPEAKER_0 [925s - 926s]
+Magnets.
+
+🎤 SPEAKER_2 [926s - 928s]
+They're Like, Well, I'm Fed Up.
+
+🎤 SPEAKER_6 [928s - 930s]
+Paying The Prices In Cardiff.
+
+🎤 SPEAKER_0 [930s - 931s]
+Yeah. Let's invest in a new Yeah.
+
+🎤 SPEAKER_4 [932s - 933s]
+Which should be further along the Yeah.
+
+🎤 SPEAKER_6 [935s - 936s]
+And along the cut there.
+
+🎤 SPEAKER_5 [936s - 937s]
+Yeah.
+
+🎤 SPEAKER_6 [937s - 938s]
+So then we don't have to actually
+
+🎤 SPEAKER_0 [946s - 947s]
+Wow.
+
+🎤 SPEAKER_4 [947s - 953s]
+I think there's a picture. I I we used to see a lot of it, but when geese was here,
+
+🎤 SPEAKER_6 [953s - 954s]
+Yeah.
+
+🎤 SPEAKER_4 [954s - 963s]
+Blue lime was here as well. Yeah. And there's a picture of all birthed side by side. It's called for one side of the doctor.
+
+🎤 SPEAKER_5 [963s - 963s]
+Yeah.
+
+🎤 SPEAKER_6 [963s - 966s]
+And you can actually walk across it. Is that right?
+
+🎤 SPEAKER_1 [966s - 968s]
+Yeah.
+
+🎤 SPEAKER_6 [968s - 982s]
+Do you know we Buildford Haven used to have that, and in its haven, it was a big fishing port. And I saw pictures when I was stationed down there. I saw pictures of the dog, and it was just like it was just crammed full of fishing fleets.
+
+🎤 SPEAKER_0 [982s - 984s]
+Yeah.
+
+🎤 SPEAKER_6 [984s - 989s]
+That's when we had own fishing fleets. Yeah. Yeah. And literally, the store is where you walk from deck to deck to deck to get to the other side.
+
+🎤 SPEAKER_0 [992s - 995s]
+Is that right? Wow. Right. It's an error. Right?
+
+🎤 SPEAKER_1 [999s - 1000s]
+And then the New economic zone as it was.
+
+🎤 SPEAKER_6 [1002s - 1005s]
+Then it became Spanish. It was on Spanish. Yeah.
+
+🎤 SPEAKER_2 [1005s - 1005s]
+Yeah.
+
+🎤 SPEAKER_5 [1009s - 1010s]
+Like, there's a blue Cool cross.
+
+🎤 SPEAKER_1 [1019s - 1021s]
+Is that right?
+
+🎤 SPEAKER_6 [1021s - 1026s]
+Well, I was talking to Len. My neighbor, and he he's lived in Barrie all the time.
+
+🎤 SPEAKER_5 [1026s - 1029s]
+And he said that front of Asking for
+
+🎤 SPEAKER_2 [1029s - 1029s]
+Barrie.
+
+🎤 SPEAKER_6 [1030s - 1045s]
+That way the military ships come in Oh, mate.
+
+🎤 SPEAKER_3 [1045s - 1048s]
+So you'd get, like, destroyer or someone come in.
+
+🎤 SPEAKER_0 [1049s - 1049s]
+Yeah.
+
+🎤 SPEAKER_2 [1049s - 1050s]
+Right. Like, a navy date.
+
+🎤 SPEAKER_6 [1050s - 1051s]
+Yeah.
+
+🎤 SPEAKER_0 [1053s - 1054s]
+And then all the kids, you could go on board and they'd show Oh, really?
+
+🎤 SPEAKER_2 [1054s - 1055s]
+Yeah.
+
+🎤 SPEAKER_5 [1055s - 1055s]
+Nice little recruitment for the Yeah.
+
+🎤 SPEAKER_6 [1057s - 1059s]
+He said they used to do a lot.
+
+🎤 SPEAKER_5 [1059s - 1060s]
+No.
+
+🎤 SPEAKER_6 [1061s - 1066s]
+But he was saying he just all the all the houses where Astra and that was always land and you just cross it. To go up over to the island.
+
+🎤 SPEAKER_4 [1066s - 1081s]
+When Asda was, was the five tanks. Was it? People used to say Oh, yeah. Yeah. Because of the and all that. If you go to America, there's no they don't have any of those outcomings.
+
+🎤 SPEAKER_4 [1081s - 1086s]
+Within 200 miles of their house. Because yeah. Yeah. This is too dangerous.
+
+🎤 SPEAKER_0 [1086s - 1086s]
+Yeah.
+
+🎤 SPEAKER_4 [1086s - 1094s]
+And people used to say, oh, if that goes up, I said, listen. Worry about that going up. It's the tanks you gotta worry about. Yeah. Because Yeah.
+
+🎤 SPEAKER_4 [1095s - 1098s]
+We wouldn't have known anything if I don't wanna have gone up.
+
+🎤 SPEAKER_1 [1098s - 1101s]
+Yeah. What what was do know what was stored in these tanks there?
+
+🎤 SPEAKER_2 [1101s - 1101s]
+Yeah.
+
+🎤 SPEAKER_4 [1101s - 1104s]
+It was all sorts of fuel and whatever. Yeah.
+
+🎤 SPEAKER_2 [1104s - 1105s]
+Yeah.
+
+🎤 SPEAKER_4 [1105s - 1109s]
+Yeah. It took them think it was something like five years.
+
+🎤 SPEAKER_2 [1109s - 1109s]
+Yeah.
+
+🎤 SPEAKER_4 [1109s - 1115s]
+Once they took the tanks away, they took them five years to decontaminate the ground.
+
+🎤 SPEAKER_0 [1115s - 1116s]
+Do it? Yeah.
+
+🎤 SPEAKER_4 [1117s - 1119s]
+Before they could build on it. I know.
+
+🎤 SPEAKER_6 [1120s - 1129s]
+We when I lived in Packertsdale, we had Texaco, we on our side of the hay and it was around the coast.
+
+🎤 SPEAKER_6 [1131s - 1140s]
+And it's like, that blows up, and it did blow up once, because I was living there. I heard this loud bang I heard. Oh, all all the light. I was off for unfortunately, on my weekend off.
+
+🎤 SPEAKER_0 [1140s - 1141s]
+Oh, yeah.
+
+🎤 SPEAKER_3 [1141s - 1142s]
+And I and it was we had a lovely day.
+
+🎤 SPEAKER_6 [1143s - 1147s]
+Mhmm. And all of sudden, went really cloudy, and then the thunder and light
+
+🎤 SPEAKER_6 [1152s - 1155s]
+Wow. Part of the refinery.
+
+🎤 SPEAKER_1 [1156s - 1157s]
+So I did all Bit of an engineering feel, that, innit?
+
+🎤 SPEAKER_6 [1157s - 1158s]
+Yeah.
+
+🎤 SPEAKER_0 [1158s - 1159s]
+So Kinda like the hinting.
+
+🎤 SPEAKER_4 [1159s - 1161s]
+Were protected because it was around the the coastline.
+
+🎤 SPEAKER_6 [1163s - 1171s]
+Was around the bay. Oh, yeah. Now Milford Haven, they is a refinery on the other side of the haven. Mhmm.
+
+🎤 SPEAKER_5 [1171s - 1172s]
+Omi.
+
+🎤 SPEAKER_3 [1172s - 1173s]
+And that exploded one way.
+
+🎤 SPEAKER_6 [1174s - 1183s]
+And all the houses living opposite, shock waves were straight across the haven and put a lot of the windows For the windows out.
+
+🎤 SPEAKER_0 [1183s - 1184s]
+Houses that were facing it. Yeah. Wow.
+
+🎤 SPEAKER_6 [1185s - 1189s]
+And that was only a small explosion. Yeah. If any of these go up, Yeah.
+
+🎤 SPEAKER_0 [1189s - 1191s]
+Well, don't worry, guys.
+
+🎤 SPEAKER_1 [1191s - 1193s]
+We'll got Hinkley Point across the way now. Know. Nuclear power station.
+
+🎤 SPEAKER_6 [1198s - 1199s]
+That goes up then Well, there's I know I'm sure I'm sure Putin's got it on his Yeah.
+
+🎤 SPEAKER_0 [1200s - 1206s]
+That's right. The cruise missile over there. Yeah. Next thing, though, the whole Southwest is You do have to be completed.
+
+🎤 SPEAKER_4 [1206s - 1207s]
+Yeah.
+
+🎤 SPEAKER_0 [1208s - 1209s]
+Yeah. Well, there we are.
+
+🎤 SPEAKER_1 [1209s - 1212s]
+So why why worry about these things, No.
+
+🎤 SPEAKER_6 [1213s - 1213s]
+No.
+
+🎤 SPEAKER_0 [1214s - 1215s]
+No. It's fine.
+
+🎤 SPEAKER_4 [1217s - 1219s]
+It's a nice in the building. It's a nice glow in the night.
+
+🎤 SPEAKER_0 [1220s - 1221s]
+Yeah. All the yeah.
+
+🎤 SPEAKER_5 [1221s - 1222s]
+All the lights set on all the
+
+🎤 SPEAKER_0 [1222s - 1223s]
+Yeah.
+
+🎤 SPEAKER_1 [1223s - 1232s]
+And they got we they got the biggest crane in the world there that that what's it called? I had a name, a funny name like Gary, but it Gary, was something like that. And it's the biggest one there in the world.
+
+🎤 SPEAKER_0 [1232s - 1233s]
+Yeah.
+
+🎤 SPEAKER_5 [1233s - 1233s]
+Wow.
+
+🎤 SPEAKER_1 [1234s - 1237s]
+I don't know if they hide it in. I don't know if it's still there, but it was.
+
+🎤 SPEAKER_6 [1237s - 1241s]
+It's a Where are they? To? I mean, where are they due to finish? Build?
+
+🎤 SPEAKER_1 [1242s - 1245s]
+I mean, that's I think by the end of this decade, isn't it? I thought I thought.
+
+🎤 SPEAKER_5 [1245s - 1245s]
+Five or ten years.
+
+🎤 SPEAKER_1 [1245s - 1247s]
+Been going a long time, hasn't it? I know.
+
+🎤 SPEAKER_4 [1247s - 1247s]
+Know.
+
+🎤 SPEAKER_1 [1257s - 1272s]
+I That'd be really good for Britain if we can get it done. But we we need need to be We do. We do. That's why I'm a big fan of what Ahmed Aban's doing at the minute. He's kind of saying, it's a matter of national security that we get off these fossil fuels as quick as we can.
+
+🎤 SPEAKER_1 [1273s - 1274s]
+And so, man.
+
+🎤 SPEAKER_6 [1276s - 1279s]
+I almost think they've been a bit narrow minded too.
+
+🎤 SPEAKER_2 [1281s - 1282s]
+Close off using the fossil fuels we've got when we're buying from Norway.
+
+🎤 SPEAKER_0 [1284s - 1286s]
+Yeah. You know?
+
+🎤 SPEAKER_1 [1286s - 1297s]
+The the way it is though, if we take more wells up in north in the Sea fields, it won't take a penny off. Our bills. No. Won't. No. Because it's sold on the which is crazy. It'll raise tax Yeah.
+
+🎤 SPEAKER_6 [1297s - 1299s]
+Yeah. Because they sell it on the open market.
+
+🎤 SPEAKER_1 [1300s - 1301s]
+International market. Yeah. International market.
+
+🎤 SPEAKER_6 [1301s - 1305s]
+So then we get tax revenue from it.
+
+🎤 SPEAKER_0 [1305s - 1307s]
+Stay coming back into the economy. Yeah.
+
+🎤 SPEAKER_6 [1308s - 1309s]
+And they could energy deals that they chose.
+
+🎤 SPEAKER_0 [1309s - 1312s]
+Yeah. Yeah. They put it into other stuff.
+
+🎤 SPEAKER_6 [1312s - 1312s]
+It's a tax earner.
+
+🎤 SPEAKER_0 [1312s - 1313s]
+Yeah.
+
+🎤 SPEAKER_1 [1319s - 1324s]
+I think so this guy so France is just cover the new thing at any car parks with 80 spaces or or more. Have to put solar panels roofing on.
+
+🎤 SPEAKER_1 [1325s - 1334s]
+Spain is about a few years ahead of us. And then in four or five years, they've completely transformed the they've not been they've not been hit by this war at all in Spain because of the renewables.
+
+🎤 SPEAKER_2 [1336s - 1338s]
+Yes.
+
+🎤 SPEAKER_2 [1343s - 1344s]
+2030.
+
+🎤 SPEAKER_1 [1344s - 1345s]
+It is safe just yeah.
+
+🎤 SPEAKER_6 [1348s - 1351s]
+So anyway I think that's the small I'm sure that's I think it's there in one of them.
+
+🎤 SPEAKER_1 [1351s - 1353s]
+It's meant to be done by '26, apparently.
+
+🎤 SPEAKER_5 [1358s - 1360s]
+But it's been kicking energy infrastructure.
+
+🎤 SPEAKER_0 [1360s - 1361s]
+Yeah. It's really Yeah.
+
+🎤 SPEAKER_1 [1361s - 1373s]
+We do need to I mean, I don't disagree about using the gas and the gas fields, but we did the best thing to do is I don't know, you know, I know why it has been happening, all new build should have sort of handles mandatorily put on it.
+
+🎤 SPEAKER_1 [1375s - 1383s]
+In fact, it was like Oh, you know? Vast well, there's been days in a row where we just been on renewables now and that you but because the price is linked to gas prices, Hello.
+
+🎤 SPEAKER_1 [1384s - 1384s]
+It makes it very expensive.
+
+🎤 SPEAKER_1 [1390s - 1394s]
+That's right. Modular nuclear stations. That's right. Yeah.
+
+🎤 SPEAKER_4 [1394s - 1395s]
+It's again.
+
+🎤 SPEAKER_1 [1397s - 1404s]
+Yeah. They're no. They're gonna go for it, apparently. Small modular nuclear stations. I Which supposedly quicker to build, but I can't imagine they're that quick.
+
+🎤 SPEAKER_4 [1404s - 1404s]
+Do you know what they Yeah.
+
+🎤 SPEAKER_6 [1405s - 1410s]
+Pamper. It's become a bit of a Uh-huh. Entitled. Energy Yeah.
+
+🎤 SPEAKER_0 [1410s - 1412s]
+It should be. Area.
+
+🎤 SPEAKER_1 [1412s - 1413s]
+It's mad that this estuary is not being used for that.
+
+🎤 SPEAKER_2 [1413s - 1414s]
+Well, this is the second highest drop.
+
+🎤 SPEAKER_6 [1417s - 1420s]
+Yeah. Cross on sea levels.
+
+🎤 SPEAKER_5 [1420s - 1422s]
+Think Canada somewhere in Canada is caught the highest somewhere.
+
+🎤 SPEAKER_3 [1454s - 1455s]
+Ja, smaad. Ja?
+
+🎤 SPEAKER_2 [1466s - 1467s]
+Yeah.
+
+🎤 SPEAKER_3 [1467s - 1469s]
+It's become the test bed.
+
+🎤 SPEAKER_0 [1469s - 1469s]
+That's it.
+
+🎤 SPEAKER_5 [1470s - 1471s]
+They've won a little bit Yeah.
+
+🎤 SPEAKER_1 [1481s - 1484s]
+Amazing. That that's the way to do it.
+
+🎤 SPEAKER_1 [1489s - 1510s]
+Not buy? Well, oil lobbies are very powerful, unfortunately. But it's coming to an end. It's inevitable. I think some of would of the guys with the IEAC or something, one of the economists will global kind of oil industry. And he said this year around was then irreversible damage to the oil industry that it's made everyone pit. It's a massive massive pivotal moment.
+
+🎤 SPEAKER_1 [1510s - 1513s]
+From shifts from fossil fuels to renewables.
+
+🎤 SPEAKER_6 [1513s - 1516s]
+People have woken up to the fact that they can't rely It's not just a woke thing anymore.
+
+🎤 SPEAKER_1 [1517s - 1523s]
+It's actually a mass matter of you know, national security, financial security. Hello.
+
+🎤 SPEAKER_1 [1528s - 1529s]
+Yeah. That's right.
+
+🎤 SPEAKER_0 [1529s - 1531s]
+People fell over there. It just shows you right, typical in there.
+
+🎤 SPEAKER_1 [1538s - 1541s]
+Well, they haven't got any expertise in there. They've got law. Do not.
+
+🎤 SPEAKER_2 [1541s - 1541s]
+Yeah.
+
+🎤 SPEAKER_6 [1541s - 1543s]
+And I'm sure the orange coleside brand.
+
+🎤 SPEAKER_3 [1544s - 1545s]
+That to do
+
+🎤 SPEAKER_0 [1551s - 1552s]
+Yeah.
+
+🎤 SPEAKER_1 [1552s - 1564s]
+It's it's typical of the the The the well, let's put the the the the the the nasty sides of American kind of acceptance But yeah. Well, we'll see what happens.
+
+🎤 SPEAKER_0 [1567s - 1569s]
+But it's it's it's a turning moment, and I think everyone's fed up with him.
+
+🎤 SPEAKER_1 [1571s - 1578s]
+Everyone's it's two massive shocks now, isn't it? Two massive economic shocks because of Putin in the Ukraine. So let's let's get let's get let's get this sorted.
+
+🎤 SPEAKER_2 [1582s - 1584s]
+Yeah. Imagine. It. Different world.
+
+🎤 SPEAKER_0 [1584s - 1584s]
+There we are.
+
+🎤 SPEAKER_1 [1584s - 1591s]
+At least he at least he faked in ever another Well, yeah. He's he's feeling a bit missed out now, ain't he?
+
+🎤 SPEAKER_4 [1592s - 1593s]
+Nobody's talking about him.
+
+🎤 SPEAKER_5 [1593s - 1594s]
+No.
+
+🎤 SPEAKER_1 [1594s - 1599s]
+This is why the reform kind of idea to get scrap all the net zero things is looking increasingly stupid.
+
+🎤 SPEAKER_0 [1600s - 1601s]
+In my view.
+
+🎤 SPEAKER_6 [1601s - 1605s]
+I think, again, that that's trying to appeal to But they don't need to scrap it.
+
+🎤 SPEAKER_4 [1606s - 1610s]
+They just need to defined.
+
+🎤 SPEAKER_3 [1610s - 1614s]
+Yeah. So you have the balance of the here and now. We need energy for here and now.
+
+🎤 SPEAKER_4 [1614s - 1615s]
+Yeah.
+
+🎤 SPEAKER_0 [1615s - 1615s]
+Yep.
+
+🎤 SPEAKER_6 [1615s - 1621s]
+But in the future, long term, I agree with you. Right? You need to be self sufficient and be eco friendly. Yeah.
+
+🎤 SPEAKER_1 [1622s - 1633s]
+So The solar solar panels have got so cheap now because of the way China's be as you said, they've they've over the last three years, they've produced enough energy to power most of Europe and over years, massive. So the pounds are so so cheap now.
+
+🎤 SPEAKER_1 [1634s - 1640s]
+There's no reason to to take it down the down down the down the road. If if Spain can turn it around in a few years, we can.
+
+🎤 SPEAKER_6 [1645s - 1648s]
+Discovered they put chips into their solar panels.
+
+🎤 SPEAKER_5 [1648s - 1649s]
+Oh, yeah.
+
+🎤 SPEAKER_6 [1649s - 1654s]
+So they can have operate them remotely. So if they wanted to Yeah. They could switch off all your energy Oh, yeah.
+
+🎤 SPEAKER_0 [1654s - 1655s]
+Hopefully. Yeah.
+
+🎤 SPEAKER_6 [1656s - 1660s]
+And they discovered that they've implanted these into their body of their Oh, how convenient.
+
+🎤 SPEAKER_0 [1660s - 1662s]
+Yeah.
+
+🎤 SPEAKER_1 [1663s - 1664s]
+So it's Is that what was that company that another one.
+
+🎤 SPEAKER_6 [1665s - 1666s]
+Door entry into Course out.
+
+🎤 SPEAKER_0 [1666s - 1667s]
+Yeah.
+
+🎤 SPEAKER_1 [1668s - 1675s]
+Similar to all these Chinese cars, one I'm driving. Got a camera looking at you. Yeah. You got a camera looking at the road. Nice little intelligence gathering tool.
+
+🎤 SPEAKER_2 [1675s - 1676s]
+That's what they say.
+
+🎤 SPEAKER_1 [1677s - 1678s]
+But frankly, you know.
+
+🎤 SPEAKER_6 [1681s - 1686s]
+All these all these fighter jets and sellers and whatever, they got a kill switch they can hit if they wanted to.
+
+🎤 SPEAKER_1 [1687s - 1688s]
+Yep. It's man.
+
+🎤 SPEAKER_0 [1689s - 1689s]
+Yeah.
+
+🎤 SPEAKER_1 [1689s - 1690s]
+It's it's crazy crazy where we live in.
+
+🎤 SPEAKER_1 [1703s - 1705s]
+Am I the only one having breakfast?
+
+🎤 SPEAKER_0 [1706s - 1706s]
+Sorry.
+
+🎤 SPEAKER_1 [1709s - 1711s]
+Sorry. Get in your way.
+
+🎤 SPEAKER_2 [1711s - 1711s]
+Yeah.
+
+🎤 SPEAKER_0 [1712s - 1717s]
+Alex. He's gone. I'm gone for a breakfast sandwich this morning. Oh, well done.
+
+🎤 SPEAKER_6 [1717s - 1718s]
+Oh, that looks good.
+
+🎤 SPEAKER_0 [1718s - 1719s]
+That looks good.
+
+🎤 SPEAKER_4 [1719s - 1721s]
+Oh, I used to work in Avon though.
+
+🎤 SPEAKER_1 [1722s - 1723s]
+Well, hang on a minute, Odi.
+
+🎤 SPEAKER_0 [1723s - 1724s]
+No. No.
+
+🎤 SPEAKER_2 [1724s - 1724s]
+No. No.
+
+🎤 SPEAKER_1 [1724s - 1728s]
+Gotta get some HP on that bad boy. You can't you can't be having it with HP.
+
+🎤 SPEAKER_4 [1738s - 1741s]
+This bacon in the factory in the morning.
+
+🎤 SPEAKER_1 [1741s - 1742s]
+It was all cheap.
+
+🎤 SPEAKER_5 [1747s - 1750s]
+C'est moi it was something stupid like those two fold fishing.
+
+🎤 SPEAKER_0 [1750s - 1752s]
+Yes. Yeah.
+
+🎤 SPEAKER_1 [1752s - 1753s]
+Do eat it before you have any medications, you say?
+
+🎤 SPEAKER_0 [1753s - 1755s]
+Oh, after. After. Yeah.
+
+🎤 SPEAKER_1 [1760s - 1762s]
+No. I see. Have you had them already?
+
+🎤 SPEAKER_0 [1763s - 1763s]
+Have you had medication.
+
+🎤 SPEAKER_0 [1765s - 1768s]
+I'm I do like to climb. Yeah. Oh, yeah.
+
+🎤 SPEAKER_4 [1768s - 1770s]
+I'm in charge of it.
+
+🎤 SPEAKER_0 [1770s - 1771s]
+Now. For Oh, yeah.
+
+🎤 SPEAKER_5 [1771s - 1772s]
+Right.
+
+🎤 SPEAKER_0 [1772s - 1773s]
+How's that going to?
+
+🎤 SPEAKER_2 [1775s - 1776s]
+Going bigger.
+
+🎤 SPEAKER_0 [1777s - 1777s]
+Yeah.
+
+🎤 SPEAKER_3 [1780s - 1781s]
+Half of it now.
+
+🎤 SPEAKER_0 [1781s - 1782s]
+Yeah. Very good.
+
+🎤 SPEAKER_4 [1784s - 1786s]
+But I went to the system. Yeah.
+
+🎤 SPEAKER_5 [1791s - 1791s]
+Yeah.
+
+🎤 SPEAKER_0 [1792s - 1794s]
+Oh, good. Yeah.
+
+🎤 SPEAKER_1 [1798s - 1801s]
+How often are they coming in, Tim? How often is the care we're coming in?
+
+🎤 SPEAKER_0 [1810s - 1811s]
+Two a day. One time.
+
+🎤 SPEAKER_4 [1835s - 1837s]
+So they come within the time slot.
+
+🎤 SPEAKER_2 [1837s - 1838s]
+Yeah.
+
+🎤 SPEAKER_4 [1839s - 1840s]
+You found it a bit haven't you, at the time?
+
+🎤 SPEAKER_6 [1840s - 1841s]
+Really?
+
+🎤 SPEAKER_0 [1841s - 1841s]
+Yeah.
+
+🎤 SPEAKER_5 [1841s - 1841s]
+Yeah.
+
+🎤 SPEAKER_1 [1843s - 1847s]
+A bit of anxiety to make sure that you're home in for when they're there and everything.
+
+🎤 SPEAKER_4 [1847s - 1848s]
+Yeah. Nice system.
+
+🎤 SPEAKER_2 [1848s - 1849s]
+Okay. No. No. You get me.
+
+🎤 SPEAKER_0 [1853s - 1851s]
+Yeah. This stuff.
+
+🎤 SPEAKER_2 [1855s - 1855s]
+Yeah.
+
+🎤 SPEAKER_1 [1859s - 1863s]
+Well, I'm gonna be here for for what I'm a slow eater guys, so you're gonna all be done. No rush.
+
+🎤 SPEAKER_0 [1863s - 1863s]
+Yeah.
+
+🎤 SPEAKER_1 [1866s - 1869s]
+You got much going on later on today, Steve?
+
+🎤 SPEAKER_2 [1886s - 1887s]
+Very good.
+
+🎤 SPEAKER_6 [1890s - 1891s]
+It wasn't as relaxing as I planned, though.
+
+🎤 SPEAKER_0 [1892s - 1893s]
+Alright.
+
+🎤 SPEAKER_6 [1896s - 1903s]
+Because when we turned up after school with the boys, I was planning, like, a nice late afternoon Yeah. Sit in the garden, a read,
+
+🎤 SPEAKER_0 [1905s - 1905s]
+Yeah.
+
+🎤 SPEAKER_6 [1905s - 1909s]
+That's away. The steaks on the barbie for I don't know. Use the hot tub.
+
+🎤 SPEAKER_6 [1914s - 1920s]
+04:00, the kids roll up. The roll Right.
+
+🎤 SPEAKER_1 [1921s - 1923s]
+Have to start saying, look. We haven't date night. You can't come over tonight.
+
+🎤 SPEAKER_0 [1923s - 1927s]
+They they left six. Right. We were fine then. Okay.
+
+🎤 SPEAKER_6 [1927s - 1932s]
+But I thought as a tree, don't know buy, but I bought two Phillips Steaks from Morrison's.
+
+🎤 SPEAKER_0 [1932s - 1933s]
+Yeah. And they were at seven pounds.
+
+🎤 SPEAKER_3 [1934s - 1935s]
+Fifty each.
+
+🎤 SPEAKER_0 [1935s - 1936s]
+Mhmm.
+
+🎤 SPEAKER_0 [1944s - 1945s]
+They're really good.
+
+🎤 SPEAKER_6 [1945s - 1949s]
+Very nice. And we don't normally pry for the steaks, but I was like No. It's a treat.
+
+🎤 SPEAKER_0 [1949s - 1951s]
+Yeah. Oh, man.
+
+🎤 SPEAKER_6 [1951s - 1952s]
+It's still cheaper than buying one.
+
+🎤 SPEAKER_0 [1952s - 1955s]
+Yeah. Yeah. Oh, yeah. 15 pounds. Yeah. Oh, yeah.
+
+🎤 SPEAKER_2 [1957s - 1957s]
+Yeah.
+
+🎤 SPEAKER_0 [1958s - 1959s]
+Wow.
+
+🎤 SPEAKER_1 [1960s - 1960s]
+Very good.
+
+🎤 SPEAKER_6 [1964s - 1967s]
+So tomorrow I'm painting garden, Chloe's garden wall.
+
+🎤 SPEAKER_6 [1970s - 1973s]
+Yeah. Her and Andrew were going to do it last year.
+
+🎤 SPEAKER_5 [1973s - 1973s]
+Okay.
+
+🎤 SPEAKER_6 [1975s - 1982s]
+So I filled all the holes. Mhmm. Got everything level. Oh, we'll do it. We'll do it.
+
+🎤 SPEAKER_0 [1982s - 1983s]
+That's fine. Mhmm.
+
+🎤 SPEAKER_6 [1984s - 1985s]
+For this year, it's still there.
+
+🎤 SPEAKER_0 [1985s - 1988s]
+No. Yeah. Yeah.
+
+🎤 SPEAKER_4 [1988s - 1989s]
+Spray gun or?
+
+🎤 SPEAKER_0 [1991s - 1991s]
+I just used to roll there.
+
+🎤 SPEAKER_5 [1992s - 1992s]
+Yeah.
+
+🎤 SPEAKER_4 [1994s - 1995s]
+Oh, it's a brand new wall, isn't it?
+
+🎤 SPEAKER_6 [1995s - 1996s]
+No.
+
+🎤 SPEAKER_4 [1996s - 1998s]
+It's an old wall. The old wall.
+
+🎤 SPEAKER_6 [1998s - 1999s]
+Okay.
+
+🎤 SPEAKER_2 [1999s - 2001s]
+Johnny. Thank you very much.
+
+🎤 SPEAKER_3 [2002s - 2005s]
+The breakfast on the way out now, and that's the toast to go with the break.
+
+🎤 SPEAKER_1 [2005s - 2007s]
+Great. Who else having breakfast?
+
+🎤 SPEAKER_0 [2008s - 2009s]
+Tim. Tim?
+
+🎤 SPEAKER_4 [2009s - 2010s]
+Yeah. Thank you, Claire.
+
+🎤 SPEAKER_1 [2015s - 2017s]
+There seems to be an extra portion of toast here for
+
+🎤 SPEAKER_3 [2018s - 2019s]
+How's your toast those two?
+
+🎤 SPEAKER_1 [2019s - 2022s]
+Oh, is it? Oh, great. Okay.
+
+🎤 SPEAKER_2 [2022s - 2022s]
+Wow.
+
+🎤 SPEAKER_1 [2022s - 2023s]
+You get too.
+
+🎤 SPEAKER_2 [2023s - 2023s]
+Wow.
+
+🎤 SPEAKER_1 [2026s - 2029s]
+Wonderful. That looks great. Wonderful. Wonderful. Look at that.
+
+🎤 SPEAKER_1 [2032s - 2038s]
+Bro, I'm at the m Nearly four whole hash browns, That is that is that is looking superb.
+
+🎤 SPEAKER_2 [2039s - 2039s]
+Wow.
+
+🎤 SPEAKER_8 [2041s - 2042s]
+So I think Ron and I are gonna go and walk the this afternoon towards the bay.
+
+🎤 SPEAKER_2 [2046s - 2046s]
+Mhmm.
+
+🎤 SPEAKER_6 [2047s - 2048s]
+Just have an afternoon to ourselves.
+
+🎤 SPEAKER_0 [2049s - 2051s]
+Very good. Meeting Louis after the gym.
+
+🎤 SPEAKER_4 [2052s - 2066s]
+If you see this security guards down there, ask to speak to Phil. He just retired from being our supervisor in the stadium. Oh. So he's he's a nice guy actually.
+
+🎤 SPEAKER_1 [2067s - 2068s]
+And he's still working down the barrage, is he?
+
+🎤 SPEAKER_2 [2069s - 2070s]
+Yeah.
+
+🎤 SPEAKER_1 [2071s - 2077s]
+It's lovely. Lovely place to walk the barraj. You park up in do you park up in the Panath and then walk over? Yeah.
+
+🎤 SPEAKER_4 [2077s - 2079s]
+Intentive. We haven't done it yet.
+
+🎤 SPEAKER_1 [2079s - 2081s]
+Oh, wow. Oh, oh, you're in for a treat.
+
+🎤 SPEAKER_4 [2081s - 2083s]
+So Yeah. To go on. I've always wanted to do it since you've been here.
+
+🎤 SPEAKER_0 [2083s - 2084s]
+Yeah.
+
+🎤 SPEAKER_2 [2086s - 2086s]
+Oh.
+
+🎤 SPEAKER_1 [2087s - 2093s]
+You're gonna love it. It is a nice one. Hakan Punav. It's about it depends on if I should work half an hour. Forty minutes walk over to the bay.
+
+🎤 SPEAKER_1 [2093s - 2100s]
+Get yourself a coffee. There's some lovely coffee places along the way. Or, you know, restaurants in the bay. And then walk back.
+
+🎤 SPEAKER_0 [2101s - 2103s]
+Lovery.
+
+🎤 SPEAKER_1 [2109s - 2117s]
+Just a few hours good for the kids as well, mind you, because there's a play park off every round and there's a road, but it's only for service vehicles because it's mostly empty.
+
+🎤 SPEAKER_1 [2117s - 2131s]
+Kids on scooters can have a good have a good bit of exercise as well. Good for I don't know if I like you're scooting yet or might be a bit too far for about it all.
+
+🎤 SPEAKER_2 [2135s - 2138s]
+It's not cycling yet, but we we could cycle.
+
+🎤 SPEAKER_0 [2139s - 2141s]
+Yeah. Buns bikes are great.
+
+🎤 SPEAKER_1 [2142s - 2148s]
+Caught one for Jude and then he was able to pick up actual proper bikes very very quickly in one in one trip down to Romney Park.
+
+🎤 SPEAKER_6 [2152s - 2154s]
+Well, is I just a bit too anxious to start in that yet? It's, like, fine.
+
+🎤 SPEAKER_2 [2155s - 2156s]
+Do it at your own time.
+
+🎤 SPEAKER_1 [2158s - 2160s]
+Yeah. How old is he again there,
+
+🎤 SPEAKER_2 [2164s - 2164s]
+Six.
+
+🎤 SPEAKER_0 [2164s - 2165s]
+Yeah.
+
+🎤 SPEAKER_2 [2166s - 2166s]
+Yep.
+
+🎤 SPEAKER_1 [2177s - 2178s]
+Not true when they say it's a large wrapper, isn't it?
+
+🎤 SPEAKER_2 [2178s - 2179s]
+No. No.
+
+🎤 SPEAKER_1 [2183s - 2185s]
+She Well, it's breakfast and lunch ready, innit? That should be fair.
+
+🎤 SPEAKER_2 [2189s - 2191s]
+No. No. No.
+
+🎤 SPEAKER_4 [2198s - 2200s]
+Legs me story to me.
+
+🎤 SPEAKER_2 [2201s - 2201s]
+Oh, yeah?
+
+🎤 SPEAKER_6 [2230s - 2247s]
+Oh, yeah. So when you have the school councils, if you go to them if you're having difficulties or a child prefer to to help them manage They do they do ask them to write down their feelings in a diary and help them to offload but it also helps them to share.
+
+🎤 SPEAKER_2 [2250s - 2251s]
+Yeah.
+
+🎤 SPEAKER_6 [2251s - 2256s]
+And the councils are able to understand and talk through how they're feeling with them. Yeah.
+
+🎤 SPEAKER_6 [2257s - 2278s]
+I'm I'm I'm putting it into perspective of what is normal. Because everybody thinks, oh, you know, this is happening to me, and and I feel I we we just detached from reality of pain.
+
+🎤 SPEAKER_2 [2278s - 2279s]
+You know?
+
+🎤 SPEAKER_6 [2280s - 2284s]
+Anxiety, it's like we we we think we shouldn't have to deal with it.
+
+🎤 SPEAKER_4 [2285s - 2288s]
+It's strange that we live in we live in a world of tech management.
+
+🎤 SPEAKER_2 [2289s - 2289s]
+Yeah.
+
+🎤 SPEAKER_4 [2289s - 2301s]
+But the is still Yeah. That basic advice is still to write it down. Mhmm. Because it it there's a lot more things to to you as a person if you write it down.
+
+🎤 SPEAKER_2 [2302s - 2302s]
+Yeah.
+
+🎤 SPEAKER_8 [2303s - 2304s]
+Write it down and talk.
+
+🎤 SPEAKER_6 [2304s - 2325s]
+Yeah. And Jim and I were just chatting before everybody arrived, we were talking about that, just talking. In fact, my word for today, was reading was about actually sharing the love of god's advice with people. Mhmm. And he was thinking about how we we share the notes that we we think it.
+
+🎤 SPEAKER_0 [2331s - 2331s]
+With others.
+
+🎤 SPEAKER_6 [2332s - 2343s]
+And simple things of just our time, just giving them time and just talking. As well as there are practical ways sometimes. It was all about that theme after great disconnect.
+
+🎤 SPEAKER_0 [2345s - 2347s]
+Very good.
+
+🎤 SPEAKER_6 [2347s - 2349s]
+And it was and and Tim and I were chatting about that this morning.
+
+🎤 SPEAKER_4 [2353s - 2356s]
+What do you think about that dish that essentially Oh, sorry, mate.
+
+🎤 SPEAKER_1 [2358s - 2368s]
+I didn't get back to you about that. I was messy, really busy day yesterday, know. Kind of saw it didn't reply. You have to I think I was getting this the gist of it.
+
+🎤 SPEAKER_1 [2368s - 2374s]
+From the picture. But perhaps you could explain yeah. You answer your question? Feel, yeah, feel free to share it.
+
+🎤 SPEAKER_1 [2377s - 2379s]
+Has a bit about it now while we're here.
+
+🎤 SPEAKER_0 [2380s - 2381s]
+Tell us a bit about it.
+
+🎤 SPEAKER_4 [2383s - 2387s]
+So you do know who they basically solicit and told you.
+
+🎤 SPEAKER_2 [2388s - 2392s]
+No. The solicitor
+
+🎤 SPEAKER_0 [2397s - 2399s]
+No.
+
+🎤 SPEAKER_1 [2399s - 2400s]
+And maybe I very observant. I'll mirror that.
+
+🎤 SPEAKER_2 [2411s - 2412s]
+Oh, wait.
+
+🎤 SPEAKER_1 [2412s - 2414s]
+Is it a very snazzy Jesus?
+
+🎤 SPEAKER_2 [2414s - 2415s]
+Yes.
+
+🎤 SPEAKER_1 [2415s - 2417s]
+In a white suit and a white shirt?
+
+🎤 SPEAKER_2 [2417s - 2417s]
+Yeah.
+
+🎤 SPEAKER_1 [2424s - 2443s]
+And he's given a note to a man who's been arrested. And on it it says it is finished. On the note. Yeah. So what what when did you towards the end of the service. So you got this you got this kind of image and then you got AI to kind of produce it as an image. Is it? Yeah. Yeah.
+
+🎤 SPEAKER_6 [2444s - 2445s]
+So so that was on Sunday, this
+
+🎤 SPEAKER_2 [2445s - 2447s]
+Sunday. Okay.
+
+🎤 SPEAKER_1 [2450s - 2451s]
+What's your name?
+
+🎤 SPEAKER_0 [2451s - 2452s]
+Irrelevance.
+
+🎤 SPEAKER_8 [2452s - 2453s]
+For you on that?
+
+🎤 SPEAKER_0 [2454s - 2457s]
+Was it, like, personal message or something relevant that's going on for you?
+
+🎤 SPEAKER_5 [2478s - 2479s]
+On Shut You know, Yeah.
+
+🎤 SPEAKER_0 [2513s - 2514s]
+So Right.
+
+🎤 SPEAKER_2 [2518s - 2520s]
+So instead of I'd have beer. Etaz.
+
+🎤 SPEAKER_2 [2524s - 2524s]
+Right.
+
+🎤 SPEAKER_0 [2540s - 2541s]
+Alright.
+
+🎤 SPEAKER_2 [2541s - 2542s]
+Yeah.
+
+🎤 SPEAKER_1 [2542s - 2555s]
+So I think I think what I said on Sunday was you can be convicted. For your of your sin. You can be you can in in the worldly sense, you can you should you can be punished for your sin.
+
+🎤 SPEAKER_1 [2557s - 2571s]
+But you'd you but the the spirit never condemns you. Providing that you've come to him in repentance. I think the the the whole thing that Jesus is freeing you from the bondage, I think that is kind of from the consequences of your sin before god.
+
+🎤 SPEAKER_1 [2573s - 2583s]
+For example, if I were to go and murder somebody, god and I repented before god, and repented of it truly and but there's still restoration there's restitution and facing justice.
+
+🎤 SPEAKER_1 [2584s - 2591s]
+In this world as well. It doesn't get absolved from. But absolutely, I mean, when you we we could all probably think about our past.
+
+🎤 SPEAKER_1 [2592s - 2604s]
+And as soon as you start to feel guilty about that, finding it's not legal, I guess. That that voice, if you feel condemned, that's not that's not the voice of the spirit.
+
+🎤 SPEAKER_1 [2605s - 2606s]
+No.
+
+🎤 SPEAKER_0 [2606s - 2606s]
+That's not the that's human aspect of it.
+
+🎤 SPEAKER_6 [2609s - 2610s]
+Of us actually.
+
+🎤 SPEAKER_0 [2614s - 2621s]
+Not accepting We we still put it on to whatever it is. And not really allowing ourselves to be the least of it.
+
+🎤 SPEAKER_0 [2623s - 2624s]
+Because we're still condemning ourselves.
+
+🎤 SPEAKER_4 [2624s - 2651s]
+Yeah. Sometimes when I'm in my lowest point, I I end up ringing on own mind.
+
+🎤 SPEAKER_2 [2651s - 2652s]
+Yeah.
+
+🎤 SPEAKER_0 [2664s - 2664s]
+And Yep.
+
+🎤 SPEAKER_5 [2668s - 2669s]
+So that's how you did with those that's how you feel.
+
+🎤 SPEAKER_1 [2695s - 2701s]
+What does the word of god tell you though, Alex? Come on, speak some truth over yourself here, brother. Come on.
+
+🎤 SPEAKER_6 [2706s - 2722s]
+Question I would ask you is who is making you a prisoner? Why are you still in the cell? How you feel. And and sometimes, there can be mental as well.
+
+🎤 SPEAKER_8 [2723s - 2725s]
+As physical business to that.
+
+🎤 SPEAKER_6 [2740s - 2758s]
+And actually, our focus, instead of being on us, we focus on others that also helps in the release and acceptance of your of your faith because if you sit there and and you sit contemplating all those things over and over and over in your head,
+
+🎤 SPEAKER_1 [2763s - 2764s]
+Don't feel like you need to?
+
+🎤 SPEAKER_8 [2766s - 2768s]
+In a place? It's good. Okay. Good.
+
+🎤 SPEAKER_8 [2786s - 2788s]
+Sometimes, you know, PTSD and those emotions are real.
+
+🎤 SPEAKER_6 [2789s - 2795s]
+But it's also and I've dealt with lots of victims in fire, and I've seen victims who have had a random thing happen to me.
+
+🎤 SPEAKER_8 [2796s - 2837s]
+The doctors just know, and they have overtone it. And I've seen victims who have actually relived it constantly and for years because it's it's become their focus of their whole life and it's defined And and I used to say to the victims and new victims, our opinion is don't allow yourself from the perpetrator by being a mental big pain. They may, of course, you but if you allow them, then you're allowing yourself to be evicted through mental trauma. But that's something you can control.
+
+🎤 SPEAKER_6 [2839s - 2842s]
+And it's again comes back to your isolation of who who is prisoner The jailer of your prisoners, you?
+
+🎤 SPEAKER_8 [2849s - 2852s]
+Jail. There's no physical person keeping me with her.
+
+🎤 SPEAKER_8 [2857s - 2871s]
+So so if you profess you've gotta stand on your scripture and intersect you. And the only person who's condemning you is to And I would I would go as far as saying, Right? I do believe in spiritual warfare, and I do believe Satan and taxes.
+
+🎤 SPEAKER_8 [2876s - 2878s]
+But actually, that's So, actually, it's it's us.
+
+🎤 SPEAKER_8 [2878s - 2885s]
+It's not safety. Those negative thoughts, know, that negativity is coming from within.
+
+🎤 SPEAKER_8 [2888s - 2910s]
+And what we're saying is actually, we're undermining the value of the sacrifice. Because we're saying it's not enough. We're saying that, okay. I've been saved, and I said But he's not good enough to save me for my particular trauma. I know that's probably in black and white and easy terms, but that in essence is what what is happening in that cycle.
+
+🎤 SPEAKER_2 [2911s - 2913s]
+Very good.
+
+🎤 SPEAKER_8 [2924s - 2926s]
+But she's she was a doctor and a
+
+🎤 SPEAKER_2 [2927s - 2927s]
+Yeah.
+
+🎤 SPEAKER_5 [2928s - 2931s]
+And she ended up on mission in Luanda.
+
+🎤 SPEAKER_2 [2931s - 2932s]
+Oh, wow.
+
+🎤 SPEAKER_4 [2932s - 2933s]
+And just just just after the Jumbo.
+
+🎤 SPEAKER_2 [2936s - 2936s]
+So yeah.
+
+🎤 SPEAKER_8 [2936s - 2941s]
+I can't remember which way around it is, but there's there's there's two basic tribes in there. Yeah.
+
+🎤 SPEAKER_2 [2942s - 2943s]
+The Yeah.
+
+🎤 SPEAKER_4 [2943s - 2946s]
+One had slaughtered the other. Yeah.
+
+🎤 SPEAKER_8 [2946s - 2956s]
+And her her mission was was to bring the two sides together. We think an impossible mission. But amazingly enough, she took me across across Yeah.
+
+🎤 SPEAKER_2 [2956s - 2956s]
+Out there.
+
+🎤 SPEAKER_4 [2961s - 2968s]
+And as well as as well as getting people to write out and have surgery who thinks they're doing wrong, and they'll run to the She got people to write out their pain.
+
+🎤 SPEAKER_8 [2968s - 2971s]
+And they're left to and they're left to Yeah.
+
+🎤 SPEAKER_8 [2975s - 2979s]
+We Christ didn't just pay for Christ didn't just do that to pay for sin.
+
+🎤 SPEAKER_4 [2980s - 2981s]
+He bore and pay it as well.
+
+🎤 SPEAKER_2 [2985s - 2988s]
+That's why he suffered more than any of us because all of our pain has already been hiding on him.
+
+🎤 SPEAKER_4 [2991s - 2994s]
+So when you're feeling about that, you give it you give it to him.
+
+🎤 SPEAKER_2 [3003s - 3003s]
+Yep.
+
+🎤 SPEAKER_0 [3005s - 3005s]
+Yeah.
+
+🎤 SPEAKER_2 [3007s - 3007s]
+Yep. Yep.
+
+🎤 SPEAKER_1 [3007s - 3009s]
+Good, Cory. Very good. It's
+
+🎤 SPEAKER_6 [3009s - 3017s]
+very it is it is hard, Omi. It's no one's saying it's not easy when you're in the middle of it. And you're the one with it.
+
+🎤 SPEAKER_8 [3019s - 3034s]
+It's very easy to offer objective advice. But in essence, what I say is you just need to each time you feel like that is you need to prey on it, and you need to to say I'll rebuke it and take it away from you.
+
+🎤 SPEAKER_2 [3034s - 3034s]
+I don't understand.
+
+🎤 SPEAKER_8 [3034s - 3046s]
+But my body has said, because it is enough. If you don't say, you'll say that the rush isn't enough. I don't because you're saying you're the exception.
+
+🎤 SPEAKER_4 [3049s - 3067s]
+And sometimes when we go to the room, people talk about the cross. They mention Jesus, obviously. Oh god. But they mention But the most important person I thought, one of the most important people people on that cross Yeah. Is is the other one. Yeah. You know, he's the other one who say who says, I recognize you.
+
+🎤 SPEAKER_4 [3067s - 3082s]
+You know? It wasn't looking to get off across. Because he realized he was there because of what he'd done in his life. So he was gonna pay the penalty here but he recognized Jesus.
+
+🎤 SPEAKER_4 [3082s - 3084s]
+And Jesus said, listen.
+
+🎤 SPEAKER_7 [3084s - 3085s]
+Today, you're saving your in covenant.
+
+🎤 SPEAKER_1 [3086s - 3093s]
+Very good, John. He paid a penalty for what he did here, but before god, forgiven. Pounds before god sorted. And that these are first recipients.
+
+🎤 SPEAKER_1 [3094s - 3094s]
+Yeah.
+
+🎤 SPEAKER_2 [3094s - 3095s]
+Anyway. Exactly.
+
+🎤 SPEAKER_5 [3095s - 3096s]
+Amazing. Yeah.
+
+🎤 SPEAKER_2 [3111s - 3114s]
+Of last on prymea well, I do believe in spiritual things. Mhmm.
+
+🎤 SPEAKER_4 [3114s - 3118s]
+Oh, I believe that's too types. There's mental and there's spiritual.
+
+🎤 SPEAKER_2 [3119s - 3119s]
+Right.
+
+🎤 SPEAKER_4 [3123s - 3147s]
+When I'm trying to deal with my trauma, and I'm asking god When the mind tries to remind me of what I just suddenly get this voice going, Why was she doing open heart why was she doing brain surgery on the heart?
+
+🎤 SPEAKER_2 [3149s - 3149s]
+Right.
+
+🎤 SPEAKER_6 [3149s - 3150s]
+Are up here not So it's like yeah.
+
+🎤 SPEAKER_4 [3158s - 3161s]
+Oh, it was a spiritual way. You could do.
+
+🎤 SPEAKER_2 [3161s - 3165s]
+Like, exorcism. Yep.
+
+🎤 SPEAKER_4 [3166s - 3168s]
+But again, when you've got the the Holy Spirit there
+
+🎤 SPEAKER_5 [3169s - 3169s]
+Yep.
+
+🎤 SPEAKER_8 [3190s - 3193s]
+You brought Where are where are I disagree?
+
+🎤 SPEAKER_4 [3193s - 3196s]
+With with Sarah's teaching on on demonology.
+
+🎤 SPEAKER_0 [3196s - 3197s]
+Yeah.
+
+🎤 SPEAKER_4 [3201s - 3206s]
+Is she ice she accepted the versions cannot be possessed.
+
+🎤 SPEAKER_9 [3207s - 3213s]
+But they can be obvious. But that but if you're being oppressed, you're you're being oppressed to somebody's outside, not someone that's inside?
+
+🎤 SPEAKER_2 [3213s - 3216s]
+Yeah.
+
+🎤 SPEAKER_9 [3217s - 3225s]
+So one on earth with Sarah, try to cast something out that cannot be in there in the first place? Yeah. That's yeah.
+
+🎤 SPEAKER_2 [3226s - 3226s]
+They Yeah.
+
+🎤 SPEAKER_9 [3231s - 3234s]
+With her with her and Joe.
+
+🎤 SPEAKER_2 [3235s - 3236s]
+One day.
+
+🎤 SPEAKER_9 [3237s - 3243s]
+And the pair of them decided I got a demon. I'm gonna try to cast it out. And I just laughed.
+
+🎤 SPEAKER_0 [3244s - 3244s]
+Wow.
+
+🎤 SPEAKER_9 [3244s - 3255s]
+And the and they took that as a sign of this as a sign of the was there, you know, and I just said, no. Laughing because you're trying to catch that. This is something that's not there.
+
+🎤 SPEAKER_9 [3255s - 3259s]
+I'm born again. The holy spirit dwells in me.
+
+🎤 SPEAKER_0 [3260s - 3260s]
+Yep.
+
+🎤 SPEAKER_9 [3260s - 3262s]
+Or no demon can be in there. He doesn't share.
+
+🎤 SPEAKER_0 [3262s - 3263s]
+He doesn't share, mate. Absolutely.
+
+🎤 SPEAKER_1 [3264s - 3265s]
+Yeah. Right. Absolutely right.
+
+🎤 SPEAKER_0 [3265s - 3266s]
+Yeah.
+
+🎤 SPEAKER_1 [3266s - 3281s]
+And the thing is, right, Alex, I'll just can I just ship it as well? But demonology. I'd be very careful and cautious of developing a demonology, which is what let's say, the the branch of Christianity that Saru is part of. That's extra biblical.
+
+🎤 SPEAKER_1 [3282s - 3289s]
+Which is this whole kind of system that that the scripture doesn't tell us about. The description does tell us the spiritual warfare.
+
+🎤 SPEAKER_1 [3290s - 3300s]
+Scripture does say to be aware of the enemy. But it doesn't give us the details of that in a great great detail. And so but what the bible does tell us in particularly in Ephesians chapter two.
+
+🎤 SPEAKER_1 [3301s - 3308s]
+Is that alongside the demonic fallen flash is one of our biggest enemies. And also the world in which we the fallen world we live in. Yeah.
+
+🎤 SPEAKER_1 [3309s - 3324s]
+So problem is with EM say, it's over attributing everything to say to him. And actual reality is your body breaks, you get into a car crash, there's evil people in the world, Nothing to do with Satan. In fact, anything, maybe a bit of massaging going on.
+
+🎤 SPEAKER_1 [3324s - 3332s]
+And so most of the things is actually the fact that you have the spirit of God living in you, but your your body is still on its way to be redeemed.
+
+🎤 SPEAKER_1 [3332s - 3337s]
+Yeah. And so that's the main battle. I think that's probably more helpful way to think about what you're going through at the moment.
+
+🎤 SPEAKER_9 [3337s - 3338s]
+Have you
+
+🎤 SPEAKER_9 [3341s - 3342s]
+Sanctified by the Holy
+
+🎤 SPEAKER_2 [3345s - 3345s]
+Yeah.
+
+🎤 SPEAKER_1 [3353s - 3354s]
+Now you are.
+
+🎤 SPEAKER_9 [3354s - 3355s]
+People set you free.
+
+🎤 SPEAKER_2 [3355s - 3355s]
+Yep.
+
+🎤 SPEAKER_0 [3356s - 3358s]
+Thanks god. That's right.
+
+🎤 SPEAKER_9 [3358s - 3361s]
+That's almost like That's coming to me now as I'm speaking to you. You.
+
+🎤 SPEAKER_2 [3361s - 3361s]
+No.
+
+🎤 SPEAKER_9 [3361s - 3362s]
+Please.
+
+🎤 SPEAKER_2 [3363s - 3363s]
+Yeah.
+
+🎤 SPEAKER_9 [3364s - 3367s]
+Sun's such a fact that the sun's such a tree.
+
+🎤 SPEAKER_4 [3367s - 3368s]
+No vow.
+
+🎤 SPEAKER_9 [3368s - 3370s]
+Since I've made orange juice.
+
+🎤 SPEAKER_8 [3380s - 3384s]
+That was down to their for life choices. Not that they would eat best.
+
+🎤 SPEAKER_6 [3390s - 3396s]
+Say on a handful of occasions, less than that, actually. Where I've looked at somebody and felt spiritually that somebody's not But for the thirty years of me dealing with people, They were ordinary people that made poor life choices and decisions.
+
+🎤 SPEAKER_8 [3411s - 3427s]
+And they broke the law because either they wanted to or they were ignorant to the law. But it was just poor life choices. I think, you know, going back to talk and saying, there is a spiritual battle. I don't believe the spiritual battle.
+
+🎤 SPEAKER_6 [3429s - 3434s]
+But it's very easy to negativity that's going on in our lives to it.
+
+🎤 SPEAKER_8 [3435s - 3438s]
+And that gives it a label, but you also It's another way of excuses
+
+🎤 SPEAKER_6 [3449s - 3451s]
+our our, you know, I'm not talking about you, but I'm talking about is where somebody comes to your mind.
+
+🎤 SPEAKER_9 [3466s - 3469s]
+And you've got a question off him. Make a note of this.
+
+🎤 SPEAKER_2 [3470s - 3471s]
+And look into it.
+
+🎤 SPEAKER_5 [3473s - 3473s]
+Because work.
+
+🎤 SPEAKER_2 [3478s - 3479s]
+In each one of us.
+
+🎤 SPEAKER_8 [3495s - 3509s]
+A five day to burn study. On scripture Yeah. About immersing ourselves in scripture. And, actually, it's it's it's there not just for instruction.
+
+🎤 SPEAKER_8 [3511s - 3518s]
+It's like, you know, have to make the effort to do that. It it restores, there's restitution, celebration. I can't even But it's only It's true.
+
+🎤 SPEAKER_0 [3518s - 3519s]
+True.
+
+🎤 SPEAKER_8 [3520s - 3525s]
+If we immerse ourselves in it, pushes to other than just superficially embrace it.
+
+🎤 SPEAKER_0 [3533s - 3535s]
+Yeah. We need to some Some talk
+
+🎤 SPEAKER_0 [3539s - 3540s]
+She did.
+
+🎤 SPEAKER_1 [3540s - 3542s]
+She did. Yeah. I was hoping to catch you about that.
+
+🎤 SPEAKER_0 [3542s - 3542s]
+Yeah.
+
+🎤 SPEAKER_2 [3543s - 3544s]
+Yeah.
+
+🎤 SPEAKER_1 [3544s - 3546s]
+That I mean, Judy was that reported?
+
+🎤 SPEAKER_4 [3546s - 3550s]
+Reported yesterday and I tell you what, the the level of freedom I've got from there The level of what?
+
+🎤 SPEAKER_0 [3551s - 3553s]
+Freedom. Yeah. Good.
+
+🎤 SPEAKER_1 [3554s - 3556s]
+Yeah. So it's not great.
+
+🎤 SPEAKER_0 [3556s - 3557s]
+Over That you can move.
+
+🎤 SPEAKER_4 [3557s - 3558s]
+On really struggle to go out.
+
+🎤 SPEAKER_2 [3558s - 3559s]
+Mhmm.
+
+🎤 SPEAKER_9 [3560s - 3561s]
+Constantly looking over my shoulder, And I was getting so And
+
+🎤 SPEAKER_9 [3584s - 3591s]
+The the tone of the who took my statement the the operator, because I could tell the way she was reacting.
+
+🎤 SPEAKER_2 [3596s - 3600s]
+She annoyed with me.
+
+🎤 SPEAKER_0 [3600s - 3600s]
+Yeah.
+
+🎤 SPEAKER_4 [3600s - 3605s]
+But the way she she was talking to you and she was saying you,
+
+🎤 SPEAKER_2 [3612s - 3622s]
+You? Absolutely cool. You've done nothing wrong. You try misty.
+
+🎤 SPEAKER_0 [3627s - 3630s]
+Yeah. Yeah. Yeah.
+
+🎤 SPEAKER_9 [3633s - 3639s]
+Stupidly, you've committed to crime on a public throat. Yeah. So there is a high chance that there is CCTV, which means you've given us the date and the time.
+
+🎤 SPEAKER_4 [3640s - 3647s]
+You've given us the description. Yeah.
+
+🎤 SPEAKER_9 [3647s - 3649s]
+You know, almost like, there's a high chance we can get these guys.
+
+🎤 SPEAKER_0 [3649s - 3651s]
+Yeah. Good.
+
+🎤 SPEAKER_1 [3651s - 3660s]
+Well, you'd you'd given it you've you've reported it now. Don't think these guys know much about. The short version is I think Alex walking the dog Dog was nipping at his trousers.
+
+🎤 SPEAKER_1 [3661s - 3666s]
+So he tried to yank his leg. This is how Sam described it. A couple of fellas across the road thought you were kicking your dog.
+
+🎤 SPEAKER_1 [3667s - 3677s]
+They tried to explain that you're you got poor eyesight. But then they started getting quite abusive verbally about your about about learning difficulties and all these sort of things, calling you horrible names essentially.
+
+🎤 SPEAKER_1 [3678s - 3680s]
+And is that the gist of it?
+
+🎤 SPEAKER_9 [3680s - 3685s]
+Yeah. So basically, I was crossing the road road and as I've come to the junction to Lower Pike Street, so I'm shooting my leg.
+
+🎤 SPEAKER_5 [3709s - 3710s]
+Thinking You know?
+
+🎤 SPEAKER_9 [3711s - 3712s]
+She's pulled me towards the wall.
+
+🎤 SPEAKER_4 [3712s - 3714s]
+So she's pulled me towards this asset.
+
+🎤 SPEAKER_9 [3720s - 3721s]
+For pulling me towards the house.
+
+🎤 SPEAKER_4 [3723s - 3724s]
+So I've got a two boat two guys.
+
+🎤 SPEAKER_4 [3735s - 3738s]
+One guy approached first and was like, excuse me.
+
+🎤 SPEAKER_8 [3757s - 3757s]
+You know, that I'm like, no.
+
+🎤 SPEAKER_4 [3774s - 3778s]
+I dog. You didn't you didn't. And as she was having a boy in here, another guy, Natural and kind thing to say.
+
+🎤 SPEAKER_1 [3818s - 3821s]
+It's it's I mean, it's it's totally appropriate.
+
+🎤 SPEAKER_8 [3823s - 3824s]
+And it's unacceptable.
+
+🎤 SPEAKER_6 [3824s - 3827s]
+Regardless whether he thought he'd witnessed you kick in the garden.
+
+🎤 SPEAKER_8 [3829s - 3839s]
+You know? And and that is open to And that's the difficulty when we have witnesses in inserts is it's their interpretation of what they think they've seen.
+
+🎤 SPEAKER_8 [3840s - 3841s]
+Which may not be factored.
+
+🎤 SPEAKER_8 [3843s - 3846s]
+So that's why it's important to always get a full picture of what's happening.
+
+🎤 SPEAKER_6 [3848s - 3849s]
+From everybody.
+
+🎤 SPEAKER_2 [3849s - 3853s]
+You can put together, well, what is it more lively to have a firm But in in Anya, they weren't prepared to listen to what you say.
+
+🎤 SPEAKER_2 [3858s - 3859s]
+Yeah.
+
+🎤 SPEAKER_8 [3860s - 3866s]
+And they probably wouldn't have made the slightest bit of difference to them because they already made up their mind what they thought they'd seen.
+
+🎤 SPEAKER_2 [3867s - 3867s]
+Yeah.
+
+🎤 SPEAKER_8 [3869s - 3877s]
+But you just need to it's it's horrible, but again, now you've gotta try and make sure that that's fine. Defined Yeah.
+
+🎤 SPEAKER_0 [3884s - 3886s]
+Strike. Yeah.
+
+🎤 SPEAKER_1 [3886s - 3888s]
+You need to get that you get that dog out, man, because puppy
+
+🎤 SPEAKER_6 [3890s - 3891s]
+Otherwise, you can't trust me.
+
+🎤 SPEAKER_2 [3892s - 3892s]
+Yeah.
+
+🎤 SPEAKER_0 [3893s - 3894s]
+I Yeah. That's right.
+
+🎤 SPEAKER_8 [3910s - 3919s]
+Not to you're the person reporting you, and they'll take what say, you know, at at your account and face value unless the is evidence that proves otherwise.
+
+🎤 SPEAKER_8 [3921s - 3954s]
+So if you're reporting it, they should be good. You because you've got the trouble of phone going to report it. And if there is any information or around there And whether they are able to come to the outside. Is it okay? Yeah. But they could you can because they're not realized actually, maybe I don't
+
+🎤 SPEAKER_8 [3961s - 3971s]
+So it might not be the perfect solution or out of cover. You look looking for, but it might be that actually you feel better reporting it and they been spoken to us. It makes them think twice.
+
+🎤 SPEAKER_0 [3971s - 3972s]
+You know?
+
+🎤 SPEAKER_1 [3972s - 3983s]
+Yeah. Well, nothing to say on this, Alex. Think just this is the the way God's created his church. Is to be what's happening right now, which is you is working as intended.
+
+🎤 SPEAKER_1 [3984s - 4002s]
+You you we you're surrounded here by how can I put it, older mature saints? And that's what we're meant to be. We're meant to we're meant to be sharing our burdens being prayed for, but also hearing the wisdom and advice of those who are older, further down that journey.
+
+🎤 SPEAKER_1 [4002s - 4019s]
+And so it's really important whenever you're feeling like you are now, make sure you get yourself in church community We're not meant to be isolated by ourselves. We're meant to be surrounded by Gaudi's, Steve's, Tim's, Johnny's, who can help carry this from the burden, give you some advice.
+
+🎤 SPEAKER_1 [4020s - 4025s]
+And and basically that will help I think that will help you a massive amount.
+
+🎤 SPEAKER_8 [4026s - 4028s]
+So yeah. Your training store aren't you? Yeah.
+
+🎤 SPEAKER_0 [4028s - 4028s]
+Yeah.
+
+🎤 SPEAKER_8 [4033s - 4035s]
+So if you're training to do something and she doesn't do it here, you don't stop.
+
+🎤 SPEAKER_5 [4036s - 4037s]
+Training at that
+
+🎤 SPEAKER_6 [4037s - 4038s]
+first attention.
+
+🎤 SPEAKER_8 [4039s - 4049s]
+Because you you want her to learn to sit where she's processing you keep going and keep going. You don't stop.
+
+🎤 SPEAKER_6 [4050s - 4053s]
+It's the same for you. You don't stop. You keep going forward.
+
+🎤 SPEAKER_8 [4063s - 4075s]
+Strengthening of his heart, and an affirmation, Lord, of his Lord, we pray that you would just be in the situation he finds himself. We pray that you give him strength, peace, and comfort.
+
+🎤 SPEAKER_2 [4075s - 4076s]
+Yeah.
+
+🎤 SPEAKER_0 [4076s - 4078s]
+At the same for Sam too, bro. Yeah. And let him not live in feet.
+
+🎤 SPEAKER_8 [4078s - 4080s]
+Let him live.
+
+🎤 SPEAKER_6 [4081s - 4082s]
+In strength and hope.
+
+🎤 SPEAKER_8 [4083s - 4084s]
+The name of Jesus.
+
+🎤 SPEAKER_2 [4085s - 4086s]
+Amen.
+
+🎤 SPEAKER_0 [4088s - 4093s]
+Omi. We've got this, Alex. Yeah. You have Yeah.
+
+🎤 SPEAKER_2 [4111s - 4112s]
+You have collusion. That's right.
+
+🎤 SPEAKER_0 [4114s - 4115s]
+Say again, bro?
+
+🎤 SPEAKER_4 [4115s - 4116s]
+I'll get round two at all.
+
+🎤 SPEAKER_0 [4117s - 4117s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [4164s - 4165s]
+Actually, being the feature there with that
+
+🎤 SPEAKER_0 [4173s - 4174s]
+How rude.
+
+🎤 SPEAKER_1 [4175s - 4176s]
+We're very sorry.
+
+🎤 SPEAKER_0 [4183s - 4184s]
+Yes. Well done too.
+
+🎤 SPEAKER_1 [4184s - 4184s]
+That.
+
+🎤 SPEAKER_0 [4185s - 4187s]
+Did? Man possessed. But do I have, like, wasting thing?
+
+🎤 SPEAKER_2 [4188s - 4191s]
+I know. I think that's the lesson god is true.
+
+🎤 SPEAKER_8 [4194s - 4195s]
+Well He's Yeah.
+
+🎤 SPEAKER_2 [4195s - 4196s]
+Alright.
+
+🎤 SPEAKER_8 [4196s - 4198s]
+You still need to No.
+
+🎤 SPEAKER_2 [4230s - 4231s]
+Let me Sorry. One second, guys.
+
+🎤 SPEAKER_0 [4234s - 4234s]
+Hey, that's
+
+🎤 SPEAKER_2 [4245s - 4245s]
+Right.
+
+🎤 SPEAKER_1 [4246s - 4255s]
+Just on the just on the YMCA with the with the guys. I've got a meeting up. I would love to. I could leave now. Slight problem is that the jump cables are in Rachel's car who's in Bridgens.
+
+🎤 SPEAKER_1 [4256s - 4258s]
+In work I've only got the little EV Otherwise, I'd be down there.
+
+🎤 SPEAKER_1 [4265s - 4267s]
+That's sorry, guys.
+
+🎤 SPEAKER_8 [4268s - 4270s]
+I love I know if Yeah.
+
+🎤 SPEAKER_1 [4271s - 4278s]
+Yeah. I mean, yeah. That's probably the best shout unfortunately. Sorry about that. Alright. Cheers, dads. Alright, play.
+
+🎤 SPEAKER_5 [4282s - 4291s]
+Here we are.
+
+🎤 SPEAKER_1 [4294s - 4295s]
+Enough? Tim, do want a bit more space?
+
+🎤 SPEAKER_0 [4296s - 4297s]
+He's there. He's got it.
+
+🎤 SPEAKER_2 [4297s - 4299s]
+He's let me out with a boyfriend.
+
+🎤 SPEAKER_0 [4302s - 4303s]
+Do want a chat? Yeah. Yeah.
+
+🎤 SPEAKER_5 [4304s - 4304s]
+You how long you got saved?
+
+🎤 SPEAKER_1 [4305s - 4314s]
+Do wanna go for a go for a walk or something? I could walk down I could pack down your I can follow you home. Yeah. It's fine. And then we just walk we'll do a little walk around the docking back. Yeah. That's fine. Is that right?
+
+🎤 SPEAKER_8 [4314s - 4314s]
+Yeah.
+
+🎤 SPEAKER_0 [4320s - 4321s]
+Better than just sitting over, you know, I mean. Yeah.
+
+🎤 SPEAKER_1 [4328s - 4328s]
+Goody.
+
+🎤 SPEAKER_0 [4328s - 4331s]
+Are you mate? I'm Thank you. Yeah. Good. Good. Good.
+
+🎤 SPEAKER_1 [4332s - 4334s]
+How's how's things moment.
+
+🎤 SPEAKER_0 [4344s - 4346s]
+Is she? Yeah.
+
+🎤 SPEAKER_9 [4347s - 4348s]
+But she's holding on.
+
+🎤 SPEAKER_9 [4351s - 4352s]
+Okay, Alex.
+
+🎤 SPEAKER_1 [4352s - 4362s]
+You got a lot of you got a of people that love you, mate. Yep. And you coming tonight? Or is it tricky with salmon everything?
+
+🎤 SPEAKER_1 [4362s - 4365s]
+A dog? If you wanna lift, let me know basically. Alright?
+
+🎤 SPEAKER_4 [4366s - 4372s]
+Probably be too tight because I'm going I'm joining a new group this afternoon.
+
+🎤 SPEAKER_5 [4372s - 4372s]
+Oh, are you?
+
+🎤 SPEAKER_1 [4375s - 4376s]
+Oh, okay. Good.
+
+🎤 SPEAKER_9 [4376s - 4377s]
+So we're doing wine and tasting.
+
+🎤 SPEAKER_1 [4379s - 4381s]
+Oh, very good. Don't drink too much now, mate.
+
+🎤 SPEAKER_0 [4382s - 4388s]
+No. Have a good time. Have a great time. Yeah. Well done. Okay.
+
+🎤 SPEAKER_5 [4389s - 4389s]
+Yeah.
+
+🎤 SPEAKER_2 [4389s - 4390s]
+Kids.
+
+🎤 SPEAKER_1 [4397s - 4398s]
+So how they do it, is it? Or is it?
+
+🎤 SPEAKER_0 [4398s - 4400s]
+Oh, yeah. I see.
+
+🎤 SPEAKER_1 [4405s - 4408s]
+So Alright, John. Hey. I'll see you later tonight, is it? Yes. If you're there?
+
+🎤 SPEAKER_0 [4409s - 4409s]
+Grab that one down.
+
+🎤 SPEAKER_1 [4409s - 4413s]
+Alright then? Yeah. Keep us keep us updated on that and Oh, well.
+
+🎤 SPEAKER_4 [4413s - 4414s]
+Yeah. Definitely.
+
+🎤 SPEAKER_0 [4414s - 4415s]
+Thanks, bro.
+
+🎤 SPEAKER_1 [4415s - 4416s]
+Bless you, man. Hey. Have a good day.
+
+🎤 SPEAKER_0 [4416s - 4417s]
+Yeah.
+
+🎤 SPEAKER_2 [4417s - 4418s]
+Thanks. I'm sorry.
+
+🎤 SPEAKER_0 [4420s - 4421s]
+Alright, Tim.
+
+🎤 SPEAKER_1 [4421s - 4422s]
+Take care, brother.
+
+🎤 SPEAKER_1 [4426s - 4465s]
+How are your knees, Cody? Hey. How are your knees, Steven?
+
+🎤 SPEAKER_2 [4466s - 4467s]
+How am I?
+
+🎤 SPEAKER_4 [4467s - 4467s]
+How are your knees?
+
+🎤 SPEAKER_9 [4467s - 4468s]
+How are your knees?
+
+🎤 SPEAKER_4 [4468s - 4473s]
+Oh. Oh. Sometimes grip, sometimes back. Is it depending on the weather?
+
+🎤 SPEAKER_2 [4474s - 4474s]
+Yeah.
+
+🎤 SPEAKER_1 [4477s - 4479s]
+So send send you cold stuff or something?
+
+🎤 SPEAKER_1 [4483s - 4487s]
+¿Es a ride? Yeah. Well, no rain for a while at least anyway.
+
+🎤 SPEAKER_5 [4488s - 4489s]
+Take care, good.
+
+🎤 SPEAKER_1 [4507s - 4513s]
+Alright. So Steve, I'll just park up by your house, is it? Yeah. And let's just cross the road and go do one lap at all. Is it cold, innit? Yeah.
+
+🎤 SPEAKER_8 [4514s - 4515s]
+Think we've dropped the woody down the road.
+
+🎤 SPEAKER_1 [4516s - 4517s]
+Oh, okay. That's fine.
+
+🎤 SPEAKER_1 [4521s - 4524s]
+Great. Cheers, Steve. See see you guys.
+
+🎤 SPEAKER_0 [4528s - 4576s]
+Yeah. Lord, I just pray that you guide me today.
+
+🎤 SPEAKER_5 [4584s - 4585s]
+Give me the words to say.
+
+🎤 SPEAKER_0 [4587s - 4588s]
+The ratio is right.
+
+🎤 SPEAKER_1 [4590s - 4597s]
+I'll just trust that I'm doing this prayerfully.
+
+🎤 SPEAKER_8 [4602s - 4604s]
+That Then the holy spirit will will move.
+
+🎤 SPEAKER_1 [4640s - 4641s]
+It's not my how my personal sin affects this.
+
+🎤 SPEAKER_1 [4748s - 4749s]
+Alright. Interesting.
+
+
+---
+
