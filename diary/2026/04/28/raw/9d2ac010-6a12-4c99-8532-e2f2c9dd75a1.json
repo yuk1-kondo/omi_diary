@@ -1,0 +1,152 @@
+{
+  "id": "9d2ac010-6a12-4c99-8532-e2f2c9dd75a1",
+  "created_at": "2026-04-28T03:46:07.973242+00:00",
+  "started_at": "2026-04-28T03:46:30.520028+00:00",
+  "finished_at": "2026-04-28T03:48:55.370729+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "京都の話題をめぐる雑談",
+    "overview": "一人の話者が、値段や人数、60や10時といった断片的な数字を交えながら、京都の先生の件らしき話題について断続的に話しています。全体としては会話の切れ目が多く、内容のまとまりは弱いですが、何かを「最後」として区切り、受け入れや了解を示すやり取りが含まれています。",
+    "emoji": "🗣️",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "3f607366-e585-4d3e-95b6-a8940221266f",
+      "text": "頭 は一 匹",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.119897312193643e-09,
+      "end": 0.879990004119918,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d1370062-59bc-4bb3-ab6b-d9f9ebe22c1d",
+      "text": "安い も え がね。 安い。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 28.15999000411989,
+      "end": 29.839985004119853,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "abbaa102-1fdf-4d35-b251-3676f0b61718",
+      "text": "こう だとか。 今日 ぼ た す よ。 暮 らし 見た ときに、 わ あ、 これ どうしよう。 かわ い せ たい な。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 52.263300004119856,
+      "end": 57.11999000411993,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "35e4d9bd-d8d3-471c-9e68-099b6b2da569",
+      "text": "太 平 ？ なんか ニ ーズ もっと 数 人 か。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 62.266620004119886,
+      "end": 65.14663000411997,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "214806b9-27f5-4ff2-92bc-0429ca636d51",
+      "text": "六 十",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 68.21331000411988,
+      "end": 68.61330000411976,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "062e1b4e-3c43-45c7-bb46-59d6fd92a95f",
+      "text": "ぜひ ぜひ 十 時 まで お 。 バ ジ ーで。 今回は 京都 先生 が 切 れてる っていう 話 しか ね。 僕 受け 入れ とか 正解 違う 十 時 まで 何 だろう ？ 一生 続けて いた。 今回",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 73.38662000411978,
+      "end": 84.36998000411995,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "987c1c69-0fe2-46ad-9cda-bcecafab469c",
+      "text": "十 年 だけ でき てる。 上 を 上げ てる から。 了 解 します。 下 手 ください。 これ 最後、 最後、 もう これ 最後 や から。 多分 母 水 からは",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 133.49331000411985,
+      "end": 143.1466100041198,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "72ca41af-f14a-4106-a3b6-4be310e6d6bc",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "9d2ac010-6a12-4c99-8532-e2f2c9dd75a1",
+      "chunk_timestamps": [
+        1777347967.076,
+        1777348027.159,
+        1777348087.32,
+        1777348147.373
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-28T03:46:07.076000+00:00",
+      "duration": 300.405625
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 価格・印象\n- 安いと言及\n- 「かわいそう」と感じた\n- 具体内容は不明瞭\n\n## 数字の話\n- 「60」と発言\n- 「十時まで」と期限らしき話\n- 「十年」と期間の話\n\n## 京都の先生\n- 京都の先生が切れている話\n- 受け入れ方や正解を迷う\n- 詳細は聞き取りづらい\n\n## 最後の確認\n- 「これ最後」と繰り返し\n- 終了を強調\n- 追加の意図は不明"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
