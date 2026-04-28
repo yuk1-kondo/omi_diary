@@ -3352,3 +3352,23 @@ Alright. Interesting.
 
 ---
 
+
+
+## 📝 Rachel and Fed Discuss Isolation - adf73808-9d25-406e-b9a8-aae4401d2165
+
+**記録時間**: 2026-04-28 18:47:18
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 166s]
+Pretty alone, but not alone.
+
+🎤 SPEAKER_8 [168s - 168s]
+You were with me.
+
+🎤 SPEAKER_1 [171s - 182s]
+No, I just feel like I horrible disgusting serogato. Not fighting against my sin. My life, I hate it. Don't want it. Be rid of it.
+
+
+---
+
