@@ -3372,3 +3372,3779 @@ No, I just feel like I horrible disgusting serogato. Not fighting against my sin
 
 ---
 
+
+
+## 📝 Rachel and Fed Clarify Church Stance - aaac9cdd-73b3-495f-bd96-3c345b3c78ee
+
+**記録時間**: 2026-04-28 18:50:25
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 0s]
+Hey.
+
+🎤 SPEAKER_1 [0s - 1s]
+Jonathan. Yes. Of course.
+
+🎤 SPEAKER_1 [4s - 11s]
+Just send them over to me on email. I'll be home this afternoon. For you to come and pick them up if you like. Cheers.
+
+🎤 SPEAKER_1 [14s - 16s]
+So which one are they looking at then? The bugs?
+
+🎤 SPEAKER_4 [17s - 18s]
+Look at two.
+
+🎤 SPEAKER_8 [19s - 20s]
+One on the first one, the one next to it.
+
+🎤 SPEAKER_1 [20s - 22s]
+Right. Oh, so there's four houses along here, is there?
+
+🎤 SPEAKER_2 [22s - 24s]
+Oh, I see. Yeah.
+
+🎤 SPEAKER_0 [24s - 26s]
+Very good. Good.
+
+🎤 SPEAKER_1 [26s - 26s]
+That's exciting.
+
+🎤 SPEAKER_8 [26s - 28s]
+Did you say to Jonathan, I'm gonna put electric gate here.
+
+🎤 SPEAKER_0 [31s - 32s]
+Yeah.
+
+🎤 SPEAKER_1 [32s - 33s]
+You'll you'll be you'll your friend neighbor.
+
+🎤 SPEAKER_8 [37s - 38s]
+I I think they're the same as us.
+
+🎤 SPEAKER_8 [41s - 44s]
+They they're they're we're we're not the sort that would be in each other's place. No.
+
+🎤 SPEAKER_1 [44s - 49s]
+No. There's an there about the appropriate level of boundary and friendship and all those things.
+
+🎤 SPEAKER_8 [49s - 50s]
+Is, like, if you need something, you're there.
+
+🎤 SPEAKER_4 [51s - 52s]
+You know?
+
+🎤 SPEAKER_0 [52s - 53s]
+We're
+
+🎤 SPEAKER_5 [55s - 56s]
+quite Should we go around that way and up to the this way.
+
+🎤 SPEAKER_1 [58s - 58s]
+Do. Yeah. It's not Yeah.
+
+🎤 SPEAKER_8 [59s - 61s]
+Up down to the big park actually.
+
+🎤 SPEAKER_1 [63s - 64s]
+Have they? Oh, very good then.
+
+🎤 SPEAKER_0 [64s - 65s]
+Let's do that then. That'd good.
+
+🎤 SPEAKER_6 [66s - 67s]
+Yeah.
+
+🎤 SPEAKER_8 [68s - 71s]
+So, no, they're the same as us. We like our own space and
+
+🎤 SPEAKER_0 [71s - 71s]
+Yes.
+
+🎤 SPEAKER_1 [73s - 82s]
+You know, social, but we like to It's always a awkward, didn't it? Trying figure out, um, we're gonna be moving in this near people from church and well established and everything and expertise.
+
+🎤 SPEAKER_0 [83s - 84s]
+Yeah.
+
+🎤 SPEAKER_1 [84s - 86s]
+It'd be alright. You'll land into a bit of a rhythm.
+
+🎤 SPEAKER_0 [87s - 88s]
+Right. What's up? Come on.
+
+🎤 SPEAKER_1 [90s - 104s]
+Well, how would you know? Just cut well, let's get straight to it, should we? It's quite difficult in really, Steve, because it's just not it's not I can foresee this not being very pleasant, but I'm praying that it will be.
+
+🎤 SPEAKER_8 [104s - 104s]
+Yeah.
+
+🎤 SPEAKER_1 [105s - 112s]
+It's to do with basically I I'm speaking to you about this as a lead. You could you're a leader. Right. But also because it involves your family to to a degree. Right.
+
+🎤 SPEAKER_1 [114s - 121s]
+There's so you may or may not be aware that Chloe put a message out this week about a baby shower. You know about this or is it secret? I know.
+
+🎤 SPEAKER_9 [121s - 124s]
+No. I'm aware though, trying to organize one.
+
+🎤 SPEAKER_1 [124s - 127s]
+So she's she's put a WhatsApp group together for the whole church Right.
+
+🎤 SPEAKER_1 [127s - 133s]
+To All the ladies in the church are invited to this baby shower. Yeah. Come and pray with the kids, that sort of thing. Yeah. Pray for the kids.
+
+🎤 SPEAKER_1 [133s - 138s]
+And that is caused a bit of a bit of an uproar. I've had quite a few messages this week.
+
+🎤 SPEAKER_8 [138s - 138s]
+Okay.
+
+🎤 SPEAKER_1 [140s - 154s]
+There's a there's an I think there's there's an assumption perhaps. From maybe from Chloe or something or maybe I've not been very clear that we are theologically permit we we're theologically aligned, should we say Yeah.
+
+🎤 SPEAKER_1 [156s - 165s]
+With with the issue of gay marriage. Yeah. And our warm welcome, which we we want and we've done absolutely right Yeah. Has been misunderstood as perhaps endorsement or something. Yeah. Yeah.
+
+🎤 SPEAKER_1 [165s - 170s]
+And so because I've not really said anything on it from the front at least. I've had a few private conversations.
+
+🎤 SPEAKER_0 [170s - 170s]
+Yeah.
+
+🎤 SPEAKER_1 [170s - 179s]
+It's caused lots of issues. I've had lots of people message me about it. What is our position on this? I don't feel comfortable with it. This, that, and the other. Okay.
+
+🎤 SPEAKER_8 [186s - 188s]
+And so I'm in a it's a of a quandary now because it's kinda put the bolt on the stable door after the horse has faulted.
+
+🎤 SPEAKER_1 [189s - 189s]
+It it is.
+
+🎤 SPEAKER_1 [191s - 207s]
+And it's it's it's I'm quite an empathetic person. It's kind of I know. I We got a everyone I've got a lot of love for your family. I love I love Sofia and Sarah. And I'm glad they've got a warm welcome, and I want that. But this equally and I I think I can understand families. This is different.
+
+🎤 SPEAKER_1 [207s - 217s]
+Perspective as a as a church passer will be different from family perspective and rightly so. Yeah. But it's kind of like I need to kind of have a chat with Chloe or something.
+
+🎤 SPEAKER_1 [217s - 230s]
+And say, there's all I'm quite surprised, I say, that there doesn't seem to be perhaps awareness that people might have a different view on this. And so there's an assumption perhaps that if I share photos or something, everyone's gonna be super delighted about it.
+
+🎤 SPEAKER_2 [230s - 231s]
+Yeah.
+
+🎤 SPEAKER_1 [231s - 239s]
+And people are just confused on it. I I don't really I'm and I won't stand up for the of church and say, this is our it's not a hill I wanna die on, frankly, a theological hill.
+
+🎤 SPEAKER_0 [239s - 240s]
+No. No.
+
+🎤 SPEAKER_1 [240s - 241s]
+But it is a So it's I understand.
+
+🎤 SPEAKER_9 [244s - 247s]
+And and well, you you know my view on it.
+
+🎤 SPEAKER_1 [247s - 247s]
+I do.
+
+🎤 SPEAKER_8 [248s - 254s]
+I I've theologically, I stand on marriage being between a man and a woman. Yes.
+
+🎤 SPEAKER_6 [255s - 262s]
+And you know, I would always say that a child would be better off with her father and a mother Yes.
+
+🎤 SPEAKER_8 [262s - 264s]
+I've had to come to terms Right.
+
+🎤 SPEAKER_0 [264s - 265s]
+With it.
+
+🎤 SPEAKER_5 [266s - 266s]
+Of course.
+
+🎤 SPEAKER_8 [267s - 269s]
+And and to love through it.
+
+🎤 SPEAKER_6 [270s - 274s]
+But I I equally, I know, you know, I've dealt with far more man and woman couples
+
+🎤 SPEAKER_0 [276s - 277s]
+Yes.
+
+🎤 SPEAKER_6 [277s - 280s]
+Have neglected and abused their children than
+
+🎤 SPEAKER_0 [280s - 280s]
+Right.
+
+🎤 SPEAKER_2 [280s - 282s]
+Than the other way.
+
+🎤 SPEAKER_8 [282s - 286s]
+So I I've seen the negativity side of it, but scripturally, I I Yes. I stand on that.
+
+🎤 SPEAKER_1 [286s - 302s]
+And if there's any comfort to you, Steve, I sorry to interrupt you there, I I can if I was in your position, I would be doing exactly the same thing that you've done, which is being about your theological position, but you keep in relationship, you love your children, and that's absolutely the right thing to do.
+
+🎤 SPEAKER_8 [302s - 307s]
+I I I I do. You know, you can't just say, I'm gonna exclude you.
+
+🎤 SPEAKER_2 [308s - 308s]
+Yes.
+
+🎤 SPEAKER_6 [309s - 310s]
+Because of who you are.
+
+🎤 SPEAKER_8 [311s - 316s]
+You know? And and I and I've I've seen that happen in old churches where
+
+🎤 SPEAKER_0 [316s - 316s]
+Yeah.
+
+🎤 SPEAKER_8 [316s - 318s]
+Parents have just basically Yep.
+
+🎤 SPEAKER_8 [319s - 322s]
+Reject their children because they've come out and said I'm And that's the wrong that's the wrong thing to do.
+
+🎤 SPEAKER_0 [323s - 325s]
+I just don't get that. No. There we go.
+
+🎤 SPEAKER_1 [326s - 329s]
+No. And I'm completely I'm I'm 100% out dig too exactly the But I do yeah.
+
+🎤 SPEAKER_8 [329s - 331s]
+I understand that.
+
+🎤 SPEAKER_2 [331s - 331s]
+Yeah.
+
+🎤 SPEAKER_8 [332s - 336s]
+Just because there is that level of openness and acceptance
+
+🎤 SPEAKER_2 [337s - 337s]
+Yes.
+
+🎤 SPEAKER_8 [338s - 342s]
+Then yeah. But people have gotta be a bit more sympathetic to others because it's not Yes.
+
+🎤 SPEAKER_1 [343s - 355s]
+It's it's it's a very complex one because I I'm getting people saying, what's our position on this race? Know, I don't feel happy about this. And and my position is always we we love people. We welcome them. We want them to be in community.
+
+🎤 SPEAKER_1 [356s - 363s]
+But equally, I think that works on both sides in the sense that for for for Chloe particularly, maybe, I don't know.
+
+🎤 SPEAKER_1 [364s - 366s]
+She's to be aware that other people won't agree with her and she Yeah.
+
+🎤 SPEAKER_8 [368s - 371s]
+And and actually not it's okay of not rubbing it in people's faces.
+
+🎤 SPEAKER_0 [371s - 371s]
+Yes.
+
+🎤 SPEAKER_8 [371s - 378s]
+In a sense of saying, well, okay. You know, not everyone's gonna have the same viewpoint.
+
+🎤 SPEAKER_0 [378s - 379s]
+Yes.
+
+🎤 SPEAKER_8 [379s - 386s]
+Be sensitive to that. And the difficulty I think, with Chloe and the same with Rana. Yeah.
+
+🎤 SPEAKER_8 [389s - 396s]
+Is there rather than they're quite emotive Yes. They go with their feelings Yes. And Rana more particularly than Chloe. Yeah.
+
+🎤 SPEAKER_6 [398s - 401s]
+Will go with her emotions rather than scripture.
+
+🎤 SPEAKER_1 [401s - 402s]
+Yes.
+
+🎤 SPEAKER_8 [402s - 407s]
+And she will go, well, I don't feel that's right. I say, that's not a case of Yeah.
+
+🎤 SPEAKER_0 [407s - 410s]
+Do you feel it's right? Yes. What does the Yes.
+
+🎤 SPEAKER_1 [411s - 419s]
+So we we And as husband and and and father, you you seeing that would be different or maybe Well temper in some way to say.
+
+🎤 SPEAKER_8 [419s - 420s]
+Yeah.
+
+🎤 SPEAKER_2 [420s - 423s]
+But but there is also this cause because I am the father and I'm close.
+
+🎤 SPEAKER_8 [423s - 425s]
+Yes.
+
+🎤 SPEAKER_6 [425s - 433s]
+It has caused arguments. Yeah. To the point where it's one of those hot potatoes Yeah. Actually.
+
+🎤 SPEAKER_0 [433s - 433s]
+Yeah.
+
+🎤 SPEAKER_6 [435s - 437s]
+I know we don't we go down that pass Yep.
+
+🎤 SPEAKER_8 [438s - 440s]
+Because we know that
+
+🎤 SPEAKER_0 [440s - 441s]
+Yep.
+
+🎤 SPEAKER_8 [441s - 442s]
+If I'm asked the question, I'll they know what the answer is gonna be.
+
+🎤 SPEAKER_0 [442s - 444s]
+Yes.
+
+🎤 SPEAKER_6 [444s - 447s]
+So therefore, I think it's like the elephant in the room that is sort of ignored Yes.
+
+🎤 SPEAKER_1 [448s - 453s]
+Of course. In that sense. And I and that's probably right for Family Dynamic in the end.
+
+🎤 SPEAKER_8 [456s - 461s]
+Because you know, you still and don't get me wrong, you know. As much as I care for and love Sarah
+
+🎤 SPEAKER_0 [461s - 462s]
+Yeah.
+
+🎤 SPEAKER_9 [462s - 463s]
+It's not what I would have wanted.
+
+🎤 SPEAKER_8 [463s - 464s]
+No.
+
+🎤 SPEAKER_5 [465s - 465s]
+No.
+
+🎤 SPEAKER_6 [465s - 467s]
+No. Sophie. No.
+
+🎤 SPEAKER_8 [467s - 470s]
+And I never expected because there was never any indication.
+
+🎤 SPEAKER_0 [470s - 472s]
+No.
+
+🎤 SPEAKER_8 [475s - 481s]
+It was a bit of a shock when it Sophie will say she doesn't class herself as as a lesbian or gay in a sense because she fell in love with the person and she not attracted to the opposite sex and I'm like
+
+🎤 SPEAKER_0 [481s - 482s]
+Yeah.
+
+🎤 SPEAKER_8 [482s - 483s]
+Well, that feel more difficult for some people to get To get their head around.
+
+🎤 SPEAKER_1 [484s - 485s]
+Yeah, of course.
+
+🎤 SPEAKER_1 [487s - 494s]
+So is it is it's a pain it's an awkward. It's a horrible one because I don't want to I don't wanna make this a big issue. No. But I think But it needs to be some sort of leader on it.
+
+🎤 SPEAKER_2 [495s - 496s]
+Address.
+
+🎤 SPEAKER_8 [496s - 500s]
+It. And so what what are you thinking?
+
+🎤 SPEAKER_1 [501s - 525s]
+How are you thinking of Well, the the other element of it is I'm not sure of ever sat down with Sophie and Sarah and said, hey, guys. I'm so glad you've you've been warmly welcomed into first, and that that's exactly what we wanted. Yeah. But I know if you know our position on on marriages that biblical marriage at least is one man and a woman. Yeah. And that does, to be honesty, that does have some implications for what they're we're we're happy for them to serve in.
+
+🎤 SPEAKER_1 [526s - 535s]
+In terms of the long kids kids church Sarah messaged me and said, I'll reach over I'm quite handy on the Qatar, and I can sing if that would be of service in the worship team. Yeah.
+
+🎤 SPEAKER_1 [535s - 543s]
+And so this to me, that means, okay. They don't really know what our position is here. Maybe that's my fault. But there's a lack of awareness. There's an assumption that I'd be happy for that.
+
+🎤 SPEAKER_9 [543s - 547s]
+No. And and I think yeah. I think that's right.
+
+🎤 SPEAKER_1 [550s - 552s]
+I mean, honestly, And that's a nasty thing. I don't want ever to do that.
+
+🎤 SPEAKER_5 [553s - 554s]
+No.
+
+🎤 SPEAKER_1 [554s - 559s]
+But I would probably do this a heterosexual couple living together married. It'd be the same it'd be the same thing because
+
+🎤 SPEAKER_2 [560s - 560s]
+Yeah.
+
+🎤 SPEAKER_1 [561s - 565s]
+Well, guys get married or whatever it is. Yeah. Just more complex and horrible.
+
+🎤 SPEAKER_1 [570s - 576s]
+I mean, I I I'm Do do do you think they know opposition or do you think ever come up or is it just just too awkward to talk about in family life?
+
+🎤 SPEAKER_8 [581s - 589s]
+I think think they know the position, but they also know there's an acceptance of willingness to be open to to accept in all.
+
+🎤 SPEAKER_6 [589s - 592s]
+Yeah.
+
+🎤 SPEAKER_6 [593s - 597s]
+But I think I think, you know, we covered it during the one Corinthians too.
+
+🎤 SPEAKER_0 [601s - 603s]
+Isn't it? Yeah. Yeah. That was covered during that.
+
+🎤 SPEAKER_1 [603s - 605s]
+Yeah. That was one of your first few Sundays, think, wasn't it?
+
+🎤 SPEAKER_2 [607s - 607s]
+Yeah.
+
+🎤 SPEAKER_8 [607s - 614s]
+I mean, I I I'm happy. I mean, I can speak to Chloe. Certainly, I'm quite happy to say, look, you need to just rein it in bit.
+
+🎤 SPEAKER_8 [616s - 619s]
+Because, you know, it is causing some upset. But Yeah.
+
+🎤 SPEAKER_1 [620s - 627s]
+Do you think that would be probably that wouldn't be There's no for me, I'm sitting here thinking, there's no way that this is not gonna cause some problem here. No.
+
+🎤 SPEAKER_8 [627s - 638s]
+There's there's no there is no easy the the way obviously, with sensitivity, which is what we would do, is managing it Yeah.
+
+🎤 SPEAKER_1 [644s - 651s]
+Is to try and reduce the fallout because they will be upset There's upset caused I don't know if Chloe's already upset because the she put a pole out for the whole church Right. And only a few only a few have responded yes.
+
+🎤 SPEAKER_1 [652s - 663s]
+Everyone else has put no. Okay. Now I don't know. I haven't spoken to Chloe, but there's I know that a lot of those put put no because they don't they don't feel like they can be supportive. If it was just a baby shower, that's one thing.
+
+🎤 SPEAKER_1 [664s - 672s]
+Because it's a baby shower, we're gonna pray for the children, we're gonna pray over the family and all these sort things. It becomes then Yeah. An endorsements which people people are happy to love and welcome but not endorse.
+
+🎤 SPEAKER_1 [673s - 674s]
+That's the tricky thing and it's hard.
+
+🎤 SPEAKER_0 [674s - 675s]
+Yeah.
+
+🎤 SPEAKER_1 [676s - 684s]
+And I've tried not to I wanna be one of those heavy handed passes that end up putting a lot of people and they never come back to church ever again. No.
+
+🎤 SPEAKER_8 [684s - 685s]
+And so And underage that.
+
+🎤 SPEAKER_1 [686s - 687s]
+But There's always that potential.
+
+🎤 SPEAKER_8 [689s - 697s]
+When you put somebody's nose out joint. You know? However, slight that it it does, oh, okay. I'm going then, you know. Yes.
+
+🎤 SPEAKER_1 [698s - 700s]
+And I take I don't want that. I don't want that to happen.
+
+🎤 SPEAKER_6 [700s - 700s]
+No.
+
+🎤 SPEAKER_8 [704s - 715s]
+I mean, I I can break the ice mean I think you are gonna have to speak with them. To to make it sort of to draw the line really in the sand and say, you know, this is this is the line here.
+
+🎤 SPEAKER_8 [716s - 723s]
+But I can break the ice in sense of saying, look. You know? Yeah. From a leadership point of view, there's been a bit of feedback.
+
+🎤 SPEAKER_0 [724s - 724s]
+Yeah.
+
+🎤 SPEAKER_8 [724s - 732s]
+And you need to understand, you know, as you put across as as as accepting an open and invited people are, they are struggling with this.
+
+🎤 SPEAKER_8 [734s - 736s]
+That is the way of the world. You need to understand that.
+
+🎤 SPEAKER_1 [736s - 741s]
+Yeah. And on top of that, also, is the position of it's our position as a church as well.
+
+🎤 SPEAKER_2 [741s - 741s]
+It is.
+
+🎤 SPEAKER_1 [741s - 746s]
+And so I can I I I will always tell people, be loving, welcoming?
+
+🎤 SPEAKER_2 [746s - 746s]
+Yeah.
+
+🎤 SPEAKER_1 [746s - 757s]
+Not asking you to endorse though. No. We don't. But we are the the but don't so because you don't endorse doesn't mean you can't be welcoming and loving. But equally, loving and welcoming doesn't equal us endorsing.
+
+🎤 SPEAKER_8 [758s - 766s]
+And and they also need to understand that. In a sense that actually it's it's not necessarily been endorsed. No.
+
+🎤 SPEAKER_1 [767s - 777s]
+So and do you know what was encouraging to me when Sophie and Sarah first started coming to us was that there are other liberal churches in the town, but they they didn't want to go to a liberal church. They wanted to go somewhere that preached the gospel.
+
+🎤 SPEAKER_1 [778s - 779s]
+And so they landed with us.
+
+🎤 SPEAKER_8 [779s - 784s]
+And that and that's the irony of it in the sense. You know, when you bear in mind that Sophie's
+
+🎤 SPEAKER_0 [785s - 786s]
+Yeah.
+
+🎤 SPEAKER_8 [787s - 791s]
+Sarah's dad be the pastor. Yeah.
+
+🎤 SPEAKER_6 [792s - 794s]
+You know, he he well, they were very empty. Yeah.
+
+🎤 SPEAKER_8 [794s - 797s]
+They they were like, to the point of
+
+🎤 SPEAKER_6 [799s - 800s]
+Irene Yeah.
+
+🎤 SPEAKER_8 [801s - 807s]
+Would be saying to Sarah, her mom, know, you're damned. You're going to hell. You've gotta stop this. You know? I mean, she was Wow.
+
+🎤 SPEAKER_0 [808s - 811s]
+Literally having those conversations with her.
+
+🎤 SPEAKER_1 [811s - 817s]
+So I've had a culture culture. It's a whole other thing as well with pressure on Lee probably as well. Yeah. More so than here.
+
+🎤 SPEAKER_8 [817s - 821s]
+Well, he he went to his elders and he disclosed it and he apologized.
+
+🎤 SPEAKER_6 [821s - 823s]
+Yeah.
+
+🎤 SPEAKER_2 [824s - 825s]
+You know, I know why he I've known a few people who do that. Yeah.
+
+🎤 SPEAKER_8 [825s - 827s]
+That was the that's the Baptist sort of
+
+🎤 SPEAKER_0 [827s - 828s]
+Yeah.
+
+🎤 SPEAKER_8 [828s - 830s]
+Because he was quite condemning.
+
+🎤 SPEAKER_6 [831s - 832s]
+So all of a sudden
+
+🎤 SPEAKER_0 [832s - 832s]
+Yeah.
+
+🎤 SPEAKER_6 [835s - 839s]
+He's he's been condemning and he's had to there and say, well, actually, I
+
+🎤 SPEAKER_0 [839s - 839s]
+Yeah.
+
+🎤 SPEAKER_1 [841s - 872s]
+You know, I I Well, all churches in the eighties and nineties are growing up. It was very it was very easy condemn condemnation. But the issue here for Sophie and Syria is not their salvation, that's secure. It's a sanctification process then But yeah, I it's not very nice. It's not very I don't want to have to deal with it, but I do need to something about this to some to some maybe to the Merck's gang or something, but I'd I can imagine if I do this wrong, Raina's gonna be particularly Raina, so maybe maybe Chloe or something.
+
+🎤 SPEAKER_8 [876s - 880s]
+I mean I can I can I can prepare the the the lounge?
+
+🎤 SPEAKER_9 [882s - 883s]
+Yeah.
+
+🎤 SPEAKER_8 [883s - 885s]
+Prepare the waters with the tour. Them.
+
+🎤 SPEAKER_1 [886s - 888s]
+It's a very simple it's not a massive thing we're asking.
+
+🎤 SPEAKER_2 [888s - 889s]
+It's not.
+
+🎤 SPEAKER_1 [890s - 894s]
+All I'm asking is that a, they know our trip's position and they're clear and happy with it, and b, just be respectful of the fact that other people won't see it the same way.
+
+🎤 SPEAKER_8 [896s - 897s]
+See it the same way and that's it.
+
+🎤 SPEAKER_1 [897s - 907s]
+And so just a just a bit of a sensitivity to that that. Yeah. Like I would probably the other way. Yeah. I am Yeah. I think that's it. That's all we need Yeah.
+
+🎤 SPEAKER_2 [907s - 907s]
+For now.
+
+🎤 SPEAKER_1 [911s - 916s]
+Think Sophie and Sarah would ask me to do this. Don't know. But sort of dedication to the kids, wouldn't be I wouldn't be able to do that.
+
+🎤 SPEAKER_8 [916s - 917s]
+No.
+
+🎤 SPEAKER_6 [919s - 920s]
+And I I don't know whether they would or not.
+
+🎤 SPEAKER_0 [921s - 921s]
+No.
+
+🎤 SPEAKER_8 [922s - 925s]
+The trouble is I I would foresee Chloe
+
+🎤 SPEAKER_0 [925s - 925s]
+Yeah.
+
+🎤 SPEAKER_8 [931s - 934s]
+Encouraging it because she we just got different viewpoints on it and Yeah.
+
+🎤 SPEAKER_8 [935s - 937s]
+I don't know what stuff they've been reading half the time, but Yeah.
+
+🎤 SPEAKER_6 [938s - 940s]
+You know, they've read stuff that they say like, you know,
+
+🎤 SPEAKER_0 [941s - 942s]
+Yeah.
+
+🎤 SPEAKER_1 [942s - 954s]
+There are some liberal scholars that will what they do is they over contextualize the verses you see there. They they put it in the the city context. And that's probably workable for the verses, but then it's it's more to do. Romans one is a particularly hard one to get past.
+
+🎤 SPEAKER_1 [955s - 957s]
+Because it's talking about the human race as a whole.
+
+🎤 SPEAKER_2 [957s - 957s]
+Yeah.
+
+🎤 SPEAKER_1 [957s - 962s]
+Men get themselves over to less for other men, women get themselves over to less for other women. I I just It's hard one.
+
+🎤 SPEAKER_1 [963s - 968s]
+I think it's don't wanna die. I'm not gonna ever gonna preach a sermon on on on you're going to hell if you're home.
+
+🎤 SPEAKER_0 [968s - 968s]
+It's I'm homosexual or anything like that.
+
+🎤 SPEAKER_2 [968s - 970s]
+No.
+
+🎤 SPEAKER_8 [971s - 974s]
+But at the same time, you know, as much I've seen the hurts the church have paused.
+
+🎤 SPEAKER_0 [974s - 974s]
+Yeah.
+
+🎤 SPEAKER_6 [975s - 976s]
+To it.
+
+🎤 SPEAKER_8 [976s - 977s]
+Yeah.
+
+🎤 SPEAKER_6 [977s - 979s]
+It's been wrong. Yes. Because I don't think they've lovingly corrected or rebuked.
+
+🎤 SPEAKER_0 [983s - 984s]
+Yes.
+
+🎤 SPEAKER_8 [984s - 987s]
+It's been it's, as you say, it's been brutal and Yeah.
+
+🎤 SPEAKER_1 [992s - 1019s]
+It's been So I think, you know, if I could be completely honest with you, Steve, my if they were if Sylvia and Sue were to ask me what you think we should do, I I would I would say, well, very least a celibate relationship maybe even even look into I don't think I'd say this in one go, but eventually the marriage come out of a marriage. If you love each other as but commit to a mutual friendship or mutual I don't know. It's very difficult, isn't it? Because how me, a married man with two kids can say to someone else, you can't be married.
+
+🎤 SPEAKER_1 [1020s - 1023s]
+It's been biblical going going to single for the rest of your life.
+
+🎤 SPEAKER_8 [1023s - 1024s]
+No? Yeah. I know.
+
+🎤 SPEAKER_1 [1024s - 1032s]
+The god's got more god's but then I've got some single friends who wanna be married, they've just never never happened. They're dealing with it too. So it's kinda like this is small for people.
+
+🎤 SPEAKER_5 [1033s - 1033s]
+But I don't know.
+
+🎤 SPEAKER_1 [1034s - 1035s]
+It's a difficult one to see.
+
+🎤 SPEAKER_0 [1036s - 1037s]
+One.
+
+🎤 SPEAKER_8 [1037s - 1047s]
+I mean, I it's up to you. Do you would you rather I speak with them first, or would you rather you speak with them and then I pick up the pieces stuff.
+
+🎤 SPEAKER_8 [1048s - 1051s]
+So I mean, how how do you feel?
+
+🎤 SPEAKER_1 [1051s - 1057s]
+Well, you know your family the best. Right? So what do you think would be the the the best way? If you were in say you were my shoes here, you Omi, I think I think it might be it might be good maybe if I try and break the ice a bit.
+
+🎤 SPEAKER_0 [1068s - 1069s]
+Yep.
+
+🎤 SPEAKER_1 [1069s - 1071s]
+With with who now are they? Chloe.
+
+🎤 SPEAKER_2 [1071s - 1072s]
+Yep.
+
+🎤 SPEAKER_0 [1076s - 1077s]
+And and maybe back down. Yeah.
+
+🎤 SPEAKER_8 [1079s - 1092s]
+Maybe maybe make her realize you know, you need to be sensitive because it's it's causing it's causing so not everybody agrees with it, and it's causing people to question.
+
+🎤 SPEAKER_0 [1093s - 1093s]
+Yep.
+
+🎤 SPEAKER_1 [1094s - 1095s]
+So think this is the important bit though.
+
+🎤 SPEAKER_0 [1096s - 1096s]
+Right?
+
+🎤 SPEAKER_1 [1096s - 1098s]
+It's not it's not that everyone's uncomfortable.
+
+🎤 SPEAKER_1 [1098s - 1100s]
+It's some sort of kind of No.
+
+🎤 SPEAKER_0 [1100s - 1101s]
+It's actually convict theological conviction thing.
+
+🎤 SPEAKER_6 [1102s - 1103s]
+It's a theological thing they don't.
+
+🎤 SPEAKER_1 [1104s - 1109s]
+So like with it. Because the answer back to they don't feel comfortable. Well, need to be. Yeah. But no. It's con the conviction.
+
+🎤 SPEAKER_8 [1109s - 1113s]
+They're not comfortable with it because of the theology. Right.
+
+🎤 SPEAKER_0 [1113s - 1115s]
+And therefore you need to be respectful of that.
+
+🎤 SPEAKER_6 [1116s - 1118s]
+Whether you agree with it or not.
+
+🎤 SPEAKER_8 [1118s - 1135s]
+Yeah. As you've got a different opinion, they got a different opinion. And you need to needs to be taken into consideration. And and then as a of that, you know, I can just lead in with the fact that few people have spoken and questioned the church's position on it.
+
+🎤 SPEAKER_8 [1137s - 1150s]
+So Reese's had those inquiries and thinks it'd be good just to chat and and just to, you know, discuss it so that there's no misunderstanding and and everything's clarified. Mean, just, you know, in in sort of that type of way
+
+🎤 SPEAKER_0 [1153s - 1153s]
+Yeah.
+
+🎤 SPEAKER_6 [1153s - 1157s]
+I think what will happen is it will be it'll they'll they'll get upset.
+
+🎤 SPEAKER_0 [1158s - 1158s]
+Yeah.
+
+🎤 SPEAKER_6 [1158s - 1159s]
+They'll probably get a bit angry.
+
+🎤 SPEAKER_8 [1160s - 1162s]
+Yep.
+
+🎤 SPEAKER_0 [1162s - 1163s]
+And upset initially. Yep.
+
+🎤 SPEAKER_8 [1163s - 1166s]
+But then that that cooling off period. Yeah.
+
+🎤 SPEAKER_2 [1166s - 1168s]
+And then hopefully by the time, you know, you wanna have a chat with them.
+
+🎤 SPEAKER_8 [1168s - 1174s]
+Yeah. It might be a little bit more balanced and less defensive.
+
+🎤 SPEAKER_0 [1174s - 1175s]
+Yeah. Yeah.
+
+🎤 SPEAKER_1 [1176s - 1178s]
+Yeah. That sounds like sounds good to me.
+
+🎤 SPEAKER_8 [1179s - 1186s]
+I I know. But I mean, if you if you wanted to or prefer to speak with them first, Yeah. I pick up the pieces. I'm happy that way.
+
+🎤 SPEAKER_8 [1186s - 1191s]
+Whatever, but Yeah. I just I just think maybe Yeah. Like speaking with them
+
+🎤 SPEAKER_0 [1192s - 1192s]
+Yeah.
+
+🎤 SPEAKER_8 [1193s - 1194s]
+In the first instance. You know
+
+🎤 SPEAKER_0 [1194s - 1194s]
+Yeah.
+
+🎤 SPEAKER_8 [1194s - 1198s]
+There is always that we all get defensive where
+
+🎤 SPEAKER_0 [1198s - 1198s]
+Yes.
+
+🎤 SPEAKER_8 [1199s - 1202s]
+When we first spoken with. And it's very hard.
+
+🎤 SPEAKER_0 [1202s - 1202s]
+Yes.
+
+🎤 SPEAKER_8 [1203s - 1204s]
+Maintain that objectivity.
+
+🎤 SPEAKER_0 [1205s - 1207s]
+Yes. Yeah.
+
+🎤 SPEAKER_8 [1207s - 1211s]
+And and also understanding whether you're feeling hurt Yes.
+
+🎤 SPEAKER_0 [1211s - 1213s]
+And defensive. Yes.
+
+🎤 SPEAKER_1 [1214s - 1225s]
+And so my my heart would be when chatting with, say, Chloe or with Ron or whoever, would be to be passed on an understanding of the from where they're coming from.
+
+🎤 SPEAKER_1 [1225s - 1228s]
+Absolutely. Equally, we are trying to build a church out outlast us all.
+
+🎤 SPEAKER_1 [1231s - 1234s]
+And so in some sense, theological convictions need to be as kind of held to.
+
+🎤 SPEAKER_6 [1236s - 1237s]
+No. It's probably gone.
+
+🎤 SPEAKER_2 [1237s - 1238s]
+Yeah.
+
+🎤 SPEAKER_2 [1268s - 1270s]
+It's nice. Alright. Alright. Yeah.
+
+🎤 SPEAKER_8 [1271s - 1271s]
+Okay.
+
+🎤 SPEAKER_2 [1272s - 1272s]
+Alright.
+
+🎤 SPEAKER_5 [1273s - 1273s]
+Bye.
+
+🎤 SPEAKER_2 [1278s - 1278s]
+Yeah.
+
+🎤 SPEAKER_8 [1279s - 1280s]
+Paint to the
+
+🎤 SPEAKER_2 [1280s - 1281s]
+Right.
+
+🎤 SPEAKER_8 [1283s - 1283s]
+No.
+
+🎤 SPEAKER_9 [1284s - 1287s]
+I I understand where you're coming from completely, and I
+
+🎤 SPEAKER_8 [1287s - 1291s]
+you know, I we've we've chatted early on, you know, about
+
+🎤 SPEAKER_0 [1292s - 1292s]
+Yeah.
+
+🎤 SPEAKER_8 [1292s - 1299s]
+About it. And it is it is a difficult one because you do wanna be loving, caring, and compassionate. Yeah. People
+
+🎤 SPEAKER_0 [1300s - 1300s]
+Yeah.
+
+🎤 SPEAKER_6 [1300s - 1301s]
+Without condemning.
+
+🎤 SPEAKER_8 [1301s - 1302s]
+But there is a theological position and you know, I I I used to have
+
+🎤 SPEAKER_0 [1308s - 1308s]
+Yeah.
+
+🎤 SPEAKER_8 [1308s - 1310s]
+These conversations and these issues have
+
+🎤 SPEAKER_0 [1311s - 1311s]
+Yeah.
+
+🎤 SPEAKER_9 [1312s - 1317s]
+The argument was about getting it's our right to get married in church. Why is it your right to get married in church?
+
+🎤 SPEAKER_8 [1317s - 1321s]
+Yeah. Same sex couple. Yeah. It's a religious ceremony. A man and a woman.
+
+🎤 SPEAKER_4 [1322s - 1323s]
+Yes. You know?
+
+🎤 SPEAKER_0 [1323s - 1323s]
+It's it's Yes.
+
+🎤 SPEAKER_8 [1324s - 1325s]
+What it is.
+
+🎤 SPEAKER_9 [1325s - 1327s]
+So why do you feel you can ambush a church?
+
+🎤 SPEAKER_0 [1328s - 1330s]
+Yes. Just because you feel Amazing.
+
+🎤 SPEAKER_9 [1330s - 1331s]
+You know.
+
+🎤 SPEAKER_1 [1331s - 1334s]
+I just This is a conversation I had with Sophie and Syria. It was it? No. Oh, with Oh, just generally.
+
+🎤 SPEAKER_0 [1334s - 1336s]
+Yeah. Generally. Yeah. People.
+
+🎤 SPEAKER_8 [1337s - 1339s]
+When they'd come up and these things would Yeah.
+
+🎤 SPEAKER_0 [1341s - 1343s]
+It was really topical. Wasn't it? Yeah. That's right.
+
+🎤 SPEAKER_0 [1346s - 1348s]
+It went from civil service to people then wanting to push it, not just from having a civil civil rights and civil service.
+
+🎤 SPEAKER_8 [1350s - 1352s]
+Wanted to push it.
+
+🎤 SPEAKER_0 [1352s - 1356s]
+Well, no. I wanna get married in church. Yeah. So I get married in church.
+
+🎤 SPEAKER_1 [1356s - 1359s]
+It's a bit of a battleground. I used to get so angry and annoyed with it.
+
+🎤 SPEAKER_0 [1360s - 1361s]
+Yeah.
+
+🎤 SPEAKER_8 [1361s - 1361s]
+I've listened to people.
+
+🎤 SPEAKER_9 [1362s - 1365s]
+Just very nicely point out of, do you understand what
+
+🎤 SPEAKER_0 [1366s - 1366s]
+Yes.
+
+🎤 SPEAKER_8 [1367s - 1367s]
+Is?
+
+🎤 SPEAKER_1 [1367s - 1377s]
+You're right. Yeah. You know? And there is there is a of the land, you like, rather than marriage before god. And so in that sense I think the civil ceremonial addresses
+
+🎤 SPEAKER_2 [1379s - 1380s]
+You know?
+
+🎤 SPEAKER_1 [1380s - 1384s]
+But my reducer is a part of the created order. It's kinda god's intention for creation.
+
+🎤 SPEAKER_8 [1387s - 1389s]
+So no. Sophie and Sarah.
+
+🎤 SPEAKER_1 [1390s - 1396s]
+I think there was a I've I've got the impression there's a bit of awareness there from them a little bit. Well, I think they I think the Sensitivity or whatever you in there a little bit more with Sarah's parents.
+
+🎤 SPEAKER_8 [1397s - 1401s]
+I mean they've had to overcome that.
+
+🎤 SPEAKER_0 [1401s - 1402s]
+Yes.
+
+🎤 SPEAKER_8 [1404s - 1410s]
+The parents have adjusted and been really good and actually they've been really positive and you know, with the pictures of the babies and the feedback. They have.
+
+🎤 SPEAKER_0 [1410s - 1413s]
+Are they? Okay. Yeah. Really like Yeah.
+
+🎤 SPEAKER_1 [1413s - 1416s]
+You there's nothing like being in the situation personally to
+
+🎤 SPEAKER_2 [1416s - 1416s]
+No.
+
+🎤 SPEAKER_1 [1416s - 1419s]
+To to kind of reflect on your views on these things. No.
+
+🎤 SPEAKER_8 [1419s - 1420s]
+And I think when it's your loved one,
+
+🎤 SPEAKER_2 [1421s - 1421s]
+Yeah.
+
+🎤 SPEAKER_8 [1421s - 1422s]
+What you're gonna do?
+
+🎤 SPEAKER_0 [1422s - 1422s]
+Are you Yeah.
+
+🎤 SPEAKER_9 [1422s - 1424s]
+Are you gonna reject them?
+
+🎤 SPEAKER_0 [1424s - 1425s]
+You Yeah.
+
+🎤 SPEAKER_8 [1426s - 1428s]
+Don't have to not saying you changed your principles.
+
+🎤 SPEAKER_5 [1428s - 1428s]
+No.
+
+🎤 SPEAKER_2 [1428s - 1429s]
+And and you're No.
+
+🎤 SPEAKER_8 [1430s - 1430s]
+No.
+
+🎤 SPEAKER_9 [1432s - 1434s]
+But you do have to then hire.
+
+🎤 SPEAKER_8 [1435s - 1437s]
+You do have to put it into context and position to involve
+
+🎤 SPEAKER_0 [1440s - 1440s]
+Yeah.
+
+🎤 SPEAKER_1 [1441s - 1446s]
+And that's what and I think, as I say, if I was in your shoes, I'd I'd done the same I would've probably been in the same position.
+
+🎤 SPEAKER_1 [1446s - 1457s]
+Would Yeah. Keep in relationship with my children. I love them. I want to be in their lives. I don't want to bring the name of Christ into disrepute. No. So but for me, you know, I'm I have to Well, you're a different position.
+
+🎤 SPEAKER_1 [1458s - 1460s]
+I have to be clearer.
+
+🎤 SPEAKER_9 [1461s - 1462s]
+Position of the church. Across.
+
+🎤 SPEAKER_8 [1462s - 1466s]
+And you know, I I think that's important. And to be honest with you,
+
+🎤 SPEAKER_0 [1467s - 1467s]
+Yeah.
+
+🎤 SPEAKER_8 [1467s - 1470s]
+It probably is something that is long overdue.
+
+🎤 SPEAKER_0 [1471s - 1473s]
+Yes. In that sense. Yeah. I think you're right. Yeah.
+
+🎤 SPEAKER_8 [1474s - 1481s]
+And, you know, yeah, I mean, to be fair to you, you've had you've had, you know, pressing and important things.
+
+🎤 SPEAKER_0 [1481s - 1484s]
+Going on with your studies and everything else. Yes. And after most important.
+
+🎤 SPEAKER_8 [1484s - 1486s]
+Yeah.
+
+🎤 SPEAKER_9 [1486s - 1487s]
+These things, you know, eye themselves out.
+
+🎤 SPEAKER_1 [1489s - 1506s]
+This is the thing. I I feel like I feel like two more weeks two more weeks and I've got I'm finished. It's kinda like it's just been all time consuming. But it's kinda like I don't really want have to deal with kind of what could potentially be a real difficult thing in the life of god first.
+
+🎤 SPEAKER_1 [1507s - 1511s]
+But equally, it's come to our head a little bit.
+
+🎤 SPEAKER_8 [1514s - 1518s]
+And and I think I think to be I think they all in some respect I think it's been spoken about.
+
+🎤 SPEAKER_0 [1518s - 1519s]
+Yeah.
+
+🎤 SPEAKER_8 [1519s - 1521s]
+I think they're all aware of
+
+🎤 SPEAKER_0 [1521s - 1521s]
+Yeah.
+
+🎤 SPEAKER_8 [1521s - 1529s]
+The position. Think is as well, whether you know? Yeah. Although it's in accepting, Yeah. And inviting and
+
+🎤 SPEAKER_0 [1529s - 1531s]
+Yes. Accommodating to Yeah.
+
+🎤 SPEAKER_8 [1532s - 1539s]
+Think they know the theological position Yes. But again, it's just sometimes something like this brings it
+
+🎤 SPEAKER_0 [1539s - 1539s]
+Yeah.
+
+🎤 SPEAKER_8 [1539s - 1543s]
+To a point where you just remind it, oh, actually, do you know what? Yes.
+
+🎤 SPEAKER_1 [1544s - 1558s]
+So I think it's it's only from my perspective, and I I don't appreciate my perspective, it it might be different. This is just a small thing that can be in sense that clarification of the church's position Yeah. And just be mindful and respectful of the fact that that is our position, but also others too that hold it. Yeah.
+
+🎤 SPEAKER_1 [1559s - 1566s]
+And try not to get hurt and upset about it. No. And I'll say the same to others who come to me. Yeah.
+
+🎤 SPEAKER_8 [1568s - 1573s]
+And so it's just kinda like threading the needle a little bit. Yeah. And I think I'd just say the excitement of everything Yeah.
+
+🎤 SPEAKER_8 [1576s - 1595s]
+Perhaps it wasn't thought through, but then again, opening it up to the women at the church, is something maybe there is no other way of No. Of action actually We want to do a baby shower. Yeah.
+
+🎤 SPEAKER_6 [1595s - 1596s]
+We're gonna open it up to women at the church.
+
+🎤 SPEAKER_8 [1596s - 1598s]
+Yeah. But you have to accept them in response.
+
+🎤 SPEAKER_0 [1598s - 1598s]
+Yes.
+
+🎤 SPEAKER_1 [1600s - 1602s]
+You know, if you're gonna do And you got your luxury Helen's and others and them,
+
+🎤 SPEAKER_2 [1602s - 1602s]
+Michelle.
+
+🎤 SPEAKER_1 [1602s - 1613s]
+They're just they're just not getting it at all. Which is fine. But then it's just that I think it's just that that the way the message was, wordy. Very well the the crazy thing is the message is beautiful. If it was a heterosexual couple
+
+🎤 SPEAKER_2 [1613s - 1613s]
+Yeah.
+
+🎤 SPEAKER_1 [1614s - 1626s]
+Everyone be all over it. It's beautiful. We're gonna do a journal. We're gonna do this. We're gonna do that. But it's just because of the because of that is but maybe just a bit of sensitivity from Yeah. Chloe's side on that would be great. Yeah.
+
+🎤 SPEAKER_2 [1628s - 1628s]
+Okay.
+
+🎤 SPEAKER_4 [1630s - 1632s]
+So so Well, I'll I'll endeavor to have a chat.
+
+🎤 SPEAKER_0 [1635s - 1636s]
+With Chloe. Yeah.
+
+🎤 SPEAKER_8 [1640s - 1643s]
+And then at least that's Yeah.
+
+🎤 SPEAKER_0 [1643s - 1644s]
+Broken the ice.
+
+🎤 SPEAKER_8 [1644s - 1650s]
+I could speak to Sophie and Sarah. I mean, Sophie's a I didn't know where there's a baby shower being arranged.
+
+🎤 SPEAKER_0 [1650s - 1651s]
+Are they? Yeah.
+
+🎤 SPEAKER_8 [1651s - 1653s]
+So it's not like it's a surprise. Yeah.
+
+🎤 SPEAKER_8 [1656s - 1659s]
+If I can make them a in a sensitive way, aware that look, you know, I'm sure I'm sure they understand that not everybody agree with Yeah.
+
+🎤 SPEAKER_0 [1667s - 1669s]
+Their their life.
+
+🎤 SPEAKER_8 [1670s - 1675s]
+And and lifestyle chosen partner and even same sex, you know, parenting. Yes.
+
+🎤 SPEAKER_0 [1677s - 1677s]
+Yeah.
+
+🎤 SPEAKER_1 [1677s - 1692s]
+Even though the the I'm sure these kids are gonna have a much more life than they would in care. So in some ways, I'm hugely sympathetic. I'm sympathetic to those who are born attracted to the opposite sex. Maybe Sarah would describe herself that way. I don't know.
+
+🎤 SPEAKER_8 [1695s - 1709s]
+I'm sympathetic to it, but the word of god is clear on it and Fortune. I think and you know there's a lot of there's a lot of Christian gay people who remain celibate because they do stand on that word and they will actually
+
+🎤 SPEAKER_1 [1712s - 1712s]
+Sorry?
+
+🎤 SPEAKER_8 [1712s - 1717s]
+They've written about it and their position being a gay Christian.
+
+🎤 SPEAKER_1 [1717s - 1726s]
+I think that's where the Holy Spirit would lead, I think, to If if you listen to the spirit's conviction in your life, it would lead to a realization of celibacy perhaps at least.
+
+🎤 SPEAKER_0 [1727s - 1729s]
+Yeah.
+
+🎤 SPEAKER_1 [1729s - 1742s]
+And that that's where it kinda went a bit wrong. But nonetheless, we I I don't want it's difficult to say. I don't want to feel like not fully part of us, but but the No. But then the same way, the reality is there'll be there'll be some It's the it's reality of the world, you know, and unfortunately, it is something that they have to deal with to a degree in life.
+
+🎤 SPEAKER_6 [1753s - 1755s]
+Yes.
+
+🎤 SPEAKER_6 [1757s - 1760s]
+And we'll have to especially when they get children. Yes.
+
+🎤 SPEAKER_8 [1760s - 1764s]
+Because they're always gonna be those who are dissenters to that. Yes.
+
+🎤 SPEAKER_8 [1765s - 1771s]
+So if 's it's, you know, it's not it's a lot better now than it used to be years ago. Yeah. I mean, people are more poorly actually.
+
+🎤 SPEAKER_8 [1773s - 1777s]
+Now is people are more open. Yes.
+
+🎤 SPEAKER_0 [1779s - 1781s]
+So too much, you know. Right. Yeah.
+
+🎤 SPEAKER_8 [1782s - 1783s]
+With the gender ideology and LGBTQ.
+
+🎤 SPEAKER_1 [1786s - 1788s]
+That's right. It's just a the cultural thing at the moment, isn't it?
+
+🎤 SPEAKER_8 [1788s - 1795s]
+So in a way, they're they're have a better life
+
+🎤 SPEAKER_0 [1795s - 1795s]
+Yeah.
+
+🎤 SPEAKER_9 [1797s - 1799s]
+That acceptance. Yeah.
+
+🎤 SPEAKER_1 [1801s - 1806s]
+But as you say, you know, it's it's I think it's just a matter of I just think just a few conversations then.
+
+🎤 SPEAKER_2 [1806s - 1807s]
+Yeah.
+
+🎤 SPEAKER_1 [1807s - 1817s]
+I'll chat a little with Chloe. It's not a big deal. Just a clarification for Sophie and Sarah. Hey. We love you. We're glad you're welcome. We we love you. We want you to stay. Just want you to know our position on these on this.
+
+🎤 SPEAKER_0 [1817s - 1817s]
+Yeah.
+
+🎤 SPEAKER_1 [1817s - 1822s]
+That doesn't mean that we want you there. We don't love you. We don't hate you. We love you. But you just need to know. Yeah.
+
+🎤 SPEAKER_8 [1822s - 1840s]
+And therefore and also, you know, it's they just need to have that sensitivity that as much as they are accepted and you know, they'll come into the church, there will be those in the fellowship that don't hold the the same views when it comes to their relationship. So it's like Yeah. You you just need to be sensitive to that.
+
+🎤 SPEAKER_1 [1841s - 1855s]
+If that leads to a bit of a pastoral kind of why could people be so unloving? Very happy to come in down and chat and just say, okay. I understand I understand that sentiment. But it's actually loving to to more loving in a sense to to be honest about the widow garden, you say.
+
+🎤 SPEAKER_8 [1856s - 1865s]
+I think it's it's I think the the the thing is is that you can love somebody not necessarily agree Right. With everything they do. It's the same as a parent with a child.
+
+🎤 SPEAKER_8 [1865s - 1871s]
+Yeah. Sometimes these kids will drive you to insanity. Yeah. And you will hate some of the things they do
+
+🎤 SPEAKER_2 [1872s - 1872s]
+Yeah.
+
+🎤 SPEAKER_8 [1872s - 1873s]
+Especially if they're older.
+
+🎤 SPEAKER_2 [1874s - 1875s]
+Yeah.
+
+🎤 SPEAKER_8 [1876s - 1881s]
+You'd still never stop loving them. It's the same in the church. Yeah. People not agree with everything you say or do.
+
+🎤 SPEAKER_2 [1881s - 1881s]
+Right.
+
+🎤 SPEAKER_8 [1881s - 1883s]
+But they're still gonna love you through it.
+
+🎤 SPEAKER_2 [1883s - 1884s]
+Yeah.
+
+🎤 SPEAKER_8 [1884s - 1892s]
+And you might feel it's a topic that shouldn't even be subject judgment or discussion, but Yeah. In church life, it is. Yeah.
+
+🎤 SPEAKER_0 [1892s - 1895s]
+That's right. And that's the way it is. Yep.
+
+🎤 SPEAKER_1 [1896s - 1907s]
+So I'm sorry, Steve, that that is not a pleasant thing. Man. In some ways, it my fault. I'd I've not led strongly on it. Some ways, I didn't want to, but the other another sense, there is Do you know what?
+
+🎤 SPEAKER_8 [1908s - 1915s]
+I'd rather I'd rather deal with it the way as a church we deal with it. Yep.
+
+🎤 SPEAKER_6 [1917s - 1919s]
+And b, open Yep.
+
+🎤 SPEAKER_9 [1919s - 1919s]
+Welcoming and loving
+
+🎤 SPEAKER_0 [1920s - 1920s]
+Yep.
+
+🎤 SPEAKER_8 [1921s - 1925s]
+And then know, have to deal with this. This is this is a small hiccup.
+
+🎤 SPEAKER_0 [1925s - 1927s]
+Yes. And I'm sure Yeah.
+
+🎤 SPEAKER_8 [1931s - 1933s]
+Now that there are firmer planted within the church Yes.
+
+🎤 SPEAKER_8 [1936s - 1944s]
+It'll be far easier to deal with than it would be if if they first came in and said, we don't agree with your lifestyle. Yep.
+
+🎤 SPEAKER_8 [1944s - 1945s]
+All were not coming then.
+
+🎤 SPEAKER_0 [1945s - 1945s]
+So Yeah.
+
+🎤 SPEAKER_1 [1945s - 1955s]
+And that's exactly what will happen. And I've always felt that I've always felt that anyone who feels marginalized should be able to come and hear the word of god and experience the presence of god in worship.
+
+🎤 SPEAKER_1 [1956s - 1962s]
+That's by far the better way. Yeah. Much more open to the holy spirit doing something Yeah. And that contest.
+
+🎤 SPEAKER_8 [1963s - 1964s]
+I I agree with you.
+
+🎤 SPEAKER_6 [1965s - 1967s]
+So I I wouldn't I wouldn't like beat yourself up on it.
+
+🎤 SPEAKER_0 [1967s - 1967s]
+Yeah.
+
+🎤 SPEAKER_8 [1969s - 1973s]
+It it is something that's like it is what it is.
+
+🎤 SPEAKER_2 [1973s - 1974s]
+Yeah.
+
+🎤 SPEAKER_8 [1975s - 1977s]
+We we just gotta roll with the punches. As I say.
+
+🎤 SPEAKER_1 [1977s - 1979s]
+Are you we was apt that you said that this morning.
+
+🎤 SPEAKER_2 [1980s - 1980s]
+Yeah.
+
+🎤 SPEAKER_1 [1980s - 1986s]
+I hope it I hope it's not gonna I mean, worst case scenario, it could end up to your family decide they don't wanna come to God for it.
+
+🎤 SPEAKER_1 [1987s - 1988s]
+Come to god first anymore.
+
+🎤 SPEAKER_0 [1990s - 1991s]
+I'm oh, I can have a quick coffee if you you got time.
+
+🎤 SPEAKER_1 [1992s - 1993s]
+Ten like a ten minute one.
+
+🎤 SPEAKER_0 [1993s - 1995s]
+No. It's fine.
+
+🎤 SPEAKER_8 [1995s - 1995s]
+Fine.
+
+🎤 SPEAKER_0 [1996s - 1998s]
+Brian has gone out with Lois and Oh, yeah.
+
+🎤 SPEAKER_10 [1998s - 2001s]
+I know when she's back. With just for a little walk.
+
+🎤 SPEAKER_0 [2001s - 2003s]
+Great. Great. Yeah.
+
+🎤 SPEAKER_1 [2004s - 2009s]
+I saw as I pulled in by the way, Chloe and Andrew were leaving. Yeah. I don't know you saw them on the way in.
+
+🎤 SPEAKER_10 [2009s - 2011s]
+No. They're disabled at the nothing to with Jason.
+
+🎤 SPEAKER_0 [2015s - 2017s]
+Right. They've they've got a two. Right.
+
+🎤 SPEAKER_10 [2018s - 2030s]
+Yeah. Or they want open house my ass. Sometimes I feel like taking the keys off off Yeah.
+
+🎤 SPEAKER_0 [2032s - 2034s]
+No.
+
+🎤 SPEAKER_1 [2036s - 2039s]
+You That's just family life, isn't it? You guys are you guys are one of the Post Falls family units over
+
+🎤 SPEAKER_10 [2040s - 2043s]
+I've seen. Be fair. And I think you know, in some respects, got sketches as well, Steve?
+
+🎤 SPEAKER_1 [2047s - 2049s]
+Slip on.
+
+🎤 SPEAKER_0 [2049s - 2050s]
+I know. They're the best.
+
+🎤 SPEAKER_10 [2051s - 2052s]
+Oh, no.
+
+🎤 SPEAKER_8 [2053s - 2054s]
+Those ones are Macy's, but they're a size off.
+
+🎤 SPEAKER_0 [2054s - 2055s]
+Sorry. I'm pretty sure.
+
+🎤 SPEAKER_10 [2058s - 2059s]
+So they're a size bigger.
+
+🎤 SPEAKER_1 [2059s - 2060s]
+Up the door, Steve?
+
+🎤 SPEAKER_10 [2060s - 2062s]
+Oh, I'll just push it too. Yeah. Go on.
+
+🎤 SPEAKER_0 [2062s - 2064s]
+Tune it? No. Alright. Yeah. It just clicks. That's fine.
+
+🎤 SPEAKER_1 [2064s - 2065s]
+Alright. I see.
+
+🎤 SPEAKER_10 [2067s - 2069s]
+Yeah. The the lens, actually, didn't wear them.
+
+🎤 SPEAKER_8 [2070s - 2072s]
+He said, do you want these? Are these?
+
+🎤 SPEAKER_10 [2073s - 2074s]
+I've a larger size.
+
+🎤 SPEAKER_0 [2074s - 2075s]
+Oh, yeah. Yeah.
+
+🎤 SPEAKER_10 [2075s - 2076s]
+I was like, yeah.
+
+🎤 SPEAKER_8 [2076s - 2081s]
+And, actually, they're really comfortable. So they're quite easy even with the to know.
+
+🎤 SPEAKER_0 [2081s - 2082s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [2083s - 2095s]
+Well, Rachel says I'm I'm too young to have them, but the sketches where they got the slip on slip off technology And basically, they slip on really nicely and hop also really a tight halt.
+
+🎤 SPEAKER_0 [2095s - 2097s]
+Have you got some? No. No.
+
+🎤 SPEAKER_10 [2097s - 2099s]
+I thought No. Try it there on.
+
+🎤 SPEAKER_0 [2099s - 2100s]
+They're great.
+
+🎤 SPEAKER_10 [2100s - 2105s]
+But I I've went to the pod podiatrist because I got a little ball I think you see it here.
+
+🎤 SPEAKER_0 [2105s - 2107s]
+Alright. Yeah. And on that one.
+
+🎤 SPEAKER_8 [2108s - 2109s]
+Oh, yeah.
+
+🎤 SPEAKER_10 [2109s - 2112s]
+It's from wearing narrow shoes. And Ah.
+
+🎤 SPEAKER_8 [2113s - 2115s]
+Caused it's like a bunion type of effect. Yeah.
+
+🎤 SPEAKER_5 [2115s - 2116s]
+So this
+
+🎤 SPEAKER_0 [2116s - 2116s]
+Yeah.
+
+🎤 SPEAKER_9 [2117s - 2119s]
+It's expanded to protect your foot.
+
+🎤 SPEAKER_0 [2119s - 2119s]
+Yes.
+
+🎤 SPEAKER_8 [2119s - 2126s]
+Because it was too tight. So they said you need when I went to see them, you need firmer Yeah. Sole shoes.
+
+🎤 SPEAKER_2 [2126s - 2126s]
+Right.
+
+🎤 SPEAKER_8 [2127s - 2130s]
+So that's when I started walking and doing, like, five or six k a day.
+
+🎤 SPEAKER_0 [2130s - 2131s]
+Oh, yeah.
+
+🎤 SPEAKER_8 [2131s - 2134s]
+And they said, need something the sketches are too soft.
+
+🎤 SPEAKER_0 [2134s - 2134s]
+Yeah.
+
+🎤 SPEAKER_10 [2135s - 2138s]
+The sketches, the blue ones, I've got a hard soles. They're okay.
+
+🎤 SPEAKER_6 [2139s - 2140s]
+But others are way too soft.
+
+🎤 SPEAKER_8 [2142s - 2147s]
+And they say you need running shoes, preferably wide fitting with heavy Yeah. And it gives you foot then.
+
+🎤 SPEAKER_0 [2147s - 2151s]
+Oh, yeah. Have you got some of those? Not yet. I know.
+
+🎤 SPEAKER_10 [2151s - 2152s]
+Why. But No. But they said that's the reason why Oh, yeah.
+
+🎤 SPEAKER_1 [2154s - 2158s]
+You all the years of wearing Yeah. Piece shoes or whatever. I don't understand the issue or whatever, but look or what No.
+
+🎤 SPEAKER_10 [2158s - 2161s]
+It's actually my gym trainers.
+
+🎤 SPEAKER_0 [2163s - 2164s]
+Alright.
+
+🎤 SPEAKER_8 [2165s - 2168s]
+And because I wasn't wearing them for the gym because I stopped going Yeah.
+
+🎤 SPEAKER_10 [2168s - 2170s]
+I thought, oh, they're brand new. I'll use them for walking.
+
+🎤 SPEAKER_0 [2171s - 2171s]
+Oh, yeah.
+
+🎤 SPEAKER_6 [2171s - 2173s]
+And they're okay in the gym because you doing a lot.
+
+🎤 SPEAKER_8 [2173s - 2178s]
+You were just walking, you know, around the gym and exercising for an hour.
+
+🎤 SPEAKER_0 [2178s - 2178s]
+Yeah.
+
+🎤 SPEAKER_6 [2179s - 2182s]
+But, of course, when I started doing a lot of walking
+
+🎤 SPEAKER_0 [2182s - 2182s]
+Yeah.
+
+🎤 SPEAKER_10 [2182s - 2186s]
+Two narrow, and they're rubbing on my outside.
+
+🎤 SPEAKER_1 [2186s - 2190s]
+It gave me I was sitting there feel the pain. Yeah. Nothing at all.
+
+🎤 SPEAKER_10 [2190s - 2194s]
+Sat in bed one night with my feet tilted around. I said, what do I feel
+
+🎤 SPEAKER_1 [2194s - 2195s]
+Alright.
+
+🎤 SPEAKER_0 [2195s - 2196s]
+Look at these little torches.
+
+🎤 SPEAKER_1 [2196s - 2198s]
+You'd not been there before? No? No.
+
+🎤 SPEAKER_10 [2199s - 2204s]
+So anyway, so that's I ended up going to the royal. And to the Oh, yeah.
+
+🎤 SPEAKER_10 [2206s - 2211s]
+The dietary, and they they sort of said, yeah. Look. You know? What shoes you got on? I had my sketches on then.
+
+🎤 SPEAKER_2 [2211s - 2211s]
+Oh, yeah.
+
+🎤 SPEAKER_5 [2212s - 2213s]
+Did they?
+
+🎤 SPEAKER_0 [2213s - 2214s]
+Yeah. My sketches too soft, so Have a look at these.
+
+🎤 SPEAKER_10 [2215s - 2218s]
+Take it off. So took it off, and she's got the sole, and she's Okay.
+
+🎤 SPEAKER_6 [2219s - 2221s]
+That's one of the better sketches.
+
+🎤 SPEAKER_0 [2221s - 2222s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [2222s - 2224s]
+I they because normally, just do that. Yeah?
+
+🎤 SPEAKER_8 [2224s - 2224s]
+Because they're firm sold.
+
+🎤 SPEAKER_5 [2225s - 2225s]
+She sent
+
+🎤 SPEAKER_1 [2226s - 2227s]
+she sent are Interesting.
+
+🎤 SPEAKER_8 [2228s - 2233s]
+One of the worst you can have I said older people Yeah.
+
+🎤 SPEAKER_0 [2233s - 2234s]
+Go for them. Yeah.
+
+🎤 SPEAKER_8 [2234s - 2236s]
+Hence me.
+
+🎤 SPEAKER_10 [2236s - 2237s]
+Yeah.
+
+🎤 SPEAKER_6 [2237s - 2238s]
+And she said, but, unfortunately, she they don't give you full any support.
+
+🎤 SPEAKER_8 [2239s - 2242s]
+Really? When you're walking, she said, harder soles.
+
+🎤 SPEAKER_10 [2242s - 2247s]
+When you put your foot down Yeah.
+
+🎤 SPEAKER_8 [2247s - 2250s]
+And you walk, it causes your heel to raise.
+
+🎤 SPEAKER_10 [2250s - 2252s]
+Yeah.
+
+🎤 SPEAKER_8 [2252s - 2258s]
+So when you're doing any length of walking, any distance, you said you need harder sols. Interesting. Yeah.
+
+🎤 SPEAKER_6 [2258s - 2260s]
+Went through and then for me, so your problem is you've got white feet.
+
+🎤 SPEAKER_0 [2260s - 2260s]
+Right.
+
+🎤 SPEAKER_8 [2261s - 2263s]
+By the looks of it, you've had two narrow Right.
+
+🎤 SPEAKER_0 [2263s - 2266s]
+Shoe. You need to buy a wide So yeah.
+
+🎤 SPEAKER_1 [2267s - 2270s]
+And so you're not gonna get custom then on obviously. No.
+
+🎤 SPEAKER_6 [2270s - 2280s]
+I just go there are trains. I've looked online. That think our trainer manufacture that make wide fitting. Yeah. So I'll find a running with a wide fit.
+
+🎤 SPEAKER_0 [2280s - 2282s]
+And then that'll be okay for walking.
+
+🎤 SPEAKER_1 [2282s - 2284s]
+Presume that won't that will just be it now until Oh, yeah. Until now.
+
+🎤 SPEAKER_0 [2285s - 2286s]
+You get your new body.
+
+🎤 SPEAKER_8 [2286s - 2288s]
+Yeah. She said that's it. So Yeah.
+
+🎤 SPEAKER_1 [2288s - 2289s]
+Oh, well, fair enough. He it's hurts.
+
+🎤 SPEAKER_0 [2290s - 2291s]
+No. Painful. It's just like
+
+🎤 SPEAKER_10 [2291s - 2293s]
+No. Just think that's little I mean, some of the ladies there, billions they have, are just mad.
+
+🎤 SPEAKER_1 [2298s - 2300s]
+So but, again, it's all heels and their old foot use and everything. Yeah.
+
+🎤 SPEAKER_2 [2300s - 2301s]
+Yeah.
+
+🎤 SPEAKER_10 [2301s - 2302s]
+Our cattle's gone.
+
+🎤 SPEAKER_0 [2302s - 2304s]
+Is it? Oh, no.
+
+🎤 SPEAKER_5 [2305s - 2306s]
+It for soda. Oh, you shouldn't have offered me a coffee there, Oh, no.
+
+🎤 SPEAKER_10 [2307s - 2308s]
+No.
+
+🎤 SPEAKER_6 [2308s - 2310s]
+This is fine. This is actually quicker than the kettle.
+
+🎤 SPEAKER_5 [2310s - 2311s]
+Is it?
+
+🎤 SPEAKER_6 [2313s - 2314s]
+The kettle, the Teflon sort of type stuff, has all started to do degree.
+
+🎤 SPEAKER_8 [2315s - 2322s]
+Then you get a little You put a a lot of water in and pour yourself a coffee. Yeah. You were fine.
+
+🎤 SPEAKER_9 [2322s - 2326s]
+But if you got down to the end of the water in the you pour it, they're all black.
+
+🎤 SPEAKER_6 [2326s - 2327s]
+No. No.
+
+🎤 SPEAKER_1 [2328s - 2328s]
+So we It's gonna buy new one, It's an expensive kettle.
+
+🎤 SPEAKER_8 [2329s - 2331s]
+Yeah.
+
+🎤 SPEAKER_6 [2331s - 2333s]
+And there's a a lifetime warranty.
+
+🎤 SPEAKER_8 [2333s - 2333s]
+On it.
+
+🎤 SPEAKER_0 [2333s - 2335s]
+Oh, right. Okay. Yeah.
+
+🎤 SPEAKER_10 [2335s - 2338s]
+So I'd rather send it back. But we the saucepan on with water. Yeah.
+
+🎤 SPEAKER_6 [2339s - 2341s]
+And I said to run, I said, actually boils quicker than they can.
+
+🎤 SPEAKER_2 [2341s - 2341s]
+Yeah.
+
+🎤 SPEAKER_1 [2342s - 2344s]
+I said, it it does seem it.
+
+🎤 SPEAKER_2 [2344s - 2345s]
+Convection heater.
+
+🎤 SPEAKER_10 [2345s - 2349s]
+Yeah. So so if it's just a same. Oh, yeah.
+
+🎤 SPEAKER_8 [2349s - 2350s]
+She had to send her kettle back as well.
+
+🎤 SPEAKER_9 [2350s - 2352s]
+Same same problem. Yeah.
+
+🎤 SPEAKER_1 [2352s - 2358s]
+Yeah. We I try to buy a fast boil one about four about four minutes still, though. Is never quite long enough for any other five minute break.
+
+🎤 SPEAKER_1 [2358s - 2360s]
+No. That's good.
+
+🎤 SPEAKER_8 [2361s - 2363s]
+So I was just I was super Yeah. For your exam.
+
+🎤 SPEAKER_0 [2363s - 2364s]
+Nearly.
+
+🎤 SPEAKER_1 [2364s - 2369s]
+Well, yeah. Yeah. I've I've memorized about a 145 index cards.
+
+🎤 SPEAKER_4 [2369s - 2369s]
+Yeah.
+
+🎤 SPEAKER_1 [2369s - 2371s]
+I've got another 136.
+
+🎤 SPEAKER_0 [2372s - 2372s]
+To do.
+
+🎤 SPEAKER_1 [2373s - 2374s]
+For this one test.
+
+🎤 SPEAKER_0 [2374s - 2374s]
+Yeah.
+
+🎤 SPEAKER_1 [2375s - 2387s]
+And may seem overkill, but reality is I wanna know I wanna be able to a deal with any question they ask, but b, useful for ministry as well. I've got to know the sounds really incredibly well now because of this. I'm grateful for it.
+
+🎤 SPEAKER_1 [2388s - 2403s]
+I just I just my whole life I failed exams because I've been rubbish at it. And then I finally learned a way to do it and it just takes unfortunately. It's kind of like the final stretch. But so a week Friday and then the final Wednesday.
+
+🎤 SPEAKER_1 [2404s - 2406s]
+And that's it. Praise god that'd be done.
+
+🎤 SPEAKER_9 [2407s - 2408s]
+Well, do you know, if the you've run the race it's Harrison, isn't it?
+
+🎤 SPEAKER_0 [2410s - 2412s]
+Yeah. Six years does feel like that to be honest.
+
+🎤 SPEAKER_1 [2413s - 2418s]
+It is a You guys have been great and really supportive. The church's been brilliant with it and Well, do you know what?
+
+🎤 SPEAKER_10 [2419s - 2423s]
+I was talking to Johnny.
+
+🎤 SPEAKER_8 [2423s - 2425s]
+We often know these conversations about church life.
+
+🎤 SPEAKER_0 [2425s - 2426s]
+Yeah.
+
+🎤 SPEAKER_10 [2426s - 2428s]
+When we go down on a Friday Yeah.
+
+🎤 SPEAKER_0 [2428s - 2429s]
+On our prayer walk and stuff.
+
+🎤 SPEAKER_8 [2429s - 2438s]
+And then I was saying that, you know, we've been praying on the new bill for the church. Yes. And I said, you know, god's timing is perfect.
+
+🎤 SPEAKER_8 [2438s - 2440s]
+So Yeah. Like, when you finish your exams now Yeah.
+
+🎤 SPEAKER_10 [2440s - 2442s]
+Look. Look at it.
+
+🎤 SPEAKER_0 [2442s - 2442s]
+Yeah.
+
+🎤 SPEAKER_1 [2442s - 2445s]
+I got a feeling. Yeah. I got a feeling on this.
+
+🎤 SPEAKER_10 [2445s - 2446s]
+No worries. It's like, yeah, watch out.
+
+🎤 SPEAKER_8 [2446s - 2448s]
+There's a new chapter. Yeah.
+
+🎤 SPEAKER_10 [2449s - 2451s]
+And I'm sure god enough.
+
+🎤 SPEAKER_1 [2452s - 2453s]
+God sang it on these things. Yeah.
+
+🎤 SPEAKER_2 [2453s - 2453s]
+Yeah.
+
+🎤 SPEAKER_1 [2454s - 2460s]
+It's a it's a there's some interesting things all happening at once here because my exam's finished.
+
+🎤 SPEAKER_4 [2460s - 2460s]
+Yeah.
+
+🎤 SPEAKER_1 [2461s - 2462s]
+So does my bursary.
+
+🎤 SPEAKER_10 [2462s - 2463s]
+Yeah.
+
+🎤 SPEAKER_1 [2463s - 2473s]
+And so I love to either so I think the plan will be go to the church with a vision then go to advance and say, hey, we're going to the church.
+
+🎤 SPEAKER_1 [2473s - 2482s]
+And then, actually, I'm very happy to get part time job. But the reality is, um, well, you know, limit potentially limit things with us, but as a church, But I'm happy.
+
+🎤 SPEAKER_2 [2482s - 2483s]
+I'm uncomfortable.
+
+🎤 SPEAKER_10 [2483s - 2485s]
+I know. And I I appreciate that.
+
+🎤 SPEAKER_8 [2485s - 2500s]
+But I do think Right. And I know you've never pushed it. Yeah. But I do think going to the church in the first is the right thing. And it doesn't necessarily have to you.
+
+🎤 SPEAKER_2 [2500s - 2500s]
+No.
+
+🎤 SPEAKER_8 [2501s - 2502s]
+You know, it's something that has made us come true
+
+🎤 SPEAKER_10 [2503s - 2503s]
+Yeah.
+
+🎤 SPEAKER_0 [2503s - 2504s]
+Thank you.
+
+🎤 SPEAKER_8 [2505s - 2512s]
+We we can we can discuss with the church. And it's a challenge. It's like, you wanna full time minister. Know, the reality is you gotta pray for it. You know? Yeah.
+
+🎤 SPEAKER_8 [2513s - 2517s]
+And and so that it's a it's a a challenge for all of us to say, okay.
+
+🎤 SPEAKER_0 [2518s - 2519s]
+You know, we Yes.
+
+🎤 SPEAKER_8 [2519s - 2526s]
+Take it home. Think on it, plan it. It is difficult, but we do need to look at that side of it.
+
+🎤 SPEAKER_0 [2526s - 2526s]
+Yeah.
+
+🎤 SPEAKER_1 [2527s - 2534s]
+I think it would be something like not forever. We're not committing to forever in a day to support Rich's full time. Maybe four days, whatever it is.
+
+🎤 SPEAKER_1 [2535s - 2544s]
+Maybe looking at two years and then by we're hoping by by the of God by then, we would have grown And I'm pretty sure advance will be able to help us out.
+
+🎤 SPEAKER_1 [2545s - 2551s]
+As a church. I'd But they'll wanna say to me first, Reese, well, have you gone to your church first? You know?
+
+🎤 SPEAKER_8 [2552s - 2557s]
+I think that is right. I knew a friend of mine was administering
+
+🎤 SPEAKER_10 [2558s - 2559s]
+Phoenix in Arizona.
+
+🎤 SPEAKER_0 [2559s - 2560s]
+Oh, right. Yeah.
+
+🎤 SPEAKER_6 [2564s - 2565s]
+And he it was a big church.
+
+🎤 SPEAKER_10 [2565s - 2566s]
+Mhmm. We all say this about under 50, 200 people.
+
+🎤 SPEAKER_8 [2569s - 2573s]
+And and now ministers in America are paid a lot more.
+
+🎤 SPEAKER_2 [2573s - 2573s]
+Yeah.
+
+🎤 SPEAKER_0 [2573s - 2575s]
+Over in Yeah.
+
+🎤 SPEAKER_10 [2575s - 2584s]
+I mean, their salary is, like, you know It's it's meis, is But he wasn't being paid enough Yeah.
+
+🎤 SPEAKER_8 [2584s - 2586s]
+For him to exist with his family Yeah.
+
+🎤 SPEAKER_4 [2586s - 2587s]
+On just his church salary.
+
+🎤 SPEAKER_0 [2587s - 2588s]
+Yeah.
+
+🎤 SPEAKER_8 [2589s - 2600s]
+So in the end, you know, it was a challenge that was put out to the church. But he went back into the building industry Mhmm. Work for his brother law's company Mhmm. To earn an income Yeah.
+
+🎤 SPEAKER_2 [2600s - 2602s]
+To to support his family. Yeah.
+
+🎤 SPEAKER_8 [2603s - 2610s]
+The in the end, actually, he he left the church and he went into a different ministry Yeah.
+
+🎤 SPEAKER_6 [2610s - 2614s]
+Working with different church organizations and charities and things.
+
+🎤 SPEAKER_8 [2614s - 2615s]
+Yep.
+
+🎤 SPEAKER_8 [2615s - 2618s]
+But they struggled, and they're in a big church.
+
+🎤 SPEAKER_0 [2618s - 2619s]
+Yeah. You know?
+
+🎤 SPEAKER_8 [2620s - 2622s]
+Well, now lost the minister now unfortunately.
+
+🎤 SPEAKER_10 [2622s - 2626s]
+And that was that was well, his wife now blessed us. She died of a Oh, no.
+
+🎤 SPEAKER_5 [2632s - 2634s]
+Feeling it gives me more great potential for the Yeah.
+
+🎤 SPEAKER_1 [2636s - 2647s]
+So we got that. We got I'm also got on the back of my mind a very low key kind of way. I'm worried about Johnny. I'm a bit about my mum because she's she's got a similar thing. She had a heartburn issue, couldn't sat being sick.
+
+🎤 SPEAKER_10 [2647s - 2648s]
+Yeah.
+
+🎤 SPEAKER_1 [2648s - 2650s]
+This is this week, fairly enough, amazingly, same as John.
+
+🎤 SPEAKER_2 [2650s - 2650s]
+Right.
+
+🎤 SPEAKER_1 [2650s - 2657s]
+She had to give her a scan and she's got some lesions on her liver and around her lungs and things. So she's now having further stuff so that's that's that's also there.
+
+🎤 SPEAKER_10 [2660s - 2664s]
+Well, I know John is worried about it. He won't he won't express it, but I know him.
+
+🎤 SPEAKER_5 [2664s - 2665s]
+No.
+
+🎤 SPEAKER_8 [2665s - 2667s]
+You know, his concerning.
+
+🎤 SPEAKER_1 [2668s - 2676s]
+But he's never he's never admitted when he's ill. That's I've known him over for decades now. No. So he'd have a cough or something and he'll just no. I'm fine.
+
+🎤 SPEAKER_1 [2676s - 2681s]
+You'll be in bed with flu and I'm alright. Just there's something about it.
+
+🎤 SPEAKER_0 [2681s - 2683s]
+It's kind of like just Johnny and everything.
+
+🎤 SPEAKER_10 [2684s - 2687s]
+But he was sick in men's breakfast, Yeah.
+
+🎤 SPEAKER_8 [2687s - 2695s]
+You know, to be fair, told me about it. And and then he'd he'd happened a second occasion and I spoke to him about it.
+
+🎤 SPEAKER_6 [2697s - 2698s]
+Happened in between, not just at men's breakfast.
+
+🎤 SPEAKER_2 [2698s - 2700s]
+Yeah.
+
+🎤 SPEAKER_8 [2700s - 2702s]
+And I said to him, you need you need to go near this check tow.
+
+🎤 SPEAKER_2 [2702s - 2703s]
+Yeah.
+
+🎤 SPEAKER_10 [2703s - 2705s]
+And he went, yeah. I know.
+
+🎤 SPEAKER_4 [2705s - 2706s]
+He said, I got appointment.
+
+🎤 SPEAKER_1 [2707s - 2711s]
+He said it's been going on for three weeks, he said to me. Spoke I phoned him before this morning just because I pray with him.
+
+🎤 SPEAKER_1 [2712s - 2720s]
+Prayed that breakfast should stay down today, it did, thankfully. But he's trying to figure out if there's certain foods, but he doesn't think there is. I think it's kinda like think it's so to do with his body.
+
+🎤 SPEAKER_6 [2721s - 2722s]
+Yeah.
+
+🎤 SPEAKER_6 [2724s - 2726s]
+You know, there's all sorts of reasons Yeah. Why it could be.
+
+🎤 SPEAKER_1 [2726s - 2733s]
+He's getting lots of acid reflux. Yeah. Which mean, upset stomach in some way or something. I don't know.
+
+🎤 SPEAKER_9 [2734s - 2735s]
+But not punching well today.
+
+🎤 SPEAKER_1 [2736s - 2738s]
+I don't know why this nice bit of care in there. That's why to say.
+
+🎤 SPEAKER_10 [2739s - 2741s]
+It's a thermostat. Cafetiere.
+
+🎤 SPEAKER_6 [2741s - 2743s]
+It stays hot when you plunge.
+
+🎤 SPEAKER_6 [2745s - 2748s]
+But just not going Well don't know why it's not actually normally, I I plunge it a bit, lift the the top, and it breaks attention.
+
+🎤 SPEAKER_6 [2753s - 2753s]
+It drops.
+
+🎤 SPEAKER_0 [2753s - 2754s]
+That's the air I told you.
+
+🎤 SPEAKER_10 [2754s - 2756s]
+It settles it settles to the bottom.
+
+🎤 SPEAKER_8 [2756s - 2760s]
+Yep. Where I'm just trying to push it too quick and it squirts everywhere.
+
+🎤 SPEAKER_2 [2763s - 2763s]
+There we are.
+
+🎤 SPEAKER_1 [2765s - 2768s]
+So I'm a bit worried about him, we'll see. We'll see what happens.
+
+🎤 SPEAKER_10 [2770s - 2770s]
+But No. It's fine.
+
+🎤 SPEAKER_1 [2772s - 2777s]
+That's fine. It's good that he's he's talked to talk to you about it at least and
+
+🎤 SPEAKER_5 [2778s - 2779s]
+To do food.
+
+🎤 SPEAKER_2 [2779s - 2780s]
+Like, we we do.
+
+🎤 SPEAKER_4 [2781s - 2782s]
+We do have a good ship.
+
+🎤 SPEAKER_8 [2793s - 2794s]
+That sense. We can chat.
+
+🎤 SPEAKER_1 [2795s - 2796s]
+About virtually anything.
+
+🎤 SPEAKER_2 [2796s - 2796s]
+Yeah.
+
+🎤 SPEAKER_2 [2799s - 2800s]
+And yeah.
+
+🎤 SPEAKER_0 [2801s - 2802s]
+So I think That's good.
+
+🎤 SPEAKER_8 [2803s - 2811s]
+Comes to Thank you. Having those conversations. Okay. Because we we do pretty much my arm I'll be honest, I'm I'm a pre open book anyway. Yeah. It
+
+🎤 SPEAKER_1 [2812s - 2815s]
+No it easier for other people, I think, to chat.
+
+🎤 SPEAKER_0 [2815s - 2816s]
+Yeah.
+
+🎤 SPEAKER_8 [2816s - 2818s]
+If you're talking about sensitivities and issues your life.
+
+🎤 SPEAKER_0 [2819s - 2824s]
+Yeah. Very good. So Yeah.
+
+🎤 SPEAKER_1 [2825s - 2830s]
+You know, see what happens with him. He's got he's got he's on a waiting list now for a check. I don't know. He should've read a a letter by now, should he?
+
+🎤 SPEAKER_6 [2831s - 2837s]
+I just spoke to him. He said they said they heard anything for the next couple of weeks. To get in touch with the surgery again.
+
+🎤 SPEAKER_0 [2838s - 2839s]
+So he said And he said he's already not got much weight.
+
+🎤 SPEAKER_1 [2840s - 2843s]
+I him. He can't wait a few weeks not throw throwing the meals up.
+
+🎤 SPEAKER_8 [2843s - 2850s]
+But he's but, yeah, he's he's I mean, he he does a lot of he still does a lot of walking.
+
+🎤 SPEAKER_6 [2850s - 2852s]
+Even though he's not refereeing.
+
+🎤 SPEAKER_0 [2852s - 2852s]
+But Yeah.
+
+🎤 SPEAKER_8 [2853s - 2857s]
+He doesn't eat too great You know, he's diabetes as well, it? Yeah. You know?
+
+🎤 SPEAKER_2 [2857s - 2858s]
+Yep.
+
+🎤 SPEAKER_1 [2860s - 2862s]
+But, hey, We're keeping on him. Just wanna do a bit probabout.
+
+🎤 SPEAKER_8 [2863s - 2878s]
+No. But but, no, I I I appreciate it's difficult for you, and and I'm hoping that we can get through this. And it'll just you know, without ruffling too many feathers and Yeah.
+
+🎤 SPEAKER_8 [2879s - 2881s]
+And creating too many emotions and people
+
+🎤 SPEAKER_2 [2882s - 2882s]
+Yeah.
+
+🎤 SPEAKER_8 [2882s - 2885s]
+Accept really the way the situation is.
+
+🎤 SPEAKER_2 [2885s - 2885s]
+Yeah.
+
+🎤 SPEAKER_8 [2888s - 2896s]
+Just Well, that's my pretty because Let's say let's say we'll prey on your baby. Yeah. Father, we thank you, Lord, that you have created your church.
+
+🎤 SPEAKER_8 [2897s - 2899s]
+For a loving and caring heart.
+
+🎤 SPEAKER_6 [2900s - 2901s]
+But, also, Lord, that your word is final.
+
+🎤 SPEAKER_8 [2901s - 2921s]
+Mhmm. Father, we pray as custodians of your church, especially Reese's pastor, Lord, that you would give us your wisdom to be able to walk through this tight road a path where we are obedient to wood Mhmm. And faithful.
+
+🎤 SPEAKER_8 [2923s - 2936s]
+And that others in the church Lord, would understand the position of the continuing to be welcoming and loving to all the and to the church.
+
+🎤 SPEAKER_8 [2936s - 2959s]
+Lord, we do pray for everybody involved you were just give them hearts and minds that are open to to really understanding the the situation. Mhmm. Whether they agree with it or not, but just be open Mhmm.
+
+🎤 SPEAKER_10 [2960s - 2963s]
+Honest about those conversations.
+
+🎤 SPEAKER_8 [2964s - 2966s]
+And also being sensitive to others' hearings as well.
+
+🎤 SPEAKER_6 [2969s - 2971s]
+And we pray for that for the whole church too, Lord. Yeah.
+
+🎤 SPEAKER_10 [2971s - 2972s]
+But Yeah.
+
+🎤 SPEAKER_8 [2973s - 2977s]
+That even though we may have a firm position in doctrine and theology that we still respond in a loving and caring way
+
+🎤 SPEAKER_0 [2985s - 2985s]
+Yeah.
+
+🎤 SPEAKER_8 [2985s - 2986s]
+In Jesus' name. Amen.
+
+🎤 SPEAKER_2 [2987s - 2987s]
+Amen.
+
+🎤 SPEAKER_8 [2989s - 2993s]
+Father, just want to I just also want to pray with Steve as well, Lord.
+
+🎤 SPEAKER_1 [2993s - 3006s]
+Thank you for him. Lord. And I pray, Lord, that that you'd give him the words to say, as you kind of tease things off with with with Chloe, I I pro for an open heart.
+
+🎤 SPEAKER_1 [3007s - 3017s]
+Pray God that we would honor you. That we would not bring disrepute to your name in the way that we that we that we handle things that are difficult.
+
+🎤 SPEAKER_1 [3018s - 3052s]
+But we know that you're with us, Lord. You know that we know that you're with us, and we are to fear you more than we are to fear anything else. And so we wanna honor you and fear you in a sense of awe and wonder and I just pray I just pray for us, Lord. I pray my heart would be I beat my heart would be for for Sophie and Sarah to to be bold over with Christ in a way that would be for all of us, I pray this for all of us, that we would want to pursue you and honor you more than anything else, that you would be our greatest desire. And I that has to be that has to be you.
+
+🎤 SPEAKER_1 [3052s - 3053s]
+God that does that.
+
+🎤 SPEAKER_2 [3053s - 3053s]
+Yeah.
+
+🎤 SPEAKER_1 [3054s - 3058s]
+And so, yeah, help us help us do this well. May we honor you Yeah.
+
+🎤 SPEAKER_1 [3061s - 3074s]
+May we may we if there's if there's need for us re kind of submit submit again to to you and your lordship. Over over lives and how what we think about things.
+
+🎤 SPEAKER_1 [3074s - 3077s]
+I pray that Holy Spirit would help us see that.
+
+🎤 SPEAKER_10 [3077s - 3078s]
+I pray that
+
+🎤 SPEAKER_4 [3078s - 3079s]
+Yeah.
+
+🎤 SPEAKER_2 [3087s - 3088s]
+May you be Thanks, Steve.
+
+🎤 SPEAKER_1 [3088s - 3100s]
+Yeah. I I I wanted to I I I thought I'd just want to speak to you first. Not only because you're involved as a father, but also as kind of a leader amongst us in the church. And
+
+🎤 SPEAKER_1 [3103s - 3117s]
+I recognize it's a potentially tricky one. For you. And there'll be people in the church that this thing, when there's a vacuum on what the church thinks sometimes, that people have different views and some are fine and some are actually quite toxic.
+
+🎤 SPEAKER_1 [3118s - 3120s]
+Both way both ends. So it's kinda like I think it's the is taking out the toxin.
+
+🎤 SPEAKER_8 [3125s - 3130s]
+Ity. And just keeping the focus on what is actually Yep.
+
+🎤 SPEAKER_6 [3132s - 3132s]
+Relevant.
+
+🎤 SPEAKER_8 [3133s - 3149s]
+And real and doing it in a loving way. Yeah. And, you know, if I'm happy. I mean, I I'm quite happy to have conversations with anybody if they feel like, you know, they question the fact that I'm there in front of the church for what's Steve's news.
+
+🎤 SPEAKER_10 [3150s - 3156s]
+I I I'm quite happy to tell them what my view is. The fact that my you know, I've got a daughter and daughter-in-law
+
+🎤 SPEAKER_2 [3156s - 3156s]
+Yeah.
+
+🎤 SPEAKER_8 [3156s - 3161s]
+Doesn't change my emotional view. It just means that I respond
+
+🎤 SPEAKER_2 [3161s - 3162s]
+No.
+
+🎤 SPEAKER_8 [3162s - 3166s]
+In a way that, you know, I feel is Christ like.
+
+🎤 SPEAKER_0 [3166s - 3167s]
+Exactly.
+
+🎤 SPEAKER_6 [3167s - 3167s]
+Situation.
+
+🎤 SPEAKER_2 [3168s - 3168s]
+Yeah.
+
+🎤 SPEAKER_1 [3168s - 3182s]
+Now things got be polemic, is it? The the the whole whole society can be a bit like this. You have to be kind of like aggressive with your views on everything and actually where's the love and where's the and where's the being able to disagree livingly?
+
+🎤 SPEAKER_8 [3182s - 3190s]
+I think this is the and this is the the sometimes you have to agree to disagree. And I have this conversation with Ron quite a lot, to be honest with you.
+
+🎤 SPEAKER_5 [3190s - 3191s]
+Yeah.
+
+🎤 SPEAKER_8 [3191s - 3202s]
+She will be emotional about things. She will put her point of view and and generally, she's she's always empathetic.
+
+🎤 SPEAKER_2 [3203s - 3203s]
+Yes.
+
+🎤 SPEAKER_8 [3203s - 3209s]
+For the other person, and she always takes on the pain Yeah. Another person.
+
+🎤 SPEAKER_0 [3209s - 3210s]
+Yes.
+
+🎤 SPEAKER_6 [3210s - 3212s]
+She wears a heart on a sleeve.
+
+🎤 SPEAKER_8 [3212s - 3220s]
+It's emotional. So Yeah. If there's a situation about something, and she will come to me with a viewpoint, I'll say, oh, I don't agree with that.
+
+🎤 SPEAKER_6 [3220s - 3221s]
+Yeah.
+
+🎤 SPEAKER_2 [3222s - 3223s]
+Now she understand my viewpoint.
+
+🎤 SPEAKER_8 [3224s - 3225s]
+You know? I'll put it across.
+
+🎤 SPEAKER_0 [3225s - 3226s]
+Yeah.
+
+🎤 SPEAKER_6 [3226s - 3226s]
+I don't agree with you.
+
+🎤 SPEAKER_6 [3227s - 3229s]
+I say, well, I don't agree with you, so we need to Yeah.
+
+🎤 SPEAKER_8 [3229s - 3230s]
+Need to disagree.
+
+🎤 SPEAKER_10 [3230s - 3231s]
+Yes.
+
+🎤 SPEAKER_8 [3232s - 3234s]
+But just because your viewpoint is that make it right.
+
+🎤 SPEAKER_0 [3235s - 3238s]
+Right. Yeah. You know, mine wrong.
+
+🎤 SPEAKER_1 [3238s - 3242s]
+And this has been a dynamic probably for the whole marriage, is it?
+
+🎤 SPEAKER_8 [3243s - 3245s]
+Or the Or the More so, I since the menopause Yeah.
+
+🎤 SPEAKER_2 [3245s - 3246s]
+If I'm honest.
+
+🎤 SPEAKER_0 [3246s - 3246s]
+Yeah.
+
+🎤 SPEAKER_6 [3246s - 3247s]
+I've been totally honest with you.
+
+🎤 SPEAKER_8 [3247s - 3248s]
+You. Yeah.
+
+🎤 SPEAKER_10 [3248s - 3248s]
+Yeah.
+
+🎤 SPEAKER_6 [3249s - 3254s]
+It was hard until she went and got medication. She was a nightmare.
+
+🎤 SPEAKER_8 [3254s - 3260s]
+Yeah. Because she was always been an emotional person with the hormones.
+
+🎤 SPEAKER_0 [3260s - 3260s]
+Yeah.
+
+🎤 SPEAKER_8 [3261s - 3264s]
+Chloe is very similar. Yeah.
+
+🎤 SPEAKER_6 [3264s - 3271s]
+So she was up, down. Emotional and struggled to cope, you know, in the world because she was too soft and sensitive.
+
+🎤 SPEAKER_8 [3271s - 3274s]
+Yeah. People were and walk all over her. Yeah.
+
+🎤 SPEAKER_8 [3275s - 3286s]
+So she was that sort of cat. And then Yep. But she's always been a strong character, very protective of her family. Yes. And the people that she cares about and Yeah. And she would you know?
+
+🎤 SPEAKER_6 [3286s - 3292s]
+And she takes on the way to the world. Mhmm. Somebody's got a problem. Yes.
+
+🎤 SPEAKER_0 [3292s - 3294s]
+It's like she can't detach herself.
+
+🎤 SPEAKER_8 [3294s - 3296s]
+No. No. It becomes her problem.
+
+🎤 SPEAKER_2 [3296s - 3296s]
+Yeah.
+
+🎤 SPEAKER_8 [3296s - 3300s]
+I And she feels their pain. Yes. And she I mean, she says Yes.
+
+🎤 SPEAKER_8 [3301s - 3306s]
+You're you're hard You are just like your mom. Well And and and I would say, well, you know what? Yeah.
+
+🎤 SPEAKER_6 [3306s - 3307s]
+I wouldn't have been able to do my job Right.
+
+🎤 SPEAKER_8 [3308s - 3310s]
+If I was any anything different. Yeah.
+
+🎤 SPEAKER_10 [3310s - 3311s]
+If I was like you,
+
+🎤 SPEAKER_0 [3311s - 3311s]
+Yeah.
+
+🎤 SPEAKER_8 [3311s - 3313s]
+I said I would have probably had a nervous break.
+
+🎤 SPEAKER_10 [3313s - 3314s]
+Yeah.
+
+🎤 SPEAKER_1 [3314s - 3325s]
+So I was say and also that's true in, um, even in a much lesser degree than peace. Uh, within church, we leadership too. You you can't you can't carry everyone's weight because you you'll you'll you'll end up dead you'll end up your your ministry will be done.
+
+🎤 SPEAKER_0 [3325s - 3325s]
+Yeah.
+
+🎤 SPEAKER_8 [3326s - 3333s]
+So so but, yeah, she but she went through menopause. Which was, like, a ten year period Yeah.
+
+🎤 SPEAKER_6 [3337s - 3339s]
+Like, you know, still still now it made her even more emotional.
+
+🎤 SPEAKER_8 [3341s - 3342s]
+Erratic and outbursts.
+
+🎤 SPEAKER_0 [3344s - 3345s]
+And That was tough.
+
+🎤 SPEAKER_1 [3345s - 3347s]
+Was before you that must have been like before you moved here.
+
+🎤 SPEAKER_0 [3347s - 3348s]
+Oh, yeah.
+
+🎤 SPEAKER_2 [3348s - 3349s]
+Yeah. Yeah. Yeah.
+
+🎤 SPEAKER_6 [3352s - 3355s]
+Yeah, it was hard.
+
+🎤 SPEAKER_1 [3356s - 3361s]
+I mean, there were times where I just, like, I remember you guys not long been with us and Ryan went off to France. Yeah. For a few weeks house sitting or something.
+
+🎤 SPEAKER_1 [3362s - 3367s]
+And she was not in a if I recall, she would kind of invade mentally kind of difficult space at that time and I mean, she's had a lot I mean, she she struggled when we moved here because she was grieving.
+
+🎤 SPEAKER_6 [3372s - 3375s]
+Her mom died. Her dad died even though we didn't have a good relationship with dad.
+
+🎤 SPEAKER_8 [3376s - 3378s]
+Yeah. And it was a a buffoon.
+
+🎤 SPEAKER_6 [3379s - 3385s]
+Yeah. And she was also grieving the loss of some close friends in Pampers Shore, even though she wanted to move. Yeah.
+
+🎤 SPEAKER_5 [3385s - 3386s]
+And grieving for house Yeah.
+
+🎤 SPEAKER_6 [3387s - 3390s]
+That, you know, we've been in for nearly twenty years.
+
+🎤 SPEAKER_5 [3390s - 3390s]
+Yeah.
+
+🎤 SPEAKER_8 [3391s - 3399s]
+And just the whole situation, but she wanted it. But it so that's the difference. Whereas I'm, like, functional Yeah.
+
+🎤 SPEAKER_1 [3400s - 3402s]
+Task. Yeah.
+
+🎤 SPEAKER_8 [3402s - 3405s]
+And, yeah, I'm sensitive and have the emotion to go with it.
+
+🎤 SPEAKER_6 [3405s - 3412s]
+But she would be like, I can't this is all too much Yeah. She needed time to get her head straight head around it.
+
+🎤 SPEAKER_0 [3412s - 3413s]
+Yeah.
+
+🎤 SPEAKER_8 [3414s - 3418s]
+So it's just but that's part of that's that's a relationship to marry Well, I right.
+
+🎤 SPEAKER_1 [3419s - 3429s]
+That it's better. Those emotions at at their best can be really really helpful and complimentary. To what you bring as well, the kind of the the task orientated the You know, to have that Yeah.
+
+🎤 SPEAKER_6 [3429s - 3431s]
+To
+
+🎤 SPEAKER_8 [3431s - 3440s]
+to so, yeah, and and I gotta be honest here. I've not always been as caring and understanding as I should have been because it wears you down sometimes.
+
+🎤 SPEAKER_10 [3440s - 3441s]
+And especially when I'm ill Yeah.
+
+🎤 SPEAKER_8 [3443s - 3449s]
+I I be quite grumpy in the in the sense of don't talk to me. Don't ask me anything. Yeah.
+
+🎤 SPEAKER_6 [3449s - 3449s]
+Don't ask me to do anything.
+
+🎤 SPEAKER_8 [3450s - 3452s]
+Just leave me alone. Yeah. I don't feel well. That's been that's been human.
+
+🎤 SPEAKER_8 [3455s - 3456s]
+I'm just, like, wanna be left alone.
+
+🎤 SPEAKER_5 [3456s - 3456s]
+Yeah.
+
+🎤 SPEAKER_0 [3456s - 3457s]
+I don't feel well.
+
+🎤 SPEAKER_8 [3457s - 3459s]
+I'm gonna sit here on the couch and just watch TV until I feel better.
+
+🎤 SPEAKER_2 [3462s - 3462s]
+Yeah.
+
+🎤 SPEAKER_1 [3463s - 3465s]
+And you've you've had a a few of those days recently.
+
+🎤 SPEAKER_2 [3465s - 3466s]
+Oh gosh. Yeah.
+
+🎤 SPEAKER_8 [3466s - 3470s]
+But there's a lot of doesn't cope with me being ill No.
+
+🎤 SPEAKER_0 [3470s - 3470s]
+As well? No.
+
+🎤 SPEAKER_8 [3471s - 3472s]
+I can cope with her when she's ill.
+
+🎤 SPEAKER_1 [3473s - 3479s]
+Why is that then? You in what sense? Like, should because of the she's for, you you being ill or kind of She she she one of her big worries is about me dying before her.
+
+🎤 SPEAKER_0 [3484s - 3484s]
+Yeah.
+
+🎤 SPEAKER_8 [3485s - 3486s]
+So she has that
+
+🎤 SPEAKER_0 [3487s - 3487s]
+Right.
+
+🎤 SPEAKER_6 [3488s - 3490s]
+About my weight, being overweight Yeah.
+
+🎤 SPEAKER_8 [3490s - 3498s]
+Me being healthy because she worries that she's gonna end up living on her own, and I'll die before her. Right.
+
+🎤 SPEAKER_6 [3498s - 3501s]
+She has that fear that she she she struggled to contain.
+
+🎤 SPEAKER_0 [3501s - 3503s]
+Yeah.
+
+🎤 SPEAKER_6 [3503s - 3505s]
+So it's a I've been on, a a twenty or thirty year diet.
+
+🎤 SPEAKER_5 [3505s - 3508s]
+Yeah. Yeah. Not that I have.
+
+🎤 SPEAKER_1 [3508s - 3509s]
+No one's been on.
+
+🎤 SPEAKER_10 [3509s - 3510s]
+In Irvine, I've been on a Oh, man.
+
+🎤 SPEAKER_2 [3510s - 3512s]
+Yeah.
+
+🎤 SPEAKER_6 [3512s - 3514s]
+And I've gone to well, do you know what?
+
+🎤 SPEAKER_8 [3515s - 3517s]
+I said, it doesn't work. Does it? You know? Yeah. Yeah.
+
+🎤 SPEAKER_6 [3518s - 3519s]
+And I and I say to her, well, when my time's up, my time's up, you can't behave by that.
+
+🎤 SPEAKER_10 [3522s - 3523s]
+And I'm like, no. Look. I said, no.
+
+🎤 SPEAKER_4 [3524s - 3524s]
+I eat.
+
+🎤 SPEAKER_10 [3524s - 3525s]
+I said, I don't I'm not over the top.
+
+🎤 SPEAKER_8 [3527s - 3528s]
+I'm right. I said, yeah.
+
+🎤 SPEAKER_6 [3528s - 3531s]
+I've I've a bit of weight. I've lost a bit, but I've got a bit more to go.
+
+🎤 SPEAKER_6 [3532s - 3535s]
+I said, but you know, you can't live your life about what is because actually we No.
+
+🎤 SPEAKER_2 [3536s - 3536s]
+That's right.
+
+🎤 SPEAKER_6 [3537s - 3538s]
+Like, nice life now Yeah.
+
+🎤 SPEAKER_8 [3538s - 3543s]
+Long full time, and you're spoiling it. You're living in fear. Right.
+
+🎤 SPEAKER_4 [3543s - 3544s]
+You know?
+
+🎤 SPEAKER_2 [3544s - 3545s]
+So we have all these consciousness, but it's the emotional side.
+
+🎤 SPEAKER_6 [3545s - 3549s]
+So Yeah. She worries about me going, her being left alone.
+
+🎤 SPEAKER_8 [3549s - 3550s]
+Yeah.
+
+🎤 SPEAKER_6 [3552s - 3554s]
+And Yeah. And she prays that she goes first.
+
+🎤 SPEAKER_4 [3554s - 3555s]
+Does she? Yeah.
+
+🎤 SPEAKER_1 [3555s - 3556s]
+Oh, bless her.
+
+🎤 SPEAKER_2 [3557s - 3559s]
+So but her mind is more active. Yeah.
+
+🎤 SPEAKER_6 [3559s - 3561s]
+So it when I'm ill
+
+🎤 SPEAKER_0 [3561s - 3561s]
+Yeah.
+
+🎤 SPEAKER_8 [3562s - 3563s]
+She can't cope with that because it makes her emotionally feel low.
+
+🎤 SPEAKER_0 [3565s - 3566s]
+Right.
+
+🎤 SPEAKER_6 [3566s - 3568s]
+And when you're ill for a prolonged periods of time.
+
+🎤 SPEAKER_0 [3568s - 3570s]
+Like, have been this shit. It's like yeah.
+
+🎤 SPEAKER_8 [3570s - 3581s]
+And and and we are all of us to a degree have including her. But she will not put it in perspective and see that as a section of your life.
+
+🎤 SPEAKER_1 [3581s - 3583s]
+Yeah. But it's like it's like it's, you know, it it this is how it's been for ages.
+
+🎤 SPEAKER_6 [3584s - 3587s]
+Oh, no.
+
+🎤 SPEAKER_8 [3587s - 3590s]
+Actually, it's only been a few months since Christmas.
+
+🎤 SPEAKER_0 [3590s - 3591s]
+Yeah. That's right.
+
+🎤 SPEAKER_1 [3591s - 3600s]
+So I think, like, I was thinking about this recently that the the way people live in different tenses in the sense that there's a few people I know are really nostalgic. They just live in the past.
+
+🎤 SPEAKER_1 [3600s - 3612s]
+They spend all the time thinking about the past and everything. There's some people that, like my Rachel, she everything she does now is for tomorrow. Like, she everything she does is always because she's thinking about Yeah. The next day or the next monthly.
+
+🎤 SPEAKER_1 [3613s - 3621s]
+And then there's they just live very presently. That what my life is right now is what it's always been. And they can't they don't think too much about the past or the future.
+
+🎤 SPEAKER_1 [3622s - 3628s]
+And it's just an interesting thought exercise to go through because I I feel like I'm a bit presenty. Rachel's definitely not.
+
+🎤 SPEAKER_1 [3628s - 3635s]
+But I wonder maybe with Rana too, she kind of like in the moment just kind of this is this is our life now.
+
+🎤 SPEAKER_4 [3635s - 3636s]
+I think she
+
+🎤 SPEAKER_8 [3637s - 3644s]
+I I tend to to be in the moment. I'm quite happy, like, you know, with my life. Yeah.
+
+🎤 SPEAKER_6 [3644s - 3651s]
+And I struggle like, looking ahead, like, she'll wanna make plans about this and that. And I'm like, do you know what?
+
+🎤 SPEAKER_0 [3651s - 3653s]
+Yeah. Yeah.
+
+🎤 SPEAKER_6 [3654s - 3658s]
+Like, going on holiday, out I get stressed about booking holidays. Yeah. Yeah.
+
+🎤 SPEAKER_8 [3659s - 3662s]
+I'm not I'm okay when I'm there.
+
+🎤 SPEAKER_6 [3664s - 3667s]
+I hate the traveling organizing, the I don't even mind flying. But I hate the tomb from the airport and the the getting off the other side.
+
+🎤 SPEAKER_1 [3671s - 3673s]
+It almost outweighs the benefit of going on holiday. Yeah.
+
+🎤 SPEAKER_8 [3674s - 3676s]
+But I'm trying to overcome that.
+
+🎤 SPEAKER_0 [3676s - 3676s]
+Yeah.
+
+🎤 SPEAKER_8 [3679s - 3681s]
+We're going away to like to neighbor's sister lives in the South Of France Right.
+
+🎤 SPEAKER_2 [3682s - 3683s]
+To the church.
+
+🎤 SPEAKER_6 [3683s - 3685s]
+Oh, yes. So she's been inviting us over there for a couple of years.
+
+🎤 SPEAKER_8 [3685s - 3686s]
+Yeah.
+
+🎤 SPEAKER_0 [3686s - 3687s]
+Kids. We're going over. Well done.
+
+🎤 SPEAKER_6 [3688s - 3690s]
+Just outside of my seat.
+
+🎤 SPEAKER_1 [3690s - 3697s]
+And Oh, that's we are too. Yeah? We're going in, yeah, mid May. My pear we're going with my parents.
+
+🎤 SPEAKER_6 [3698s - 3698s]
+July.
+
+🎤 SPEAKER_1 [3698s - 3700s]
+Not too far from Saint Tropez between my Marseille and Saint Tropez.
+
+🎤 SPEAKER_1 [3703s - 3708s]
+They're kind of like I don't know how long it takes to drive between the two, but it's about a foot forty minute try from Marseille, I think.
+
+🎤 SPEAKER_8 [3709s - 3712s]
+Well, they're a couple of hours from Marseille. So Oh, yeah?
+
+🎤 SPEAKER_1 [3713s - 3714s]
+On the coast?
+
+🎤 SPEAKER_8 [3714s - 3716s]
+Or No. Inland. Inland. Yeah.
+
+🎤 SPEAKER_6 [3716s - 3719s]
+So they've got a lovely house with a separate annex for Yeah.
+
+🎤 SPEAKER_2 [3721s - 3722s]
+Visitors.
+
+🎤 SPEAKER_0 [3723s - 3724s]
+Yeah.
+
+🎤 SPEAKER_8 [3724s - 3726s]
+They live in a lovely little Very good.
+
+🎤 SPEAKER_1 [3726s - 3733s]
+With Yeah. And so you try you're you're intentionally kinda leaning into it Kinda get kinda not not allowing that stress to yeah. Thank you.
+
+🎤 SPEAKER_0 [3733s - 3734s]
+Yeah.
+
+🎤 SPEAKER_1 [3734s - 3737s]
+Get to you. I'm in a similar place myself.
+
+🎤 SPEAKER_6 [3737s - 3738s]
+So that's what I'm we just booked it.
+
+🎤 SPEAKER_0 [3738s - 3739s]
+Thank you. That's great.
+
+🎤 SPEAKER_8 [3740s - 3743s]
+And that's yesterday I just booked the car parking at Bristol.
+
+🎤 SPEAKER_5 [3744s - 3745s]
+Expensive innit?
+
+🎤 SPEAKER_0 [3745s - 3746s]
+Yeah.
+
+🎤 SPEAKER_10 [3746s - 3752s]
+But it's as I said, Toronto, like, you know, it is what it is. You gotta bite the bullet, um, for
+
+🎤 SPEAKER_2 [3752s - 3752s]
+Yeah.
+
+🎤 SPEAKER_8 [3753s - 3759s]
+Silver zone I've gone for there rather than some of the, you know, park and Yeah. Ride things.
+
+🎤 SPEAKER_0 [3759s - 3760s]
+Yep.
+
+🎤 SPEAKER_8 [3760s - 3761s]
+I've just Just done that yet. Yeah.
+
+🎤 SPEAKER_1 [3762s - 3764s]
+I just I think we've done something to my parents had booked it this time, but It's definitely went to Spain for a work course.
+
+🎤 SPEAKER_0 [3768s - 3768s]
+Oh, yeah.
+
+🎤 SPEAKER_6 [3769s - 3769s]
+Last week.
+
+🎤 SPEAKER_6 [3772s - 3773s]
+And then he made it into I think it was a three day course.
+
+🎤 SPEAKER_0 [3774s - 3775s]
+Right.
+
+🎤 SPEAKER_8 [3775s - 3781s]
+That it was funded for him to go to, and he thought we might as well make it for the week. Yeah.
+
+🎤 SPEAKER_0 [3781s - 3783s]
+He went to another week's holiday and he Very good.
+
+🎤 SPEAKER_8 [3784s - 3790s]
+Left his car at the airport. He said, No. He said it was just so much easier coming out Oh, yeah. Shuttle, getting in the car and driving.
+
+🎤 SPEAKER_1 [3792s - 3800s]
+We did the same thing. For Cape Tongue and Heathrow. Literally park your car there and they and you walk straight into the terminal and they Yeah.
+
+🎤 SPEAKER_1 [3800s - 3807s]
+Park it up somewhere and then bring it back. So it was it was just worth it rather than the shuttle and the and the But yeah.
+
+🎤 SPEAKER_2 [3808s - 3809s]
+It's it's
+
+🎤 SPEAKER_8 [3811s - 3823s]
+we're all all different, aren't we? We deal with different things like, you know, I I I was happier. Being in work getting all the crap I have to deal with and what you organize in holiday to go on holiday.
+
+🎤 SPEAKER_0 [3823s - 3824s]
+Yeah. It was like
+
+🎤 SPEAKER_2 [3824s - 3824s]
+Yeah.
+
+🎤 SPEAKER_8 [3825s - 3827s]
+Too much. Yeah.
+
+🎤 SPEAKER_1 [3827s - 3831s]
+With the stress of Whereas your daughters or what have you would be would be happy to book it and everything around Oh I mean Sophie.
+
+🎤 SPEAKER_8 [3835s - 3838s]
+Sarah, like you know, they don't allow Sarah to book anything because she does it all wrong.
+
+🎤 SPEAKER_0 [3838s - 3839s]
+Does she?
+
+🎤 SPEAKER_8 [3840s - 3842s]
+She's she doesn't look at the details.
+
+🎤 SPEAKER_2 [3843s - 3844s]
+Oh, Done. Done.
+
+🎤 SPEAKER_0 [3845s - 3847s]
+Sounds like something I would do to be honest.
+
+🎤 SPEAKER_8 [3847s - 3848s]
+They went to somewhere.
+
+🎤 SPEAKER_6 [3851s - 3856s]
+Forgot where the the surfing center went. And oh, I think it was South Africa around.
+
+🎤 SPEAKER_8 [3858s - 3859s]
+They came back on different flights.
+
+🎤 SPEAKER_2 [3860s - 3861s]
+How far?
+
+🎤 SPEAKER_8 [3861s - 3865s]
+Because Sarah had booked something like that.
+
+🎤 SPEAKER_1 [3865s - 3867s]
+There's the Cheaper or something was it or something like what they did.
+
+🎤 SPEAKER_9 [3869s - 3870s]
+But she ended up booking separate different flights.
+
+🎤 SPEAKER_1 [3871s - 3877s]
+There's a long blinking flight in it Steve. It was long overnight. Make sure I did not slip. Do you do overnight?
+
+🎤 SPEAKER_2 [3878s - 3878s]
+Yeah.
+
+🎤 SPEAKER_1 [3878s - 3882s]
+I wish we did daytime now. Been us. I'd rather have lost a day than this night. We
+
+🎤 SPEAKER_10 [3884s - 3887s]
+we slept I slept a few hours coming back, but going out there, it was like Yeah.
+
+🎤 SPEAKER_8 [3888s - 3891s]
+I didn't I didn't sleep No.
+
+🎤 SPEAKER_2 [3891s - 3892s]
+Really in the morning, three or four hours.
+
+🎤 SPEAKER_8 [3893s - 3895s]
+I got a hold of the journey. Like, nodding and then waiting.
+
+🎤 SPEAKER_4 [3895s - 3898s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [3898s - 3903s]
+It was it was tiring. Going there and then It was noisy then I thought as well. I thought things were bit quieter, but the engines were just allowed Yeah.
+
+🎤 SPEAKER_6 [3908s - 3909s]
+Should've got some air So you did the straight flight though, didn't you?
+
+🎤 SPEAKER_0 [3909s - 3918s]
+We did too. We had it hours broken up, so we went and lied to I yeah. We went down from Kenya. So Oh, yeah. Actually, that did help Yeah.
+
+🎤 SPEAKER_8 [3919s - 3920s]
+In a way.
+
+🎤 SPEAKER_1 [3921s - 3923s]
+Because you could just you could have a few hours stretching your legs and everything.
+
+🎤 SPEAKER_0 [3923s - 3930s]
+When we went to The States, we went to the west
+
+🎤 SPEAKER_10 [3931s - 3931s]
+Coast.
+
+🎤 SPEAKER_8 [3932s - 3934s]
+So we landed over in Boston. I think on the East Coast.
+
+🎤 SPEAKER_0 [3934s - 3935s]
+No. Know.
+
+🎤 SPEAKER_8 [3936s - 3946s]
+And then we had another flight which was again about six hours across America to get to the West Coast. But just just sitting there
+
+🎤 SPEAKER_0 [3947s - 3947s]
+Yeah.
+
+🎤 SPEAKER_10 [3948s - 3951s]
+I I I just I said to her, I really dislike long haul flights. No.
+
+🎤 SPEAKER_8 [3951s - 3961s]
+If ever you wanna go somewhere really beautiful and stunning, and close No. Just go to Angelusa Southern Spain.
+
+🎤 SPEAKER_2 [3961s - 3961s]
+Yeah.
+
+🎤 SPEAKER_8 [3961s - 3963s]
+Find to Malaga from here. Yep.
+
+🎤 SPEAKER_2 [3964s - 3964s]
+Two hours.
+
+🎤 SPEAKER_8 [3965s - 3969s]
+Yeah. And you're on the Mediterranean. That's it. We're two hours from the med.
+
+🎤 SPEAKER_1 [3969s - 3971s]
+I mean, that's all you want, isn't it?
+
+🎤 SPEAKER_6 [3971s - 3971s]
+It's a beautiful country.
+
+🎤 SPEAKER_2 [3972s - 3973s]
+Yeah. Stunning.
+
+🎤 SPEAKER_10 [3973s - 3975s]
+Coastline. Yeah. And it's really reasonable.
+
+🎤 SPEAKER_2 [3975s - 3977s]
+Yeah.
+
+🎤 SPEAKER_8 [3977s - 3981s]
+And, you know, it's like two hours a play So I know an Ireland she says on Maine not Maine.
+
+🎤 SPEAKER_0 [3981s - 3983s]
+Oh, Maine then. Oh, I see. Yeah. Yeah.
+
+🎤 SPEAKER_8 [3983s - 3984s]
+You can fly into Malaga.
+
+🎤 SPEAKER_2 [3984s - 3986s]
+Oh, right. Yeah.
+
+🎤 SPEAKER_6 [3986s - 3993s]
+And then we did like a week down the coast. One way and then a week the other way and then we came back to Malibu and flew out.
+
+🎤 SPEAKER_6 [3994s - 3995s]
+But it's just the coastline.
+
+🎤 SPEAKER_8 [3995s - 3999s]
+Yeah. It it it's beautiful. Yeah. It's stunning.
+
+🎤 SPEAKER_0 [3999s - 3999s]
+Yeah.
+
+🎤 SPEAKER_8 [4000s - 4003s]
+Well, yeah, we we are looking forward to But it's a two hour
+
+🎤 SPEAKER_1 [4004s - 4004s]
+Towers, yeah.
+
+🎤 SPEAKER_11 [4005s - 4006s]
+Easy. Yeah, half hour up.
+
+🎤 SPEAKER_1 [4007s - 4008s]
+Is he on a a doorstep? I know.
+
+🎤 SPEAKER_8 [4009s - 4010s]
+And so you know, ten minutes there,
+
+🎤 SPEAKER_2 [4010s - 4012s]
+airport and it's a two hour flight.
+
+🎤 SPEAKER_1 [4012s - 4012s]
+Yeah. Easy.
+
+🎤 SPEAKER_0 [4012s - 4013s]
+You know? That's the work.
+
+🎤 SPEAKER_1 [4013s - 4016s]
+Anything else? Get pick you get anyone from church will drop you guys up as well.
+
+🎤 SPEAKER_11 [4016s - 4017s]
+Pick you up.
+
+🎤 SPEAKER_0 [4017s - 4019s]
+Well, you know, we we got no neighbors, the kids.
+
+🎤 SPEAKER_8 [4019s - 4020s]
+Yep.
+
+🎤 SPEAKER_6 [4021s - 4024s]
+We Johnny, I think, dropped us at one because of the time.
+
+🎤 SPEAKER_5 [4024s - 4025s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [4026s - 4033s]
+Yeah. I've only flown from Bris Cardiff once and it was to Glasgow when it was fifty minute flight. That was great. It was brilliant. Yeah.
+
+🎤 SPEAKER_11 [4033s - 4033s]
+Easy.
+
+🎤 SPEAKER_8 [4034s - 4035s]
+Went to Edinburgh. Yeah. It was Yeah.
+
+🎤 SPEAKER_0 [4036s - 4037s]
+Did you go in there?
+
+🎤 SPEAKER_1 [4037s - 4039s]
+Did you fly from somewhere or did you drive up?
+
+🎤 SPEAKER_8 [4039s - 4047s]
+He went from trying to think. We went up Sophie lived in Scotland then. We No. Went from or Cardiff.
+
+🎤 SPEAKER_6 [4047s - 4050s]
+Yeah. Twice, but it was, like, forty five minutes flight.
+
+🎤 SPEAKER_0 [4050s - 4051s]
+Amazing. Know? Yeah.
+
+🎤 SPEAKER_11 [4051s - 4052s]
+Easy. It's like, oh, this is Hello.
+
+🎤 SPEAKER_1 [4053s - 4055s]
+Are you thinking it would take a whole day Yeah.
+
+🎤 SPEAKER_0 [4055s - 4055s]
+To drive?
+
+🎤 SPEAKER_8 [4056s - 4060s]
+Or sit on a train or something? Yeah. But yeah there we are.
+
+🎤 SPEAKER_2 [4060s - 4061s]
+So it was no.
+
+🎤 SPEAKER_8 [4061s - 4067s]
+I I mean, Cardiff. Yeah. I'd love to like, going to I go to Cypress for That's a five hour flight.
+
+🎤 SPEAKER_6 [4070s - 4077s]
+It's about five and a half hours Five hours going and five and a half hours coming back because of the headwinds.
+
+🎤 SPEAKER_8 [4077s - 4082s]
+So it's Yeah. Could I find that be honest with five hours is enough.
+
+🎤 SPEAKER_0 [4082s - 4082s]
+Yeah. Oh, yeah.
+
+🎤 SPEAKER_8 [4082s - 4084s]
+I I don't No.
+
+🎤 SPEAKER_0 [4084s - 4085s]
+Like going to cyclists.
+
+🎤 SPEAKER_2 [4085s - 4086s]
+No.
+
+🎤 SPEAKER_5 [4086s - 4087s]
+That's quite a long way, isn't it?
+
+🎤 SPEAKER_1 [4088s - 4092s]
+I I don't feel any need to go to America at this particular time in life.
+
+🎤 SPEAKER_6 [4092s - 4093s]
+A choice.
+
+🎤 SPEAKER_8 [4094s - 4096s]
+Go to Canada. Yeah. I would much Oh, yeah.
+
+🎤 SPEAKER_1 [4096s - 4097s]
+Have you been? Yeah.
+
+🎤 SPEAKER_0 [4098s - 4100s]
+Have you?
+
+🎤 SPEAKER_1 [4102s - 4104s]
+We went we flew into Well, that must have been two flights at least or?
+
+🎤 SPEAKER_11 [4106s - 4107s]
+There's no way in it.
+
+🎤 SPEAKER_8 [4107s - 4109s]
+No. We had a direct flight.
+
+🎤 SPEAKER_6 [4109s - 4110s]
+We went from Heathrow
+
+🎤 SPEAKER_8 [4111s - 4119s]
+Oh, yeah. And then we we landed in Vancouver And we spent three weeks over there on a road trip I think we did about 2,000 kilometers like
+
+🎤 SPEAKER_0 [4122s - 4123s]
+Is that right?
+
+🎤 SPEAKER_1 [4123s - 4124s]
+Yeah. Amazing.
+
+🎤 SPEAKER_11 [4124s - 4127s]
+But we went up to Jasper National Park Yeah.
+
+🎤 SPEAKER_11 [4128s - 4131s]
+And did if you go out of season Yeah. Not in the winter you could stay in all these ski lodges Yeah.
+
+🎤 SPEAKER_11 [4136s - 4137s]
+And they're actually like cheap compared to when Right.
+
+🎤 SPEAKER_1 [4138s - 4139s]
+Because they're out season.
+
+🎤 SPEAKER_0 [4139s - 4139s]
+Right?
+
+🎤 SPEAKER_1 [4139s - 4141s]
+Out season. But still probably stunning.
+
+🎤 SPEAKER_6 [4143s - 4145s]
+What we're having like not just a room, remember the suite.
+
+🎤 SPEAKER_2 [4145s - 4145s]
+Wow.
+
+🎤 SPEAKER_11 [4145s - 4150s]
+You know Yeah. You were you were paying no more than, like, a premier inn. Wow.
+
+🎤 SPEAKER_0 [4150s - 4150s]
+And Yeah.
+
+🎤 SPEAKER_11 [4151s - 4152s]
+So we were staying in all this.
+
+🎤 SPEAKER_0 [4152s - 4153s]
+Yeah.
+
+🎤 SPEAKER_1 [4153s - 4157s]
+They're probably thinking who's who's these suckers coming to a ski lodge out of season? Well, actually, we get to see the country and have a lovely
+
+🎤 SPEAKER_11 [4158s - 4159s]
+Stunning. And the glacier was still there.
+
+🎤 SPEAKER_8 [4159s - 4161s]
+There's still snow on the Oh, yeah.
+
+🎤 SPEAKER_11 [4161s - 4166s]
+Yeah. But we did Jasper National Park. We did a circuit out of Couver and came back
+
+🎤 SPEAKER_2 [4168s - 4168s]
+Yeah.
+
+🎤 SPEAKER_11 [4169s - 4174s]
+But the country itself, the people it's just so so much nicer than America.
+
+🎤 SPEAKER_2 [4174s - 4175s]
+Yeah.
+
+🎤 SPEAKER_0 [4175s - 4175s]
+Oh.
+
+🎤 SPEAKER_1 [4176s - 4181s]
+Yeah. I mean, there's there's there's zero part of me that wants to to go to America.
+
+🎤 SPEAKER_11 [4182s - 4182s]
+Which is Colombia?
+
+🎤 SPEAKER_0 [4186s - 4186s]
+Chance I certainly lived there. Yeah. Would you?
+
+🎤 SPEAKER_1 [4188s - 4194s]
+My sister actually she worked in Vancouver for a year, gap year kind of age. At the ski lodges. She loved it.
+
+🎤 SPEAKER_11 [4196s - 4212s]
+The the liners come up the the river cruise liners. Mhmm. They crew when they built Vancouver, they built it so that the liners come in and they literally come into port and they designed the whole port like a big cruise ship.
+
+🎤 SPEAKER_11 [4212s - 4232s]
+So the jetty jets out Right. Shaped like a cruise ship. Alright. And then you get a liner come this side, you get a liner come this side, and then what they do is they have all these gang plants and things that come out from the central reservation. Yeah. You get lots of people off Yeah. Like, you know, come Yeah. And then they come out of there Yeah.
+
+🎤 SPEAKER_11 [4233s - 4237s]
+And they go through customs and then you go on the escalator, and then you're in the city.
+
+🎤 SPEAKER_8 [4238s - 4240s]
+You're literally in the scuba city centre.
+
+🎤 SPEAKER_11 [4240s - 4244s]
+And on the river, they got all these flying boat taxes.
+
+🎤 SPEAKER_2 [4244s - 4245s]
+Oh, yeah.
+
+🎤 SPEAKER_11 [4245s - 4248s]
+Take you off down the coast, but they're all landing at these water Alright.
+
+🎤 SPEAKER_1 [4248s - 4250s]
+Must be stunning.
+
+🎤 SPEAKER_0 [4250s - 4251s]
+Yeah.
+
+🎤 SPEAKER_1 [4251s - 4252s]
+I mean, British Columbia is the other side, isn't it? Eastern Coast.
+
+🎤 SPEAKER_0 [4254s - 4254s]
+Yeah.
+
+🎤 SPEAKER_11 [4255s - 4259s]
+It's it is that side. It's not the it's not the
+
+🎤 SPEAKER_8 [4259s - 4260s]
+West Coast.
+
+🎤 SPEAKER_2 [4259s - 4260s]
+Where you've got
+
+🎤 SPEAKER_0 [4261s - 4261s]
+Yeah.
+
+🎤 SPEAKER_11 [4262s - 4264s]
+Omirate went to he immigrated there when he retired.
+
+🎤 SPEAKER_8 [4265s - 4266s]
+Nice.
+
+🎤 SPEAKER_11 [4267s - 4274s]
+Because of his pension and they've been going over there for a few years Yeah.
+
+🎤 SPEAKER_1 [4275s - 4277s]
+And there's some x parts so they they got Probably happily ever after this as far as they're concerned. His
+
+🎤 SPEAKER_11 [4277s - 4285s]
+son his son went over there as a teenager. They've got citizenship now.
+
+🎤 SPEAKER_11 [4286s - 4288s]
+I he joins the Royal Canadian Mounty Police.
+
+🎤 SPEAKER_1 [4288s - 4289s]
+How nice.
+
+🎤 SPEAKER_8 [4290s - 4292s]
+Very coveted that, isn't it? And Yeah.
+
+🎤 SPEAKER_11 [4292s - 4293s]
+So his his wife was a driving instructor.
+
+🎤 SPEAKER_8 [4295s - 4297s]
+She retrained. Yeah.
+
+🎤 SPEAKER_11 [4297s - 4300s]
+Did driving instruction over there. He retired with his pension.
+
+🎤 SPEAKER_8 [4300s - 4302s]
+Very good. Very good.
+
+🎤 SPEAKER_8 [4306s - 4307s]
+Daughter Sometimes think about that.
+
+🎤 SPEAKER_1 [4307s - 4309s]
+If I were to ever ever retire, where would I go?
+
+🎤 SPEAKER_11 [4313s - 4320s]
+You know, it's I mean, for us, this has been ideal because it's like everybody's close and it's been really You guys are in peak of life at the minute in many ways.
+
+🎤 SPEAKER_0 [4323s - 4323s]
+You
+
+🎤 SPEAKER_0 [4324s - 4324s]
+got kids.
+
+🎤 SPEAKER_1 [4326s - 4331s]
+You've got your grandkids, you've got your really good health well, reasonably good physical health over than the the coughs and cords.
+
+🎤 SPEAKER_1 [4333s - 4338s]
+Yeah. And it's kinda like you can look at all that God's given you and be so grateful because I am.
+
+🎤 SPEAKER_0 [4339s - 4340s]
+Yeah.
+
+🎤 SPEAKER_1 [4340s - 4342s]
+So many so many people have what you guys have.
+
+🎤 SPEAKER_8 [4343s - 4343s]
+No.
+
+🎤 SPEAKER_2 [4344s - 4344s]
+And That's.
+
+🎤 SPEAKER_1 [4344s - 4348s]
+In terms of family relationships so much family breakdown here, Barry, isn't it?
+
+🎤 SPEAKER_11 [4348s - 4349s]
+Well, we've suffered about you know.
+
+🎤 SPEAKER_2 [4350s - 4350s]
+Yeah.
+
+🎤 SPEAKER_10 [4350s - 4351s]
+I'm myself.
+
+🎤 SPEAKER_11 [4351s - 4355s]
+So we've experienced that in our life. So you know.
+
+🎤 SPEAKER_1 [4355s - 4359s]
+Yes. You've you've managed not to shield it from was cycle we wanted to break.
+
+🎤 SPEAKER_0 [4360s - 4361s]
+Yeah.
+
+🎤 SPEAKER_1 [4361s - 4362s]
+And you've done it.
+
+🎤 SPEAKER_1 [4366s - 4368s]
+I mean, Stefan Hailey I right thinking they gauge? No? Yeah.
+
+🎤 SPEAKER_11 [4368s - 4369s]
+They are. They married a
+
+🎤 SPEAKER_0 [4370s - 4372s]
+Very good. Very good.
+
+🎤 SPEAKER_8 [4373s - 4379s]
+So there we are. Ten years I think they've been together. Have they? Yeah. I'm blimey, they're married couple already, ready or already.
+
+🎤 SPEAKER_2 [4379s - 4380s]
+They are really. Yeah.
+
+🎤 SPEAKER_11 [4381s - 4386s]
+So yeah that's the next biggie which is why rather you need to lose weight for the for the wedding.
+
+🎤 SPEAKER_8 [4387s - 4388s]
+Yeah. Yeah.
+
+🎤 SPEAKER_1 [4390s - 4392s]
+Thanks for the coffee man.
+
+🎤 SPEAKER_11 [4392s - 4401s]
+No, you're okay. Sorry. You know, it's it's sorry. It's a topic that's raised its head, but it's it was inevitable, really. Yeah.
+
+🎤 SPEAKER_0 [4401s - 4402s]
+So, you know.
+
+🎤 SPEAKER_1 [4402s - 4406s]
+And needs to be it needs to be dealt with, but it can be dealt with in a really in a in a in a good way.
+
+🎤 SPEAKER_1 [4409s - 4412s]
+And I think we're trying to lead church in a different way from the previous generation.
+
+🎤 SPEAKER_11 [4413s - 4431s]
+We don't want to fall for the the mistakes the church has made, but equally we want to honor god's word. You know, you've got to be you gotta be faithful to that. And I and I don't agree with know people trying to distort it and trying to put a slant on it.
+
+🎤 SPEAKER_11 [4432s - 4444s]
+I don't understand it Yep. As much as they try and use as you say, phrases in the bible to try and justify an argument. It's like, it is quite black and white actually.
+
+🎤 SPEAKER_2 [4444s - 4446s]
+Yeah. It is.
+
+🎤 SPEAKER_4 [4446s - 4447s]
+It is black and white.
+
+🎤 SPEAKER_1 [4447s - 4457s]
+Unfortunately, is just the issue we're talking about, this is true of liberal theology generally. You can basically discard disregard anything in the Bible because you can contextualize it.
+
+🎤 SPEAKER_1 [4458s - 4471s]
+It was a book it was a book written in history you can do this with any of the book in the bible. It's written in history and so that means it was for that time dealing issues of that that that city had this particular issue and Paul was only talking to them and we don't have that issue anymore.
+
+🎤 SPEAKER_1 [4472s - 4476s]
+No. No. It's God's eternal word for the church. Now today.
+
+🎤 SPEAKER_11 [4476s - 4481s]
+And I think the minute you start to disassociate from that
+
+🎤 SPEAKER_2 [4481s - 4481s]
+Yeah.
+
+🎤 SPEAKER_11 [4482s - 4486s]
+You you basically under undermining it. You're undervaluing Yep.
+
+🎤 SPEAKER_0 [4486s - 4487s]
+Its context. Yep.
+
+🎤 SPEAKER_11 [4488s - 4492s]
+Content. Because it's like, well, no. You say it's not God's word. Then.
+
+🎤 SPEAKER_1 [4492s - 4493s]
+That's right. Yeah.
+
+🎤 SPEAKER_1 [4494s - 4497s]
+And you and what happens then is that it's a slippery slope because you become
+
+🎤 SPEAKER_10 [4498s - 4498s]
+Yeah.
+
+🎤 SPEAKER_1 [4498s - 4503s]
+More more wanting to be like society. And so you take more and more out Yeah.
+
+🎤 SPEAKER_10 [4503s - 4504s]
+And before you know it, you get to the place where she was Jesus really the only way to to God?
+
+🎤 SPEAKER_1 [4506s - 4509s]
+And that's what happened to the little the the cafe under the bridge or whatever it's called.
+
+🎤 SPEAKER_1 [4510s - 4522s]
+Oh, They they were Methodist and I remember Mips was there now gone. Went away about ten years ago. She was like, Reese, Jesus will be turning in his grave if he knew that he worshiped them as god.
+
+🎤 SPEAKER_1 [4523s - 4537s]
+And choose a Methodist minister. And there's and the same and it's the same with the same in the the Church of England as well. There's there's chaplain there's chaplains that I've had exactly the same conversation with.
+
+🎤 SPEAKER_1 [4538s - 4544s]
+They've lost it. So we've got to fight for it. That's what I've been trying to do with this catechism. Fight, contend for the faith as handed down.
+
+🎤 SPEAKER_1 [4545s - 4551s]
+It's precious and it's gonna at various times in history, it's gonna offend people for different reasons. But Yeah. It's a turn on.
+
+🎤 SPEAKER_8 [4551s - 4551s]
+We it's a good gift.
+
+🎤 SPEAKER_1 [4551s - 4553s]
+It's a good deposit for us.
+
+🎤 SPEAKER_10 [4554s - 4554s]
+So Yeah.
+
+🎤 SPEAKER_1 [4554s - 4559s]
+And the danger is to reinvent reinvent faith the way we want it to be.
+
+🎤 SPEAKER_11 [4560s - 4589s]
+That's always been a danger in society. Either you you it's a bit like, you know, in the old days, they used to have money And you had coins Mhmm. That were made of pure silver Mhmm. And gold, and they were value Mhmm. And, of course, people would come along then and think, well, I'll snip a little bit off the call Yeah. If I snip a little bit off each corner of each coin Yeah. Then I can Yeah.
+
+🎤 SPEAKER_11 [4589s - 4590s]
+Get some money.
+
+🎤 SPEAKER_10 [4590s - 4591s]
+So Yeah. Would you value it?
+
+🎤 SPEAKER_11 [4591s - 4592s]
+Just cut in a little bit?
+
+🎤 SPEAKER_0 [4593s - 4594s]
+Yep.
+
+🎤 SPEAKER_1 [4595s - 4596s]
+That's an apt analogy. Yeah.
+
+🎤 SPEAKER_11 [4597s - 4600s]
+And and it's like, you know, that's what we Yeah. We do. I'll just take a little bit off here because it Yeah.
+
+🎤 SPEAKER_10 [4601s - 4602s]
+Know, it's not that relevant.
+
+🎤 SPEAKER_11 [4602s - 4604s]
+People have noticed.
+
+🎤 SPEAKER_2 [4604s - 4604s]
+Yeah.
+
+🎤 SPEAKER_0 [4605s - 4606s]
+It still have some but actually, I can siphon this thing off.
+
+🎤 SPEAKER_2 [4609s - 4610s]
+And it's just I don't I don't really get it.
+
+🎤 SPEAKER_11 [4610s - 4614s]
+It's it's when you read it
+
+🎤 SPEAKER_8 [4614s - 4614s]
+Yeah.
+
+🎤 SPEAKER_11 [4615s - 4619s]
+And I honestly and I love historical Yeah. Right?
+
+🎤 SPEAKER_1 [4619s - 4620s]
+I love trying That's important, man.
+
+🎤 SPEAKER_11 [4620s - 4624s]
+I love trying to understand Yeah. You know, when you study it Yeah.
+
+🎤 SPEAKER_11 [4626s - 4629s]
+On what was going on at that time Yeah. And the culture of that time
+
+🎤 SPEAKER_0 [4629s - 4629s]
+Yeah.
+
+🎤 SPEAKER_11 [4629s - 4632s]
+Because Tim and I were chatting this morning about it.
+
+🎤 SPEAKER_2 [4632s - 4633s]
+Yeah.
+
+🎤 SPEAKER_11 [4633s - 4638s]
+That you you you don't understand the real value of the message.
+
+🎤 SPEAKER_0 [4639s - 4641s]
+You don't the historical context sometimes.
+
+🎤 SPEAKER_11 [4642s - 4648s]
+The cultural meaning of it. That's right. And people today, like, we've got two or three generations of one church. Yep.
+
+🎤 SPEAKER_8 [4648s - 4649s]
+And they read it and they read what it says Yep.
+
+🎤 SPEAKER_11 [4649s - 4652s]
+But they don't understand. That's right.
+
+🎤 SPEAKER_5 [4652s - 4653s]
+Yeah.
+
+🎤 SPEAKER_1 [4653s - 4677s]
+And they'd love to quote our tuturonomy Well, the Bible also says you shouldn't eat shellfish. Do you eat shellfish? That realizing the context of where that was written and to who and to why, But yeah, no, the context is really important. Think that John Stuart was good on this. He said, you gotta take the you gotta take the you gotta find the timeless truth and separate it from the contextual Yeah. Situation For example
+
+🎤 SPEAKER_2 [4678s - 4678s]
+Yeah.
+
+🎤 SPEAKER_1 [4678s - 4679s]
+Head coverings in one Corinthians or
+
+🎤 SPEAKER_4 [4680s - 4680s]
+Yeah.
+
+🎤 SPEAKER_1 [4680s - 4688s]
+Is a disgrace for women to shave their hair, all that sort of thing. What I don't think Paul's prescribing nobody should shave their hair, but what what's the principle? What's the timeless truth behind it?
+
+🎤 SPEAKER_1 [4690s - 4697s]
+I knowing god with your bodies, for example, or whoever it is. But yeah. Anyway thank you Steve. So can I just clarify then?
+
+🎤 SPEAKER_8 [4698s - 4699s]
+Are you so what you want to do?
+
+🎤 SPEAKER_11 [4700s - 4700s]
+Chloe.
+
+🎤 SPEAKER_1 [4701s - 4704s]
+And do want to let me know when that happens and then I can get in touch or
+
+🎤 SPEAKER_2 [4704s - 4705s]
+Yeah.
+
+🎤 SPEAKER_11 [4705s - 4709s]
+I'll let I'll let you know. I'll try and well, I I'll see you.
+
+🎤 SPEAKER_1 [4709s - 4713s]
+From my point of view, it's not a big thing. It's just a quick reminder. It's just yeah.
+
+🎤 SPEAKER_11 [4713s - 4720s]
+And I think I think just to make her aware of sensitivities of others, of, look, I don't know what you've written. Let's have a look at what you've written.
+
+🎤 SPEAKER_1 [4723s - 4730s]
+Some people have, like It was a lovely message. It was just the the problem was it was just an assumption. Everyone was everyone was this oh, we're all the same. We'll agree that this is a wonderful thing.
+
+🎤 SPEAKER_0 [4730s - 4731s]
+Yeah.
+
+🎤 SPEAKER_1 [4731s - 4743s]
+It was nothing it was just the it was just that that there's an there's a lack of of perhaps deliberately or otherwise, recognition that people might not be disagree with this.
+
+🎤 SPEAKER_2 [4744s - 4745s]
+I I think I I don't I No.
+
+🎤 SPEAKER_1 [4746s - 4747s]
+I don't think you Actually, it was just a bit of thought.
+
+🎤 SPEAKER_0 [4748s - 4749s]
+Yes.
+
+🎤 SPEAKER_8 [4749s - 4750s]
+That's what in a way, that's that's probably because of feeling comfortable in church life.
+
+🎤 SPEAKER_11 [4756s - 4764s]
+Yes. I feel, oh, everybody seems to, you know, happy and Right.
+
+🎤 SPEAKER_2 [4764s - 4765s]
+Loving and caring.
+
+🎤 SPEAKER_11 [4765s - 4769s]
+Without actually realizing, well, yeah, but not everybody may
+
+🎤 SPEAKER_0 [4769s - 4769s]
+Yes.
+
+🎤 SPEAKER_1 [4772s - 4779s]
+Agree with your We are talking about a kind of theological conviction. We're not talking about feelings. No. No. And in fact, welcome is exactly the way it should be.
+
+🎤 SPEAKER_11 [4780s - 4784s]
+It's just that you need to understand theologically people may not agree with it.
+
+🎤 SPEAKER_1 [4784s - 4789s]
+So Yes. And also, it's the church view as well. But I'm I'm happy to have all that conversation.
+
+🎤 SPEAKER_4 [4789s - 4789s]
+No.
+
+🎤 SPEAKER_11 [4790s - 4794s]
+Well, I'll I'll I'll break I I can just sort of, you know, break the ice.
+
+🎤 SPEAKER_2 [4794s - 4794s]
+Yeah.
+
+🎤 SPEAKER_11 [4795s - 4806s]
+And and then you know, you can just reinforce it from a you know, a central position. Yep. And then, Yeah.
+
+🎤 SPEAKER_1 [4806s - 4815s]
+It won't be And that's all that needs to be that's all that's we said. I mean, we don't need to include a I mean, for well, I don't know. Maybe Ryan or might Chloe might get upset, speak to Ryan about it.
+
+🎤 SPEAKER_11 [4816s - 4821s]
+I I I I speak to her. Who knows? Yeah. I'll speak I mean, to be honest with you, it it's a bit of a jug.
+
+🎤 SPEAKER_8 [4822s - 4823s]
+In our family. It's like
+
+🎤 SPEAKER_11 [4824s - 4829s]
+you know, Chloe is saying, don't tell dad. You're not gonna tell me, but you don't know.
+
+🎤 SPEAKER_2 [4830s - 4831s]
+I know. I'll say to that.
+
+🎤 SPEAKER_11 [4831s - 4839s]
+Somebody will say something to me, I go, am I supposed to know this or not? Right. Yeah. Don't know. Because I don't say anything. What do want to me.
+
+🎤 SPEAKER_11 [4840s - 4840s]
+It's like, you know Rachel says that.
+
+🎤 SPEAKER_0 [4842s - 4842s]
+Think.
+
+🎤 SPEAKER_11 [4843s - 4849s]
+It's I played straight. It's like, I don't even if I remember Yeah. Or I don't remember. It's like I don't know where I'm supposed to know this.
+
+🎤 SPEAKER_0 [4850s - 4853s]
+No. Right. I'm just gonna act Yeah.
+
+🎤 SPEAKER_11 [4853s - 4853s]
+You know, I know nothing.
+
+🎤 SPEAKER_1 [4855s - 4864s]
+I think something like Ellen got pregnant or something. Ben told me and then it was about a week later Ellen told Rachel. What? You knew? You didn't tell me? I was like, well, I'm not sure I was meant to tell you.
+
+🎤 SPEAKER_1 [4866s - 4867s]
+And and and Or something like that. Something like that.
+
+🎤 SPEAKER_11 [4867s - 4878s]
+Well, somebody told me Ryan had told me and then I was like, okay. Am I supposed to know this or not?
+
+🎤 SPEAKER_0 [4878s - 4880s]
+Because am I am I Can't keep up yet.
+
+🎤 SPEAKER_10 [4880s - 4881s]
+Ben and say, oh, Ben, congrats well, I don't know.
+
+🎤 SPEAKER_11 [4885s - 4888s]
+Told me.
+
+🎤 SPEAKER_2 [4888s - 4889s]
+Yeah.
+
+🎤 SPEAKER_11 [4889s - 4890s]
+And I went, I'm not saying anything.
+
+🎤 SPEAKER_2 [4891s - 4891s]
+No.
+
+🎤 SPEAKER_11 [4891s - 4902s]
+To be honest, I Yeah. So when it eventually did come out, I said to Ben, congratulations Ben. And and I think he was a bit surprised in a sense. I said, just in case you thought I did know Yeah.
+
+🎤 SPEAKER_11 [4904s - 4912s]
+I said, I wasn't saying anything because I know whether I supposed to know or not. But I think was supposed to know. Yeah. But of course, I didn't I hadn't said anything to him then Yeah.
+
+🎤 SPEAKER_10 [4913s - 4914s]
+Congratulated him because I wasn't sure.
+
+🎤 SPEAKER_2 [4915s - 4915s]
+No. No.
+
+🎤 SPEAKER_10 [4916s - 4917s]
+So I said, so I wasn't really worried.
+
+🎤 SPEAKER_2 [4917s - 4920s]
+I just wasn't sure. Yeah. And he just laughed.
+
+🎤 SPEAKER_1 [4920s - 4931s]
+I I had that exact conversation with him actually because they were not they didn't wanna make a fess over it. No. So it was kind of this weird thing ever knew but they didn't know if they meant to know and all that. It seemed to be doing okay. Thanks for the coffee, Steven. Thanks for your time and your advice in the prayer.
+
+🎤 SPEAKER_1 [4931s - 4935s]
+I love you, man. I appreciate you. I'm grateful for you and your family.
+
+🎤 SPEAKER_2 [4938s - 4939s]
+It'll work out.
+
+🎤 SPEAKER_0 [4940s - 4941s]
+Yes.
+
+🎤 SPEAKER_4 [4941s - 4941s]
+It will.
+
+🎤 SPEAKER_1 [4941s - 4953s]
+It will. By the grocery guys, hope. Thanks for the coffee. You're welcome. And, uh, I quit my neck two days ago. It's still can't at breakfast, I have to lean like that so I could look at you that way rather. I can't see my head that way in a minute. That's horrible.
+
+🎤 SPEAKER_11 [4953s - 4955s]
+Could be sleep rough. Yeah.
+
+🎤 SPEAKER_1 [4956s - 4963s]
+There's a this is what happens when you you when you hit a certain age, start to just tune your head and you pull a missile kind of thing.
+
+🎤 SPEAKER_1 [4963s - 4964s]
+Oh, tell me, buddy.
+
+🎤 SPEAKER_0 [4964s - 4967s]
+Alright. Thanks, man. You take care.
+
+🎤 SPEAKER_6 [4967s - 4968s]
+Enjoy the rest of your day.
+
+🎤 SPEAKER_1 [4968s - 4972s]
+You, mate. Be be in touch about if there's any any potential issues with it. Oh, let know.
+
+🎤 SPEAKER_0 [4973s - 4973s]
+Me yeah.
+
+🎤 SPEAKER_1 [4973s - 4976s]
+Alright. Cheers, Steve. I don't know whether I'll see him later on.
+
+🎤 SPEAKER_0 [4977s - 4979s]
+No. Tomorrow. No.
+
+🎤 SPEAKER_1 [4979s - 4980s]
+No. That's fine. Cheers. Thanks. Bye.
+
+
+---
+
