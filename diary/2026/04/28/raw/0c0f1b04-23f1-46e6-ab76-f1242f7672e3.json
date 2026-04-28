@@ -1,0 +1,286 @@
+{
+  "id": "0c0f1b04-23f1-46e6-ab76-f1242f7672e3",
+  "created_at": "2026-04-28T12:16:39.777633+00:00",
+  "started_at": "2026-04-28T12:16:47.125814+00:00",
+  "finished_at": "2026-04-28T12:20:45.341766+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User and Steve Address Baby Shower Concerns",
+    "overview": "The user described a helpful meeting with Steve about confusion in the church following Chloe's WhatsApp message about the baby shower. They reaffirmed the church's marriage position, clarified that pastoral support for Sarah and Sophie is not endorsement, and noted that Steve is also struggling with the issue as a family member and leader. They agreed on a plan for Steve to prime Chloe, Sophie, and Sarah about being sensitive to differing theological convictions, after which the user will meet with them directly to help reduce fallout and keep the discussion simple and clear.",
+    "emoji": "🕊️",
+    "category": "work",
+    "action_items": [
+      {
+        "description": "Let Steve speak to Chloe, Sophie, and Sarah about the church position",
+        "completed": false,
+        "created_at": "2026-04-28T12:22:48.382888+00:00",
+        "updated_at": null,
+        "due_at": "2026-04-30T23:59:00+00:00",
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2603dbed-1971-4ded-9eef-1f464b776900",
+      "text": "Yes I met with steve It was a really helpful time together. As I expected it would be. Basically, the way I went into it with him was coming from the angle of Chloe's WhatsApp about the baby shower.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 4.863739011540247e-07,
+      "end": 18.6800004863739,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "519bd051-b054-4ece-a7fb-e58bc4723bff",
+      "text": "And how that is now causing confusion in the church. About our view on everything to do with this.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 22.440000486373904,
+      "end": 30.519999486373898,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f2561c76-cdd8-43da-a346-fde9b539d7cf",
+      "text": "Kinda reiterated to him about how a warm welcome perhaps is starting to be seen as in as in as an endorsement",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 33.7600004863739,
+      "end": 46.4400024863739,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "6e70ebb2-5208-4a57-9972-cb0149d28b82",
+      "text": "Reconfirm to him that our marriage our view of marriage is between a man and woman.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 51.60529802868742,
+      "end": 57.64529502868743,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "fa13a9c9-41a4-4f38-acf2-246349ab5d61",
+      "text": "That are supportful Sarah and Sophie is pastoral, but doesn't mean that we're endorsing. Them.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 60.765298028687425,
+      "end": 72.25529502868743,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "94d997f9-629c-4529-8e3a-2b7202b503b5",
+      "text": "Steve completely understood. He himself is really struggling with it. He shared with me how he has to kinda leave the room now when they're talking about the the because he he is a dissenting voice in the family.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 75.69529102868742,
+      "end": 93.32529502868742,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "9e5ce073-2b00-4357-9418-be593e223859",
+      "text": "And how he he struggles with it.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 94.56530102868741,
+      "end": 96.88530102868742,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b59b9e5b-9b2d-45c9-93d6-ee09a2e600b3",
+      "text": "He says that Chloe and Rhino very emotive. And it can cause issues. I talked to him about how I said to him that I'm talking to him as a leader first, but also because it involves his family.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 101.84529502868742,
+      "end": 119.7652950286874,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "86d11994-96ba-4405-854a-d383886045d8",
+      "text": "I told him that I'd need to speak to Chloe. About her message. Mainly essentially, it's it's that there needs to be a sensitivity to the fact that many will hold a different theological conviction to her on this issue In fact, the church itself does as well.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 120.4852950286874,
+      "end": 143.52529502868742,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "79b3b648-91bf-440f-9a2d-ff9bae77cf86",
+      "text": "So she just needs to be mindful and aware of that and kind of rein it back in. We talked it through. Steve's advice was, he said, it's up to you how you want to do it, but it might be worth me priming her and Sophie and Sarah Just kind of break the ice a little bit Just mention that's, uh, again, that that the church position is and to be sensitive to others and to kind of reign it in.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 144.00530502868742,
+      "end": 171.8852950286874,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "60e681bb-4ef4-483c-82f9-a91a9f0bbafb",
+      "text": "And then once he's done that, he's gonna let me know so I can meet with them as well.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 172.28529502868741,
+      "end": 176.52529502868742,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d49e677d-13f3-419f-ac3b-1ea084cdc1ac",
+      "text": "And the goal really is to kind of reduce the fallout if we can. Kind of simply reminding them all of the church position and just to be sensitive to the fact that others are not gonna see it the same way as them.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 179.68529502868742,
+      "end": 192.48528502868743,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "cfaca86d-c615-4603-9fee-ff45ce263c6f",
+      "text": "So, yeah, it was a useful meeting. So that's the plan. He's gonna speak to them over the day or two. Let me know how it goes and then I'm gonna go and speak to them.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 196.50530502868742,
+      "end": 208.2647740364121,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "be0d4d9f-f1ae-4f45-a98b-fe31daf0a222",
+      "text": "But if we can keep it as simple as that, this is the church position Please be mindful of of other people's positions. Theological conviction.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 209.4047840364121,
+      "end": 218.8047740364121,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "db7345dd-b806-4602-8b78-c1329753c7d8",
+      "text": "That might be enough.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 221.5247740364121,
+      "end": 222.4847740364121,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "12a32157-0829-46ef-abc7-b1816f61ef1b",
+      "text": "Time together. As I expect",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 226.3947740364121,
+      "end": 237.16131638123576,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.415686,
+    "longitude": -3.2755673,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "7cabcacd-44a1-4ff6-a996-838ce6cf7d36",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "0c0f1b04-23f1-46e6-ab76-f1242f7672e3",
+      "chunk_timestamps": [
+        1777378600.519,
+        1777378660.687,
+        1777378720.688,
+        1777378780.792
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-28T12:16:40.519000+00:00",
+      "duration": 301.475
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Meeting with Steve\n- Helpful, agreed discussion\n- Raised Chloe’s WhatsApp baby shower issue\n- Clarified church confusion\n\n## Church position restated\n- Warm welcome is not endorsement\n- Marriage is between man and woman\n- Sarah and Sophie support is pastoral only\n\n## Steve’s response\n- Steve fully understood\n- He is struggling personally\n- Family discussions are emotive\n\n## Planned message to Chloe\n- She must respect differing convictions\n- Church also holds different views\n- Her message needs more sensitivity\n\n## Next steps\n- Steve will speak to Chloe first\n- Also prime Sophie and Sarah\n- Then follow up with them directly"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "66c1f6ee-d299-4332-9cbb-6adfb3f8462b",
+  "call_id": null
+}
