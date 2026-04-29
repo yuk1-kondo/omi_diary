@@ -1,0 +1,136 @@
+{
+  "id": "cf1256d4-65fe-4b9c-9eac-b4977f0a81d1",
+  "created_at": "2026-04-29T23:31:42.355370+00:00",
+  "started_at": "2026-04-29T23:32:26.369834+00:00",
+  "finished_at": "2026-04-29T23:34:21.010246+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "状況調査と数値の一致を確認",
+    "overview": "会話では、スマホの確認や『一つ突っ込んでください』といった進行のやり取りの中で、自分で消した件や『言って泣いてた』『ちょっと疲れた』といった反応が共有されました。最後に、状況調査と数値が一致していることを確認する流れになり、Speaker 2 が『ああ、大丈夫』と応答しています。Speaker 1 は外向けの校正のような話題に触れかけていますが、全体としては短いやり取りで、明確な予定やタスクの確定は見当たりません。",
+    "emoji": "📱",
+    "category": "work",
+    "action_items": [
+      {
+        "description": "状況調査と数値を一致させる",
+        "completed": false,
+        "created_at": "2026-04-29T23:36:26.533810+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "84594164-ad29-40ba-a171-fcfb9b435c4c",
+      "text": "スマホ、 スマホ がある でしょ。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.335139359071036e-07,
+      "end": 1.2799998664860368,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "6d7bafd4-71a4-4210-aa4f-7c2cf07b615c",
+      "text": "一つ 突 っ 込んで ください。 自分 消 せ ました よね。 言って 泣 いて た。 ちょっと 疲 れた。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 7.76000986648603,
+      "end": 17.19999986648611,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "001be491-2c11-4289-95c1-8d6396ad9d66",
+      "text": "状況 調査 と 数 値 が一 致 している こと。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 108.02578194488615,
+      "end": 109.78577194488616,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "1bc7ad63-eeb0-4cd8-9afb-f99d80fe6af0",
+      "text": "ああ、 大丈夫。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 110.18576194488617,
+      "end": 110.66578194488625,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "69f5c5c1-69e9-489f-8410-78ffd0bd72f0",
+      "text": "で 外 用 この 校 基本 調",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 112.1257055500804,
+      "end": 112.76570555008038,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "7210145f-756c-4206-82f2-0d079223ef1c",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "cf1256d4-65fe-4b9c-9eac-b4977f0a81d1",
+      "chunk_timestamps": [
+        1777505501.546,
+        1777505562.515,
+        1777505623.249,
+        1777505683.729
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-29T23:31:41.546000+00:00",
+      "duration": 303.145
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## スマホの話\n- スマホがある\n- 一つ、突っ込んでください\n- 自分で消せました\n\n## 状況の確認\n- 言って泣いていた\n- ちょっと疲れた\n- 状況調査が必要\n\n## 数値の一致\n- 状況調査と数値が一致\n- データ整合が重要\n- ここは確認ポイント\n\n## 反応\n- ああ、大丈夫\n- 外用の話に移る\n- 校基の基本調査\n\n## 次のステップ\n- 外用の基本調査\n- 数値一致の再確認\n- 状況調査を継続"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
