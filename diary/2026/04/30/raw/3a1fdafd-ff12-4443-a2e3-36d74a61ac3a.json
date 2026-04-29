@@ -1,0 +1,148 @@
+{
+  "id": "3a1fdafd-ff12-4443-a2e3-36d74a61ac3a",
+  "created_at": "2026-04-29T23:22:12.123633+00:00",
+  "started_at": "2026-04-29T23:22:23.091677+00:00",
+  "finished_at": "2026-04-29T23:23:34.226939+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "回線トラブルを確認して復旧対応",
+    "overview": "通話では、回線がつながらない不具合について状況確認が行われました。メイン回線を一度リセットしたものの、まだうまく接続できていない様子で、原因として回線側の問題や他サービスへの影響も疑われていました。全体として、接続状態の再確認と復旧対応を進める内容でした。",
+    "emoji": "📶",
+    "category": "technology",
+    "action_items": [
+      {
+        "description": "Googleドライブを確認する",
+        "completed": false,
+        "created_at": "2026-04-29T23:25:40.325444+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "f3feac9c-c5c7-42b8-955d-3144e313c0d4",
+      "text": "繋が ら へん って な っ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.667657833579142e-07,
+      "end": 0.9600004667657913,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c9ae228f-8a92-486c-a7fd-372ba67d7351",
+      "text": "そこで 物 ラ ブ の ちゃった の。 メイン の回 線 があるので、 そこ をちょっと 一回 リ セット した んですよね。 そしたら なんか まあ 一応 いけ なくなった から なんか 現象 的に いろいろ 考え たら、 先生 同じ 感じで Google とか 言ってる んですけど、 他 があ かん 感じ だった。 回 線 はちょっと うまく い けて なかった から。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 5.49331046676582,
+      "end": 24.699995466765813,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d9de6a62-e0fb-4f29-b775-605d0781bd28",
+      "text": "行 けて たら また お かし かったら はい。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 25.25331046676581,
+      "end": 27.093310466765786,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "2b0ed4fd-f77e-4327-a847-8153acab6a1e",
+      "text": "やばい ですね。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 42.7747292894731,
+      "end": 43.49472928947313,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "23d29851-934a-4fd9-ace5-f024a08fd44f",
+      "text": "着 けて。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 46.854709289473135,
+      "end": 47.414729289473144,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e0682538-b654-4389-a454-516da1abe72d",
+      "text": "お 先生、 自由 自 主 だって。 い 壁 壁 ね、 ここ も ま さ しく、 ここ 箱 食べ れる んですね。 早い ですね。 あれ ？ コ ーク の できない ？ あれ なんだ ？ そんな 書 かない と思う。 工 事 入 ると 高 くは な。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 50.72142928947312,
+      "end": 70.2681092894731,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "65892397-77b0-43fb-9486-8d9a5fbbedeb",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "3a1fdafd-ff12-4443-a2e3-36d74a61ac3a",
+      "chunk_timestamps": [
+        1777504931.518,
+        1777504992.22,
+        1777505053.224
+      ],
+      "provider": "gcp",
+      "started_at": "2026-04-29T23:22:11.518000+00:00",
+      "duration": 243.308
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 回線がつながりにくい状況があった\n- メイン回線を一度リセットした\n- その後も、うまくいかない現象があった\n\n【決めたこと】\n- メイン回線をリセットした\n\n【次の一歩】\n- 回線の状態をもう一度確認し、必要なら信頼できる人や専門家への相談を検討してください"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
