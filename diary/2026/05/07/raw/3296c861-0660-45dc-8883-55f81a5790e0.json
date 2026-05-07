@@ -1,0 +1,151 @@
+{
+  "id": "3296c861-0660-45dc-8883-55f81a5790e0",
+  "created_at": "2026-05-07T06:58:55.356597+00:00",
+  "started_at": "2026-05-07T06:59:05.578038+00:00",
+  "finished_at": "2026-05-07T07:00:08.482568+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "みんなのために調整を完了",
+    "overview": "会話では、何かが「きれいに収まる」ように調整する流れが確認され、参加者たちは「最高です」「みんなのため」と前向きに応じています。最後は協力についてのやり取りがあり、うまく収めるために連携して進めていた様子がうかがえます。",
+    "emoji": "🤝",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "5b8c8730-41df-4d72-bdbf-e950aa1632c9",
+      "text": "そしたら きれ いに 収 まる はずです。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 4.904813977191225e-07,
+      "end": 1.6000004904817615,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8b3dc521-796a-4cfa-a85f-e92c3dc7960c",
+      "text": "最高 です。",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.0000004904813977,
+      "end": 2.2400004904811794,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "a70b1409-fddb-4c27-9d40-cd73f5ffe1a1",
+      "text": "。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 15.597059310073746,
+      "end": 16.077159310072602,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "ed3a642c-30db-487c-9792-0d96e6359104",
+      "text": "みんな のため。",
+      "speaker": "SPEAKER_4",
+      "speaker_id": 4,
+      "is_user": false,
+      "person_id": null,
+      "start": 16.077159310072602,
+      "end": 17.037059310072436,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c689e680-5dbc-4683-bebf-2433ab5f0caf",
+      "text": "みんな のため です。",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": null,
+      "start": 17.037059310072436,
+      "end": 17.7570593100736,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "80f830d7-fc19-4cad-9b34-fb279f106592",
+      "text": "協力 してくれ やって ました。 いません。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 19.917059310073455,
+      "end": 22.69035931007238,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "29a42cb0-6eda-48e7-a439-d322790b2a83",
+      "text": "協力 いません。 す いません。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 24.46045931007393,
+      "end": 62.38246134751353,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "7590ab46-ebcb-4926-ac04-3f086b213f42",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "3296c861-0660-45dc-8883-55f81a5790e0",
+      "chunk_timestamps": [
+        1778137134.328,
+        1778137194.589,
+        1778137254.964
+      ],
+      "provider": "gcp",
+      "started_at": "2026-05-07T06:58:54.328000+00:00",
+      "duration": 241.384625
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 「きれいに収まるはず」との話があった。\n- 「最高です」「みんなのためです」というやり取りがあった。\n- 協力についての発言があったが、内容は未確認。\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 直近の会話で出た「きれいに収まる」内容を、信頼できる人と短く確認する。"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
