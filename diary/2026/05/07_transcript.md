@@ -753,3 +753,53 @@ Tchut.
 
 ---
 
+
+
+## 📝 User Plans Church WhatsApp Voting Message - 87c960b0-7e80-40dd-be4a-ccb270cb65cd
+
+**記録時間**: 2026-05-07 16:22:02
+
+### STT生テキスト
+
+👤 あなた [0s - 201s]
+Think I'll come in on my way. Disabled in excess, but
+
+👤 あなた [208s - 210s]
+Yep. 62 white foam.
+
+👤 あなた [222s - 224s]
+Just the one cross. Yes. Yes.
+
+🎤 SPEAKER_1 [224s - 224s]
+Thank you very much.
+
+👤 あなた [224s - 225s]
+Thank you very much.
+
+🎤 SPEAKER_1 [225s - 226s]
+Thanks.
+
+👤 あなた [229s - 247s]
+Innovation, aye, with the tablets this time?
+
+🎤 SPEAKER_1 [247s - 247s]
+Yeah.
+
+👤 あなた [248s - 254s]
+Thanks very much. Take care. You too. Long day for you guys. Hope you hope you get through okay?
+
+🎤 SPEAKER_1 [332s - 333s]
+Don't know if you wanna put a snack in.
+
+🎤 SPEAKER_2 [333s - 339s]
+I'm wondering whether he gets have a snack when he's there for like, a that bar in, perhaps, I don't get to take polling cards. Can go all the way back.
+
+👤 あなた [343s - 421s]
+I just want to send out a short coupler sentence message on the church WhatsApp group to encourage people to vote. Today in the Welsh elections, I'd like to say something like, please do vote under the new system, every vote counts.
+
+👤 あなた [425s - 431s]
+Something about why Christians should vote and maybe above all this. Help you with that?
+
+
+---
+
