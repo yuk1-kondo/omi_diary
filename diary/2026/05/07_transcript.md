@@ -649,3 +649,107 @@ Is that what you've seen online, is it?
 
 ---
 
+
+
+## 📝 Morning School Drop-Off - cf371ae9-9862-499f-b0d0-a8a9b6a622d9
+
+**記録時間**: 2026-05-07 16:11:58
+
+### STT生テキスト
+
+👤 あなた [0s - 1s]
+Judith, twelve past eight.
+
+🎤 SPEAKER_2 [4s - 4s]
+Come on.
+
+👤 あなた [5s - 10s]
+Let's go. Leave it now. So water's all gonna fade away in a in a hour or two. Come on.
+
+👤 あなた [14s - 18s]
+You're wearing your hat you can't wear your hats school.
+
+👤 あなた [18s - 19s]
+No.
+
+🎤 SPEAKER_2 [19s - 22s]
+I'm wearing two school to let it stay in two Right.
+
+👤 あなた [72s - 90s]
+Your We gotta go somewhere.
+
+👤 あなた [90s - 92s]
+I've got time for any more mirror checks, I'm afraid.
+
+👤 あなた [96s - 102s]
+So you see, not trying for any more mirror tracks.
+
+👤 あなた [106s - 119s]
+In here instead. Let me send your bottle. I know if that's fresh though, so let me do a fresh one for you.
+
+👤 あなた [123s - 149s]
+Come on, Jude.
+
+👤 あなた [255s - 261s]
+Straight away when you get when the school starts, you'll go straight. This is the morning group. No.
+
+🎤 SPEAKER_1 [261s - 263s]
+15. Think can go.
+
+👤 あなた [264s - 264s]
+Straight away then.
+
+🎤 SPEAKER_1 [270s - 274s]
+Good thing is we're not gonna miss points. I'm not gonna miss No.
+
+👤 あなた [276s - 278s]
+So why did you get moved to Morning Group then?
+
+🎤 SPEAKER_1 [281s - 284s]
+Gracie didn't move the groups.
+
+👤 あなた [284s - 284s]
+Alright.
+
+👤 あなた [289s - 290s]
+This way. You're going too slow.
+
+👤 あなた [295s - 298s]
+That's Carlo. Person that's just passed.
+
+👤 あなた [305s - 308s]
+Means that meant that they passed their test a few days ago.
+
+👤 あなた [315s - 322s]
+If you pass your test, you can put a pee on if you want. Which means it tells me that they've only just passed their driving test.
+
+👤 あなた [326s - 329s]
+Yeah. They're a little less confident.
+
+👤 あなた [362s - 365s]
+They should have gone down. So that was a mistake.
+
+🎤 SPEAKER_1 [366s - 367s]
+Why?
+
+👤 あなた [367s - 379s]
+Because they went on either side of road. Mean, those lots slowed down. And whose side of the road is it? Theirs. So and that means is if it's their side of the road, we can't really go there if somebody's coming their way.
+
+👤 あなた [380s - 395s]
+So you gotta do what daddy just did, which is right behind him. They were to fill their tests for that. They did that and they'd run learn after you pass your stomach sticks.
+
+🎤 SPEAKER_1 [400s - 409s]
+Oficy Chick Juan Hanto. Wheel? Trying to test it.
+
+👤 あなた [409s - 419s]
+Well, I wouldn't recommend it. Right. Have a wonderful day, young man. And I look forward to being parked up on the grass at the end of the day.
+
+👤 あなた [423s - 424s]
+Love you. Have a good day. Okay?
+
+🎤 SPEAKER_1 [436s - 439s]
+Tchut.
+
+
+---
+
