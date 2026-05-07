@@ -271,3 +271,278 @@ A 四。
 
 ---
 
+
+
+## 📝 Rachel Discusses Exam Checks - 671f8de8-757e-4c90-8118-2927bbf7bb40
+
+**記録時間**: 2026-05-07 15:50:16
+
+### STT生テキスト
+
+👤 あなた [0s - 4s]
+Yeah. Well, they could've been could've been blown over by the wind and all sorts.
+
+👤 あなた [18s - 19s]
+Let's see.
+
+👤 あなた [23s - 24s]
+Yeah. Maybe.
+
+👤 あなた [27s - 31s]
+No. I'll throw over. If it comes to Charlotte's Way, and if it comes back then, we'll
+
+👤 あなた [34s - 45s]
+It's a bit nervous slash stressed that this is the last day before exams now, babe.
+
+👤 あなた [46s - 60s]
+Yeah.
+
+🎤 SPEAKER_2 [60s - 71s]
+If something goes wrong, Reese, we are not interested in people not getting through their exam Okay? Don't worry.
+
+🎤 SPEAKER_2 [82s - 87s]
+What now what you just have to consider is you get, like, the blue bar.
+
+👤 あなた [87s - 88s]
+Right? Yeah.
+
+🎤 SPEAKER_2 [89s - 100s]
+The blue bar that shows checking your whatever. Yeah. That during that time, you're basically waiting for us to message you the final checks.
+
+🎤 SPEAKER_2 [100s - 106s]
+Can you show us your paper? Can you show around the room? Yeah. But we suddenly got six people at once,
+
+👤 あなた [107s - 107s]
+Yeah.
+
+🎤 SPEAKER_2 [108s - 109s]
+It suddenly gets a bit like, ah.
+
+👤 あなた [110s - 112s]
+Yeah. So you just gotta wait for that.
+
+🎤 SPEAKER_2 [112s - 117s]
+Just, like, just sit and wait. There's no it's not because your checks won't be approved.
+
+👤 あなた [118s - 120s]
+Well, before we get started, Yeah.
+
+🎤 SPEAKER_2 [120s - 121s]
+It's just because we're, like, trying to
+
+👤 あなた [122s - 128s]
+Every every year this happens. My webcam's not good enough to show my driving license up close.
+
+🎤 SPEAKER_2 [128s - 129s]
+Everyone's.
+
+👤 あなた [129s - 130s]
+It's blurry as heck.
+
+🎤 SPEAKER_2 [130s - 137s]
+It doesn't matter because we know who you are. Yeah. Again, it's not an issue. Everyone was having issues with that. It was blurry for everyone. Just don't worry.
+
+👤 あなた [137s - 137s]
+We know who you are.
+
+🎤 SPEAKER_2 [137s - 147s]
+Again, just as people accept it, I As long as it's in the square line to this slide. So if you can see the picture it's it's us that check it.
+
+👤 あなた [148s - 148s]
+Yeah.
+
+🎤 SPEAKER_2 [150s - 151s]
+Not the picture necessarily.
+
+👤 あなた [151s - 156s]
+And so when you got somebody from another continent more difficult than for a student you know personally.
+
+👤 あなた [165s - 226s]
+It's just that it it wasn't actually, we could go back to the hundred one.
+
+👤 あなた [229s - 230s]
+Not sure off top of my head one's sick.
+
+👤 あなた [232s - 235s]
+10. Yeah.
+
+👤 あなた [236s - 237s]
+Two hours.
+
+👤 あなた [241s - 249s]
+You're mister dude. You need a toilet roll, do you? Okay. Gonna get some now.
+
+👤 あなた [253s - 301s]
+You're welcome.
+
+🎤 SPEAKER_2 [323s - 325s]
+That was, like, the awkwardness at Saint Tom Laura.
+
+👤 あなた [326s - 327s]
+Right. Yeah. Thank you.
+
+🎤 SPEAKER_2 [331s - 335s]
+How that should chance then just to rest and recover, isn't it?
+
+👤 あなた [335s - 337s]
+Right.
+
+👤 あなた [338s - 340s]
+So going straight into He's having a he's having a mini sebascal, innit, at end of this?
+
+🎤 SPEAKER_2 [341s - 344s]
+Long sebascal, isn't it?
+
+👤 あなた [344s - 345s]
+But it should be gradual, hopefully.
+
+🎤 SPEAKER_2 [345s - 348s]
+When it starts to take take on.
+
+👤 あなた [350s - 354s]
+And he can know, if he needs to go and He's very I think talking to him on the walk, he's very happy to be number two for well.
+
+👤 あなた [354s - 354s]
+Yeah.
+
+🎤 SPEAKER_2 [357s - 361s]
+I bet. I think he's probably thinking actually maybe that's just yeah. I've got no pride in this.
+
+👤 あなた [361s - 362s]
+Yeah.
+
+🎤 SPEAKER_2 [362s - 371s]
+It's only if it to get difficult in terms of, like, your the spiritual leading of the church. Yeah. It's confusing for people, but he has no pride over, like, that.
+
+👤 あなた [371s - 374s]
+He has a honey... There's a honeymoon period as well properly.
+
+👤 あなた [378s - 388s]
+Wonder if Stephen Jack had to just be really kind of clear with Clive. At that leader's elders meeting or whatever.
+
+🎤 SPEAKER_2 [390s - 394s]
+That was before the meeting.
+
+👤 あなた [394s - 402s]
+Yeah. But it was already there that I think were trying to tell him. Listen, Clive, it's not gonna you're not gonna be appointed lead elder here.
+
+👤 あなた [407s - 412s]
+You might wanna consider moving on for Sik Of The Yonge. While being a family.
+
+👤 あなた [419s - 420s]
+Ready now.
+
+🎤 SPEAKER_2 [427s - 430s]
+Close? That that is not sent to him.
+
+👤 あなた [431s - 432s]
+No.
+
+👤 あなた [432s - 434s]
+It's, like, forty minutes, isn't it, at least?
+
+👤 あなた [434s - 435s]
+Okay. There's a lot of reaction between us.
+
+👤 あなた [437s - 441s]
+Well, they're probably about off going Bridgendal even Swansea Way.
+
+🎤 SPEAKER_2 [445s - 446s]
+It's gonna be a reputation.
+
+👤 あなた [450s - 455s]
+Bridgent. I'm not sure what the church seems like in Brigen to be fair, but it's similar size to Barry.
+
+👤 あなた [456s - 463s]
+Alright. Wow. Yeah.
+
+🎤 SPEAKER_2 [474s - 486s]
+It's funny. Sharon
+
+🎤 SPEAKER_2 [491s - 503s]
+I mean, I could just feel the spirit on me. That was and he was obviously you know, it's just that kind of, like, you just have that moment or something. And I was it was funny cause I was just not used to that at Union and it felt very like
+
+👤 あなた [503s - 504s]
+Yeah.
+
+🎤 SPEAKER_2 [505s - 510s]
+Just a reminder of the two different sides of things and it's so hard sitting in a place of
+
+👤 あなた [512s - 512s]
+Yeah.
+
+👤 あなた [517s - 518s]
+Dancers clearly like, strong Try to do both.
+
+👤 あなた [520s - 523s]
+Sorry. Yeah.
+
+👤 あなた [523s - 529s]
+Enjoyed a good show at this one. And it's like the the global conference was a good indicator of it. Yeah.
+
+🎤 SPEAKER_2 [529s - 529s]
+That's what I'm saying.
+
+🎤 SPEAKER_2 [530s - 544s]
+It was quite then conferences are a bit different, aren't they, to your average Sunday? But I think worship is more and there's it seems a bit more mega churchy vibes perhaps as some of them places. But then I guess in America it's just different. We can't come compare.
+
+👤 あなた [544s - 544s]
+No.
+
+🎤 SPEAKER_2 [551s - 559s]
+But, yeah, it's clearly more maybe Redeemer is a bit more representative down in Plymouth of
+
+👤 あなた [561s - 561s]
+Yeah.
+
+🎤 SPEAKER_2 [562s - 566s]
+Maybe with I mean, put Pete's place in
+
+👤 あなた [567s - 567s]
+Redeemer.
+
+👤 あなた [569s - 570s]
+I know.
+
+🎤 SPEAKER_2 [571s - 581s]
+Because I didn't get that vibe from other places just where we've visited have just had a bit more normal. But over we just had to hold back because of the
+
+👤 あなた [581s - 582s]
+Right.
+
+🎤 SPEAKER_2 [582s - 588s]
+We were in that early place when we didn't really have those people around us, and they I think we can move in.
+
+👤 あなた [588s - 590s]
+That's partly my own confusion too.
+
+🎤 SPEAKER_2 [592s - 602s]
+I think he made everything a bit more like Yeah. Well, look, we can't even try now because it's mad. Right. I've gotta go. Have amazing time at Okay?
+
+👤 あなた [602s - 604s]
+I love you. Okay?
+
+👤 あなた [605s - 625s]
+Oh, well, remember. Man, we just watered today, mister Poods. Okay? With the have a good day, Rachel.
+
+👤 あなた [625s - 626s]
+Yes. Thank you.
+
+👤 あなた [630s - 632s]
+Right. It's 08:00, Drew, just to give you a bit of context.
+
+👤 あなた [641s - 642s]
+Stays.
+
+👤 あなた [664s - 666s]
+That's alright. See you later.
+
+👤 あなた [676s - 678s]
+Must take a coat today, Jude. Okay?
+
+👤 あなた [682s - 795s]
+Is that what you've seen online, is it?
+
+
+---
+
