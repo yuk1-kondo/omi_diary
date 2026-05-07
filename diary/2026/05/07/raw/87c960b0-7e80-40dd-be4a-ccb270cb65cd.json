@@ -1,0 +1,248 @@
+{
+  "id": "87c960b0-7e80-40dd-be4a-ccb270cb65cd",
+  "created_at": "2026-05-07T07:22:02.882810+00:00",
+  "started_at": "2026-05-07T07:20:03.777588+00:00",
+  "finished_at": "2026-05-07T07:27:15.726853+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "User Plans Church WhatsApp Voting Message",
+    "overview": "The user discusses a quick election-related interaction with Rachel and then shifts to drafting a short message for the church WhatsApp group encouraging people to vote in the Welsh elections. The user wants the message to emphasize the new voting system, that every vote counts, and include a Christian motivation for participating.",
+    "emoji": "🗳️",
+    "category": "politics",
+    "action_items": [
+      {
+        "description": "Send church WhatsApp message encouraging people to vote",
+        "completed": false,
+        "created_at": "2026-05-07T07:29:18.320606+00:00",
+        "updated_at": null,
+        "due_at": "2026-05-07T23:59:00+00:00",
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "ac3afc2f-4d84-4f8a-a6f7-234f49eb9b0e",
+      "text": "Think I'll come in on my way. Disabled in excess, but",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 1.4304617934612907e-07,
+      "end": 201.96178746223052,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "23fe8b25-01e5-42d9-a760-3c53b3efb0d0",
+      "text": "Yep. 62 white foam.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 208.7217874622305,
+      "end": 210.00178746223048,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8d7deb81-6fc9-4ca5-9873-32cb1587dbf3",
+      "text": "Just the one cross. Yes. Yes.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 222.46500711440956,
+      "end": 224.06500711440958,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3320ddea-687c-417d-92fa-8e59a3c64614",
+      "text": "Thank you very much.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 224.06500711440958,
+      "end": 224.62500711440958,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "2bd7ec1b-c0d9-4665-af2e-59cdbc8c7334",
+      "text": "Thank you very much.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 224.74500711440953,
+      "end": 225.5450071144096,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "6482a6ed-cba2-44a3-af78-7b7f144fc7ff",
+      "text": "Thanks.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 225.5450071144096,
+      "end": 226.10500711440955,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b54bc396-1bdc-43cf-95e7-0fc127fc292b",
+      "text": "Innovation, aye, with the tablets this time?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 229.8149971144096,
+      "end": 247.59421671867432,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "24541ee5-6c04-4873-b250-03442a0fbf37",
+      "text": "Yeah.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 247.59421671867432,
+      "end": 247.75421671867434,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "ea91e2ef-89ca-49cd-a7bd-7a1c2d855e02",
+      "text": "Thanks very much. Take care. You too. Long day for you guys. Hope you hope you get through okay?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 248.7242167186743,
+      "end": 254.1642167186743,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c9ce886b-2b35-4aa9-9d2c-3d967f502501",
+      "text": "Don't know if you wanna put a snack in.",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 332.0308162117037,
+      "end": 333.5508162117038,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "25e06074-a82e-432d-8791-572ae2e114bd",
+      "text": "I'm wondering whether he gets have a snack when he's there for like, a that bar in, perhaps, I don't get to take polling cards. Can go all the way back.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 333.99081621170376,
+      "end": 339.75081621170375,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "50058efe-738e-4398-9514-edd1ebeb157f",
+      "text": "I just want to send out a short coupler sentence message on the church WhatsApp group to encourage people to vote. Today in the Welsh elections, I'd like to say something like, please do vote under the new system, every vote counts.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 343.5808162117038,
+      "end": 421.77621470856286,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f15d2df2-6da2-4363-907d-85c073669e8e",
+      "text": "Something about why Christians should vote and maybe above all this. Help you with that?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 425.53622470856294,
+      "end": 431.49623470856295,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJfyGcH4YFbkgRVxy2z3jVZHM",
+    "latitude": 51.4168324,
+    "longitude": -3.2820583,
+    "address": "1 Winston Rd, Barry CF62 9SU, UK",
+    "location_type": "church"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "40a61aaf-7586-4b79-91b1-aec76605265e",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "87c960b0-7e80-40dd-be4a-ccb270cb65cd",
+      "chunk_timestamps": [
+        1778138521.852,
+        1778138582.146,
+        1778138643.084,
+        1778138703.955,
+        1778138763.935
+      ],
+      "provider": "gcp",
+      "started_at": "2026-05-07T07:22:01.852000+00:00",
+      "duration": 362.28499999999997
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Election details\n- User mentioned Welsh elections.\n- New voting system emphasized.\n- “Every vote counts” was key.\n\n## Messaging goal\n- Send short WhatsApp encouragement.\n- Encourage church members to vote.\n- Wants Christian reason to vote.\n\n## Suggested message content\n- Vote today under the new system.\n- Every vote matters.\n- Add why Christians should vote.\n\n## Offer of help\n- Help requested with wording.\n- Message needed to be brief.\n- Tone should encourage participation."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "lorekeeper-01JDH01V0BM4W67P3MAHB9KEDZ",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "c4f8af5f-cb13-4624-bedb-3ab9c3bdb2a8",
+  "call_id": null
+}
