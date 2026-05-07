@@ -1,0 +1,125 @@
+{
+  "id": "d40273f4-7510-47b5-af15-d2780fcc1d48",
+  "created_at": "2026-05-07T07:08:18.767141+00:00",
+  "started_at": "2026-05-07T07:07:14.513354+00:00",
+  "finished_at": "2026-05-07T07:09:55.235620+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "不明点を共有し対応を確認",
+    "overview": "会話では、状況がよく分からないまま話が進んでいることへの戸惑いが示されました。Speaker 4は『よく分からないところに来ていて』『普段ミー品やっちゃった』などと述べ、何か対応しなければいけないと思っていた様子です。Speaker 5は謝罪し、Speaker 0も『ちゃんと分かんないですけど、なんか』と状況把握が曖昧であることを示しました。最後にSpeaker 4が『やばしいですね』と反応しており、全体としては不明瞭な状況への確認・謝罪が中心でした。",
+    "emoji": "😕",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "3b4779a6-5d65-404c-ab89-ba068f54b0ff",
+      "text": "分から へん、 よく 分から へん とこ に来て て、 普段 ミ ー 品 や っちゃった んで、 せ ないと ばっかり 思って ました。",
+      "speaker": "SPEAKER_4",
+      "speaker_id": 4,
+      "is_user": false,
+      "person_id": null,
+      "start": -3.6054734664503485e-07,
+      "end": 93.88866216349015,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "41c2d973-cb97-48a5-af9d-477c5b14a672",
+      "text": "す みません。",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": null,
+      "start": 94.52886216348998,
+      "end": 95.00886216348954,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "483d815d-b59b-4de2-a8e4-d6f19e2145e9",
+      "text": "ますね。",
+      "speaker": "SPEAKER_4",
+      "speaker_id": 4,
+      "is_user": false,
+      "person_id": null,
+      "start": 125.41254797053989,
+      "end": 125.81254797053953,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "59a91305-33b0-4647-9796-07ce2dadd02f",
+      "text": "ちゃんと 分 かんない ですけど、 なんか",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 155.1280372543133,
+      "end": 156.16803725431419,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3b0cd30b-c38d-4834-b1f5-cb40c76b5673",
+      "text": "もし や や ば しい ですね。",
+      "speaker": "SPEAKER_4",
+      "speaker_id": 4,
+      "is_user": false,
+      "person_id": null,
+      "start": 158.4347372543125,
+      "end": 159.71473725431315,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "f7612534-9665-43ca-8047-dbec085d9e0e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "d40273f4-7510-47b5-af15-d2780fcc1d48",
+      "chunk_timestamps": [
+        1778137697.928,
+        1778137758.537,
+        1778137819.233
+      ],
+      "provider": "gcp",
+      "started_at": "2026-05-07T07:08:17.928000+00:00",
+      "duration": 164.40025
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 今日は、状況が少し分かりにくく、気持ちが落ち着きにくい様子だった。\n- 何かを「やってしまった」と感じていたが、内容は未確認。\n- 「やばいかもしれない」という不安が出ていた。\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 信頼できる人や専門家への相談を検討してください。"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "3f716b5b-9973-48ce-ab38-177769e90c2c",
+  "call_id": null
+}
