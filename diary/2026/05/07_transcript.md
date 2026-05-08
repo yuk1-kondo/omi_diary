@@ -803,3 +803,59 @@ Something about why Christians should vote and maybe above all this. Help you wi
 
 ---
 
+
+
+## 📝 New Testament Exam Prep and Plans - 6ad79702-eff2-4252-af69-4101031044bc
+
+**記録時間**: 2026-05-07 17:15:39
+
+### STT生テキスト
+
+🎤 SPEAKER_00 [-6s - 5s]
+I think my plan is to do a few mock tests today. sorry. i haven't been around as much these past few weeks.
+
+👤 あなた [0s - 2s]
+Sorry. I haven't been around as much these past few weeks.
+
+👤 あなた [9s - 11s]
+Still thinking of you all down at Sealoons.
+
+👤 あなた [15s - 29s]
+Thinking about you all?
+
+👤 あなた [47s - 49s]
+Thank you, brother. Yes. I'm looking forward to your preach.
+
+👤 あなた [53s - 66s]
+Yes. I'm feeling mostly prepped. Plan is to do a few mock tests a day, maybe get a few scholars and quotes in the old brain, and then I think I'm ready to roll.
+
+👤 あなた [68s - 73s]
+Quick turnaround then to Wednesday for the New Testament exam.
+
+👤 あなた [91s - 94s]
+I've just kind of parked the issue with Merrick's.
+
+👤 あなた [100s - 101s]
+Steve understands.
+
+👤 あなた [105s - 110s]
+Rich and I will try maybe to see them Friday evening. Possible.
+
+👤 あなた [139s - 141s]
+Well, I guess it is technically possible.
+
+👤 あなた [145s - 182s]
+The new testament exam is specifically Paul and his so that narrows it down a bit, and I'm already more familiar with Paul's letters than I was previously with Ezekiel.
+
+🎤 SPEAKER_1 [201s - 312s]
+It's wrong. Being honest, you're
+
+🎤 SPEAKER_2 [312s - 336s]
+go, but being honest Right here in Charleston, North Carolina. But Jericho, if I'm big honest, Jericho, if I'm being honest, right here in Charleston, But Jericho, if I'm being honest, Jericho, if I'm being honest, there right here in Charleston, North Carolina.
+
+🎤 SPEAKER_2 [337s - 340s]
+But, Jericho, if I'm being
+
+
+---
+
