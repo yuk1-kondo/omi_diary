@@ -1,0 +1,173 @@
+{
+  "id": "9919fe31-4fdc-4928-b961-753b567563e7",
+  "created_at": "2026-05-08T05:25:26.936760+00:00",
+  "started_at": "2026-05-08T05:25:55.580505+00:00",
+  "finished_at": "2026-05-08T05:27:34.235521+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "特設サイトの進行と15日対応を確認",
+    "overview": "会話では、特設サイトや注文まわりの進行状況を確認しつつ、次の段取りについて相談していました。Speaker 0 は、作成した内容やスカーティンの発見、クシに関する話題を挙げながら、「このまま進めてよいか」「15日にやるくらいの対応でよいか」を確認しています。全体として、細かな修正と進行方針のすり合わせを行い、最後は感謝で締めくくられました。",
+    "emoji": "🛠️",
+    "category": "work",
+    "action_items": [],
+    "events": [
+      {
+        "title": "15日の対応を実施",
+        "description": "会話で確認された15日ごろの対応を進める。",
+        "start": "2026-05-15T09:00:00+09:00",
+        "duration": 30,
+        "created": false
+      }
+    ]
+  },
+  "transcript_segments": [
+    {
+      "id": "6c0f2813-3d08-4e88-b092-cbd957875a3a",
+      "text": "今 見 ました。 めっちゃ 帰 ろう。 す いません。 す いません。 また お話し しました。 また お話し しました。 そう。 注文 す けど、 ば あって。 が っ さ。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 2.040863051888664e-07,
+      "end": 18.03298905018616,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "23281e1d-0060-48dc-8780-ec0aaf7446e3",
+      "text": "す い なく 分から ん けど。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 18.99298805018617,
+      "end": 20.03298905018616,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "57a2a261-8d8f-4e97-a9c6-55031f94bd87",
+      "text": "やる も。 とか へん かった んで、 次 着 く 前 ですね。 着 ても 時 にな んか 進 まない かなって 僕も あれ んだ 時 の教 んだ 時に 本 番 で。 僕 らが 作った んですけど 一緒に スカ ーティ ン が見 つ かった の。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 20.03298905018616,
+      "end": 32.64630105018617,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "63eb2140-3054-4019-8bc7-85744ffd44da",
+      "text": "特 設 サイト の ク シ とか。 いう のを 言って ました。 なのです。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 39.419616050186164,
+      "end": 44.08629905018617,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "faa25780-407a-4b8f-a1c1-e2f28d806b4b",
+      "text": "いません。 もう 一回 一回 です 。 ジ ミ ちゃん ね。 ジ ミ ちゃん ありがとう 言う て。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 53.14912233024597,
+      "end": 58.29581233024598,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e6bb6d8b-57bb-4e30-9077-275ccbe9ca37",
+      "text": "その これで 進む でいい のかな、 だから 高校。 。 ちょっと 十 五 日に やる くらい という の それを ちょっと 前に 繋が ってる のか で、 、 なんかね、 自然 に そっち の方が いい ですよね。 そう す よね。 そう す ね。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 65.46912733024598,
+      "end": 82.98912233024598,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f227c5e8-2c06-4604-b833-e26bb87faa12",
+      "text": "一旦 これで 開いて 三 点 お願い し",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 83.76249733024599,
+      "end": 85.84249733024598,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "a4e095af-eddc-43f1-a62e-1739fe7428b7",
+      "text": "ありがとうございます。 全然 さ っ す さん 素晴らしい です。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 91.73580733024599,
+      "end": 98.18911733024598,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "1b404ecc-c22e-4c99-a230-e8711796184e",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "9919fe31-4fdc-4928-b961-753b567563e7",
+      "chunk_timestamps": [
+        1778217926.168,
+        1778217986.373,
+        1778218047.128,
+        1778218107.324
+      ],
+      "provider": "gcp",
+      "started_at": "2026-05-08T05:25:26.168000+00:00",
+      "duration": 302.118
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 会話では、特設サイトやスクール関連の話が出ていました。\n- 「15日にやるくらい」という予定の話が出ていました。\n- 詳しい内容は一部未確認です。\n\n【決めたこと】\n- 一旦これで開いて進める方向\n\n【次の一歩】\n- 15日に向けて、開く内容を3点にまとめて確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
