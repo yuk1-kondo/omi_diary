@@ -1,0 +1,290 @@
+{
+  "id": "6ad79702-eff2-4252-af69-4101031044bc",
+  "created_at": "2026-05-07T08:15:39.702259+00:00",
+  "started_at": "2026-05-07T08:17:23.180713+00:00",
+  "finished_at": "2026-05-07T08:23:03.982506+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "New Testament Exam Prep and Plans",
+    "overview": "The conversation focused on exam preparation and a few personal updates. The user said they plan to do several mock tests each day, review key scholars and quotes, and feel mostly ready for the upcoming New Testament exam on Wednesday, which is centered on Paul and his letters. They also mentioned having parked an issue with Merrick’s, that Steve understands, and that Rich and the user may try to see them on Friday evening, though that was described as only a possibility. The transcript ends with some garbled, unrelated speech from Rachel that does not add clear context.",
+    "emoji": "📚",
+    "category": "education",
+    "action_items": [
+      {
+        "description": "Do mock tests for New Testament exam",
+        "completed": false,
+        "created_at": "2026-05-08T15:08:07.170320+00:00",
+        "updated_at": null,
+        "due_at": "2026-05-13T23:59:59+00:00",
+        "completed_at": null,
+        "conversation_id": null
+      },
+      {
+        "description": "See Merrick's with Rich",
+        "completed": false,
+        "created_at": "2026-05-08T15:08:07.170320+00:00",
+        "updated_at": null,
+        "due_at": "2026-05-08T23:59:59+00:00",
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": [
+      {
+        "title": "New Testament Exam",
+        "description": "Exam on Paul and his letters.",
+        "start": "2026-05-13T00:00:00+01:00",
+        "duration": 60,
+        "created": false
+      }
+    ]
+  },
+  "transcript_segments": [
+    {
+      "id": "6e4c0993-2109-41be-972c-9ed97a080ca3",
+      "text": "I think my plan is to do a few mock tests today. sorry. i haven't been around as much these past few weeks.",
+      "speaker": "SPEAKER_00",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -6.180712938308716,
+      "end": 5.579287061691284,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "970561aa-d528-4ed8-bec4-02031edefc81",
+      "text": "Sorry. I haven't been around as much these past few weeks.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": -2.384185791015625e-07,
+      "end": 2.5599997615814214,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "72b9ad6c-c231-47d9-b6ce-0a68c855419c",
+      "text": "Still thinking of you all down at Sealoons.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 9.90902829170227,
+      "end": 11.74902829170227,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "49195ee2-ab48-444b-9c02-89e4d06c3750",
+      "text": "Thinking about you all?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 15.779028415679932,
+      "end": 29.45933901786814,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "14c59ba3-19a7-4107-bcdd-b2ab4b2e3f08",
+      "text": "Thank you, brother. Yes. I'm looking forward to your preach.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 47.122437477111816,
+      "end": 49.602439477111815,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "eb5630e0-82a5-4733-ae05-25bf3e1f6685",
+      "text": "Yes. I'm feeling mostly prepped. Plan is to do a few mock tests a day, maybe get a few scholars and quotes in the old brain, and then I think I'm ready to roll.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 53.55243754386902,
+      "end": 66.834789543152,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b706af20-59cc-4e54-8e3e-a5197c35c605",
+      "text": "Quick turnaround then to Wednesday for the New Testament exam.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 68.99478960037231,
+      "end": 73.03478660037231,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "cea7b5ee-7f6c-4350-8862-7be09098cb29",
+      "text": "I've just kind of parked the issue with Merrick's.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 91.82968187332153,
+      "end": 94.38968187332154,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "97b20e33-59e4-4216-9bba-7b59f6058e31",
+      "text": "Steve understands.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 100.29174542427063,
+      "end": 101.25174542427062,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "bc510b70-1098-4736-81aa-7bad9ede0b04",
+      "text": "Rich and I will try maybe to see them Friday evening. Possible.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 105.23174548149109,
+      "end": 110.91174548149107,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e1fb1fa1-aeda-4824-a01e-a578022e7c91",
+      "text": "Well, I guess it is technically possible.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 139.99598455429077,
+      "end": 141.67597955429073,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "66c5da4c-0506-488f-8b13-b3574cdda82c",
+      "text": "The new testament exam is specifically Paul and his so that narrows it down a bit, and I'm already more familiar with Paul's letters than I was previously with Ezekiel.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": true,
+      "person_id": null,
+      "start": 145.825989484787,
+      "end": 182.85658792899753,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d49c4183-769f-47eb-afb8-597827847c72",
+      "text": "It's wrong. Being honest, you're",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 201.01354598999023,
+      "end": 312.15262315888856,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f3f50a0e-14f3-4640-8632-6e8f238b5f88",
+      "text": "go, but being honest Right here in Charleston, North Carolina. But Jericho, if I'm big honest, Jericho, if I'm being honest, right here in Charleston, But Jericho, if I'm being honest, Jericho, if I'm being honest, there right here in Charleston, North Carolina.",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 312.1326172351837,
+      "end": 336.75260723518375,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "0c2ead98-f7b9-447a-8ccd-4f96bd9d6aea",
+      "text": "But, Jericho, if I'm being",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 337.55261731147766,
+      "end": 340.31261731147765,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156781,
+    "longitude": -3.275577,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "976b89c1-9d6d-44fb-89bf-66d3b6ab35d0",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "6ad79702-eff2-4252-af69-4101031044bc",
+      "chunk_timestamps": [
+        1778141837.445,
+        1778141912.216,
+        1778142000.437,
+        1778142061.437,
+        1778142139.707
+      ],
+      "provider": "gcp",
+      "started_at": "2026-05-07T08:17:17.445000+00:00",
+      "duration": 397.064
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## Preparation Plans\n- Do a few mock tests today.\n- Review scholars and quotes.\n- Feeling mostly prepped.\n\n## Exam Timing\n- New Testament exam is Wednesday.\n- Quick turnaround to the exam.\n- Focus is Paul’s letters.\n\n## Current Understanding\n- More familiar with Paul now.\n- Less worried than with Ezekiel.\n- Issue with Merrick’s is parked.\n\n## People and Updates\n- Steve understands the situation.\n- Rich may meet them Friday evening.\n- Speaker has been away recently.\n\n## Next Steps\n- Finish daily mock tests.\n- Study Paul’s letters more.\n- Possibly meet them Friday evening."
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "66c1f6ee-d299-4332-9cbb-6adfb3f8462b",
+  "call_id": null
+}
