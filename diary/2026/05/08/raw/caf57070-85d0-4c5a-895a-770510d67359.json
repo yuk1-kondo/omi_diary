@@ -1,0 +1,137 @@
+{
+  "id": "caf57070-85d0-4c5a-895a-770510d67359",
+  "created_at": "2026-05-08T01:35:24.871368+00:00",
+  "started_at": "2026-05-08T01:34:22.120903+00:00",
+  "finished_at": "2026-05-08T01:36:20.427982+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "白いデザインの印象を確認",
+    "overview": "会話では、白い要素が「際立つ」「一流だけ」といった印象について短く確認し合い、最終的に内容が良かったことへのお礼で締めくくられました。全体として、デザインや見た目の仕上がりを軽く確認するやり取りでした。",
+    "emoji": "🎨",
+    "category": "design",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "40680438-f738-4e06-b838-a8f03e6d59ba",
+      "text": "確かに。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": -1.1688734957715496e-07,
+      "end": 0.8801998831131641,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b9d3cbcf-9480-4c9d-a2de-914b72039a76",
+      "text": "白い かし こ 際 立ち ますね。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 87.68179496558332,
+      "end": 88.64179496558245,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4c2b9f19-1c69-4e4b-bb58-9bff59b694c7",
+      "text": "一 流 だけ なんです。",
+      "speaker": "SPEAKER_5",
+      "speaker_id": 5,
+      "is_user": false,
+      "person_id": null,
+      "start": 89.70839496558256,
+      "end": 90.50849496558294,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "474e4997-c071-45f1-ae65-0f4ac57cd1e6",
+      "text": "はい、 ありがとうございます。 では 代 名 だ んだん 良かった です。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 101.89519496558296,
+      "end": 104.61519496558321,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e38721e6-cfa9-49c1-ac7e-85872aba5861",
+      "text": "また ちょっと 入れ たい けど。 分かり ました。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 104.61519496558321,
+      "end": 106.05509496558261,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b50ceedb-4d15-42c1-962f-f8465da6bbba",
+      "text": "。 もう ありがとうございます",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 113.94839496558234,
+      "end": 116.26819496558346,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "49d0cb86-3b45-4089-a448-0c3ec9163052",
+      "text": "ありがとう。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 117.54829496558341,
+      "end": 117.78829496558319,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 白い「かし」が際立つ、という話があった\n- 「一流だけなんです」との発言があった\n- もう少し入れたい、という話があった\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 「もう少し入れたい」内容を、あとで確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "fddf1c79-260f-4941-930d-ff173fedbbce",
+  "call_id": null
+}
