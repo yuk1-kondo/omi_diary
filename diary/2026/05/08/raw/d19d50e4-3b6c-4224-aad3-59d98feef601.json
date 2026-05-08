@@ -1,0 +1,199 @@
+{
+  "id": "d19d50e4-3b6c-4224-aad3-59d98feef601",
+  "created_at": "2026-05-08T03:10:42.044055+00:00",
+  "started_at": "2026-05-08T03:12:26.799928+00:00",
+  "finished_at": "2026-05-08T03:15:48.672543+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "入力済み確認画面の仕様を検討",
+    "overview": "二人持ちの入力フローについて、最初の人が入力すると一旦「入力済み」になるため、二人目は入力済み状態を見て修正する形になることを確認しました。クラスごとの扱いでは、確認やプレビュー画面をどこで見せるべきか、また間違いが起きないかを相談し、実際に一度試して動きを確認してみる方向で話が進みました。",
+    "emoji": "📝",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "bd5cc3eb-bb14-4761-ad7e-d4512301d9f9",
+      "text": "二人 持ち のやつ は 最初 の人が やると 一旦 入 力 済 み になるので、 二人 目は 入力 済 み ないと 修正 しに ような 形で。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": -2.0162957525826641e-07,
+      "end": 8.469997798370457,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "774049f0-52bb-459d-90d8-5da5ff4bc8f2",
+      "text": "turn the line.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 124.72038698005679,
+      "end": 125.36038698005683,
+      "translations": [
+        {
+          "lang": "ja",
+          "text": "列の向きを変える。"
+        }
+      ],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "a855268d-aa10-465c-9ba3-381a452bfd84",
+      "text": "イル ンス の こっち の確 認 になって も。 でも 間違 える こと 無い か。 間違",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 150.33818879997227,
+      "end": 159.43150879997233,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "1dab69ab-e898-42af-ba49-9c09a48a2b80",
+      "text": "える クラス ？ ？ あれ クラス ごとに",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 160.1248787999723,
+      "end": 164.75819879997232,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "2f54aeac-fc38-449d-be4d-77834fd91811",
+      "text": "いった ？",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 164.75819879997232,
+      "end": 167.95819379997232,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b36b761a-613c-41f8-a24e-8001696a82a1",
+      "text": "いくら になったら 全然 もう やった んだけど、 クラス ごと やったら これ 確認 プ レビュー 画面 確認 する のって どこ で 良い のか。 ですよね。 それ じゃあ そこ どんな 感じ",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 173.11150879997228,
+      "end": 182.92488379997235,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "bf964b0f-e4c5-45b5-8682-44a0dd22ab5a",
+      "text": "なのか。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 182.92488379997235,
+      "end": 183.3248887999723,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3b5d4ce6-9576-41ed-8fc6-0214f29f3b2e",
+      "text": "一回 やって の分 かります ？",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 185.2981887999723,
+      "end": 186.09819379997225,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d29bb69c-86f0-47c1-8cdf-b3d24af043b5",
+      "text": "そう ね 一回 ちょっと を",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 186.09819379997225,
+      "end": 186.97818879997226,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "730ba24e-3f09-4907-95e1-4b8373ddc50d",
+      "text": "はい、 それでは、 はい、 なんか、 そうそう。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 193.87818879997235,
+      "end": 201.10978277122365,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "e5176fca-4cb3-4102-bf62-fed8e875e1f1",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "d19d50e4-3b6c-4224-aad3-59d98feef601",
+      "chunk_timestamps": [
+        1778209841.086,
+        1778209900.968,
+        1778209961.481,
+        1778210021.921,
+        1778210082.614,
+        1778210142.666
+      ],
+      "provider": "gcp",
+      "started_at": "2026-05-08T03:10:41.086000+00:00",
+      "duration": 330.16862499999996
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 二人持ちの入力\n- 最初の人で一旦入力済みになる\n- 二人目は修正しづらい形になる\n- 入力状態の扱いが課題\n\n## 確認方法の話\n- クラスごとの確認で迷っている\n- どこでプレビュー確認するか相談\n- 一回やれば分かる流れ\n\n## クラス別の動き\n- クラスごとに処理する話題\n- 間違える可能性を確認\n- 具体的な見え方を確認したい\n\n## 次の対応\n- まず一回試してみる\n- 画面確認の流れを確認する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "omi-your-mentor-and-teacher-01JCPRSZ7FS40FHFNSJZEWR8R1"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
