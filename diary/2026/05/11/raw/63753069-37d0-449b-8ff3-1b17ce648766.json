@@ -1,0 +1,124 @@
+{
+  "id": "63753069-37d0-449b-8ff3-1b17ce648766",
+  "created_at": "2026-05-11T01:08:02.026985+00:00",
+  "started_at": "2026-05-11T01:08:12.409553+00:00",
+  "finished_at": "2026-05-11T01:09:15.869900+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "知識と技能の要件を確認",
+    "overview": "参加者が、タイトルの付け方や個人ごとの対応について触れつつ、知識・技能・判断力の要件らしき内容を確認しています。途中で「これはいる？」という確認が入り、全体としては内容の必要性や適用範囲をすり合わせる短い会話でした。具体的な予定や締め切りは読み取れませんでした。",
+    "emoji": "🧩",
+    "category": "other",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "7b1719bf-912b-48e3-81b6-f52f0a0b9ce0",
+      "text": "必ず タイトル に 私の癖 で 作って 人 それぞれ やる んだ。 。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 25.64341357475155,
+      "end": 28.5500485747516,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c4a3c67c-32e3-4868-9853-9a179ef01e14",
+      "text": "これは いる ？",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 30.15005357475161,
+      "end": 30.790053574751596,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "82404da3-a151-4881-8fbb-cca6935fce70",
+      "text": "知識、 技 能、 不 間違い、 技 能 で、 もしくは 判断 で 豊 富",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 31.1900435747516,
+      "end": 35.830043574751585,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b44c6cd4-be0a-4255-a9d1-53a990e23c93",
+      "text": "、 もう 結婚の枠 がいる ので、 中 のコ ックス と",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 43.85674357475159,
+      "end": 45.296733574751556,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "486d2619-1bc6-4976-aa0d-7ef623d7e5fe",
+      "text": "これは 着 ている ように しと いて。 使用 あります。 これが ただ 買って、 こう",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 49.35004357475157,
+      "end": 59.679279131544945,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "da2708d3-ac2e-4959-b044-b55b34271424",
+      "text": "があ っても 大丈夫。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 62.69263913154509,
+      "end": 63.41263913154489,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- タイトルは「私の癖」で作る、という話があった。\n- 人それぞれやり方が違う、という内容が出た。\n- 「これは着ているようにしといて」「ただ買って、こう」といった断片があったが、意味は未確認。\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 断片的な部分を、話しやすい形で1つずつ確認する。"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "b70d5aa8-3137-4190-b84f-83a1f0e7fe43",
+  "call_id": null
+}
