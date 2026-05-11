@@ -1,0 +1,128 @@
+{
+  "id": "fd5d184e-6c7f-4b5b-be94-e236cf50e921",
+  "created_at": "2026-05-11T07:38:31.447012+00:00",
+  "started_at": "2026-05-11T07:38:54.383458+00:00",
+  "finished_at": "2026-05-11T07:41:01.221027+00:00",
+  "source": "omi",
+  "language": "en",
+  "structured": {
+    "title": "Rachel Races Against Time",
+    "overview": "Rachel is in a hurry and urges everyone to move quickly because Judy only has a few minutes. The brief exchange includes some teasing about brushing teeth, but the main point is that they need to wrap things up fast.",
+    "emoji": "⏱️",
+    "category": "social",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "65e57219-27cd-4735-90a9-7786a64c0980",
+      "text": "He's not he's brushing his teeth, man.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 4.863739013205581e-07,
+      "end": 1.4400003863739015,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "f56dff64-a3f0-4ba6-a13f-7c788d6b5196",
+      "text": "You brushing jute? You brushing?",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 5.380000086373901,
+      "end": 55.23621594429015,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c3d41bcc-85a0-4ee0-8393-85f7bd0fb362",
+      "text": "Yeah, I got my key.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 59.296215944290154,
+      "end": 111.14719767570503,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "2442b584-5449-4a23-88c7-3090a743f8db",
+      "text": "We gotta be quicker that, though. Judy, got a few minutes max. Okay? K.",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": "875a2eaa-36c3-4983-9a1c-ca733a593c39",
+      "start": 121.58757771492023,
+      "end": 125.46757571492023,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": {
+    "google_place_id": "ChIJT3MZ648FbkgRN7ZAhM04MJU",
+    "latitude": 51.4156931,
+    "longitude": -3.2755713,
+    "address": "62 White Farm, Barry CF62 9EU, UK",
+    "location_type": "premise"
+  },
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "47362f98-cc5d-479b-be86-e1614218c30f",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "fd5d184e-6c7f-4b5b-be94-e236cf50e921",
+      "chunk_timestamps": [
+        1778485133.925
+      ],
+      "provider": "gcp",
+      "started_at": "2026-05-11T07:38:53.925000+00:00",
+      "duration": 120.602
+    },
+    {
+      "id": "c2d5c028-ee2b-405f-9e98-4e591b1356a1",
+      "uid": "aVU8EfwXJ8gpksxhziW1wJ0tStZ2",
+      "conversation_id": "fd5d184e-6c7f-4b5b-be94-e236cf50e921",
+      "chunk_timestamps": [
+        1778485248.92
+      ],
+      "provider": "gcp",
+      "started_at": "2026-05-11T07:40:48.920000+00:00",
+      "duration": 37.402
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## dental check\n- brushing teeth mentioned\n- asked if brushing\n\n## key update\n- Rachel has her key\n- access seems ready\n\n## time limit\n- only a few minutes\n- need to be quicker\n\n## next steps\n- act fast\n- finish within minutes"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "diary-journal-01JDKPJXQ9CRCK971JSPG1H1XF",
+    "jarvis-01JCP6XPZ8SB17998QAAW3SF22"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "0aef61ec-d99f-453c-872d-911d7d1dd347",
+  "call_id": null
+}
