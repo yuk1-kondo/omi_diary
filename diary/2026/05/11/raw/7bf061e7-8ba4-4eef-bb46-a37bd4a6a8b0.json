@@ -1,0 +1,204 @@
+{
+  "id": "7bf061e7-8ba4-4eef-bb46-a37bd4a6a8b0",
+  "created_at": "2026-05-11T06:41:13.728391+00:00",
+  "started_at": "2026-05-11T06:42:41.193893+00:00",
+  "finished_at": "2026-05-11T06:44:01.724077+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "ID認証ログイン方法を確認",
+    "overview": "会話では、IDとパスワード認証によるログイン方法を案内していました。右上のログイン欄から所定のID番号を入力して進める手順が説明され、相手は「よろしくお願いします」と応じていました。全体として、新しい職員のログイン設定・初期案内に関するやり取りでした。",
+    "emoji": "🔐",
+    "category": "work",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "bce8bc44-2318-4357-87d0-f45b2991c097",
+      "text": "今日 です。 はい、 はい。 着 けたら いい んですけど、 どんな こと しよう かね。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.651421138783917e-07,
+      "end": 11.46145807922312,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "79f4eb96-9a3d-4985-8df9-6e2720fd25f0",
+      "text": "はい。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 11.46145807922312,
+      "end": 11.541453079223174,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "cd73655a-90d0-4092-8aee-a98d85657461",
+      "text": "はいはい はいはい はい。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 14.121513079223405,
+      "end": 17.401606426772105,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "520c2ad6-f472-4050-8b84-c009ab347717",
+      "text": "はい。 実は どうも 新 入 植 員 誕生。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 21.154926426772363,
+      "end": 26.62172243363875,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7838aa9e-b01c-4dc9-a441-b87d5d42a335",
+      "text": "感じ ないです。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 28.508471433638988,
+      "end": 29.22847643363866,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "44e9d417-f7a1-4f8c-b66d-64e440c0b3ed",
+      "text": "はい、 職 員 番。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 30.268466433638878,
+      "end": 31.30846643363884,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "72bff73b-a593-44c4-950a-2abaa22ae0fa",
+      "text": "日 れない。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 39.4684764336389,
+      "end": 39.70847643363868,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3ec1488f-8647-4770-be1b-435f26db5682",
+      "text": "止 まって た のね。 はい。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 40.961786433638736,
+      "end": 42.98847643363888,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "d1bb5f4f-c2e0-441d-93a0-a397625f2ed2",
+      "text": "パ イ、 多分 そう 思って ください。 はい、 ID 十 パ スワ ード 認 証 による ログ イン っていうのが 右 上 にある と思う。 それで ID と パ ード に 所 見 番号 を入れて もら うと ログ イン できる かな。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 46.941776433639006,
+      "end": 70.59171343154776,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "01b3e388-5eab-4aa2-a934-7a33ed522a01",
+      "text": "開いて ます。 はい。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 74.31176343154812,
+      "end": 75.35175343154788,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "8b068a5f-c266-4807-acc2-50e2dfc2fb15",
+      "text": "いきます。 よろしくお願いします。 はい、 す いません。 します。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 76.02507343154775,
+      "end": 79.83838343154821,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "78f06bbb-286d-4517-baf9-6a5041415cae",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "7bf061e7-8ba4-4eef-bb46-a37bd4a6a8b0",
+      "chunk_timestamps": [
+        1778481673.082,
+        1778481733.622,
+        1778481794.23,
+        1778481854.476
+      ],
+      "provider": "gcp",
+      "started_at": "2026-05-11T06:41:13.082000+00:00",
+      "duration": 302.996
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- ログイン方法について話した。\n- 右上のID・パスワード認証を使う案内があった。\n- 所見番号を入れてログインする流れが出ていた。\n\n【決めたこと】\n- 特になし\n\n【次の一歩】\n- 右上のID・パスワード認証で、所見番号を入れてログインを試す。"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
