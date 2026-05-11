@@ -266,3 +266,74 @@ We gotta be quicker that, though. Judy, got a few minutes max. Okay? K.
 
 ---
 
+
+
+## 📝 Rachel Reviews Worship And Resurrection - ac74e272-e13a-4304-aec0-7382c66081cc
+
+**記録時間**: 2026-05-11 19:59:03
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 0s]
+Okay.
+
+🎤 SPEAKER_0 [4s - 30s]
+Finish lown. Project.
+
+👤 あなた [31s - 38s]
+Structure to worship and provides balance between spiritual gifts and all the
+
+👤 あなた [46s - 53s]
+Prevents competition. And promotes edification. So that I don't know how it now.
+
+👤 あなた [66s - 83s]
+Built builds a loving church culture with love being the true measure of maturity. So let's try that again. One quint ians. 14.
+
+👤 あなた [85s - 90s]
+Prevents competition. And promotes edification.
+
+👤 あなた [96s - 101s]
+It builds love church culture with love as the true measure of maturity.
+
+👤 あなた [125s - 129s]
+One Corinthians 15. Five. Where's the
+
+🎤 SPEAKER_0 [134s - 143s]
+Defence.
+
+🎤 SPEAKER_0 [146s - 147s]
+Bodily.
+
+👤 あなた [149s - 150s]
+Buddly resurrection.
+
+👤 あなた [207s - 211s]
+So one Corinthians fifteen defends bodily resurrection.
+
+🎤 SPEAKER_0 [218s - 218s]
+No.
+
+👤 あなた [219s - 231s]
+Bodily resurrection of Christ and feet and defends the bodily resurrection of Christ and the future resurrection of believers. The future resurrection of believers.
+
+👤 あなた [238s - 239s]
+Some Christians.
+
+👤 あなた [248s - 260s]
+Some Christians, denied him. Some Christians denied. Future bodily resurrection.
+
+👤 あなた [272s - 286s]
+Because of worldly philosophical assumptions. One Corinthians 15, defends the bodily resurrection of Christ and of the future resurrection of believers.
+
+👤 あなた [295s - 315s]
+Some Corinthians denied the future resurrection based on worldly based on worldly philosophical. Assumptions.
+
+👤 あなた [318s - 332s]
+So one Corinthians 15 defends the bodily resurrection of Christ and the future resurrection of believers, Some Corinthians denied the body resurrection future body resurrection based on worldly and for the self call assumptions.
+
+👤 あなた [335s - 363s]
+So, orderly worship,
+
+
+---
+
