@@ -71,3 +71,20 @@
 
 ---
 
+
+
+## 📝 Cavalo Tem Dente Preso Removido - e23d10c4-9716-4509-a4fb-ffdf620e8e36
+
+**記録時間**: 2026-05-11 14:07:16
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 13s]
+Olá. É só pra você. Queria uma Está vendo? Essa é a capa de dentes. Estava presa aqui dentro, vou tirar os dois pedacinho, um está aqui olha, tem outro por aqui.
+
+🎤 SPEAKER_0 [13s - 23s]
+Machado ele aqui. Os dois pedaços que estava incomodando esse cavalo. Isso prejudica, do dente e a saúde do animal. Beleza?
+
+
+---
+
