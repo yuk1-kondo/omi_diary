@@ -1,0 +1,240 @@
+{
+  "id": "2de5c904-a0dc-4f07-b50d-9badd7af8fcd",
+  "created_at": "2026-05-11T06:51:53.640742+00:00",
+  "started_at": "2026-05-11T06:51:52.056198+00:00",
+  "finished_at": "2026-05-11T06:54:02.507716+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "試験管理タブの作成方法を確認",
+    "overview": "平野先生らが、試験管理タブでの試験作成手順について確認した。まだ試験が作られていないため、右側の追加ボタンから2026年度・対象学年・教科を選んで、必要に応じて一学年中学校向けの形式で作成するよう案内している。また、試験を使う先生と使わない先生がいるため、各自で作成する運用になっていることや、他の先生が作成した試験が一覧に出てこない件についても説明し、最終的に各自で試験作成を進めてもらう流れになった。",
+    "emoji": "📝",
+    "category": "education",
+    "action_items": [
+      {
+        "description": "作成する試験管理タブの試験を追加する",
+        "completed": false,
+        "created_at": "2026-05-11T06:56:14.446404+00:00",
+        "updated_at": null,
+        "due_at": null,
+        "completed_at": null,
+        "conversation_id": null
+      }
+    ],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "890f47fe-db59-4cab-babf-de458634e7b9",
+      "text": "、 彼 方 先生、 あ、 彼 方 先生、 はい す いません、 先ほど の 件 なん 、 試験、 先生、 平 野 試験 管理 のタ ブ があった と思うんですけれども、 はい、 ね、 はい そこから ですね、 多分 まだ が 作 られて ない と思うので 右の追 加 のボ タン がある と思うので、 二 千 二 十 六 の、 で 何 年生 で、 目の 選択 と はい、 試験 目を 今回 使う んで あれば 一 学 一 中 学校 さん という 方",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 3.678896973724477e-07,
+      "end": 10.73998036788953,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "193fbf82-03c8-40c9-9b3a-c4f9d0a8747c",
+      "text": "形で 一度 作成 をして いただき まして、",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 30.466680367889694,
+      "end": 32.70669036788968,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "c79fc7b4-c61e-441b-9e64-4cafb2601e49",
+      "text": "はい。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 34.52668036788964,
+      "end": 34.8466803678898,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7fe704af-75ef-4aef-89c4-18c4fcbc2911",
+      "text": "そうですね。 ここは そういう 方 になって、 使う 先生 と 使わ ない 先生 が 居 られ お られる と思うので、 はい。 作成 では",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 38.08330036788948,
+      "end": 47.03330036788975,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "81136d5e-963e-4ce4-92ac-422a604a5f1e",
+      "text": "い。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": null,
+      "start": 47.03330036788975,
+      "end": 47.193300367889606,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "30068fed-6ea9-4e8e-a96b-69fcbe8203e5",
+      "text": "よろしくお願いします。 はい、 お願いします。 はい、 す いません。 はい、 よろしくお願いします。 はい、 す いません。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 47.83330036788948,
+      "end": 52.686680367889494,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3b694916-3f3c-49e6-8ee0-a76ac57bda2f",
+      "text": "百 問 って ？",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 61.24411902137899,
+      "end": 62.684089021378895,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "4eafcc6b-3379-4534-86c9-e70933c802e9",
+      "text": "試験 自分 の試 験 が出て こない んです。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 63.64411902137908,
+      "end": 66.284099021379,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "ada8a176-4baa-4136-812e-70341a810b9f",
+      "text": "多分 どっち か、 今日 か 何 と の先生 が 作 らない",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 68.76407902137908,
+      "end": 71.08408902137899,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "ceee3a5a-3e77-4ab7-8232-20006d5b9f5f",
+      "text": "した んですけど。 あ の方が こう は 各 自 で 作った 感じ づ らく して、 ちょっと 面白 く ？ 作 ってる 所 作 ってる んですかね。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 75.69409902137886,
+      "end": 84.92408902137868,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "0f64edd2-0703-44a5-9eda-1bcd6d543a36",
+      "text": "作 一括 作って 今日 最初は",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 86.3107090213789,
+      "end": 87.83069902137868,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "b88d9ef9-a51f-4204-81dd-0dca45f7775c",
+      "text": "キャ ボ ンを 履 いて 履 いた 時に 使う 先生 が そんな にな かった から、 まあ やって やって いって から 感謝 して 思う んですね。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 98.28461033385884,
+      "end": 106.36460033385856,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7fc379c4-9187-4be5-bd23-90412397d31c",
+      "text": "多分 捜 査 ガイド の方 でも 作る から 自分で 試験 作成 が入 っているので、 作 っても らい ましょう。",
+      "speaker": "SPEAKER_2",
+      "speaker_id": 2,
+      "is_user": false,
+      "person_id": null,
+      "start": 124.28461033385884,
+      "end": 128.8179103338589,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "5dfc4cc1-d9e7-4141-b4e7-2777b8ec0f7d",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "2de5c904-a0dc-4f07-b50d-9badd7af8fcd",
+      "chunk_timestamps": [
+        1778482313.462,
+        1778482373.941,
+        1778482434.772,
+        1778482495.54
+      ],
+      "provider": "gcp",
+      "started_at": "2026-05-11T06:51:53.462000+00:00",
+      "duration": 303.46675
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01KH6FT8J9HGPS9APEKMFSK68B",
+      "content": "【今日の要点】\n- 試験管理のタブについて確認があった\n- 試験は右側の「追加」ボタンから作成する案内があった\n- 2026年度・学年・試験目を選んで、今回使う学校として一度作成する流れだった\n\n【決めたこと】\n- 試験は必要な先生が各自で作成する\n\n【次の一歩】\n- 右の「追加」ボタンから、2026年度・学年・試験目を選んで試験を作成する"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01KH6FT8J9HGPS9APEKMFSK68B",
+    "01K89EAAY3XMJA0SJ7NSP6N5GT"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
