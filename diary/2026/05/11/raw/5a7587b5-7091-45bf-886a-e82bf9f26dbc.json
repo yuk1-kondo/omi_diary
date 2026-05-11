@@ -1,0 +1,220 @@
+{
+  "id": "5a7587b5-7091-45bf-886a-e82bf9f26dbc",
+  "created_at": "2026-05-11T05:10:30.123339+00:00",
+  "started_at": "2026-05-11T05:08:28.313859+00:00",
+  "finished_at": "2026-05-11T05:16:11.304609+00:00",
+  "source": "desktop",
+  "language": "multi",
+  "structured": {
+    "title": "正直がAI活用とWeb制作を語る",
+    "overview": "正直が、栄養・筋肉・骨・肌のように「根本から整える」考え方を軸に、AI活用やWeb制作の学びについて語った。用途に応じてChatGPTやAPI、MCP、Codexなど最適な手段を選ぶべきだと考えており、Webサイト制作や自己紹介ページ、ゲーム制作はマネタイズの手段にもなり得る一方、自分自身はサーバー代などの説明が面倒で今は積極的にやる気がないと率直に述べた。新しいPCでCodex環境を構築でき、Webページ作成ができたことを喜びつつ、急速に進化するAI業界に振り回されず必要なものを見極めて使うことが大切だとまとめ、約4か月の学びを振り返って配信を締めくくった。",
+    "emoji": "💻",
+    "category": "technology",
+    "action_items": [],
+    "events": []
+  },
+  "transcript_segments": [
+    {
+      "id": "2e832955-c269-418c-9c26-cdc9e53ffda7",
+      "text": "先生 が 言ってた よ、 栄 養 の先生 が。 食べ 物 を変えて 筋 肉 を鍛 えて 骨 を 綺麗 にする ことで その 肌 も きれい になって いく んだけど、 だから 根 本 を変えて いけば 全て は 万 事 良 くなる んじゃない かっていう のを あら ゆる 分 野 から いつも それを 感じ てる から、 ま か ちゃん。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "05e11362-81af-4bd4-9f0f-530bf9b546d0",
+      "start": -3.5694884559234197e-07,
+      "end": 172.9911933746338,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "3f013a13-44c8-41ce-9a20-f006584528e9",
+      "text": "そこの根 本 から やったら 全部 いいんじゃない ？ って 思って、 やってる ような 感じです。 多分 興味 興味 好 奇 心が すごい 高い から や と思う。 普通 の人が それが いる か、 要 らない かっていうと 別に らない と思う 私は 正直。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "05e11362-81af-4bd4-9f0f-530bf9b546d0",
+      "start": 174.2978193746338,
+      "end": 194.00450337463383,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "127d6bae-e670-40b3-87a5-7f9d76edb8ea",
+      "text": "っていう 考え かな。 でも きっと ア カウント も ちゃんと 作 れて、 で ウェ ブ サイト を作って、 それを 商品 売 る ことは 全然 できる から 一つ 分の コンテ ンツ にも なる から、 業 としては いいのかな っていうのは 思う ね。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "05e11362-81af-4bd4-9f0f-530bf9b546d0",
+      "start": 195.6045033746338,
+      "end": 215.92450937463383,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "e6bed263-cdd0-402a-b14c-45ab902caeb2",
+      "text": "だから それを どうやって 作った とし したら、 じゃあ それを どうやって 販売 し、 メイン を どうやって お客 さんから もらって やる か とか いう の にも なる けど、 それは ヒ ア リング してい れば。 こと なんで、 何 だろう な、 マ ネタ イズ の一つ として ウェ ブ サイト を作 っ ったり、 ゲーム を作 ったり、 自己 紹介 ページ 作 ったりとか、 その 人の ーム ページ を作 ったり っていうのは、 いいのかな っていうのは 自分が 触 って みて 思った。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "05e11362-81af-4bd4-9f0f-530bf9b546d0",
+      "start": 217.01781337463382,
+      "end": 249.7645133746338,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "98bb383d-d4df-46dc-a376-18efcd47b99e",
+      "text": "かな。 なんか 本当は 絶対 やったら いいよ って 私 の場合は。 よく 言う ような 人間 なん や けど、 正直 自分が 思って ない ことは 私は 言えない 性格 だから、 絶対 とは 思 わない。 チャ ット ジーピ ーティ ーで 十分 良い こともある し、 エ ー アイ プロ グラ ミ ング も もう API の キー 使 ったら 無料 で Google で できる やつ もある から、 それで 書 け 棒 は 全然 いい って 思う か から。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "05e11362-81af-4bd4-9f0f-530bf9b546d0",
+      "start": 251.39119337463381,
+      "end": 282.6745033746338,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "72757851-38ea-4704-93e7-dc870273865e",
+      "text": "なんか 先 思う のが それに 合う もの って それぞれ。 ある なって 思って。 自動 化 してる その MCP を 使う にも これ だったら 一番 最 適 化 して だから MCP が 良い。 じゃあ これ だったら 無料 で 出来 て、 家 計 ボタン レベル だったら もう それで 十分 いい よね って あるから、 最 適 な ものを 最 適 な ことを できる っていうのを より 判断 し、 企画 に 使える ようになる のが エ ー アイ ープ ロ グラ ミ ング を 勉強 している 内容 なのかな って 今 ふわ っと 思ってる 感じ かな。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "05e11362-81af-4bd4-9f0f-530bf9b546d0",
+      "start": 283.1245133746338,
+      "end": 319.0711833746338,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "407eb968-7ecc-446a-9674-78378e59c9d2",
+      "text": "その の人 がね、 言う 情報 って 正しい の ？ でも 私は 一般 の人 なん や。 だから 一般 の人 的に 言うと、 ウェ ブ サイト は 確かに 普通 の人 を作 れる のに 作れる ようになる から、 業 には なる んじゃないかな と。 で じゃあ 私は するか 言ったら なんか ほら ド メイン とかも さ 自分が 普通 のお 客 さん だったら 作って ほしい とか 思う よ なって 思 ったら、 その サ ーバー 代 とか そういう のを 説明 する 私は 面倒 く さ くって、 私は かな っていうのが 正直 から それを 適 当に ちゃんと 説明 ができる んだったら する けど、 私 の場合は なんか そこに とき め き ポイント が 今は 無い から、 しない かなって 感じ かな。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "05e11362-81af-4bd4-9f0f-530bf9b546d0",
+      "start": 319.65782337463384,
+      "end": 375.65782337463384,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "7ffd14ef-43cc-4a16-a975-03735909851e",
+      "text": "なんか いろんな のが 今 あるから さ、 使える もので 最 適 化 すれば いい んじゃないかな と思って おります。 今日は コーデ ックス で やっと で ウェ ブ ページ が出 新しい パソコン で ックスの環境 構 築 ができて やっと で 新 しく ウェ ブ サイト をする ことができ たから、 すっ ごい 嬉 しかった から、 楽しみ した と。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "05e11362-81af-4bd4-9f0f-530bf9b546d0",
+      "start": 376.61781337463384,
+      "end": 399.7644933746338,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "0979e2d9-c561-4b3a-be92-e43f7b3abc7b",
+      "text": "なんか んか ね 本当 新 完全 なんだよね、 AI の業 界 って さ。 やる 生 成 エ ー アイ の動画 これが すごい、 あれ がすごい、 ーション ができる、 音楽 がすごい、 ジ ミ ニー が出 た、 クロ ード が出 た、 そして エ コ ーデ ックス が出 た",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "05e11362-81af-4bd4-9f0f-530bf9b546d0",
+      "start": 400.9111933746338,
+      "end": 417.0445233746338,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "42565875-9a78-48cc-ad3d-53c38b385105",
+      "text": "みたいな。",
+      "speaker": "SPEAKER_0",
+      "speaker_id": 0,
+      "is_user": false,
+      "person_id": null,
+      "start": 417.0445233746338,
+      "end": 417.6045233746338,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "06d25752-1013-42d5-bf15-eaf3d7849640",
+      "text": "どんどん、 どんどん、 どんどん、 どんどん 新 幹 線 のように 出てくる んだけど、 それに 振り 回 され ずに 自分が 必要な ものが あって、 その ゴール に向かって 必要な を見 極 めて 使 えば いい んじゃないかな と。 六 月から かな、 そういう のを 勉強 し 始めて、 六、 七、 八 九。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "05e11362-81af-4bd4-9f0f-530bf9b546d0",
+      "start": 417.6045233746338,
+      "end": 444.03119337463386,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    },
+    {
+      "id": "fc89405b-c923-4299-b3e7-122533af5efd",
+      "text": "四 月 か。 ちょうど 四 ヶ月 か。 四 ヶ月 そういった もの と 触 れ 合 っ 勉強 して 思った ので 配信 しました。 だね なんか 私が 学び があったら 配信 したいと思います。 では お つか れ さまでした。 じゃあ ね ば ーい。",
+      "speaker": "SPEAKER_1",
+      "speaker_id": 1,
+      "is_user": false,
+      "person_id": "05e11362-81af-4bd4-9f0f-530bf9b546d0",
+      "start": 444.8578233746339,
+      "end": 461.7111933746338,
+      "translations": [],
+      "speech_profile_processed": true,
+      "stt_provider": null
+    }
+  ],
+  "transcript_segments_compressed": true,
+  "geolocation": null,
+  "photos": [],
+  "audio_files": [
+    {
+      "id": "cd3b77cb-e76e-427b-aba0-7f3d9bb8fde9",
+      "uid": "ZYG1703CexOSRPkddtI4dTcdS3s1",
+      "conversation_id": "5a7587b5-7091-45bf-886a-e82bf9f26dbc",
+      "chunk_timestamps": [
+        1778476229.393,
+        1778476290.301,
+        1778476351.099,
+        1778476411.152,
+        1778476471.646,
+        1778476532.005,
+        1778476592.698
+      ],
+      "provider": "gcp",
+      "started_at": "2026-05-11T05:10:29.393000+00:00",
+      "duration": 484.90700000000004
+    }
+  ],
+  "private_cloud_sync_enabled": true,
+  "apps_results": [
+    {
+      "app_id": "01K89EAAY3XMJA0SJ7NSP6N5GT",
+      "content": "## 根本改善の考え方\n- 食事、筋肉、骨から整える\n- 根本を変えると肌も良くなる\n- 物事は土台から直す発想\n\n## Web制作の価値\n- Webサイト制作は十分仕事になる\n- アカウント作成や販売も可能\n- 自己紹介やホームページも収益化向き\n\n## AI活用の見極め\n- ChatGPTだけで足りる場面もある\n- APIや無料ツールでも十分な場合あり\n- 目的別に最適な手段を選ぶ\n\n## 判断基準と学び\n- MCPなど用途に合う技術を選ぶ\n- 必要なものだけ見極めて使う\n- AIプログラミングは判断力を学ぶ内容\n\n## 実践と今後\n- 新PCでCodex環境を構築できた\n- Webサイト作成を再開できて嬉しかった\n- 4か月学んだ内容を配信したい"
+    }
+  ],
+  "suggested_summarization_apps": [
+    "01K89EAAY3XMJA0SJ7NSP6N5GT",
+    "01KH6FT8J9HGPS9APEKMFSK68B"
+  ],
+  "plugins_results": [],
+  "external_data": null,
+  "app_id": null,
+  "discarded": false,
+  "visibility": "private",
+  "starred": false,
+  "processing_memory_id": null,
+  "processing_conversation_id": null,
+  "status": "completed",
+  "is_locked": false,
+  "data_protection_level": "standard",
+  "folder_id": "f5c473b3-cda8-4a2b-851b-264cc4b775e9",
+  "call_id": null
+}
