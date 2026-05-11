@@ -243,3 +243,26 @@ Machado ele aqui. Os dois pedaços que estava incomodando esse cavalo. Isso prej
 
 ---
 
+
+
+## 📝 Rachel Races Against Time - fd5d184e-6c7f-4b5b-be94-e236cf50e921
+
+**記録時間**: 2026-05-11 16:38:31
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 1s]
+He's not he's brushing his teeth, man.
+
+🎤 SPEAKER_0 [5s - 55s]
+You brushing jute? You brushing?
+
+🎤 SPEAKER_0 [59s - 111s]
+Yeah, I got my key.
+
+🎤 SPEAKER_0 [121s - 125s]
+We gotta be quicker that, though. Judy, got a few minutes max. Okay? K.
+
+
+---
+
