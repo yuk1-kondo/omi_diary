@@ -188,3 +188,74 @@ He thought you had the think tank today.
 
 ---
 
+
+
+## 📝 Rachel Sorts Bottles And Bags - 3617a7fd-8a59-4d86-b427-76fe134750e4
+
+**記録時間**: 2026-05-17 02:41:39
+
+### STT生テキスト
+
+🎤 SPEAKER_2 [0s - 0s]
+Judo.
+
+🎤 SPEAKER_3 [2s - 8s]
+Do you want me to get rid of your prime bottles now? Do you think you're done with them?
+
+🎤 SPEAKER_0 [15s - 18s]
+I get rid of the I'm gonna get rid of juice prime bottles then.
+
+🎤 SPEAKER_2 [18s - 19s]
+Oh.
+
+🎤 SPEAKER_1 [19s - 22s]
+Okay. Mum, what is it? Just gonna get the Exactly.
+
+🎤 SPEAKER_2 [22s - 30s]
+I just put a cardboard this time.
+
+🎤 SPEAKER_0 [32s - 35s]
+See if Elliot wants his gun as well. I might need a bigger bag in that case, so that's
+
+🎤 SPEAKER_2 [39s - 43s]
+Anyway.
+
+🎤 SPEAKER_0 [50s - 54s]
+Well, the bag's gonna be wet properly.
+
+🎤 SPEAKER_2 [54s - 54s]
+Yep.
+
+🎤 SPEAKER_3 [56s - 57s]
+The bag is probably gonna be wet Yeah.
+
+🎤 SPEAKER_1 [58s - 61s]
+It won't be too bad, though. I'll just start to see what
+
+🎤 SPEAKER_2 [68s - 69s]
+Oh, yeah.
+
+🎤 SPEAKER_0 [69s - 77s]
+I'll have a look now. You ready? A weird way, sorry, it's quite nice to have the head space and do something. Something like this.
+
+🎤 SPEAKER_0 [83s - 84s]
+Yeah. Exactly.
+
+🎤 SPEAKER_2 [86s - 87s]
+Goodbye.
+
+🎤 SPEAKER_3 [89s - 89s]
+Alright.
+
+🎤 SPEAKER_0 [114s - 115s]
+Should we get rid of these?
+
+🎤 SPEAKER_2 [116s - 117s]
+What? Sure.
+
+🎤 SPEAKER_0 [121s - 122s]
+Checking some of them quite rare, though.
+
+
+---
+
