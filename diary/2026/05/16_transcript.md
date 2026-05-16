@@ -1204,3 +1204,152 @@ I thought that. I thought, oh, they I
 
 ---
 
+
+
+## 📝 Rachel Fits Shoes And Crocs - f7a8dc79-2166-47dc-892e-88a0c79ae146
+
+**記録時間**: 2026-05-16 20:06:14
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 0s]
+Richard?
+
+🎤 SPEAKER_0 [46s - 48s]
+Ja, nasel duk. Getadi.
+
+🎤 SPEAKER_1 [49s - 51s]
+They look like children's ones, but
+
+🎤 SPEAKER_1 [63s - 68s]
+Oh, yeah. So Ja. Know my football, yeah? Yeah.
+
+🎤 SPEAKER_0 [127s - 127s]
+Ten quid.
+
+🎤 SPEAKER_1 [128s - 129s]
+You go for proxy?
+
+🎤 SPEAKER_0 [130s - 135s]
+Is that allowed or no? Is that not? Like a bit juvenile, is that? So seven.
+
+🎤 SPEAKER_1 [139s - 147s]
+I watch all the coffee comes here, though. Yeah. £10. Two for 16. Any of these tickets as well. We'll go up there in a minute.
+
+🎤 SPEAKER_0 [148s - 150s]
+Because you can put these down and it keeps them quite secure then.
+
+🎤 SPEAKER_1 [171s - 176s]
+Okay. Let's try the other one on because it might be for this one's gaping and then that one's not.
+
+🎤 SPEAKER_1 [179s - 187s]
+You have to wear these in a little bit.
+
+🎤 SPEAKER_0 [195s - 196s]
+Three jigs?
+
+🎤 SPEAKER_1 [209s - 209s]
+Not well, not in the concrete.
+
+🎤 SPEAKER_0 [219s - 226s]
+These are not your age, though, dude. Sketches. Yeah. You got daddy sons about?
+
+🎤 SPEAKER_2 [227s - 227s]
+No.
+
+🎤 SPEAKER_0 [228s - 229s]
+Oh, yeah.
+
+🎤 SPEAKER_1 [230s - 230s]
+What is that?
+
+🎤 SPEAKER_0 [230s - 233s]
+No. Those ones are quite similar, but not the same.
+
+🎤 SPEAKER_2 [243s - 243s]
+Good or what?
+
+🎤 SPEAKER_1 [244s - 246s]
+Very good at barging because I'm very strong flip.
+
+🎤 SPEAKER_0 [246s - 247s]
+Yeah.
+
+🎤 SPEAKER_1 [247s - 247s]
+You're like, what?
+
+🎤 SPEAKER_0 [248s - 262s]
+Oh, Well, that is pretty strong for that one. That's pretty that is pretty good for us. But that's pretty good. No. No. You've got a member. I'm triple I'm not over double your weight as well, dude.
+
+🎤 SPEAKER_1 [262s - 266s]
+So all three of you are gonna have black crocs, that's not gonna be confusing at all, is it?
+
+🎤 SPEAKER_0 [268s - 269s]
+I have to have crocs.
+
+🎤 SPEAKER_1 [269s - 273s]
+You can have crocs if they're comfy. You're an adult, you can wear whatever you want to with it.
+
+🎤 SPEAKER_0 [274s - 278s]
+I don't have that cock. Well, there's not much choice there.
+
+🎤 SPEAKER_1 [278s - 283s]
+Jude's edits. No. No. Actually, Jude's Jude will be wearing these blue ones actually. Right there?
+
+🎤 SPEAKER_0 [285s - 286s]
+Let's go see These these work then, are they? Or not?
+
+🎤 SPEAKER_1 [287s - 287s]
+Yeah. Yeah. They're fine.
+
+🎤 SPEAKER_0 [288s - 289s]
+Okay. Go on. Go this way.
+
+🎤 SPEAKER_1 [289s - 290s]
+Cheers.
+
+🎤 SPEAKER_2 [290s - 291s]
+Cheers.
+
+🎤 SPEAKER_1 [295s - 299s]
+See if we do want know.
+
+🎤 SPEAKER_0 [306s - 312s]
+I guess that's what they gotta do. They gotta do something that looks completely different to everybody else's shoes because some people just have to be different.
+
+🎤 SPEAKER_3 [312s - 312s]
+And they work.
+
+🎤 SPEAKER_0 [314s - 317s]
+It's all it's all like three d printed as well. Three d printed from
+
+🎤 SPEAKER_0 [372s - 373s]
+I mean Avoid trucks.
+
+🎤 SPEAKER_1 [374s - 375s]
+These back ones on.
+
+🎤 SPEAKER_0 [375s - 383s]
+Not on it. Are they the same order? Are they the same thing, Rachel? They're the same promotion? A lot of them are
+
+🎤 SPEAKER_0 [387s - 391s]
+Alright. Give me a sec. You got you got two hands.
+
+🎤 SPEAKER_1 [391s - 392s]
+You tried yours with the back on race.
+
+🎤 SPEAKER_0 [392s - 396s]
+Yeah. A bit small, bit small.
+
+🎤 SPEAKER_0 [399s - 400s]
+Faints.
+
+🎤 SPEAKER_1 [400s - 407s]
+Yeah. Crap. And revised my small foot. Well, there's this gray ones there if you want a match if you want. Yeah. I'll try now.
+
+🎤 SPEAKER_0 [407s - 410s]
+I'm joking. Why is the seven foot in me, but
+
+
+---
+
