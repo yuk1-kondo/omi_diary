@@ -259,3 +259,185 @@ Checking some of them quite rare, though.
 
 ---
 
+
+
+## 📝 Rachel Organizes The Room - 292ca81c-f345-4410-8219-0c696c56d985
+
+**記録時間**: 2026-05-17 03:08:40
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 1s]
+Bottom of your shoes, put a little Thanks, baby.
+
+🎤 SPEAKER_1 [3s - 18s]
+That's good. What you're thinking here then, babe? Well, it's it was it was not being used properly. I've made it as a basket in the bathroom now, put some stuff in there, That's more the appropriate height. Okay.
+
+🎤 SPEAKER_1 [19s - 25s]
+I've hoovered all around here. Don't know if you can see. Can I have a quick look? Can I have a quick look? I've dusted down all that.
+
+🎤 SPEAKER_1 [28s - 34s]
+And so cleaned all that over there. Thank you. Looking better in here now, isn't it?
+
+🎤 SPEAKER_2 [35s - 35s]
+Thank you.
+
+🎤 SPEAKER_1 [35s - 36s]
+Would you say?
+
+🎤 SPEAKER_2 [36s - 38s]
+Yeah. Yeah. Very much.
+
+🎤 SPEAKER_1 [38s - 62s]
+Thank you. Shelf space now.
+
+🎤 SPEAKER_1 [65s - 74s]
+This is probably it now. Gonna meet the bed. Sort that corridor out, and then that's probably enough for for now. That's his pajama today. That's that's pajama top as well.
+
+🎤 SPEAKER_2 [74s - 74s]
+Yeah.
+
+🎤 SPEAKER_1 [78s - 101s]
+No. No. I'm I'm I'm yeah. No. It's not quite made because I've got two blankets down here and to fold and whatever.
+
+🎤 SPEAKER_1 [105s - 111s]
+They Guess so. The other thing was I wanted to find somewhere for that dance mat. I was thinking maybe I'll slot it it down.
+
+🎤 SPEAKER_1 [117s - 120s]
+I might slide slide that down to my down the side of the the office chair.
+
+🎤 SPEAKER_1 [125s - 129s]
+Put me on the door then. Is that a Christmas door stopper, Rachel? Yeah. That can go in the bin.
+
+🎤 SPEAKER_2 [129s - 132s]
+It's broken. It's all just tatty.
+
+🎤 SPEAKER_1 [132s - 139s]
+This week can go down into the corridor. Yeah. That's all rubbish to go bend.
+
+🎤 SPEAKER_2 [143s - 143s]
+Can I just outside?
+
+🎤 SPEAKER_1 [144s - 145s]
+Sorry?
+
+🎤 SPEAKER_2 [146s - 149s]
+Those are crocs and nasals. Right?
+
+🎤 SPEAKER_1 [156s - 160s]
+Also, Rachel, I've cleaned Elliott's window sill because it was proper moldy. Yeah. Thank you.
+
+🎤 SPEAKER_1 [172s - 175s]
+It was That's fine. Yeah. Have you heard something to eat at the end of you?
+
+🎤 SPEAKER_2 [175s - 176s]
+No.
+
+🎤 SPEAKER_1 [183s - 184s]
+That's fine. Yeah.
+
+🎤 SPEAKER_1 [189s - 190s]
+Yeah.
+
+🎤 SPEAKER_2 [196s - 197s]
+Yeah.
+
+🎤 SPEAKER_1 [198s - 203s]
+This is a root, Jewish root. Yeah. It's been wild, it, for you?
+
+🎤 SPEAKER_1 [207s - 219s]
+I think maybe the Lord might bless you some new friends, Rachel. In Sierra, particularly, Get to where they're carrying the same weight as us.
+
+🎤 SPEAKER_1 [219s - 221s]
+That makes it like a proper some ways.
+
+🎤 SPEAKER_0 [252s - 258s]
+Yeah. Whereas a lot of ours have not got that because maybe their men are slightly useless or they're not as Christian or do you know what I mean?
+
+🎤 SPEAKER_0 [260s - 263s]
+When you get everything from your husband, you kind of sort of
+
+🎤 SPEAKER_1 [264s - 264s]
+Yeah.
+
+🎤 SPEAKER_0 [266s - 267s]
+Why is s do love that?
+
+🎤 SPEAKER_1 [267s - 272s]
+No. He doesn't. It's the the bass is no. Listen. The bass is broken on it.
+
+👤 あなた [273s - 275s]
+I put are you still use it with it every night.
+
+🎤 SPEAKER_1 [275s - 278s]
+No. Rachel, made it called to a bin. He's got a lava lamper now.
+
+👤 あなた [279s - 283s]
+I I still use this only every night. I'm not ready to get rid of it.
+
+🎤 SPEAKER_1 [285s - 287s]
+It's broken, Rachel, and he doesn't like it. It's too bright.
+
+🎤 SPEAKER_2 [287s - 288s]
+He doesn't.
+
+🎤 SPEAKER_1 [289s - 302s]
+Babe, he doesn't like it. He's got a lava lamp. He's got a lamp. He's got a ridden lamp. That's probably enough. Let's be honest, Rich, mean, the the base is broken. It's top heavy. It keeps falling over, and it's it's fine. It's not.
+
+👤 あなた [303s - 308s]
+My I I can I just can I I've I've I'm not gonna look through everything else, but can we get with this just right straight away?
+
+🎤 SPEAKER_1 [308s - 309s]
+Yes. Yeah.
+
+👤 あなた [309s - 310s]
+I know you might feel a bit annoyed about that.
+
+🎤 SPEAKER_1 [310s - 318s]
+I am slightly a bit. I don't particularly need your micromanager It's it's it's broken, babes.
+
+👤 あなた [318s - 329s]
+I I plug it in, like, all the time. Use it all the time. It's good light. So when I do when it doesn't need, a full lamp, but it's not quite dark enough for the lava lamp, I find it just signals bedtime to him.
+
+🎤 SPEAKER_2 [331s - 331s]
+Okay.
+
+🎤 SPEAKER_1 [334s - 334s]
+Fine. It's fine.
+
+🎤 SPEAKER_2 [336s - 338s]
+I'm gonna plug back then.
+
+🎤 SPEAKER_1 [363s - 381s]
+Right. Anyway, Yeah. I'm quite pleased with the work I've done in here now. If I can do something like this, if I can do something like this in all the rooms over the holidays, Right. Come on. Let's go then.
+
+🎤 SPEAKER_1 [382s - 382s]
+Yeah.
+
+👤 あなた [383s - 385s]
+I'm gonna go and watch.
+
+🎤 SPEAKER_1 [392s - 394s]
+Well, I know that My Hoover upstairs quickly once I've done this, and then I'll be done.
+
+🎤 SPEAKER_2 [403s - 404s]
+No, bien, de verdad,
+
+🎤 SPEAKER_2 [413s - 414s]
+Yes.
+
+🎤 SPEAKER_1 [415s - 421s]
+Maybe you do need to watch that YouTube channel that Melinda was telling you about. No. To be honest folding experts, whatever.
+
+🎤 SPEAKER_0 [421s - 425s]
+For me, the the because the stickers are so big, the issue isn't space. It's waste.
+
+🎤 SPEAKER_1 [433s - 437s]
+Rich, is have to pack lighter than you'd probably you need to half what your plans are Probably.
+
+🎤 SPEAKER_4 [446s - 450s]
+Because if it's not that warm, I'll wear t shirts like this. If it is really warm, I'll wear straps.
+
+
+---
+
