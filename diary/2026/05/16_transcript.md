@@ -1353,3 +1353,89 @@ I'm joking. Why is the seven foot in me, but
 
 ---
 
+
+
+## 📝 Rachel Debates Shoe Fit - 714b9dde-1e59-40e4-b41a-fe07f817f313
+
+**記録時間**: 2026-05-16 20:15:41
+
+### STT生テキスト
+
+🎤 SPEAKER_0 [0s - 5s]
+So with the strap on or the strap on is they're too small, and they're a size nine they? Yeah. So we're just size ten. Yeah.
+
+🎤 SPEAKER_0 [59s - 59s]
+Because it yeah.
+
+🎤 SPEAKER_1 [59s - 61s]
+It's because it is. Yeah. It's sweating me.
+
+🎤 SPEAKER_1 [84s - 85s]
+Mike, you hear them at the bits?
+
+🎤 SPEAKER_0 [172s - 180s]
+Toast of you. On these because the lift begins. Probably if they fit you, they fit you. So let's get them. They're only Pepper.
+
+🎤 SPEAKER_0 [180s - 181s]
+If they're trying to write it, it was not perfect.
+
+🎤 SPEAKER_1 [181s - 182s]
+Is it? What's that red sticker, What's wrong with the It's allowed to touch yet.
+
+🎤 SPEAKER_0 [186s - 189s]
+My shoes touch it. My toes touch it. Your toes are
+
+🎤 SPEAKER_0 [192s - 200s]
+Right. Well, then we shouldn't get them today. We need to go get them from a different shop. Does that mean it it means that these ones in particular are no good for you.
+
+🎤 SPEAKER_0 [201s - 204s]
+Go to shoes open and get something there and they may be better for you.
+
+🎤 SPEAKER_1 [209s - 210s]
+I could try another I could try another Nothing.
+
+🎤 SPEAKER_0 [212s - 214s]
+I mind too much. We just need something to go into next week.
+
+🎤 SPEAKER_0 [263s - 275s]
+Alright. Just try them. I think they're the same. They're full. Yeah. Yeah. Don't don't let them see what the new other ones make you not like your current one. Okay? That's discontemporant.
+
+🎤 SPEAKER_0 [275s - 279s]
+But you wouldn't have known that they were heavy without seeing us trying to not Trust you, Drew.
+
+🎤 SPEAKER_1 [279s - 281s]
+The light of all is not bad thing.
+
+🎤 SPEAKER_0 [281s - 287s]
+That's not especially when you're playing. You you shouldn't really be be playing with a size five. Shouldn't play with a size four. Ain't it? No. No. No.
+
+🎤 SPEAKER_1 [290s - 293s]
+They look a bit more trendy to be honest. Than my ones.
+
+🎤 SPEAKER_0 [305s - 308s]
+He's like like wasn't.
+
+🎤 SPEAKER_1 [308s - 309s]
+Hey.
+
+🎤 SPEAKER_1 [313s - 408s]
+Not sure these ones are in the cell actually.
+
+🎤 SPEAKER_0 [409s - 428s]
+They are. They're just missing their label. Exactly the same as these.
+
+🎤 SPEAKER_1 [428s - 430s]
+Don't know. Yeah. But that one doesn't have a label either.
+
+🎤 SPEAKER_0 [430s - 431s]
+It does. It's here.
+
+🎤 SPEAKER_1 [431s - 433s]
+Just That's a different shoe that one. No.
+
+🎤 SPEAKER_0 [433s - 435s]
+It's it's not a different shoe. It's these these
+
+
+---
+
