@@ -881,3 +881,326 @@ Your
 
 ---
 
+
+
+## 📝 Rachel Shops For Family Holiday Items - 8d260b67-91b7-4552-9fea-59107ecea9c5
+
+**記録時間**: 2026-05-16 19:51:13
+
+### STT生テキスト
+
+🎤 SPEAKER_1 [0s - 26s]
+Uma aflição de Gerizão to glorify god?
+
+🎤 SPEAKER_1 [67s - 67s]
+To is where we're going.
+
+🎤 SPEAKER_0 [68s - 73s]
+Starting with sports direct. For everyone for whatever things we made this holiday.
+
+🎤 SPEAKER_2 [76s - 77s]
+Okay?
+
+🎤 SPEAKER_0 [80s - 86s]
+We're gonna work our way along. We're gonna have a nice fun family lunch.
+
+🎤 SPEAKER_0 [91s - 93s]
+I think one the tapas options is calamari, that's
+
+🎤 SPEAKER_2 [93s - 94s]
+Mhmm.
+
+🎤 SPEAKER_0 [94s - 95s]
+And the boys loved calamari before.
+
+🎤 SPEAKER_2 [95s - 96s]
+Did they?
+
+🎤 SPEAKER_0 [96s - 106s]
+Do you fancy some calamari today, boys? Two? They're the little like onion rings, but they're not. Jude loved them before when we went somewhere else.
+
+🎤 SPEAKER_0 [110s - 112s]
+You you you are pretty good with some foods.
+
+🎤 SPEAKER_2 [114s - 115s]
+Yeah.
+
+🎤 SPEAKER_0 [115s - 119s]
+Judy just likes to make his own decision for I'd get that one. Way.
+
+🎤 SPEAKER_0 [125s - 126s]
+Babe, just there's loads of faces there.
+
+🎤 SPEAKER_2 [126s - 127s]
+Just go right and then go there.
+
+🎤 SPEAKER_0 [158s - 159s]
+Like a little ball or something.
+
+🎤 SPEAKER_1 [159s - 162s]
+What's Padang then, Mitchell? What's Padum?
+
+🎤 SPEAKER_0 [162s - 163s]
+I don't know. What is
+
+🎤 SPEAKER_2 [163s - 164s]
+Paddan?
+
+🎤 SPEAKER_0 [165s - 165s]
+Is it?
+
+🎤 SPEAKER_0 [165s - 171s]
+Oh, paddle, but it's a paddle. It's the new it's the new paddle game. What's it called?
+
+🎤 SPEAKER_1 [172s - 174s]
+Alright. It's a New paddles. Yeah.
+
+🎤 SPEAKER_0 [174s - 176s]
+Something that again Paddleback thing.
+
+🎤 SPEAKER_1 [178s - 181s]
+Well, has everyone gone why are you just chatting away in all this suddenly, the more driving?
+
+🎤 SPEAKER_0 [182s - 194s]
+You and Oh, I was actually I had a variety of things going on. They're asking about Eurovision. And I was just like, oh, it's just like just not great for boys this year, so we put it over there with them.
+
+🎤 SPEAKER_2 [194s - 197s]
+But Eurovision. I wanna watch Eurovision.
+
+🎤 SPEAKER_1 [200s - 202s]
+Right. Come on, and let's go in and do some shopping then. Eurovision?
+
+🎤 SPEAKER_2 [229s - 230s]
+Pink.
+
+🎤 SPEAKER_1 [231s - 233s]
+Would you do you know that? Was it Boy of You Quip?
+
+🎤 SPEAKER_0 [234s - 239s]
+Like two years ago?
+
+🎤 SPEAKER_2 [241s - 244s]
+He changed his name to short his name is Charlie Lang, but I can't he changed his name to Come on, let's go, Grace.
+
+🎤 SPEAKER_1 [246s - 248s]
+Do we need jackets now? Where'd be your work for me?
+
+🎤 SPEAKER_2 [251s - 251s]
+Out.
+
+🎤 SPEAKER_0 [255s - 255s]
+He's called Wait.
+
+🎤 SPEAKER_0 [269s - 300s]
+What Can you do it like that? Cool. It's a like that. Okay? We told to frost it. But don't don't try it. Don't try it.
+
+🎤 SPEAKER_2 [301s - 301s]
+I don't have a
+
+🎤 SPEAKER_0 [302s - 302s]
+No.
+
+🎤 SPEAKER_3 [302s - 302s]
+No.
+
+🎤 SPEAKER_1 [302s - 305s]
+But You need to install for We have a seat. Oh, no. No. You can't, Rich.
+
+🎤 SPEAKER_1 [314s - 315s]
+So Hooray.
+
+🎤 SPEAKER_0 [315s - 318s]
+Well, what well, if we've got space in the suitcase, we'd be good for that. Okay?
+
+🎤 SPEAKER_2 [318s - 321s]
+Why can't I just Be in, Abby.
+
+🎤 SPEAKER_0 [331s - 336s]
+I like. You might have bought it in your money, No. No, man.
+
+🎤 SPEAKER_0 [341s - 346s]
+What are you gonna oh, you got a bumbag. I'm like, oh, bumbag in here. Course. I know you're saying that. Right. Here we go. This is for you.
+
+🎤 SPEAKER_1 [347s - 348s]
+For me, is it?
+
+🎤 SPEAKER_3 [348s - 348s]
+Yeah.
+
+🎤 SPEAKER_0 [355s - 356s]
+So Elliot, can you just have a look Two for thirty.
+
+🎤 SPEAKER_1 [357s - 360s]
+230, Rachel, if anyone else needs a pen.
+
+🎤 SPEAKER_0 [368s - 371s]
+Not spending £30. We don't need two in the plan.
+
+🎤 SPEAKER_1 [372s - 373s]
+Alright.
+
+🎤 SPEAKER_0 [373s - 376s]
+Look. You don't need, like, really expensive ones. You seem to be No.
+
+🎤 SPEAKER_1 [376s - 378s]
+You're looking at carbon claim beds.
+
+🎤 SPEAKER_0 [392s - 393s]
+Sometimes they have Where's the Everblast Everblast
+
+🎤 SPEAKER_2 [414s - 414s]
+Polimy.
+
+🎤 SPEAKER_1 [426s - 429s]
+So, actually, these are these are 18 pounds, these ones.
+
+🎤 SPEAKER_1 [440s - 442s]
+No. These are these are 18 pounds, Rachel.
+
+🎤 SPEAKER_0 [444s - 445s]
+Those.
+
+🎤 SPEAKER_2 [445s - 446s]
+Oh, they look uncomfortable.
+
+🎤 SPEAKER_1 [446s - 447s]
+I know. I thinking that.
+
+🎤 SPEAKER_0 [447s - 449s]
+Oh, they Loosen and tighten. They're 18. Yeah.
+
+🎤 SPEAKER_1 [450s - 453s]
+It's expensive. Yeah. Why don't I just get to my line for you?
+
+🎤 SPEAKER_2 [455s - 456s]
+Can't afford 18 pounds right now. Have
+
+🎤 SPEAKER_0 [456s - 458s]
+ever what? Just try them on for a second so you can shoot.
+
+🎤 SPEAKER_1 [475s - 477s]
+I'm not sure what the spike thing's all about. It meant to be like Yeah.
+
+🎤 SPEAKER_0 [477s - 483s]
+I don't know. So that you're not seeing water. I I don't think you'll like that. Think you'll want more Love this.
+
+🎤 SPEAKER_0 [486s - 521s]
+This. So Elliot's a size eight.
+
+🎤 SPEAKER_0 [525s - 531s]
+I I completely forgot that we were going away. We can't realize how close it was.
+
+🎤 SPEAKER_1 [532s - 534s]
+Yeah. It's just snack watch.
+
+🎤 SPEAKER_2 [541s - 542s]
+Bye.
+
+🎤 SPEAKER_0 [542s - 544s]
+Because they might ask me to speak English.
+
+🎤 SPEAKER_1 [557s - 562s]
+How'd you know the Chevy song at it? When when you listen to music like this?
+
+🎤 SPEAKER_0 [562s - 563s]
+I mean I mean, I'm a I do listen to video every day.
+
+🎤 SPEAKER_2 [564s - 564s]
+When?
+
+🎤 SPEAKER_1 [566s - 568s]
+Oh, I see. Oh, he puts the radio on, does he?
+
+🎤 SPEAKER_0 [568s - 571s]
+Elliot's school shoes. Can you go find I'm for
+
+🎤 SPEAKER_0 [603s - 605s]
+I know about 24 songs.
+
+🎤 SPEAKER_1 [605s - 608s]
+Yeah. Mum's that's cool.
+
+🎤 SPEAKER_2 [646s - 647s]
+Sorry. Know.
+
+🎤 SPEAKER_1 [650s - 651s]
+Now you go do the fingers together.
+
+🎤 SPEAKER_0 [654s - 655s]
+Great.
+
+🎤 SPEAKER_2 [655s - 656s]
+Why do you have to do that?
+
+🎤 SPEAKER_1 [656s - 661s]
+Well, everyone's got trains on these. Well, I guess we could get you these if you want something like this. Gone charm on them. Oh, these.
+
+🎤 SPEAKER_0 [661s - 663s]
+Everyone's got these but a smaller size.
+
+🎤 SPEAKER_1 [663s - 665s]
+Nike is. Yeah. For a £114.
+
+🎤 SPEAKER_2 [665s - 665s]
+No.
+
+🎤 SPEAKER_0 [671s - 672s]
+The Nike in the air Do you know what my favorite shoes are right here?
+
+🎤 SPEAKER_2 [673s - 674s]
+What? I'll show you now.
+
+🎤 SPEAKER_1 [674s - 675s]
+Why energy?
+
+🎤 SPEAKER_1 [687s - 688s]
+Clean.
+
+🎤 SPEAKER_2 [690s - 690s]
+Yeah.
+
+🎤 SPEAKER_1 [691s - 696s]
+Yeah. Yeah. I can see. If it was me, I'd probably I'll lose two. I'd probably pick these.
+
+🎤 SPEAKER_2 [697s - 698s]
+Yeah.
+
+🎤 SPEAKER_0 [698s - 698s]
+I like the tip.
+
+🎤 SPEAKER_1 [698s - 705s]
+We gotta go back the right way around as well, Judge. The white's clean though. The white the white is clean. It's your daddy's favorite, so if you have to pick one.
+
+🎤 SPEAKER_1 [706s - 707s]
+Yes. We'll just do.
+
+🎤 SPEAKER_1 [719s - 720s]
+Probably these. Probably these, G.
+
+🎤 SPEAKER_4 [724s - 725s]
+Oh, speed.
+
+🎤 SPEAKER_2 [725s - 729s]
+Shoes. Who? Sure speed. Does he? Yeah. Do you know know your eyes are speed?
+
+🎤 SPEAKER_1 [729s - 738s]
+I've never seen anything quite man like this. This is just Do you know who I show speed is? £80 for that. I show Of course, I do. Yeah.
+
+🎤 SPEAKER_1 [739s - 752s]
+You've been on double double e a few times, you? Good. Yeah. Yeah. Good, man. Yeah. Thanks. School shoes and oh, yeah. The only thing is, have you got any, like, ever ever last ever last what they're called?
+
+🎤 SPEAKER_1 [753s - 756s]
+Sliders? The only sliders you got just there is essential.
+
+🎤 SPEAKER_2 [756s - 761s]
+We do have the we do them. In the middle of the door. Oh, yeah. Go over there.
+
+🎤 SPEAKER_1 [761s - 762s]
+Yeah. As well as cases.
+
+🎤 SPEAKER_0 [770s - 771s]
+I thought that. I thought, oh, they I
+
+
+---
+
